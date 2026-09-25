@@ -1,0 +1,587 @@
+[
+  {
+    "id": "jpaudit77-001",
+    "title": "“琉璃城”杀人事件",
+    "originalTitle": "",
+    "author": "北山猛邦",
+    "authorEn": "Kitayama Takekuni",
+    "genre": "新本格",
+    "firstPublished": "",
+    "series": "「城」系列",
+    "detective": "无固定侦探（双时空）",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "dual-line",
+      "red-herring",
+      "multiple-solutions",
+      "locked-room",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "琉璃城里守护城主独生女的六名骑士一夜之间全部失踪，随后在远处的湖泊里被发现，已成六具无头尸体；另一个时代的一战战壕里，也出现了四具无头尸体的消失事件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 1783,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4246534/",
+        "subjectId": "4246534",
+        "edition": "“琉璃城”杀人事件 2010",
+        "fetchedAt": "2026-09-22T16:12:30.731Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北山猛邦的读者",
+        "喜欢设定系与物理诡计的读者"
+      ],
+      "watchFor": [
+        "两起事件在时间上的对应关系",
+        "城的结构与通路",
+        "被反复提起的那个词"
+      ],
+      "warning": "设定系本格长篇，「城」系列第二作，含无头尸体等凶案描写；该卷为中文编选系列中的一册，豆瓣未给出原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4246534）；梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpaudit77-002",
+    "title": "犯罪十二宫Ⅰ",
+    "originalTitle": "",
+    "author": "法月纶太郎",
+    "authorEn": "Norizuki Rintaro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "犯罪十二宫系列",
+    "detective": "法月纶太郎（作者同名侦探）",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "multiple-solutions",
+      "meta-fiction",
+      "narrative-trick",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "以「破罗僧」虻原悟留下的两首俳句开篇，说若想知道他的真意，可以去问六位女王。以十二宫为题的短篇系列第一部。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 410,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5288324/",
+        "subjectId": "5288324",
+        "edition": "犯罪十二宫Ⅰ 2010",
+        "fetchedAt": "2026-09-22T16:12:33.979Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法月纶太郎的读者",
+        "喜欢读者挑战式本格的读者"
+      ],
+      "watchFor": [
+        "那两首俳句里的字面信息",
+        "「六位女王」指的是谁",
+        "线索是否已经全部给出"
+      ],
+      "warning": "本格短篇系列第一部，含凶案描写；该卷为中文编选系列中的一册，豆瓣未给出原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5288324）；梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpaudit77-003",
+    "title": "日本推理名作选：浜尾四郎（卷二）",
+    "originalTitle": "",
+    "author": "浜尾四郎",
+    "authorEn": "Hamao Shiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "检察官藤枝真太郎",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "ensemble",
+      "gain",
+      "multiple-solutions",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "秋川制纸公司的家族成员相继遭到谋杀，长女前来向检察官藤枝真太郎求助。调查发现，这个家族的成员各自都有一段不堪的恩怨与隐情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 152,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3801644/",
+        "subjectId": "3801644",
+        "edition": "日本推理名作选：浜尾四郎（卷二） 2009年7月",
+        "fetchedAt": "2026-09-22T16:12:37.347Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法律型推理的读者",
+        "浜尾四郎的读者"
+      ],
+      "watchFor": [
+        "家族成员各自的隐情",
+        "遗产与股权的归属",
+        "检察官与律师各自的立场"
+      ],
+      "warning": "战前法律型推理长篇，含凶案与家族恩怨描写。本库另收有同系列的《浜尾四郎（卷一）》；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3801644）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 浜尾四郎 卷二」／浜尾四郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit77-004",
+    "title": "黑色记事本",
+    "originalTitle": "",
+    "author": "久生十兰",
+    "authorEn": "Hisao Juran",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "obsession",
+      "gain",
+      "dark-atmosphere",
+      "first-person",
+      "diary-form"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "用摩纳哥皮做封面的黑色记事本静静躺在桌上，里面记载着一个男人大胆研究的全部内容。这本记事本该为他带来庞大的财富，而他却在前天倒在了石子路上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 16,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3276985/",
+        "subjectId": "3276985",
+        "edition": "黑色記事本 2008年11月14日",
+        "fetchedAt": "2026-09-22T16:12:43.148Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "久生十兰的读者",
+        "喜欢文风诡奇、结构精巧的短篇的读者"
+      ],
+      "watchFor": [
+        "记事本里的研究与它的主人",
+        "谁读过这本记事本",
+        "叙事在第几人称之间怎么切换"
+      ],
+      "warning": "战前变格派中短篇，含凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5367293，经条目标题二次核对确认归属久生十兰）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「黑色记事本」／久生十兰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit77-005",
+    "title": "魔都",
+    "originalTitle": "",
+    "author": "久生十兰",
+    "authorEn": "Hisao Juran",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "city",
+      "ensemble",
+      "social-commentary",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "方圆八里的大都市里，数百万种生活互相推挤。真正进到大众耳目的犯罪不过千分之一，其余的诡计与惨剧，都在人们不知不觉中开始，又不知不觉中结束。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": null,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书",
+        "sourceUrl": null,
+        "subjectId": null,
+        "edition": null,
+        "fetchedAt": null,
+        "asOf": null,
+        "note": "豆瓣上有另一本同名书《魔都》（村松梢风，原作 SHANGHAI，上海人民出版社 2018，7.2 分 / 465 人）。那条评分与本条无关，已核对作者后弃用，不作数。"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "久生十兰的读者",
+        "喜欢都市群像与犯罪题材的读者"
+      ],
+      "watchFor": [
+        "几桩案子之间是否有关联",
+        "叙述者站在什么位置",
+        "这座城市本身的写法"
+      ],
+      "warning": "犯罪题材长篇，含凶案与都市阴暗面描写。注意区分：本库另有同名书《魔都》（村松梢风），那是上海的旅行记，与本条无关；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5367295，按 subject id 直取以避开同名书误配）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「魔都」／久生十兰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit77-006",
+    "title": "地底兽国",
+    "originalTitle": "",
+    "author": "久生十兰",
+    "authorEn": "Hisao Juran",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（调查队视角）",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "concealment",
+      "fear",
+      "ensemble",
+      "legend-folklore",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "一九三八年，一支调查队回到莫斯科，把成果出版成一份调查报告。印制成册的隔日它便被勒令禁止发行，原稿与成书尽数焚毁，残存资料被封进图书馆的「危险书籍书库」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 163,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5387461/",
+        "subjectId": "5387461",
+        "edition": "地底兽国 2010",
+        "fetchedAt": "2026-09-22T16:12:50.999Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "久生十兰的读者",
+        "喜欢冒险与秘境题材的读者"
+      ],
+      "watchFor": [
+        "那份报告调查的是什么",
+        "残存资料是怎么流出来的",
+        "叙述者从谁口中听来这件事"
+      ],
+      "warning": "冒险悬疑长篇，基调偏奇幻，含秘境与政治背景描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5387461，按 subject id 直取以避开同名书误配）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「地底兽国」／久生十兰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit77-007",
+    "title": "十字街",
+    "originalTitle": "",
+    "author": "久生十兰",
+    "authorEn": "Hisao Juran",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（佐竹视角）",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "social-commentary",
+      "dark-atmosphere",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "adventure-school"
+    ],
+    "safeSummary": "佐竹站在巴黎的协和广场上，想起法国大革命里流过的血。在他眼里，这座被誉为全世界最美的十字街道，只是一处记录革命与人类斗争的遗址。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "久生十兰的读者",
+        "喜欢异国舞台与历史氛围的读者"
+      ],
+      "watchFor": [
+        "佐竹为什么在巴黎",
+        "广场上即将发生什么",
+        "历史与当下在文中怎么并置"
+      ],
+      "warning": "犯罪悬疑长篇，舞台在巴黎，含革命史与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5367292，按 subject id 直取以避开同名书误配）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「十字街」／久生十兰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-77-jp-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  }
+]

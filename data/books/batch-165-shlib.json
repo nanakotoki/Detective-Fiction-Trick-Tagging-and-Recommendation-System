@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "shlib165-001",
+    "title": "小村里的吸血鬼",
+    "originalTitle": "The Incredulity of Father Brown",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "editionYear": "2014",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "legend-folklore",
+      "vanished-weapon",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "布朗神父这一集里遇上「小村里的吸血鬼」等九桩怪事，答案往往落在一处被忽略的常识上。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布朗神父系列的读者",
+        "古典短篇推理的读者"
+      ],
+      "watchFor": [
+        "每篇里被当成「超自然」的那一处",
+        "神父为何总从常识入手"
+      ],
+      "warning": "古典短篇推理集（九篇），含命案与怪谈式谜面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出本册九篇篇名，与 *The Incredulity of Father Brown* 的篇目一致，据此认定原题名。**系列归并**：与库内《布朗神父探案集》(*The Innocence*)、《布朗神父的智慧》(*The Wisdom*) 同系列；**注意**：本馆另出《花园谜案》《盗贼的乐园》两册，实为上述两部的中译异名，**已核对后不收**。**年份字段说明**：`firstPublished` 记 1926；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-002",
+    "title": "金十字架的诅咒",
+    "originalTitle": "The Secret of Father Brown",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1927",
+    "editionYear": "2014",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "cipher",
+      "legend-folklore",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「金十字架的诅咒」「狗的神谕」「带羽翅的匕首」等八篇：看似应验的诅咒，实则是被人安排过的场面。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布朗神父系列的读者",
+        "喜欢「诅咒与传说」外壳的读者"
+      ],
+      "watchFor": [
+        "诅咒应验的机制",
+        "布朗神父对人心与常识的运用"
+      ],
+      "warning": "古典短篇推理集（八篇），含命案与传说母题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出八篇篇名，与 *The Secret of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1927；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-003",
+    "title": "梅鲁神山的红月亮",
+    "originalTitle": "The Scandal of Father Brown",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1935",
+    "editionYear": "2014",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "alibi",
+      "concealment",
+      "legend-folklore",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "最后一集：演员与不在场证明、失踪的爵士、梅鲁神山上的红月亮等十篇，布朗神父照旧见招拆招。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布朗神父系列的读者",
+        "想读完整该系列的读者"
+      ],
+      "watchFor": [
+        "不在场证明是怎么被拆掉的",
+        "本集与前几集的笔法差异"
+      ],
+      "warning": "古典短篇推理集（十篇），为布朗神父系列最后一集，含命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出十篇篇名，与 *The Scandal of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1935；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-004",
+    "title": "奇谭贩卖店",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Taku Ashibe",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "奇谭贩卖店系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "每次走进那家旧书店，「我」都会买上一本书再离开；自从踏进这家店，便坠入了某种奇谭之中。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "芦边拓的读者",
+        "喜欢短篇连作与书物题材的读者"
+      ],
+      "watchFor": [
+        "每篇与「书」的关系",
+        "「奇谭」的规则"
+      ],
+      "warning": "幻想色彩的短篇连作（系列三部之一），含怪奇与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：芦边拓著，台海出版社 2024。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要说明本套书共三部、每部收录以书名为主题的短篇。**同套说明**：本册与《乐谱与旅行的男人》《叔叔的旅行箱：幻灯小剧场》为同一套书的三册（馆藏共用 ISBN），分别登记。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-005",
+    "title": "乐谱与旅行的男人",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Taku Ashibe",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "奇谭贩卖店系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "cipher",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "同套三册之一：以书名为题的短篇连作，围绕乐谱与一位旅行的男人展开奇谭。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "芦边拓的读者",
+        "读了《奇谭贩卖店》继续的读者"
+      ],
+      "watchFor": [
+        "乐谱在故事里的作用",
+        "三册之间的呼应"
+      ],
+      "warning": "幻想色彩的短篇连作（系列三部之二），含怪奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：芦边拓著，台海出版社 2024。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要说明本套书共三部。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-006",
+    "title": "叔叔的旅行箱：幻灯小剧场",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Taku Ashibe",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "奇谭贩卖店系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "diary-form",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "同套三册之一：以「叔叔的旅行箱」与幻灯小剧场为题，收若干彼此牵连的奇谭短篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "芦边拓的读者",
+        "喜欢「书中书」结构的读者"
+      ],
+      "watchFor": [
+        "旅行箱里装的是什么",
+        "短篇之间如何勾连"
+      ],
+      "warning": "幻想色彩的短篇连作（系列三部之三），含怪奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：芦边拓著，台海出版社 2024。馆藏题名为「叔叔的旅行箱 幻灯小剧场」，本条按本库体例写作「叔叔的旅行箱：幻灯小剧场」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要说明本套书共三部。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-007",
+    "title": "谋杀喜剧之13人",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Taku Ashibe",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "森江春策系列",
+    "detective": "森江春策",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "ensemble",
+      "multiple-solutions",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "京都大学同人杂志社的成员合住在废医院改建的宿舍里；某日清晨，一名成员被发现死在屋中。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像案的读者",
+        "本格推理的读者"
+      ],
+      "watchFor": [
+        "同住者各自的写作与诡计",
+        "死者在社刊里的位置"
+      ],
+      "warning": "本格推理小说，含连续命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：芦边拓著，文化发展出版社 2021。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出住所、社刊与首名死者。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2021。**同作者补缺**：库内已有《红楼梦杀人事件》《蒸汽歌剧》《隐身的复仇者》。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-008",
+    "title": "大木偶城",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Taku Ashibe",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "森江春策系列",
+    "detective": "森江春策",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "meta-fiction",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "古堡的现任主人要把整座「大木偶城」搬到美国，搬迁前邀来十余人做客；此后堡内案件接连发生。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森江春策系列的读者",
+        "喜欢「侦探小说里的侦探小说」的读者"
+      ],
+      "watchFor": [
+        "列车上那桩案子的临终托付",
+        "与本书同名的侦探小说"
+      ],
+      "warning": "本格推理小说，含连续命案与后设趣味。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：芦边拓著，江苏凤凰文艺出版社 2026。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出搬迁、连续案件与同名小说三条线。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-009",
+    "title": "少年检阅官",
+    "originalTitle": "",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "concealment",
+      "youth",
+      "city"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "在一个没有书的世界里，一名英国少年渴望读书，立志成为推理作家，并帮闭塞的小镇解开「侦探」之谜。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北山猛邦的读者",
+        "喜欢「没有书的世界」这类设定的读者"
+      ],
+      "watchFor": [
+        "这个世界的书籍禁令",
+        "少年一路上遇到的人"
+      ],
+      "warning": "带反乌托邦设定的推理小说，涉及书籍查禁与命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：北山猛邦著，新星出版社 2020。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出世界设定与主角目标。**同批检查**：该馆另有 2010 年吉林版《琉璃城杀人事件》《「钟诚」杀人事件》《「断头台城」杀人事件》，三者与库内《「琉璃城」杀人事件》《钟城杀人事件》《断头台城杀人事件》为**同一批作品的不同版次／题名写法**，**均已核对后不收**。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-010",
+    "title": "6月31日的同学会",
+    "originalTitle": "",
+    "author": "真梨幸子",
+    "authorEn": "Yukiko Mari",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "nursery-rhyme",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "名校有一项叫「六月三十一日同学会」的传统——一个不存在的日期；收到邀请函的毕业生接连死去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真梨幸子的读者",
+        "喜欢校园旧事题材的读者"
+      ],
+      "watchFor": [
+        "死亡顺序与当年话剧的对应",
+        "邀请函是谁发出的"
+      ],
+      "warning": "悬疑小说，涉及连续死亡与校园旧事，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：真梨幸子著，台海出版社 2022。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出「同学会」传统与死亡顺序。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2022。**同作者补缺**：库内已有《杀人鬼藤子》《不要阻挡我》。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-011",
+    "title": "鹦鹉楼谜案",
+    "originalTitle": "",
+    "author": "真梨幸子",
+    "authorEn": "Yukiko Mari",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "obsession",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "1962 年，东京「鹦鹉楼」发生一起凶杀案，真相随时间沉没；1991 年，同一地块上立起高级公寓。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真梨幸子的读者",
+        "喜欢双时间线悬疑的读者"
+      ],
+      "watchFor": [
+        "两个年代之间的对应关系",
+        "小说家恐惧的来源"
+      ],
+      "warning": "悬疑小说，含命案与家庭题材的阴暗描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：真梨幸子著，台海出版社 2023。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出 1962 与 1991 两条时间线。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-012",
+    "title": "人生相谈",
+    "originalTitle": "",
+    "author": "真梨幸子",
+    "authorEn": "Yukiko Mari",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "diary-form",
+      "concealment",
+      "social-commentary",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "父亲留下的房子里突然住进一家陌生人；与此同时，一封寄给报社「万能咨询室」的求助信引出了连锁悲剧。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真梨幸子的读者",
+        "喜欢书信／投稿体叙事的读者"
+      ],
+      "watchFor": [
+        "回信为何引发悲剧",
+        "投稿与主线的关系"
+      ],
+      "warning": "悬疑小说，涉及家庭纠纷与死亡事件。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：真梨幸子著，台海出版社 2024。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出住房纠纷与咨询栏两条线。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-013",
+    "title": "当我的人生一帆风顺时",
+    "originalTitle": "",
+    "author": "真梨幸子",
+    "authorEn": "Yukiko Mari",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "social-commentary",
+      "psychological-misdirection",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "落合美绪一直盼着「仅此一次的人生不要失败」；某天她得知同事因涉嫌杀害邻居一家四口被捕。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真梨幸子的读者",
+        "喜欢群像式阴暗故事的读者"
+      ],
+      "watchFor": [
+        "美绪心理变化的过程",
+        "各人「失败」的原因"
+      ],
+      "warning": "悬疑小说，含灭门命案与阴暗心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：真梨幸子著，台海出版社 2025。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出主角愿望与命案。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-014",
+    "title": "狄仁杰之铁尸迷案",
+    "originalTitle": "",
+    "author": "轩胖儿",
+    "authorEn": "",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "狄仁杰",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "faceless-corpse",
+      "concealment",
+      "social-commentary"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "693 年狄仁杰遭诬入狱、几经艰险脱困后被贬彭泽；小小的彭泽并不平静，数名官吏离奇死亡。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "狄仁杰题材的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "二十一起碎头悬案的联系",
+        "张家大宅的来历"
+      ],
+      "warning": "历史推理小说，含命案与酷吏政治描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：轩胖儿著，辽宁人民出版社 2021。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I247.56`**；③馆藏 CNMARC 提要给出贬谪彭泽与连环案件。**系列说明**：馆藏该条未标丛编，故记「非系列」；库内另有该作者「狄仁杰地支传奇系列」等 4 部，**未擅自归并**。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-015",
+    "title": "狄仁杰之绝地旱魃",
+    "originalTitle": "",
+    "author": "轩胖儿",
+    "authorEn": "",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "狄仁杰",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "legend-folklore",
+      "concealment",
+      "social-commentary"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "武则天称帝时，狄仁杰到魏州任刺史，遇上百年不遇的大旱；原刺史离奇死亡，民间传说是旱魃作祟。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "狄仁杰题材的读者",
+        "喜欢「传说与真相」对照的读者"
+      ],
+      "watchFor": [
+        "旱魃传说的来路",
+        "前任刺史之死"
+      ],
+      "warning": "历史推理小说，含命案与灾荒描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：轩胖儿著，辽宁人民出版社 2020。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I247.5`**（分类号偏大类，**题材判据以主题词为准**）；③馆藏 CNMARC 提要给出旱灾、前任刺史之死与旱魃传说。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-016",
+    "title": "裂变",
+    "originalTitle": "",
+    "author": "轩胖儿",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "刘天昊系列",
+    "detective": "刘天昊",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "identity",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school"
+    ],
+    "safeSummary": "首富之子被绑架，案子从一开始就走了样；随后又有律师、法官、企业高管等人相继失踪，警方顺线查到五年前的一桩旧案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本土刑侦悬疑的读者",
+        "喜欢多起失踪案交织的读者"
+      ],
+      "watchFor": [
+        "五年前那桩更离奇的案子",
+        "失踪者之间的共同点"
+      ],
+      "warning": "犯罪悬疑小说，含绑架与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：轩胖儿著，辽宁人民出版社 2022。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I247.56`**；③馆藏 CNMARC 提要给出假绑架弄假成真与后续失踪案。**同批检查**：该馆另有 2026 年《重生》，提要与本条**逐句相同**（同为蒋天一被绑一案），判为同书异名／新版，**不收**。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-017",
+    "title": "不白之冤",
+    "originalTitle": "",
+    "author": "轩胖儿",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "刘天昊系列",
+    "detective": "刘天昊",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "concealment",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school"
+    ],
+    "safeSummary": "刘天昊成了当地警界第一个上 A 级通缉令的警察；奉命追捕他的神探齐维屡次失手，两人以命相搏。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读完《裂变》继续的读者",
+        "喜欢追逃题材的读者"
+      ],
+      "watchFor": [
+        "现场线索为何都指向刘天昊",
+        "真凶背后的人"
+      ],
+      "warning": "犯罪悬疑小说，含命案与追捕描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：轩胖儿著，辽宁人民出版社 2026。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I247.56`**；③馆藏 CNMARC 提要给出通缉、追捕与陷害三条线。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-018",
+    "title": "一长串的死者",
+    "originalTitle": "A Long Line of Dead Men",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "1994",
+    "editionYear": "2018",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个由三十一名男子组成的俱乐部每年聚会一次、宣读当年过世的成员；如今名单上只剩一个人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "硬汉派读者"
+      ],
+      "watchFor": [
+        "历年死者名单的规律",
+        "俱乐部的成员规则"
+      ],
+      "warning": "硬汉派推理小说，含命案与酗酒情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：劳伦斯·布洛克著，上海译文出版社 2018。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I712.45`**；③馆藏 CNMARC 提要给出俱乐部规则与死者名单。**系列归并**：与库内《八百万种死法》《酒店关门之后》等同属「马修·斯卡德系列」。**年份字段说明**：`firstPublished` 记 1994（英文原版年）；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-019",
+    "title": "向邪恶追索",
+    "originalTitle": "",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "vigilante",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school"
+    ],
+    "safeSummary": "自称「人民的意志」的人先给报社专栏写信，再对社会上几个法律制裁不了的恶棍动手。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "喜欢「私刑者」题材的读者"
+      ],
+      "watchFor": [
+        "写信人的身份",
+        "斯卡德这次受谁之托"
+      ],
+      "warning": "硬汉派推理小说，涉及私刑、暴力与命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：劳伦斯·布洛克著，四川人民出版社 2018。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I712.45`**；③馆藏 CNMARC 提要给出「人民的意志」这一私刑者设定。**年份字段说明**：`firstPublished` **留空**（馆藏未给英文原版年）；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-020",
+    "title": "漫步死亡之地",
+    "originalTitle": "",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "city",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "毒枭的妻子遭绑架，赎金只换回碎尸；斯卡德咬住每一丝微小的可能排查，手上只有七通无来电显示的电话。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "能接受冷硬笔调的读者"
+      ],
+      "watchFor": [
+        "七通电话之间的规律",
+        "绑匪与受害者的关系"
+      ],
+      "warning": "硬汉派推理小说，含绑架、碎尸等血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：劳伦斯·布洛克著，江苏凤凰文艺出版社 2023。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I712.45`**；③馆藏 CNMARC 提要给出绑架与七通电话这条线索。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-021",
+    "title": "高校入试",
+    "originalTitle": "",
+    "author": "凑佳苗",
+    "authorEn": "Kanae Minato",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "ensemble",
+      "concealment",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "名校入学考临近，师生如临大敌；网络那端却出现了「搞垮入学考」的讨论，坏消息接连而至。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "凑佳苗的读者",
+        "校园题材悬疑的读者"
+      ],
+      "watchFor": [
+        "考题外泄的路径",
+        "匿名留言背后的人"
+      ],
+      "warning": "校园悬疑小说，涉及考试舞弊与家庭压力。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：凑佳苗著，化学工业出版社 2016。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出 BBS 讨论与接连发生的破坏事件。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2016。**同作者补缺**：库内已有 12 部；本轮另**更正**了库内《伪装闺蜜》的题名（见台账），该馆同书著录作《伪装闺密》。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-022",
+    "title": "夜行摩天轮",
+    "originalTitle": "",
+    "author": "凑佳苗",
+    "authorEn": "Kanae Minato",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "高级住宅区发生命案：男主人被害、女主人被控杀夫，儿子在案发后下落不明。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "凑佳苗的读者",
+        "喜欢「家庭内部」题材的读者"
+      ],
+      "watchFor": [
+        "邻居们的告白各自隐瞒了什么",
+        "看似幸福的家庭如何走到这一步"
+      ],
+      "warning": "社会派悬疑小说，涉及命案与家庭暴力。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：凑佳苗著，四川文艺出版社 2020。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出命案与家属、邻居的多方告白。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-023",
+    "title": "C弦上的咏叹调",
+    "originalTitle": "",
+    "author": "凑佳苗",
+    "authorEn": "Kanae Minato",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "dual-line"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "美佐回到多年未归的姑姑家，发现房子已成了垃圾场；打扫时找到一只保险箱，里面藏着姑姑瞒了全家的秘密。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "凑佳苗的读者",
+        "喜欢家族秘密题材的读者"
+      ],
+      "watchFor": [
+        "保险箱里的东西",
+        "姑姑为何把家变成这样"
+      ],
+      "warning": "悬疑小说，涉及家庭秘密与死亡事件。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：凑佳苗著，浙江人民出版社 2025。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出保险箱与隐藏多年的秘密。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-024",
+    "title": "名侦探的咒缚",
+    "originalTitle": "名探偵の呪縛",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "editionYear": "2026",
+    "series": "天下一大五郎系列",
+    "detective": "天下一大五郎",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "locked-room",
+      "multiple-solutions",
+      "series-detective"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名推理小说家意外来到另一个世界，成了名侦探「天下一」；这里没有本格推理小说，死亡却按本格的套路发生。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢后设推理的读者"
+      ],
+      "watchFor": [
+        "这个世界为何没有本格推理",
+        "每起死亡用的是哪种老套路"
+      ],
+      "warning": "后设风格的本格推理小说，含连续命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，南海出版公司 2026，丛编「新经典文库」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏 CNMARC 提要给出「没有本格推理小说的世界」这一设定。**同批检查**：该馆另有《孤岛凶案》（提要含「十一个字的杀人预告」，即库内《十一字杀人》）与《人偶游戏》（提要主角雨村慎介，即库内《濒死之眼》），二者**均为同书异名，已核对后不收**；《同级生》的馆藏提要与本条不符（内容为魔术，疑为编目张冠李戴），**证据不足，不收**。**年份字段说明**：`firstPublished` 记 1996；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib165-025",
+    "title": "错探者：少女之死",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "错探者系列",
+    "detective": "欧阳错",
+    "country": "中国",
+    "tags": [
+      "silencing",
+      "concealment",
+      "series-detective",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "围观人群的嬉笑声里，五楼阳台边的少女纵身跃下；探员欧阳错走访她生前接触的人，个个都说自己无辜。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「错探者」系列的读者",
+        "社会派刑侦的读者"
+      ],
+      "watchFor": [
+        "少女坠落前后的时间线",
+        "后续几桩凶案的关联"
+      ],
+      "warning": "犯罪悬疑小说，涉及自杀、命案与网络暴力。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：岳勇著，湖南文艺出版社 2021。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I247.56`**；③馆藏 CNMARC 提要给出坠楼事件与走访线。**系列归并**：与库内《错探者：无尽毒》同属「错探者系列」。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-165-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

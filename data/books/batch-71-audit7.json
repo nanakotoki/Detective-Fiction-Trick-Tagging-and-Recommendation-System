@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cnaudit71-001",
+    "title": "神秘组织",
+    "originalTitle": "",
+    "author": "陆烨华",
+    "authorEn": "Lu Yehua",
+    "genre": "日常之谜",
+    "firstPublished": "2017",
+    "series": "超能力侦探事务所系列",
+    "detective": "李清湖、左柔、叶飞刀、幽幽",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "series-detective",
+      "meta-fiction",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "幻影城里有一桩十年未破的旧案，幕后是一个让各家侦探都忌惮的组织。超能力侦探事务所的四名侦探一边处理手头的疑案，一边追查它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 563,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27055133/",
+        "subjectId": "27055133",
+        "edition": "神秘组织 2017",
+        "fetchedAt": "2026-09-22T15:17:47.468Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《超能力侦探事务所》的读者",
+        "喜欢幽默推理的读者"
+      ],
+      "watchFor": [
+        "四个人各自那点派不上用场的超能力",
+        "旧案与手头疑案的关联",
+        "事务所之外的动向"
+      ],
+      "warning": "幽默推理长篇，系列第二部，建议先读《超能力侦探事务所》；含犯罪与凶案描写（不写血腥场面）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2017 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-71-audit7.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

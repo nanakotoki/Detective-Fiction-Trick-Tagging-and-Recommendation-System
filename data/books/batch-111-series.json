@@ -1,0 +1,609 @@
+[
+  {
+    "id": "series111-001",
+    "title": "绝叫",
+    "originalTitle": "",
+    "author": "叶真中显",
+    "authorEn": "Hamanaka Aki",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "绫乃",
+    "country": "日本",
+    "tags": ["city", "social-commentary", "nonlinear"],
+    "school": ["social-school", "police-procedural", "psychological-school"],
+    "safeSummary": "一起中年女子孤独死案，一起非营利组织头目死亡案，两条看似无关的线在调查中逐渐交会。女警绫乃循着死者阳子的户籍与履历，一点点还原出她的一生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["社会派推理的读者", "能接受沉重题材的读者"],
+      "watchFor": ["三条叙述线各自的时间点", "阳子户籍与履历上的空白", "两起死亡事件之间的接点"],
+      "warning": "社会派推理长篇，含孤独死、贫困与家庭暴力描写，题材沉重。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**：(日) 叶真中显著，北京联合出版公司 2020.07，中图分类 I313.45。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明全书结构为三条线并进——「中年女子孤独死」案、「非营利组织头目死亡」案与第二人称叙述的女主人公人生线，「看似无关的两个案件，在全书中后期逐渐交会」。**补作者缺口**：作者叶真中显库内原只有 1 部（《Blue》），本条为其代表作。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "series111-002",
+    "title": "斯塔福特疑案",
+    "originalTitle": "The Sittaford Mystery",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1931",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["countryside", "snowfield", "nursery-rhyme"],
+    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "safeSummary": "大雪封路的斯塔福特宅邸里，一场招魂会上降下的讯息说，镇上的特里威廉上校被谋杀了。众人以为只是玩笑，直到消息被证实。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["克里斯蒂非系列作品的读者", "喜欢雪地封闭舞台的读者"],
+      "watchFor": ["招魂会上讯息的来源", "大雪封路后各人的行踪", "宅邸里住客的来历"],
+      "warning": "本格推理长篇，雪地封闭舞台，含命案与招魂会描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**四条著录（人民文学出版社 2010，中图分类 I561.456；新星出版社 2019／2023／2023.12，中图分类 I561.45），本库引新星版。**推理属性判据**：①人民文学那条的**题名主题（学科主题词）为「侦探小说 英国 现代」**（另有一条为「长篇小说 英国 现代 ; 侦探小说 英国 现代」），属判据层级第①类（最硬）；②人民文学那条的提要文摘直接写「本书为长篇**侦探小说**」，并写明谜面为大雪覆盖的宅邸内一场招魂会。**原作年**：1931 年，取自克里斯蒂作品年表；`editionYear` 记 2019。**同书异译核查**：已比对库内 77 部克里斯蒂作品，无重复条目。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "series111-003",
+    "title": "伯特伦旅馆",
+    "originalTitle": "At Bertram's Hotel",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1965",
+    "series": "马普尔小姐系列",
+    "detective": "简·马普尔",
+    "country": "英国",
+    "tags": ["city", "concealment"],
+    "school": ["orthodox-school", "logic-school"],
+    "safeSummary": "马普尔小姐从乡下来到伦敦度假，在伯特伦旅馆找到了她怀念已久的旧式装潢与无可挑剔的服务。然而这份优雅的背后另有隐情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["马普尔小姐系列的读者", "喜欢老派旅馆舞台的读者"],
+      "watchFor": ["旅馆里过于周到的服务", "住客与员工的固定习惯", "马普尔小姐觉得不对劲的小事"],
+      "warning": "本格推理长篇，含命案与身份伪装描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（人民文学出版社 2011；新星出版社 2023／2023.10，中图分类 I561.45），本库引新星版。**推理属性判据**：①三条著录的**题名主题（学科主题词）均为「侦探小说 英国 现代」**（其中两条含「长篇小说 英国 现代 ; 侦探小说 英国 现代」），属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为马普尔小姐在旅馆中察觉「这优雅的背后却藏匿着险恶」。**原作年**：1965 年，取自克里斯蒂作品年表；`editionYear` 记 2023。**同书异译核查**：库内无重复条目。梗概由整理者据馆藏提要文摘自行重写，只写到她察觉不对为止。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "series111-004",
+    "title": "偶然而恐怖的相遇",
+    "originalTitle": "",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": ["nonlinear", "dark-atmosphere", "meta-fiction"],
+    "school": ["trick-school", "bizarre-school", "orthodox-school"],
+    "safeSummary": "西泽保彦出道二十五周年纪念短篇集，共五个故事。主人公有的在死后三十八年突然醒来变成幽灵，有的被杀人噩梦缠住，五段际遇各自古怪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["西泽保彦的读者", "喜欢设定奇特短篇的读者"],
+      "watchFor": ["各篇设定的规则", "看似超自然的解释", "篇与篇之间重复出现的意象"],
+      "warning": "本格推理短篇集，含死亡、幽灵设定与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 西泽保彦著，新星出版社 2023，中图分类 I313.45，**相关题名附注载明「英文并列题名取自封面」**。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「本书是日本**推理名家**西泽保彦出道二十五周年的纪念短篇集，全书共五个故事」。**补作者缺口**：作者西泽保彦库内已有 10 部，本条为其新译短篇集。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "series111-005",
+    "title": "蜘蛛网",
+    "originalTitle": "Spider's Web",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "2000",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["mansion", "countryside", "concealment"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "外交官夫人克拉丽莎既爱开玩笑又富于想象，常幻想自己某天下午下楼，会在图书室里发现一具尸体。谁料一语成谶，客厅里真的出现了尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["克里斯蒂剧作改编作品的读者", "喜欢乡间宅邸舞台的读者"],
+      "watchFor": ["克拉丽莎此前的玩笑话", "宅子里进出的外人", "图书室与客厅的陈设"],
+      "warning": "本格推理长篇，含命案与尸体藏匿描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**四条著录（新星出版社 2017／2017.12／2022.12，中图分类 I561.45），本库引新星 2017 版。**推理属性判据**：①四条著录的**题名主题（学科主题词）均为「侦探小说 小说集 英国 现代」或「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为克拉丽莎的玩笑「一语成谶」。**改编说明**：本书是克里斯蒂 1954 年同名舞台剧的**小说化改写**（由 Charles Osborne 执笔），按本项目「改编作品记原著作者」的既定规则，作者记**阿加莎·克里斯蒂**，改编者在此注明。**原作年**：小说化版本 2000 年（原剧作 1954 年），故 `firstPublished` 记 2000；`editionYear` 记 2017。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "series111-006",
+    "title": "找麻烦是我的职业",
+    "originalTitle": "Trouble Is My Business",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1950",
+    "series": "菲利普·马洛系列（短篇集）",
+    "detective": "菲利普·马洛",
+    "country": "美国",
+    "tags": ["city", "hardboiled", "dark-atmosphere"],
+    "school": ["hardboiled-school", "police-procedural"],
+    "safeSummary": "短篇集，收录《找麻烦是我的职业》《狗痴》《午街取货》《黄裤王》《山中太平》《红风》《宾格教授的鼻烟》《青铜门》等篇目。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["硬汉派的读者", "钱德勒短篇的读者"],
+      "watchFor": ["各篇委托人的说辞", "线索物件（鼻烟、青铜门）的来历", "叙述者接案时的直觉"],
+      "warning": "硬汉派短篇集，含枪击、命案与都市犯罪描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(美) 雷蒙德·钱德勒著，花城出版社 2015（广州），中图分类见著录。**推理属性判据**：①该条**题名主题（学科主题词）为「短篇小说 侦探小说 小说集 美国 现代」**——**同时含「侦探小说」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部篇目；③作者雷蒙德·钱德勒为硬汉派代表作家，库内已收其 6 部。**补作者缺口**：本条为库内第 7 部。**原作年**：1950 年（英文短篇集出版年），取自钱德勒作品年表；`editionYear` 记 2015。梗概只列篇目，不涉内容。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "series111-007",
+    "title": "狙击室",
+    "originalTitle": "",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆",
+    "country": "美国",
+    "tags": ["forensic", "city", "alibi"],
+    "school": ["police-procedural", "forensic-school", "trick-school"],
+    "safeSummary": "林肯·莱姆系列第十册：一名南美市民在巴哈马被狙击手射杀，案件牵出更长的一条线。莱姆与搭档必须在下一枪响起前拼出现场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["林肯·莱姆系列的读者", "喜欢物证推理的读者"],
+      "watchFor": ["弹道与射击距离的推算", "受害者之间的共同点", "现场留下的物证链"],
+      "warning": "犯罪悬疑长篇，含狙击杀人、尸检与暴力场面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(美) 杰夫里·迪弗著，新星出版社 2022.12。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 美国 现代 ; 长篇小说 美国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「本书是美国著名**犯罪推理小说作家**杰夫里·迪弗的代表作『**林肯·莱姆系列**』中的第十册」。**补作者缺口**：作者库内已有 11 部，本条为第 12 部。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**（本轮可用来源只给中译版本年）；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写，未写出案件走向。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "series111-008",
+    "title": "黑暗之家",
+    "originalTitle": "黒い家",
+    "author": "贵志佑介",
+    "authorEn": "Kishi Yusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1997",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["dark-atmosphere", "fear", "concealment"],
+    "school": ["psychological-school", "social-school", "trick-school"],
+    "safeSummary": "若槻是一家保险公司的理赔审核员，某日被点名去处理一桩投诉，却在客户臭气熏天的屋里见到了一具上吊孩子的尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["心理悬疑的读者", "能接受压抑题材的读者"],
+      "watchFor": ["理赔申请的时间与金额", "客户一家人的说法出入", "若槻自己的工作记录"],
+      "warning": "犯罪悬疑长篇，基调阴暗，含儿童死亡、精神异常与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 贵志祐介著，海南出版社 2023（海口）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为理赔审核员被派去处理投诉时见到的现场。**补作者缺口**：作者库内已有 6 部（**库内拼写为「贵志佑介」，本条沿用同一写法**），本条为第 7 部。**原作年**：1997 年（日文版『黒い家』刊行年），取自作者作品年表；`editionYear` 记 2023。**备注**：该书常被归入恐怖，但**编目方的学科主题明确标为「推理小说」**，故按判据层级第①类收录，标签中如实标出 `dark-atmosphere`。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "series111-009",
+    "title": "沉默的病人",
+    "originalTitle": "The Silent Patient",
+    "author": "亚历克斯·麦克利兹",
+    "authorEn": "Alex Michaelides",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["hospital", "psychological-misdirection", "diary-form", "unreliable-narrator"],
+    "school": ["psychological-school", "orthodox-school"],
+    "safeSummary": "艾丽西亚朝丈夫脸上连开五枪，从此不再说一个字。她被收进精神诊所，成了远近闻名的「沉默的病人」，唯一留给外界的是一幅诡异的自画像。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["心理悬疑的读者", "喜欢治疗师视角叙事的读者"],
+      "watchFor": ["艾丽西亚的日记内容", "治疗师自己的处境", "那幅自画像的细节"],
+      "warning": "心理悬疑长篇，含枪杀、精神科治疗与创伤描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(英) 亚历克斯·麦克利兹著，河南文艺出版社 2020（郑州）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 英国 现代 ; 长篇小说 英国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为「往丈夫脸上连开五枪，从此不再说一个字」以及留给外界的自画像。**新作者**：库内此前无亚历克斯·麦克利兹作品。**原作年**：2019 年（英文原版 *The Silent Patient* 出版年）；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "series111-010",
+    "title": "同名同姓受害者协会",
+    "originalTitle": "",
+    "author": "下村敦史",
+    "authorEn": "Shimomura Atsushi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["identity", "ensemble", "psychological-misdirection"],
+    "school": ["social-school", "psychological-school", "orthodox-school"],
+    "safeSummary": "一场少年凶案之后，凶手的姓名被公开，全国同名同姓的人因此被卷进漩涡。一群素不相识、却共用一个名字的人聚在一起，成立了自己的协会。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["社会派与心理悬疑的读者", "喜欢群像叙事的读者"],
+      "watchFor": ["协会各成员自报的身份", "叙述者之间的称呼", "姓名被公开后的连锁反应"],
+      "warning": "犯罪悬疑长篇，含少年凶案、网络暴力与身份歧视角描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 下村敦史著，文汇出版社 2022.03（上海）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出的开篇为同名者之一的日常场景。**新作者**：库内此前无下村敦史作品。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。**备注**：库内同批收有同作者译本的出版方「文汇出版社」另两部（《罪恶捕手》《亡灵之舞》），三书判据同源。梗概由整理者据馆藏提要文摘与书名所指的设定自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "series111-011",
+    "title": "罪恶捕手",
+    "originalTitle": "",
+    "author": "多纳托·卡瑞西",
+    "authorEn": "Donato Carrisi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "意大利",
+    "tags": ["forensic", "city", "obsession"],
+    "school": ["police-procedural", "forensic-school", "psychological-school"],
+    "safeSummary": "凌晨拨出求救电话的男人已生命垂危，他胸前刻着三个字。房间里散落着谋杀「纪念品」，昭示他就是一直未落网的连环杀手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["犯罪悬疑的读者", "能接受连环案题材的读者"],
+      "watchFor": ["死者胸前的三个字", "房间里纪念品的来源", "急救人员各自的判断"],
+      "warning": "犯罪悬疑长篇，含连环杀人、尸体与暴力场面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(意) 多纳托·卡瑞西著，文汇出版社 2022（上海）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 意大利 现代 ; 长篇小说 意大利 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为胸前刻字、房间散落「纪念品」的垂危男子。**新作者**：库内此前无多纳托·卡瑞西作品，亦无意大利推理作者。**年份字段拆分（方案 C）**：`firstPublished`（意大利文原版年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "series111-012",
+    "title": "终身验尸官",
+    "originalTitle": "",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "仓石义男",
+    "country": "日本",
+    "tags": ["forensic", "city", "silencing"],
+    "school": ["forensic-school", "police-procedural", "social-school"],
+    "safeSummary": "横山秀夫的短篇推理集，由八个短篇组成，每篇对应不同的案件，贯穿其中的主人公是验尸官仓石义男。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["法医鉴识题材的读者", "横山秀夫的读者"],
+      "watchFor": ["尸检报告里被忽略的项目", "仓石与其他科室的分歧", "各篇案件的共通处境"],
+      "warning": "社会派短篇集，含尸检、命案与制度困境描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 横山秀夫著，北京日报出版社 2024。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘直接写明「本书是日本**推理作家**横山秀夫的**短篇推理小说集**……是一本较为优秀的**社会派推理小说**」。**补作者缺口**：作者库内已有 3 部（**库内拼写为「横山秀夫」**），本条为第 4 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "series111-013",
+    "title": "亡灵之舞",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "图威斯特博士系列（短篇集）",
+    "detective": "图威斯特博士、赫斯特探长",
+    "country": "法国",
+    "tags": ["locked-room", "legend-folklore", "dark-atmosphere"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "法国古典推理作家保罗·霍尔特的短篇合集：每个案件都困难重重，图威斯特博士与助手赫斯特探长凭着对不可能状况的拆解逐一破解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪与密室诡计的爱好者", "法国古典本格的读者"],
+      "watchFor": ["各篇中看似超自然的场面", "现场的封闭条件", "图威斯特博士提出的假设"],
+      "warning": "本格推理短篇集，含密室与怪奇气氛、命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(法) 保罗·霍尔特著，文汇出版社 2023（上海）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 法国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘直接写明「本书是一本引进版**典推理小说**，作者为**法国当代古典推理名家**保罗·霍尔特……图威斯特博士和助手赫斯特探长」。**新作者**：库内此前无保罗·霍尔特作品，亦无法国本格推理作者。**年份字段拆分（方案 C）**：`firstPublished`（法文原版年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "series111-014",
+    "title": "一生悬命",
+    "originalTitle": "",
+    "author": "陆春吾",
+    "authorEn": "Lu Chunwu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["countryside", "silencing", "concealment"],
+    "school": ["social-school", "police-procedural", "trick-school"],
+    "safeSummary": "倪向东至好的朋友死了，死前打来一通电话，求他把一口木箱运往荒山小屋——「放下就走，别好奇，知道太多对你没好处。」",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["华语犯罪悬疑的读者", "喜欢以物为谜面的故事的读者"],
+      "watchFor": ["朋友临终那句话的分量", "木箱的来路与去处", "荒山小屋周边的人"],
+      "warning": "犯罪悬疑长篇，含命案、藏尸与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：陆春吾著，江苏凤凰文艺出版社 2023（南京）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 中国 当代 ; 长篇小说 中国 当代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为朋友临终托付的那口木箱与那句「别好奇」。**新作者**：库内此前无陆春吾作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**（不为中文原创重复填写版本年）。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "series111-015",
+    "title": "嫌疑人聚会",
+    "originalTitle": "",
+    "author": "马丁·爱德华兹",
+    "authorEn": "Martin Edwards",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "雷切尔·萨弗德系列",
+    "detective": "雷切尔·萨弗德",
+    "country": "英国",
+    "tags": ["historical-setting", "ensemble", "multiple-solutions"],
+    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "safeSummary": "1930 年，因破解连环罪案而声名鹊起的雷切尔携手年轻记者雅各布调查三桩古怪的谋杀案，而这三个案件的共同点是：嫌疑最大的人都顺利脱了身。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["黄金时代风格本格的读者", "喜欢多位嫌疑人轮转的读者"],
+      "watchFor": ["三桩案件里嫌疑人的脱身方式", "雷切尔与雅各布的分工", "1930 年的时代细节"],
+      "warning": "本格推理长篇，含多起命案与庭审相关描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(英) 马丁·爱德华兹著，河南文艺出版社 2023（郑州）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 英国 现代 ; 长篇小说 英国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明时代设定（1930 年）、两位主角与三桩案件的共同点。**新作者**：库内此前无马丁·爱德华兹作品。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "series111-016",
+    "title": "必须救出罗茜",
+    "originalTitle": "",
+    "author": "皮耶尔·勒迈特",
+    "authorEn": "Pierre Lemaitre",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "卡米尔·范霍文警长系列",
+    "detective": "卡米尔·范霍文",
+    "country": "法国",
+    "tags": ["city", "fear", "obsession"],
+    "school": ["police-procedural", "psychological-school", "trick-school"],
+    "safeSummary": "一个男人宣称在巴黎人来人往的市中心埋下七颗炸弹，却在第一颗爆炸之后主动自首。他向警方提出的条件是：必须救出罗茜。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["犯罪悬疑的读者", "喜欢倒计时式紧张感的读者"],
+      "watchFor": ["自首者给出的条件", "剩余炸弹的位置线索", "罗茜这个人的来历"],
+      "warning": "犯罪悬疑长篇，含爆炸、绑架与暴力场面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(法) 皮耶尔·勒迈特著，文汇出版社 2021（上海）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 法国 现代 ; 长篇小说 法国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明谜面为「宣称在巴黎……埋下了 7 颗炸弹，却在第 1 颗爆炸后主动自首」并给出条件。**新作者**：库内此前无皮耶尔·勒迈特作品。**年份字段拆分（方案 C）**：`firstPublished`（法文原版年）**留空不冒填**；`editionYear` 记 2021。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-111-series.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  }
+]

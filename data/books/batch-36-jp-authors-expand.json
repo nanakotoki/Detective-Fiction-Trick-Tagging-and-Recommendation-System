@@ -1,0 +1,1429 @@
+[
+  {
+    "id": "jpauth-001",
+    "title": "魍魉之匣",
+    "originalTitle": "魍魎の匣",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1995",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "faceless-corpse",
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "hospital",
+      "city",
+      "obsession",
+      "dark-atmosphere",
+      "meta-fiction",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "有人在铁道边发现了一个装着少女的匣子，与此同时又出现了被拆散的人体部件。京极堂要处理的仍是老问题：把这些事串在一起的那个说法，究竟是在解释，还是在掩盖。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 18232,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3162513/",
+        "subjectId": "3162513",
+        "edition": "魍魉之匣（上） 2009",
+        "fetchedAt": "2026-09-22T09:53:25.629Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《姑获鸟之夏》想接着读的读者",
+        "能接受大段民俗与宗教议论的读者"
+      ],
+      "watchFor": [
+        "匣子被发现的时间与地点",
+        "当事人叙述里被当作「当然」的部分",
+        "「魍魉」这个词在书中被谁提起"
+      ],
+      "warning": "京极堂系列第二部，篇幅长、议论多，含分尸等血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-07-honkaku-more.json#honkaku2-002"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": []
+  },
+  {
+    "id": "jpauth-002",
+    "title": "狂骨之梦",
+    "originalTitle": "狂骨の夢",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1998",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "psychological-misdirection",
+      "red-herring",
+      "unreliable-narrator",
+      "concealment",
+      "honkaku",
+      "dark-atmosphere",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一名男子反复做同一个梦，梦里有个他从未见过的女人；而现实中，一具多年前的遗体被人从海里捞了上来。京极堂照例先不动手查案，而是先问：这个梦是谁让你做的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 8921,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3316174/",
+        "subjectId": "3316174",
+        "edition": "狂骨之梦 2009",
+        "fetchedAt": "2026-09-22T09:53:31.771Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对记忆与梦境题材感兴趣的读者",
+        "京极堂系列的读者"
+      ],
+      "watchFor": [
+        "梦里细节与现实中器物的对应",
+        "叙述者回忆同一件事时的措辞变化",
+        "谁最早把梦讲给别人听"
+      ],
+      "warning": "京极堂系列第三部，含宗教与心理议题的长篇讨论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2009（馆藏题名「狂骨之梦」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-013"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpauth-003",
+    "title": "络新妇之理",
+    "originalTitle": "絡新婦の理",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1996",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "identity",
+      "concealment",
+      "honkaku",
+      "dark-atmosphere",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "social-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一所女子学校里接连出事，而被牵扯进来的人各自活在完全不同的处境里。京极堂提醒当事者：把这些人聚到一起的那张网，可能比网上的每一根线都更值得看。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 11559,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4038672/",
+        "subjectId": "4038672",
+        "edition": "络新妇之理（上） 2009年11月",
+        "fetchedAt": "2026-09-22T09:53:35.509Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多线群像结构的读者",
+        "对性别与社会处境议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "各条线之间出现交集的位置",
+        "同一个人在不同人口中的形象差异",
+        "「蜘蛛」这个意象反复出现的地方"
+      ],
+      "warning": "京极堂系列第四部，多线并进、人物众多，含性相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2010（馆藏题名「络新妇之理 下」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-014"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpauth-004",
+    "title": "铁鼠之槛",
+    "originalTitle": "鉄鼠の檻",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1996",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "historical-setting",
+      "honkaku",
+      "dark-atmosphere",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座与外界往来不多的寺院里出现了死者，而寺中的修行者都不愿多谈。京极堂面对的第一个障碍不是密室，是这地方自有一套解释世界的方式——包括解释死亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 8430,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3715833/",
+        "subjectId": "3715833",
+        "edition": "铁鼠之槛（上） 2009",
+        "fetchedAt": "2026-09-22T09:53:41.473Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对禅宗与寺院生活感兴趣的读者",
+        "喜欢封闭空间 + 观念冲突的读者"
+      ],
+      "watchFor": [
+        "寺里的规矩与例外",
+        "各人对同一件旧事的说法差异",
+        "「鼠」在寺中被提起的场合"
+      ],
+      "warning": "京极堂系列第五部，含大量禅宗公案与宗教讨论，门槛偏高。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2009（馆藏题名「铁鼠之槛 下」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-012"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpauth-005",
+    "title": "鼠男",
+    "originalTitle": "ラットマン",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "narrative-trick",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一支曾经小有名气的乐队，成员多年后再度聚首，而当年那件事始终没有人愿意提。叙述者一边回忆，一边发现自己记住的版本和别人的对不上——包括关于他自己的部分。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1744,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10527654/",
+        "subjectId": "10527654",
+        "edition": "鼠男 2012",
+        "fetchedAt": "2026-09-22T09:53:47.244Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述性诡计的读者",
+        "读过道尾秀介其他作品的读者"
+      ],
+      "watchFor": [
+        "叙述者反复强调自己「记得很清楚」的地方",
+        "几个人对同一场景的描述差异",
+        "乐队往事里被跳过的那段空白"
+      ],
+      "warning": "含阴暗题材与心理描写，叙述不可靠，读时留意细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京日报出版社:,2023（鼠男／(日) 道尾秀介著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "jpauth-006",
+    "title": "鬼的足音",
+    "originalTitle": "鬼の足音",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "变格",
+    "firstPublished": "2007",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "ensemble",
+      "legend-folklore"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。写的多是普通人日常里一处说不通的地方：一个总在固定时间响起的动静、一段谁都不肯细说的往事。怪不在于事情本身，而在于所有人都默契地绕开它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 712,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24383251/",
+        "subjectId": "24383251",
+        "edition": "鬼的足音 2013",
+        "fetchedAt": "2026-09-22T09:53:52.701Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇心理悬疑的读者",
+        "能接受留白式结局的读者"
+      ],
+      "watchFor": [
+        "每篇里所有人都在回避的那件事",
+        "叙述者交代自己动机时的语气",
+        "结尾处没有解释的那个动作"
+      ],
+      "warning": "短篇集，各篇独立，基调阴冷，多数篇目不给明确解答。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2013（馆藏题名「鬼的足音」／道尾秀介）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpauth-008",
+    "title": "迷路庄的惨剧",
+    "originalTitle": "迷路荘の惨劇",
+    "author": "横沟正史",
+    "authorEn": "Yokomizo Seishi",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座结构复杂到容易让人迷失的宅邸里，家族成员接连出事。金田一耕助到达时，最先要弄清的不是谁有动机，而是这栋房子里究竟有多少条能走通的路。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1209,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20392557/",
+        "subjectId": "20392557",
+        "edition": "迷路庄的惨剧 2013",
+        "fetchedAt": "2026-09-22T09:54:01.966Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "金田一耕助系列的读者",
+        "喜欢旧式大家族与洋馆设定的读者"
+      ],
+      "watchFor": [
+        "宅邸平面图与实际走法是否一致",
+        "家族成员各自隐瞒的事",
+        "谁在案发前后改变过行程"
+      ],
+      "warning": "一九五〇年代的经典本格，含家族秘闻与血腥场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2013（馆藏题名「迷路庄的惨剧」／横沟正史）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpauth-009",
+    "title": "人间椅子",
+    "originalTitle": "人間椅子",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "1925",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "diary-form",
+      "unreliable-narrator",
+      "dark-atmosphere",
+      "obsession",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，同名篇是一封自称工匠的人写来的信，讲述他做了一件谁也不会想到的手艺活。乱步写的是那种一旦接受了前提、就再也无法从容坐下的故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 16869,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6558046/",
+        "subjectId": "6558046",
+        "edition": "人间椅子 2011",
+        "fetchedAt": "2026-09-22T09:54:05.604Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读乱步短篇的读者",
+        "喜欢怪奇与心理变态题材的读者"
+      ],
+      "watchFor": [
+        "写信人交代自己身份的方式",
+        "叙述里越写越具体的那部分",
+        "结尾处收信人的反应"
+      ],
+      "warning": "战前怪奇短篇集，含恋物与变态心理描写，氛围不适。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2023（人间椅子／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "jpauth-010",
+    "title": "赎罪",
+    "originalTitle": "贖罪",
+    "author": "凑佳苗",
+    "authorEn": "Minato Kanae",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "无固定侦探（五段式连作）",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "first-person",
+      "ensemble",
+      "unreliable-narrator",
+      "obsession",
+      "concealment",
+      "fear",
+      "dark-atmosphere",
+      "youth"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名小学生在校期间被人带走，之后再也没有回来；同班的四个女孩是唯一的目击者，却都记不清那个人的样子。死者的母亲对她们说了一句话，那句话从此改变了四个人的人生走向。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 3694,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36657403/",
+        "subjectId": "36657403",
+        "edition": "赎罪 2024",
+        "fetchedAt": "2026-09-22T09:54:13.712Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《告白》想接着读的读者",
+        "喜欢多视角连作结构的读者"
+      ],
+      "watchFor": [
+        "四个人各自记住与遗忘的部分",
+        "母亲那句话在不同人耳中的含义",
+        "几段叙述之间年份的对应"
+      ],
+      "warning": "含儿童被害与性犯罪相关描写，氛围压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-09-social-more.json#social2-015"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": []
+  },
+  {
+    "id": "jpauth-011",
+    "title": "为了N",
+    "originalTitle": "Nのために",
+    "author": "凑佳苗",
+    "authorEn": "Minato Kanae",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "",
+    "detective": "无固定侦探（四人视角）",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "first-person",
+      "dual-line",
+      "nonlinear",
+      "ensemble",
+      "unreliable-narrator",
+      "obsession",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "四名年轻人在不同时间、不同地点各自讲述自己的故事，每个人心里都有一个用字母代替名字的人。这些故事最终会交汇到同一件事上：一桩发生在岛上的命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 5574,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10345553/",
+        "subjectId": "10345553",
+        "edition": "为了N 2012",
+        "fetchedAt": "2026-09-22T09:54:19.465Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多视角与时间错位叙事的读者",
+        "能接受慢热推进的读者"
+      ],
+      "watchFor": [
+        "四个人各自所说的「N」指谁",
+        "同一件事在不同视角下的时间差",
+        "谁在叙述里刻意略去了自己的动机"
+      ],
+      "warning": "四线并进、时间跳跃频繁，建议对照人物关系阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-18-jp-new-wave.json#jpnew-006"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": []
+  },
+  {
+    "id": "jpauth-012",
+    "title": "所罗门的伪证",
+    "originalTitle": "ソロモンの偽証",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "社会派",
+    "firstPublished": "2012",
+    "series": "",
+    "detective": "无固定侦探（校内审判的参与者们）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "campus",
+      "concealment",
+      "social-commentary",
+      "youth"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "一名中学生被发现死在校舍楼下，警方很快以意外结案。几个月后，一封匿名信寄到学校，声称那不是意外。于是学生们决定自己做一件大人没做的事：开一场校内审判。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 6475,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25954353/",
+        "subjectId": "25954353",
+        "edition": "所罗门的伪证 2014",
+        "fetchedAt": "2026-09-22T09:54:23.125Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭辩论与群像题材的读者",
+        "对校园与司法议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "匿名信的出现时机",
+        "校内审判里各方挑选证人的依据",
+        "成年人处理这件事时选择的方式"
+      ],
+      "warning": "篇幅极长（三卷），人物众多，含校园霸凌与少年死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-18-jp-new-wave.json#jpnew-025"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": []
+  },
+  {
+    "id": "jpauth-013",
+    "title": "邻人的犯罪",
+    "originalTitle": "隣人の犯罪",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "日常之谜",
+    "firstPublished": "1987",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "ensemble",
+      "city",
+      "honkaku",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的都是住在同一片街区里的普通人。案子都不大，但每篇都有一处让人心里过不去的地方——往往是「如果当时换个人来处理会怎样」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1006,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10594782/",
+        "subjectId": "10594782",
+        "edition": "邻人的犯罪 2013",
+        "fetchedAt": "2026-09-22T09:54:28.658Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜与市井题材的读者",
+        "宫部美雪的读者"
+      ],
+      "watchFor": [
+        "每篇里旁观者做出的选择",
+        "邻里之间信息传递的偏差",
+        "结局处没有被追究的那件事"
+      ],
+      "warning": "短篇集，各篇独立，基调温和但带社会观察。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2013（馆藏题名「邻人的犯罪」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-18-jp-new-wave.json#jpnew-026"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpauth-014",
+    "title": "无名之毒",
+    "originalTitle": "名もなき毒",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "社会派",
+    "firstPublished": "2006",
+    "series": "杉村三郎系列",
+    "detective": "杉村三郎",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "city",
+      "concealment",
+      "psychological-misdirection",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名公司职员被卷入一桩街头随机下毒事件，成了媒体追逐的对象。随着报道一篇篇出来，他发现真正扩散开的不是毒，而是某种更难对付的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1118,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24696262/",
+        "subjectId": "24696262",
+        "edition": "无名之毒 2013",
+        "fetchedAt": "2026-09-22T09:54:32.313Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "关注媒体与舆论议题的读者",
+        "喜欢社会派慢热叙事的读者"
+      ],
+      "watchFor": [
+        "报道内容的来源与转述链条",
+        "当事人身边人态度的转变",
+        "「毒」在书中被用在哪些场合"
+      ],
+      "warning": "社会派作品，重舆论与人物处境，无本格解谜。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2013（馆藏题名「无名之毒」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpauth-015",
+    "title": "第三时效",
+    "originalTitle": "第三の時効",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "2003",
+    "series": "三钟系列",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "ensemble",
+      "city",
+      "concealment",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的都是县警内部的人：谁被调去了哪个部门、谁在争一个位置、谁手上压着一件不想再碰的旧案。案子常常只是这些人处境的出口。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 3290,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/21324173/",
+        "subjectId": "21324173",
+        "edition": "第三时效 2013",
+        "fetchedAt": "2026-09-22T09:54:35.930Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警察内部生态题材的读者",
+        "读过《半落》想再读作者的读者"
+      ],
+      "watchFor": [
+        "每个人被调动背后的原因",
+        "旧案卷宗里谁签的字",
+        "上下级之间的对话里没有说出口的部分"
+      ],
+      "warning": "短篇集，各篇独立，重组织内部与人物处境。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 中信出版社 2013（馆藏题名「第三时效」／横山秀夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-19-jp-masters.json#jpmas-030"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpauth-016",
+    "title": "动机",
+    "originalTitle": "動機",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "2000",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "social-commentary",
+      "first-person",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，四篇都围绕「一个人为什么这么做」展开。作者把大量笔墨放在动机成形的那段时间上，而不是动手的那一刻。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 526,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25910748/",
+        "subjectId": "25910748",
+        "edition": "动机 2015",
+        "fetchedAt": "2026-09-22T09:54:39.794Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢写实向警察小说的读者",
+        "关注「动机」这一主题的读者"
+      ],
+      "watchFor": [
+        "当事人生活里那个被撬动的支点",
+        "旁人对其行为的评价",
+        "叙述视角在谁身上"
+      ],
+      "warning": "短篇集，各篇独立，无华丽诡计，重人物与处境。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：南京:,译林出版社:,2015（动机／(日) 横山秀夫著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "jpauth-017",
+    "title": "六个说谎的大学生",
+    "originalTitle": "六人の嘘つきな大学生",
+    "author": "浅仓秋成",
+    "authorEn": "Asakura Akinari",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "",
+    "detective": "无固定侦探（六名求职学生视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "unreliable-narrator",
+      "ensemble",
+      "red-herring",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "六名大学生从激烈的选拔中走到最后一轮，公司却临时把录用名额从六个减到一个。就在他们准备讨论时，一封匿名信被摆了出来，里面写着六个人各自的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 26726,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36283547/",
+        "subjectId": "36283547",
+        "edition": "六个说谎的大学生 2023",
+        "fetchedAt": "2026-09-22T09:54:42.992Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像推理的读者",
+        "对求职与人性议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "六个人各自的秘密是什么性质",
+        "匿名信出现的时机",
+        "谁在讨论中始终把话题引开"
+      ],
+      "warning": "现代职场背景的封闭空间推理，含人性阴暗面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2023.04（六个说谎的大学生／(日) 浅仓秋成著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-36-jp-authors-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  }
+]

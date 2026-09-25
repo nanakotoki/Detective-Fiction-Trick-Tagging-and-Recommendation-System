@@ -1,0 +1,1599 @@
+[
+  {
+    "id": "world159-001",
+    "title": "极寒追捕",
+    "originalTitle": "",
+    "author": "米哈伊尔·尼古拉耶维奇·休金",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "西伯利亚地狱系列",
+    "detective": "日金",
+    "country": "俄罗斯",
+    "tags": [
+      "snowfield",
+      "countryside",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "二十世纪初的西伯利亚，一名基层警官外出公务归来，得知幼子夭折、妻子去向不明，他沿着零散的线索一路追查下去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢地域色彩浓厚的侦探小说的读者",
+        "偏好警探视角与慢热调查的读者"
+      ],
+      "watchFor": [
+        "二十世纪初西伯利亚的社会面貌",
+        "警官日金一步步拼合线索的方式"
+      ],
+      "warning": "俄罗斯当代侦探小说，涉及命案与失踪情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(俄) 米哈伊尔·尼古拉耶维奇·休金著，华中科技大学出版社 2022.02。**判据**：①**详情页主题词为「侦探小说 俄罗斯 现代 ; 长篇小说 俄罗斯 现代」**（第①类，最硬）；②**中图分类号 `I512.45`**；③馆藏提要写明本书是作者「西伯利亚地狱」系列侦探小说之一。**年份字段说明**：`editionYear` 记 2022；`firstPublished` **留空**——著录未给出俄文原作年，不臆断。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-002",
+    "title": "嫌疑者的救赎",
+    "originalTitle": "",
+    "author": "塞利拉·伯林德、罗尔夫·伯林德",
+    "authors": [
+      "塞利拉·伯林德",
+      "罗尔夫·伯林德"
+    ],
+    "authorEn": "Cilla Börjlind; Rolf Börjlind",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "瑞典",
+    "tags": [
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "瑞典海岛的一个夏夜，一个男孩在礁石后看见了不该看见的事；多年以后，旧案仍在牵动相关者的命运。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧犯罪小说的读者",
+        "喜欢冷峻海岛氛围的读者"
+      ],
+      "watchFor": [
+        "多年前的目击与当下案件之间的联系",
+        "瑞典海岛的地景与季节"
+      ],
+      "warning": "北欧犯罪小说，涉及命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(瑞典) 塞利拉·伯林德, 罗尔夫·伯林德著，重庆出版社 2015.07。**判据**：①**详情页主题词为「侦探小说 瑞典 现代 ; 长篇小说 瑞典 现代」**（第①类，最硬）；②**中图分类号 `I532.45`**；③馆藏提要写明案件起因与调查脉络。**责任者**：馆藏著录为**两位作者并列**，按 §34.2「全部列出即全部登记」处理，`authors` 记两人，界面显示「合著」徽章。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**——著录未给出瑞典文原作年。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-003",
+    "title": "我所有的遗忘",
+    "originalTitle": "Allt jag inte minns",
+    "author": "尤纳斯·哈桑·霍米利",
+    "authorEn": "Jonas Hassen Khemiri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "瑞典",
+    "tags": [
+      "ensemble",
+      "dual-line"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一名瑞典青年死于车祸，一位作家走访他的邻居、前女友与家人，试图还原他生命最后一天的样子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多声部叙事的读者",
+        "关注移民与身份议题的推理读者"
+      ],
+      "watchFor": [
+        "不同受访者说法之间的错位",
+        "「还原一个人」这件事本身的难度"
+      ],
+      "warning": "文学性较强的悬疑小说，以访谈式叙述推进，节奏偏慢。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(瑞典) 尤纳斯·哈桑·霍米利著，中信出版集团 2023。**判据**：①**详情页主题词为「推理小说 瑞典 现代 ; 长篇小说 瑞典 现代」**（第①类，最硬）；②**中图分类号 `I532.45`**；③提要写明全书以采访相关者的方式重构死者最后一天。**年份字段说明**：`firstPublished` 记 2015（瑞典文原版年）；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-004",
+    "title": "魔鬼在呢喃",
+    "originalTitle": "Il suggeritore",
+    "author": "多纳托·卡瑞西",
+    "authorEn": "Donato Carrisi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "editionYear": "2020",
+    "series": "米拉·瓦斯克兹系列",
+    "detective": "米拉·瓦斯克兹",
+    "country": "意大利",
+    "tags": [
+      "concealment",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "失踪的女孩之间存在某种联系，犯罪学家与擅长寻找失踪者的女警沿着现场留下的线索一路追查。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪侧写与鉴识细节的读者",
+        "已读过《罪恶捕手》的读者"
+      ],
+      "watchFor": [
+        "现场被刻意留下的线索各自指向什么",
+        "女警米拉寻找失踪者的方法"
+      ],
+      "warning": "犯罪悬疑小说，含失踪与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(意) 多纳托·卡瑞西著，上海译文出版社 2020。**判据**：①**详情页主题词为「侦探小说 意大利 现代 ; 长篇小说 意大利 现代」**（第①类，最硬）；②**中图分类号 `I546.45`**；③**丛编为「米拉·瓦斯克兹系列」**，与馆藏提要中的两位主角一致。**同作者补缺**：库内原已有卡瑞西《罪恶捕手》1 部。**年份字段说明**：`firstPublished` 记 2009（意大利文原版年）；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-005",
+    "title": "迷宫中的人",
+    "originalTitle": "L'uomo del labirinto",
+    "author": "多纳托·卡瑞西",
+    "authorEn": "Donato Carrisi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "editionYear": "2023",
+    "series": "米拉·瓦斯克兹系列",
+    "detective": "米拉·瓦斯克兹",
+    "country": "意大利",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "女孩在上学路上被绑架，十五年后被找到时已失去记忆；心理侧写师与私家侦探只能从她的回忆里找线索。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理侧写与记忆题材的读者",
+        "卡瑞西作品的老读者"
+      ],
+      "watchFor": [
+        "回忆片段与当下调查的呼应",
+        "两条时间线各自交代了什么"
+      ],
+      "warning": "犯罪悬疑小说，涉及绑架与命案情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(意) 多纳托·卡瑞西著，上海译文出版社 2023。**判据**：①**详情页主题词为「推理小说 意大利 现代 ; 长篇小说 意大利 现代」**（第①类，最硬）；②**中图分类号 `I546.45`**；③丛编「米拉·瓦斯克兹系列」。**年份字段说明**：`firstPublished` 记 2017（意大利文原版年）；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-006",
+    "title": "玩偶死去的夏天",
+    "originalTitle": "El verano de los juguetes muertos",
+    "author": "安东尼奥·希尔",
+    "authorEn": "Antonio Hill",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "赫克托",
+    "country": "西班牙",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "巴塞罗那，一名富家少年意外死亡，警探与年轻的助手蕾蕾循着家族与这座城市的旧账展开调查。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢南欧城市氛围的读者",
+        "偏爱人物刻画多于快节奏的读者"
+      ],
+      "watchFor": [
+        "警探赫克托与助手蕾蕾各自的处境",
+        "巴塞罗那的社会阶层图景"
+      ],
+      "warning": "西班牙犯罪小说，涉及青少年死亡与人口贩卖等情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(西) 安东尼奥·希尔著，人民文学出版社 2016.6，丛编「黑色系列／99读书人」。**判据**：①**详情页主题词为「推理小说 西班牙 现代 ; 长篇小说 西班牙 现代」**（第①类，最硬）；②**中图分类号 `I551.456`**（西班牙小说复分号同 `.456` 一档）；③提要写明以警探调查为主线。**年份字段说明**：`firstPublished` 记 2010（西班牙文原版年）；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-007",
+    "title": "他的城",
+    "originalTitle": "",
+    "author": "丹尼尔·桑切斯·帕尔多斯",
+    "authorEn": "Daniel Sánchez Pardos",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "西班牙",
+    "tags": [
+      "historical-setting",
+      "city"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "1874 年的巴塞罗那，结束流亡回国的家族长子办起一份小报，一场大火让他在街头结识了年轻的建筑师。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢十九世纪城市背景的读者",
+        "对 newspapers 与城市近代化题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "1874 年巴塞罗那的报业与街区",
+        "小说如何把真实人物写进虚构案件"
+      ],
+      "warning": "历史背景的推理小说，节奏偏慢，重在时代氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(西) 丹尼尔·桑切斯·帕尔多斯著，人民文学出版社 2018，丛编「99读书人」。**判据**：①**详情页主题词为「推理小说 西班牙 现代 ; 长篇小说 西班牙 现代」**（第①类，最硬）；②**中图分类号 `I551.45`**；③提要写明 1874 年巴塞罗那的一桩纵火与调查线索。**年份字段说明**：`editionYear` 记 2018；`firstPublished` **留空**——著录未给出西班牙文原作年。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-008",
+    "title": "隐形守护者",
+    "originalTitle": "El guardián invisible",
+    "author": "多洛蕾丝·雷东多",
+    "authorEn": "Dolores Redondo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "editionYear": "2017",
+    "series": "巴斯坦三部曲",
+    "detective": "阿麦亚·萨拉沙",
+    "country": "西班牙",
+    "tags": [
+      "legend-folklore",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "庇里牛斯山区的巴斯坦省接连出现少女命案，女警探奉命回乡调查，同时要面对自己一直想逃离的童年。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢地方传说与刑侦交织的读者",
+        "能接受阴郁氛围的读者"
+      ],
+      "watchFor": [
+        "当地民间传说「巴萨璜」在案件中的位置",
+        "女警探与家乡、家人之间的关系"
+      ],
+      "warning": "犯罪悬疑小说，涉及少女命案与地方传说，氛围阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(西) 多洛蕾丝·雷东多著，天津人民出版社 2017，丛编「紫图书库.果然·世界超级畅销小说大系 ; 巴斯坦三部曲」。**判据**：①**详情页主题词为「侦探小说 西班牙 现代 ; 长篇小说 西班牙 现代」**（第①类，最硬）；②**中图分类号 `I551.456`**；③**丛编直接写明「巴斯坦三部曲」**，为三部曲第一部。**年份字段说明**：`firstPublished` 记 2013（西班牙文原版年）；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-009",
+    "title": "海峡谜案",
+    "originalTitle": "The Sea Mystery",
+    "author": "弗里曼·威尔斯·克劳夫茨",
+    "authorEn": "Freeman Wills Crofts",
+    "genre": "本格推理",
+    "firstPublished": "1928",
+    "editionYear": "2020",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "约瑟夫·弗伦奇",
+    "country": "英国",
+    "tags": [
+      "gain",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一艘小船漂在海上，船上是两具尸体；与此同时一家金融公司巨款失踪，督察弗伦奇要同时追查两条线。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格推理的读者",
+        "喜欢「查证型」侦破过程的读者"
+      ],
+      "watchFor": [
+        "海上现场留下的物证",
+        "两条线索如何并成一条"
+      ],
+      "warning": "黄金时代本格推理，涉及命案与金融犯罪。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(爱尔兰) 弗里曼·威尔斯·克罗夫茨著，中国青年出版社 2020，丛编「大英图书馆侦探小说黄金时代经典作品集」。**判据**：①**详情页主题词为「侦探小说 爱尔兰 现代 ; 长篇小说 爱尔兰 现代」**（第①类，最硬）；②**中图分类号 `I562.45`**；③馆藏提要写明督察弗伦奇与两条并行线索。**作者归并说明**：库内该作者原有 3 部（《木桶之谜》《飞行疑案》《伟大的弗伦奇探长》），统一署**「弗里曼·威尔斯·克劳夫茨」**、国别记**英国**（与本库既有条目一致；馆藏著录作「爱尔兰」，因其生于都柏林、通常按英国作家著录，此处以库内一致性优先）。**年份字段说明**：`firstPublished` 记 1928；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-010",
+    "title": "动物园谜案",
+    "originalTitle": "",
+    "author": "弗里曼·威尔斯·克劳夫茨",
+    "authorEn": "Freeman Wills Crofts",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "约瑟夫·弗伦奇",
+    "country": "英国",
+    "tags": [
+      "gain"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "动物园园长债务缠身、家庭失和，园里的动物又染上疾病——他盼着有一件事能把自己拉出泥潭。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格推理的读者",
+        "克劳夫茨笔下「弗伦奇探长」系列的书迷"
+      ],
+      "watchFor": [
+        "园长的处境如何一步步收紧",
+        "案件中的时间与账目细节"
+      ],
+      "warning": "黄金时代本格推理，涉及命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(爱尔兰) 弗里曼·威尔斯·克罗夫茨著，中国青年出版社 2019，丛编「大英图书馆·侦探小说黄金时代经典作品集」。**判据**：①**详情页主题词为「推理小说 爱尔兰 现代 ; 长篇小说 爱尔兰 现代」**（第①类，最硬）；②**中图分类号 `I562.45`**；③馆藏提要写明案件起因（动物园园长的债务与家庭困境）。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**——著录未给出英文原作年，原作年待核，不臆断。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-011",
+    "title": "豕背山奇案",
+    "originalTitle": "The Hog's Back Mystery",
+    "author": "弗里曼·威尔斯·克劳夫茨",
+    "authorEn": "Freeman Wills Crofts",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "editionYear": "2019",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "约瑟夫·弗伦奇",
+    "country": "英国",
+    "tags": [
+      "passion",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "豕背山附近的一场家庭风波之后，厄尔医生与一名护士先后失踪，弗伦奇督察被派去调查此案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格推理的读者",
+        "喜欢失踪案与走访式调查的读者"
+      ],
+      "watchFor": [
+        "两起失踪在时间上的关系",
+        "弗伦奇督察核对行踪的方法"
+      ],
+      "warning": "黄金时代本格推理，涉及失踪与命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(爱尔兰) 弗里曼·威尔斯·克罗夫茨著，中国青年出版社 2019，丛编「大英图书馆·侦探小说黄金时代经典作品集」。**判据**：①**详情页主题词为「推理小说 爱尔兰 现代 ; 长篇小说 爱尔兰 现代」**（第①类，最硬）；②**中图分类号 `I562.45`**；③馆藏提要写明家庭风波与两起先后失踪。**年份字段说明**：`firstPublished` 记 1933；`editionYear` 记 2019。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-012",
+    "title": "窗上人影",
+    "originalTitle": "",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "「麦格雷探案集」中的中篇：警探麦格雷从日常的观察入手，把一桩看似寻常的案子一点点查下去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷系列与西姆农的读者",
+        "喜欢以人物与日常细节取胜的警探小说"
+      ],
+      "watchFor": [
+        "麦格雷问话与观察的方式",
+        "巴黎街区的日常质感"
+      ],
+      "warning": "警察程序派中篇小说集，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(比) 乔治·西姆农著，译林出版社 2006，丛编「麦格雷探案集」。**判据**：①**详情页主题词为「侦探小说 小说集 比利时 现代 ; 中篇小说 小说集 比利时 现代」**（第①类，最硬）；②**中图分类号 `I564.456`**；③**丛编为「麦格雷探案集」**。**作者补缺**：库内原无西姆农作品，本次为该作者首部。**年份字段说明**：`editionYear` 记 2006；`firstPublished` **留空**——馆藏提要为空且未给出法文原作年，不臆断。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-013",
+    "title": "疯狂诺贝尔",
+    "originalTitle": "Hygiène de l'assassin",
+    "author": "阿梅丽·诺冬",
+    "authorEn": "Amélie Nothomb",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1992",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "比利时",
+    "tags": [
+      "cipher",
+      "meta-fiction"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一位诺奖作家被宣告只剩两个月寿命，记者蜂拥而至；他毕生的作品里埋着始终无人发现的线索。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以对话推进的悬疑作品的读者",
+        "诺冬的读者"
+      ],
+      "watchFor": [
+        "受访者与作家之间话语权的转移",
+        "作品里被埋下的线索指向什么"
+      ],
+      "warning": "文学性悬疑小说，以长篇对话为主，含命案相关话题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(比) 阿梅丽·诺冬著，湖南文艺出版社 2022.01。**判据**：①**详情页主题词为「推理小说 比利时 现代 ; 长篇小说 比利时 现代」**（第①类，最硬）；②**中图分类号 `I564.45`**；③提要写明「作品中留下秘密线索、等待被发现」这一解谜框架。**年份字段说明**：`firstPublished` 记 1992（法文原版年）；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-014",
+    "title": "嫌疑人",
+    "originalTitle": "The Suspect",
+    "author": "迈克尔·罗伯森",
+    "authorEn": "Michael Robotham",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2004",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "约瑟夫·奥洛克林",
+    "country": "澳大利亚",
+    "tags": [
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "心理医生被确诊帕金森症后不久卷入一桩谋杀案，死者是他几年前的同事兼病人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "喜欢「被怀疑者自证」结构的读者"
+      ],
+      "watchFor": [
+        "叙述者约瑟夫自身的可靠性",
+        "他与警方、家人之间的信息差"
+      ],
+      "warning": "心理悬疑小说，涉及命案与疾病处境。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(澳) 迈克尔·罗伯森著，湖南文艺出版社 2020。**判据**：①**详情页主题词为「推理小说 澳大利亚 现代 ; 长篇小说 澳大利亚 现代」**（第①类，最硬）；②**中图分类号 `I611.45`**；③提要写明主角被卷入谋杀案而自行调查。**年份字段说明**：`firstPublished` 记 2004（英文原版年）；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-015",
+    "title": "非洲富豪奇案",
+    "originalTitle": "An African Millionaire",
+    "author": "格兰特·艾伦",
+    "authorEn": "Grant Allen",
+    "genre": "冒险悬疑",
+    "firstPublished": "1897",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "加拿大",
+    "tags": [
+      "dual-role",
+      "identity",
+      "adventure"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "非洲富豪在世界各地游历，接连遇上身怀绝技的奇人，而蛛丝马迹显示他们似乎是同一个人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢十九世纪末「骗局故事」的读者",
+        "对一人多角题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "每一章里「奇人」的手法是同一种还是不同的",
+        "叙述者与富豪之间的信任关系"
+      ],
+      "warning": "十九世纪末的连作短篇集，以骗局与身份伪装为主，案件多为诈取财物。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(加) 格兰特·艾伦著，上海文艺出版社 2021，丛编「域外故事会」。**判据**：①**详情页主题词为「侦探小说 加拿大 现代 ; 长篇小说 加拿大 现代」**（第①类，最硬）；②**中图分类号 `I711.45`**；③提要写明「奇人疑似同一人」的身份谜题。**年份字段说明**：`firstPublished` 记 1897（英文原版年）；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-016",
+    "title": "酒店女仆",
+    "originalTitle": "The Maid",
+    "author": "妮塔·普洛斯",
+    "authorEn": "Nita Prose",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "editionYear": "2022",
+    "series": "午夜文库·妮塔·普洛斯作品",
+    "detective": "莫莉",
+    "country": "加拿大",
+    "tags": [
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "酒店女仆莫莉一向不起眼，直到她在客房里发现了一具尸体，成了众人瞩目的焦点。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢业余侦探与封闭场所命案的读者",
+        "偏爱「不被看见的人」这类视角的读者"
+      ],
+      "watchFor": [
+        "莫莉理解人情世故的方式",
+        "酒店这个封闭场所里各人的说辞"
+      ],
+      "warning": "本格推理（Cozy 风格），涉及命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(加) 妮塔·普洛斯著，新星出版社 2022，丛编「午夜文库.妮塔·普洛斯作品」。**判据**：①**详情页主题词为「侦探小说 加拿大 现代 ; 长篇小说 加拿大 现代」**（第①类，最硬）；②**中图分类号 `I711.45`**；③**丛编为午夜文库**且提要写明女仆在客房发现尸体。**年份字段说明**：`firstPublished` 记 2022（英文原版年）；`editionYear` 记 2022——两者同年，`editionYear` 保留以便标注所引版本。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-017",
+    "title": "陌生来电",
+    "originalTitle": "Never Knowing",
+    "author": "雪薇·史蒂文斯",
+    "authorEn": "Chevy Stevens",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "加拿大",
+    "tags": [
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "莎拉查到自己的生父与三十五年前那起连环案有关，紧接着她接到了一个自称是父亲的电话。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "喜欢身世与旧案交织的题材的读者"
+      ],
+      "watchFor": [
+        "莎拉与养父母、生母之间的关系",
+        "来电者掌握的信息从何而来"
+      ],
+      "warning": "心理悬疑小说，涉及连环案件与家庭创伤。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(加) 雪薇·史蒂文斯著，天地出版社 2021，丛编「雪薇·史蒂文斯心理悬疑三部曲」（馆藏著录「需薇」为错字）。**判据**：①**详情页主题词为「推理小说 加拿大 现代 ; 长篇小说 加拿大 现代」**（第①类，最硬）；②**中图分类号 `I711.45`**；③提要写明生母为旧案唯一幸存者、生父涉案。**年份字段说明**：`firstPublished` 记 2011（英文原版年）；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-018",
+    "title": "伊西德罗·帕罗迪的六个谜题",
+    "originalTitle": "Seis problemas para don Isidro Parodi",
+    "author": "豪尔赫·路易斯·博尔赫斯、阿道夫·比奥伊·卡萨雷斯",
+    "authors": [
+      "豪尔赫·路易斯·博尔赫斯",
+      "阿道夫·比奥伊·卡萨雷斯"
+    ],
+    "authorEn": "Jorge Luis Borges; Adolfo Bioy Casares",
+    "genre": "本格推理",
+    "firstPublished": "1942",
+    "editionYear": "2021",
+    "series": "博尔赫斯全集",
+    "detective": "伊西德罗·帕罗迪",
+    "country": "阿根廷",
+    "tags": [
+      "meta-fiction",
+      "series-detective",
+      "city"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "《博尔赫斯全集》中的六个短篇：囚室里的侦探帕罗迪，仅凭访客的讲述推理出案件的答案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「安乐椅侦探」与短篇连作的读者",
+        "对后设趣味与戏仿感兴趣的读者"
+      ],
+      "watchFor": [
+        "侦探如何在不见现场的情况下推理",
+        "六篇各自戏仿的是哪一路写法"
+      ],
+      "warning": "阿根廷作家的短篇推理连作，含命案，风格带戏仿与后设色彩。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(阿根廷) 豪尔赫·路易斯·博尔赫斯, 阿道夫·比奥伊·卡萨雷斯著，上海译文出版社 2021，丛编「博尔赫斯全集」。**判据**：①**详情页主题词为「侦探小说 小说集 阿根廷 现代 ; 短篇小说 小说集 阿根廷 现代」**（第①类，最硬）；②**中图分类号 `I783.45`**；③**丛编与库内已收《死亡的样板》同为「博尔赫斯全集」**。**责任者**：馆藏著录两位作者并列，按 §34.2 全部登记，界面显示「合著」徽章。**年份字段说明**：`firstPublished` 记 1942（西班牙文原版年）；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-019",
+    "title": "孤独的卡门",
+    "originalTitle": "",
+    "author": "马塞拉·塞拉诺",
+    "authorEn": "Marcela Serrano",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "西班牙语文学译丛",
+    "detective": "罗莎·阿尔瓦雷",
+    "country": "智利",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "作家卡门在机场离奇失踪，警方束手；她的丈夫请来侦探罗莎·阿尔瓦雷，沿着三个男人的线索寻找。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "拉美文学与女性侦探题材的读者",
+        "喜欢以人物关系网推进调查的读者"
+      ],
+      "watchFor": [
+        "三位男性与卡门各自的关系",
+        "卡门失踪前留下的最后一句线索"
+      ],
+      "warning": "拉美犯罪小说，涉及失踪案件与情感关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(智) 马塞拉·塞拉诺著，中央编译出版社 2020，丛编「西班牙语文学译丛」。**判据**：①**详情页主题词为「侦探小说 智利 现代 ; 长篇小说 智利 现代」**（第①类，最硬）；②**中图分类号 `I784.45`**；③提要写明女侦探罗莎·阿尔瓦雷的调查线。**国别说明**：**智利为本库新增国别**（原 28 国）。**年份字段说明**：`editionYear` 记 2020；`firstPublished` **留空**——著录未给出西班牙文原作年。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-020",
+    "title": "记忆书店",
+    "originalTitle": "",
+    "author": "郑明燮",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一位古旧书收藏家突然隐退，开了家只卖自己藏书的书店；来往的客人各有心事，他的往事也慢慢翻开。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧书店与藏书题材的读者",
+        "偏爱慢热、以人物往事收束的推理读者"
+      ],
+      "watchFor": [
+        "书店来客各自的目的",
+        "叙述者刘明愚刻意省略的部分"
+      ],
+      "warning": "韩国推理小说，涉及陈年旧案与暴力往事。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(韩) 郑明燮著，北京联合出版公司 2022。**判据**：①**详情页主题词为「推理小说 韩国 现代 ; 长篇小说 韩国 现代」**（第①类，最硬）；②**中图分类号 `I312.645`**；③提要写明主角往事随来客逐步揭晓。**年份字段说明**：`editionYear` 记 2022；`firstPublished` **留空**——著录未给出韩文原作年。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-021",
+    "title": "信号.上",
+    "originalTitle": "",
+    "author": "金银姬、李仁熙",
+    "authors": [
+      "金银姬",
+      "李仁熙"
+    ],
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "信号",
+    "detective": "朴海英",
+    "country": "韩国",
+    "tags": [
+      "dual-line",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一台十多年前的老式无线机响起，把现在的犯罪心理分析师与八十年代的刑警连在了一起。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双时空办案结构的读者",
+        "对未破悬案题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "两台时空的信息如何互相影响",
+        "每一个案子的时间差"
+      ],
+      "warning": "改编自同名剧集的推理小说（上卷），含命案与绑架情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(韩) 金银姬, 李仁熙著，中国友谊出版公司 2023。**判据**：①**详情页主题词为「推理小说 韩国 现代 ; 长篇小说 韩国 现代」**（第①类，最硬）；②**中图分类号 `I312.645`**；③提要写明两个时空的警探通过无线机联手办案，并列出本卷所收案件。**责任者**：馆藏著录两位作者并列，按 §34.2 全部登记，界面显示「合著」徽章。**年份字段说明**：`editionYear` 记 2023；`firstPublished` **留空**——本书为剧集改编小说，原作年不计入「首次出版年」。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world159-022",
+    "title": "信号.下",
+    "originalTitle": "",
+    "author": "金银姬、李仁熙",
+    "authors": [
+      "金银姬",
+      "李仁熙"
+    ],
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "信号",
+    "detective": "朴海英",
+    "country": "韩国",
+    "tags": [
+      "dual-line",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "无线机两端的两个人继续隔空合作，把那些悬而未决的旧案一件件重新翻出来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双时空办案结构的读者",
+        "读完上卷继续追的读者"
+      ],
+      "watchFor": [
+        "旧案被改写后带来的连锁变化",
+        "两位主角各自的处境"
+      ],
+      "warning": "改编自同名剧集的推理小说（下卷），含命案与连环案件情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法分类号整类枚举**发现，见 §58.2）：(韩) 金银姬, 李仁熙著，中国友谊出版公司 2023。**判据**：①**详情页主题词为「推理小说 韩国 现代 ; 长篇小说 韩国 现代」**（第①类，最硬）；②**中图分类号 `I312.645`**；③提要列出本卷所收案件。**卷次说明**：与《信号.上》为同一部书的两卷，分别登记（与本库处理《乱步侦探作品集》各卷的做法一致）。**年份字段说明**：`editionYear` 记 2023；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-159-world-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "id": "cnmod2-001",
+    "title": "请把门锁好",
+    "originalTitle": "",
+    "author": "既晴",
+    "authorEn": "Chi Ching",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "张钧见系列",
+    "detective": "张钧见",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一桩发生在反锁房间里的死亡，现场条件否定了外人进出的可能。调查者必须在「房间确实是锁着的」这个前提下，解释里面究竟发生过什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 669,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1752754/",
+        "subjectId": "1752754",
+        "edition": "请把门锁好 2006",
+        "fetchedAt": "2026-09-22T09:54:46.403Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "关注台湾原创本格的读者"
+      ],
+      "watchFor": [
+        "门锁的类型与钥匙的保管",
+        "房间内外的人各自听到过什么",
+        "被当作「当然锁着」而没人验证的那一步"
+      ],
+      "warning": "台湾原创密室推理，含阴冷氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；首次出版年份未能核实，故留空而不是填一个估计值"
+    },
+    "provenance": {
+      "source": "batch-37-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod2-002",
+    "title": "风的预谋",
+    "originalTitle": "",
+    "author": "鬼马星",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "莫兰系列",
+    "detective": "莫兰、高竞",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment",
+      "obsession",
+      "dual-line",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一名年轻女子被卷入一桩与她毫无关系的案子，警方最初只把她当作证人。随着调查展开，她发现自己过去的一段经历，正好能解释案件里最说不通的那个环节。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1222,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3545046/",
+        "subjectId": "3545046",
+        "edition": "风的预谋 2009",
+        "fetchedAt": "2026-09-22T09:54:52.145Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢侦探搭档与都市悬疑的读者",
+        "读过鬼马星其他作品的读者"
+      ],
+      "watchFor": [
+        "证人身份与案件之间的那层关系",
+        "主角回忆往事时跳过的部分",
+        "办案方对同一线索的两种解读"
+      ],
+      "warning": "华语都市犯罪悬疑，含感情线与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-37-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod2-003",
+    "title": "摄魂谷",
+    "originalTitle": "",
+    "author": "周浩晖",
+    "authorEn": "Zhou Haohui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "罗飞系列",
+    "detective": "罗飞",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "legend-folklore",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一处地方流传着关于「摄魂」的旧说法，当地人提起来都压低了声音。警方在调查一桩命案时发现，这个说法被人当成了某种很好用的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1537,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3590913/",
+        "subjectId": "3590913",
+        "edition": "摄魂谷 2009",
+        "fetchedAt": "2026-09-22T09:54:59.789Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢刑侦与民俗氛围结合的读者",
+        "读过周浩晖其他作品的读者"
+      ],
+      "watchFor": [
+        "旧说法最早由谁讲出来",
+        "当地人对同一件事的不同忌讳",
+        "案发现场被刻意做出来的那部分"
+      ],
+      "warning": "华语刑侦悬疑，含民俗传闻与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-37-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod2-004",
+    "title": "第十一根手指",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "法医秦明系列",
+    "detective": "法医秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "city",
+      "series-detective",
+      "silencing",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "法医小组接手的几起案件里，死者身上的痕迹都指向同一个方向，却和现场的其他证据互相矛盾。要解开这个矛盾，只能回到解剖台上一条条重新核对。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 7741,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25896617/",
+        "subjectId": "25896617",
+        "edition": "第十一根手指 2014",
+        "fetchedAt": "2026-09-22T09:55:03.600Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对法医鉴识流程感兴趣的读者",
+        "读过「法医秦明」系列其他作品的读者"
+      ],
+      "watchFor": [
+        "尸体征象与现场证据不一致的地方",
+        "凶器推断与伤口形态的对应",
+        "几起案件重复出现的同类损伤"
+      ],
+      "warning": "「法医秦明」系列作品，含详细尸检与凶案描写，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-37-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

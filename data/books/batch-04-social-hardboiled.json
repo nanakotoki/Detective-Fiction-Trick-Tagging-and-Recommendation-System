@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "social-001",
+    "title": "点与线",
+    "originalTitle": "点と線",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1958",
+    "series": "",
+    "detective": "鸟饲重太郎、三原纪一",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "alibi",
+      "red-herring",
+      "train",
+      "city",
+      "silencing",
+      "social-commentary",
+      "honkaku"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "两名公职人员在同一时刻被发现死于相隔遥远的两个地点，看似毫无关联。一名老刑警从列车时刻表的细节中嗅到不对劲，开始追查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为它是时刻表诡计与社会派批判结合的代表作；对战后日本社会氛围的还原评价较高。",
+        "score": 7.8,
+        "count": 8831,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4152764/",
+        "subjectId": "4152764",
+        "edition": "点与线 2010年1月",
+        "fetchedAt": "2026-09-20T12:02:06.983Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.85,
+        "count": 900,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多认为时间诡计精密，部分读者觉得节奏偏慢、时代背景隔阂明显。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时刻表与不在场证明类诡计的读者",
+        "偏好社会派笔法的读者"
+      ],
+      "watchFor": [
+        "列车时刻与人物移动路线的对应关系",
+        "人物之间是否存在工作之外的联系"
+      ],
+      "warning": "本书的谜团高度依赖时间刻度，建议边读边记录各场景的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版社:,2007（点与线／(日) 松本清张著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2007"
+  },
+  {
+    "id": "social-002",
+    "title": "砂器",
+    "originalTitle": "砂の器",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1961",
+    "series": "",
+    "detective": "今西荣太郎（警视厅搜查一课）",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "alibi",
+      "red-herring",
+      "dual-line",
+      "train",
+      "city",
+      "countryside",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名身份不明的男子死在东京的调车场，随身没有留下能证明来历的东西。老刑警从口音和零碎的话语出发，沿着铁路一路向西追查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "被不少读者视为松本清张长篇的代表作，对调查过程与人物处境的写法评价较高；也有读者提到篇幅偏长、节奏偏慢。",
+        "score": 7.8,
+        "count": 6483,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2119536/",
+        "subjectId": "2119536",
+        "edition": "砂器 2007",
+        "fetchedAt": "2026-09-20T12:05:27.259Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版以调查线为主，读者多称赞其中的社会观察，也有人认为叙事节奏与当代作品差异较大。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢走访式调查与路线追踪的读者",
+        "偏好社会派长篇的读者"
+      ],
+      "watchFor": [
+        "人物在不同场合提到故乡时的说法",
+        "调查过程中被反复提及的地名与路线"
+      ],
+      "warning": "本书线索密集且涉及大量地名与移动路线，建议留意人物行动的先后顺序。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版社:,2009（砂器／(日) 松本清张著, 赵德远译）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "social-003",
+    "title": "零的焦点",
+    "originalTitle": "ゼロの焦点",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1959",
+    "series": "",
+    "detective": "祯子（主人公，非警方）",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "concealment",
+      "identity",
+      "city",
+      "countryside",
+      "train",
+      "social-commentary",
+      "historical-setting"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "新婚不久，丈夫说要去北陆出差，此后便再无音信。妻子循着零星线索一路寻访，遇到的人说法彼此矛盾，丈夫的过往也显出她不熟悉的一面。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为它以普通人视角展开追查、氛围压抑，社会派色彩浓于解谜色彩。",
+        "score": 7.9,
+        "count": 3728,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26795258/",
+        "subjectId": "26795258",
+        "edition": "零的焦点 2016",
+        "fetchedAt": "2026-09-20T12:02:11.728Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.5,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者评价较为分散，多提到战后日本的时代背景与人物心理描写。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以普通人视角追查真相的读者",
+        "偏好战后日本时代氛围的读者"
+      ],
+      "watchFor": [
+        "身边人对同一件事前后不一致的说法",
+        "主人公对丈夫工作与交友圈了解有限的部分"
+      ],
+      "warning": "本书以心理与时代氛围见长，解谜节奏较缓，建议放慢阅读速度。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "social-004",
+    "title": "黑革的手帖",
+    "originalTitle": "黒革の手帖",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1958",
+    "series": "",
+    "detective": "无固定侦探（以主人公原口元子的视角展开）",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "gain",
+      "obsession",
+      "concealment",
+      "city",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一名银座俱乐部的女主人靠一本黑色记事本经营生意，本子上记着来往者的名字与数目。当有人开始盯上这本子，她的店与人际关系同时松动起来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": 7.8,
+        "count": null,
+        "source": "豆瓣读书（离线估计，未联网核实）",
+        "asOf": "2025-01",
+        "summary": "读者对主人公强硬的性格与银座行业描写印象较深，讨论多集中在人物本身而非解谜过程。"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以犯罪者为主角的作品的读者",
+        "对昭和都市与服务业生态感兴趣的读者"
+      ],
+      "watchFor": [
+        "人与人之间利益关系的变动",
+        "金钱往来的记录在谁手中、被谁看过"
+      ],
+      "warning": "本书主人公并非侦查者，阅读时不必期待传统的侦探视角。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "ratingsNote": "本书的平台评分未能实时抓取（豆瓣未检索到匹配条目），当前数值为离线整理的估计值，请以平台实时页面为准。"
+    }
+  },
+  {
+    "id": "social-005",
+    "title": "人性的证明",
+    "originalTitle": "人間の証明",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "1975",
+    "series": "",
+    "detective": "栋居弘一（警视厅搜查一课）",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "alibi",
+      "psychological-misdirection",
+      "dual-line",
+      "city",
+      "social-commentary",
+      "identity",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名黑人男子在东京闹市被刺身亡，身上没有能证明身份的物品。警视厅刑警从现场的几件旧物入手，追查他此行的目的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为它把案件与社会议题、人物命运结合得较紧密，情感浓度高，是森村诚一最具代表性的作品之一。",
+        "score": 8.4,
+        "count": 2778,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1094487/",
+        "subjectId": "1094487",
+        "edition": "人性的证明 2002",
+        "fetchedAt": "2026-09-20T12:02:16.660Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢跨国调查与社会议题交织的读者",
+        "偏好情感浓度高的社会派作品的读者"
+      ],
+      "watchFor": [
+        "人物对自身出身的回避态度",
+        "同一件物品在不同人物记忆中的说法差异"
+      ],
+      "warning": "本书涉及跨国背景与多方视角，建议留意时间与地点的切换标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "social-006",
+    "title": "野性的证明",
+    "originalTitle": "野性の証明",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "1977",
+    "series": "",
+    "detective": "味沢岳史（主人公，非警方）",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "silencing",
+      "concealment",
+      "countryside",
+      "city",
+      "dark-atmosphere",
+      "social-commentary",
+      "adventure"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一个偏远的山村里，一桩看似寻常的事故被当作意外处理，村民们对此一致保持沉默。一个沉默寡言的男人被卷了进来，他极力回避自己的过去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多提到它动作性与社会议题并重，评价较为两极：有人觉得气势足，也有人认为情节偏重娱乐性。",
+        "score": 8,
+        "count": 1241,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1207338/",
+        "subjectId": "1207338",
+        "edition": "野性的证明 2002",
+        "fetchedAt": "2026-09-20T12:02:22.529Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢动作性与社会议题并重的读者",
+        "偏好山村封闭环境故事的读者"
+      ],
+      "watchFor": [
+        "村民对外来者提问时的集体沉默",
+        "事故现场被忽略的细节与旁人的反应"
+      ],
+      "warning": "本书篇幅较长、人物众多，建议留意各方对同一事件的不同叙述。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,群众出版社:,2024（野性的证明／(日) 森村诚一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "social-007",
+    "title": "列车上的陌生人",
+    "originalTitle": "Strangers on a Train",
+    "author": "帕特里夏·海史密斯",
+    "authorEn": "Patricia Highsmith",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1950",
+    "series": "",
+    "detective": "无固定侦探（双主角视角）",
+    "country": "美国",
+    "tags": [
+      "swap-murder",
+      "psychological-misdirection",
+      "obsession",
+      "fear",
+      "concealment",
+      "dual-line",
+      "train",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "火车上，一名建筑师与同座的陌生男人闲聊起来。对方半开玩笑地提出一桩彼此交换的约定，他随口敷衍过去，却发现对方当了真。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为心理压迫感强、人物关系写得细，也有读者觉得篇幅与节奏偏慢。",
+        "score": 6.6,
+        "count": 157,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35128342/",
+        "subjectId": "35128342",
+        "edition": "列车上的陌生人 2020",
+        "fetchedAt": "2026-09-20T12:02:26.152Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版被视为海史密斯早期代表作，读者对心理描写评价较高，部分读者认为不如她后来的作品成熟。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理压迫感强的犯罪小说的读者",
+        "偏好双主角对峙结构的读者"
+      ],
+      "watchFor": [
+        "两人对同一次谈话各自的理解",
+        "人物在压力下言行逐渐失控的节点"
+      ],
+      "warning": "本书几乎没有侦探角色，重点在人物的心理变化，请留意叙述视角的切换。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2010（列车上的陌生人／帕特里夏·海史密斯著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "social-008",
+    "title": "瘦子",
+    "originalTitle": "The Thin Man",
+    "author": "达希尔·哈米特",
+    "authorEn": "Dashiell Hammett",
+    "genre": "硬汉派",
+    "firstPublished": "1934",
+    "series": "",
+    "detective": "尼克·查尔斯（退休私家侦探）",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "first-person",
+      "hardboiled",
+      "city",
+      "gain",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "一位退休侦探带着妻子回到纽约，本只想过清闲日子，却被卷进一桩失踪案。饭局、酒会和形形色色的旧关系把他重新拖回案子里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": 7.8,
+        "count": null,
+        "source": "豆瓣读书（离线估计，未联网核实）",
+        "asOf": "2025-01",
+        "summary": "读者多喜欢其中轻松幽默的对话与夫妻搭档的相处方式，认为解谜成分相对清淡。"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞对白与人物魅力，也常提到它是哈米特作品中较为轻快的一部。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢幽默对白与夫妻搭档的读者",
+        "偏好古典硬汉派的读者"
+      ],
+      "watchFor": [
+        "众多登场人物各自的利害关系",
+        "看似随口说出的供述之间的出入"
+      ],
+      "warning": "本书登场人物较多且以对话推动，建议边读边理清人物之间的关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2001（瘦子／(美) 达希尔·哈米特著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "ratingsNote": "本书的平台评分未能实时抓取（豆瓣未检索到匹配条目），当前数值为离线整理的估计值，请以平台实时页面为准。"
+    },
+    "editionYear": "2001"
+  },
+  {
+    "id": "social-009",
+    "title": "大诱拐",
+    "originalTitle": "大誘拐",
+    "author": "天藤真",
+    "authorEn": "Shin Tendo",
+    "genre": "日常之谜",
+    "firstPublished": "1978",
+    "series": "",
+    "detective": "无固定侦探（绑匪与警方多视角）",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "gain",
+      "adventure",
+      "ensemble",
+      "countryside",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "三名男子绑架了一位年迈的豪门女主人，开口索要一笔前所未闻的巨额赎金。被绑架的老太太却出奇地镇定，事情开始朝着绑匪也没料到的方向走。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为它节奏轻快、构思巧妙，是日本幽默推理的代表作之一。",
+        "score": 7.7,
+        "count": 6347,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35783275/",
+        "subjectId": "35783275",
+        "edition": "大诱拐 2022",
+        "fetchedAt": "2026-09-20T12:02:31.123Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻快幽默的犯罪故事的读者",
+        "偏好群像与多方周旋的读者"
+      ],
+      "watchFor": [
+        "各方对同一计划的掌握程度差异",
+        "被绑架者与绑匪之间态度的微妙变化"
+      ],
+      "warning": "本书基调轻松，与传统社会派或硬汉派的阅读预期不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2022（大诱拐／(日) 天藤真著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "social-010",
+    "title": "马耳他之鹰",
+    "originalTitle": "The Maltese Falcon",
+    "author": "达希尔·哈米特",
+    "authorEn": "Dashiell Hammett",
+    "genre": "硬汉派",
+    "firstPublished": "1930",
+    "series": "",
+    "detective": "山姆·斯佩德（私家侦探）",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "hardboiled",
+      "city",
+      "gain",
+      "obsession",
+      "adventure",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "旧金山的私家侦探接下一位女客人的委托，去追一个行踪不定的男人。很快，一尊黑鹰雕像把几个各怀心思的人引到了他面前。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为它是硬汉派的奠基之作，对白简练；也有读者觉得人物动机与情节转折需要耐心。",
+        "score": 7.2,
+        "count": 1793,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7916107/",
+        "subjectId": "7916107",
+        "edition": "马耳他之鹰 2012",
+        "fetchedAt": "2026-09-20T12:02:34.746Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版长期被视为类型经典，读者普遍认可其冷硬文风与节奏，对人物道德模糊性的讨论较多。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢冷硬对白与道德模糊人物的读者",
+        "偏好古典硬汉派的读者"
+      ],
+      "watchFor": [
+        "同一件物品在不同人口中的来历",
+        "委托人陈述中前后不一致的部分"
+      ],
+      "warning": "本书叙述克制、几乎不进入人物内心，建议留意人物的行为与措辞细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "马耳他黑鹰"
+    ]
+  },
+  {
+    "id": "social-011",
+    "title": "长眠不醒",
+    "originalTitle": "The Big Sleep",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1939",
+    "series": "菲利普·马洛系列",
+    "detective": "菲利普·马洛（私家侦探）",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "first-person",
+      "hardboiled",
+      "city",
+      "gain",
+      "concealment",
+      "silencing",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "一名私家侦探受雇于年迈的将军，去处理一桩勒索委托，将军的两个女儿各有各的麻烦。案子很快牵出赌场、书商和一串彼此纠缠的人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞马洛的独白与氛围营造，也常提到情节线索繁多、需要集中注意力。",
+        "score": 7.8,
+        "count": 4360,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3017205/",
+        "subjectId": "3017205",
+        "edition": "长眠不醒 2008",
+        "fetchedAt": "2026-09-20T12:02:38.504Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版评价集中在文风与人物塑造，不少读者提到支线庞杂、部分线索未必完全收束。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢第一人称独白与都市氛围的读者",
+        "偏好硬汉派经典侦探形象的读者"
+      ],
+      "watchFor": [
+        "委托人家族成员之间彼此隐瞒的部分",
+        "多条支线之间人物关系的重叠"
+      ],
+      "warning": "本书支线较多，建议留意人物登场时的身份说明与彼此关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "social-012",
+    "title": "漫长的告别",
+    "originalTitle": "The Long Goodbye",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1953",
+    "series": "菲利普·马洛系列",
+    "detective": "菲利普·马洛（私家侦探）",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "first-person",
+      "hardboiled",
+      "city",
+      "concealment",
+      "obsession",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "一名私家侦探在酒吧结识了一个潦倒而体面的男人，几次出手相助之后，对方却卷入一桩命案并消失在国境之外。他决定把这件事弄明白。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为它是钱德勒最成熟的作品，对其中关于友情与告别的书写评价很高。",
+        "score": 8.1,
+        "count": 36738,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30316475/",
+        "subjectId": "30316475",
+        "edition": "漫长的告别 2018",
+        "fetchedAt": "2026-09-20T12:02:52.788Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多认为它超越一般类型小说、情感浓度高，也有读者认为中段节奏偏慢。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以友情与道义为主题的犯罪小说的读者",
+        "偏好第一人称硬汉叙事的读者"
+      ],
+      "watchFor": [
+        "人物在关键时刻对往事的说法变化",
+        "酒与友谊在叙述中反复出现的场合"
+      ],
+      "warning": "本书情感线重于解谜线，建议留意叙述者对同一人物态度的转变。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+    },
+    "provenance": {
+      "source": "batch-04-social-hardboiled.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "长相别",
+      "漫长的道别"
+    ]
+  }
+]

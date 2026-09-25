@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "midjp100-001",
+    "title": "春，夏，然后是冬",
+    "originalTitle": "春から夏、やがて冬",
+    "author": "歌野晶午",
+    "authorEn": "Utano Shogo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "youth",
+      "fear",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "安保大叔平田在超市抓住一个行窃的少女——她与他逝去的独生女同为十七岁。两个原本陌生的人，由此开始了一段彼此牵连的日子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "歌野晶午的读者",
+        "人性题材的爱好者"
+      ],
+      "watchFor": [
+        "平田与少女各自失去的东西",
+        "两人相处方式的变化",
+        "「十七岁」这个巧合"
+      ],
+      "warning": "推理长篇，绝望与救赎题材，含死亡与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/19928953（新星出版社 2012-10，264 页，ISBN 9787513309004，原作名 春から夏、やがて冬）。**推理属性判据**：①作者简介写明歌野晶午为「**新本格派**第一代作家」，并提及「**推理**之神岛田庄司」与「**推理**文学奖项」；②丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；③库内已有同作者《密室推理游戏》《密室杀人游戏2.0》《长屋杀人》三部。**诚实标注**：扬州市图书馆 OPAC marc 0000223727 的**学科主题未著录推理类**，且简介正文为人性题材、未给出推理谜题——本条判据依赖作者身份与推理专门书系两项，**弱于同批多数条目**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "midjp100-002",
+    "title": "贪婪之羊",
+    "originalTitle": "強欲な羊",
+    "author": "美轮和音",
+    "authorEn": "Miwa Kazune",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "dark-atmosphere",
+      "obsession",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "豪宅姐妹的恋人频频失踪，外婆遭虐杀身亡；失眠者梦见杀死朋友，次日老友果然陈尸公园；女高中生被铐在公厕隔间，隔壁两人接连消失。五个短篇，五种「贪婪」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢暗黑短篇的读者",
+        "《鬼来电》编剧的读者"
+      ],
+      "watchFor": [
+        "每篇里「贪婪」的具体形状",
+        "五篇之间的呼应",
+        "各篇结局的最后一笔"
+      ],
+      "warning": "短篇推理集（五篇），心理恐怖色彩浓，含虐杀、凶案与囚禁描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36572205（新星出版社 2023-11，230 页，ISBN 9787513353274，原作名 強欲な羊）。**推理属性判据**：①出版方宣传语为「**抑压推理**」「**短篇推理小说**」；②作者简介写明其获「第七届 **MYSTERIES!** 新人奖」，另有剧本笔名大良美波子（《鬼来电》编剧）；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）。**诚实标注**：扬州市图书馆 OPAC marc 0000964465 的学科主题未著录推理类；本条判据依赖出版方「推理」定位、奖项与推理专门书系三项。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "midjp100-003",
+    "title": "刀与伞",
+    "originalTitle": "刀と傘 明治京洛推理帖",
+    "author": "伊吹亚门",
+    "authorEn": "Ibuki Amon",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "鹿野师光、江藤新平",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "series-detective",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "幕末京都接连发生离奇命案：维新志士的怪死、狭小密室内的尸体、处刑前被毒死的囚犯。尾张藩士鹿野师光与江藤新平联手查案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "幕末历史题材的爱好者",
+        "本格推理读者"
+      ],
+      "watchFor": [
+        "狭小密室里的尸体",
+        "处刑前的毒杀如何发生",
+        "维新志士接连怪死的关联"
+      ],
+      "warning": "历史推理长篇，含凶案、毒杀与处刑描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36187796（新星出版社 2023-3，268 页，ISBN 9787513351188，**原作名 刀と傘 明治京洛推理帖**）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000965797：学科主题「推理小说」**；②出版方宣传语为「**第十九届本格推理大奖获奖作**」「监狱密室内的神秘命案」「日本**推理**新锐作家」，且系作者出道作；③原作名副题直书「**推理帖**」；④丛编为新星出版社「午夜文库·日系佳作」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "midjp100-004",
+    "title": "替身计划",
+    "originalTitle": "ダミー・プロット",
+    "author": "山泽晴雄",
+    "authorEn": "Yamazawa Haruo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "dual-role",
+      "identity",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "断手、头颅与躯干分置三处，经确认属于同一个人；神秘占卜师壬庚子下落不明。替身诡计与不在场证明交织成局。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典本格的爱好者",
+        "喜欢替身诡计的读者"
+      ],
+      "watchFor": [
+        "三处尸块分置的位置",
+        "占卜师壬庚子的行踪",
+        "各人的不在场证明"
+      ],
+      "warning": "本格推理长篇，含分尸与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36669749（新星出版社 2024-3，312 页，ISBN 9787513354356，原作名 ダミー・プロット）。**推理属性判据**：①出版方宣传语为「**本格推理**盛宴」「**替身诡计**」「**不在场证明**」，并称其为「名侦探神话」，且系**简体中文首次译介**；②结构为长篇＋4 道**推理谜题**＋3 篇随笔；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）。**诚实标注**：扬州市图书馆 OPAC marc 0000984605 的学科主题未著录推理类。**侦探字段留空**：简介未点名查案者。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "midjp100-005",
+    "title": "寻找王者",
+    "originalTitle": "キングを探せ",
+    "author": "法月纶太郎",
+    "authorEn": "Norizuki Rintaro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "法月纶太郎系列",
+    "detective": "法月警视、法月纶太郎",
+    "country": "日本",
+    "tags": [
+      "swap-murder",
+      "series-detective",
+      "alibi",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "四名男子相约交换杀人，抽扑克牌决定目标与顺序。缜密的犯罪计划出现了一个不起眼的失误，法月警视与纶太郎这对父子搭档随即展开追击。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法月纶太郎的读者",
+        "交换杀人题材的爱好者"
+      ],
+      "watchFor": [
+        "抽牌决定的顺序",
+        "那个「不起眼的失误」",
+        "父子二人的分工"
+      ],
+      "warning": "本格推理长篇，含交换杀人与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37364917（新星出版社 2025-12，204 页，ISBN 9787513361019，原作名 キングを探せ）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0001088389：学科主题「推理小说」**；②出版方宣传语为「四重**交换杀人**」「父子**侦探**搭档」「**本格推理** Best10 No.1」；③作者简介写明其曾获**日本推理作家协会奖**与**本格推理大奖**；④丛编为新星出版社「午夜文库·日系佳作」；⑤库内已有同作者《一的悲剧》《二的悲剧》《谁彼》等五部。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "midjp100-006",
+    "title": "苍海馆事件",
+    "originalTitle": "蒼海館の殺人",
+    "author": "阿津川辰海",
+    "authorEn": "Atsukawa Tatsumi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "馆系列四重奏",
+    "detective": "葛城",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "mansion",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "为了见不来学校的好友葛城，我前往 Y 村的苍海馆，却再次遭遇命案。天降大雨、洪水警报之中，命案接连发生；而名侦探葛城闭门不出，作为助手的我心急如焚。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "阿津川辰海的读者",
+        "暴风雪山庄模式的爱好者"
+      ],
+      "watchFor": [
+        "苍海馆的构造",
+        "洪水期间的出入条件",
+        "葛城为何闭门不出"
+      ],
+      "warning": "本格推理长篇，含凶案与自然灾害围困描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36878584（新星出版社 2024-7，480 页，ISBN 9787513356282，原作名 蒼海館の殺人）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0001041475：学科主题「推理小说」**；②出版方宣传语为「**暴风雪山庄模式**」「**密室**」「**本格推理** best10 第 2 位」；③丛编为新星出版社「午夜文库·日系佳作」；④库内已有同作者《星咏师的记忆》《透明人潜入密室》《红莲馆杀人事件》《黄土馆事件》等五部。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "midjp100-007",
+    "title": "侦探一上来就死了",
+    "originalTitle": "最初に探偵が死んだ",
+    "author": "苍井上鹰",
+    "authorEn": "Aoi Uetaka",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "narrative-trick",
+      "red-herring",
+      "curiosity",
+      "multiple-solutions"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "名侦探一开场就被杀害——「杀害名侦探的是谁」成了全书的首要问题。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢反类型设定的读者",
+        "元推理爱好者"
+      ],
+      "watchFor": [
+        "名侦探被杀的现场",
+        "叙述视角的切换",
+        "「侦探」这个角色本身的意义"
+      ],
+      "warning": "本格推理长篇，开篇即写名侦探遇害，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/25713155（新星出版社 2013-10，268 页，ISBN 9787513313346，原作名 最初に探偵が死んだ——**原作名直译即「侦探一开始就死了」**）。**推理属性判据**：①出版方宣传语为「几乎只存在于**推理小说**中的人物」「**名侦探**」「**日本推理作家协会奖**短篇部门」；②作者简介写明其曾获第二十六届**小说推理**新人奖；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）。**诚实标注**：扬州市图书馆 OPAC marc 0000236830 的学科主题未著录推理类。**侦探字段留空**：简介明确说开篇即被杀害的名侦探未给出姓名。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "midjp100-008",
+    "title": "阿缪莱特酒店",
+    "originalTitle": "アミュレット・ホテル",
+    "author": "方丈贵惠",
+    "authorEn": "Hojo Kie",
+    "genre": "新本格",
+    "firstPublished": "",
+    "series": "方丈贵惠作品",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "在这家酒店，法律不是准绳：犯了罪的人依然可以受到保护。规则只有两条——不破坏酒店，不在酒店范围内伤人害命；一旦违规，酒店的专属侦探就会出面调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "方丈贵惠的读者",
+        "设定系推理的爱好者"
+      ],
+      "watchFor": [
+        "酒店的两条规则",
+        "谁在利用规则",
+        "专属侦探出面的时机"
+      ],
+      "warning": "设定系本格推理短篇集，含犯罪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37109567（新星出版社 2024-12，256 页，ISBN 9787513355704，原作名 アミュレット・ホテル）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0001040397：学科主题「推理小说」**；②出版方宣传语为「**设定系本格推理**」「**不可能犯罪**」「专属**侦探**」；③作者方丈贵惠为第二十九届**鲇川哲也奖**得主（本库另有其《时空旅行者的沙漏》《孤岛的来访者》《献给名侦探的甜美死亡》《限时七日的委托》四部）；④丛编为新星出版社「午夜文库·日系佳作」。**侦探字段留空**：简介只称「酒店的专属侦探」，未点名。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "midjp100-009",
+    "title": "暗黑之羊",
+    "originalTitle": "暗黒の羊",
+    "author": "美轮和音",
+    "authorEn": "Miwa Kazune",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "dark-atmosphere",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "网红主妇拍下车祸逃逸的视频，被网友奉为「死亡女神」；邻居太太断言丈夫已被掉包；荒野中三名女性与一个孩子离群索居。五个短篇，五种都市传说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《贪婪之羊》的读者",
+        "都市传说题材的爱好者"
+      ],
+      "watchFor": [
+        "「死亡女神」这个称号的来由",
+        "邻居太太凭什么说丈夫被掉包",
+        "荒野里那三个女人"
+      ],
+      "warning": "短篇推理集（五篇），都市传说与心理恐怖色彩浓，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37448187（新星出版社 2025-10，292 页，ISBN 9787513360982，原作名 暗黒の羊）。**推理属性判据**：①出版方宣传语为「都市传说 × 心理恐怖」「**短篇推理小说**」；②作者美轮和音获第七届 **MYSTERIES!** 新人奖，本作系《贪婪之羊》续作（同批已收）；③丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "midjp100-010",
+    "title": "缮写室迷宫",
+    "originalTitle": "写本室の迷宮",
+    "author": "后藤均",
+    "authorEn": "Goto Hitoshi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "富井",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "snowfield",
+      "multiple-solutions",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "苏黎世画廊里一幅神秘油画引出信件、照片与一本手记。战后德国，暴风雪中的别墅里，各国推理爱好者正在进行一场推理竞赛；而别墅主人艾兴巴赫在阁楼密室中被害。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢作中作结构的读者",
+        "密室与暴风雪山庄的爱好者"
+      ],
+      "watchFor": [
+        "那本手记里写了什么",
+        "别墅的出入条件",
+        "推理竞赛的题目与规则"
+      ],
+      "warning": "本格推理长篇，含密室凶案与暴风雪围困描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35985557（新星出版社 2022-11，236 页，ISBN 9787513349833，原作名 写本室の迷宮）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000942356：学科主题「推理小说」**；②出版方宣传语为「**密室** × **暴风雪山庄** × **不在场证明** × **推理竞赛**」「**第十二届鲇川哲也奖**获奖作」，且系作者获奖出道作；③主角身份为大学教授兼**推理作家**；④丛编为新星出版社「午夜文库·日系佳作」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "midjp100-011",
+    "title": "夜想曲",
+    "originalTitle": "夜想曲",
+    "author": "依井贵裕",
+    "authorEn": "Yorii Takahiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "unreliable-narrator",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "山庄「同期会」的三天里接连三人被绞杀。樱木事后出现失忆症状，对那三天毫无印象；而一封匿名寄来的稿件详述了那三天，并指认他就是凶手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "依井贵裕的读者",
+        "不可靠叙述的爱好者"
+      ],
+      "watchFor": [
+        "樱木失忆的那三天",
+        "匿名稿件是谁寄的",
+        "同期会各人的证词"
+      ],
+      "warning": "本格推理长篇，含连续绞杀与失忆描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36451473（新星出版社 2023-8，212 页，ISBN 9787513352659，原作名 夜想曲）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000957456：学科主题「推理小说」**；②出版方宣传语为「**新本格推理**作家」「**本格推理作家协会**会员」「解谜至上的**本格**精神」；③丛编为新星出版社「午夜文库·日系佳作」；④同作者《肖像画》同批已收。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "midjp100-012",
+    "title": "白雪公主",
+    "originalTitle": "",
+    "author": "森川智喜",
+    "authorEn": "Morikawa Toshiki",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "名侦探三途川理系列",
+    "detective": "襟音玛玛艾、三途川理",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "meta-fiction",
+      "nursery-rhyme",
+      "red-herring",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "白雪公主化身中学生襟音玛玛艾，凭「无所不知的魔镜」开了一家侦探事务所解答日常谜题，并与邪恶嚣张的劲敌侦探三途川理展开推理对决。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童话改写的读者",
+        "日常之谜爱好者"
+      ],
+      "watchFor": [
+        "魔镜给的信息有几分可信",
+        "三途川理的挑衅方式",
+        "皇后戴娜的盘算"
+      ],
+      "warning": "本格推理长篇，童话改写设定，含凶案与阴谋描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36235579（新星出版社 2023-3，268 页，ISBN 9787513351805）。**推理属性判据**：①出版方宣传语为「**第十四届本格推理大奖获奖作**」「趣味**本格推理**」「**侦探**事务所」；②本作属「**名侦探三途川理**」系列第二作，主角为中学生**侦探**襟音玛玛艾；③丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索到 4 个同名版本（童话、绘本等），**没有一个的责任者匹配「森川智喜」**，故未取得馆藏分类号。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "midjp100-013",
+    "title": "玻璃长颈鹿",
+    "originalTitle": "ガラスの麒麟",
+    "author": "加纳朋子",
+    "authorEn": "Kano Tomoko",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "神野",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "高中生安藤麻衣子遇害离世，好友直子言行变得异常，仿佛被麻衣子的灵魂附身。校医神野接连解决几件「日常之谜」，渐渐迫近真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的爱好者",
+        "校园题材读者"
+      ],
+      "watchFor": [
+        "直子言行里的破绽",
+        "校医神野解决的几件小事",
+        "「过路魔」袭击案的传闻"
+      ],
+      "warning": "日常之谜连作（六个故事），含凶案与附身传闻描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36504163（新星出版社 2024-3，268 页，ISBN 9787513352963，原作名 ガラスの麒麟）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000996376：学科主题「推理小说」**；②出版方宣传语为「『**日常之谜**』创作圣手」「**第 48 届日本推理作家协会奖**」，且六个故事串连「过路魔」袭击案的真相；③丛编为新星出版社「午夜文库·日系佳作」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "midjp100-014",
+    "title": "细红线",
+    "originalTitle": "細い赤い糸",
+    "author": "飞鸟高",
+    "authorEn": "Asuka Takashi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "久野、田岛",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "multiple-solutions",
+      "city",
+      "swap-murder"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "户塚一郎打算除掉佐佐木，并为此准备了一套说辞；可动手之前，佐佐木已经坠楼而死，户塚随后也被发现死于后脑重创。手法相同的案件接连发生，受害人看似毫无关联。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典本格的爱好者",
+        "警察程序题材读者"
+      ],
+      "watchFor": [
+        "户塚动手前发生了什么",
+        "几起案件的共同手法",
+        "受害人之间那根「细红线」"
+      ],
+      "warning": "本格推理长篇，含坠楼、凶案与谋杀计划描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35693965（新星出版社 2022-2，252 页，ISBN 9787513347143，原作名 細い赤い糸）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000907380：学科主题「侦探小说」**；②出版方宣传语为「日本**本格推理**长老」「**第十五届日本侦探作家俱乐部奖**」，系作者生涯代表作、**简体中文首次译介**；③主角为警视厅搜查一课与地方警署的**侦查**搭档；④丛编为新星出版社「午夜文库·日系佳作」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "midjp100-015",
+    "title": "肖像画",
+    "originalTitle": "",
+    "author": "依井贵裕",
+    "authorEn": "Yorii Takahiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "多根井理",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "red-herring",
+      "identity",
+      "legend-folklore",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "富商片仓家最小的女儿史织意外离世后，三姐妹的关系变得微妙。多年后别墅的愚人节派对中凶杀案接踵而至，现场迹象表明，凶手似乎是从那幅肖像画里走出来的已故史织。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "依井贵裕的读者",
+        "宅邸连续凶案题材的爱好者"
+      ],
+      "watchFor": [
+        "那幅肖像画的来历",
+        "愚人节派对上的节目",
+        "片仓姐妹各自的处境"
+      ],
+      "warning": "本格推理长篇，含连续凶案与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36187797（新星出版社 2023-5，280 页，ISBN 9787513351195）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000965998：学科主题「推理小说」**；②出版方宣传语为「**新本格推理**作家」「**本格推理作家协会**会员」「**推理作家**」；③丛编为新星出版社「午夜文库·日系佳作」；④同作者《夜想曲》同批已收。**原作名**：豆瓣条目未著录，故留空而不猜。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "midjp100-016",
+    "title": "恶寒",
+    "originalTitle": "悪寒",
+    "author": "伊冈瞬",
+    "authorEn": "Ioka Shun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "fear",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "藤井贤一因业务丑闻被问责，发配到山形县的关联公司；随后他收到妻子伦子发来的短信「家里出了点麻烦」。伦子因涉嫌伤害致死被捕，而死者是贤一在东京总部的上司。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派与家庭悬疑的读者",
+        "伊冈瞬的读者"
+      ],
+      "watchFor": [
+        "贤一被问责那件事的真相",
+        "伦子短信的措辞",
+        "死者与贤一的关系"
+      ],
+      "warning": "犯罪悬疑长篇，含伤害致死与职场丑闻描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35569022（新星出版社 2021-10，300 页，ISBN 9787513346320，原作名 悪寒）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0000891082：学科主题「推理小说」**；②作者简介写明其为「日本**推理小说**作家」，曾获**横沟正史推理小说大奖**与**日本推理作家协会奖**；③丛编为新星出版社「午夜文库·日系佳作」；④谜面为一起伤害致死案与职场丑闻的交织。**侦探字段留空**：简介未点明查案者。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "midjp100-017",
+    "title": "追捕",
+    "originalTitle": "君よ憤怒の河を渉れ",
+    "author": "西村寿行",
+    "authorEn": "Nishimura Juko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "杜丘",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school",
+      "social-school"
+    ],
+    "safeSummary": "检察官杜丘被人诬告犯有抢劫、强奸罪。他一边躲避警察追捕，一边坚持追查真相，在一家精神病院找到线索后，索性装病住了进去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉与逃亡题材的爱好者",
+        "西村寿行的读者"
+      ],
+      "watchFor": [
+        "诬告他的人是谁",
+        "精神病院里的线索",
+        "杜丘如何一边逃一边查"
+      ],
+      "warning": "犯罪悬疑长篇，含逃亡、暴力与精神病院描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/25786883（新星出版社 2014-1，363 页，ISBN 9787513313179，**原作名 君よ憤怒の河を渉れ**，即《君啊，渡愤怒的河》）。**推理属性判据**：①出版方宣传语含「**侦探推理小说**」「**推理小说**新人赏」「**犯罪小说**」；②作者西村寿行为日本**犯罪小说**代表人物；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；④谜面为检察官被诬告后自行追查真相。**核实说明**：扬州市图书馆 OPAC 按书名检索到 4 个同名版本，**没有一个的责任者匹配「西村寿行」**，未取得馆藏分类号。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "midjp100-018",
+    "title": "六月六日诞生的天使",
+    "originalTitle": "六月六日生まれの天使",
+    "author": "爱川晶",
+    "authorEn": "Aikawa Akira",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "red-herring",
+      "identity",
+      "dual-role"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "患「心因性健忘症」的女人与患「前向性健忘症」的男人本是最亲密的恋人，却从那一刻起成了陌生人。简陋的面具、刺入腹部的刀，以及记忆障碍的成因，都成了待解的谜。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢记忆题材的读者",
+        "设定系推理爱好者"
+      ],
+      "watchFor": [
+        "两人各自的记忆缺口",
+        "那副简陋的面具",
+        "腹部刀伤的来历"
+      ],
+      "warning": "本格推理长篇，记忆障碍设定，含伤害与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/10537623（新星出版社 2012-4，360 页，ISBN 9787513306096，原作名 六月六日生まれの天使）。**推理属性判据**：①出版方宣传语含「**第五届鲇川哲也奖**」「日本**推理**文坛」；②作者爱川晶为第五届**鲇川哲也奖**得主；③谜面为面具、刺入腹部的刀与记忆障碍的成因三项待解之谜；④丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。**侦探字段留空**：简介未点名查案者。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "midjp100-019",
+    "title": "粗糙且含糊不清的怪盗预告信",
+    "originalTitle": "大雑把かつあやふやな怪盗の予告状 警察庁特殊例外事案専従捜査課事件ファイル",
+    "author": "仓知淳",
+    "authorEn": "Kurachi Jun",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "警察厅特案专职搜查课系列",
+    "detective": "木岛壮介",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "木岛壮介入职警察厅第一天就被派往「警察厅特案专职搜查课」任随行官。三起粗制滥造的案件——未启动的密室装置、时间模糊的预告信、一目了然的比拟杀人——等着他和个性强烈的名侦探们。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "仓知淳的读者",
+        "喜欢「不完美犯罪」的读者"
+      ],
+      "watchFor": [
+        "未启动的密室装置",
+        "预告信上模糊的时间",
+        "几位名侦探各自的风格"
+      ],
+      "warning": "本格推理短篇连作，含密室、比拟杀人与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37286503（新星出版社 2025-9，284 页，ISBN 9787513360289，原作名副题 警察庁特殊例外事案専従捜査課事件ファイル）。**推理属性判据**：①出版方宣传语为「**密室犯罪**」「**比拟杀人**」「**逻辑流推理**」；②作者简介写明其「曾获首届**本格推理小说大奖**」，并为本库已收《星降山庄谜案》的作者；③丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "midjp100-020",
+    "title": "加大拉的神迹（全二册）",
+    "originalTitle": "ガダラの豚",
+    "author": "中岛罗门",
+    "authorEn": "Nakajima Ramon",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "大生部多一郎",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "legend-folklore",
+      "red-herring",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "adventure-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "八年前，大生部多一郎的长女志织在东非调查时从热气球上坠落后生死不明。他自此沉溺酒精，妻子加入了宣扬奇迹的新兴宗教。如今他携妻儿与助手前往肯尼亚探访巫师之村，村子竟受到他人的诅咒。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "探险与宗教题材的爱好者",
+        "中岛罗门的读者"
+      ],
+      "watchFor": [
+        "志织坠落的经过",
+        "新兴宗教的「奇迹」",
+        "巫师之村受到的诅咒"
+      ],
+      "warning": "长篇（全二册），非洲探险与新兴宗教题材，含死亡、诅咒与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/22606943（新星出版社 2013-4，700 页，ISBN 9787513311397，原作名 ガダラの豚）。**推理属性判据**：①本作获**第四十七届日本推理作家协会奖**（并曾入围山本周五郎奖与直木奖）；②丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；③谜面为长女坠落的真相、新兴宗教的「奇迹」与村所受的诅咒。**诚实标注**：扬州市图书馆 OPAC marc 0000237088 的学科主题未著录推理类，简介亦偏探险题材——本条判据以**日本推理作家协会奖**为主。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "midjp100-021",
+    "title": "敬告犯人",
+    "originalTitle": "犯人に告ぐ",
+    "author": "雫井脩介",
+    "authorEn": "Shizukui Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "卷岛史彦",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "fear",
+      "red-herring",
+      "city",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "六年前的幼童绑架案让刑警卷岛史彦身败名裂；如今却要他负责一起幼童连环凶杀案，而且还要和媒体联手。就在这时，他又收到六年前那名罪犯寄来的恐吓信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "警察程序与媒体题材的读者",
+        "雫井脩介的读者"
+      ],
+      "watchFor": [
+        "六年前那起案子的经过",
+        "与媒体联手的后果",
+        "恐吓信的措辞"
+      ],
+      "warning": "犯罪悬疑长篇，幼童案件题材，含绑架、凶杀与媒体压力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/6758145（新星出版社 2011-8，449 页，ISBN 9787513300872，原作名 犯人に告ぐ）。**推理属性判据**：①出版方宣传语含「**新潮推理俱乐部奖**」「幼童连环凶杀案」；②本作获**大薮春彦奖**与书店大奖等多个奖项并被翻拍成电影；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；④库内已有同作者《检察方的罪人》。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "midjp100-022",
+    "title": "梦托邦",
+    "originalTitle": "プロジェクト・インソムニア",
+    "author": "结城真一郎",
+    "authorEn": "Yuki Shinichiro",
+    "genre": "新本格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "蝶野恭平",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "narrative-trick",
+      "red-herring",
+      "fear",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "七位受试者的大脑被植入微型芯片，在共享的清醒梦里生活九十天。梦里，「梦想家」的尸体接连出现；与此同时，现实世界中的实验对象也相继离奇殒命。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的爱好者",
+        "结城真一郎的读者"
+      ],
+      "watchFor": [
+        "梦与现实的对应",
+        "九十天这条时限",
+        "七位受试者各自的目的"
+      ],
+      "warning": "设定系本格推理长篇（科幻背景），含连续死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37321256（新星出版社 2025-11，256 页，ISBN 9787513360722，原作名 プロジェクト・インソムニア）。**推理属性判据**：①出版方宣传语为「**设定系科幻推理**」「完美的**犯罪**舞台」「**推理**严谨，反转惊人」；②作者简介写明其曾获**第七十四届日本推理作家协会奖**短篇部门奖；③谜面为梦里梦外接连出现的尸体；④丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "midjp100-023",
+    "title": "古登堡的黄昏",
+    "originalTitle": "",
+    "author": "后藤均",
+    "authorEn": "Goto Hitoshi",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "星野泰夫、富井",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "locked-room",
+      "historical-setting",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一九四三年，英属根西岛惊现三具尸体，死者国籍、身份各异，看似毫无关联。青年画家星野泰夫受委托赶赴根西岛调查，察觉背后可能暗藏庞大的隐秘计划。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《缮写室迷宫》的读者",
+        "孤岛与密室题材的爱好者"
+      ],
+      "watchFor": [
+        "三名死者的身份",
+        "根西岛的地理与封锁状况",
+        "「罗慕路斯」这个计划"
+      ],
+      "warning": "历史推理长篇，含连续凶案与密室描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37370556（新星出版社 2026-3，408 页，ISBN 9787513361064）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0001088572：学科主题「推理小说」**；②出版方宣传语为「孤岛、**密室**，**本格**诡计」「**密室杀人**」「**第十二届鲇川哲也奖**获奖作《缮写室迷宫》震撼续作」；③丛编为新星出版社「午夜文库·日系佳作」；④同作者《缮写室迷宫》同批已收。**原作名**：豆瓣条目未著录，故留空而不猜。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "midjp100-024",
+    "title": "虚幻女友",
+    "originalTitle": "幻の彼女",
+    "author": "酒本步",
+    "authorEn": "Sakamoto Ayumu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "风太",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "identity",
+      "concealment",
+      "psychological-misdirection",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "风太的前女友美咲年纪轻轻便与世长辞；另两位前女友兰、绘美理也已杳无音信。三人的朋友、住所、学校——一切与其存在相关的印迹全都消失了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的爱好者",
+        "岛田庄司推荐作品的读者"
+      ],
+      "watchFor": [
+        "三人的印迹为何消失",
+        "风太自己的记忆",
+        "「存在过」该如何证明"
+      ],
+      "warning": "推理长篇，含死亡与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36502238（新星出版社 2024-5，212 页，ISBN 9787513352727，原作名 幻の彼女）。**推理属性判据**：①**扬州市图书馆 OPAC marc 0001041454：学科主题「推理小说」**；②出版方宣传语为「**福山推理文学新人奖**」「**岛田庄司**选评」「『二十一世纪**本格**』的全新构想」，且本作获**第十一届福山推理文学新人奖**；③丛编为新星出版社「午夜文库·日系佳作」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "midjp100-025",
+    "title": "焰与雪",
+    "originalTitle": "",
+    "author": "伊吹亚门",
+    "authorEn": "Ibuki Amon",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "露木与鲤城系列",
+    "detective": "露木、鲤城",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "mansion",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "大正时代的京都，露木与鲤城共同经营一家侦探事务所。露木体弱难以出门调查，只能借助鲤城的行动获知外面的世界。山庄内诡异的杂音、失恋后自焚的男人、酒会间离奇的毒杀，一桩桩找上门来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "伊吹亚门的读者",
+        "大正时代题材的爱好者"
+      ],
+      "watchFor": [
+        "露木与鲤城的分工",
+        "山庄里的杂音",
+        "酒会上的酒杯"
+      ],
+      "warning": "历史推理短篇连作，含自焚、毒杀与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37871093（新星出版社 2026-7，284 页，ISBN 9787513362795）。**推理属性判据**：①出版方宣传语为「**本格推理**短篇连作集」「**第 77 届日本推理作家协会奖**」「**侦探**事务所」，并入围「这本**推理小说**好想读！」榜单第 10 位；②丛编为新星出版社「午夜文库·日系佳作」；③同作者《刀与伞》同批已收（该册有馆藏主题词「推理小说」）。**诚实标注**：扬州市图书馆 OPAC marc 0001095176 的学科主题未著录推理类。**原作名**：豆瓣条目未著录，故留空而不猜。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "midjp100-026",
+    "title": "假想者的仪式",
+    "originalTitle": "仮想儀礼",
+    "author": "篠田节子",
+    "authorEn": "Shinoda Setsuko",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "psychological-misdirection",
+      "concealment",
+      "obsession",
+      "fear"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "梦想成为作家的正彦辞去公务员工作，一场意外变故让他一无所有；前任编辑矢口也失去了一切。命运把两个穷途末路的男人牵到一起成为室友，他们谋划创办一个拥有假想神灵、假想教义的教会。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派与宗教题材的读者",
+        "篠田节子的读者"
+      ],
+      "watchFor": [
+        "两人创办教会的动机",
+        "仪式为何停不下来",
+        "信众从何而来"
+      ],
+      "warning": "社会派长篇（808 页），新兴宗教题材，含欺诈与心理操控描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/20559357（新星出版社 2013-4，808 页，ISBN 9787513311069，原作名 仮想儀礼）。**推理属性判据**：①出版方宣传语为「『这本**推理小说**真厉害』『这本**推理小说**最想读』双榜称雄」「**犯罪心理学**」；②本作获**日本柴田炼三郎奖**；③丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。**作者译名说明**：丛书页把同一人写成「篠田节子、筱田节子」两种写法，本库统一记为**篠田节子**。**侦探字段留空**：简介未点明查案者。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "midjp100-027",
+    "title": "法老的密室",
+    "originalTitle": "",
+    "author": "白川尚史",
+    "authorEn": "Shirakawa Hisashi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "塞提",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "historical-setting",
+      "legend-folklore",
+      "red-herring",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "已故的祭司书吏塞提因心脏缺失而无法接受冥界的审判。他为找回缺失的心脏重返人间，调查自己死亡的真相；而先王的木乃伊原本安放在封闭墓室中，却在葬礼途中神秘消失。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古埃及题材的爱好者",
+        "设定系本格读者"
+      ],
+      "watchFor": [
+        "塞提缺失的心脏",
+        "封闭墓室的出入条件",
+        "木乃伊在葬礼途中如何消失"
+      ],
+      "warning": "本格推理长篇，古埃及设定，含死亡与木乃伊描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37870976（新星出版社 2026-9，248 页，ISBN 9787513362788）。**推理属性判据**：①出版方宣传语为「『这本**推理小说**了不起！』大奖获奖作」「**推理**新锐」「王陵**密室**」，本作系**第 22 届「这本推理小说了不起！」大奖**获奖作、作者出道作；②谜面为封闭墓室中木乃伊的神秘消失与主角自身之死的真相；③丛编为新星出版社「午夜文库·日系佳作」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**。**原作名**：豆瓣条目未著录，故留空而不猜。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "midjp100-028",
+    "title": "桃色东京塔",
+    "originalTitle": "桃色東京塔",
+    "author": "柴田芳树",
+    "authorEn": "Shibata Yoshiki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "岳彦、日菜子",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "city",
+      "concealment",
+      "fear",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "岳彦因过失导致无辜者身亡，成了警视厅的边缘人物。他远离调查主力军，只能接触一些细枝末节的线索；一次偶然的搜查机会，让他结识了乡村女警日菜子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "警察题材的读者",
+        "柴田芳树的读者"
+      ],
+      "watchFor": [
+        "岳彦背负的那次过失",
+        "那些「细枝末节」的线索",
+        "日菜子带来的转机"
+      ],
+      "warning": "犯罪悬疑长篇，含过失致死与刑事调查描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/25785294（新星出版社 2014-1，262 页，ISBN 9787513309417，原作名 桃色東京塔）。**推理属性判据**：①作者柴田芳树为**横沟正史推理大奖**得主；②丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；③主角为警视厅搜查人员与乡村女警，全篇围绕刑事调查展开。**诚实标注**：简介正文**未给出推理谜题**，「推理」字样仅见于作者介绍；扬州市图书馆 OPAC 按书名检索**无馆藏记录**——本条判据在同批中**偏弱**。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "midjp100-029",
+    "title": "夜想",
+    "originalTitle": "夜想",
+    "author": "贯井德郎",
+    "authorEn": "Nukui Tokuro",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "dark-atmosphere",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "一起车祸让一家人阴阳两隔，妻子与女儿在他眼前惨死。一名完全陌生的女大学生为他流下了同情的泪水。拥有超能力的年轻学生，能否领他走出人生的黑夜？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "贯井德郎的读者",
+        "超能力与心理题材的爱好者"
+      ],
+      "watchFor": [
+        "那名女大学生的身份",
+        "超能力学生能做到什么",
+        "主角自己的记忆"
+      ],
+      "warning": "推理长篇，丧亲与超能力题材，含车祸与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/11442783（新星出版社 2012-8，453 页，ISBN 9787513307772，原作名 夜想）。**推理属性判据**：①作者贯井德郎的出道作《恸哭》为**第四届鲇川哲也奖候补作品**，本库已收；②丛编为新星出版社「午夜文库·日系佳作」（推理专门书系）；③谜面为陌生人为何为他落泪、超能力学生能否带他走出黑夜。**诚实标注**：扬州市图书馆 OPAC marc 0000222410 的学科主题**未著录推理类**；简介正文偏丧亲与超能力题材，**推理字样仅见于作者介绍**——本条判据在同批中**偏弱**。**侦探字段留空**：简介未点明查案者。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-100-midnight-jp.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  }
+]

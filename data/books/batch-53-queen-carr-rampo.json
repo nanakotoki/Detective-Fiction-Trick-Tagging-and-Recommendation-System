@@ -1,0 +1,763 @@
+[
+  {
+    "id": "qc53-001",
+    "title": "双面莱特",
+    "originalTitle": "Double, Double",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "series": "埃勒里·奎因后期作品",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "identity"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座小镇上接连有人死去，而每次的现场都留下了刻意安排的痕迹。埃勒里发现这些安排像是在指向同一个人——那个人恰好每次都有说得通的解释。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 578,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6393103/",
+        "subjectId": "6393103",
+        "edition": "双面莱特 2011",
+        "fetchedAt": "2026-09-22T12:05:15.305Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奎因后期作品的读者",
+        "喜欢连续案件串联的读者"
+      ],
+      "watchFor": [
+        "几处现场的相同安排",
+        "被指向的那个人的解释",
+        "谁有机会做出这些安排"
+      ],
+      "warning": "古典本格长篇，线索摆明，重逻辑链条。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「双面莱特」／奎因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "qc53-002",
+    "title": "生死之门",
+    "originalTitle": "The Door Between",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1937",
+    "series": "埃勒里·奎因中期作品",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一扇门把两个房间隔开，而门的两侧各有一个人的说法。门在案发时是开着还是关着，成了整桩案子唯一的支点。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 560,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3526273/",
+        "subjectId": "3526273",
+        "edition": "生死之门 2009",
+        "fetchedAt": "2026-09-22T12:05:21.054Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢单一物证定案的读者",
+        "奎因的读者"
+      ],
+      "watchFor": [
+        "门的两种说法各自的前提",
+        "谁先提到门的状态",
+        "两个房间之间的实际距离"
+      ],
+      "warning": "古典本格长篇，核心谜面围绕一个极小的细节展开。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "qc53-003",
+    "title": "宝剑八",
+    "originalTitle": "The Eight of Swords",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一位主教死在乡间住所里，而在他死前，屋里已经接连出现过几件说不通的事。菲尔博士到场后先处理那些「说不通」，因为其中有一件是真的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.5,
+        "count": 460,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2378195/",
+        "subjectId": "2378195",
+        "edition": "宝剑八 2007",
+        "fetchedAt": "2026-09-22T12:05:24.512Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "菲尔博士系列的读者",
+        "喜欢乡间宅邸谜面的读者"
+      ],
+      "watchFor": [
+        "几件「怪事」里哪件是真的",
+        "死者的作息与来访者",
+        "谁在散布那些说法"
+      ],
+      "warning": "黄金时代本格，含几分怪奇色彩；豆瓣条目评价人数较少。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "qc53-004",
+    "title": "青铜神灯的诅咒",
+    "originalTitle": "The Curse of the Bronze Lamp",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1945",
+    "series": "亨利·梅利维尔爵士系列",
+    "detective": "亨利·梅利维尔爵士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一位从埃及带回古物的年轻女子被告知那件东西带着诅咒，而随后她本人从一处封闭的地方消失了。梅利维尔爵士要处理的是一件没有尸体的失踪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 452,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3293572/",
+        "subjectId": "3293572",
+        "edition": "青铜神灯的诅咒 2008",
+        "fetchedAt": "2026-09-22T12:05:30.031Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "梅利维尔爵士系列的读者",
+        "喜欢诅咒题材的读者"
+      ],
+      "watchFor": [
+        "她消失那处空间的构造",
+        "古物的流转经过",
+        "谁说出了「诅咒」这个词"
+      ],
+      "warning": "黄金时代本格，含埃及古物与诅咒传闻；豆瓣条目评价人数较少。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2008（馆藏题名「青铜神灯的诅咒」／卡尔）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "qc53-005",
+    "title": "孔雀羽谋杀案",
+    "originalTitle": "The Peacock Feather Murders",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1937",
+    "series": "亨利·梅利维尔爵士系列",
+    "detective": "亨利·梅利维尔爵士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名男子在被人监视的房间里身亡，而房间的出入条件排除了所有人。现场留下的一根孔雀羽毛，成了唯一多出来的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 849,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5288318/",
+        "subjectId": "5288318",
+        "edition": "孔雀羽谋杀案 2010",
+        "fetchedAt": "2026-09-22T12:05:33.444Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "梅利维尔爵士系列的读者"
+      ],
+      "watchFor": [
+        "监视的盲区在哪一刻出现",
+        "那根羽毛的来历",
+        "房间被检查的先后顺序"
+      ],
+      "warning": "黄金时代密室长篇，线索充分摆在读者面前。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「孔雀羽谋杀案」／卡尔）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "qc53-006",
+    "title": "乱步侦探作品集2",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "本格推理",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "honkaku",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "选集之一，以明智小五郎的短篇为主。这些篇目里，推理的骨架还是西方的路数，但场景、器物与人心已经完全是日本都市的样子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 184,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1117082/",
+        "subjectId": "1117082",
+        "edition": "乱步侦探作品集.2 2002",
+        "fetchedAt": "2026-09-22T12:05:36.576Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想系统读乱步的读者",
+        "对日本推理源流感兴趣的读者"
+      ],
+      "watchFor": [
+        "作案手法与当时技术条件的配合",
+        "叙述者对「怪」的态度",
+        "明智小五郎如何切入"
+      ],
+      "warning": "选集，含怪奇与猎奇篇目，部分内容氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 2」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "qc53-007",
+    "title": "乱步侦探作品集3",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "本格推理",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "honkaku",
+      "red-herring",
+      "city",
+      "identity"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "选集之一。乱步对「身份」这件事始终着迷：一个人能不能变成另一个人、别人能不能看出来。这一卷里几篇都在处理这个方向的题目。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 132,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1117083/",
+        "subjectId": "1117083",
+        "edition": "乱步侦探作品集.3 2002",
+        "fetchedAt": "2026-09-22T12:05:41.073Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步的读者",
+        "对身份与扮装题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "身份被确认的依据",
+        "旁人描述同一人的差异",
+        "叙述者知道的比读者多还是少"
+      ],
+      "warning": "选集，含怪奇与猎奇篇目。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 3」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "qc53-008",
+    "title": "乱步侦探作品集5",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "obsession",
+      "dark-atmosphere",
+      "first-person",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "logic-school"
+    ],
+    "safeSummary": "选集之一，偏重心理与偏执题材。乱步在这里已经把重心从「手法」移到「人为什么会变成这样」，推理成了照进那层心理的一束光。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 111,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1117085/",
+        "subjectId": "1117085",
+        "edition": "乱步侦探作品集.5 2002",
+        "fetchedAt": "2026-09-22T12:05:45.506Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对变格派感兴趣的读者",
+        "乱步的读者"
+      ],
+      "watchFor": [
+        "偏执成形的那一步",
+        "叙述者对自身动机的解释",
+        "结尾处没有交代的部分"
+      ],
+      "warning": "含变态心理与猎奇描写，氛围阴暗，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 5」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "qc53-009",
+    "title": "乱步侦探作品集6",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎、小林芳雄",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "series-detective",
+      "dual-role",
+      "dark-atmosphere",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "adventure-school",
+      "logic-school"
+    ],
+    "safeSummary": "选集之一，收入少年向与怪盗题材的篇目。乱步给少年读者写的东西并不比给成人写的温和，只是把「怪」写得更有趣一些。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 127,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1117086/",
+        "subjectId": "1117086",
+        "edition": "乱步侦探作品集6 2002",
+        "fetchedAt": "2026-09-22T12:05:49.991Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "少年侦探团系列的读者",
+        "想读乱步怪盗题材的读者"
+      ],
+      "watchFor": [
+        "怪盗每次现身的布置",
+        "留下的字条内容",
+        "少年助手注意到的小事"
+      ],
+      "warning": "选集，含怪盗与冒险题材，节奏较快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 6」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-53-queen-carr-rampo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  }
+]

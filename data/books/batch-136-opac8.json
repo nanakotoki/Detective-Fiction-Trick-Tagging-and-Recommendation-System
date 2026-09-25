@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "author136-001",
+    "title": "酿造厄运",
+    "originalTitle": "There's Trouble Brewing",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1937",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "alibi",
+      "red-herring",
+      "series-detective",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座小镇的啤酒厂里，酿酒锅中赫然出现了一具尸骨，奈杰尔·斯特雷奇威受邀查案；厂里几乎每个人都有作案动机，却又都拿得出不在场证明。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "尼古拉斯·布莱克的读者"
+      ],
+      "watchFor": [
+        "各人的不在场证明如何成立",
+        "那封匿名信的出现时机"
+      ],
+      "warning": "本格推理长篇，含命案与尸骨描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现，`scripts/opac-author-scan.mjs`）：尼古拉斯·布莱克著，上海文艺出版社 2023，丛编项「**尼古拉斯·布莱克桂冠推理全集**」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的**推理作品全集**。**补作者缺口**：作者库内已有《野兽必死》《谋杀笔记》《死亡之壳》等 8 部，本轮**一次补入 7 部**。**年份字段说明**：`firstPublished` 记原作年 1937（*There's Trouble Brewing*），`editionYear` 记所引中译本 2023。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-002",
+    "title": "暗夜无声",
+    "originalTitle": "The Whisper in the Gloom",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1954",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "cipher",
+      "youth",
+      "series-detective",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "少年伯特在公园湖边玩着心爱的快艇模型，一个满身血污的男人却往模型里塞了一张神秘纸条；纸条给他带来疑惑，也带来了穷凶极恶的追踪者。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "少年视角冒险悬疑的读者"
+      ],
+      "watchFor": [
+        "纸条上写了什么",
+        "那个受伤男人的来历"
+      ],
+      "warning": "本格推理长篇，含命案与追逐描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.07，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**年份字段说明**：`firstPublished` 记原作年 1954（*The Whisper in the Gloom*，据提要情节「少年 + 快艇模型 + 纸条」对应），`editionYear` 记所引中译本 2023。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-003",
+    "title": "夺命蠕虫",
+    "originalTitle": "The Worm of Death",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1961",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "faceless-corpse",
+      "concealment",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "私家侦探奈杰尔与女友搬到格林尼治，新邻居皮尔斯医生忽然失踪，尸体随后在泰晤士河中浮现；死者家庭关系不佳，子女们似乎都对他抱有敌意。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "家族内部矛盾题材的读者"
+      ],
+      "watchFor": [
+        "死者生前与子女的往来",
+        "尸体上那处缺失意味着什么"
+      ],
+      "warning": "本格推理长篇，含残损尸体与命案描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.06，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**年份字段说明**：`firstPublished` 记原作年 1961（*The Worm of Death*），`editionYear` 记所引中译本 2023。梗概据馆藏提要重写，未复述尸体细节。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-004",
+    "title": "生死寻踪",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "spy-espionage",
+      "adventure",
+      "series-detective",
+      "silencing"
+    ],
+    "school": [
+      "adventure-school",
+      "spy-school"
+    ],
+    "safeSummary": "科学家拉格比教授唯一的弱点是小女儿露西；风雪之夜露西落入敌方之手，奈杰尔发现同住一家旅馆的客人中藏着卧底，必须在酿成大祸前救回她。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布莱克的读者",
+        "间谍与绑架题材的读者"
+      ],
+      "watchFor": [
+        "旅馆客人里谁在说谎",
+        "露西被带走的路线"
+      ],
+      "warning": "冒险悬疑长篇，含绑架与间谍情节，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.07，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**收录说明**：本作含**间谍与绑架**成分，但**不是纯间谍小说**——主线仍是奈杰尔在有限嫌疑人中找出卧底的解谜过程，故按第①类判据收录，并以 `spy-espionage` 标签如实标记。**年份字段说明**：`editionYear` 记所引中译本 2023；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-005",
+    "title": "诡异篇章",
+    "originalTitle": "End of Chapter",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1957",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "dual-role",
+      "red-herring",
+      "series-detective",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一家知名出版公司的书稿，原本终审已删去的篇章在出版时却神奇地恢复了，由此引发一场性质恶劣的诽谤诉讼；高级合伙人请奈杰尔假扮身份进公司调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布莱克的读者",
+        "出版业内幕题材的读者"
+      ],
+      "watchFor": [
+        "被恢复的那一章是谁放回去的",
+        "奈杰尔假扮的身份如何维持"
+      ],
+      "warning": "本格推理长篇，含命案描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.04，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**年份字段说明**：`firstPublished` 记原作年 1957（*End of Chapter*，据提要的出版公司设定对应），`editionYear` 记所引中译本 2023。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-006",
+    "title": "饰盒之谜",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "乔治娅",
+    "country": "英国",
+    "tags": [
+      "spy-espionage",
+      "adventure",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "spy-school"
+    ],
+    "safeSummary": "本书把视线移向奈杰尔的妻子、冒险家乔治娅：她偶然发现了一个被人遗落的饰盒，随后被卷入危险的旋涡；为挫败某个神秘组织的阴谋，她只身深入。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布莱克的读者",
+        "女主人公只身犯险题材的读者"
+      ],
+      "watchFor": [
+        "饰盒里装的是什么",
+        "神秘组织的层级"
+      ],
+      "warning": "冒险悬疑长篇，涉及反法西斯题材与阴谋组织，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.04，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**收录说明**：本作**反法西斯阴谋**成分较重、解谜成分较轻，属「泛推理」一侧；判据仍是编目第①类，故收录并以 `spy-espionage`、`adventure-school` 如实标记其取向。**年份字段说明**：`editionYear` 记所引中译本 2023；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-007",
+    "title": "雪藏祸心",
+    "originalTitle": "The Corpse in the Snowman",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1941",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "snowfield",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "看似平静的伊斯特汉庄园内诡异事件接连上演：宠物猫无故发狂，一位小姐在闺房悬梁，融化的雪人里惊现人身——一场亲友聚会上暗潮汹涌。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "庄园封闭舞台的读者"
+      ],
+      "watchFor": [
+        "雪人是什么时候堆起来的",
+        "聚会上各人的行动时间"
+      ],
+      "warning": "本格推理长篇，含命案与尸体藏匿描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.06，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者的推理作品全集。**年份字段说明**：`firstPublished` 记原作年 1941（*The Corpse in the Snowman*，据提要「雪人里惊现人身」对应），`editionYear` 记所引中译本 2023。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author136-008",
+    "title": "偷窥者",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "大宝度完蜜月回来工作，法医门诊来了一个憔悴的女人，指名要见他——那是抛弃过他的前妻；她说丈夫在一次激烈争吵后离家，再没有回来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "法医秦明系列的读者"
+      ],
+      "watchFor": [
+        "失踪者最后一次出现的地点",
+        "前妻叙述里对不上的部分"
+      ],
+      "warning": "法医题材长篇，含尸检与命案描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：秦明著，湖南文艺出版社 2017，丛编项「法医秦明系列」。**推理属性判据**：①**中图分类号为 `I247.56`**——**中国当代侦探／推理小说的专门分类号**，判据层级里最硬的一档；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：作者库内已有《尸语者》《第十一根手指》《无声的证词》等，本轮**一次补入 8 部**。**作者写法**：馆藏本条件「秦明」、其余多作「法医秦明」，**库内既有写法是「秦明」**，本条沿用库内写法。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-009",
+    "title": "遗忘者",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "龙番市发生数起残忍的杀人案，每件案子里凶手的手法惊人一致；法医秦明与痕检员、法医助理等人从蛛丝马迹开始，追逐这个连环杀手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "连环案追凶的读者"
+      ],
+      "watchFor": [
+        "几起案件手法的共同点",
+        "痕检与尸检各自给出的线索"
+      ],
+      "warning": "法医题材长篇，含尸检与连环命案描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，北京联合出版公司 2020，丛编项「法医秦明作品·法医秦明系列·众生卷」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2020，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-010",
+    "title": "玩偶",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一个女孩听到隔壁的吵闹消失后，楼下传来沉重的落地声；某个夏夜，一名男子带着两个行李箱离开家门，妻子的下落无人知晓。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "家庭题材案件的读者"
+      ],
+      "watchFor": [
+        "行李箱的去向",
+        "几起案件之间的共同点"
+      ],
+      "warning": "法医题材长篇，含尸检与家庭暴力相关命案描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，北京联合出版公司 2021.09，丛编项「法医秦明系列·众生卷」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-011",
+    "title": "天谴者",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一位奋战在一线的法医工作者，如何运用业务技术与判断破获种种非正常死亡案件：有人死在废弃的收容所里，有人潜入虎园惨遭撕咬。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "非正常死亡鉴别的读者"
+      ],
+      "watchFor": [
+        "每起死亡的现场特征",
+        "死者生前的处境"
+      ],
+      "warning": "法医题材长篇，含尸检与非正常死亡描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，江苏凤凰文艺出版社 2018，丛编项「法医秦明系列·众生卷」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。梗概据馆藏提要重写，只保留现场类型。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-012",
+    "title": "清道夫",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "五个无家可归的流浪汉在不同城市先后死去，凶手手法干净利落、现场几乎不留痕迹；除了若有若无的香水味，唯一的线索是三个血字。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "连环杀手追缉的读者"
+      ],
+      "watchFor": [
+        "现场被清理掉的东西",
+        "几名死者的共同处境"
+      ],
+      "warning": "法医题材长篇，含连环命案与尸检描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，江苏凤凰文艺出版社 2020，丛编项「法医秦明系列·万象卷」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2020，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-013",
+    "title": "幸存者",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "法医秦明系列",
+    "detective": "秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "勘察小组中的大宝终于要结婚了，可新婚前夜，未婚妻却倒在衣柜之中；几乎同一天，另一座城市也发生了同样的新娘被杀事件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "法医秦明系列的读者"
+      ],
+      "watchFor": [
+        "两地案件的时间重合",
+        "现场稀缺的线索指向什么"
+      ],
+      "warning": "法医题材长篇，含命案与尸检描写，为法医秦明系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，北京联合出版公司 2022，丛编项「法医秦明系列·万象卷」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-014",
+    "title": "燃烧的蜂鸟",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "蜂鸟系列",
+    "detective": "陶亮",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "forensic",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "民警陶亮原本在看岳父退休前手写的办案笔记，读得正酣时周围环境突发巨变，他来到了七十年代，变成刑警冯凯，与年轻时的岳父一同前往刑警学院。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "年代刑侦题材的读者"
+      ],
+      "watchFor": [
+        "没有监控与 DNA 的年代如何办案",
+        "笔记与现实的对应"
+      ],
+      "warning": "法医题材长篇，含命案与七十年代刑侦描写，为蜂鸟系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，北京联合出版公司 2022，丛编项「法医秦明作品·蜂鸟系列」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-015",
+    "title": "燃烧的蜂鸟：迷案1985",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "蜂鸟系列",
+    "detective": "陶亮",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "forensic",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "蜂鸟系列的第二部：故事落在 1985 年，继续写那个没有监控、没有 DNA 的年代里，刑警如何靠手上功夫与判断力办案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "年代刑侦题材的读者"
+      ],
+      "watchFor": [
+        "与第一部在年代上的衔接",
+        "当年的取证手段"
+      ],
+      "warning": "法医题材长篇，含命案与八十年代刑侦描写，为蜂鸟系列第二部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：法医秦明著，江苏凤凰文艺出版社 2024.08，正题名「燃烧的蜂鸟,迷案1985」。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**如实标注**：本条**未逐条取详情复核**，判据取自**检索行主题词**（该馆检索结果行逐条带主题词分面）；梗概据正题名与同系列第一部的内容推定，**已在此写明**。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-016",
+    "title": "坏家伙们",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "九滴水真探系列",
+    "detective": "真探小组",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "跑腿公司的小哥在一处公园的树上自杀，公司一时深陷舆论风口；真探小组受托展开调查，博取流量的自媒体「记者」也开始偷偷跟进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "九滴水的读者"
+      ],
+      "watchFor": [
+        "舆论与办案的相互干扰",
+        "自杀现场对不上的细节"
+      ],
+      "warning": "刑侦题材长篇，含自杀与命案描写，为九滴水真探系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：九滴水著，中信出版集团 2024，丛编项「九滴水真探系列」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：作者库内已有《尸案调查科》《特殊罪案调查组》系列等 8 部。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-017",
+    "title": "大唐封诊录：天雷决",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "历史推理",
+    "firstPublished": "2022",
+    "series": "大唐封诊录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "forensic",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "forensic-school",
+      "adventure-school"
+    ],
+    "safeSummary": "仪凤四年的东都洛阳：夜半风起，万安山南阙天门峰在狂风中昂首，望向头顶随风汇聚的漆黑雷云；一桩疑案就此拉开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "唐代背景推理的读者",
+        "九滴水的读者"
+      ],
+      "watchFor": [
+        "封诊之术在唐代的用法",
+        "异象与案情的对应"
+      ],
+      "warning": "历史推理长篇（章回体），唐代背景，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：九滴水著，湖南文艺出版社 2022.05，正题名「大唐封诊录,天雷决」。**推理属性判据**：①**检索行主题词为「推理小说 中国 当代 ; 章回小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②**中图分类号为 `I247.46`**——`I247.4` 为**章回小说**，本条同时带「推理小说」主题词，故按第①类判据收录；**如实标注**：其分类号落在章回小说而非 `I247.56`，`readingTips.warning` 已写明为章回体。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-018",
+    "title": "关闭之殇",
+    "originalTitle": "",
+    "author": "森村诚一 等",
+    "authors": [
+      "森村诚一",
+      "东野圭吾",
+      "今野敏"
+    ],
+    "anthology": true,
+    "authorEn": "Morimura Seiichi; et al.",
+    "genre": "社会派",
+    "firstPublished": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "精选三位日本推理大家的作品：森村诚一《关闭之殇》、东野圭吾《没有凶手的杀人之夜》、今野敏《惯犯》，三篇都以悬念与推演见长。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日本社会派的读者",
+        "中短篇推理的读者"
+      ],
+      "watchFor": [
+        "三篇各自的切入点",
+        "不同作家对罪与罚的处理"
+      ],
+      "warning": "日本推理中短篇合集，含命案描写，为**三位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：森村诚一等著，文汇出版社 2016.05。**推理属性判据**：①**检索行主题词为「推理小说 小说集 日本 现代 ; 中篇小说 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③馆藏提要逐篇列出三位作家与篇名。**多作者模型**：三位作者**馆藏均已列名**，`authors` 完整登记；已标记 `anthology`，界面上会显示「合集」徽章。**年份字段说明**：中文出版物，`firstPublished` 记 2016，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,文汇出版社:,2016.05（关闭之殇／(日) 森村诚一等著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "author136-019",
+    "title": "浅水",
+    "originalTitle": "",
+    "author": "丁中冶",
+    "authorEn": "Ding Zhongye",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "city",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一对恋人、一对警察师徒，两条看似不相关的人物线索在一场车祸案中产生交集，所有矛盾与人物关系随之交汇，引出连环杀人犯。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "双线叙事的中篇推理读者",
+        "国产犯罪悬疑的读者"
+      ],
+      "watchFor": [
+        "两条线索交汇的那场车祸",
+        "师徒与恋人各自的处境"
+      ],
+      "warning": "犯罪悬疑中篇，含连环命案与车祸描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现，检索式命中见 `_dd/author-scan5.tsv`）：丁中冶著，作家出版社 2022。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 中篇小说 中国 当代」**。**新作者**：库内此前无丁中冶作品。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-020",
+    "title": "黄雀计划：鸣蝉的杀意",
+    "originalTitle": "",
+    "author": "鬼庖丁",
+    "authorEn": "Gui Paoding",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "肖沂",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "一段诡异的视频席卷全网：摆在高处的头颅俯视着自己被肢解的尸体。刑侦支队大队长率专案组限期破案，现场却找不到一枚有效指纹。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "网络舆论题材的读者"
+      ],
+      "watchFor": [
+        "尸体上那处妆容的用意",
+        "视频是谁放上网的"
+      ],
+      "warning": "犯罪悬疑长篇，含肢解尸体与命案描写，画面感较强。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现，检索式命中见 `_dd/author-scan5.tsv`）：鬼庖丁著，中国友谊出版公司 2021，正题名「黄雀计划,鸣蝉的杀意」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无鬼庖丁作品。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要重写，未复述尸体细节。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author136-021",
+    "title": "空屋",
+    "originalTitle": "",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "identity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一个建筑设计师发现自己的客户全家人一夜失踪，出于好奇与愤怒顺藤摸瓜，逐渐发现这桩失踪案竟和自己的过去有千丝万缕的关系。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横山秀夫的读者",
+        "家庭与身份题材的读者"
+      ],
+      "watchFor": [
+        "那家人搬走前后的细节",
+        "设计师自己的过去"
+      ],
+      "warning": "社会派长篇，含失踪与旧事追溯题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：横山秀夫著，上海文艺出版社 2021。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**。**补作者缺口**：作者库内已有 6 部。**年份字段说明**：`editionYear` 记所引中译本 2021；`firstPublished` **留空**——馆藏「相关题名附注」只写「英文并列题名取自版权页」，未给出原题名。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "author136-022",
+    "title": "蒸发",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Natsuki Shizuko",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "concealment",
+      "city",
+      "dual-line"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "日本社会派推理长篇。馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者与出版信息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日本社会派的读者",
+        "夏树静子的读者"
+      ],
+      "watchFor": [
+        "失踪者留下的生活痕迹",
+        "家人与警方的判断差异"
+      ],
+      "warning": "社会派推理长篇，馆藏未提供内容提要，梗概暂缺。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：夏树静子著，译林出版社 2011。**推理属性判据**：①**检索行主题词为「长篇小说 日本 现代 ; 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号为 `I313.456`**——日本侦探／推理小说专门复分号。**新作者**：库内此前无夏树静子作品。**如实标注**：本条**馆藏提要为空白**，`safeSummary` 只登记出版信息，**未编造情节**。**年份字段说明**：`editionYear` 记所引中译本 2011；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "author136-023",
+    "title": "拯救未来计划",
+    "originalTitle": "",
+    "author": "宁航一",
+    "authorEn": "Ning Hangyi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "youth",
+      "concealment",
+      "red-herring",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "四个少年在图书馆偶然得到一本神奇的预言书，书上说 2032 年将是世界末日；他们为此开始了一场拯救未来的计划，而这本书的来路并不寻常。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宁航一的读者",
+        "少年冒险悬疑的读者"
+      ],
+      "watchFor": [
+        "预言书出现的时机",
+        "是谁把它放进图书馆的"
+      ],
+      "warning": "犯罪悬疑长篇，含末日预言与命案相关情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：宁航一著，北京联合出版公司 2022。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：作者库内已有 6 部。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-136-opac8.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

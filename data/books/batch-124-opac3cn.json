@@ -1,0 +1,557 @@
+[
+  {
+    "id": "facet124-001",
+    "title": "特殊罪案调查组3",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "特殊罪案调查组系列",
+    "detective": "914专案组",
+    "country": "中国",
+    "tags": ["forensic", "series-detective", "concealment"],
+    "school": ["police-procedural", "forensic-school"],
+    "safeSummary": "刑侦局为攻克陈年悬案组建专案中心，抽调精英成立专案组；本卷写的是若干因毫无抓手而久拖未破的重特大案件，技术手段成了重新入手的切口。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好刑侦技术细节的读者", "《尸案调查科》的读者"],
+      "watchFor": ["案件为何长期没有抓手", "技术手段能解决与不能解决的部分"],
+      "warning": "刑侦题材长篇，含重特大刑事案件的现场与尸检描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「检索行主题词枚举」渠道发现）：九滴水著，湖南文艺出版社 2023.08。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；馆藏提要开门见山写明「本书是一部长篇推理小说」。**补作者缺口**：作者九滴水库内已有《尸案调查科》1 部，本条为该系列之外的另一套专案组系列第 3 卷。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-002",
+    "title": "预测死亡的兔子.2",
+    "originalTitle": "",
+    "author": "宇尘",
+    "authorEn": "Yu Chen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "预测死亡的兔子系列",
+    "detective": "吴凡",
+    "country": "中国",
+    "tags": ["concealment", "fear", "series-detective", "red-herring"],
+    "school": ["psychological-school", "police-procedural"],
+    "safeSummary": "面具人给出的讯息指向一名被囚在笼中的人，以及下一个名字；那人随即被卷进一桩凶杀案，追查者一边核实预言，一边发现身边人的身份并不简单。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢连环悬念与身份谜题的读者", "国产犯罪悬疑系列的读者"],
+      "watchFor": ["预言出现的次序", "谁在传递讯息、通过什么渠道"],
+      "warning": "犯罪悬疑长篇，含凶杀与囚禁描写，为系列第 2 卷，建议先读第 1 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「检索行主题词枚举」渠道发现）：宇尘著，江苏凤凰文艺出版社 2021。**推理属性判据**：**检索行主题词为「长篇小说 中国 当代 ; 推理小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无宇尘作品。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要文摘重写，仅保留谜面。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-003",
+    "title": "罪案现场：你所不知道的刑侦1",
+    "originalTitle": "",
+    "author": "徐龙震",
+    "authorEn": "Xu Longzhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "罪案现场系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["forensic", "city", "concealment", "ensemble"],
+    "school": ["police-procedural", "forensic-school"],
+    "safeSummary": "以侦缉队长的视角写案件的侦破过程，兼顾犯罪嫌疑人的行为心理与一线警方面对的压力；据馆藏提要介绍，全书把推理、侦探与社会元素编织在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好一线刑警视角的读者", "刑侦纪实风格的读者"],
+      "watchFor": ["嫌疑人的行为与心理痕迹", "侦破过程中承受的压力"],
+      "warning": "刑侦题材长篇，含刑事案件的现场描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：徐龙震著，南海出版公司 2016.06。**推理属性判据**：**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；馆藏提要写明「小说将推理、侦探、社会元素巧妙地结合起来」。**新作者**：库内此前无徐龙震作品。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-004",
+    "title": "法医密档：不在现场的证人",
+    "originalTitle": "",
+    "author": "法医剑哥",
+    "authorEn": "Fayi Jiange",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "法医密档系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["forensic", "concealment", "series-detective"],
+    "school": ["forensic-school", "police-procedural"],
+    "safeSummary": "法医记录的多宗案件勘查手记：从隐秘处的血迹、藏尸之处到尸体上留下的物证，逐案讲述如何从痕检与尸检里找出定案的关键。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好法医与痕检细节的读者", "短篇案件集的读者"],
+      "watchFor": ["现场痕迹与结论之间的推理链", "每案物证的先后次序"],
+      "warning": "短篇案件集，含尸体与现场勘查描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：法医剑哥著，台海出版社 2021。**推理属性判据**：**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）。**说明**：本书为**单一作者**的短篇案件集，非多作者选集。**新作者**：库内此前无法医剑哥作品。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-005",
+    "title": "还原犯罪现场.2：雕像血痕",
+    "originalTitle": "",
+    "author": "风雨如书",
+    "authorEn": "Fengyu Rushu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "还原犯罪现场系列",
+    "detective": "闪电侦察组",
+    "country": "中国",
+    "tags": ["forensic", "series-detective", "ensemble"],
+    "school": ["police-procedural", "forensic-school"],
+    "safeSummary": "「闪电侦察组」连破重案的三个故事：连环谋杀、拐卖妇女与基因试验案，侦察组以现场重建为切入，逐层推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好现场重建与团队办案的读者", "国产刑侦系列的读者"],
+      "watchFor": ["现场重建与口供的出入", "三个故事之间的手法呼应"],
+      "warning": "犯罪悬疑长篇，含连环谋杀与拐卖题材，为系列第 2 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：风雨如书著，花城出版社 2023。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；馆藏提要写明本书包含三个推理故事。**新作者**：库内此前无风雨如书作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。梗概只列案件类型，不复述情节。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-006",
+    "title": "心理师第2季：罪案直播",
+    "originalTitle": "",
+    "author": "老甄",
+    "authorEn": "Lao Zhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "心理师系列",
+    "detective": "老甄",
+    "country": "中国",
+    "tags": ["psychological-misdirection", "concealment", "series-detective", "identity"],
+    "school": ["psychological-school", "police-procedural"],
+    "safeSummary": "心理师在网络直播里分析凶案，一位观众讲出困扰自己多年的谜题：她记忆里的人物，被亲友一致认定为并不存在。追查过程中出现了命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好心理分析与访谈式推理的读者", "《心理师》系列的读者"],
+      "watchFor": ["记忆与旁人证词的分歧", "直播这一公开渠道带来的连锁反应"],
+      "warning": "犯罪悬疑长篇，含凶案描写，为系列第 2 季。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：老甄著，花城出版社 2022.9。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；馆藏提要写明「采用多种调查手法和心理学知识拨开迷雾」。**新作者**：库内此前无老甄作品（库内《犯罪心理师Ⅱ》作者为艾西、《心理师莫楠》作者为燕返，均为他人作品，已核不重复）。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-007",
+    "title": "重案组档案：高智商变态凶杀案的诡异真相",
+    "originalTitle": "",
+    "author": "谢迅",
+    "authorEn": "Xie Xun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["countryside", "dark-atmosphere", "fear", "concealment"],
+    "school": ["police-procedural", "bizarre-school"],
+    "safeSummary": "五名驴友在一座废弃寺庙里发现一具高度腐烂的女尸，此后每隔七日便有一人神秘死去，死亡现场还出现了邪教祭祀的图案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好封闭环境连环死亡的读者", "刑侦与民俗混合题材的读者"],
+      "watchFor": ["七日周期的时间线", "祭祀图案与死者之间的联系"],
+      "warning": "犯罪悬疑长篇，含高度腐烂尸体与邪教仪式描写，气氛偏阴郁。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：谢迅著，金城出版社 2014.09。**推理属性判据**：**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无谢迅作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。梗概据馆藏提要重写。**保留理由**：题材虽气氛阴郁并含邪教祭祀元素，但谜面为「每隔七日死一人」的封闭环境死亡序列，属第①类判据的侦探小说，与**纯恐怖**不同，故收录。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-008",
+    "title": "绿色尸体",
+    "originalTitle": "",
+    "author": "张宝瑞",
+    "authorEn": "Zhang Baorui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "张宝瑞文集·最悬疑卷",
+    "detective": "",
+    "country": "中国",
+    "tags": ["historical-setting", "fear", "dark-atmosphere", "concealment"],
+    "school": ["bizarre-school", "police-procedural"],
+    "safeSummary": "一九六五年九月，武汉三镇热浪袭人，将近子夜的长江大桥上发生了一件怪异的事。全书据馆藏提要复原了当年的生活状态与人物思维方式。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["关注中国悬疑小说源流的读者", "六十年代武汉背景的年代小说读者"],
+      "watchFor": ["当年的生活细节与语言风格", "桥上的那一夜与后续事件的关联"],
+      "warning": "年代悬疑长篇，气氛阴郁，含尸体与惊悚场面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：张宝瑞著，陕西师范大学出版社 2010，丛编项「张宝瑞文集·最悬疑卷」。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无张宝瑞作品。**如实标注**：张宝瑞以「手抄本」年代的悬疑惊悚故事闻名，本书风格介于悬疑与惊悚之间；因编目判据为第①类且谜面由长江大桥上的异事展开，按**泛推理**收录，未按纯恐怖排除。**年份字段说明**：中文原创，`firstPublished` 记 2010，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-009",
+    "title": "疑云记：都市命案奇谈",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Sishui Wuhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "非系列",
+    "detective": "雪莹",
+    "country": "中国",
+    "tags": ["city", "series-detective", "identity", "concealment"],
+    "school": ["police-procedural", "orthodox-school"],
+    "safeSummary": "大三女生接手父亲留下的私人侦探所，一边协助警长侦破各种各样的案件，一边寻找失踪父亲的下落。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好女侦探成长线的读者", "都市背景单元案件集的读者"],
+      "watchFor": ["父亲失踪与各案之间的暗线", "侦探所与警方的分工"],
+      "warning": "犯罪悬疑长篇，含命案与黑社会犯罪描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：似水无痕著，文汇出版社 2014.10。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无似水无痕作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-010",
+    "title": "大吃一惊",
+    "originalTitle": "",
+    "author": "胡玥",
+    "authorEn": "Hu Yue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2004",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["city", "dark-atmosphere", "concealment", "fear"],
+    "school": ["police-procedural", "social-school"],
+    "safeSummary": "午夜时分，刑警返回独居的小院，在胡同里被一双胳膊死死环抱，长篇悬疑侦破小说由此拉开序幕。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["偏好刑侦视角的读者", "二〇〇〇年代国产悬疑的读者"],
+      "watchFor": ["开篇那一夜的来者身份", "刑警视角所能看到与看不到的部分"],
+      "warning": "犯罪悬疑长篇，含命案与性犯罪相关情节。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：胡玥著，百花洲文艺出版社 2004，副题名「长篇悬疑侦破小说」。**推理属性判据**：**检索行主题词为「侦探小说 中国 现代 ; 长篇小说 中国 现代」**（第①类，最硬）。**新作者**：库内此前无胡玥作品。**年份字段说明**：中文原创，`firstPublished` 记 2004，`editionYear` **留空**。梗概据馆藏提要重写，仅保留开篇谜面。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-011",
+    "title": "大唐悬疑录：最后的狄仁杰.2",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "大唐悬疑录系列",
+    "detective": "狄仁杰、袁从英",
+    "country": "中国",
+    "tags": ["historical-setting", "legend-folklore", "adventure", "concealment"],
+    "school": ["orthodox-school", "adventure-school", "logic-school"],
+    "safeSummary": "大周圣历二年底，神都洛阳接连发生三桩命案，每处现场都留下「生死簿」的印记；新年庆典在即，狄仁杰临危受命接管此案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["华语历史推理的读者", "《大唐悬疑录》系列的读者"],
+      "watchFor": ["三处现场共同留下的印记", "庆典筹备带来的时间压力"],
+      "warning": "历史推理长篇，唐代背景，含命案与朝堂角力描写，为系列第 2 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐著，人民文学出版社 2018，丛编项「99读书人」。**推理属性判据**：**检索行主题词为「长篇小说 中国 当代 ; 推理小说 中国 当代」**（第①类，最硬）。**补系列缺口**：作者唐隐库内已有《大唐悬疑录：兰亭序密码》与《大唐悬疑录：最后的狄仁杰》（该系列第 1 卷，见 gap119-021），本卷起为该系列的后续卷次。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-012",
+    "title": "大唐悬疑录：最后的狄仁杰.3",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "大唐悬疑录系列",
+    "detective": "狄仁杰、袁从英",
+    "country": "中国",
+    "tags": ["historical-setting", "adventure", "concealment", "ensemble"],
+    "school": ["orthodox-school", "adventure-school", "logic-school"],
+    "safeSummary": "「生死簿」一案继续发酵，狄仁杰查到有人借二张之名图谋不轨；与此同时，侍卫长袁从英陪同狄景晖前往边关庭州，一行人在沙漠监狱险象环生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["华语历史推理的读者", "《大唐悬疑录》系列的读者"],
+      "watchFor": ["洛阳与庭州两条线的呼应", "沙漠监狱这一封闭环境的规矩"],
+      "warning": "历史推理长篇，唐代背景，含命案与边关战事描写，为系列第 3 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐著，人民文学出版社 2018，丛编项「99读书人」。**推理属性判据**：**检索行主题词为「长篇小说 中国 当代 ; 推理小说 中国 当代」**（第①类，最硬）。**补系列缺口**：本卷为该系列第 3 卷。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-013",
+    "title": "大唐悬疑录：最后的狄仁杰.4",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "大唐悬疑录系列",
+    "detective": "狄仁杰、袁从英",
+    "country": "中国",
+    "tags": ["historical-setting", "adventure", "concealment", "spy-espionage"],
+    "school": ["orthodox-school", "adventure-school", "logic-school"],
+    "safeSummary": "大周边关战事愈演愈烈，袁从英与突厥王子联手截断敌军的消息渠道；狄仁杰一路西去任安抚使，在伊州遇上山火，长史意外丧生，牵出庭州间谍案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["华语历史推理的读者", "偏好边塞与谍战元素的读者"],
+      "watchFor": ["山火现场与人为痕迹", "消息渠道被切断后各方的应变"],
+      "warning": "历史推理长篇，唐代背景，含命案、战事与间谍情节，为系列第 4 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐著，人民文学出版社 2018，丛编项「99读书人」。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**收录说明**：本卷含间谍与战事成分，但既非**纯间谍小说**也非军事小说，核心仍是狄仁杰一行的疑案查证，故按第①类判据收录，并以 `spy-espionage` 标签如实标记其谍案成分。**补系列缺口**：本卷为该系列第 4 卷。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-014",
+    "title": "大唐悬疑录：最后的狄仁杰.5",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "大唐悬疑录系列",
+    "detective": "狄仁杰、袁从英",
+    "country": "中国",
+    "tags": ["historical-setting", "legend-folklore", "adventure", "concealment"],
+    "school": ["orthodox-school", "adventure-school", "logic-school"],
+    "safeSummary": "庭州城内接连发生以孩童献祭的血案，流言直指萨满祭司；洛阳那边，制科考试中考生离奇猝死，狄仁杰再次遭遇「生死簿」谜案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["华语历史推理的读者", "《大唐悬疑录》系列的读者"],
+      "watchFor": ["流言与实证之间的距离", "两地案件在时间上的同步"],
+      "warning": "历史推理长篇，唐代背景，含献祭血案与命案描写，为系列第 5 卷。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐著，人民文学出版社 2018，丛编项「99读书人」。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**补系列缺口**：本卷为该系列第 5 卷，收齐馆藏可见的《最后的狄仁杰》各卷。**同书异名核对**：另有馆藏记录题作「大唐悬疑录5 最后的狄仁杰」（人民文学出版社 2018.12），与本库 gap119-021（第 1 卷）为同一部作品，已登记为该条的 `alternateTitles`，不另设条目。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet124-015",
+    "title": "大唐悬疑录.4：大明宫密码",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "大唐悬疑录系列",
+    "detective": "裴玄静",
+    "country": "中国",
+    "tags": ["historical-setting", "cipher", "legend-folklore", "concealment"],
+    "school": ["orthodox-school", "trick-school", "adventure-school"],
+    "safeSummary": "元和十四年，象征大唐功勋的凌烟阁深夜出现数个古怪图像，竟与相传预示国运的《推背图》一一对应；此时的大明宫内人人自危。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢图谶与文字谜的读者", "《大唐悬疑录》系列的读者"],
+      "watchFor": ["凌烟阁图像与谶书的对应关系", "宫中各方对异象的态度差异"],
+      "warning": "历史推理长篇，唐代背景，涉及图谶与宫闱争斗；本书为「密码」支线第 4 卷，与《兰亭序密码》同一系列。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐著，人民文学出版社 2021，丛编项「99读书人」。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**补系列缺口**：本库已有同系列《大唐悬疑录：兰亭序密码》，本卷为「密码」支线第 4 卷。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-124-opac3cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

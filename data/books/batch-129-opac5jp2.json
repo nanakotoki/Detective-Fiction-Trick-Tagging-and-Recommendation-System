@@ -1,0 +1,306 @@
+[
+  {
+    "id": "author129-001",
+    "title": "再见了，忍老师",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "忍老师系列",
+    "detective": "竹内忍",
+    "country": "日本",
+    "tags": ["youth", "campus", "series-detective", "curiosity"],
+    "school": ["daily-mystery-school", "orthodox-school"],
+    "safeSummary": "驾校同学邀「我」参加免费的上路特训，可接连几日只要外出参训，回家时门口便总摊着狗屎；不追查到底可不是竹内忍的作风。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["东野圭吾的轻喜剧作品的读者", "校园日常之谜的读者"],
+      "watchFor": ["特训与门口那摊东西的时间对应", "驾校里各人的来历"],
+      "warning": "轻喜剧风格长篇推理，含日常谜团与小规模案件，基调轻松。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现，`scripts/opac-author-scan.mjs`）：东野圭吾著，南海出版公司 2019。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号为 `I313.456`**——`I313.45` 之下**专指日本侦探／推理小说的复分号**，与中文的 `I247.56` 同性质，属第①类中最硬的一档。**补作者缺口**：作者库内已有 64 部。**年份字段说明**：`editionYear` 记所引中译本 2019；`firstPublished` **留空**——原题名未能确证，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-002",
+    "title": "黎明之街",
+    "originalTitle": "夜明けの街で",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "社会派",
+    "firstPublished": "2007",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["passion", "concealment", "red-herring", "city"],
+    "school": ["social-school", "psychological-school"],
+    "safeSummary": "一向对出轨者嗤之以鼻的渡部，不知不觉与女同事秋叶陷入了难以自拔的婚外恋；随后他惊闻十五年前秋叶家曾发生命案且至今未破。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["东野圭吾社会派的读者", "以家庭关系为切口的推理读者"],
+      "watchFor": ["十五年前那桩案子的细节", "秋叶回避的话题"],
+      "warning": "社会派推理长篇，涉及婚外情与旧案，含命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：东野圭吾著，南海出版公司 2012，丛编项「新经典文库·东野圭吾作品」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.456`**。**补作者缺口**：同批补入东野圭吾三部。**年份字段说明**：`firstPublished` 记原作年 2007（*夜明けの街で*），`editionYear` 记所引中译本 2012。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-003",
+    "title": "透明的螺旋",
+    "originalTitle": "透明な螺旋",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "editionYear": "2022",
+    "series": "神探伽利略系列",
+    "detective": "汤川学",
+    "country": "日本",
+    "tags": ["alibi", "series-detective", "identity", "concealment"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "园香的男友在她报警称其失踪的一周后成为海上浮尸；案发时园香正在遥远的京都旅行，有完美的不在场证明，却在报警之后选择了逃亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["神探伽利略系列的读者", "不在场证明题材的读者"],
+      "watchFor": ["京都行程的时间线", "另一名嫌疑人出现的时点"],
+      "warning": "本格推理长篇，含命案与家庭身世题材，为伽利略系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：东野圭吾著，南海出版公司 2022，丛编项「新经典文库·东野圭吾作品；**神探伽利略系列**」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为作者本人的系列。**年份字段说明**：`firstPublished` 记原作年 2021（*透明な螺旋*），`editionYear` 记所引中译本 2022。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-004",
+    "title": "写乐·闭锁之国的幻影",
+    "originalTitle": "写楽 閉じた国の幻",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "岛田庄司作品集",
+    "detective": "",
+    "country": "日本",
+    "tags": ["historical-setting", "cipher", "identity", "curiosity"],
+    "school": ["orthodox-school", "logic-school"],
+    "safeSummary": "江户浮世绘师东洲斋写乐自一七九四年横空出世，接连发表约一百四十幅作品，十个月后却从画坛销声匿迹；他究竟是谁，成了日本美术史上的一大悬案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["岛田庄司的读者", "美术史谜题题材的读者"],
+      "watchFor": ["作品风格与同时代画师的对照", "署名与落款的变化"],
+      "warning": "历史推理长篇，原作分上、下两卷，本库按**一部作品**收录（馆藏为上、下两条著录）；含大量美术史论述。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：岛田庄司著，新星出版社 2013，丛编项「**午夜文库·大师系列·岛田庄司作品集**」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为**新星出版社「午夜文库」的大师系列**（推理专门书系）。**合并说明**：馆藏以「写乐·闭锁之国的幻影.上」与「…下」两条著录，二者为**同一部作品的上、下卷**，按库内既有做法（如《龙卧亭杀人事件》不拆条）**合并为一条**，不按两本计。**年份字段说明**：`firstPublished` **留空**（首版年未核实）；原题名 *写楽 閉じた国の幻* 据作者书目与提要情节填写。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-005",
+    "title": "屋顶上的小丑",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "岛田庄司作品",
+    "detective": "",
+    "country": "日本",
+    "tags": ["city", "ensemble", "red-herring", "concealment"],
+    "school": ["orthodox-school", "trick-school"],
+    "safeSummary": "银行的屋顶平台接连发生坠亡事件，死者中既有热恋中的女职员，也有宣称「我绝不会自杀」的青年；看似不相关的人们被奇妙的案件联系在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["岛田庄司的读者", "多线群像型推理的读者"],
+      "watchFor": ["各名死者的身份与来历", "那块广告牌的位置"],
+      "warning": "本格推理长篇，含多起坠亡与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：岛田庄司著，新星出版社 2019，丛编项「**午夜文库·大师系列**；岛田庄司作品」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为午夜文库大师系列。**补作者缺口**：作者库内已有 30 部。**年份字段说明**：`editionYear` 记所引中译本 2019；`firstPublished` **留空**——原题名未能确证，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-006",
+    "title": "最后的晚餐",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": ["series-detective", "concealment", "legend-folklore"],
+    "school": ["orthodox-school", "logic-school"],
+    "safeSummary": "推理作家石冈受女大学生之邀去英语会话学校上课，结识了一位孤独的老人，三人成为好友；老人在圣诞夜宴请二人之后便神秘失踪了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["御手洗洁系列的读者", "岛田庄司非系列舞台作品的读者"],
+      "watchFor": ["老人过往经历中的空白", "圣诞夜那顿饭的细节"],
+      "warning": "本格推理长篇，含失踪与旧事追溯，为御手洗洁系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：岛田庄司著，青岛出版社 2017。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③馆藏提要写明「身在海外的名侦探御手洗出手相助」。**待办结清**：`docs/collection-backlog.md` 里长期挂着的「《最后的晚餐》作者未确认」一项**至此结清**——馆藏著录明确为岛田庄司，青岛出版社 2017。**年份字段说明**：`editionYear` 记所引中译本 2017；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-007",
+    "title": "军舰消失之谜",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": ["series-detective", "historical-setting", "cipher", "adventure"],
+    "school": ["orthodox-school", "adventure-school", "logic-school"],
+    "safeSummary": "远在美国的明星捎来一封信，随信附着一封奇怪的影迷来信：写信人想请他为一位老妇人道歉，还希望她到箱根芦之湖上的一家酒店看一张照片。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["御手洗洁系列的读者", "历史谜案与考证型推理的读者"],
+      "watchFor": ["影迷来信的真实用意", "照片里那艘军舰的来历"],
+      "warning": "本格推理长篇，围绕历史悬案与身份冒认展开，含战争背景论述，为御手洗洁系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：岛田庄司著，人民文学出版社 2024，丛编项「99读书人；岛田庄司作品」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③馆藏提要写明「带领着御手洗洁和石冈来到箱根的著名旅馆富士屋饭店」。**年份字段说明**：`editionYear` 记所引中译本 2024；`firstPublished` **留空**——原题名未能确证（提要中的**箱根富士屋饭店**与**安娜·安德森**两条线索指向作者的某部御手洗洁长篇，但中译名与原题名的对应**尚未核实**，按既定做法不冒填，已记入待办）。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author129-008",
+    "title": "百器徒然袋：风",
+    "originalTitle": "百器徒然袋 風",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "百鬼夜行系列",
+    "detective": "中禅寺秋彦、榎木津礼二郎",
+    "country": "日本",
+    "tags": ["legend-folklore", "series-detective", "ensemble", "meta-fiction"],
+    "school": ["bizarre-school", "orthodox-school"],
+    "safeSummary": "以擅长推理的京极堂与不按牌理出牌的榎木津为主角，以五德猫、云外镜、面灵气三种器物为线索，讲述三个看似诡谲离奇、实则或含阴谋或可缜密解释的故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["京极夏彦的读者", "妖怪与器物传说题材的读者"],
+      "watchFor": ["三种器物各自的传说来源", "京极堂与榎木津两人的分工"],
+      "warning": "妖怪推理长篇，含怪奇传说与命案描写，知识炫学成分较多。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：京极夏彦著，上海人民出版社 2016.03，丛编项「**百鬼夜行系列作品**；京极夏彦作品」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为作者本人的系列。**补作者缺口**：作者库内已有 18 部。**同书异名核对**：库内此前无「百器徒然袋」条目，已核不重复。**年份字段说明**：`editionYear` 记所引中译本 2016；`firstPublished` **留空**（首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-129-opac5jp2.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

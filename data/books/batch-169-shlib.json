@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "shlib169-001",
+    "title": "超杀人事件：推理作家的苦恼",
+    "originalTitle": "超・殺人事件",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "editionYear": "2011",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "red-herring"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "八个短篇，以讽刺笔法写推理小说的创作内幕：作家、编辑与评论圈里的种种荒诞。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢业界讽刺的读者"
+      ],
+      "watchFor": [
+        "每篇在调侃哪一类写法",
+        "后设趣味落在哪里"
+      ],
+      "warning": "短篇集（八篇），以讽刺与幽默笔法写推理圈内幕，含命案设定。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，南海出版公司 2011，丛编「新经典文库·东野圭吾作品」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③**提要取自第一个馆详情页**，并经 `scripts/shlib-blurb2.mjs` 的**作者校验**（第 67 轮加上：只按题名匹配会捞到同名异书）。**年份字段说明**：`firstPublished` 记 2001（日文原版年）；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-002",
+    "title": "风雪追击",
+    "originalTitle": "雪煙チェイス",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "snowfield",
+      "concealment",
+      "youth",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名男孩突然被指认为杀人凶手，他要在暴风雪中的滑雪场里靠推理与自救洗清嫌疑。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "运动系推理的读者"
+      ],
+      "watchFor": [
+        "雪场的地形与时间",
+        "他凭什么自证"
+      ],
+      "warning": "悬疑小说，含命案设定，无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，现代出版社 2017。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` 记 2016；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-003",
+    "title": "恋爱的贡多拉",
+    "originalTitle": "恋のゴンドラ",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "passion",
+      "ensemble",
+      "psychological-misdirection",
+      "dual-line"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "八对男女的情感纠葛：以心理推理的笔法层层递进，剖开恋人之间深埋的秘密。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "情感题材悬疑的读者"
+      ],
+      "watchFor": [
+        "各对男女之间的信息差",
+        "「心理催眠」式的对话"
+      ],
+      "warning": "悬疑小说，以情感关系为主，含命案设定。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，现代出版社 2017。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` 记 2016；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-004",
+    "title": "同级生",
+    "originalTitle": "同級生",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1993",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "concealment",
+      "unreliable-narrator",
+      "youth"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "「我」与由希子的交往始终说不清是什么情感；一天放学后她死于车祸，而「我」认定老师脱不了干系。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾早期作品的读者",
+        "校园题材悬疑的读者"
+      ],
+      "watchFor": [
+        "叙述者的自述有多可靠",
+        "校内各人的反应"
+      ],
+      "warning": "校园悬疑小说，涉及死亡与师生关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，南海出版公司 2020，丛编「新经典文库·东野圭吾作品」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` 记 1993；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-005",
+    "title": "无凶之夜",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "以人性弱点为题的一组短篇：轻微的蓄意、匿于黑夜的真凶、跳舞的女孩、白色凶器等，各写一种欲望。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢人性题材的读者"
+      ],
+      "watchFor": [
+        "每篇里被放大的是哪一种人性",
+        "短篇的收束方式"
+      ],
+      "warning": "短篇集，含命案与人性阴暗面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：东野圭吾著，湖南文艺出版社 2025。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验（原提要逐篇复述情节，梗概**只取篇目与题旨**，不转述各篇结局）。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-006",
+    "title": "监视",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "city",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "八篇昭和都市题材短篇：从小明星、记者、主妇到大学教授，写各阶层之间的矛盾与人性的众生相。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张短篇的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "各篇主人公所处的行业",
+        "作者如何用推理笔法写社会"
+      ],
+      "warning": "短篇集（八篇），题材涉及职场、影视圈与新闻界，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：松本清张著，人民文学出版社 2018。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-007",
+    "title": "黑白",
+    "originalTitle": "",
+    "author": "谷崎润一郎",
+    "authorEn": "Jun'ichirō Tanizaki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "unreliable-narrator",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "meta-school",
+      "psychological-school"
+    ],
+    "safeSummary": "作家水野笔下的人物也是作家；当现实里的困境与小说中的情节重合，一桩凶杀案真的发生了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "谷崎润一郎的读者",
+        "喜欢「书中书」结构的读者"
+      ],
+      "watchFor": [
+        "现实与小说情节的对应关系",
+        "叙述者对自身的辩解"
+      ],
+      "warning": "文学性较强的犯罪小说，含命案与情感描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：谷崎润一郎著，现代出版社 2019，丛编「和风译丛」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2019。**同作者补缺**：库内已有《春琴抄》《钥匙》《痴人之爱》等。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-008",
+    "title": "三色猫福尔摩斯幽灵谜案",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "三色猫福尔摩斯系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "concealment",
+      "series-detective",
+      "dual-role"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "丈夫意外身故后，悲恸的妻子迎来一位衣着考究的访客——他提议买下亡夫的姓名与全部过往。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫福尔摩斯」系列的读者",
+        "身份顶替题材的读者"
+      ],
+      "watchFor": [
+        "买下姓名想做什么",
+        "亡夫生前的经历"
+      ],
+      "warning": "推理小说，含命案描写，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，山东文艺出版社 2015，丛编「三色猫福尔摩斯系列／99 畅销文库」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-009",
+    "title": "试映会",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "theater",
+      "identity",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "晴美的初中同学如今成了当红女星，她夜访片山家吐露隐婚的事，连经纪人都不知情；试映会随即出事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫探案」系列的读者",
+        "演艺圈题材的读者"
+      ],
+      "watchFor": [
+        "女星身边的几重关系",
+        "试映会当天的动线"
+      ],
+      "warning": "推理小说，含命案描写，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，人民文学出版社 2023，丛编「三色猫探案」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-010",
+    "title": "爱的花束",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "fear",
+      "series-detective",
+      "revenge"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "婚介中心收到恐吓信，要求立刻停业；随后一名女员工被霰弹枪射杀，身上摆着一束花。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫探案」系列的读者",
+        "轻快笔调的推理读者"
+      ],
+      "watchFor": [
+        "那束花的来历",
+        "恐吓信与命案的关系"
+      ],
+      "warning": "推理小说，含命案描写，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，人民文学出版社 2023，丛编「三色猫探案」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-011",
+    "title": "暗路迷途",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "city",
+      "concealment",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "败落的街区连拿着地图都会迷路，嫌疑人就藏在这里；片山与前辈分头追踪，同事却在岔路口遇害。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫探案」系列的读者",
+        "追捕题材的读者"
+      ],
+      "watchFor": [
+        "街区的地形与路线",
+        "嫌疑人是否真在现场"
+      ],
+      "warning": "推理小说，含命案描写，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，人民文学出版社 2023，丛编「三色猫探案」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-012",
+    "title": "怪盗猫",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "dual-role",
+      "series-detective",
+      "cozy"
+    ],
+    "school": [
+      "trick-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "绘画大赛在即，评审委员长收到怪盗「柴郡猫」发来的传真——没有文字，只有一张露齿坏笑图。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫探案」系列的读者",
+        "怪盗题材的读者"
+      ],
+      "watchFor": [
+        "那张图想说什么",
+        "柴郡猫的目标是哪幅画"
+      ],
+      "warning": "推理小说，含盗窃与命案设定，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，人民文学出版社 2023，丛编「三色猫探案」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-013",
+    "title": "继承人",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "gain",
+      "countryside",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "东京乡下两个家族各失去一个孩子，遗产继承人迟迟定不下来；长辈们上东京寻找多年前出走的长子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「三色猫探案」系列的读者",
+        "家族继承题材的读者"
+      ],
+      "watchFor": [
+        "尾随长辈而来的都是什么人",
+        "两个家族的旧怨"
+      ],
+      "warning": "推理小说，含命案与遗产纠纷描写，笔调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：赤川次郎著，人民文学出版社 2018，丛编「三色猫探案」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-014",
+    "title": "千里眼",
+    "originalTitle": "千里眼",
+    "author": "松冈圭祐",
+    "authorEn": "Keisuke Matsuoka",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1997",
+    "editionYear": "2015",
+    "series": "千里眼系列",
+    "detective": "岬美由纪",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名男子闯入美军基地的导弹发射室，把目标锁定在首相官邸，倒计时只剩两小时余；招供剂对他无效。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松冈圭祐的读者",
+        "心理战题材的读者"
+      ],
+      "watchFor": [
+        "十位数字密码从何而来",
+        "两位医生用什么办法撬开犯人的心防"
+      ],
+      "warning": "悬疑小说，涉及爆炸、劫持与死亡情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：松冈圭祐著，上海译文出版社 2015。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验（原提要较长，梗概**只取谜面**，不转述后续发展）。**年份字段说明**：`firstPublished` 记 1997（日文原版年）；`editionYear` 记 2015。**同作者补缺**：库内已有《少女魔术师》与「万能鉴定士Q」两册。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-015",
+    "title": "红龙",
+    "originalTitle": "Red Dragon",
+    "author": "托马斯·哈里斯",
+    "authorEn": "Thomas Harris",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1981",
+    "editionYear": "2006",
+    "series": "汉尼拔系列",
+    "detective": "威尔·格雷厄姆",
+    "country": "美国",
+    "tags": [
+      "fear",
+      "psychological-misdirection",
+      "series-detective"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "与「食人魔王」莱克特那次交手之后，联邦调查局特工威尔·格雷厄姆退岗三年；如今有案子需要他回来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「汉尼拔」系列的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "格雷厄姆的侧写方法",
+        "他与莱克特之间的关系"
+      ],
+      "warning": "犯罪悬疑小说，含连环命案与血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：托马斯·哈里斯著，译林出版社 2006，丛编「译林畅销名作坊」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I712.45`**；③提要取自第一个馆详情页并经作者校验。**系列归并**：与库内《沉默的羔羊》《汉尼拔》同属「汉尼拔系列」。**年份字段说明**：`firstPublished` 记 1981（英文原版年）；`editionYear` 记 2006。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-016",
+    "title": "人油蜡烛：小酒井不木猎奇篇",
+    "originalTitle": "",
+    "author": "小酒井不木",
+    "authorEn": "Fugui Kosakai",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "读创推理悬疑系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "ensemble",
+      "legend-folklore",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小酒井不木的短篇集：以心电图纪念爱情的医生、诱导丈夫坦白的女子、用法医手段查案的案件等。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前日本变格推理的读者",
+        "小酒井不木的读者"
+      ],
+      "watchFor": [
+        "医学背景带来的视角",
+        "「猎奇」在战前推理里的位置"
+      ],
+      "warning": "短篇集，题材猎奇，含怪奇与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：小酒井不木著，江苏凤凰文艺出版社 2024，丛编「读创推理悬疑系列」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验（原提要逐篇复述结局，梗概**只取篇目线索**）。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。**同作者补缺**：库内已有《恋爱曲线》与《日本推理名作选》相关卷。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-017",
+    "title": "六小时后你会死",
+    "originalTitle": "",
+    "author": "高野和明",
+    "authorEn": "Kazuaki Takano",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "文治·日系推理佳作",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "ensemble",
+      "fear"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，收《六小时后你会死》《时间魔法师》《不能恋爱的那天》《娃娃屋的舞者》《三小时后我会死》等六篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "高野和明的读者",
+        "短篇推理的读者"
+      ],
+      "watchFor": [
+        "「时限」在各篇里的用法",
+        "六篇之间的呼应"
+      ],
+      "warning": "短篇集（六篇，另附解说），含死亡与命案设定。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：高野和明著，中国友谊出版公司 2023，丛编「文治·日系推理佳作」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页（列出全部篇名）并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2023。**同作者补缺**：库内已有《消失的13级台阶》《恶徒的救赎》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-018",
+    "title": "毒舌钩",
+    "originalTitle": "",
+    "author": "米涅·渥特丝",
+    "authorEn": "Minette Walters",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "渥特丝罪案小说系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "老妇人的死法匪夷所思，死状触目惊心：是临终前的忏悔，还是尸体在无言地指控谁。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "渥特丝的读者",
+        "英式罪案小说的读者"
+      ],
+      "watchFor": [
+        "死状与「毒舌」的关系",
+        "被老妇人得罪过的人"
+      ],
+      "warning": "罪案小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：米涅·渥特丝著，上海人民出版社 2006，丛编「渥特丝罪案小说系列」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2006。**同作者补缺**：库内已有《狐狸不祥》《暗潮》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-019",
+    "title": "骗子律师",
+    "originalTitle": "",
+    "author": "史蒂夫·卡瓦纳",
+    "authorEn": "Steve Cavanagh",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "艾迪·弗林系列",
+    "detective": "艾迪·弗林",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "legal-thriller",
+      "trick-school"
+    ],
+    "safeSummary": "雷尼的女儿遭绑架，他向擅长「解决问题」的律师艾迪·弗林求助；绑匪对警方与家属开出两套条件。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭派惊悚的读者",
+        "「艾迪·弗林」系列的读者"
+      ],
+      "watchFor": [
+        "两套条件各自的用意",
+        "弗林如何与绑匪周旋"
+      ],
+      "warning": "犯罪悬疑小说，含绑架、爆炸与命案情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：史蒂夫·卡瓦纳著，百花文艺出版社 2024。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③提要取自第一个馆详情页并经作者校验（原提要写到结局，梗概**只取谜面与两套条件**）。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。**同作者补缺**：库内已有《第十三位陪审员》《圈套》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-020",
+    "title": "南方的海",
+    "originalTitle": "",
+    "author": "巴斯克斯·蒙塔尔万",
+    "authorEn": "Manuel Vázquez Montalbán",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "佩佩·卡瓦略系列",
+    "detective": "佩佩·卡瓦略",
+    "country": "西班牙",
+    "tags": [
+      "series-detective",
+      "city",
+      "social-commentary",
+      "hardboiled"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school"
+    ],
+    "safeSummary": "巴塞罗那私家侦探佩佩·卡瓦略：爱读诗、烧藏书当柴、坐过佛朗哥的牢，也当过特工。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「佩佩·卡瓦略」系列的读者",
+        "南欧硬汉派的读者"
+      ],
+      "watchFor": [
+        "卡瓦略的处世方式",
+        "巴塞罗那的城市与政治底色"
+      ],
+      "warning": "硬汉派推理小说，含命案与政治背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：巴斯克斯·蒙塔尔万著，人民文学出版社 2008。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I551.45`**；③提要取自第一个馆详情页（以人物侧写为主，未给案件情节）并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2008。**同作者补缺**：库内已有《浴场谋杀案》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-021",
+    "title": "岩永琴子的出现",
+    "originalTitle": "",
+    "author": "城平京",
+    "authorEn": "Kyo Shirodaira",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "虚构推理系列",
+    "detective": "岩永琴子",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "series-detective",
+      "multiple-solutions"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "被妖怪称为「智慧之神」的岩永琴子，受水神大蛇之托解开弃尸者的动机之谜。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「虚构推理」系列的读者",
+        "妖怪题材推理的读者"
+      ],
+      "watchFor": [
+        "「用虚构的谎言挑战真相」这一设定",
+        "妖怪与人间的规则差异"
+      ],
+      "warning": "带妖怪设定的推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：城平京著，北京时代华文书局 2020，丛编「千本樱文库·推理作家系列／虚构推理系列」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③**丛编直接标明「虚构推理系列」**；提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。**同作者补缺**：库内已有《虚构推理》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-022",
+    "title": "最后一个死去的女孩",
+    "originalTitle": "",
+    "author": "哈里·多兰",
+    "authorEn": "Harry Dolan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "fear",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "雨夜里的一次相遇让大卫与法律系学生嘉娜坠入爱河；她身上有拒绝解释的伤，也有不愿说的秘密。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "悬疑小说的读者",
+        "多兰的读者"
+      ],
+      "watchFor": [
+        "嘉娜隐瞒的事",
+        "叙述者大卫的判断"
+      ],
+      "warning": "悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：哈里·多兰著，北京联合出版公司 2024，丛编「九读」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I712.45`**；③提要取自第一个馆详情页并经作者校验（原提要含后续发展，梗概**只取相遇与秘密**）。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2024。**同作者补缺**：库内已有《坏种子》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-023",
+    "title": "洞穴",
+    "originalTitle": "La caverna de las ideas",
+    "author": "何塞·卡洛斯·索莫萨",
+    "authorEn": "José Carlos Somoza",
+    "genre": "历史推理",
+    "firstPublished": "2000",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "解谜人",
+    "country": "西班牙",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "meta-fiction",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "古希腊的雅典发生连环凶杀，死者都是柏拉图学园的学生；奉命查案的「解谜人」很快发现尸体被做过手脚。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "喜欢后设结构的读者"
+      ],
+      "watchFor": [
+        "三起案子的死因差异",
+        "脚注文本里的另一条线"
+      ],
+      "warning": "历史推理小说（含后设结构），涉及命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：何塞·卡洛斯·索莫萨著，上海人民出版社 2009。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I551.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` 记 2000（西班牙文原版年）；`editionYear` 记 2009。**同作者补缺**：库内已有《雅典谋杀案》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-024",
+    "title": "人头重案",
+    "originalTitle": "",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「麦格雷探案集」中的一部：麦格雷查案不只是抓人，他先要做的更像医生、律师与忏悔师。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷系列的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案件背后的家庭与处境"
+      ],
+      "warning": "警察程序派小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：乔治·西姆农著，译林出版社 2007，丛编「麦格雷探案集」。**判据**：①**学科主题词为「侦探小说 比利时 现代」**；②**中图分类号 `I564.456`**（比利时小说 `.456` 复分号）；③提要取自第一个馆详情页（该提要只写麦格雷其人，未给案件情节，梗概据此**只作系列级概述**）并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2007。**同作者补缺**：库内已有《窗上人影》。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib169-025",
+    "title": "捕鼠器",
+    "originalTitle": "The Mousetrap",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1952",
+    "editionYear": "2007",
+    "series": "非系列（剧本）",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "克里斯蒂的舞台剧剧本：一栋刚开张的寄宿公寓里来了几位互不相识的客人，而凶手就在其中。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂剧作的读者",
+        "封闭空间群像案的读者"
+      ],
+      "watchFor": [
+        "每位住客的来历",
+        "公寓这一空间的进出方式"
+      ],
+      "warning": "**舞台剧剧本**（非小说），含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：阿加莎·克里斯蒂著，上海译文出版社 2007。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③提要取自第一个馆详情页（该提要为**舞台布景说明**，无情节；梗概据剧本的公开设定整理）。**体裁说明**：本作为**舞台剧剧本**，与本库既有的《意外来客》《黑咖啡》同类。**年份字段说明**：`firstPublished` 记 1952（剧本首演年）；`editionYear` 记 2007。"
+    },
+    "provenance": {
+      "source": "batch-169-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

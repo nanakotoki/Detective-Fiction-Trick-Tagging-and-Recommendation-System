@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "middepth56-001",
+    "title": "依存",
+    "originalTitle": "依存",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2000",
+    "series": "匠千晓系列",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "concealment",
+      "first-person",
+      "dark-atmosphere",
+      "honkaku",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一个从小被当作工具养大的女孩，长大后开始追查自己家里那些没人愿意提的往事。她越查越发现，这个家之所以维持得住，靠的是所有人一起不看某样东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 2439,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26383897/",
+        "subjectId": "26383897",
+        "edition": "依存 2015",
+        "fetchedAt": "2026-09-22T12:30:28.560Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "匠千晓系列的读者",
+        "喜欢家族崩坏题材的读者"
+      ],
+      "watchFor": [
+        "家里人一致回避的话题",
+        "她童年记忆里的空白",
+        "谁一直在替谁遮掩"
+      ],
+      "warning": "心理悬疑长篇，含家庭创伤与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "middepth56-002",
+    "title": "苏格兰游戏",
+    "originalTitle": "スコッチ・ゲーム",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "1998",
+    "series": "匠千晓系列",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "几个人围着一张桌子，把一桩看似简单的事情一层层往回想。他们提出的每个解释都说得通，而下一个解释总能把上一个推翻。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 3039,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26421649/",
+        "subjectId": "26421649",
+        "edition": "苏格兰游戏 2015",
+        "fetchedAt": "2026-09-22T12:30:31.894Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "匠千晓系列的读者",
+        "喜欢对话式推演的读者"
+      ],
+      "watchFor": [
+        "每人提出的假设",
+        "被推翻的假设留下的东西",
+        "谁始终没说话"
+      ],
+      "warning": "系列长篇，以对话推演为主，节奏轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2022.12（苏格兰游戏／(日) 西泽保彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "middepth56-003",
+    "title": "波斯猫之谜",
+    "originalTitle": "ペルシャ猫の謎",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "1995",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。犯罪学家火村与作家有栖川照例在闲谈中接下一件件小事，而每篇的破口都落在当事人自己都没在意的一句话上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.5,
+        "count": 317,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26308259/",
+        "subjectId": "26308259",
+        "edition": "波斯猫之谜 2015",
+        "fetchedAt": "2026-09-22T12:30:35.131Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "喜欢轻量本格短篇的读者"
+      ],
+      "watchFor": [
+        "被一带而过的那句话",
+        "火村追问的角度",
+        "篇名与谜面的对应"
+      ],
+      "warning": "短篇集，各篇独立，节奏轻快，暴力程度低。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（波斯猫之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "middepth56-004",
+    "title": "英国庭园之谜",
+    "originalTitle": "英国庭園の謎",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "1994",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "countryside",
+      "mansion"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，舞台多在带庭园的宅子里。作者的趣味在于把「庭园」这种一草一木都被安排过的场所，写成线索与假线索同时生长的地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 307,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1277092/",
+        "subjectId": "1277092",
+        "edition": "英国庭园之谜 2003",
+        "fetchedAt": "2026-09-22T12:30:40.599Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "喜欢宅邸与庭园场景的读者"
+      ],
+      "watchFor": [
+        "庭园的布置改动",
+        "来访者各自走动的路线",
+        "谁说了一句与环境不符的话"
+      ],
+      "warning": "短篇集，各篇独立，本格解谜向。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（英国庭园之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "middepth56-005",
+    "title": "幻坂",
+    "originalTitle": "幻坂",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "变格",
+    "firstPublished": "2013",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "historical-setting",
+      "first-person",
+      "dark-atmosphere",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的都是同一条坡道上发生过的旧事。作者把这条坡道当作一个固定的舞台，让不同年代的人在上面各自撞见一次说不通的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有栖川有栖非系列作的读者",
+        "喜欢怪谈色调短篇的读者"
+      ],
+      "watchFor": [
+        "每篇的年代标记",
+        "坡道上的同一处地点",
+        "叙述者对「怪」的态度变化"
+      ],
+      "warning": "短篇集，各篇独立，带怪谈色彩；豆瓣条目暂无评分。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：東京 KADOKAWA 2016.1（馆藏题名「幻坂」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "middepth56-006",
+    "title": "痾",
+    "originalTitle": "痾",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "1999",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "narrative-trick",
+      "unreliable-narrator",
+      "multiple-solutions",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个家族聚在旧宅里处理一件旧事，而宅子里每个人对这件事的说法都不一样。读下去会发现，这些说法之间并不是谁在撒谎，而是各自站在不同的位置上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 533,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3636679/",
+        "subjectId": "3636679",
+        "edition": "痾 1999",
+        "fetchedAt": "2026-09-22T12:30:52.569Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麻耶雄嵩的读者",
+        "喜欢多视角对照的读者"
+      ],
+      "watchFor": [
+        "各人叙述的落点",
+        "旧宅里被改动过的地方",
+        "谁的说法里少了同一个人"
+      ],
+      "warning": "本格长篇，含叙述性诡计与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "middepth56-007",
+    "title": "光媒之花",
+    "originalTitle": "光媒の花",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "",
+    "detective": "无固定侦探（短篇连作）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "nonlinear",
+      "psychological-misdirection",
+      "concealment",
+      "city",
+      "dark-atmosphere",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇连作，各篇写不同的人，彼此看似无关，而读完会发现有一个人始终在场，只是每次都换了身份出现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1696,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6961052/",
+        "subjectId": "6961052",
+        "edition": "光媒之花 2012",
+        "fetchedAt": "2026-09-22T12:30:56.172Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "喜欢短篇连作与隐藏主线的读者"
+      ],
+      "watchFor": [
+        "每篇里那个不起眼的旁支人物",
+        "篇与篇之间的时间顺序",
+        "反复出现的物件"
+      ],
+      "warning": "短篇连作，含阴暗题材与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2012（光媒之花／(日) 道尾秀介著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "middepth56-008",
+    "title": "背之眼",
+    "originalTitle": "背の眼",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "legend-folklore",
+      "dark-atmosphere",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名作家受托去采访一处据说闹过事的温泉地，同行的还有一位专门调查灵异传闻的人。他们各自记录下所见，而两份记录从一开始就对不上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 512,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6889873/",
+        "subjectId": "6889873",
+        "edition": "背之眼 2012",
+        "fetchedAt": "2026-09-22T12:30:59.545Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "能接受怪谈与推理交织的读者"
+      ],
+      "watchFor": [
+        "两份记录的差异",
+        "当地传闻的最早版本",
+        "叙述者自己不肯写下来的部分"
+      ],
+      "warning": "怪谈色彩较浓的心理悬疑，含恐怖氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海译文出版社 2012（馆藏题名「背之眼」／道尾秀介）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "middepth56-009",
+    "title": "满愿",
+    "originalTitle": "満願",
+    "author": "米泽穗信",
+    "authorEn": "Yonezawa Honobu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere",
+      "ensemble",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。每篇开头都是一件寻常的委托或请求，而当事人真正想要的东西，往往要读到最后一句话才显出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1712,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26608084/",
+        "subjectId": "26608084",
+        "edition": "满愿 2016",
+        "fetchedAt": "2026-09-22T12:31:06.974Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信非日常系列的读者",
+        "喜欢短篇反转的读者"
+      ],
+      "watchFor": [
+        "当事人请求的表面理由",
+        "叙述者接受得太快的地方",
+        "结尾处那句话的落点"
+      ],
+      "warning": "短篇集，各篇独立，基调由温和转向阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2020（满愿／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "middepth56-010",
+    "title": "书与钥匙的季节",
+    "originalTitle": "本と鍵の季節",
+    "author": "米泽穗信",
+    "authorEn": "Yonezawa Honobu",
+    "genre": "日常之谜",
+    "firstPublished": "2018",
+    "series": "",
+    "detective": "无固定侦探（两名高中生）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "first-person",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "两个高中生在图书馆的日常里遇到各种小疑问：一本被刻意放错位置的书、一把不知开哪扇门的钥匙。没有案件，只有把小事想通的乐趣。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 1787,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35651703/",
+        "subjectId": "35651703",
+        "edition": "书与钥匙的季节 2022",
+        "fetchedAt": "2026-09-22T12:31:10.327Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜的读者",
+        "米泽穗信的读者"
+      ],
+      "watchFor": [
+        "那件东西被放在那里多久了",
+        "谁有机会动它",
+        "两人推理时的分工"
+      ],
+      "warning": "日常推理短篇连作，无凶案，基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2022（书与钥匙的季节／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "middepth56-011",
+    "title": "母性",
+    "originalTitle": "母性",
+    "author": "凑佳苗",
+    "authorEn": "Minato Kanae",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "",
+    "detective": "无固定侦探（母女双视角）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "dual-line",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "同一个家庭里发生的事，由母亲和女儿各讲一遍。两人讲的都是真的，但两段叙述之间有一块谁都没有提的地方，而那块地方正好是整件事的起因。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 350,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36937297/",
+        "subjectId": "36937297",
+        "edition": "母性 2024",
+        "fetchedAt": "2026-09-22T12:31:13.476Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "凑佳苗的读者",
+        "喜欢双视角对照的读者"
+      ],
+      "watchFor": [
+        "母女两段叙述的时间差",
+        "同一件事的两种说法",
+        "两人都没有提到的那个人"
+      ],
+      "warning": "心理悬疑长篇，含家庭创伤与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,民主与建设出版社:,2024（母性／(日) 凑佳苗著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "middepth56-012",
+    "title": "连续“杀人鬼”青蛙男：噩梦再临",
+    "originalTitle": "連続殺人鬼カエル男ふたたび",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "青蛙男系列",
+    "detective": "古手川和也、渡濑",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "当年那桩以童话片段作标记的连环案已经过去多年，相关的人也各自散开。而新的案件现场，又出现了同一种标记。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 842,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36328702/",
+        "subjectId": "36328702",
+        "edition": "连续“杀人鬼”青蛙男：噩梦再临 2023",
+        "fetchedAt": "2026-09-22T12:31:16.859Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《连续“杀人鬼”青蛙男》的读者",
+        "中山七里的读者"
+      ],
+      "watchFor": [
+        "标记的具体形式",
+        "当年办案者的近况",
+        "谁掌握着只有当事人才知道的细节"
+      ],
+      "warning": "系列续作，含连环凶案与暴力描写，建议先读前作。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2023（馆藏题名「连续“杀人鬼”青蛙男 噩梦再临」／中山七里）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "middepth56-013",
+    "title": "一首朋克救地球",
+    "originalTitle": "フィッシュストーリー",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "日常之谜",
+    "firstPublished": "2007",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "nonlinear",
+      "meta-fiction",
+      "city",
+      "youth",
+      "social-commentary"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "meta-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的是不同年代、不同处境里的一些普通人。它们之间没有直接关系，但某一篇里发生的一件小事，会在很久以后以另一种方式起作用。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 5319,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26789636/",
+        "subjectId": "26789636",
+        "edition": "一首朋克救地球 2016",
+        "fetchedAt": "2026-09-22T12:31:22.525Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢短篇之间隐隐呼应的读者"
+      ],
+      "watchFor": [
+        "各篇的年代",
+        "反复出现的歌名或标题",
+        "那件「没什么用」的小事"
+      ],
+      "warning": "短篇集，各篇独立，无凶案，基调轻快温暖。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "middepth56-014",
+    "title": "枪与巧克力",
+    "originalTitle": "銃とチョコレート",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "冒险悬疑",
+    "firstPublished": "2006",
+    "series": "",
+    "detective": "无固定侦探（少年视角）",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "youth",
+      "cipher",
+      "concealment",
+      "red-herring",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "一个少年为了寻找一笔传说中的宝藏，跟着一张来历不明的纸币上的线索往前走。追他的人不止一拨，而这张纸币本身也在被人追。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 508,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36553464/",
+        "subjectId": "36553464",
+        "edition": "枪与巧克力 2023",
+        "fetchedAt": "2026-09-22T12:31:25.928Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "喜欢少年冒险与寻宝题材的读者"
+      ],
+      "watchFor": [
+        "纸币上的线索",
+        "几拨追寻者各自的目的",
+        "少年身边那个人不肯说的部分"
+      ],
+      "warning": "少年向冒险推理，含追逐与少量暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中国友谊出版公司:,2023（枪与巧克力／(日) 乙一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "middepth56-015",
+    "title": "小生物语",
+    "originalTitle": "小生物語",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "变格",
+    "firstPublished": "2003",
+    "series": "",
+    "detective": "无固定侦探（第一人称随笔体）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "meta-fiction",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "daily-mystery-school",
+      "meta-school"
+    ],
+    "safeSummary": "作者以第一人称写自己日常里遇到的一些小事，而每件事都有一处轻微的错位：多得一点、少得一点、顺序差一格。写着写着，这些错位连成了一条线。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 755,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27024265/",
+        "subjectId": "27024265",
+        "edition": "小生物语 2017",
+        "fetchedAt": "2026-09-22T12:31:29.566Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "喜欢日常异变题材的读者"
+      ],
+      "watchFor": [
+        "每则里那处轻微错位",
+        "作者对自己的描述",
+        "哪一则的语气和其他不一样"
+      ],
+      "warning": "短篇连作，带随笔体色彩，含怪奇与自嘲笔调。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2014（小生物语／(日) 乙一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "middepth56-016",
+    "title": "寂寞的频率",
+    "originalTitle": "さみしさの周波数",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2000",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "youth",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。写的多是人与人之间那种对不上频的关系：一个人拼命想被听见，另一个人就在旁边却接收不到。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 6184,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11498200/",
+        "subjectId": "11498200",
+        "edition": "寂寞的频率 2012",
+        "fetchedAt": "2026-09-22T12:31:33.028Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一短篇的读者",
+        "喜欢孤独题材的读者"
+      ],
+      "watchFor": [
+        "双方各自没说出口的话",
+        "每篇的叙述视角",
+        "结尾处那个错过的瞬间"
+      ],
+      "warning": "短篇集，各篇独立，基调孤独，含阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：杭州:,浙江人民出版社:,2020（寂寞的频率／(日) 乙一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "middepth56-017",
+    "title": "夏的复制品",
+    "originalTitle": "夏の複製品",
+    "author": "森博嗣",
+    "authorEn": "Mori Hiroshi",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "S&M 系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "campus",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一件多年前发生的事被重新提起，而相关人员都已各自过上了另一种生活。犀川与萌绘要去核对的，是这些人如今的说法与当年记录之间的差距。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 432,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1481934/",
+        "subjectId": "1481934",
+        "edition": "夏的複製品 2005",
+        "fetchedAt": "2026-09-22T12:31:40.959Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "S&M 系列的读者",
+        "喜欢旧事重查题材的读者"
+      ],
+      "watchFor": [
+        "当年的记录与如今说法的出入",
+        "各人这些年的去向",
+        "谁一直保留着旧物"
+      ],
+      "warning": "S&M 系列长篇，含理系对话与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-56-mid-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

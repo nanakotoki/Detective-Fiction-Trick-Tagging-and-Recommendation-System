@@ -1,0 +1,254 @@
+[
+  {
+    "id": "cnaudit70-001",
+    "title": "网络凶邻",
+    "originalTitle": "",
+    "author": "既晴",
+    "authorEn": "Chi Ching",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2006",
+    "series": "张钧见系列",
+    "detective": "张钧见",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "psychological-misdirection",
+      "city",
+      "concealment",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "三名女子先后在收到一封题为「情人节想对你说」的邮件后死于火焚。私家侦探张钧见发现她们都收到过同一段影像，影像里是一个上吊的女孩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 172,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1490287/",
+        "subjectId": "1490287",
+        "edition": "网络凶邻 2006",
+        "fetchedAt": "2026-09-22T15:08:33.187Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理读者",
+        "喜欢网络题材悬疑的读者"
+      ],
+      "watchFor": [
+        "三名死者之间的共同点",
+        "那段影像被谁发出去的",
+        "委托人对女儿的说法"
+      ],
+      "warning": "犯罪悬疑长篇，含火焚、上吊等描写；主角张钧见是系列侦探。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2006 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-70-audit6.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit70-002",
+    "title": "新房客和活死人",
+    "originalTitle": "",
+    "author": "宁航一",
+    "authorEn": "Ning Hangyi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "十四分之一系列",
+    "detective": "无固定侦探（十三名作家轮流叙述）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "ensemble",
+      "narrative-trick",
+      "fear",
+      "dark-atmosphere",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "十三名悬疑作家被关进一所废弃监狱，被迫按规则玩一场游戏，违规者要付出性命。而主办者自己也藏在他们中间，故事由各人轮流讲出。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 2703,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10782201/",
+        "subjectId": "10782201",
+        "edition": "新房客和活死人 2012",
+        "fetchedAt": "2026-09-22T15:08:37.993Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《必须犯规的游戏》的读者",
+        "喜欢框架叙事与短篇连作的读者"
+      ],
+      "watchFor": [
+        "每个人讲的故事与自身处境的对应",
+        "违规是怎么被认定的",
+        "十三个人里谁在推动局面"
+      ],
+      "warning": "框架叙事的系列长篇第二季，建议先读《必须犯规的游戏》；含凶案与恐怖描写。豆瓣条目未给出原作名，故 originalTitle 留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2012 年版，十四分之一系列第二季）；首版年为该系列分季出版年份，梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-70-audit6.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit70-003",
+    "title": "死者的警告",
+    "originalTitle": "",
+    "author": "宁航一",
+    "authorEn": "Ning Hangyi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "十四分之一系列",
+    "detective": "无固定侦探（十三名作家轮流叙述）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "ensemble",
+      "narrative-trick",
+      "fear",
+      "dark-atmosphere",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "被困在废弃监狱里的十三名作家仍在按规则轮流讲故事，而死亡的名单在往下走。这一次，故事里的人开始与外面的处境重合。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 2403,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20269675/",
+        "subjectId": "20269675",
+        "edition": "死者的警告 2012",
+        "fetchedAt": "2026-09-22T15:08:41.694Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过前两季的读者",
+        "喜欢框架叙事与短篇连作的读者"
+      ],
+      "watchFor": [
+        "这一季里谁先撑不住",
+        "故事与现实的对应关系",
+        "主办者留下的规则细节"
+      ],
+      "warning": "框架叙事的系列长篇第三季，建议按顺序阅读；含凶案与恐怖描写。豆瓣条目未给出原作名，故 originalTitle 留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2012 年版，十四分之一系列第三季）；首版年为该系列分季出版年份，梗概据系列框架与公开条目信息重写"
+    },
+    "provenance": {
+      "source": "batch-70-audit6.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

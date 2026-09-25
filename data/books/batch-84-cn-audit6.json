@@ -1,0 +1,169 @@
+[
+  {
+    "id": "cnaudit84-001",
+    "title": "推理作家的信条",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "王稼骏作品",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "narrative-trick",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，收《推理作家的信条》《六十度的困扰》《LOOP》《志野的愤怒》《我的弟弟是名侦探》《环形犯罪》六篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 556,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30281971/",
+        "subjectId": "30281971",
+        "edition": "推理作家的信条 2018",
+        "fetchedAt": "2026-09-23T06:35:22.021Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创本格读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "同题那篇里作家给自己定的规矩",
+        "几篇之间的结构呼应",
+        "叙述者站在什么位置"
+      ],
+      "warning": "本格短篇集，各篇独立，含凶案描写。豆瓣条目只给出篇目、没有情节简介，故本条梗概只陈述收录篇目，不代拟情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与篇目取自扬州市图书馆 OPAC（书目号 0000713542，新星出版社 2018 年版，ISBN 978-7-5133-3164-7，丛编「午夜文库·原创系列·王稼骏作品 03」）；该条目提要仅列篇目，梗概据此陈述，未代拟情节"
+    },
+    "provenance": {
+      "source": "batch-84-cn-audit6.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit84-002",
+    "title": "再见，安息岛",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "王稼骏作品",
+    "detective": "沈括",
+    "country": "中国",
+    "tags": [
+      "isolated-island",
+      "concealment",
+      "red-herring",
+      "multiple-solutions",
+      "fear",
+      "legend-folklore",
+      "dual-line"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "永乐岛是离上海六小时旅程的小岛，渔民在邻近的安息岛上建了妈祖庙。台风之夜，沈括的父母突然消失，一同消失的还有安息岛。十五年后，他在中日高校围棋交流赛上突然返回故乡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 350,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35673567/",
+        "subjectId": "35673567",
+        "edition": "再见，安息岛 2022",
+        "fetchedAt": "2026-09-23T06:35:25.515Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理读者",
+        "喜欢海岛舞台与旧案题材的读者"
+      ],
+      "watchFor": [
+        "安息岛与妈祖庙的方位",
+        "十五年前那晚各人的行踪",
+        "附近海域出现的故人"
+      ],
+      "warning": "本格推理长篇，以海岛为舞台，含失踪、命案与台风灾害描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000907263，新星出版社 2022 年版，ISBN 978-7-5133-4707-5，丛编「午夜文库·原创系列」「王稼骏作品 04」）；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-84-cn-audit6.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

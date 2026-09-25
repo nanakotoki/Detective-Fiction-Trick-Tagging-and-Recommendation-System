@@ -1,0 +1,300 @@
+[
+  {
+    "title": "活尸之死",
+    "alternateTitles": [
+      "生尸之死"
+    ],
+    "author": "山口雅也",
+    "keep": "batch-01-honkaku.json#honkaku-013",
+    "drop": [
+      "batch-45-mid-authors.json#mid-017（生尸之死）"
+    ],
+    "tagsBefore": 10,
+    "tagsAfter": 13,
+    "schoolAfter": 4
+  },
+  {
+    "title": "姑获鸟之夏",
+    "alternateTitles": [],
+    "author": "京极夏彦",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-015",
+    "drop": [
+      "batch-07-honkaku-more.json#honkaku2-001（姑获鸟之夏）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 12,
+    "schoolAfter": 3
+  },
+  {
+    "title": "魍魉之匣",
+    "alternateTitles": [],
+    "author": "京极夏彦",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-001",
+    "drop": [
+      "batch-07-honkaku-more.json#honkaku2-002（魍魉之匣）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 13,
+    "schoolAfter": 3
+  },
+  {
+    "title": "向日葵不开的夏天",
+    "alternateTitles": [],
+    "author": "道尾秀介",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-016",
+    "drop": [
+      "batch-07-honkaku-more.json#honkaku2-007（向日葵不开的夏天）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 9,
+    "schoolAfter": 3
+  },
+  {
+    "title": "魔眼之匣谜案",
+    "alternateTitles": [],
+    "author": "今村昌弘",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-012",
+    "drop": [
+      "batch-07-honkaku-more.json#honkaku2-018（魔眼之匣谜案）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 12,
+    "schoolAfter": 3
+  },
+  {
+    "title": "赎罪",
+    "alternateTitles": [],
+    "author": "凑佳苗",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-010",
+    "drop": [
+      "batch-09-social-more.json#social2-015（赎罪）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 10,
+    "schoolAfter": 2
+  },
+  {
+    "title": "莫尔格街凶杀案",
+    "alternateTitles": [
+      "莫格街凶杀案"
+    ],
+    "author": "埃德加·爱伦·坡",
+    "keep": "batch-15-world-mystery.json#world2-001",
+    "drop": [
+      "batch-63-west-audit.json#westaudit63-008（莫格街凶杀案）"
+    ],
+    "tagsBefore": 8,
+    "tagsAfter": 9,
+    "schoolAfter": 3
+  },
+  {
+    "title": "黄金案",
+    "alternateTitles": [],
+    "author": "高罗佩",
+    "keep": "batch-49-western-new.json#gulik-002",
+    "drop": [
+      "batch-15-world-mystery.json#world2-010（黄金案）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 8,
+    "schoolAfter": 3
+  },
+  {
+    "title": "血腥的收获",
+    "alternateTitles": [
+      "红色收获"
+    ],
+    "author": "达希尔·哈米特",
+    "keep": "batch-15-world-mystery.json#world2-017",
+    "drop": [
+      "batch-63-west-audit.json#westaudit63-003（红色收获）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 11,
+    "schoolAfter": 2
+  },
+  {
+    "title": "为了N",
+    "alternateTitles": [],
+    "author": "凑佳苗",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-011",
+    "drop": [
+      "batch-18-jp-new-wave.json#jpnew-006（为了N）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 9,
+    "schoolAfter": 2
+  },
+  {
+    "title": "红莲馆杀人事件",
+    "alternateTitles": [],
+    "author": "阿津川辰海",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-010",
+    "drop": [
+      "batch-18-jp-new-wave.json#jpnew-011（红莲馆杀人事件）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 8,
+    "schoolAfter": 3
+  },
+  {
+    "title": "所罗门的伪证",
+    "alternateTitles": [],
+    "author": "宫部美雪",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-012",
+    "drop": [
+      "batch-18-jp-new-wave.json#jpnew-025（所罗门的伪证）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 7,
+    "schoolAfter": 4
+  },
+  {
+    "title": "邻人的犯罪",
+    "alternateTitles": [],
+    "author": "宫部美雪",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-013",
+    "drop": [
+      "batch-18-jp-new-wave.json#jpnew-026（邻人的犯罪）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 5,
+    "schoolAfter": 2
+  },
+  {
+    "title": "冰菓",
+    "alternateTitles": [],
+    "author": "米泽穗信",
+    "keep": "batch-19-jp-masters.json#jpmas-001",
+    "drop": [
+      "batch-36-jp-authors-expand.json#jpauth-007（冰菓）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 8,
+    "schoolAfter": 2
+  },
+  {
+    "title": "羔羊的盛宴",
+    "alternateTitles": [],
+    "author": "米泽穗信",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-017",
+    "drop": [
+      "batch-19-jp-masters.json#jpmas-004（羔羊的盛宴）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 8,
+    "schoolAfter": 3
+  },
+  {
+    "title": "8的杀戮",
+    "alternateTitles": [
+      "8的杀人"
+    ],
+    "author": "我孙子武丸",
+    "keep": "batch-19-jp-masters.json#jpmas-018",
+    "drop": [
+      "batch-43-authors-misc.json#auth2-014（8的杀人）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 8,
+    "schoolAfter": 4
+  },
+  {
+    "title": "第三时效",
+    "alternateTitles": [],
+    "author": "横山秀夫",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-015",
+    "drop": [
+      "batch-19-jp-masters.json#jpmas-030（第三时效）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 6,
+    "schoolAfter": 2
+  },
+  {
+    "title": "球形的荒野",
+    "alternateTitles": [
+      "一个背叛日本的日本人"
+    ],
+    "author": "松本清张",
+    "keep": "batch-23-jp-masters-expand.json#jpmx-013",
+    "drop": [
+      "batch-41-yokomizo-matsumoto.json#matsumoto2-002（一个背叛日本的日本人）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 9,
+    "schoolAfter": 2
+  },
+  {
+    "title": "密室黄金时代的杀人事件",
+    "alternateTitles": [],
+    "author": "鸭崎暖炉",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-014",
+    "drop": [
+      "batch-24-jp-modern-fill.json#jpmod2-001（密室黄金时代的杀人事件）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 8,
+    "schoolAfter": 4
+  },
+  {
+    "title": "铁鼠之槛",
+    "alternateTitles": [],
+    "author": "京极夏彦",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-004",
+    "drop": [
+      "batch-24-jp-modern-fill.json#jpmod2-012（铁鼠之槛）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 9,
+    "schoolAfter": 3
+  },
+  {
+    "title": "狂骨之梦",
+    "alternateTitles": [],
+    "author": "京极夏彦",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-002",
+    "drop": [
+      "batch-24-jp-modern-fill.json#jpmod2-013（狂骨之梦）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 9,
+    "schoolAfter": 4
+  },
+  {
+    "title": "络新妇之理",
+    "alternateTitles": [],
+    "author": "京极夏彦",
+    "keep": "batch-36-jp-authors-expand.json#jpauth-003",
+    "drop": [
+      "batch-24-jp-modern-fill.json#jpmod2-014（络新妇之理）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 10,
+    "schoolAfter": 4
+  },
+  {
+    "title": "凶人馆谜案",
+    "alternateTitles": [],
+    "author": "今村昌弘",
+    "keep": "batch-35-jp-modern-more.json#jpmod5-013",
+    "drop": [
+      "batch-24-jp-modern-fill.json#jpmod2-018（凶人馆谜案）"
+    ],
+    "tagsBefore": 7,
+    "tagsAfter": 7,
+    "schoolAfter": 3
+  },
+  {
+    "title": "大唐狄公案",
+    "alternateTitles": [],
+    "author": "高罗佩",
+    "keep": "batch-49-western-new.json#gulik-001",
+    "drop": [
+      "batch-63-west-audit.json#westaudit63-006（大唐狄公案）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 7,
+    "schoolAfter": 5
+  }
+]

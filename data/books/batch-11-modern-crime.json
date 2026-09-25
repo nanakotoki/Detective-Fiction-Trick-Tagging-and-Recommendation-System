@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "modern2-001",
+    "title": "知更鸟",
+    "originalTitle": "The Redbreast",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2000",
+    "series": "哈利·霍勒系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "dual-line",
+      "historical-setting",
+      "red-herring",
+      "narrative-trick",
+      "revenge",
+      "identity",
+      "concealment",
+      "series-detective",
+      "dark-atmosphere",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "奥斯陆警探哈利·霍勒被派去监视一场可疑的集会，与此同时，一段二战时期的旧事与当下的命案线索交错展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 4528,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27194483/",
+        "subjectId": "27194483",
+        "edition": "知更鸟 2018",
+        "fetchedAt": "2026-09-20T13:25:12.608Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双线叙事与历史阴影交织的读者",
+        "偏好北欧警探系列的读者"
+      ],
+      "watchFor": [
+        "章节在两条时间线之间切换的位置",
+        "旧日往事与当下调查在人物上的呼应关系",
+        "霍勒被指派任务时的情报来源"
+      ],
+      "warning": "本书在两条时间线之间交替叙述，建议留意每章标注的年代与地点。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2018（知更鸟／(挪) 尤·奈斯博著 JO NESB）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "modern2-002",
+    "title": "幽灵",
+    "originalTitle": "Phantom",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "哈利·霍勒系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "city",
+      "obsession",
+      "revenge",
+      "concealment",
+      "red-herring",
+      "series-detective",
+      "dark-atmosphere",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "霍勒从香港回到奥斯陆，为一桩牵涉毒品交易的命案奔走，而案中的年轻人与他有着割舍不下的旧日牵连。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 6163,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27042830/",
+        "subjectId": "27042830",
+        "edition": "幽灵 2017",
+        "fetchedAt": "2026-09-20T13:25:17.426Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "追读哈利·霍勒系列的读者",
+        "偏好都市犯罪与警探个人线索交织的读者"
+      ],
+      "watchFor": [
+        "霍勒与不同人物之间的旧日关系",
+        "毒品交易链条上各方的说法",
+        "案件时间点与人物行踪的对应"
+      ],
+      "warning": "本书为系列作，人物关系承接前作，建议先了解霍勒的基本处境。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2017（幽灵／(挪威) 尤·奈斯博著 JO NESBO）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "modern2-003",
+    "title": "玩火的女孩",
+    "originalTitle": "The Girl Who Played with Fire",
+    "author": "斯蒂格·拉森",
+    "authorEn": "Stieg Larsson",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2006",
+    "series": "千禧年系列",
+    "detective": "莉丝·莎兰德与米克尔·布隆维斯特",
+    "country": "瑞典",
+    "tags": [
+      "dual-line",
+      "revenge",
+      "silencing",
+      "identity",
+      "concealment",
+      "city",
+      "social-commentary",
+      "series-detective",
+      "red-herring",
+      "forensic"
+    ],
+    "school": [
+      "social-school",
+      "adventure-school"
+    ],
+    "safeSummary": "《龙纹身的女孩》续篇：一篇即将刊出的调查报道引发命案，布隆维斯特在追查中寻找失去联系的莎兰德。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 7742,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4934552/",
+        "subjectId": "4934552",
+        "edition": "玩火的女孩 2010",
+        "fetchedAt": "2026-09-20T13:25:23.096Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《龙纹身的女孩》的读者",
+        "偏好调查报道式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "报道选题牵涉到的各方人物",
+        "莎兰德过往经历在今作中被提及的片段",
+        "两条调查线交汇的时间点"
+      ],
+      "warning": "本书为系列第二部，建议按顺序阅读以免人物关系断裂。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern2-005",
+    "title": "狗之死",
+    "originalTitle": "The Dogs of Riga",
+    "author": "亨宁·曼凯尔",
+    "authorEn": "Henning Mankell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1992",
+    "series": "库尔特·瓦兰德系列",
+    "detective": "库尔特·瓦兰德",
+    "country": "瑞典",
+    "tags": [
+      "spy-espionage",
+      "city",
+      "concealment",
+      "red-herring",
+      "identity",
+      "series-detective",
+      "dark-atmosphere",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "spy-school"
+    ],
+    "safeSummary": "一只漂到瑞典海岸的救生筏上发现两名死者，调查把瓦兰德引向政局剧变中的里加。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢跨国调查线的读者",
+        "偏好冷战尾声氛围的读者"
+      ],
+      "watchFor": [
+        "案件在两国之间的管辖权与移交过程",
+        "当地联络人提供信息的渠道",
+        "瓦兰德在陌生环境中的处境变化"
+      ],
+      "warning": "本书后半程移师海外，叙事节奏与前作不同，建议留意场景转换。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    }
+  },
+  {
+    "id": "modern2-006",
+    "title": "冰公主",
+    "originalTitle": "The Ice Princess",
+    "author": "卡米拉·拉克伯格",
+    "authorEn": "Camilla Läckberg",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2003",
+    "series": "帕特里克·赫德斯特伦系列",
+    "detective": "帕特里克·赫德斯特伦",
+    "country": "瑞典",
+    "tags": [
+      "countryside",
+      "dark-atmosphere",
+      "red-herring",
+      "concealment",
+      "identity",
+      "forensic",
+      "series-detective",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "女作家埃丽卡回到故乡小镇处理旧宅，童年好友被发现死于自家浴缸，她与警探帕特里克走访旧日熟人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 233,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4304269/",
+        "subjectId": "4304269",
+        "edition": "冰公主 2010年11月",
+        "fetchedAt": "2026-09-20T13:25:35.330Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢小镇群像与旧友重聚设定的读者",
+        "偏好瑞典犯罪小说的读者"
+      ],
+      "watchFor": [
+        "小镇上各家庭之间的旧日往来",
+        "埃丽卡整理遗物时接触到的材料",
+        "警方对现场初步判断的依据"
+      ],
+      "warning": "本书为系列首作，人物关系交代较多，建议留意登场人物的家族关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 人民文学出版社 2010（馆藏题名「冰公主」／拉克伯格）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "modern2-007",
+    "title": "火车上的女孩",
+    "originalTitle": "The Girl on the Train",
+    "author": "宝拉·霍金斯",
+    "authorEn": "Paula Hawkins",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "first-person",
+      "dual-line",
+      "train",
+      "city",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一名每日通勤的女子习惯观察沿线某户人家的生活，直到有一天她看见的事与新闻里的失踪案对上了。而她对当晚的记忆是空白的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 3729,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26609809/",
+        "subjectId": "26609809",
+        "edition": "火车上的女孩 2015",
+        "fetchedAt": "2026-09-20T13:25:38.762Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述的读者",
+        "偏好都市心理悬疑的读者"
+      ],
+      "watchFor": [
+        "各章标注的日期与叙述者",
+        "同一事件在不同章节中的说法差异"
+      ],
+      "warning": "本书存在叙述层面的设计，建议留意每章开头交代的时间与视角。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 中信出版社 2015（馆藏题名「火车上的女孩」／霍金斯）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "modern2-008",
+    "title": "别相信任何人",
+    "originalTitle": "Before I Go to Sleep",
+    "author": "S.J. 沃森",
+    "authorEn": "S. J. Watson",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "unreliable-narrator",
+      "diary-form",
+      "first-person",
+      "psychological-misdirection",
+      "identity",
+      "fear",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "她每天醒来都会失去此前的记忆，只能靠一本日记拼凑自己的过去，而日记的记录与身边人的说法并不一致。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 28652,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6832303/",
+        "subjectId": "6832303",
+        "edition": "别相信任何人 2011",
+        "fetchedAt": "2026-09-20T13:25:42.299Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述与记忆主题的读者",
+        "偏好日常空间中的心理悬疑的读者"
+      ],
+      "watchFor": [
+        "日记条目与当天经历之间的先后顺序",
+        "同一个人在不同场合对往事的说法",
+        "叙述者对自身处境的判断依据"
+      ],
+      "warning": "本书采用受限视角叙述，建议留意每章交代的时间与信息来源。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中信出版集团股份有限公司:,2018（别相信任何人／(英) S.J. 沃森著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "modern2-009",
+    "title": "锋利的东西",
+    "originalTitle": "Sharp Objects",
+    "author": "吉莉安·弗琳",
+    "authorEn": "Gillian Flynn",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2006",
+    "series": "",
+    "detective": "卡米拉·普雷克（记者）",
+    "country": "美国",
+    "tags": [
+      "unreliable-narrator",
+      "first-person",
+      "psychological-misdirection",
+      "red-herring",
+      "countryside",
+      "dark-atmosphere",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一名记者被派回自己长大的小镇采访两起女孩命案，她不得不重新面对母亲与那个封闭的家乡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢返乡题材与家庭阴影的读者",
+        "偏好冷峻笔调的心理惊悚读者"
+      ],
+      "watchFor": [
+        "叙述者对家人与旧友的回忆片段",
+        "小镇居民对案件的态度差异",
+        "报道线索与警方口径的出入"
+      ],
+      "warning": "本书涉及自伤与家庭创伤描写，阅读时请留意自身感受。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    }
+  },
+  {
+    "id": "modern2-010",
+    "title": "暗处",
+    "originalTitle": "Dark Places",
+    "author": "吉莉安·弗琳",
+    "authorEn": "Gillian Flynn",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "莉比·戴（当事人视角）",
+    "country": "美国",
+    "tags": [
+      "unreliable-narrator",
+      "first-person",
+      "dual-line",
+      "nonlinear",
+      "red-herring",
+      "psychological-misdirection",
+      "countryside",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "七岁那年家中发生血案，她的证词成为定案依据；多年后一群业余案件爱好者重提旧事，请她回溯那个夜晚。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 29,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6742240/",
+        "subjectId": "6742240",
+        "edition": "Dark Places 2010",
+        "fetchedAt": "2026-09-21T04:21:20.762Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧案重查结构的读者",
+        "偏好不可靠叙述的读者"
+      ],
+      "watchFor": [
+        "当年与现在两条时间线的情节对应",
+        "不同人物回忆同一事件时的出入",
+        "业余爱好者们各自掌握的材料来源"
+      ],
+      "warning": "本书在过去与现在之间来回切换，建议留意章节标注的时间与视角。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中信出版社:,2017（暗处／(美) 吉莉安·弗琳著 GILLAN FLYNN）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "modern2-011",
+    "title": "神秘森林",
+    "originalTitle": "In the Woods",
+    "author": "塔娜·法兰奇",
+    "authorEn": "Tana French",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "series": "都柏林凶案组系列",
+    "detective": "罗布·瑞安",
+    "country": "爱尔兰",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "dual-line",
+      "countryside",
+      "legend-folklore",
+      "psychological-misdirection",
+      "concealment",
+      "series-detective",
+      "dark-atmosphere",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一名都柏林警探接手郊区林地里的命案，而二十年前他正是同一片林子里那起失踪事件中唯一被找到的孩子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 130,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34429344/",
+        "subjectId": "34429344",
+        "edition": "神秘森林 2019",
+        "fetchedAt": "2026-09-20T13:25:53.519Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警探个人史与案件交缠的读者",
+        "偏好爱尔兰乡野氛围的读者"
+      ],
+      "watchFor": [
+        "叙述者对自己童年记忆的表述方式",
+        "林地现场与当地传闻之间的关联",
+        "搭档与叙述者在办案思路上的分歧"
+      ],
+      "warning": "本书为系列首作，主线之外留有叙述者的个人线索，建议留意其回忆段落。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2019（馆藏题名「神秘森林」／法兰奇）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "modern2-012",
+    "title": "八百万种死法",
+    "originalTitle": "Eight Million Ways to Die",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "1982",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "first-person",
+      "red-herring",
+      "concealment",
+      "obsession",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "无证私家侦探斯卡德受一名女子之托，替她了结与皮条客之间的纠葛；不久她死于非命，他开始追查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 10074,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34995610/",
+        "subjectId": "34995610",
+        "edition": "八百万种死法 2020",
+        "fetchedAt": "2026-09-20T13:25:58.566Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢第一人称硬汉叙事的读者",
+        "偏好纽约都市底层的读者"
+      ],
+      "watchFor": [
+        "斯卡德与委托人几次见面的细节",
+        "酒吧场景中的人物对话",
+        "警方与私家调查各自掌握的线索"
+      ],
+      "warning": "本书为系列作，主角的酗酒与戒酒线索贯穿全书，建议留意其个人状态的变化。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern2-013",
+    "title": "混凝土里的金发女郎",
+    "originalTitle": "The Concrete Blonde",
+    "author": "迈克尔·康奈利",
+    "authorEn": "Michael Connelly",
+    "genre": "硬汉派",
+    "firstPublished": "1994",
+    "series": "哈里·博斯系列",
+    "detective": "哈里·博斯",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "forensic",
+      "red-herring",
+      "psychological-misdirection",
+      "concealment",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "hardboiled-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "博斯因数年前击毙一名嫌疑人而面临民事诉讼，此时一封匿名信与一具新发现的女尸让旧案再起波澜。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 3369,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33402272/",
+        "subjectId": "33402272",
+        "edition": "混凝土里的金发女郎 2019",
+        "fetchedAt": "2026-09-20T13:26:04.160Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警探与法庭双线推进的读者",
+        "偏好洛杉矶都市犯罪的读者"
+      ],
+      "watchFor": [
+        "庭审中双方对同一证据的不同解读",
+        "匿名信寄达的时间与渠道",
+        "旧案卷宗里被反复提及的几处细节"
+      ],
+      "warning": "本书同时推进庭审与侦查两条线，建议留意时间顺序与证据出场的次序。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern2-014",
+    "title": "黑色大丽花",
+    "originalTitle": "The Black Dahlia",
+    "author": "詹姆斯·艾尔罗伊",
+    "authorEn": "James Ellroy",
+    "genre": "硬汉派",
+    "firstPublished": "1987",
+    "series": "",
+    "detective": "巴基·布莱彻特与李·布兰查德（洛杉矶警局）",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "historical-setting",
+      "obsession",
+      "passion",
+      "red-herring",
+      "forensic",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "1947年的洛杉矶，两名警探被派去调查一起轰动全城的年轻女子被害案，案件逐渐吞噬了他们各自的生活。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 751,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35514025/",
+        "subjectId": "35514025",
+        "edition": "黑色大丽花 2022",
+        "fetchedAt": "2026-09-22T05:04:54.132Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢黑色电影式氛围的读者",
+        "对二十世纪中叶洛杉矶感兴趣的读者"
+      ],
+      "watchFor": [
+        "两名警探各自生活线的变化",
+        "媒体与上级对案件施压的方式",
+        "案卷中相互矛盾的证人陈述"
+      ],
+      "warning": "本书取材自真实案件，笔调冷硬并涉及暴力描写，阅读时请留意。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015（黑色大丽花／(美) 詹姆斯·艾尔罗伊著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "modern2-015",
+    "title": "诗人",
+    "originalTitle": "The Poet",
+    "author": "迈克尔·康奈利",
+    "authorEn": "Michael Connelly",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1996",
+    "series": "杰克·麦克沃伊系列",
+    "detective": "杰克·麦克沃伊",
+    "country": "美国",
+    "tags": [
+      "first-person",
+      "city",
+      "forensic",
+      "red-herring",
+      "psychological-misdirection",
+      "obsession",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一名犯罪记者在孪生兄弟——一位凶案警探——死后，发现多起同类案件的报道细节存在可疑的相似之处。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 3089,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30318654/",
+        "subjectId": "30318654",
+        "edition": "诗人 2018",
+        "fetchedAt": "2026-09-20T13:26:13.296Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢记者视角调查的读者",
+        "偏好连环案件与行为分析的读者"
+      ],
+      "watchFor": [
+        "各起案件在现场与报道上的共同点",
+        "记者与联邦探员之间的信息交换",
+        "叙述者获取线索的渠道与时间"
+      ],
+      "warning": "本书以记者视角展开，涉及媒体与案件之间互相影响的描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2006（诗人／迈克尔·康奈利著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2006"
+  },
+  {
+    "id": "modern2-017",
+    "title": "锅匠，裁缝，士兵，间谍",
+    "originalTitle": "Tinker Tailor Soldier Spy",
+    "author": "约翰·勒卡雷",
+    "authorEn": "John le Carré",
+    "genre": "间谍小说",
+    "firstPublished": "1974",
+    "series": "乔治·史迈利系列（卡拉三部曲）",
+    "detective": "乔治·史迈利",
+    "country": "英国",
+    "tags": [
+      "spy-espionage",
+      "dual-role",
+      "concealment",
+      "identity",
+      "psychological-misdirection",
+      "red-herring",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "spy-school",
+      "logic-school"
+    ],
+    "safeSummary": "情报机构高层怀疑内部长期混有为对方工作的人，退休的史迈利被请回，逐一梳理旧日同僚的往事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 2687,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3175259/",
+        "subjectId": "3175259",
+        "edition": "锅匠，裁缝，士兵，间谍 2009",
+        "fetchedAt": "2026-09-20T13:26:26.396Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢慢热群像谍战的读者",
+        "偏好机构内部调查结构的读者"
+      ],
+      "watchFor": [
+        "回忆段落中每位同僚在关键时刻的行踪",
+        "代号与人物之间的对应关系",
+        "史迈利访谈同僚时的提问顺序"
+      ],
+      "warning": "本书人物众多、时间线交错，建议边读边整理人物、代号与往事三者的对应关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-11-modern-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

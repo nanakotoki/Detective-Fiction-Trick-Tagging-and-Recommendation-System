@@ -1,0 +1,957 @@
+[
+  {
+    "id": "coll134-001",
+    "title": "品脱猫：密室",
+    "originalTitle": "",
+    "author": "华斯比 编",
+    "authors": [
+      "华斯比"
+    ],
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "黑猫文库",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录五篇由中国作家近年创作的密室推理小说：《憎恶之锤》《最后的瞬移魔法》《日落瀛台》《玻璃之家》《冥王星密室事件》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室题材的读者",
+        "华语原创短篇的读者"
+      ],
+      "watchFor": [
+        "五篇各自的密室构造",
+        "同一题材下的不同解法"
+      ],
+      "warning": "华语密室推理短篇集，含命案描写，为**五位作家的合集**（华斯比编）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：华斯比编，人民文学出版社 2021，丛编项「99读书人；**黑猫文库**」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③馆藏提要写明「收录五篇…中国作家创作的**密室推理小说**」并列明篇目。**多作者模型**：本条为**五位作家的合集**；馆藏**只给出编者、未列各篇作者**，故 `authors` 只登记编者华斯比，`author` 标签写「华斯比 编」以示其为编者——**不臆造作者名**（见 `docs/collection-backlog.md` §33）。**年份字段说明**：中文出版物，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-002",
+    "title": "谜托邦.01：中国女侦探",
+    "originalTitle": "",
+    "author": "华斯比 主编",
+    "authors": [
+      "华斯比"
+    ],
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "谜托邦",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "multiple-solutions",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "收录九篇由国内名家与新锐创作、主角均为「女侦探」的推理小说，含《彼之蜜糖》《灯笼》《橘咖啡的一次聊天》《末灯抄》《游园惊梦》等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理的读者",
+        "女侦探题材的读者"
+      ],
+      "watchFor": [
+        "九篇各自的侦探形象",
+        "同一主题下的不同写法"
+      ],
+      "warning": "华语推理短篇集，含命案描写，为**多位作家的合集**（华斯比主编）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：主编华斯比，北京联合出版公司 2022。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③馆藏提要写明「收录了九篇…主角为『女侦探』的推理小说」。**多作者模型**：多位作家的合集，馆藏只给主编，故 `authors` 记主编一人、`author` 标签写「华斯比 主编」。**年份字段说明**：中文出版物，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-003",
+    "title": "谜托邦.03：乌有乡",
+    "originalTitle": "",
+    "author": "华斯比 主编",
+    "authors": [
+      "华斯比"
+    ],
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "本格推理",
+    "firstPublished": "2024",
+    "series": "谜托邦",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "multiple-solutions"
+    ],
+    "school": [
+      "meta-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "分「未来与日常」「剑与魔法」「志怪与童话」三个板块：既有带科幻元素的日常推理，也有中西方奇幻元素的推理，还有以志怪与童话为母本改编的推理。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的读者",
+        "改编与戏仿题材的读者"
+      ],
+      "watchFor": [
+        "三个板块各自的设定规则",
+        "母本故事与改编的对应"
+      ],
+      "warning": "华语设定系推理短篇集，含命案描写，为**多位作家的合集**（华斯比主编）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：主编华斯比，北京联合出版公司 2024，正题名「谜托邦.03,乌有乡」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③馆藏提要逐板块说明所收皆为**推理小说**。**多作者模型**：多位作家的合集，`authors` 记主编一人、`author` 标签写「华斯比 主编」。**年份字段说明**：中文出版物，`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-004",
+    "title": "推理要在本格前",
+    "originalTitle": "",
+    "author": "果麦 编",
+    "authors": [
+      "果麦"
+    ],
+    "authorEn": "Guomai (ed.)",
+    "genre": "变格",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "legend-folklore"
+    ],
+    "school": [
+      "meta-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录日本文豪名家写就的推理短篇，含《竹林中》《散步途中》《银座幽灵》《三个疯子》《瓶装地狱》《琥珀烟斗》《浴池》《恋爱曲线》《人油蜡烛》等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日本早期推理的读者",
+        "文豪短篇的读者"
+      ],
+      "watchFor": [
+        "各篇的成书年代",
+        "纯文学作家写推理时的取向差异"
+      ],
+      "warning": "日本推理短篇选集，含命案与怪奇描写，为**多位作家的合集**（果麦编）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：果麦编，浙江文艺出版社 2020。**推理属性判据**：①**检索行主题词为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③馆藏提要写明「收录了诸多**日本文豪名家写就的推理短篇**」并列明篇目。**多作者模型**：多位作家的合集，馆藏只给编者（果麦），故 `authors` 记「果麦」、`author` 标签写「果麦 编」。**跨库交叉**：所收《竹林中》库内已有单篇条目（芥川龙之介），按 §18.3「同一作品的不同选本算不同书目」处理。**年份字段说明**：中文出版物，`firstPublished` 记 2020，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：杭州:,浙江文艺出版社:,2020（推理要在本格前／果麦编）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true,
+    "editionYear": "2020"
+  },
+  {
+    "id": "coll134-005",
+    "title": "今天班里无事发生",
+    "originalTitle": "",
+    "author": "木又迟、杜力勇、会厌",
+    "authors": [
+      "木又迟",
+      "杜力勇",
+      "会厌"
+    ],
+    "authorEn": "Mu Youchi; Du Liyong; Hui Yan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2025",
+    "series": "午夜文库",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "youth",
+      "campus",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "第二届新星国际推理文学奖获奖短篇集，含《今天班里无事发生》《云雾兴安岭》《关于 M 的运动》三篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "推理文学奖获奖作的读者"
+      ],
+      "watchFor": [
+        "三篇各自的谜面",
+        "获奖作在结构上的取向"
+      ],
+      "warning": "华语推理短篇集，含命案描写，为**三位作者的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**：木又迟、杜力勇、会厌著，新星出版社 2025.07，丛编项「**午夜文库**」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③丛编项为**新星出版社「午夜文库」**（推理专门书系）；④本书为**第二届新星国际推理文学奖**获奖短篇集（奖项本身即推理领域）。**多作者模型**：三位作者**馆藏均已列名**，`authors` 完整登记，`author` 即三人标签。**年份字段说明**：中文出版物，`firstPublished` 记 2025，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-006",
+    "title": "白雪公主和三个谜案",
+    "originalTitle": "",
+    "author": "李虹辰、范讽、茄子提子",
+    "authors": [
+      "李虹辰",
+      "范讽",
+      "茄子提子"
+    ],
+    "authorEn": "Li Hongchen; Fan Feng; Qiezitizi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "legend-folklore",
+      "multiple-solutions"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "首届新星国际推理文学奖短篇部门获奖作品集：童话世界的隐秘陷阱、错综复杂的公诉迷局、清新灵动的日常之谜，三篇风格各异。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "童话改编题材的读者"
+      ],
+      "watchFor": [
+        "童话母本与案件设计的对应",
+        "三篇在题材上的跨度"
+      ],
+      "warning": "华语推理短篇集，含命案描写，为**三位作者的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**新星出版社书目与首届新星国际推理文学奖获奖名单**：李虹辰、范讽、茄子提子著，新星出版社 2024。**推理属性判据**：①本书为**首届新星国际推理文学奖短篇部门获奖作品集**——奖项本身即推理领域，且新星出版社为此奖主办方；②出版方内容说明写明「童话世界的隐秘陷阱，错综复杂的公诉迷局，清新灵动的日常之谜…**推理的创作，没有边界**」。**如实标注**：本条**未在两个馆藏 OPAC 取到著录**（两馆均未入藏或未编目），判据为**奖项 + 出版方说明**，**弱于第①类的主题词／中图法**，故在此写明。**多作者模型**：三位作者均已列名，`authors` 完整登记。**年份字段说明**：中文出版物，`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-007",
+    "title": "动物城2333",
+    "originalTitle": "",
+    "author": "王小和、禾午",
+    "authors": [
+      "王小和",
+      "禾午"
+    ],
+    "authorEn": "Wang Xiaohe; He Wu",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "午夜文库",
+    "detective": "不来梅",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "动物王国里人类特使惨遭吞食、灵长动物接连失踪，和平遇到前所未有的挑战；能洞悉真相的，唯有动物城的驴子侦探「不来梅」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的读者",
+        "动物拟人化设定的读者"
+      ],
+      "watchFor": [
+        "动物城的规则与阶层",
+        "失踪案与特使之死的关联"
+      ],
+      "warning": "设定系推理长篇，含命案描写，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**新星出版社书目**：王小和、禾午著，新星出版社 2021.11，丛编项「**午夜文库**」。**推理属性判据**：①丛编项为**新星出版社「午夜文库」**（推理专门书系）；②出版方内容说明明确写作「华语『**设定系』推理**惊艳新作」「开启惊心动魄的**探案**之旅」，并点明主角为「**驴子侦探**不来梅」。**如实标注**：本条**未在两个馆藏 OPAC 取到著录**，判据为**推理专门书系 + 出版方明确标注推理题材**（即判据层级里的第②③档），**弱于**第①类的主题词／中图法。**多作者模型**：两位作者均已列名，`authors` 完整登记，`author` 即两人标签。**年份字段说明**：中文出版物，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "coll134-008",
+    "title": "笔尖的杀意：日本文豪推理集",
+    "originalTitle": "",
+    "author": "江户川乱步 等",
+    "authors": [
+      "江户川乱步",
+      "芥川龙之介",
+      "谷崎润一郎",
+      "甲贺三郎"
+    ],
+    "authorEn": "Edogawa Ranpo; et al.",
+    "genre": "变格",
+    "firstPublished": "2023",
+    "series": "蜘蛛文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "收录江户川乱步、芥川龙之介、谷崎润一郎、甲贺三郎等**十位**日本作家的短篇侦探推理小说，每人一篇，含《竹林中》《途中》《暗号》《琥珀烟斗》等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日本早期推理的读者",
+        "纯文学作家写推理的读者"
+      ],
+      "watchFor": [
+        "各篇的成书年代与作者身份",
+        "逻辑推演与反转的配比"
+      ],
+      "warning": "日本推理短篇选集，含命案与怪奇描写，为**十位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：江户川乱步等著，浙江文艺出版社 2023，丛编项「**蜘蛛文库·引进系列**」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为**蜘蛛文库**（推理专门书系）；④馆藏提要写明「短篇侦探推理小说集…精选十位日本作家的代表性短篇侦探推理小说，每人一篇」。**多作者模型**：馆藏提要**点名四位**（乱步、芥川、谷崎、甲贺），`authors` 只登记这四位，`author` 标签写「江户川乱步 等」——其余六位馆藏未列名，**不臆造**。**年份字段说明**：中文出版物，`firstPublished` 记 2023，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：杭州:,浙江文艺出版社:,2023（笔尖的杀意：日本文豪推理集／(日) 江户川乱步等著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true,
+    "editionYear": "2023"
+  },
+  {
+    "id": "coll134-009",
+    "title": "日本推理小说精华选",
+    "originalTitle": "",
+    "author": "江户川乱步 等",
+    "authors": [
+      "江户川乱步",
+      "菊池宽",
+      "梦野久作",
+      "太宰治",
+      "芥川龙之介"
+    ],
+    "authorEn": "Edogawa Ranpo; et al.",
+    "genre": "变格",
+    "firstPublished": "2022",
+    "series": "每天读一点日文",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "legend-folklore"
+    ],
+    "school": [
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "精选十篇日本推理小说早期作品，涉及江户川乱步、菊池宽、梦野久作、太宰治、芥川龙之介等作家；全书日文汉字标注假名，附重点单词注释与音频。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日本早期推理的读者",
+        "日语学习者"
+      ],
+      "watchFor": [
+        "各篇的成书年代",
+        "「作品赏析」与「豆知识」栏目的补充"
+      ],
+      "warning": "日本推理短篇选集，**日汉对译的学习读物**（汉字标注假名、附音频），含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：钱剑锋编著，中国宇航出版社 2022.07，丛编项「每天读一点日文」。**推理属性判据**：①**检索行主题词为「日语 汉语 对照读物 ; 推理小说 小说集 日本」**（第①类，最硬，且**明确含「推理小说」**）；②馆藏提要写明「精选 10 篇具有代表性的日本**推理小说**早期作品」并列出所涉作家。**如实标注**：本书是**日语学习读物**（`H369.4:I313.45`，汉字标注假名、附朗读音频），已按「收录以推理属性为准」的口径收入，并在 `readingTips.warning` 写明其学习读物的性质。**多作者模型**：`authors` 登记馆藏点名者，`author` 标签写「江户川乱步 等」。**年份字段说明**：中文出版物，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  },
+  {
+    "id": "coll134-010",
+    "title": "心理試験：日文原版",
+    "originalTitle": "",
+    "author": "江户川乱步 等",
+    "authors": [
+      "江户川乱步",
+      "甲贺三郎",
+      "谷崎润一郎",
+      "滨尾四郎"
+    ],
+    "authorEn": "Edogawa Ranpo; et al.",
+    "genre": "变格",
+    "firstPublished": "2022",
+    "series": "日本名作文学文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "multiple-solutions",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "精选《心理测试》《琥珀烟斗》《途中》《梦魇魔杀》四部短篇的**日文原作**，四种迥异手法；全书标注假名、附赠音频，供日语阅读学习。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日语学习者",
+        "日本早期推理的读者"
+      ],
+      "watchFor": [
+        "四篇各自的推理手法",
+        "原文与中译在语气上的差别"
+      ],
+      "warning": "日本推理短篇**日文原版**选集（学习读物），含命案描写；所收四篇的中译单篇库内多已有条目。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：江户川乱步等著，华东理工大学出版社 2022，丛编项「日本名作文学文库」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 作品集 ; 中篇小说 日本 现代 作品集」**（第①类，最硬）；②**中图分类号 `I313.45`**；③馆藏提要写明「精选…四部精彩短篇的**日文原作**」。**四篇的作者归属**依据同社姊妹卷《日本推理短篇小说选》馆藏提要所列（乱步《心理测试》、甲贺三郎《琥珀烟斗》、谷崎润一郎《途中》、滨尾四郎《梦魇魔杀》），非臆测。**如实标注**：本书是**日文原文的学习读物**（标注假名、附音频），且四篇的中译单篇库内多已有条目；按「收录以推理属性为准」的口径收入，`readingTips.warning` 已写明这两点。**多作者模型**：`authors` 登记四位，`author` 标签写「江户川乱步 等」。**年份字段说明**：中文出版物，`firstPublished` 记 2022，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,华东理工大学出版社有限公司:,2022（心理試験：日文原版／(日) 江户川乱步等著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true,
+    "editionYear": "2022"
+  },
+  {
+    "id": "coll134-011",
+    "title": "日本推理短篇小说选",
+    "originalTitle": "",
+    "author": "江户川乱步 等",
+    "authors": [
+      "江户川乱步",
+      "甲贺三郎",
+      "谷崎润一郎",
+      "滨尾四郎"
+    ],
+    "authorEn": "Edogawa Ranpo; et al.",
+    "genre": "变格",
+    "firstPublished": "2023",
+    "series": "日本名著·名家导读",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "multiple-solutions",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录四位日本推理名家的四篇经典作品：江户川乱步《心理测试》、甲贺三郎《琥珀烟斗》、谷崎润一郎《途中》、滨尾四郎《梦魇魔杀》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日语学习者",
+        "日本早期推理的读者"
+      ],
+      "watchFor": [
+        "四篇各自的推理手法",
+        "原文与中译的语气差别"
+      ],
+      "warning": "日本推理短篇选集，**日汉对照的学习读物**，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：江户川乱步等著，华东理工大学出版社 2023，丛编项「日本名著·名家导读」。**推理属性判据**：①**检索行主题词为「日语 汉语 对照读物 ; 推理小说 小说集 日本 现代」**（第①类，最硬，**明确含「推理小说」**）；②馆藏提要逐篇列出四位作家与篇名。**如实标注**：本书为**日汉对照的学习读物**，已按「收录以推理属性为准」的口径收入并写明性质。**多作者模型**：四位作者馆藏均已列名，`authors` 完整登记，`author` 标签写「江户川乱步 等」。**年份字段说明**：中文出版物，`firstPublished` 记 2023，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,华东理工大学出版社有限公司:,2023（日本推理短篇小说选／(日) 江户川乱步等著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true,
+    "editionYear": "2023"
+  },
+  {
+    "id": "coll134-012",
+    "title": "困闭之劫",
+    "originalTitle": "",
+    "author": "赤川次郎 等",
+    "authors": [
+      "赤川次郎"
+    ],
+    "authorEn": "Akagawa Jiro; et al.",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "日本推理名家名作选萃",
+    "detective": "大谷努、香月弓江",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "东京警视厅搜查一课的刑警大谷努与香月弓江既是配合默契的同事，也是一对情侣；一次执行任务时，他们无意间掀开了黑社会冰山的一角，发现一个隐藏很深的邪恶中心。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "赤川次郎的读者",
+        "刑警搭档题材的读者"
+      ],
+      "watchFor": [
+        "那处「邪恶中心」的层级",
+        "两名刑警各自掌握的信息"
+      ],
+      "warning": "犯罪悬疑长篇，含黑社会与命案描写；馆藏丛编作「日本推理名家名作选萃」，但提要内容为单一长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎等著，文汇出版社 2016.01，丛编项「日本推理名家名作选萃」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**。**如实标注（一处不一致）**：馆藏责任者作「**赤川次郎等著**」、丛编作「名家名作选萃」，但**提要描述的是一部以「大谷努／香月弓江」为主角的长篇**（该搭档为赤川次郎作品的固定主人公），与「多作家选集」的印象不符。故 `authors` 只登记**馆藏点名的一位作者**赤川次郎，`author` 标签保留馆藏原样的「赤川次郎 等」——**不替馆藏补全，也不擅自去掉「等」**。**年份字段说明**：中文出版物，`firstPublished` 记 2016，`editionYear` **留空**。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,文汇出版社:,2016.01（困闭之劫／(日) 赤川次郎等著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-134-collections-cn.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  }
+]

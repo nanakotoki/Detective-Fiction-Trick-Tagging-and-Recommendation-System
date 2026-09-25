@@ -1,0 +1,497 @@
+[
+  {
+    "id": "west4-001",
+    "title": "吓破胆联盟",
+    "originalTitle": "The League of Frightened Men",
+    "author": "雷克斯·斯托特",
+    "authorEn": "Rex Stout",
+    "genre": "本格推理",
+    "firstPublished": "1935",
+    "series": "尼禄·沃尔夫系列",
+    "detective": "尼禄·沃尔夫、阿奇·古德温",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一群大学时代的老同学组成互助团体，其中接连有人意外身亡。他们怀疑与当年的一桩旧事有关，于是找上一位足不出户的侦探。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4022131/",
+        "subjectId": "4022131",
+        "edition": "吓破胆联盟 2009",
+        "fetchedAt": "2026-09-21T11:11:19.035Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢安乐椅侦探与系列人物的读者",
+        "对黄金时代美国本格有兴趣的读者"
+      ],
+      "watchFor": [
+        "互助团体的成员名单",
+        "当年的旧事被如何转述",
+        "侦探要求的那些材料"
+      ],
+      "warning": "含心理压迫与死亡场面，侦探本人几乎不外出。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2009.09（吓破胆联盟／(美) 雷克斯·斯托特著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "west4-002",
+    "title": "勒沪菊命案",
+    "originalTitle": "L'Affaire Lerouge",
+    "author": "埃米尔·加博里奥",
+    "authorEn": "Émile Gaboriau",
+    "genre": "本格推理",
+    "firstPublished": "1866",
+    "series": "勒考克系列",
+    "detective": "勒考克",
+    "country": "法国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名老妇人在村中被杀，警方起初把嫌疑落在附近的人身上。随着一位便衣警探介入，调查方向被整个推翻。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2238148/",
+        "subjectId": "2238148",
+        "edition": "勒沪菊命案 1995",
+        "fetchedAt": "2026-09-21T11:11:23.818Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想了解侦探小说早期形态的读者",
+        "对警方程序演变有兴趣的读者"
+      ],
+      "watchFor": [
+        "两类证据的不同待遇",
+        "便衣警探的侦查方法",
+        "旧案与本案的关联"
+      ],
+      "warning": "1866 年的作品，文体与当代差异很大，叙事节奏缓慢。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west4-003",
+    "title": "沙岸之谜",
+    "originalTitle": "The Riddle of the Sands",
+    "author": "厄斯金·柴德斯",
+    "authorEn": "Erskine Childers",
+    "genre": "间谍小说",
+    "firstPublished": "1903",
+    "series": "",
+    "detective": "",
+    "country": "爱尔兰",
+    "tags": [
+      "spy-espionage",
+      "adventure",
+      "first-person",
+      "isolated-island",
+      "cipher"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一名英国人受邀到波罗的海沿岸驾船度假，到了之后才发现邀请他的朋友另有打算。两人在沙洲与水道之间开始查探。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 43,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6776636/",
+        "subjectId": "6776636",
+        "edition": "沙岸之谜 2011",
+        "fetchedAt": "2026-09-21T11:11:28.917Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢航海与谍战题材的读者",
+        "对早期间谍小说有兴趣的读者"
+      ],
+      "watchFor": [
+        "潮汐与航道的细节",
+        "沿岸居民的反应",
+        "两人观察到的工程动静"
+      ],
+      "warning": "含大量航海术语与十九世纪末的欧洲局势背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west4-004",
+    "title": "陈查理探案",
+    "originalTitle": "The House Without a Key",
+    "author": "厄尔·德尔·比格斯",
+    "authorEn": "Earl Derr Biggers",
+    "genre": "本格推理",
+    "firstPublished": "1925",
+    "series": "陈查理系列",
+    "detective": "陈查理",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一位来自东部的青年到夏威夷投亲，抵达当晚家族中便出了事。当地警局的一位华裔探长接手调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 32,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1130623/",
+        "subjectId": "1130623",
+        "edition": "陈查理探案 1999",
+        "fetchedAt": "2026-09-21T11:11:35.248Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢异国舞台与系列侦探的读者",
+        "对早期美国侦探小说有兴趣的读者"
+      ],
+      "watchFor": [
+        "家族成员的关系与财产",
+        "案发当晚各人的去处",
+        "探长问话的方式"
+      ],
+      "warning": "1925 年的作品，对华人的描写带有当时的刻板印象，阅读时请留意。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,群众出版社:,1999（陈查理探案／(美)厄尔·德尔·比格斯著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1999"
+  },
+  {
+    "id": "west4-005",
+    "title": "中国鹦鹉",
+    "originalTitle": "The Chinese Parrot",
+    "author": "厄尔·德尔·比格斯",
+    "authorEn": "Earl Derr Biggers",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "series": "陈查理系列",
+    "detective": "陈查理",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "dual-role",
+      "red-herring",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一串贵重珠宝要送到沙漠中的新主人手里，护送者决定先派人探路。他在目的地假扮成仆役住了下来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 46,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1311787/",
+        "subjectId": "1311787",
+        "edition": "中国鹦鹉 1999",
+        "fetchedAt": "2026-09-21T11:11:43.644Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢卧底视角与系列侦探的读者",
+        "系列读者"
+      ],
+      "watchFor": [
+        "假扮身份时的言行破绽",
+        "宅中各人的举动",
+        "那只鹦鹉听到过什么"
+      ],
+      "warning": "1926 年的作品，含当时对华人的刻板描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中国华侨出版公司:,1989（中国鹦鹉／(美)厄尔·德尔·比格斯著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1989"
+  },
+  {
+    "id": "west4-006",
+    "title": "布朗神父的智慧",
+    "originalTitle": "The Wisdom of Father Brown",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1914",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "dual-role",
+      "red-herring",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，布朗神父继续处理各色离奇事件。他往往从旁人忽略的一处常识入手，推翻看似铁定的结论。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 130,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20438842/",
+        "subjectId": "20438842",
+        "edition": "布朗神父的智慧 2013",
+        "fetchedAt": "2026-09-21T11:11:48.501Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典短篇本格的读者",
+        "系列读者"
+      ],
+      "watchFor": [
+        "被当作理所当然的常识",
+        "当事人的身份与职业",
+        "神父反问的那句话"
+      ],
+      "warning": "爱德华时代的短篇集，文体与当代差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2013（馆藏题名「布朗神父的智慧」／切斯特顿）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-28-western-classic2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "spider108-001",
+    "title": "久月邸事件",
+    "originalTitle": "吸血の家",
+    "author": "二阶堂黎人",
+    "authorEn": "Nikaido Reito",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "二阶堂兰子系列",
+    "detective": "二阶堂兰子",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "snowfield",
+      "legend-folklore",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "二阶堂兰子受托来到久月邸。随着调查深入，她发现接连发生的案件，与二十四年前这座宅邸里那桩雪地无足迹的命案有着神秘关联。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古宅与密室谜案的读者",
+        "二阶堂兰子系列的读者"
+      ],
+      "watchFor": [
+        "久月邸的建筑格局与房间位置",
+        "二十四年前那桩旧案的记录",
+        "宅邸里流传的传说"
+      ],
+      "warning": "本格推理长篇，旧宅连续案件，含命案与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自当当商品页 **11964438432 / 12366786057**（[日]二阶堂黎人著、罗亚星译，浙江文艺出版社 2025 年 7 月，ISBN 9787533979829）。**推理属性判据**：①出版方商品标题与页面写明「日本推理名家二阶堂黎人推理代表作」「蜘蛛文库系列」，而蜘蛛文库为**推理专门书系**；②该书为**第 1 届鲇川哲也奖佳作**；③原书名《吸血之家》，属二阶堂兰子系列的本格长篇，谜面为古宅中的密室与雪地无足迹命案；④当当分类页（侦探/悬疑/推理，cp01.03.38）该条短简介写明「侦探二阶堂兰子觉察到两起案件与 24 年前该宅邸中曾发生的雪地无足迹杀人案件有着神秘关联」。**⚠ 来源说明**：本条未能取得编目级证据——豆瓣整站 403，对外经贸大学 OPAC 与重庆工商大学 OPAC 均未入藏该书（2025 年新书），故①②③④均来自出版方与销售方文案。梗概由整理者据上述材料自行重写，未使用任何剧透内容。 **年份字段拆分（2026-09，方案 C）**：`firstPublished`（原作年）**留空不冒填**——《吸血之家》日文原版的初版年本轮无法从任何可用来源核实；`editionYear` 记本库所引中译本的出版年 2025。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "spider108-002",
+    "title": "法庭游戏",
+    "originalTitle": "法廷遊戯",
+    "author": "五十岚律人",
+    "authorEn": "Igarashi Rihito",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "久我清义、织本美铃、结城薰",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "campus",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "久我清义与织本美铃在法学院相识，为通过司法考试拉上天才同学结城薰一同备考。三人各奔前程后，只有一人成为律师，一人成了被告，一人失去了性命。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭辩论与证据攻防的读者",
+        "偏爱不断反转的解谜过程的读者"
+      ],
+      "watchFor": [
+        "三人学生时代留下的那封信",
+        "庭审中各方对同一事实的不同说法",
+        "每次反转后哪些证据被重新解释"
+      ],
+      "warning": "法庭推理长篇，含命案、被告与庭审对抗描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自当当**自营**商品页 29868819（[日]五十岚律人，浙江文艺出版社 2025 年 3 月，ISBN 9787533978372），并取到该页 AJAX 详情接口返回的官方「编辑推荐」与「内容简介」。**推理属性判据**：①官方编辑推荐写明「**第 62 届梅菲斯特奖**获奖作」「2021 年度『这本推理小说了不起』第 3 名」「2021 年度『本格推理小说 best10』第 9 名」「2021 年度『推理小说 best10』第 4 名」——**日本三大推理榜单全部在列，是本案最硬的一类判据**；②丛编为**推理专门书系**「蜘蛛文库」；③官方内容简介写明「留下的只有重重反转下的谜题」，且作者五十岚律人为执业律师出身的推理作家。**原作年核实**：讲谈社官方新闻页（news.kodansha.co.jp/books/8192）载明『法廷遊戯』为**第 62 回メフィスト賞受賞作、2020 年 5 月 10 日発売**，故 `firstPublished` 记 2020，`editionYear` 记 2025。梗概由整理者据官方内容简介自行重写。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "spider108-003",
+    "title": "爱丽丝梦境事件",
+    "originalTitle": "アリスの国の殺人",
+    "author": "辻真先",
+    "authorEn": "Tsuji Masaki",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "绵畑克二",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "儿童读物编辑绵畑克二酷爱《爱丽丝梦游仙境》。某天他在小吃店睡着后梦见爱丽丝，却在梦里被当作伤害小动物的嫌疑人追捕；现实中，他的上司在郊外别墅被害，他也成了嫌疑人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢梦境与现实交织结构的读者",
+        "童话改写与设定系推理的爱好者"
+      ],
+      "watchFor": [
+        "梦境与现实中重复出现的人和物",
+        "两个世界事件发生的先后对应",
+        "主人公在上司身边留意到的细节"
+      ],
+      "warning": "本格推理长篇，双线交错，含命案与童话式幻想场景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（opac.lib.uibe.edu.cn/opac/book/4825244c3d512b047f2629c38c60c52b）——这是 2026-09 豆瓣整站 403、原馆藏不可达之后新找到的编目源。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②**丛编项「蜘蛛文库.引进系列」**为推理专门书系；③**相关题名附注载明「封面题日文题名：アリスの国の殺人」**，即原作名由此取证，非转述；④馆藏**提要文摘**写明「本书是日本作家辻真先的**长篇推理小说**」并以梦境/现实双线设谜。**备注**：辻真先为动画版《名侦探柯南》编剧之一，当当商品标题亦称其为「日本『爱丽丝＋推理』设定系起始之书」。**年份字段拆分（2026-09，方案 C）**：`firstPublished` **留空不冒填**（原作《アリスの国の殺人》初版年本轮无法核实）；`editionYear` 记中译本 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "spider108-004",
+    "title": "老虎残梦",
+    "originalTitle": "老虎残夢",
+    "author": "桃野杂派",
+    "authorEn": "",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "locked-room",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
+    "safeSummary": "南宋年间，八仙门掌门召集各门派比武，以选定新掌门并传授本派功夫秘法，席间却发生了杀人事件。层层推理之后，牵出江湖昔日的恩怨与宋金之间的家国矛盾。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢武侠背景解谜的读者",
+        "对历史舞台本格推理感兴趣的读者"
+      ],
+      "watchFor": [
+        "比武大会的规则与座次",
+        "各门派人物在席间的往来",
+        "秘法传授的条件"
+      ],
+      "warning": "本格推理长篇，南宋武林背景，含比武、命案与家国冲突描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（opac.lib.uibe.edu.cn/opac/book/532c4b34a781fb159ae04a23f3dd0173）：[日]桃野杂派著、佳辰译，浙江文艺出版社 2023，ISBN 978-7-5339-7237-0。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②**丛编项「蜘蛛文库.引进系列」**为推理专门书系；③馆藏**提要文摘**写明谜面为「南宋时期八仙门掌门召集其他门派以比武选新掌门和传授本派功夫秘法为起因的**杀人事件**，最后通过**层层推理解密**」；④出版方商品页标注该书为**江户川乱步奖获奖作品**，并称其为「日本作家笔下的中国风武侠推理小说」。**年份字段说明**：`firstPublished` 记 2021（第 67 回江户川乱步奖获奖年即日文版刊行年），`editionYear` 记中译本 2023。梗概由整理者据馆藏提要文摘自行重写。**备注**：作者名的罗马字转写本轮无法确证，`authorEn` 留空而不臆造。 **诡计类标签补充（第 72 轮）**：据上图编目提要「设定（如江湖门派、心法招式、门派比武）和日本推理孤岛密室、多重诡计等要素」补标 locked-room、multiple-solutions（出版方提要把「孤岛密室」「多重诡计」列为本作要素）。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "spider108-005",
+    "title": "饭桌追凶",
+    "originalTitle": "",
+    "author": "詹姆斯·亚飞",
+    "authorEn": "James Yaffe",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "神探母亲系列",
+    "detective": "戴维与他的母亲",
+    "country": "美国",
+    "tags": [
+      "city",
+      "cozy",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "每周五与母亲共进晚餐时，警官戴维都会聊起手头的疑难案件。母亲一边张罗饭菜，一边用几个「简单」的问题切中要害，把案件真相说了出来。短篇推理小说集。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢安乐椅神探短篇的读者",
+        "偏爱轻松幽默解谜气氛的读者"
+      ],
+      "watchFor": [
+        "母亲每次追问的那几个「简单」问题",
+        "饭桌上聊起的案件细节",
+        "戴维自己对案件的先入之见"
+      ],
+      "warning": "短篇推理小说集，暴力度低，含命案描述但笔调幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**当当商品页 11876829505 / 11876688628**（[美]詹姆斯·亚飞著、郭垚飞译，浙江文艺出版社 2024 年 10 月，ISBN 9787533977313），并取到**图书在版编目（CIP）数据**页 book.cppinfo.cn/Encyclopedias/home/index?id=4758471。**推理属性判据**：①**CIP 关键词为「推理小说-小说集-美国-现代」**，中图分类 I712.45——CIP 是出版前置的在版编目数据，属最硬的一类判据；②**丛编「蜘蛛文库」为推理专门书系**；③CIP 内容提要写明「是美国作家詹姆斯·亚飞的**短篇推理小说集**」，谜面为警官戴维与「神探母亲」在饭桌上破解疑难案件；④作者詹姆斯·亚飞为《希区柯克剧场》编剧、「神探母亲」系列作者，15 岁即在《EQMM》发表小说。**年份字段拆分（2026-09，方案 C）**：`firstPublished` **留空不冒填**（该短篇集的英文原版初版年本轮无法核实）；`editionYear` 记中译本 2024。梗概由整理者据 CIP 内容提要自行重写。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "spider108-006",
+    "title": "来电疑云",
+    "originalTitle": "",
+    "author": "詹姆斯·亚飞",
+    "authorEn": "James Yaffe",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "神探母亲系列",
+    "detective": "戴维与他的母亲",
+    "country": "美国",
+    "tags": [
+      "countryside",
+      "cozy",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "警官戴维因个人原因搬到小镇梅萨格兰德。在当地大学英语系系主任举办的聚会上，他目睹教授贝拉米在电话另一头「断气」。与死者竞争终身教职的同事成了主要嫌疑人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢安乐椅神探与家庭氛围的读者",
+        "偏爱小镇舞台推理的读者"
+      ],
+      "watchFor": [
+        "聚会当晚各人的位置与通话时间",
+        "母亲追问的那几个「简单」问题",
+        "两位教授竞争终身教职的经过"
+      ],
+      "warning": "推理长篇，含命案与学界竞争描写，笔调温和幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**图书在版编目（CIP）数据**页 book.cppinfo.cn/Encyclopedias/home/index?id=5057685（[(美)詹姆斯·亚飞著]，浙江文艺出版社有限公司 2026 年 4 月，ISBN 9787533982539，中图分类 I712.45），并与当当商品页 12420839026 / 12420839096 交叉核对（后者标注丛编为「蜘蛛文库·引进系列」）。**推理属性判据**：①CIP 内容提要写明警官戴维目睹教授在电话另一头「断气」，嫌疑人锁定为竞争终身教职的同事，并由戴维的母亲「以犀利的切入点揭开了案件的真相」——谜面与解答结构完整；②**丛编「蜘蛛文库」为推理专门书系**；③作者詹姆斯·亚飞为《希区柯克剧场》编剧，「神探母亲」系列（CIP 作者简介记为「四部曲」）作者，同系列的《饭桌追凶》已由 CIP 关键词明确标为「推理小说-小说集」。**年份字段拆分（2026-09，方案 C）**：`firstPublished` **留空不冒填**（英文原版初版年本轮无法核实）；`editionYear` 记中译本 2026。梗概由整理者据 CIP 内容提要自行重写。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "spider108-007",
+    "title": "求婚的密室",
+    "originalTitle": "求婚の密室",
+    "author": "笹泽左保",
+    "authorEn": "Sasazawa Saho",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位老教授在庄园举办聚会，会上发生了密室事件。全书以三段式推理层层检证现场，最后带出一段悲剧往事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计的爱好者",
+        "喜欢经典本格推演的读者"
+      ],
+      "watchFor": [
+        "聚会上庄园各房间的进出路径",
+        "三段推理中被推翻的前两种说法",
+        "被伪装过的那处现场痕迹"
+      ],
+      "warning": "本格推理长篇，庄园密室事件，含命案与悲剧往事描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（libwechat.ctbu.edu.cn/mobile/opac/book/5506718）：[(日) 笹泽左保著、佟凡译]，浙江文艺出版社 2024.5，ISBN 978-7-5339-7540-1，索书号 I313.45/01986，并与当当商品页 12412671448 交叉核对（ISBN 一致）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②**丛编项「蜘蛛文库.引进系列」**为推理专门书系；③**相关题名附注载明「封面题日文题名：きゅうこんのみっしっ」**，原作名由此取证；④馆藏**提要文摘**写明「一位老教授举办庄园聚会而引发的**密室事件**。经过**三段式推理**，最终巧妙破解**伪装的密室手法**」；⑤出版方商品标题标注该案「入选《密室大图鉴》的日本 20 大经典密室」。**年份字段拆分（2026-09，方案 C）**：`firstPublished` **留空不冒填**（日文原版初版年本轮无法核实）；`editionYear` 记中译本 2024。梗概由整理者据馆藏提要文摘自行重写，未采用其中涉及凶手与结局的表述。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "spider108-008",
+    "title": "遗神",
+    "originalTitle": "",
+    "author": "王若虚",
+    "authorEn": "Wang Ruoxu",
+    "genre": "历史推理",
+    "firstPublished": "2025",
+    "series": "非系列",
+    "detective": "曲少毫、居游刃",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "meta-fiction",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "meta-school",
+      "social-school"
+    ],
+    "safeSummary": "十四世纪初卫朝灭亡，天下四分五裂。扬国都城里，年轻小吏曲少毫成了核监院官员居游刃的助手，两人一同查案；此后十多年间，他又历经「虎牢案」「皇族案」「焚宫案」等大案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢历史舞台查案故事的读者",
+        "对「书中书」嵌套叙事感兴趣的读者"
+      ],
+      "watchFor": [
+        "四桩案件之间的时间跨度",
+        "曲少毫撰文上报的市井传闻",
+        "书内文献与实际经过的出入"
+      ],
+      "warning": "架空历史推理长篇，含命案、朝堂角力与战争背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自当当**自营**商品页 29891628（王若虚，浙江文艺出版社 2025 年 5 月，ISBN 9787533979799），并取到该页 AJAX 详情接口返回的官方「编辑推荐」与「内容简介」。**推理属性判据**：①官方编辑推荐明确写有「**悬疑推理**×传奇演义×历史思辨」「**四桩奇案**，串联起一个平行世界中的前朝秘史」；②丛编为**推理专门书系**「蜘蛛文库」（当当另有「蜘蛛文库·原创系列：冥海花」等同系书目）；③官方内容简介写明情节主线为查案——渤都国特使离奇死亡后，曲少毫成为核监院官员居游刃的助手，二人「共同查案」，其后又经「虎牢案」「皇族案」「焚宫案」等案件。**体裁说明**：该书为**架空历史**长篇，推理成分与历史思辨并重，故体裁记「历史推理」；本书同属该社「蜘蛛文库」原创系列。**年份字段说明**：中文原创，`firstPublished` 记 2025，`editionYear` **留空**（不为中文原创重复填写版本年）。梗概由整理者据官方内容简介自行重写。"
+    },
+    "provenance": {
+      "source": "batch-108-spider2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

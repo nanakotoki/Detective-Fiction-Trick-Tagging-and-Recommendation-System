@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "ranpo114-001",
+    "title": "D坂杀人事件",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列（短篇集）",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，收录《D坂杀人事件》《心理测试》《怪人二十面相》《马戏团里的怪人》四篇，是明智小五郎登场时期的作品。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前日本推理的读者",
+        "明智小五郎系列的读者"
+      ],
+      "watchFor": [
+        "现场目击者的说法出入",
+        "侦探对物证的解读",
+        "叙述者的观察角度"
+      ],
+      "warning": "变格推理短篇集，含命案、怪人与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2023.08（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部篇目。**备注**：本条与同批《恶魔的纹章》**收录篇目有重叠**（都含《D坂杀人事件》与《心理测试》），但两书是**不同出版社、不同选目的两本书**，故分别收录，在此写明以免读者误解为重复条目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "ranpo114-002",
+    "title": "二钱铜币",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "city",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，分「二钱铜币」「幽鬼之塔」「白色羽毛之谜」「黄金面具」「心理测试」「黑手」六部分，含乱步的出道作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读乱步出道作的读者",
+        "喜欢暗号与密码解谜的读者"
+      ],
+      "watchFor": [
+        "那枚铜币上的刻痕",
+        "各篇叙述者的身份",
+        "解谜过程中被推翻的推断"
+      ],
+      "warning": "变格推理短篇集，含命案、盗窃与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016.01（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书共分为：二钱铜币、幽鬼之塔、白色羽毛之谜、黄金面具、心理测试、黑手六部分」。**同书异译核查**：本次候选清单另有一条《两钱铜币》（四川文艺出版社 2016），**选目与本条不同**（该本收《变脸艺人》《两钱铜币》《湖畔亭离奇命案》《两个废人》《月亮与手套》）。两书书名仅一字之差却内容不同，为免读者混淆，**本轮只收本条**，另一条记入 `docs/collection-backlog.md` 待办。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016",
+    "alternateTitles": [
+      "两钱铜币"
+    ]
+  },
+  {
+    "id": "ranpo114-003",
+    "title": "大暗室",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "怪人二十面相系列",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "dual-role",
+      "cipher"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "大魔头怪人二十面相建了一座地下宝库，取名「大暗室国美术馆」，里面摆满从世界各国盗来的宝物。为了钱财，他精心设置了一个又一个机关。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪盗题材的读者",
+        "乱步少年向作品的读者"
+      ],
+      "watchFor": [
+        "地下宝库的机关布置",
+        "怪人二十面相的伪装",
+        "明智小五郎的应对"
+      ],
+      "warning": "变格冒险长篇，含盗宝、机关与暴力场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016.6（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 中篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明怪人二十面相的地下宝库与层层机关。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "ranpo114-004",
+    "title": "白色羽毛之谜",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "富豪大河原义明是推理小说发烧友，他邀请同样爱好此道的武彦庄司担任秘书。一天，武彦庄司发现与大河原关系密切的姬田吾郎和村越均之间出了事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明智小五郎系列的读者",
+        "喜欢暗号型线索的读者"
+      ],
+      "watchFor": [
+        "那根白色羽毛的出现位置",
+        "两位当事人各自的说法",
+        "秘书的观察记录"
+      ],
+      "warning": "变格推理中篇，含命案与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 中篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出富豪、秘书与两名关系人之间的事端。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "ranpo114-005",
+    "title": "十字路",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "青年才俊伊势省吾为保护未婚妻与行凶者搏斗，不慎致对方身亡。一起本可算防卫过当的事件，在他决定放弃自首、弃尸枯井之后彻底改变了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步非系列作品的读者",
+        "喜欢罪与罚式心理线的读者"
+      ],
+      "watchFor": [
+        "枯井的位置与周边",
+        "伊势省吾之后的每一步选择",
+        "旁人的怀疑从何而来"
+      ],
+      "warning": "变格推理长篇，含命案、弃尸与心理压迫描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，山东画报出版社 2022（济南）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 中篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明防卫过当、弃尸枯井与事态的转向。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "ranpo114-006",
+    "title": "诅咒的指纹",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列（短篇集）",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "dual-role",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "短篇集，收录《诅咒的指纹》《蜘蛛男》《红色妖虫》三篇，均为明智小五郎与怪人斗智的故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明智小五郎系列的读者",
+        "喜欢怪奇犯罪题材的读者"
+      ],
+      "watchFor": [
+        "各处现场留下的印记",
+        "怪人的伪装手法",
+        "侦探的推理被推翻之处"
+      ],
+      "warning": "变格推理短篇集，含命案、怪人与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016.01（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "ranpo114-007",
+    "title": "红蝎子",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "dark-atmosphere",
+      "dual-role"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "蝎子栖息在热带，有一对大螯，高高翘起的尾巴上还长着可以置人于死地的毒针——无论遇上什么样的对手，它都会猛扑上去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步非系列作品的读者",
+        "能接受猎奇基调的读者"
+      ],
+      "watchFor": [
+        "书名所指的那个人的行事方式",
+        "被卷入者的处境",
+        "步步紧逼的节奏"
+      ],
+      "warning": "变格推理长篇，基调阴暗，含暴力与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，山东画报出版社 2022.03（济南）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘以蝎子的习性开篇，为全书基调。**备注**：该馆该条提要**以比喻开篇、未交代具体情节**，故梗概只作基调层面的概括，**不虚构具体案情**。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "ranpo114-008",
+    "title": "人形豹",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一个人身豹头的怪物突然出现在东京，他侵害的目标都是年轻漂亮的女子。这一次，大侦探明智小五郎接手了此案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明智小五郎系列的读者",
+        "喜欢怪人题材的读者"
+      ],
+      "watchFor": [
+        "怪物出现的时间与地点",
+        "受害者之间的共同点",
+        "怪物的装扮是怎么做到的"
+      ],
+      "warning": "变格推理中篇，含针对女性的侵害与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 中篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明人身豹头的怪物与明智小五郎的介入。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "ranpo114-009",
+    "title": "黄金假面人",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "legend-folklore",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "某年初春，突然出现了有关戴着黄金面具的怪人的传说。起初只是街谈巷议，但随着时间的推移，这个荒诞的传说不但热度不减，反而愈演愈烈。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明智小五郎系列的读者",
+        "喜欢都市怪人传说的读者"
+      ],
+      "watchFor": [
+        "传说的每一次新说法",
+        "面具人的目标",
+        "传闻与事实的差距"
+      ],
+      "warning": "变格推理长篇，含命案、怪人与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，山东画报出版社 2022.03（济南）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明黄金面具怪人传说的兴起与升温。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "ranpo114-010",
+    "title": "假面具",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "passion",
+      "dual-role",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "两个年轻人因共同爱上风韵犹存的寡妇畑柳静子而展开生死决斗。不日，街上冒出一名残疾老头，河里浮起一具青年尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步非系列作品的读者",
+        "喜欢身份伪装题材的读者"
+      ],
+      "watchFor": [
+        "那位残疾老头的来历",
+        "决斗双方的约定",
+        "寡妇的反应"
+      ],
+      "warning": "变格推理长篇，含命案、情爱纠葛与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，人民文学出版社 2026.01。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明决斗、残疾老头与河中尸体。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2026。梗概由整理者据馆藏提要文摘自行重写，只写到尸体被发现为止。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "ranpo114-011",
+    "title": "死亡十字路",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-space",
+      "fear",
+      "cipher"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，收录《死亡十字路》《恐怖的魔王》《一寸法师》《钟塔的秘密》四部小说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步短篇的读者",
+        "喜欢怪奇谜团的读者"
+      ],
+      "watchFor": [
+        "各篇中不合常理的现场",
+        "叙述者掌握的信息量",
+        "篇末对前文的重新解释"
+      ],
+      "warning": "变格推理短篇集，含命案与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，时代文艺出版社 2016.01（长春）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 长篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "ranpo114-012",
+    "title": "恶魔的纹章",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "明智小五郎系列（短篇集）",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "明智小五郎的故事集，收录《D坂杀人事件》《心理测试》《阁楼里的散步者》等五篇，都是侦探登场时期的早期代表作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明智小五郎系列的读者",
+        "想一次读到乱步早期代表短篇的读者"
+      ],
+      "watchFor": [
+        "各篇里目击者的说法",
+        "侦探对物证的解读",
+        "篇末推翻的推断"
+      ],
+      "warning": "变格推理短篇集，含命案与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：江户川乱步，中国法制出版社 2016。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「本书是江户川乱步笔下的名侦探明智小五郎的故事集」并列出全部五篇。**备注**：本条与同批《D坂杀人事件》**收录篇目有重叠**（都含《D坂杀人事件》与《心理测试》），但两书是**不同出版社、不同选目的两本书**，故分别收录并在此写明。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "seicho114-001",
+    "title": "西乡钞",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "gain",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "松本清张的短篇集，共十二篇。其中以明治维新时代为背景的有《西乡钞》《人力车行》《枭示抄》《啾啾吟》《恋情》等，另有一批以幕府时代为背景。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张的读者",
+        "喜欢以史料为骨架的推理的读者"
+      ],
+      "watchFor": [
+        "纸币与文书上的细节",
+        "各篇人物的立场",
+        "史料记载与实际经过的出入"
+      ],
+      "warning": "历史推理短篇集，含命案、伪造与官场倾轧描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，人民文学出版社 2017.03。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书包括松本清张创作的十二篇**短篇推理小说**」并列出篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概只列篇目与背景。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "seicho114-002",
+    "title": "火与汐",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列（中篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "silencing",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "松本清张的中篇集，收录《火与汐》《证言之森》《种族同盟》《山》四部，共同演绎涉及警方、检方、法方与律方的司法故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "对司法程序感兴趣的读者"
+      ],
+      "watchFor": [
+        "各篇中证据的取得方式",
+        "办案各方的立场差异",
+        "证言前后不一致之处"
+      ],
+      "warning": "社会派中篇集，含命案、刑讯与司法程序描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，四川文艺出版社 2021（成都）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书收录了四部松本清张经典**推理中篇**」并列出篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2021。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "seicho114-003",
+    "title": "黑色福音",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "松本清张的长篇：二战失败的阴影之下，宗教团体内部神父的两面生活与神校学生生活被逐一揭开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "对宗教团体题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "神父公开与私下两面的对照",
+        "神校内部的规矩",
+        "案件与团体利益的关系"
+      ],
+      "warning": "社会派长篇，含命案、宗教团体内部生活与性相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，上海三联书店 2019。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书是松本清张的**推理小说**」，并给出宗教团体内部生活的题材。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2019。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "seicho114-004",
+    "title": "危险的斜面",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "identity",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "人近中年的秋场文作，九年前入赘成为县议员的女婿，雄才大略却寄人篱下，如今只能委身在某大型电器集团乡下的分厂担任课长。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "喜欢职场与家庭双重压力的题材的读者"
+      ],
+      "watchFor": [
+        "秋场在厂里的处境变化",
+        "岳家的态度",
+        "他每一步选择的代价"
+      ],
+      "warning": "社会派长篇，含命案、婚外情与职场压迫描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，青岛出版社 2022。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出入赘、寄人篱下与分厂课长的处境。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "seicho114-005",
+    "title": "驿路",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "social-commentary",
+      "timetable"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "松本清张的短篇集，收录作品均以昭和时代为背景，包括《白色之暗》《置身于侦查圈外的条件》《小官僚之死》《俳句》等篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张短篇的读者",
+        "喜欢昭和社会众生相的读者"
+      ],
+      "watchFor": [
+        "各篇中人物的职务与权限",
+        "行程与时序上的矛盾",
+        "官场规矩对办案的影响"
+      ],
+      "warning": "社会派短篇集，含命案、复仇与官场倾轧描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，人民文学出版社 2017.3。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出篇目及其题材（丈夫被杀真相、为死去的妹妹复仇、揭露官场阴暗等）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "seicho114-006",
+    "title": "水之焰",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "passion",
+      "gain",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "盐川信子与丈夫盐川弘治的婚姻看似幸福，实则早已貌合神离。为了牟取一己私利，盐川弘治开始了一系列布置。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "喜欢家庭内部博弈题材的读者"
+      ],
+      "watchFor": [
+        "夫妻二人各自的盘算",
+        "财务往来上的布置",
+        "信子察觉到的异样"
+      ],
+      "warning": "社会派长篇，含命案、婚外情与算计描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张，浙江人民出版社 2020.9。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「《水之焰》是日本作家松本清张所著的一部**推理小说**」并给出夫妻貌合神离的设定。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写，只写到布置开始为止。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "shimada114-001",
+    "title": "幻肢",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一场车祸让丝永遥失去了恋人。她虽然活了下来，却失去了车祸前后的记忆，并患上严重的抑郁症。在教授的帮助下，她开始使用尖端的脑科学技术。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岛田庄司非系列作品的读者",
+        "对脑科学设定感兴趣的读者"
+      ],
+      "watchFor": [
+        "遥失去的那段记忆",
+        "脑科学手段的边界",
+        "事故现场的记录"
+      ],
+      "warning": "本格推理长篇，含车祸、记忆丧失与抑郁相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：岛田庄司，青岛出版社 2022。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出车祸、记忆丧失与脑科学手段的设定；③候选来源的出版方简介写明「日本**推理小说**大师全新力作首次引进」「**脑科学与本格派推理**的完美结合」。**补作者缺口**：作者岛田庄司库内已有 28 部，本条为第 29 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-114-ranpo-seicho.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  }
+]

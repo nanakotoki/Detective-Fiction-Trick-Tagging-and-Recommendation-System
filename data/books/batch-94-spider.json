@@ -1,0 +1,666 @@
+[
+  {
+    "id": "spider94-001",
+    "title": "冥海花",
+    "originalTitle": "",
+    "author": "吴昉",
+    "authorEn": "Wu Fang",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "historical-setting",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "九幽神船在重重看守下丢失了宝物月光宝球，江南老店里一件绝世神兵不翼而飞，峨眉金顶上一块金砖凭空消失。四个看似无关的谜团，最终指向同一场江湖恩怨。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 817,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6023867/",
+        "subjectId": "6023867",
+        "edition": "冥海花 2011",
+        "fetchedAt": "2026-09-23T12:12:01.007Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与武侠设定的读者",
+        "传统解谜的拥护者"
+      ],
+      "watchFor": [
+        "四处失窃现场的看守条件",
+        "四个短篇之间重复出现的人与物",
+        "打鬼大会的规则"
+      ],
+      "warning": "本格推理短篇连作，武侠江湖背景，含对决、失踪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/6023867（新星出版社 2011-4，417 页，ISBN 9787513302197）；浙江文艺出版社「蜘蛛文库·原创系列」2026-3 另出新版（subject/37843548，ISBN 9787533981693），内容相同，首次出版年按 2011 年记。**推理属性判据**：①两个版本分别出自新星出版社与推理专门书系「蜘蛛文库」；②出版方宣传语为「致敬黄金时代本格，重塑东方武侠谜案」「将武侠与本格推理完美融合的开创性小说」；③作者公开身份为侦探小说收藏家与欧美古典本格研究者，藏原版侦探小说近万册；④谜面为密室与宝物在重重看守下失踪。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-002",
+    "title": "金瓶梅事件",
+    "originalTitle": "",
+    "author": "褚盟",
+    "authorEn": "Chu Meng",
+    "genre": "本格推理",
+    "firstPublished": "2025",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "alibi",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "historical-setting",
+      "mansion"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "北宋政和年间，武松葬身火海，西门庆手脚尽废，从此性情大变，只叫金莲侍奉左右。又一年上元佳节，一位僧人登门称能让他重获新生——就在那一夜，府中命案接连上演。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 133,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37199109/",
+        "subjectId": "37199109",
+        "edition": "金瓶梅事件 2025",
+        "fetchedAt": "2026-09-23T12:12:05.982Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《红楼梦事件》的读者",
+        "喜欢名著改编推理的读者"
+      ],
+      "watchFor": [
+        "西门府上元夜各人的行踪",
+        "那位僧人的来历",
+        "接连命案之间的关联"
+      ],
+      "warning": "本格推理长篇，借《金瓶梅》人物与清河县背景写命案，含凶案与纵火描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/37199109（浙江文艺出版社 2025-6，352 页，ISBN 9787533978808）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」（推理专门书系）；②作者 2008—2014 年任新星出版社「午夜文库」主编，著有《红楼梦事件》《狩猎愉快：世界推理小说简史》，并为《明星大侦探》编剧，是推理文学的资深推广人；③简介所述谜面为上元夜接连上演的命案。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-003",
+    "title": "唐案无名·鬼门寮",
+    "originalTitle": "",
+    "author": "远宁",
+    "authorEn": "Yuan Ning",
+    "genre": "历史推理",
+    "firstPublished": "2024",
+    "series": "唐案无名",
+    "detective": "史无名、李忠卿",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "multiple-solutions",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "唐元和年间，长安城内接连被盗的石敢当、离奇死亡的贵公子、午夜时分的纵火案。史无名与李忠卿联手追查这一连串诡异案件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 146,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36840489/",
+        "subjectId": "36840489",
+        "edition": "唐案无名·鬼门寮 2024",
+        "fetchedAt": "2026-09-23T12:12:10.444Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢唐代背景推理的读者",
+        "远宁的读者"
+      ],
+      "watchFor": [
+        "石敢当被盗的次序",
+        "贵公子的死状",
+        "纵火案发生在午夜的原因"
+      ],
+      "warning": "历史推理长篇，含凶案、纵火与盗案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/36840489（浙江文艺出版社 2024-7，253 页，ISBN 9787533975814）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方明确标为「长篇推理小说」，宣传语为「华文推理大赛一等奖得主远宁最新力作」「唐案无名系列首部长篇小说」「华语原创推理的必读书目」；③作者与马伯庸、紫金陈、陈浩基共同登上日本早川书房华文推理特辑；④主角为侦破者史无名与李忠卿。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-004",
+    "title": "沉香劫中劫",
+    "originalTitle": "",
+    "author": "午晔",
+    "authorEn": "Wu Ye",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "罪恶天使",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "cipher",
+      "red-herring",
+      "series-detective",
+      "city",
+      "gain"
+    ],
+    "school": [
+      "hardboiled-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "名动天下的奇楠沉香将在 M 市拍卖。开拍前夕，城里接连发生诡异事件：来路不明的代码，忽然消失的证人，接连不断的追杀。而拍卖会当天，一桩密室谋杀在众目睽睽之下发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 39,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37049538/",
+        "subjectId": "37049538",
+        "edition": "沉香劫中劫 2024",
+        "fetchedAt": "2026-09-23T12:12:15.164Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢炫学与追凶并重的读者",
+        "午晔的读者"
+      ],
+      "watchFor": [
+        "那块奇楠的来路",
+        "来路不明的代码是谁留下的",
+        "拍卖会现场的座位与视线"
+      ],
+      "warning": "犯罪悬疑长篇，含密室谋杀、追杀与绑架描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/37049538（浙江文艺出版社 2024-10，232 页，ISBN 9787533977047）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方宣传语为「炫学流推理 × 硬汉派缉凶」，谜面为「一场众目睽睽之下的密室谋杀」；③作者公开身份为悬疑推理小说作家与编剧，作品曾被日本推理杂志刊载。**侦探字段留空**：出版方仅称「罪恶天使系列」，未点明本作主角姓名，整理者不代为认定。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-005",
+    "title": "玉家班四大奇案·游园惊梦",
+    "originalTitle": "",
+    "author": "廖舒波",
+    "authorEn": "Liao Shubo",
+    "genre": "新本格",
+    "firstPublished": "2026",
+    "series": "玉家班四大奇案",
+    "detective": "玉凌霄",
+    "country": "中国",
+    "tags": [
+      "theater",
+      "historical-setting",
+      "legend-folklore",
+      "red-herring",
+      "narrative-trick",
+      "revenge",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "乾州玉家班曾红极一时，班主玉琳琅却突然含恨自尽。多年后，玉凌霄配合警方揭开了这桩旧案的真相。本册对应四大名剧中的《牡丹亭》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 81,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38414959/",
+        "subjectId": "38414959",
+        "edition": "玉家班四大奇案·游园惊梦 2026",
+        "fetchedAt": "2026-09-23T12:12:19.563Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢戏曲民俗题材的读者",
+        "「中国风」推理的读者"
+      ],
+      "watchFor": [
+        "玉琳琅自尽那天的情形",
+        "玉家班众人后来的去向",
+        "戏里戏外的对应关系"
+      ],
+      "warning": "本格推理中篇，含自尽、凶案与家族旧怨描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/38414959（浙江文艺出版社 2026-7，ISBN 9787533983062）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方宣传语为「『中国风』推理的必读书目」「用硬核推理的方式重新演绎中华传统四大名剧」；③内容简介自述「将现代本格推理小说的写作风格与中华传统文化中的精华——戏曲相结合」「小说诡计设置巧妙，结尾还有大反转」；④作者获第一届中国原创推理星火奖首奖及无限可能奖。**收录说明**：本册与《银河泻影》《花似往年》《此恨绵绵》四部中篇另有合集《玉家班四大奇案》（subject/38414964，ISBN 9787533983093），四部内容互不相同，故分册各收一条。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-006",
+    "title": "玉家班四大奇案·银河泻影",
+    "originalTitle": "",
+    "author": "廖舒波",
+    "authorEn": "Liao Shubo",
+    "genre": "新本格",
+    "firstPublished": "2026",
+    "series": "玉家班四大奇案",
+    "detective": "玉凌霄",
+    "country": "中国",
+    "tags": [
+      "theater",
+      "historical-setting",
+      "narrative-trick",
+      "dual-line",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "玉凌霄留下一份电影胶带，其中记载着一桩发生在「名媛义演」之后的命案。追查下去，死者竟是当年那场《西厢记》里「游殿」一折中的红娘。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 29,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38414961/",
+        "subjectId": "38414961",
+        "edition": "玉家班四大奇案·银河泻影 2026",
+        "fetchedAt": "2026-09-23T12:12:23.877Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢戏曲民俗题材的读者",
+        "「中国风」推理的读者"
+      ],
+      "watchFor": [
+        "胶带里记下的场景",
+        "当年那场义演的戏码与角色分配",
+        "戏班中人后来的身份"
+      ],
+      "warning": "本格推理中篇，含凶案与身份隐瞒描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/38414961（浙江文艺出版社 2026-7，ISBN 9787533983055）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方宣传语为「『中国风』推理的必读书目」「用硬核推理的方式重新演绎中华传统四大名剧」；③内容简介自述「将现代新本格推理小说的写作风格与中华传统文化中的精华——戏曲相结合」「小说诡计设置巧妙，结尾还有大反转」；④作者获第一届中国原创推理星火奖首奖及无限可能奖。**收录说明**：本册与《游园惊梦》《花似往年》《此恨绵绵》四部中篇另有合集《玉家班四大奇案》（subject/38414964），四部内容互不相同，故分册各收一条。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-007",
+    "title": "玉家班四大奇案·花似往年",
+    "originalTitle": "",
+    "author": "廖舒波",
+    "authorEn": "Liao Shubo",
+    "genre": "新本格",
+    "firstPublished": "2026",
+    "series": "玉家班四大奇案",
+    "detective": "玉凌霄",
+    "country": "中国",
+    "tags": [
+      "theater",
+      "historical-setting",
+      "red-herring",
+      "narrative-trick",
+      "multiple-solutions",
+      "revenge"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "玉琳琅的两个徒弟组成的「小玉班」演完那出四十折的《桃花扇》后便再无音讯。十五年后中秋，玉凌霄赶到明月楼，却发现老板已在房内被害。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢戏曲民俗题材的读者",
+        "「中国风」推理的读者"
+      ],
+      "watchFor": [
+        "四十折《桃花扇》的分量",
+        "小玉班当年散班的缘由",
+        "明月楼重演的安排"
+      ],
+      "warning": "本格推理中篇，含凶案与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/38414962（浙江文艺出版社，ISBN 9787533983079）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方宣传语为「『中国风』推理的必读书目」「用硬核推理的方式重新演绎中华传统四大名剧」；③内容简介自述「将现代新本格推理小说的写作风格与中华传统文化中的精华——戏曲相结合」「小说诡计设置巧妙，结尾还有大反转」；④作者获第一届中国原创推理星火奖首奖及无限可能奖。**收录说明**：本册与《游园惊梦》《银河泻影》《此恨绵绵》四部中篇另有合集《玉家班四大奇案》（subject/38414964），四部内容互不相同，故分册各收一条。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider94-008",
+    "title": "玉家班四大奇案·此恨绵绵",
+    "originalTitle": "",
+    "author": "廖舒波",
+    "authorEn": "Liao Shubo",
+    "genre": "新本格",
+    "firstPublished": "2026",
+    "series": "玉家班四大奇案",
+    "detective": "玉凌霄",
+    "country": "中国",
+    "tags": [
+      "theater",
+      "historical-setting",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "silencing",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "宓州立园，梅家班班主胡万余召集一批年轻演员排演名剧《长生殿》，其中几位佼佼者却陆续离奇死亡，传言都与传说中的三人组「顾棠梨」有关。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 39,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38414963/",
+        "subjectId": "38414963",
+        "edition": "玉家班四大奇案·此恨绵绵 2026",
+        "fetchedAt": "2026-09-23T12:12:32.543Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢戏曲民俗题材的读者",
+        "「中国风」推理的读者"
+      ],
+      "watchFor": [
+        "立园里的人事关系",
+        "「顾棠梨」传说的来历",
+        "几位演员死亡的先后次序"
+      ],
+      "warning": "本格推理中篇，含连续死亡与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自豆瓣条目 subject/38414963（浙江文艺出版社 2026-7，ISBN 9787533983086）。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方宣传语为「『中国风』推理的必读书目」「用硬核推理的方式重新演绎中华传统四大名剧」；③内容简介自述「将现代本格推理小说的写作风格与中华传统文化中的精华——戏曲相结合」「小说诡计设置巧妙，结尾还有大反转」；④作者获第一届中国原创推理星火奖首奖及无限可能奖。**收录说明**：本册与《游园惊梦》《银河泻影》《花似往年》四部中篇另有合集《玉家班四大奇案》（subject/38414964），四部内容互不相同，故分册各收一条。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-94-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

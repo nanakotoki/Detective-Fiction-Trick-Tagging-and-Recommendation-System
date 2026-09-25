@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ns150-001",
+    "title": "惊悚时分",
+    "originalTitle": "",
+    "author": "迪恩·孔茨",
+    "authorEn": "Dean Koontz",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "译文新流行",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "fear",
+      "vigilante"
+    ],
+    "school": [
+      "adventure-school",
+      "psychological-school"
+    ],
+    "safeSummary": "美国现代长篇推理小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "美式追逃型悬疑的读者",
+        "迪恩·孔茨的读者"
+      ],
+      "watchFor": [
+        "追与逃双方的力量对比",
+        "时间上的压力"
+      ],
+      "warning": "犯罪悬疑长篇，含追捕与暴力描写；馆藏未提供情节提要，梗概暂缺。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举** `I712.456*` 发现）：迪恩·孔茨著，上海译文出版社 2004.12，丛编项「译文新流行」。**判据**：①索书号／中图分类 `I712.456`——**美国侦探／推理小说的专门分类号**；②**馆藏提要直接写明「本书是一部美国现代长篇推理小说」**——满足 §48.1 的第①条标准（提要出现体裁词）。**新作者**。**如实标注**：该条馆藏未著录主题词，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-150-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns150-002",
+    "title": "堕落的天使",
+    "originalTitle": "",
+    "author": "弗里德利希·阿尼",
+    "authorEn": "Friedrich Ani",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "译文新流行·侦探",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "concealment",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "德国现代侦探小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "德系侦探小说的读者",
+        "译文新流行·侦探书系的读者"
+      ],
+      "watchFor": [
+        "案件的时间线",
+        "办案者的处境"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写；馆藏未提供情节提要，梗概暂缺。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举** `I516.456*` 发现）：弗里德利希·阿尼著，上海译文出版社 2004.6，丛编项「**译文新流行·侦探**」。**判据**：①索书号／中图分类 `I516.456`——**德国侦探／推理小说的专门分类号**；②**馆藏提要直接写明「本书是一部德国现代的侦探小说」**（第①条标准）；③丛编项标明「**侦探**」（第②条标准）。**新作者**。**如实标注**：该条馆藏未著录主题词，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-150-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns150-003",
+    "title": "沉默的乔",
+    "originalTitle": "",
+    "author": "杰斐逊·帕克",
+    "authorEn": "T. Jefferson Parker",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "埃德加·爱伦·坡奖最佳小说",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "长篇小说：故事从一段车内的对话切入——「快点开，乔。玛丽·安又犯脾气了，所以我想在十点之前回到家」，说话的是奥兰治县第一区的区长。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "美式警政题材的读者",
+        "爱伦·坡奖作品的读者"
+      ],
+      "watchFor": [
+        "区长这一身份带来的牵扯",
+        "几方人物的立场"
+      ],
+      "warning": "犯罪悬疑长篇，含案件与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I712.456*` 发现）：杰斐逊·帕克著，群众出版社 2007，丛编项「**埃德加·爱伦·坡奖最佳小说**」。**判据**：①索书号／中图分类 `I712.456`；②丛编项为**推理专门奖项「埃德加·爱伦·坡奖」的获奖作品书系**（满足 §48.1 的第②条标准）。**新作者**。**如实标注**：该条馆藏未著录主题词；提要只摘了开篇对话，`safeSummary` **未编造案情**。**年份字段说明**：`editionYear` 记 2007；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-150-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns150-004",
+    "title": "坟墓里的陌生人",
+    "originalTitle": "",
+    "author": "玛格丽特·米勒",
+    "authorEn": "Margaret Millar",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1998",
+    "series": "米勒神秘悬疑小说系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "神秘悬疑小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "玛格丽特·米勒的读者"
+      ],
+      "watchFor": [
+        "「陌生人」这一身份",
+        "叙述中前后不一致处"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写；馆藏未提供情节提要，梗概暂缺。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I712.456*` 发现）：玛格丽特·米勒著，上海文化出版社 1998，丛编项「世界畅销书金库·**米勒神秘悬疑小说系列**」。**判据**：①索书号／中图分类 `I712.456`；②丛编项为**作者本人的悬疑小说专门书系**（满足 §48.1 的第②条标准）。**补作者缺口**：库内已有其《眼中的猎物》。**如实标注**：该条馆藏未著录主题词，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 1998；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-150-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns150-005",
+    "title": "黑金卧底",
+    "originalTitle": "",
+    "author": "罗伯特·马祖尔",
+    "authorEn": "Robert Mazur",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "罗伯特·马祖尔",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "gain",
+      "first-person"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school"
+    ],
+    "safeSummary": "国际商业信贷银行洗钱案在二十世纪九十年代曾被称为「美国史上最骇人听闻的一桩洗钱案」，也是「世界金融史上最大的诈骗案」；美国特工伪装成富有的商人，精心布下重重诱饵，暗中调查贩毒卡特尔洗钱案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "卧底纪实题材的读者",
+        "金融犯罪题材的读者"
+      ],
+      "watchFor": [
+        "伪装身份如何维持",
+        "证据链的收集过程"
+      ],
+      "warning": "犯罪纪实作品，含洗钱、贩毒与有组织犯罪描写，**非虚构成分较重**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I712.456*` 发现）：罗伯特·马祖尔著，广东经济出版社 2016。**判据**：①索书号／中图分类 `I712.456`；②**跨馆复核：第二个馆（重庆工商大学）对同一本书（作者吻合）著录的主题词为「长篇小说 侦探小说」——独立于第一个馆的第①类证据**；③**提要写明「美国特工……暗中调查……收集了大量确凿的证据将罪犯绳之于法」**——侦查内核。**新作者**。**如实标注**：本书为**纪实性**作品（作者即当事特工），已在 `readingTips.warning` 注明；该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-150-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

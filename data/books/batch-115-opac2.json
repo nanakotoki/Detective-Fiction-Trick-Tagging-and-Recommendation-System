@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "gap115-001",
+    "title": "月与蟹",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "countryside",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "慎一在学校总是受到孤立和欺负，只有春也一个朋友。放学后两人常一起去海边，那里有一只蟹和一轮月亮。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "能接受少年视角与阴郁基调的读者"
+      ],
+      "watchFor": [
+        "慎一与春也相处的细节",
+        "大人们的反应",
+        "海边的两样东西"
+      ],
+      "warning": "青春推理长篇，含校园欺凌与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：道尾秀介，中信出版社 2012。**推理属性判据**：①该条**题名主题（学科主题词）为「长篇小说 日本 现代 ; 推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出少年慎一被孤立、只有春也一个朋友的处境。**补作者缺口**：作者道尾秀介库内已有 16 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2012。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "gap115-002",
+    "title": "门后的女人",
+    "originalTitle": "",
+    "author": "横沟正史",
+    "authorEn": "Yokomizo Seishi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "金田一耕助系列（中篇集）",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "vanished-weapon",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "中篇集，收录《门后的女人》与《镜浦杀人案》两篇。一个名叫加代子的女子突然造访金田一耕助，自称在深幽小巷看到情敌珠纪的尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "金田一耕助系列的读者",
+        "喜欢尸体去向型谜团的读者"
+      ],
+      "watchFor": [
+        "加代子自述的细节",
+        "珠纪的尸体为何不见",
+        "两位当事人之间的关系"
+      ],
+      "warning": "本格推理中篇集，含命案与尸体去向描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：横沟正史，南海出版公司 2014。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出两篇篇目并给出加代子造访金田一耕助的开场。**补作者缺口**：作者横沟正史库内已有 16 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2014。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "gap115-003",
+    "title": "恶灵岛",
+    "originalTitle": "",
+    "author": "横沟正史",
+    "authorEn": "Yokomizo Seishi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "legend-folklore",
+      "closed-circle"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "肤色白皙、个子矮小，帽子软塌塌，和服皱巴巴，木屐已磨秃——这位常被警察误当成嫌疑犯的人，就是金田一耕助。这一次他登上了一座被传说笼罩的岛。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "金田一耕助系列的读者",
+        "喜欢孤岛与家族传说题材的读者"
+      ],
+      "watchFor": [
+        "岛上家族的来历",
+        "传说的具体说法",
+        "上岛外来者的目的"
+      ],
+      "warning": "本格推理长篇，孤岛封闭舞台，含命案与猎奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：横沟正史，南海出版公司 2014.05。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘以金田一耕助的外貌描写开篇。**备注**：该馆该条提要**只给了人物速写、未交代案情**，故梗概只写到侦探登场，**不虚构具体情节**。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "gap115-004",
+    "title": "骷髅方丈",
+    "originalTitle": "",
+    "author": "横沟正史",
+    "authorEn": "Yokomizo Seishi",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列（中篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "dark-atmosphere",
+      "dual-role"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "中篇集，收录《骷髅方丈》与《神变稻妻车》两部中篇小说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横沟正史非系列作品的读者",
+        "喜欢怪奇氛围的读者"
+      ],
+      "watchFor": [
+        "两篇中怪奇传说的说法",
+        "登场人物的身份",
+        "事件与传说的接点"
+      ],
+      "warning": "变格推理中篇集，含怪奇气氛与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：横沟正史，南海出版公司 2015.10。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部两篇篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2015。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "gap115-007",
+    "title": "普雷格庄园谜案",
+    "originalTitle": "The Plague Court Murders",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "亨利·梅利维尔爵士系列",
+    "detective": "亨利·梅利维尔爵士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "mansion"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座废弛了几百年的庄园迎来了新主人，但在不久后的一次聚会中出了事。这是作者笔下神探亨利爵士首次登场之作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "亨利·梅利维尔爵士系列的读者",
+        "喜欢古宅与传说题材的读者"
+      ],
+      "watchFor": [
+        "庄园的历史与传闻",
+        "聚会当夜各人的位置",
+        "现场遗留的痕迹"
+      ],
+      "warning": "本格推理长篇，含命案与怪奇传说描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：约翰·迪克森·卡尔，外语教学与研究出版社 2022。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 美国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明这是「其笔下的**神探亨利爵士**首次登场之作」，并给出庄园与新主人的设定。**原作年**：1934 年（英文原版 *The Plague Court Murders* 出版年）；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "gap115-008",
+    "title": "忒弥斯之剑",
+    "originalTitle": "",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "渡濑、鸣海",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "silencing"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "新手刑警渡濑与资深前辈鸣海，因对一起凶杀案嫌疑人的不公处理而引发了一系列事件。各种案件环环相扣，真相扑朔迷离。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "中山七里的读者"
+      ],
+      "watchFor": [
+        "两名刑警办案方式的差异",
+        "被不公处理的那名嫌疑人",
+        "几桩案件之间的关联"
+      ],
+      "warning": "社会派推理长篇，含命案、冤屈与办案程序描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：中山七里，天地出版社 2024（成都）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书是一部**悬疑推理长篇小说**」并给出两名刑警的设定。**补作者缺口**：作者中山七里库内已有 12 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "gap115-009",
+    "title": "漆屏案",
+    "originalTitle": "",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "大唐狄公案",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "cipher",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "高罗佩「大唐狄公案」之《漆屏案》，故事发生在公元 664 年 7 月的三天之内，狄仁杰要在有限的时间里查清案情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "喜欢中国古代背景断案的读者"
+      ],
+      "watchFor": [
+        "屏风上的漆画内容",
+        "三日之内的时间安排",
+        "涉案各方的口供"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与刑讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：高罗佩，上海译文出版社 2020。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 荷兰 现代 ; 长篇小说 荷兰 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「本书是**大唐狄公案**（Celebrated Cases of Judge Dee）中的一部作品，荷兰传奇汉学家高罗佩『大唐狄公案』之《漆屏案》」。**补作者缺口**：作者高罗佩库内已有 11 部。**年份字段拆分（方案 C）**：`firstPublished`（原版年）**留空不冒填**；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "gap115-010",
+    "title": "狄仁杰奇案",
+    "originalTitle": "",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "大唐狄公案",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "cipher",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "本书是高罗佩自译完成的《迷宫案》中文本，也是他本人所作的唯一中文本。与英文原稿相比，主要情节大体相同，但许多细节处理不同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "对版本差异感兴趣的读者"
+      ],
+      "watchFor": [
+        "迷宫与暗道的位置",
+        "中文版与英文原稿不同的细节",
+        "案中各方的供词"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与刑讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：高罗佩，上海译文出版社有限公司 2023.4。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 荷兰 现代 ; 长篇小说 荷兰 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明这是《迷宫案》的中文本与版本差异。**同书异译核查**：本书与库内可能已有的《迷宫案》**是同一部作品的作者自译中文本**——**已在 `verification` 记录其特殊性**：馆藏提要明确说明「主要情节大体相同，但是在许多细节处理上有所不同」，属**作者亲自改写的另一版本**，故按独立条目收录，并在此写明与《迷宫案》的关系，**请读者注意二者内容高度重合**。**年份字段拆分（方案 C）**：`firstPublished`（原版年）**留空不冒填**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap115-011",
+    "title": "天赐之日",
+    "originalTitle": "",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "大唐狄公案",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "高罗佩「大唐狄公案」系列中的一部长篇，狄仁杰在任上遇到一桩需要从头查起的案子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "喜欢中国公案小说传统的读者"
+      ],
+      "watchFor": [
+        "案发地的人情往来",
+        "狄公随员的调查",
+        "供词之间的矛盾"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：高罗佩，上海译文出版社有限公司 2023.3。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 荷兰 现代 ; 长篇小说 荷兰 现代」**，属判据层级第①类（最硬）；②该书属「大唐狄公案」系列（同批《漆屏案》《狄仁杰奇案》《柳园图奇案》三条的馆藏提要均明写系列名与狄仁杰）。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列与体裁层面概括，不虚构任何具体案情**。**年份字段拆分（方案 C）**：`firstPublished`（原版年）**留空不冒填**；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap115-012",
+    "title": "柳园图奇案",
+    "originalTitle": "",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "大唐狄公案",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "mansion",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "京都瘟疫肆虐，暗潮涌动。大族富商梅亮离奇坠梯身亡，在侦破案件的同时，叶侯爷也被人所杀。随着案件推进，何、梅、叶三家大族隐藏的过往因一幅柳园图浮出水面。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "喜欢家族旧案题材的读者"
+      ],
+      "watchFor": [
+        "梅亮坠梯的经过",
+        "柳园图上的细节",
+        "三家大族的旧事"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与瘟疫背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：高罗佩，北岳文艺出版社 2018（太原）。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 荷兰 现代 ; 长篇小说 荷兰 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「本书为荷兰现代**侦探小说**」并给出坠梯身亡与柳园图的谜面。**年份字段拆分（方案 C）**：`firstPublished`（原版年）**留空不冒填**；`editionYear` 记 2018。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "gap115-013",
+    "title": "重要新闻",
+    "originalTitle": "",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "鲁伊系列",
+    "detective": "鲁伊",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "鲁伊已经进阶到纪录影片成功阶梯的第一层——一家主流纽约广播电视公司的新闻部。一天，她收到一盘录像带，里面是一个监狱囚犯的求助。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "杰夫里·迪弗的读者",
+        "喜欢媒体视角查案的读者"
+      ],
+      "watchFor": [
+        "录像带的来源",
+        "囚犯自述中的疑点",
+        "电视台内部的立场"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、冤狱与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：杰夫里·迪弗，新星出版社 2015.05。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出鲁伊收到囚犯求助录像带的开场。**补作者缺口**：作者库内已有 12 部，与本批《蓝调艳星之死》同系列。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2015。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "gap115-014",
+    "title": "蓝调艳星之死",
+    "originalTitle": "",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "鲁伊系列",
+    "detective": "鲁伊",
+    "country": "美国",
+    "tags": [
+      "city",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "鲁伊在广告公司给自己找了个助理制片的工作，每天干的却只是为老板跑腿买咖啡。某天她去取器材时路遇一起爆炸，一个放映色情片的小影院被炸上了天。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "杰夫里·迪弗的读者",
+        "喜欢都市犯罪线的读者"
+      ],
+      "watchFor": [
+        "爆炸影院周边的人与车",
+        "鲁伊当天的行程",
+        "被炸毁场所的经营者"
+      ],
+      "warning": "犯罪悬疑长篇，含爆炸、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：杰夫里·迪弗，新星出版社 2015.05。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出鲁伊取器材途中遇爆炸的开场。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2015。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "gap115-015",
+    "title": "替身2001",
+    "originalTitle": "",
+    "author": "绫辻行人",
+    "authorEn": "Ayatsuji Yukito",
+    "genre": "恐怖",
+    "firstPublished": "",
+    "series": "替身系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "nursery-rhyme",
+      "fear",
+      "closed-circle"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "春天来了，新学期将在明天开学。主人公搬了家——从地理位置上说只算一次近距离的移动：水平方向不足一百米，垂直方向不过十几米。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "替身系列的读者",
+        "能接受恐怖基调的读者"
+      ],
+      "watchFor": [
+        "班级里的座位与空位",
+        "「多余的人」这条规矩",
+        "新学期的名单"
+      ],
+      "warning": "恐怖推理长篇，含连续死亡、集体恐慌与血腥场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：绫辻行人，人民文学出版社 2023.01。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出新学期与搬家的开场。**体裁说明**：本书是「替身」系列的续作，**编目主题标为「推理小说」**，但内容以恐怖与集体恐慌为主，故体裁记「恐怖」并在标签中如实标出，与库内已收的《替身》系列口径一致；用户口径排除的是**纯恐怖**，本书则是**以推理结构支撑的系列长篇**，且编目方明标推理，故收录。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap115-016",
+    "title": "雪地之血",
+    "originalTitle": "",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列（中篇集）",
+    "detective": "",
+    "country": "挪威",
+    "tags": [
+      "snowfield",
+      "obsession",
+      "revenge"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "本书收录《雪地之血》《午夜阳光》两部小说。《雪地之血》的主人公奥拉夫是一个孤独又冷酷的职业杀手，他的生活方式就是终结别人的生命，因此难以接近任何人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "尤·奈斯博的读者",
+        "喜欢冷硬基调的读者"
+      ],
+      "watchFor": [
+        "奥拉夫接下的委托",
+        "他与人建立联系的方式",
+        "雪与午夜阳光两篇的对照"
+      ],
+      "warning": "犯罪悬疑中篇集，含雇凶杀人、暴力与冷硬基调描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尤·奈斯博，湖南文艺出版社 2022。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 小说集 挪威 现代 ; 中篇小说 小说集 挪威 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出两篇篇目并给出《雪地之血》主人公的职业设定。**补作者缺口**：作者尤·奈斯博库内已有 10 部。**年份字段拆分（方案 C）**：`firstPublished`（挪威文原版年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "gap115-017",
+    "title": "全员嫌疑人",
+    "originalTitle": "",
+    "author": "大山诚一郎",
+    "authorEn": "Oyama Seiichiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "和户宋志",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "locked-space"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "探员和户宋志有一种特殊能力，能让身边之人的推理能力急速提高。与世隔绝的度假山庄、无法逃脱的地下展厅、高空飞行的国际航班——一桩桩密室案件接连发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "大山诚一郎的读者"
+      ],
+      "watchFor": [
+        "每个现场的封闭条件",
+        "和户身边人提出的几种推理",
+        "被推翻的那一版解答"
+      ],
+      "warning": "本格推理短篇集，各篇均为封闭舞台命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：大山诚一郎，河南文艺出版社 2021（郑州）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明主人公「能让身边之人的推理能力急速提高」的设定与三处封闭舞台。**补作者缺口**：作者大山诚一郎库内已有 6 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2021。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "gap115-018",
+    "title": "鹭与雪",
+    "originalTitle": "",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "别姬小姐系列",
+    "detective": "花村英子、别宫美津子",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "上流贵族家的小姐花村英子，与花村家雇佣的女司机、被英子尊称为「别姬小姐」的别宫美津子，因缘际会之下遭遇了一系列谜团。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "昭和背景日常之谜的读者",
+        "北村薰的读者"
+      ],
+      "watchFor": [
+        "英子与别姬小姐的分工",
+        "各桩谜团的时代背景",
+        "上流社会的规矩"
+      ],
+      "warning": "历史推理短篇连作，昭和初期背景，含失踪与命案描写，基调温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：北村薰，上海文艺出版社 2016。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明花村英子与「别姬小姐」因缘际会遭遇一系列谜团。**补作者缺口**：作者北村薰库内已有 5 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2016。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "gap115-019",
+    "title": "四元馆事件",
+    "originalTitle": "",
+    "author": "早坂吝",
+    "authorEn": "Hayasaka Yabusaka",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "AI 侦探系列",
+    "detective": "相以、以相",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "dual-role"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "人工智能领域的天才学者合尾创不幸被一场大火吞噬，他给儿子合尾辅留下了两个 AI——侦探「相以」与犯人「以相」。作为双胞胎的 AI 两姐妹通过对战来不断成长。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "早坂吝的读者",
+        "能接受怪异设定的本格读者"
+      ],
+      "watchFor": [
+        "两个 AI 各自的推理路径",
+        "馆内建筑的构造",
+        "「犯人 AI」会怎么出题"
+      ],
+      "warning": "本格推理长篇，含火灾、命案与猎奇设定描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：早坂吝，新星出版社 2022.04。**推理属性判据**：①该条**题名主题（学科主题词）为「长篇小说 日本 现代 ; 推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明 AI 侦探与犯人 AI 的设定。**补作者缺口**：作者早坂吝库内已有 8 部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "gap115-020",
+    "title": "侦探往事",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "二十世纪三十年代的上海，各方势力你方唱罢我登场。一日，畸人杂技团来沪表演，吸引观众如云。恰逢其时，上海滩多名富豪大绅忽然陆续离奇死亡，死亡现场均呈现密室状。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国背景本格的读者",
+        "时晨的读者"
+      ],
+      "watchFor": [
+        "各处密室的构成",
+        "杂技团成员的来历",
+        "富豪们之间的关联"
+      ],
+      "warning": "本格推理长篇，民国上海背景，含连续命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：时晨，北京联合出版公司 2021。**推理属性判据**：①该条**题名主题（学科主题词）为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明多处现场「均呈现『密室』状」。**补作者缺口**：作者时晨库内已有 8 部（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**（不为中文原创重复填写版本年）。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-115-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

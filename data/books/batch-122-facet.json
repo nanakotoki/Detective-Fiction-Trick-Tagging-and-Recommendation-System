@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "facet122-001",
+    "title": "推理要在晚餐后.1",
+    "originalTitle": "",
+    "author": "东川笃哉",
+    "authorEn": "Higashikawa Tokuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "推理要在晚餐后系列",
+    "detective": "宝生丽子、风祭警部、影山",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "刚任职于警视厅国立署的菜鸟刑警宝生丽子，其实是坐拥无数企业的「宝生集团」千金大小姐。工作时她刻意隐瞒身份，而搭档的风祭警部却毫不掩饰自己是有钱人家的公子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "轻快本格的读者",
+        "东川笃哉的读者"
+      ],
+      "watchFor": [
+        "风祭警部那套错误推理",
+        "丽子回家后转述的案情",
+        "管家影山的一句话"
+      ],
+      "warning": "本格推理长篇，含命案描写，笔调幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「长篇小说 推理小说」**（第①类，最硬）；②馆藏提要文摘写明「一对大少爷与千金小姐的刑警搭档，调查命案现场时也毫不意外总是往错误方向推理」。**补作者缺口**：作者东川笃哉库内已有 2 部（本轮新增其三册）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "facet122-002",
+    "title": "推理要在晚餐后.2",
+    "originalTitle": "",
+    "author": "东川笃哉",
+    "authorEn": "Higashikawa Tokuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "推理要在晚餐后系列",
+    "detective": "宝生丽子、风祭警部、影山",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "大型财团的千金小姐隐瞒身份做了刑警，与她搭档的却是四处张扬自己是有钱人家公子身份的风祭警部；而时不时给出关键提示的，是小姐的管家影山。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "推理要在晚餐后系列的读者",
+        "轻快本格的读者"
+      ],
+      "watchFor": [
+        "风祭警部的推理在哪里出错",
+        "影山提示的方式",
+        "丽子隐瞒身份带来的麻烦"
+      ],
+      "warning": "本格推理长篇，含命案描写，笔调幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，山东文艺出版社 2015（济南）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明三位主角的固定配置与「时不时给出关键提示的管家影山」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet122-003",
+    "title": "推理要在晚餐后.3",
+    "originalTitle": "",
+    "author": "东川笃哉",
+    "authorEn": "Higashikawa Tokuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "推理要在晚餐后系列",
+    "detective": "宝生丽子、风祭警部、影山",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "series-detective",
+      "multiple-solutions"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "接连发生的难解案件令丽子苦恼不堪。每天回家之后，她总是一边吃晚餐一边向管家影山诉说案情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "推理要在晚餐后系列的读者",
+        "轻快本格的读者"
+      ],
+      "watchFor": [
+        "餐桌对话里被点破的那处",
+        "风祭警部的先入之见",
+        "丽子的身份危机"
+      ],
+      "warning": "本格推理长篇，含命案描写，笔调幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明「一边吃晚餐一边向管家影山诉说案情」的固定结构；③**相关题名附注载明「版权页题日文题名：Nazotoki wa dinner no ato de. Vol. 3」**——原作名由此取证。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "facet122-004",
+    "title": "咖啡馆推理事件簿：下次见面时，请让我品尝你煮的咖啡",
+    "originalTitle": "",
+    "author": "冈崎琢磨",
+    "authorEn": "Okazaki Takuma",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "咖啡馆推理事件簿系列",
+    "detective": "切间美星",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "继承京都咖啡店的年轻女孩，遇见一个怀抱心机的男子。第一次喝了咖啡却没付钱的年轻人竟成了咖啡店常客——他是什么来历？为何总是带来难题？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的读者",
+        "喜欢咖啡馆舞台的读者"
+      ],
+      "watchFor": [
+        "常客带来的每一个难题",
+        "咖啡品类的细节",
+        "美星的观察与推断"
+      ],
+      "warning": "日常之谜长篇，含失踪与命案描写，基调温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 冈崎琢磨著，现代出版社 2017（北京）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明常客带来难题的结构。**新作者**：库内此前无冈崎琢磨作品，本批收入其三册。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "facet122-005",
+    "title": "咖啡馆推理事件簿.3：扰人心神的咖啡",
+    "originalTitle": "",
+    "author": "冈崎琢磨",
+    "authorEn": "Okazaki Takuma",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "咖啡馆推理事件簿系列",
+    "detective": "切间美星",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "京都塔列兰咖啡店的咖啡师切间美星第一次参加咖啡师大赛，却遇到参赛选手咖啡豆掺混事件。随着事态发展，牵扯出第一届咖啡师大赛冠军千家谅。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的读者",
+        "咖啡馆推理事件簿系列的读者"
+      ],
+      "watchFor": [
+        "掺混事件的经过",
+        "大赛历届冠军之间的关系",
+        "美星的严谨推理"
+      ],
+      "warning": "日常之谜长篇，含竞赛纠纷与旧事描写，基调温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 冈崎琢磨著，现代出版社 2017.03（北京），丛编项「**现代推理馆.冈崎琢磨系列**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项为**以「推理馆」命名的专门书系**；③馆藏提要文摘写明「美星置身其中抽丝剥茧，严谨推理」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "facet122-006",
+    "title": "心案推理师：孤独者的献祭",
+    "originalTitle": "",
+    "author": "燕返",
+    "authorEn": "Yan Fan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "心案推理师系列",
+    "detective": "莫楠",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "city",
+      "forensic"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "2021 年的「康湾城连续坠楼案」中，负责与烂尾楼业主谈判的开发商代表王耀威突然高坠身亡，入住烂尾楼的业主们一时间都成了被怀疑的对象。警方请出犯罪心理学家莫楠参与侦破。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语犯罪悬疑的读者",
+        "喜欢心理侧写的读者"
+      ],
+      "watchFor": [
+        "坠楼案的目击与时间",
+        "烂尾楼业主们的处境",
+        "犯罪心理学家的推断依据"
+      ],
+      "warning": "犯罪悬疑长篇，含坠楼、命案与社会矛盾描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：燕返著，新世界出版社 2024（北京）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类，最硬）；②馆藏提要文摘写明犯罪心理学家参与侦破坠楼案。**新作者**：库内此前无燕返作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-007",
+    "title": "医探",
+    "originalTitle": "",
+    "author": "王小枪",
+    "authorEn": "Wang Xiaoqiang",
+    "genre": "历史推理",
+    "firstPublished": "2016",
+    "series": "非系列",
+    "detective": "李过年",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "city",
+      "forensic"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "forensic-school"
+    ],
+    "safeSummary": "民国年间，开妇科诊所的医生李过年痴迷推理，能从常人察觉不到或不会留意的细节入手，把隐藏在背后的真相找出来。警察局局长严修经常找他帮忙，李过年帮他侦破了不少疑难案子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国背景推理的读者",
+        "喜欢医生侦探设定的读者"
+      ],
+      "watchFor": [
+        "李过年注意到的那些细节",
+        "警局内部的妒忌与报复",
+        "医理在推理中的作用"
+      ],
+      "warning": "历史推理长篇，民国背景，含命案与报复描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：王小枪著，北京联合出版公司 2016.09（北京）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘**直接写明**「这是一本有关医学的**悬疑推理**作品」；③**相关题名附注载明「封面英文题名：Doctors detective」**。**新作者**：库内此前无王小枪作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-008",
+    "title": "推理者的游戏",
+    "originalTitle": "",
+    "author": "远宁",
+    "authorEn": "Yuan Ning",
+    "genre": "本格推理",
+    "firstPublished": "2013",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "locked-room"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "本书收录七篇第一届华文推理大奖赛的佳作，包括《看朱成璧》《恋爱反身》《第五大道谋杀案》《推理作家的游戏》《铁兽》《众里寻她千百度》《黄昏公园》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理的读者",
+        "远宁的读者"
+      ],
+      "watchFor": [
+        "各篇中谜面的设计",
+        "篇与篇之间的写法差异",
+        "「推理作家的游戏」这一篇的自指趣味"
+      ],
+      "warning": "本格推理短篇集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：远宁著，新星出版社 2013.01（北京）。**推理属性判据**：①检索行**主题词为「推理小说 推理小说 小说集」**（第①类）；②馆藏提要文摘写明这是「第一届**华文推理大奖赛**巅峰佳作」的结集。**补作者缺口**：作者远宁库内已有 2 部（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2013，`editionYear` **留空**。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-009",
+    "title": "住在我隔壁的侦探.上",
+    "originalTitle": "",
+    "author": "鹧鸪天",
+    "authorEn": "Zhe Gu Tian",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "住在我隔壁的侦探系列",
+    "detective": "郭子晋、成书瑶",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一具藏于墙中的无名女尸，让刚搬进公寓没几天的成书瑶成了头号嫌疑人。死者身份成谜，房东离奇暴毙。万般无奈之下，她只得与私家侦探郭子晋联手查案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语本格的读者",
+        "喜欢密室与连续案件的读者"
+      ],
+      "watchFor": [
+        "墙中女尸的身份",
+        "公寓里的住户关系",
+        "密室是如何成立的"
+      ],
+      "warning": "本格推理长篇，含无名尸、连续命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：鹧鸪天著，成都时代出版社 2022（成都）。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类，最硬）；②馆藏提要文摘写明「完美的**密室杀人**诡计，绝对不可能的犯罪手法」。**新作者**：库内此前无鹧鸪天作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-010",
+    "title": "中国侦探：罗师福",
+    "originalTitle": "",
+    "author": "南风亭长",
+    "authorEn": "Nanfeng Tingzhang",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "中国近现代侦探小说拾遗",
+    "detective": "罗师福",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "清末侦探小说家南风亭长的代表作，以罗师福为主人公，收录宣统元年七月至十二月连载于上海《图画日报》的故事，含第一案十三章、第二案九章（未完）。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "清末民初侦探小说的读者",
+        "关注中国侦探小说源流的读者"
+      ],
+      "watchFor": [
+        "罗师福的查案方式",
+        "清末上海的市井细节",
+        "文言叙述里的关键线索"
+      ],
+      "warning": "清末侦探小说集，文言写作，含命案与盗案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(清) 南风亭长著，北京联合出版公司 2021（北京），丛编项「**『中国近现代侦探小说拾遗』丛书**」。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类，最硬）；②丛编项为**专收中国近现代侦探小说的书系**；③馆藏提要文摘写明该书是清末侦探小说家的代表作、连载出处与回目。**新作者**：库内此前无南风亭长作品。**年份字段说明**：`firstPublished` 记 2021（本书为**民国前报刊连载作品的整理本**，原连载年为 1909—1910，已在梗概中写明），`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-011",
+    "title": "侦探的简单艺术",
+    "originalTitle": "",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "series": "菲利普·马洛系列（短篇集）",
+    "detective": "菲利普·马洛",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "meta-fiction"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "精选五篇钱德勒短篇代表作：《惹麻烦的珍珠》《麻烦是我的饭碗》《我会等候》《西班牙之血》《奇拉诺夜总会的枪声》，另收其谈侦探小说艺术的名作《侦探的简单艺术》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派的读者",
+        "钱德勒短篇的读者"
+      ],
+      "watchFor": [
+        "各篇委托人的真实目的",
+        "马洛与警方的关系",
+        "那篇论侦探小说艺术的随笔"
+      ],
+      "warning": "硬汉派短篇集，含枪击、命案与都市犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 雷蒙德·钱德勒著，中信出版集团 2022（北京），丛编项「作家榜经典名著」。**推理属性判据**：①检索行**主题词为「侦探小说 短篇小说」**（第①类，最硬）；②馆藏提要文摘列出全部五篇并写明另收「钱德勒谈论**侦探小说艺术**的名作」。**补作者缺口**：作者库内已有 8 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet122-012",
+    "title": "刘半农侦探小说集",
+    "originalTitle": "",
+    "author": "刘半农",
+    "authorEn": "Liu Bannong",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "中国近现代侦探小说拾遗",
+    "detective": "老王",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "curiosity",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "收录刘半农创作的「捕快老王」系列文言短篇侦探小说《假发》《匕首》《淡娥》《福尔摩斯大失败》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中国近现代侦探小说的读者",
+        "关注侦探小说本土化历程的读者"
+      ],
+      "watchFor": [
+        "捕快老王的办案手法",
+        "文言叙述里的线索",
+        "《福尔摩斯大失败》的戏仿趣味"
+      ],
+      "warning": "文言短篇侦探小说集，含命案与盗案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：刘半农著，北京联合出版公司 2021.05（北京），丛编项「**『中国近现代侦探小说拾遗』丛书**」。**推理属性判据**：①检索行**主题词为「侦探小说 短篇小说」**（第①类，最硬）；②丛编项为**专收中国近现代侦探小说的书系**；③馆藏提要文摘写明作品系列名与全部篇目。**新作者**：库内此前无刘半农作品。**年份字段说明**：`firstPublished` 记 2021（本书为**近现代作品的整理本**），`editionYear` **留空**。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet122-013",
+    "title": "女侦探",
+    "originalTitle": "",
+    "author": "安德鲁·福雷斯特",
+    "authorEn": "Andrew Forrester",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，收录《一辈子的租客》《小乔治》《未解的谜题》《良心的谴责》《未知的凶器》等篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "大英图书馆侦探小说系列的读者"
+      ],
+      "watchFor": [
+        "各篇中「未知的凶器」这类谜面",
+        "女性侦探的查案方式",
+        "维多利亚时代的都市细节"
+      ],
+      "warning": "本格推理短篇集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 安德鲁·福雷斯特著，中国青年出版社 2019（北京），丛编项「**大英图书馆·侦探小说黄金时代经典作品集**」。**推理属性判据**：①检索行**主题词为「侦探小说 短篇小说」**（第①类，最硬）；②丛编项为**以「侦探小说黄金时代」命名的专门书系**；③馆藏提要文摘列出全部篇目。**新作者**：库内此前无安德鲁·福雷斯特作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2019。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "facet122-014",
+    "title": "别在东京哭泣",
+    "originalTitle": "",
+    "author": "赵群",
+    "authorEn": "Zhao Qun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "知青曼陀罗系列",
+    "detective": "罗新宇",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "东京的夜晚在罗新宇看来宛如深不见底的海。那里的幽幽之中海景绮丽、海象环生、海沟纵横，既包容了他所有的想象，也让他常有如临深渊之感。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语犯罪悬疑的读者",
+        "异国都市背景的读者"
+      ],
+      "watchFor": [
+        "罗新宇在东京的处境",
+        "他接触到的人与事",
+        "叙述中的情绪起伏"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与都市阴暗面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：赵群著，九州出版社 2014.12（北京），丛编项「知青曼陀罗系列」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类，最硬）；②本书副题即「**推理侦探小说**」。**新作者**：库内此前无赵群作品（**华语原创推理**）。**备注**：该馆此条提要**以意象化文字为主、未交代案情**，故梗概**只作基调层面的概括，不虚构具体情节**。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-122-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

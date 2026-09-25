@@ -1,0 +1,256 @@
+[
+  {
+    "id": "jpaudit75-001",
+    "title": "日本推理名作选·甲贺三郎（卷一）",
+    "originalTitle": "",
+    "author": "甲贺三郎",
+    "authorEn": "Koga Saburo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "red-herring",
+      "psychological-misdirection",
+      "obsession",
+      "gain",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "甲贺三郎的犯罪短篇集，收五篇，含处女作《琥珀烟斗》，以及《恶作剧》《蜘蛛》《黄鸟的叹息》《蓝衣男子》。作者理工出身，长于写罪犯的心理与动机。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 303,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3584145/",
+        "subjectId": "3584145",
+        "edition": "日本推理名作选·甲贺三郎（卷一） 2009年4月",
+        "fetchedAt": "2026-09-22T15:50:48.899Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战前本格的读者",
+        "甲贺三郎的读者"
+      ],
+      "watchFor": [
+        "每篇里犯罪者自己交代的口径",
+        "被当成常识的那条线索",
+        "作者理工背景带来的写法"
+      ],
+      "warning": "战前本格短篇集，各篇独立，含犯罪心理与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3584145）；梗概与目录据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 甲贺三郎 卷一」／甲贺三郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-75-jp-audit10.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit75-002",
+    "title": "日本推理名作选·小栗虫太郎卷",
+    "originalTitle": "",
+    "author": "小栗虫太郎",
+    "authorEn": "Oguri Mushitaro",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小栗虫太郎的短篇集，收七篇密室之作，含《圣阿雷基赛修道院的惨剧》《梦殿杀人事件》。写法炫技而繁复，知识密度极高。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 339,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3584147/",
+        "subjectId": "3584147",
+        "edition": "日本推理名作选·小栗虫太郎卷 2009年4月",
+        "fetchedAt": "2026-09-22T15:50:52.206Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《黑死馆杀人事件》的读者",
+        "喜欢战前变格派炫学的读者"
+      ],
+      "watchFor": [
+        "每篇密室的出入条件",
+        "被当作背景知识抛出的那些学科",
+        "叙述者获取信息的途径"
+      ],
+      "warning": "战前变格派短篇集，各篇独立，均为密室题材；行文古旧、知识密度高，门槛偏高。该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3584147）；梗概与目录据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 小栗虫太郎卷」／小栗虫太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-75-jp-audit10.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit75-003",
+    "title": "日本推理名作选·黑岩泪香、小酒井不木卷",
+    "originalTitle": "",
+    "author": "小酒井不木",
+    "authorEn": "Kozakai Fuboku",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "forensic",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "合卷本。前半是黑岩泪香奠定日本推理开端的早期名篇，后半收小酒井不木的五个短篇——医学博士出身，惯从精神病学与变态心理切入人性。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 270,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3666873/",
+        "subjectId": "3666873",
+        "edition": "日本推理名作选·黑岩泪香、小酒井不木卷 2009",
+        "fetchedAt": "2026-09-22T15:50:55.492Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读日本推理源流的读者",
+        "小酒井不木的读者"
+      ],
+      "watchFor": [
+        "小酒井不木那几篇里叙述者的身份",
+        "医学常识被用在哪一步",
+        "黑岩泪香译述与创作之间的写法差异"
+      ],
+      "warning": "本卷为**黑岩泪香与小酒井不木的合卷本**，条目归在小酒井不木名下，但前半部分作品属黑岩泪香；两位作者都在本库中另有条目。战前变格派短篇集，含变态心理与凶案描写。该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3666873）；梗概据公开内容简介重写并经人工核对。合卷归属已在该条 warning 中说明",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 黑岩泪香、小酒井不木卷」／黑岩泪香）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-75-jp-audit10.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  }
+]

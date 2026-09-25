@@ -1,0 +1,1401 @@
+[
+  {
+    "id": "chinese3-001",
+    "title": "元年春之祭",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "本格推理",
+    "firstPublished": "2016",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座被水环绕的宅院里，主人家为祭祀做准备；仪式尚未开始，参加者之间已经出现了第一具尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 2871,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26637688/",
+        "subjectId": "26637688",
+        "edition": "元年春之祭 2016",
+        "fetchedAt": "2026-09-20T14:23:26.494Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像案件的读者",
+        "偏好本格解谜与古籍典故趣味的读者"
+      ],
+      "watchFor": [
+        "人物之间的血缘与师承关系",
+        "仪式流程与事件发生顺序的对应"
+      ],
+      "warning": "本书涉及家族与祭祀仪式设定，建议留意人物关系的交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-002",
+    "title": "当且仅当雪是白的",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "campus",
+      "snowfield",
+      "youth",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "雪夜里，一名少女独自倒在校园之中，而雪地上没有留下任何脚印，现场形同封闭的空间。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 2135,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26998098/",
+        "subjectId": "26998098",
+        "edition": "当且仅当雪是白的 2017",
+        "fetchedAt": "2026-09-20T14:23:29.901Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好校园背景与雪地不可能犯罪的读者",
+        "喜欢逻辑推演与多重推理的读者"
+      ],
+      "watchFor": [
+        "雪地痕迹与当日天气、时间标记的对应",
+        "学生们对同一件事给出的不同说法"
+      ],
+      "warning": "本书以校园为舞台并涉及青少年心理描写，建议留意各章节的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-003",
+    "title": "樱草忌",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "narrative-trick",
+      "campus",
+      "youth",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "同班同学离世之后，被周围认为最伤心的那个女孩，开始重新整理两人短暂交集里的每一处细节。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1615,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30261641/",
+        "subjectId": "30261641",
+        "edition": "樱草忌 2018",
+        "fetchedAt": "2026-09-20T14:23:33.210Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好校园题材与心理描写的读者",
+        "喜欢细密伏笔与情绪悬疑的读者"
+      ],
+      "watchFor": [
+        "叙述者提供信息的边界",
+        "校刊征稿等校园活动的时间顺序"
+      ],
+      "warning": "本书涉及青少年死亡与校园人际关系，阅读情绪可能较为沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-004",
+    "title": "凛冬之棺",
+    "originalTitle": "",
+    "author": "孙沁文",
+    "authorEn": "Sun Qinwen",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "午夜文库·原创系列",
+    "detective": "安缜",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "faceless-corpse",
+      "mansion",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "湖边大宅里接连发生违背常理的死亡，每一处现场都像是无法进出的空间，家族成员一个接一个倒下。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 6359,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30261649/",
+        "subjectId": "30261649",
+        "edition": "凛冬之棺 2018",
+        "fetchedAt": "2026-09-20T14:23:36.630Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏爱密室与不可能犯罪的读者",
+        "喜欢家族群像与旧宅舞台的读者"
+      ],
+      "watchFor": [
+        "各处现场的空间结构与进出路径",
+        "家族成员之间的称呼与亲缘关系"
+      ],
+      "warning": "本书为密室题材长篇，涉及多处案发现场，建议留意每个现场的空间描述。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-005",
+    "title": "雪祭",
+    "originalTitle": "",
+    "author": "孙沁文",
+    "authorEn": "Sun Qinwen",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "谜托邦",
+    "detective": "赫子飞／夏时／慕小影",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "multiple-solutions",
+      "red-herring",
+      "snowfield",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "十篇以封闭空间为主题的短篇，舞台从雪地、棺木、树下延伸到摩天轮与剧场，谜面各不相同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 597,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36127454/",
+        "subjectId": "36127454",
+        "edition": "雪祭 2022",
+        "fetchedAt": "2026-09-20T14:23:39.989Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇密室推理的读者",
+        "想一次读遍多种封闭空间谜面的读者"
+      ],
+      "watchFor": [
+        "每篇的舞台条件与可用道具",
+        "各篇侦探角色所在系列的区分"
+      ],
+      "warning": "本书为短篇自选集，各篇独立成篇，可单独阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-006",
+    "title": "钟塔杀人事件",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "陈默思探案系列",
+    "detective": "陈默思",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座以钟塔为标志的建筑里，死亡事件随着钟表的节拍接连发生，时间本身成了谜题的一部分。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1953,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30175382/",
+        "subjectId": "30175382",
+        "edition": "钟塔杀人事件 2018",
+        "fetchedAt": "2026-09-20T14:23:43.403Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢建筑与机关趣味的本格读者",
+        "偏好时间与不在场证明谜题的读者"
+      ],
+      "watchFor": [
+        "钟塔的机械构造与报时规律",
+        "各人在案发时段的位置与说法"
+      ],
+      "warning": "本书含大量建筑与时间设定，建议留意书中关于钟塔构造的说明。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-007",
+    "title": "土楼杀人事件",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "午夜文库·原创系列",
+    "detective": "陈默思",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "alibi",
+      "red-herring",
+      "countryside",
+      "legend-folklore",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "在福建土楼这样一座环形共居的建筑里，住户们彼此熟识；一名住客死去，所有人都被围在同一圈墙内。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 846,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35498382/",
+        "subjectId": "35498382",
+        "edition": "土楼杀人事件 2021",
+        "fetchedAt": "2026-09-20T14:23:46.818Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢本土建筑与乡土舞台的读者",
+        "偏好封闭空间群像案件的读者"
+      ],
+      "watchFor": [
+        "土楼内部的房间分布与通道位置",
+        "住户之间的日常往来与作息"
+      ],
+      "warning": "本书舞台为传统环形民居，建议留意关于楼层与房间格局的交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-008",
+    "title": "巴别塔之梦",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "午夜文库·原创系列",
+    "detective": "陈默思",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "isolated-island",
+      "mansion",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "五名收到匿名请柬的人登上一座孤岛，住进高塔；请柬把他们与十年前的一个团体连在一起，随后命案接连发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.4,
+        "count": 417,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35096573/",
+        "subjectId": "35096573",
+        "edition": "巴别塔之梦 2020",
+        "fetchedAt": "2026-09-20T14:23:50.216Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛模式与宏大建筑诡计的读者",
+        "偏好本格解谜与多重推理的读者"
+      ],
+      "watchFor": [
+        "高塔各层的结构与通行方式",
+        "十年前那个团体的人际关系"
+      ],
+      "warning": "本书舞台为孤岛高塔，涉及十年前旧事，建议留意人物关系的交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-009",
+    "title": "溯洄",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "narrative-trick",
+      "red-herring",
+      "nonlinear",
+      "city",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一段被反复回望的往事牵着当下的调查往前走，人物在回忆与现实之间来回穿梭，说法不断被改写。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5,
+        "count": 401,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34809662/",
+        "subjectId": "34809662",
+        "edition": "溯洄 2020",
+        "fetchedAt": "2026-09-20T14:23:53.572Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢非线性叙事与记忆主题的读者",
+        "偏好人物心理悬疑的读者"
+      ],
+      "watchFor": [
+        "各章节在时间轴上的落点",
+        "同一事件被不同人物复述时的差异"
+      ],
+      "warning": "本书在回忆与现实之间切换叙述，建议留意每章的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-010",
+    "title": "镜狱岛事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2016",
+    "series": "午夜文库·原创系列",
+    "detective": "陈爝",
+    "country": "中国",
+    "tags": [
+      "isolated-island",
+      "closed-circle",
+      "locked-room",
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一行人登上与陆地隔绝的小岛，岛上流传着关于镜子的旧说；不久，同行者之间开始出事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 1868,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26828112/",
+        "subjectId": "26828112",
+        "edition": "镜狱岛事件 2016",
+        "fetchedAt": "2026-09-20T14:23:56.971Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛模式与不可能犯罪的读者",
+        "偏好系列侦探长篇的读者"
+      ],
+      "watchFor": [
+        "岛上建筑的布局与镜面陈设",
+        "众人往返各地点的路径与时刻"
+      ],
+      "warning": "本书为孤岛题材长篇，建议留意登场人物的身份交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-011",
+    "title": "黄帝的咒语",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Hu Yanyun",
+    "genre": "本格推理",
+    "firstPublished": "2014",
+    "series": "真相推理师系列",
+    "detective": "呼延云",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "legend-folklore",
+      "forensic",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一部古代医典的残卷重新出现在世人眼前，围绕它的死亡事件接连发生，每起都留下难以解释的现场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 756,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25838619/",
+        "subjectId": "25838619",
+        "edition": "黄帝的咒语 2014",
+        "fetchedAt": "2026-09-20T14:24:00.563Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古籍典故与民俗氛围的读者",
+        "偏好密室与多重推理的读者"
+      ],
+      "watchFor": [
+        "医典相关传说与案件现场的对应",
+        "各处现场的门窗与陈设描述"
+      ],
+      "warning": "本书涉及旧典与民俗传说设定，建议留意书中对相关背景的交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-012",
+    "title": "凶画",
+    "originalTitle": "",
+    "author": "周浩晖",
+    "authorEn": "Zhou Haohui",
+    "genre": "本格推理",
+    "firstPublished": "2005",
+    "series": "刑警罗飞系列",
+    "detective": "罗飞",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "faceless-corpse",
+      "red-herring",
+      "countryside",
+      "snowfield",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "大雪封山前，三名上山写生的画家借宿寺中。寺里封存着一幅无人敢看的画，随后有人死去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 1481,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26639658/",
+        "subjectId": "26639658",
+        "edition": "凶画 2015",
+        "fetchedAt": "2026-09-20T14:24:06.269Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢暴风雪山庄式封闭舞台的读者",
+        "偏好寺庙传说与刑警长篇的读者"
+      ],
+      "watchFor": [
+        "大雪封山后寺内人员的位置变动",
+        "那幅画的来历与寺中传言"
+      ],
+      "warning": "本书舞台为封山期间的寺庙，建议留意登场人物的身份与来意。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-013",
+    "title": "鬼望坡",
+    "originalTitle": "",
+    "author": "周浩晖",
+    "authorEn": "Zhou Haohui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "series": "刑警罗飞系列",
+    "detective": "罗飞",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "isolated-island",
+      "legend-folklore",
+      "concealment",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一座海岛的山坡上流传着女鬼显形的旧说。刑警罗飞在假期登岛，结识了前来探寻身世的失忆青年，岛上随后接连出事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 3251,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4052716/",
+        "subjectId": "4052716",
+        "edition": "鬼望坡 2009",
+        "fetchedAt": "2026-09-20T14:24:13.884Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好孤岛悬疑与刑警长篇的读者",
+        "喜欢海岛传说氛围与旧事回溯的读者"
+      ],
+      "watchFor": [
+        "岛上流传的传说与后来发生之事的关系",
+        "各处地点之间的路程与人物行踪"
+      ],
+      "warning": "本书为孤岛题材长篇，涉及旧日海难往事，建议留意人物身世的交代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-015",
+    "title": "殉罪者",
+    "originalTitle": "",
+    "author": "雷米",
+    "authorEn": "Lei Mi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "nursery-rhyme",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "obsession",
+      "city",
+      "forensic",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一桩多年前的案子重新被翻开，当年参与其中的人各自背着未了的心事，案件与他们再次纠缠到一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 5177,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26811407/",
+        "subjectId": "26811407",
+        "edition": "殉罪者 2016",
+        "fetchedAt": "2026-09-20T14:24:23.389Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好旧案重启与人物心理刻画的读者",
+        "喜欢多人物视角犯罪长篇的读者"
+      ],
+      "watchFor": [
+        "案件跨越二十余年的时间节点",
+        "各人物对当年经过的回忆差异"
+      ],
+      "warning": "本书涉及暴力罪案与心理创伤描写，阅读时可能感到压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-016",
+    "title": "无尽之夏",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "authorEn": "Cai Jun",
+    "genre": "青春推理",
+    "firstPublished": "2018",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "dual-line",
+      "ensemble",
+      "city",
+      "youth",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一群在南方海边长大的年轻人，被少年时代目击的一桩旧事牵着，多年后重新回到那个夏天。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 972,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30372955/",
+        "subjectId": "30372955",
+        "edition": "无尽之夏 2018",
+        "fetchedAt": "2026-09-20T14:24:26.754Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢成长主题与旧案回溯的读者",
+        "偏好海岛上青春群像的读者"
+      ],
+      "watchFor": [
+        "少年时代与成年之后两条线的对应",
+        "每个人物记住的细节有何不同"
+      ],
+      "warning": "本书在少年与成年两条时间线之间交替叙述，建议留意每章的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-017",
+    "title": "谋杀似水年华",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "authorEn": "Cai Jun",
+    "genre": "社会派",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "dual-line",
+      "city",
+      "passion",
+      "obsession",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩发生在多年前的旧案，把两个年轻人的命运缠在一起；他们各自往回追溯，想弄清当年究竟发生了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 6754,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6719658/",
+        "subjectId": "6719658",
+        "edition": "谋杀似水年华 2011",
+        "fetchedAt": "2026-09-20T14:24:30.490Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢跨越多年旧案结构的读者",
+        "偏好情感线与悬疑线交织的读者"
+      ],
+      "watchFor": [
+        "章节在不同年份之间切换的位置",
+        "两人各自掌握的信息范围"
+      ],
+      "warning": "本书在多个年代之间往返叙述，建议留意每章标注的时间。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "chinese3-018",
+    "title": "十宗罪2",
+    "originalTitle": "",
+    "author": "蜘蛛",
+    "authorEn": "Zhi Zhu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "十宗罪系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "city",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "特案组继续接手各地报来的极端案件，每一桩都从看似无关的细节开始，逐步拼出案件的轮廓。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 9693,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6440768/",
+        "subjectId": "6440768",
+        "edition": "十宗罪2 2011",
+        "fetchedAt": "2026-09-20T14:24:33.878Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢单元案件结构的读者",
+        "偏好重口味罪案与法医细节的读者"
+      ],
+      "watchFor": [
+        "每个单元案件的起始线索来源",
+        "特案组成员的分工与视角"
+      ],
+      "warning": "本书案件描写较为血腥直接，对暴力内容敏感的读者请谨慎阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-12-chinese-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

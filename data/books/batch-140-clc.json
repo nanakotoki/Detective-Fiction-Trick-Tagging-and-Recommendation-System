@@ -1,0 +1,2157 @@
+[
+  {
+    "id": "clc140-001",
+    "title": "鱼玄机",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "red-herring",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "唐代女诗人中以鱼玄机最为知名，也最为传奇；她时运不济、命途多舛，牵连进包括毒杀温庭筠在内的多宗谋杀案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "唐代背景推理的读者",
+        "《中国古代大案探奇录》系列的读者"
+      ],
+      "watchFor": [
+        "几宗谋杀案之间的关联",
+        "史料与小说虚构成分的界线"
+      ],
+      "warning": "历史推理长篇，唐代背景，含毒杀与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举**发现，`scripts/opac-clc-scan.mjs`，类号 `I247.56`）：吴蔚著，中国民主法制出版社 2018，丛编项「**中国古代大案探奇录**」。**推理属性判据**：①**索书号与中图分类均为 `I247.56`**——中国当代侦探／推理小说的专门分类号；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；③丛编项为作者本人的历史疑案系列。**补作者缺口**：作者库内已有《开元悬疑录：将进酒》，本轮**一次补入 5 部**。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-002",
+    "title": "韩熙载夜宴",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "closed-circle",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "南唐名臣韩熙载举办的一场豪门夜宴上发生离奇命案：一位年轻美貌的女子在众目睽睽之下被人巧妙下毒，命殒当堂。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "宴会封闭场景题材的读者"
+      ],
+      "watchFor": [
+        "毒是如何在众目睽睽下投入的",
+        "席上各人的位置与走动"
+      ],
+      "warning": "历史推理长篇，五代南唐背景，含毒杀与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：吴蔚著，中国民主法制出版社 2018，丛编项「中国古代大案探奇录」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；③丛编项为作者本人的历史疑案系列。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-003",
+    "title": "孔雀胆",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "identity",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "元朝末年，素有仇怨的梁王与大理段氏不得不联合抗敌；就在大理总管段功新娶梁王之女后不久，怪案频频，一瓶孔雀胆终于让两家开始互相猜忌。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "元末背景的读者"
+      ],
+      "watchFor": [
+        "怪案与两家联姻的关系",
+        "孔雀胆在两方之间的流转"
+      ],
+      "warning": "历史推理长篇，元末背景，含毒杀与政治阴谋描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：吴蔚著，中国民主法制出版社 2018，丛编项「中国古代大案探奇录」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-004",
+    "title": "璇玑图",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2017",
+    "series": "中国古代大案探奇录",
+    "detective": "狄仁杰",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "cipher",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "武则天执政晚年，五位好友结伴壮游，在蒲州卷入一起离奇命案，又因与淮阳王结怨被诬为刺客；其中一人写信向伯父狄仁杰求助，引发谋逆大案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "狄仁杰题材的读者"
+      ],
+      "watchFor": [
+        "璇玑图这一物件的含义",
+        "被诬为刺客的经过"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与朝堂争斗描写；原作分上、下两册。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：吴蔚著，中国民主法制出版社 2017，丛编项「中国古代大案探奇录」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**合并说明**：馆藏以「璇玑图.上」与「.下」两条著录，**两条提要完全相同**，属同一部作品的上下两册，按库内既有做法**合并为一条**。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-005",
+    "title": "青花瓷",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2015",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "gain",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "明朝万历年间，瓷都景德镇民窑与行帮竞争白热化；「变工节」当日一件号称「青花见五色」的罕见瓷器意外烧制成功，促使蠢动许久的暗流爆发。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "瓷器与手工业题材的读者"
+      ],
+      "watchFor": [
+        "那件瓷器为何引来觊觎",
+        "行帮之间的明争暗斗"
+      ],
+      "warning": "历史推理长篇，明代背景，含谋财与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：吴蔚著，中国民主法制出版社 2015.09，丛编项「中国古代大案探奇录」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-006",
+    "title": "马丁的机器人超市",
+    "originalTitle": "",
+    "author": "汪洁洋",
+    "authorEn": "Wang Jieyang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小说构思了一个机器人逐渐发达的世界：机器人在与人类相处中产生各种矛盾，甚至拥有了自己的思想；机器人群体摆脱人类的斗争始于马丁的机器人超市。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的读者",
+        "人工智能题材的读者"
+      ],
+      "watchFor": [
+        "机器人获得思想的契机",
+        "超市这一场所的象征意义"
+      ],
+      "warning": "科幻设定的犯罪悬疑长篇，含命案描写，推理成分与科幻设定交织。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：汪洁洋著，中国民主法制出版社 2019。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无汪洁洋作品。**如实标注**：本书带**科幻设定**（机器人拥有思想），已在 `readingTips.warning` 写明推理与科幻交织。**年份字段说明**：中文原创，`firstPublished` 记 2019，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-007",
+    "title": "归麟",
+    "originalTitle": "",
+    "author": "二狮",
+    "authorEn": "Er Shi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "邵麟",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "revenge",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "跨国犯罪集团挟持一艘海上豪华游轮，点名要求谈判专家邵麟出面；人质被成功救回后，最后一艘救生艇突然爆炸，一年后获救者开始陆续死亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产犯罪悬疑的读者",
+        "谈判与救援题材的读者"
+      ],
+      "watchFor": [
+        "救生艇爆炸那一刻的细节",
+        "获救者死亡的先后顺序"
+      ],
+      "warning": "犯罪悬疑长篇，含劫持、爆炸与连续死亡描写；原作分上、下两册。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：二狮著，湖南文艺出版社 2021。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**合并说明**：馆藏以「归麟.上」与「.下」两条著录且**提要相同**，属同一部作品的上下两册，**合并为一条**。**新作者**：库内此前无二狮作品。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-008",
+    "title": "一切从相遇开始：智战篇",
+    "originalTitle": "",
+    "author": "藏妖",
+    "authorEn": "Cang Yao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "cipher",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名抑郁症患者与一位和蔼可亲的心理医生拉开了一场阴谋的序幕：博物馆加班的员工遇到浑身是血的「鬼」，次日一件琉璃艺术品在保险库内离奇消失。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室盗窃题材的读者",
+        "心理博弈型悬疑的读者"
+      ],
+      "watchFor": [
+        "保险库的警报为何没响",
+        "「鬼」是什么"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：藏妖著，作家出版社 2016.07。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无藏妖作品。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-009",
+    "title": "杀人动机",
+    "originalTitle": "",
+    "author": "海岩、金凌云",
+    "authors": [
+      "海岩",
+      "金凌云"
+    ],
+    "authorEn": "Hai Yan; Jin Lingyun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "first-person",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「我被捕了。我摊上了大事。」一桩与三条人命有关的凶杀案，把叙述者从湖里捞起、塞进警车，直接带到了刑警队里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产犯罪悬疑的读者",
+        "第一人称叙事的读者"
+      ],
+      "watchFor": [
+        "叙述者自己的说法",
+        "三条人命的先后"
+      ],
+      "warning": "犯罪悬疑长篇，含凶杀案与审讯描写，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：海岩、金凌云著，九州出版社 2017.03。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**多作者模型**：本条为**两位作者合著**，`authors` 记两位，界面上会显示「合著」徽章；**这一条此前在 §28.3 因单一作者模型被搁置，本轮模型扩好后收录**。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-010",
+    "title": "三叶虫",
+    "originalTitle": "",
+    "author": "王曼",
+    "authorEn": "Wang Man",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "静谧秀丽的山庄里隐藏着罪恶；一位冷静而犀利的女作家抽丝剥茧，拨开重重迷雾。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "山庄封闭场景推理的读者",
+        "女侦探视角的读者"
+      ],
+      "watchFor": [
+        "山庄里各人的来历",
+        "女作家注意到的那处细节"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：王曼著，法律出版社 2015，「相关题名附注」记「英文并列题名取自封面」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是一部**推理严谨**同时又生动有趣的作品」。**新作者**：库内此前无王曼作品。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-011",
+    "title": "阿难：走出印度",
+    "originalTitle": "",
+    "author": "虹影",
+    "authorEn": "Hong Ying",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "虹影经典作品",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "first-person",
+      "identity",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "「我」以写旅行专栏为名，实为替一位传媒女老板寻找两人年轻时都热爱的歌手阿难；复杂的线索在寻找中一一浮现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "文学性悬疑的读者",
+        "异国背景寻人题材的读者"
+      ],
+      "watchFor": [
+        "寻找阿难的每一条线索",
+        "叙述者自己的动机"
+      ],
+      "warning": "文学性悬疑长篇，印度背景，含游记笔调与命案暗线。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：虹影著，四川文艺出版社 2017，丛编项「经典文学；虹影经典作品」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明本书「兼具浓郁印度风情的游记情调和**侦探小说式的悬疑感**」。**如实标注**：本书文学性较强、游记笔调明显，已在 `readingTips.warning` 写明。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-012",
+    "title": "逃亡的苏溪",
+    "originalTitle": "",
+    "author": "徐涛",
+    "authorEn": "Xu Tao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "苏溪",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "legal-thriller",
+      "police-procedural"
+    ],
+    "safeSummary": "抓获毒贩的茶社又发现一具女人尸体，警方迅速介入；检察官苏溪从案发现场的目击证人变成了全城通缉的嫌疑人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "检察官视角悬疑的读者",
+        "逃亡与自证题材的读者"
+      ],
+      "watchFor": [
+        "她为何从证人变成嫌疑人",
+        "茶社那条线"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与毒品犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：徐涛著，作家出版社 2017。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无徐涛作品。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-013",
+    "title": "摩天大楼",
+    "originalTitle": "",
+    "author": "陈雪",
+    "authorEn": "Chen Xue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "city",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "本书以推理小说的形态分析当代人的孤独与困境：女主角钟美宝被杀，她美丽如天使、日复一日看似平凡淡然，却缠绕于人际纠葛。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派悬疑的读者",
+        "都市群像的读者"
+      ],
+      "watchFor": [
+        "同栋楼里各人的秘密",
+        "死者与几户人家的关系"
+      ],
+      "warning": "社会派犯罪悬疑长篇，含命案与性侵暗线描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：陈雪著，广西师范大学出版社 2017。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书**以推理小说形态**分析当代人的孤独与困境」。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-014",
+    "title": "天等山",
+    "originalTitle": "",
+    "author": "凡一平",
+    "authorEn": "Fan Yiping",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "非系列",
+    "detective": "韦军红",
+    "country": "中国",
+    "tags": [
+      "countryside",
+      "identity",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "广西边境小镇上，富商蹊跷的「自然死亡」引出一位最有嫌疑、却最不像凶手的人物；负责侦查的年轻警官在盘查中渐渐被她吸引。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "边地背景悬疑的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "「自然死亡」的判定依据",
+        "嫌疑人的为人与传闻的落差"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写，边境小镇背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：凡一平著，上海文艺出版社 2016.08。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：库内此前无凡一平作品（同批另收其《上岭村的谋杀》见后续批次）。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-015",
+    "title": "第十二日",
+    "originalTitle": "",
+    "author": "项维",
+    "authorEn": "Xiang Wei",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "灯下黑",
+    "detective": "唐成周",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "identity",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "多年以前唐成周被人贩子拐卖，长大后成为知名心理医生，童年的阴影一直藏在内心深处；直到某一天他遇到了当年那个人贩子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理向推理的读者",
+        "旧案复仇题材的读者"
+      ],
+      "watchFor": [
+        "八月第十二日这一天",
+        "心理医生自己的记忆"
+      ],
+      "warning": "犯罪悬疑长篇，含拐卖、命案与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：项维著，广东人民出版社 2017，丛编项「灯下黑」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是一部**逻辑严谨的推理小说**」。**新作者**：库内此前无项维作品。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-016",
+    "title": "罪念",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "风林小区发生一起凶杀案，警方迅速捕获嫌疑人，可他的犯罪动机却依然成谜；正当警方准备以「入室抢劫杀人案」结案之时，新的线索突然涌现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑侦心理题材的读者",
+        "动机之谜的读者"
+      ],
+      "watchFor": [
+        "嫌疑人的动机为何成谜",
+        "新线索出现的时间点"
+      ],
+      "warning": "犯罪悬疑长篇，含凶杀案与心理分析描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：刚雪印著，中国友谊出版公司 2018，「相关题名附注」记「英文并列题名取自封底」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无刚雪印作品。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-017",
+    "title": "尸案调查科.2：重案捕手",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "尸案调查科系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "系列第二部：几位公安机关基层技术刑警利用刑事勘查技术，通过尸检、物检、痕检等程序捕捉蛛丝马迹，锁定幕后凶手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑事技术题材的读者",
+        "《尸案调查科》系列的读者"
+      ],
+      "watchFor": [
+        "尸检与痕检各自给出的线索",
+        "技术手段能解决与不能解决的部分"
+      ],
+      "warning": "法医刑侦题材长篇，含尸检与命案描写，为系列第 2 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：九滴水著，湖南文艺出版社 2016，丛编项「『尸案调查科』系列」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「这个小说是系列**推理小说**『尸案调查科』的第二部」。**补系列缺口**：库内已有该系列第 1 部，本轮**一次补入第 2、3 部与第二季**。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-018",
+    "title": "尸案调查科.3：无间行者",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "尸案调查科系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "系列第三部：市公安局刑事技术室的几名技术警察，运用刑事科学技术侦破重大疑难案件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑事技术题材的读者",
+        "《尸案调查科》系列的读者"
+      ],
+      "watchFor": [
+        "技术室各人的专业分工",
+        "每案的关键物证"
+      ],
+      "warning": "法医刑侦题材长篇，含尸检与命案描写，为系列第 3 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：九滴水著，湖南文艺出版社 2016，丛编项「『尸案调查科』系列」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是系列**犯罪推理小说**『尸案调查科』的第三部」。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-019",
+    "title": "尸案调查科·第二季：罪恶根源",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "尸案调查科系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "第二季：小说由几个案件构成，每个案件都依靠技术室同事各自的专业知识和共同配合侦破，涉及法医、痕迹检验、理化检验、刑事照相等专业。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑事技术题材的读者",
+        "单元案件结构的读者"
+      ],
+      "watchFor": [
+        "各专业在同一个案子里的配合",
+        "理化检验与痕检的分工"
+      ],
+      "warning": "法医刑侦题材长篇，含尸检与命案描写，为系列第二季。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：九滴水著，湖南文艺出版社 2017。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是一本**犯罪推理小说**」。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-020",
+    "title": "空中小姐",
+    "originalTitle": "",
+    "author": "小米",
+    "authorEn": "Xiao Mi",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "午夜文库·原创系列",
+    "detective": "莫林",
+    "country": "中国",
+    "tags": [
+      "locked-space",
+      "vanished-weapon",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "旧书店店主莫林具有异于常人的记忆力与推理能力；万米高空的民航飞机上，魔术师死在呈密室状态的洗手间内，同时一位空中小姐自机舱内消失无踪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室题材的读者",
+        "午夜文库原创系列的读者"
+      ],
+      "watchFor": [
+        "洗手间如何形成密室",
+        "空中小姐能去哪里"
+      ],
+      "warning": "本格推理长篇，含命案与密室描写，为午夜文库原创系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：小米著，新星出版社 2017，丛编项「**午夜文库·原创系列**；小米作品」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③丛编项为**新星出版社「午夜文库」原创系列**（推理专门书系）。**新作者**：库内此前无小米作品。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-021",
+    "title": "宛如昨日：生存游戏",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "authorEn": "Cai Jun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "revenge",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一位因任务失去挚爱的警官、一位被查出脑癌的编程天才、一位行踪诡秘的脑神经学医生，拼出一条凶险的追凶之路。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "蔡骏的读者",
+        "游戏化设定题材的读者"
+      ],
+      "watchFor": [
+        "编程天才设计的机制",
+        "几组人物的交汇点"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与灭门描写，带游戏化设定。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：蔡骏著，湖南文艺出版社 2017，丛编项「蔡骏长篇游戏幻想推理小说」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「这是一本**犯罪推理小说**」。**补作者缺口**：作者库内已有《谋杀似水年华》《镇墓兽》等。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-022",
+    "title": "独白者",
+    "originalTitle": "",
+    "author": "向林",
+    "authorEn": "Xiang Lin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "沈跃",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "心理学博士沈跃曾就职于知名心理学实用技术研究所，因遭报复失去妻女后只身回国；一起绑架案开始了他与警方的合作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理画像题材的读者",
+        "心理学+刑侦结合的读者"
+      ],
+      "watchFor": [
+        "心理学家如何读人",
+        "车祸死亡案的线索为何全无"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与心理分析描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：向林著，江苏凤凰文艺出版社 2017。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是**心理学+犯罪推理题材**的长篇小说」。**新作者**：库内此前无向林作品。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-023",
+    "title": "封口费",
+    "originalTitle": "",
+    "author": "孙浩元",
+    "authorEn": "Sun Haoyuan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "新闻悬疑小说馆",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "silencing",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一部关于记者在生命、金钱与良知之间徘徊挣扎的生存启示录：知道谁做了见不得光的事，就可能收到一笔让你不要声张的钱。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新闻行业题材悬疑的读者",
+        "社会派悬疑的读者"
+      ],
+      "watchFor": [
+        "谁在给封口费",
+        "记者掌握的线索如何被压下去"
+      ],
+      "warning": "社会派犯罪悬疑长篇，含命案与 press 伦理题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：孙浩元著，新星出版社 2011，丛编项「**新闻悬疑小说馆**」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无孙浩元作品。**年份字段说明**：中文原创，`firstPublished` 记 2011，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-024",
+    "title": "掩盖",
+    "originalTitle": "",
+    "author": "武和平",
+    "authorEn": "Wu Heping",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "公安文学名家名作系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "gain",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "沧海市金岛滩一艘神秘的大船附近，一具浇注在礁石中的尸体被发现；调查中知情人一个个离奇死亡，主管此案的公安局局长与刑警队长也相继被查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "公安题材长篇的读者",
+        "内部腐败题材的读者"
+      ],
+      "watchFor": [
+        "浇注在礁石中的尸体如何形成",
+        "知情人死亡的次序"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与警界内部腐败描写，为公安文学名家名作系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：武和平著，群众出版社 2014.09，丛编项「**公安文学名家名作系列**」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无武和平作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-025",
+    "title": "隐蔽的脸",
+    "originalTitle": "",
+    "author": "蒋林",
+    "authorEn": "Jiang Lin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "first-person",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「我一直以为若童死了」，她的形象常出现在我的幻想之中；但三年后她却突然出现在我面前，阳光正照射在她疲惫的脸上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "身份谜题题材的读者",
+        "第一人称悬疑的读者"
+      ],
+      "watchFor": [
+        "这三年她去了哪里",
+        "叙述者为何认定她已死"
+      ],
+      "warning": "犯罪悬疑长篇，含身份疑云与命案暗线。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：蒋林著，宁波出版社 2014.07。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无蒋林作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-026",
+    "title": "生死使命",
+    "originalTitle": "",
+    "author": "朱维坚",
+    "authorEn": "Zhu Weijian",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "黑白道系列小说",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "revenge",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一个年轻刑警决心调出公安机关，却在写出调离报告后接手一起疑难大案、当上专案组长；随着侦破推进，一连串残忍的血案浮现，凶手开始疯狂报复。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "公安题材长篇的读者",
+        "专案组办案结构的读者"
+      ],
+      "watchFor": [
+        "疑难大案的入手点",
+        "凶手报复的针对对象"
+      ],
+      "warning": "犯罪悬疑长篇，含血案与暴力描写，为黑白道系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：朱维坚著，作家出版社 2022，丛编项「黑白道系列小说」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无朱维坚作品。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-027",
+    "title": "刺杀",
+    "originalTitle": "",
+    "author": "张宝瑞",
+    "authorEn": "Zhang Baorui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "张宝瑞文集·最悬疑卷",
+    "detective": "龙飞",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "spy-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "二十世纪六十年代初，原国民党高级将领携夫人返回大陆，震动海峡两岸；台湾派出特务企图暗杀，有关部门派出公安人员与特务展开殊死搏斗。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "反特题材的读者",
+        "张宝瑞的读者"
+      ],
+      "watchFor": [
+        "暗杀计划的布置",
+        "龙飞等人的侦查路径"
+      ],
+      "warning": "反特悬疑长篇，含暗杀与暴力描写，为张宝瑞文集最悬疑卷作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：张宝瑞著，陕西师范大学出版社 2010，丛编项「张宝瑞文集·最悬疑卷」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：作者库内已有《绿色尸体》。**收录说明**：本作含**反特/间谍**成分，但**不是纯间谍小说**——主线是公安人员对暗杀计划的侦查与反制，故按第①类判据收录，并以 `spy-espionage` 标签如实标记。**年份字段说明**：中文原创，`firstPublished` 记 2010，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-028",
+    "title": "一只绣花鞋",
+    "originalTitle": "",
+    "author": "张宝瑞",
+    "authorEn": "Zhang Baorui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "张宝瑞文集·最悬疑卷",
+    "detective": "龙飞",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "spy-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一九四八年国民党政府在崩溃前秘密成立梅花党组织，企图打入内部伺机而起；我党特工设法与党魁之女邂逅，潜入其党部以取得记有名单的梅花图。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "反特题材的读者",
+        "关注中国悬疑小说源流的读者"
+      ],
+      "watchFor": [
+        "梅花图的下落",
+        "党魁之女的立场"
+      ],
+      "warning": "反特悬疑长篇，含潜伏与暴力描写，是同类「手抄本」故事中最知名的一部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：张宝瑞著，陕西师范大学出版社 2010，丛编项「张宝瑞文集·最悬疑卷」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**收录说明**：本作含**反特/间谍**成分，但**不是纯间谍小说**——核心是潜入取物与身份周旋的悬疑结构，故按第①类判据收录并如实标注。**年份字段说明**：中文原创，`firstPublished` 记 2010，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "clc140-029",
+    "title": "三下江南",
+    "originalTitle": "",
+    "author": "张宝瑞",
+    "authorEn": "Zhang Baorui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "张宝瑞文集·最悬疑卷",
+    "detective": "龙飞",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "spy-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "国家重要领导人生命受到严重威胁的紧急关口，第一神探龙飞临危受命，三上北京、三下江南，潜入敌人心脏，敌我之间盘根错节的斗争就此展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "反特题材的读者",
+        "张宝瑞的读者"
+      ],
+      "watchFor": [
+        "龙飞几次往返的路线与目的",
+        "敌我双方的人员对应"
+      ],
+      "warning": "反特悬疑长篇，含潜伏、暗杀与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：张宝瑞著，陕西师范大学出版社 2010，丛编项「张宝瑞文集·最悬疑卷」。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**收录说明**：含反特/间谍成分但非纯间谍小说，按第①类判据收录并如实标注。**年份字段说明**：中文原创，`firstPublished` 记 2010，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-140-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "龙飞三下江南",
+      "龙飞三下江南：一只绣花鞋续篇"
+    ]
+  }
+]

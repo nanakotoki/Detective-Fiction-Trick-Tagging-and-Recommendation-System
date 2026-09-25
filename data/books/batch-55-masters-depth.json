@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "md55-001",
+    "title": "四魔头",
+    "originalTitle": "The Big Four",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1927",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛、黑斯廷斯",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "dual-role",
+      "adventure",
+      "series-detective",
+      "red-herring",
+      "cipher",
+      "identity"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一个由四个人组成的地下组织在暗中活动，代号分别对应该组织里每个人的分工。波洛刚接触到这条线，就发现自己被这个组织盯上了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 4728,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26924831/",
+        "subjectId": "26924831",
+        "edition": "四魔头 2017",
+        "fetchedAt": "2026-09-22T12:18:42.117Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢组织对抗题材的读者",
+        "波洛系列的读者"
+      ],
+      "watchFor": [
+        "四名成员的代号与分工",
+        "每次交锋的地点",
+        "谁在向组织提供消息"
+      ],
+      "warning": "波洛系列中较偏冒险的一部长篇，含追逃与暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-002",
+    "title": "暗藏杀机",
+    "originalTitle": "The Secret Adversary",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1922",
+    "series": "汤米与塔彭丝系列",
+    "detective": "汤米·贝雷斯福德、塔彭丝·贝雷斯福德",
+    "country": "英国",
+    "tags": [
+      "adventure",
+      "identity",
+      "dual-role",
+      "series-detective",
+      "red-herring",
+      "city",
+      "historical-setting"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "两个刚退伍、手头拮据的年轻人决定自己找活干，接下的第一桩事是寻找一个在船上失踪的姑娘。他们很快发现，还有几拨人也在找她。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 2191,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27201058/",
+        "subjectId": "27201058",
+        "edition": "暗藏杀机 2018",
+        "fetchedAt": "2026-09-22T12:18:45.422Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "汤米与塔彭丝系列的读者",
+        "喜欢早期冒险推理的读者"
+      ],
+      "watchFor": [
+        "那姑娘在船上接触过的人",
+        "几拨寻人者各自的目的",
+        "谁在用假名字"
+      ],
+      "warning": "克里斯蒂早期冒险推理，节奏轻快，含追逃情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-003",
+    "title": "蓝色列车之谜",
+    "originalTitle": "The Mystery of the Blue Train",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1928",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "train",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "identity"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位富家女带着一颗名贵宝石坐上南下的夜车，天亮前她被人勒死在包厢里，宝石不见了。波洛恰好也在这趟车上，而乘客名单里有人用的是假名。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 6053,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26824034/",
+        "subjectId": "26824034",
+        "edition": "蓝色列车之谜 2016",
+        "fetchedAt": "2026-09-22T12:18:49.009Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢列车封闭案件的读者",
+        "波洛系列的读者"
+      ],
+      "watchFor": [
+        "乘客名单与实名",
+        "列车停靠的每一站",
+        "宝石的流转经过"
+      ],
+      "warning": "波洛系列长篇，列车封闭舞台，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-004",
+    "title": "七面钟之谜",
+    "originalTitle": "The Seven Dials Mystery",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1929",
+    "series": "",
+    "detective": "无固定侦探（邦德尔视角）",
+    "country": "英国",
+    "tags": [
+      "mansion",
+      "adventure",
+      "concealment",
+      "red-herring",
+      "ensemble",
+      "identity",
+      "countryside"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "一群人把八只闹钟塞进同屋伙伴的房间当作玩笑，第二天那人却没有被闹钟叫醒。玩笑变成了案子，而宅子里随后出现了一个自称某种名号的神秘团体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 2932,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/23045981/",
+        "subjectId": "23045981",
+        "edition": "七面钟之谜 2013",
+        "fetchedAt": "2026-09-22T12:18:56.801Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢庄园聚会题材的读者",
+        "克里斯蒂非系列作品的读者"
+      ],
+      "watchFor": [
+        "闹钟的数量与摆放",
+        "那个团体的名号与规矩",
+        "宅中客人的真实身份"
+      ],
+      "warning": "冒险推理长篇，节奏轻快，含凶案与追查情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-005",
+    "title": "烟囱的秘密",
+    "originalTitle": "The Secret of Chimneys",
+    "alternateTitles": [
+      "烟囱别墅之谜",
+      "烟囱宅之谜"
+    ],
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1925",
+    "series": "",
+    "detective": "无固定侦探（安东尼·凯德视角）",
+    "country": "英国",
+    "tags": [
+      "mansion",
+      "adventure",
+      "cipher",
+      "concealment",
+      "identity",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "一份回忆录的手稿落到了一个替人跑腿的年轻人手里，稿子里写着某桩旧案。他送到地方时，收稿的人已经死了，而那座大宅里还有别人也在等这份稿子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢手稿与继承题材的读者"
+      ],
+      "watchFor": [
+        "手稿在第几个人手里",
+        "大宅的历任主人",
+        "谁对稿子的内容格外在意"
+      ],
+      "warning": "冒险推理长篇，含政争、继承与追查情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-006",
+    "title": "马普尔小姐最后的案件",
+    "originalTitle": "Miss Marple's Final Cases",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1979",
+    "series": "马普尔小姐系列",
+    "detective": "简·马普尔",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集。马普尔小姐在这些篇目里处理的往往是别人随口一提的怪事：一句不合场合的话、一件放错地方的东西。她照旧织着毛线，然后指出哪里不对。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 2711,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26777977/",
+        "subjectId": "26777977",
+        "edition": "马普尔小姐最后的案件 2016",
+        "fetchedAt": "2026-09-22T12:19:05.294Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马普尔小姐系列的读者",
+        "喜欢日常之谜短篇的读者"
+      ],
+      "watchFor": [
+        "别人转述时略过的细节",
+        "马普尔小姐提到的类比",
+        "谁把怪事说成「没什么」"
+      ],
+      "warning": "短篇集，各篇独立，基调温和，暴力程度低。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-007",
+    "title": "惊险的浪漫",
+    "originalTitle": "Parker Pyne Investigates",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "日常之谜",
+    "firstPublished": "1934",
+    "series": "",
+    "detective": "帕克·派恩",
+    "country": "英国",
+    "tags": [
+      "ensemble",
+      "honkaku",
+      "red-herring",
+      "city",
+      "meta-fiction",
+      "identity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。主角在报纸上登了一则广告，大意是：如果你不快乐，可以来找我。上门的委托人各有各的不顺，而他给出的「处方」往往是一场被安排出来的经历。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1311,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27103707/",
+        "subjectId": "27103707",
+        "edition": "惊险的浪漫 2017",
+        "fetchedAt": "2026-09-22T12:19:10.914Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻妙短篇的读者",
+        "克里斯蒂非系列作品的读者"
+      ],
+      "watchFor": [
+        "每篇委托人的真实处境",
+        "被安排的那些「巧合」",
+        "结局处谁的判断被推翻"
+      ],
+      "warning": "短篇集，各篇独立，非凶案题材，基调轻松。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-008",
+    "title": "金色的机遇",
+    "originalTitle": "The Listerdale Mystery",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "city",
+      "identity"
+    ],
+    "school": [
+      "trick-school",
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，题材跨度很大：有一夜之间改变处境的机会，也有看起来完全正常的邻里关系。克里斯蒂在这些篇目里多半写的是「运气」这件事的真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 1126,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27172222/",
+        "subjectId": "27172222",
+        "edition": "金色的机遇 2017",
+        "fetchedAt": "2026-09-22T12:19:14.694Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂短篇的读者",
+        "喜欢非系列篇目的读者"
+      ],
+      "watchFor": [
+        "每篇里那个「碰巧」",
+        "当事人的处境变化",
+        "结尾处被揭开的安排"
+      ],
+      "warning": "短篇集，各篇独立，含少量凶案与较多轻喜剧色彩。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-009",
+    "title": "神秘的奎恩先生",
+    "originalTitle": "The Mysterious Mr Quin",
+    "alternateTitles": [
+      "神秘的奎因先生"
+    ],
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "日常之谜",
+    "firstPublished": "1930",
+    "series": "",
+    "detective": "奎恩先生、萨特思韦特先生",
+    "country": "英国",
+    "tags": [
+      "legend-folklore",
+      "ensemble",
+      "honkaku",
+      "red-herring",
+      "meta-fiction",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。一位上了年纪的旁观者每次都会在社交场合遇到同一个神秘的男人，而这个人总能把话题引向某件尚未解开的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 461,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1124810/",
+        "subjectId": "1124810",
+        "edition": "神秘的奎恩先生 1998",
+        "fetchedAt": "2026-09-22T12:19:18.452Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂非系列短篇的读者",
+        "喜欢带几分超自然色彩的作品的读者"
+      ],
+      "watchFor": [
+        "奎恩先生每次出现的方式",
+        "萨特思韦特先生旁观到的细节",
+        "哪一篇里他没有出现"
+      ],
+      "warning": "短篇集，各篇独立，含少量超自然色彩，基调偏怀旧。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 1998（馆藏题名「神秘的奎恩先生」／克里斯蒂）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1998"
+  },
+  {
+    "id": "md55-010",
+    "title": "兽之道",
+    "originalTitle": "けものみち",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1964",
+    "series": "",
+    "detective": "无固定侦探（以女性视角展开）",
+    "country": "日本",
+    "tags": [
+      "city",
+      "social-commentary",
+      "gain",
+      "obsession",
+      "concealment",
+      "dark-atmosphere",
+      "revenge"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个女人被卷进权力与金钱的争斗里，她一开始只是别人的工具。而当她摸清了这套规矩怎么运转，她决定换一个位置站着。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 780,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5395819/",
+        "subjectId": "5395819",
+        "edition": "兽之道 2010",
+        "fetchedAt": "2026-09-22T12:19:22.185Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张中后期长篇的读者",
+        "关注权力与金钱题材的读者"
+      ],
+      "watchFor": [
+        "她第一次被利用的场合",
+        "几方势力各自想要什么",
+        "她态度转变的那个节点"
+      ],
+      "warning": "社会派长篇，含性、贿赂与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 作家出版社 2010（馆藏题名「兽之道」／松本清张）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "md55-011",
+    "title": "彩雾",
+    "originalTitle": "彩霧",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1965",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "city",
+      "social-commentary",
+      "concealment",
+      "gain",
+      "psychological-misdirection",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一件看似普通的失踪与几笔说不清来路的钱连在一起。查下去的人发现，整件事被一层层体面的说法裹着，而每一层都有人受益。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张的读者",
+        "喜欢经济犯罪题材的读者"
+      ],
+      "watchFor": [
+        "那几笔钱的流转路径",
+        "各方的说辞如何互相圆场",
+        "谁在案发后立刻换了说法"
+      ],
+      "warning": "社会派长篇，含经济犯罪与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-012",
+    "title": "深层海流",
+    "originalTitle": "深層海流",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1961",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "social-commentary",
+      "concealment",
+      "dark-atmosphere",
+      "city",
+      "identity"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "战后的一段历史被几方势力同时按住不提：旧军人、政客与新兴财界各有各的理由。一个追查旧档案的人发现，越接近那份名单，阻力就越不像来自个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 88,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19951335/",
+        "subjectId": "19951335",
+        "edition": "深层海流 2012",
+        "fetchedAt": "2026-09-22T12:19:30.216Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "关注战后日本政经题材的读者",
+        "松本清张中后期长篇的读者"
+      ],
+      "watchFor": [
+        "旧档案的流转与缺失",
+        "几方势力各自的立场",
+        "谁一直在幕后协调"
+      ],
+      "warning": "社会派长篇，涉及战后政治与旧军人题材，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md55-013",
+    "title": "西巷说百物语",
+    "originalTitle": "西巷説百物語",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "历史推理",
+    "firstPublished": "2013",
+    "series": "巷说百物语系列",
+    "detective": "山冈百介、又市",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "legend-folklore",
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "系列的一部，舞台移到西边的城下町。仍是那些被说成妖怪作祟的旧事，而每一则的落点都在具体的人身上：谁做了什么，以及这件事为什么必须被说成妖怪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 1187,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26723427/",
+        "subjectId": "26723427",
+        "edition": "西巷说百物语 2016",
+        "fetchedAt": "2026-09-22T12:19:36.733Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「巷说百物语」系列的读者",
+        "喜欢江户市井题材的读者"
+      ],
+      "watchFor": [
+        "每则里「妖怪」的对应物",
+        "讲述者与事件的关系",
+        "又市出面时做的事"
+      ],
+      "warning": "时代怪谈短篇连作，含江户市井与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2016（馆藏题名「西巷说百物语」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "md55-014",
+    "title": "冥谈",
+    "originalTitle": "冥談",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "first-person",
+      "dark-atmosphere",
+      "fear",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "怪谈短篇集，各篇独立。作者写的多是「听来的一件事」：朋友的朋友、亲戚的邻居，而讲述者自己也不确定该不该信。怪异之处在于听完之后你会想去核实。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 346,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26451417/",
+        "subjectId": "26451417",
+        "edition": "冥谈 2015",
+        "fetchedAt": "2026-09-22T12:19:46.417Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极夏彦怪谈作品的读者",
+        "喜欢第一人称怪谈的读者"
+      ],
+      "watchFor": [
+        "每篇的讲述层次",
+        "故事在转述中变化的部分",
+        "结尾那句「也不知道是不是真的」"
+      ],
+      "warning": "怪谈短篇集，各篇独立，氛围阴翳，无血腥场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：沈阳:,万卷出版公司:,2015.08（冥谈／(日) 京极夏彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "md55-015",
+    "title": "数不清的井",
+    "originalTitle": "数えずの井戸",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "historical-setting",
+      "dark-atmosphere",
+      "fear",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "怪谈短篇集，取材于各地关于井的旧说。井在日本旧话里常是通到别处去的口子，而作者关心的不是井里有什么，是谁第一个把这件事讲给别人听。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 183,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26751721/",
+        "subjectId": "26751721",
+        "edition": "数不清的井 2016",
+        "fetchedAt": "2026-09-22T12:19:49.770Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对日本民俗怪谈感兴趣的读者",
+        "京极夏彦的读者"
+      ],
+      "watchFor": [
+        "每则旧说的流传路径",
+        "当地对同一种说法的变体",
+        "讲述者与那口井的关系"
+      ],
+      "warning": "怪谈短篇集，各篇独立，含民俗考据，基调阴翳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：沈阳:,万卷出版公司:,2016.05（数不清的井／(日) 京极夏彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "md55-016",
+    "title": "幽谈",
+    "originalTitle": "幽談",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "first-person",
+      "dark-atmosphere",
+      "fear",
+      "unreliable-narrator",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "怪谈短篇集，各篇独立。这一批的特点是第一人称叙述者本身也在故事里：他既是听的人，也是那件事的一部分，而他讲的时候未必意识到了这一点。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 284,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26587803/",
+        "subjectId": "26587803",
+        "edition": "幽谈 2015",
+        "fetchedAt": "2026-09-22T12:19:54.669Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极夏彦怪谈作品的读者",
+        "喜欢不可靠叙述的读者"
+      ],
+      "watchFor": [
+        "叙述者在事件里的位置",
+        "他描述自己时的措辞",
+        "结尾处他没有解释的动作"
+      ],
+      "warning": "怪谈短篇集，各篇独立，氛围阴翳，含心理压迫描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：沈阳:,万卷出版公司:,2015（幽谈／(日) 京极夏彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-55-masters-depth.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  }
+]

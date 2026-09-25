@@ -1,0 +1,16 @@
+[
+  {
+    "title": "无面杀手",
+    "alternateTitles": [
+      "无脸杀手"
+    ],
+    "author": "亨宁·曼凯尔",
+    "keep": "batch-65-jp-audit3.json#westaudit65-001",
+    "drop": [
+      "batch-11-modern-crime.json#modern2-004（无脸杀手）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 10,
+    "schoolAfter": 3
+  }
+]

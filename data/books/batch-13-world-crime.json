@@ -1,0 +1,1399 @@
+[
+  {
+    "id": "world-001",
+    "title": "杀人者的记忆法",
+    "originalTitle": "살인자의 기억법",
+    "author": "金英夏",
+    "authorEn": "Kim Young-ha",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "",
+    "detective": "金炳秀（第一人称叙述者）",
+    "country": "韩国",
+    "tags": [
+      "unreliable-narrator",
+      "first-person",
+      "diary-form",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "obsession",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "记忆正在消退的男子用笔记与录音记录生活，他一边对抗遗忘，一边警觉地注视着女儿身边新出现的人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述者与记忆主题的读者",
+        "偏好心理悬疑而非纯解谜的读者"
+      ],
+      "watchFor": [
+        "叙述者记录的可靠程度",
+        "笔记与录音出现的时间顺序",
+        "叙述者对身边人物态度的变化"
+      ],
+      "warning": "本书以第一人称手记式叙述推进，建议留意叙述者记忆中的空白处。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（韩文原版信息未能在本机联网核验）"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-002",
+    "title": "七年之夜",
+    "originalTitle": "7년의 밤",
+    "author": "丁柚井",
+    "authorEn": "You-Jeong Jeong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "dual-line",
+      "psychological-misdirection",
+      "red-herring",
+      "revenge",
+      "concealment",
+      "fear",
+      "countryside",
+      "dark-atmosphere",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "七年前的一个雨夜，水库边的一场事故改变了两家人的命运；七年之后，一个年轻人被迫面对往事的余波。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.4,
+        "count": 40,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26388771/",
+        "subjectId": "26388771",
+        "edition": "七年之夜 2015",
+        "fetchedAt": "2026-09-20T14:24:40.813Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家庭悲剧与罪责主题的读者",
+        "关注韩国当代犯罪小说的读者"
+      ],
+      "watchFor": [
+        "两条时间线之间的对应关系",
+        "不同人物对同一夜的讲述差异",
+        "事件之后两家人各自的处境"
+      ],
+      "warning": "本书在七年前与现在之间交替叙述，建议留意章节标注的时间与地点。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（中文版条目曾于豆瓣核对）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：天津:,天津人民出版社:,2015.06（七年之夜／(韩) 丁柚井著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "world-003",
+    "title": "向我的心脏开枪",
+    "originalTitle": "내 심장을 쏴라",
+    "author": "丁柚井",
+    "authorEn": "You-Jeong Jeong",
+    "genre": "青春推理",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "hospital",
+      "psychological-misdirection",
+      "red-herring",
+      "identity",
+      "youth",
+      "fear",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一个年轻人在精神病院里醒来，与同院的一个同龄人结伴；两人都背负着不愿提起的过去，并开始筹划离开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以医疗场所为舞台的读者",
+        "偏好青春成长与悬疑交织的读者"
+      ],
+      "watchFor": [
+        "医院里各人对自身经历的说法",
+        "两位主角彼此了解的深浅",
+        "院区的空间结构与出入限制"
+      ],
+      "warning": "本书以精神病院为主要舞台，涉及自杀与心理创伤议题，阅读时请留意情绪承受度。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（韩文原版信息未能在本机联网核验）"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-004",
+    "title": "物种起源",
+    "originalTitle": "종의 기원",
+    "author": "丁柚井",
+    "authorEn": "You-Jeong Jeong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "fear",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一个年轻人醒来时发现家里出了事，而他对前一晚毫无记忆；他一边拼凑经过，一边对外维持着平常的样子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 1541,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1071384/",
+        "subjectId": "1071384",
+        "edition": "物种起源 1995",
+        "fetchedAt": "2026-09-20T14:24:51.672Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述者与记忆迷局的读者",
+        "偏好家庭内部心理悬疑的读者"
+      ],
+      "watchFor": [
+        "叙述者对自己身体状况的描述",
+        "他对家人与医生的说法",
+        "记忆空白前后的时间线"
+      ],
+      "warning": "本书以第一人称叙述，主角的记忆存在空白，建议留意他叙述中的用词变化。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（韩文原版信息未能在本机联网核验）"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-005",
+    "title": "设计师们",
+    "originalTitle": "설계자들",
+    "author": "金彦秀",
+    "authorEn": "Kim Un-su",
+    "genre": "硬汉派",
+    "firstPublished": "2010",
+    "series": "",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "city",
+      "dark-atmosphere",
+      "concealment",
+      "silencing",
+      "red-herring",
+      "obsession"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "在一座由组织分配任务的城市里，一名职业杀手按规矩过活，直到一连串意外让他开始怀疑自己的处境。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢冷硬 noir 气质的读者",
+        "偏好以职业杀手视角展开的读者"
+      ],
+      "watchFor": [
+        "组织内部的层级与行事规矩",
+        "委托任务的来龙去脉",
+        "主角身边人物立场的变化"
+      ],
+      "warning": "本书为冷硬派犯罪小说，含较多暴力与杀戮场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（韩文原版信息未能在本机联网核验）"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-006",
+    "title": "夜行者",
+    "originalTitle": "밤의 여행자들",
+    "author": "尹高恩",
+    "authorEn": "Yun Ko-eun",
+    "genre": "冒险悬疑",
+    "firstPublished": "2019",
+    "series": "",
+    "detective": "",
+    "country": "韩国",
+    "tags": [
+      "adventure",
+      "isolated-island",
+      "social-commentary",
+      "red-herring",
+      "concealment",
+      "curiosity",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "adventure-school",
+      "social-school"
+    ],
+    "safeSummary": "一名旅行社职员被派去考察一条设在偏远岛屿上的「灾难旅游」线路，岛上的一切很快偏离了行程表。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会讽刺与悬疑结合的读者",
+        "偏好异国岛屿舞台的读者"
+      ],
+      "watchFor": [
+        "旅行社行程安排与实际经历的落差",
+        "岛上居民与外来者之间的关系",
+        "主角对雇主信任程度的变化"
+      ],
+      "warning": "本书以黑色幽默的笔调处理灾难与旅游产业议题，基调略带不适感。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（韩文原版信息未能在本机联网核验）",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2025（馆藏题名「夜行者」／尹高恩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "world-007",
+    "title": "第七重解答",
+    "originalTitle": "La Septième Hypothèse",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "1991",
+    "series": "",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "historical-setting",
+      "city",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "1938年的伦敦，几位当事人聚在一起复盘一桩看似不可能发生的案件；围绕着它，不同的解释被逐一提出。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 9622,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4140380/",
+        "subjectId": "4140380",
+        "edition": "第七重解答 2010",
+        "fetchedAt": "2026-09-20T14:25:02.994Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多重解答结构的读者",
+        "偏爱英式古典不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "每位讲述者提供信息的来源",
+        "各个版本推论之间的差异",
+        "案件发生时在场人物的位置"
+      ],
+      "warning": "本书以多人轮流提出推论的方式展开，建议留意各个版本的相同与不同之处。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,文汇出版社:,2024（第七重解答／(法) 保罗·霍尔特著 PAUL HALTER）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "world-008",
+    "title": "灰姑娘的陷阱",
+    "originalTitle": "Piège pour Cendrillon",
+    "author": "塞巴斯蒂安·雅普瑞索",
+    "authorEn": "Sébastien Japrisot",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1962",
+    "series": "",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "red-herring",
+      "identity",
+      "hospital",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一场大火之后，一个年轻女子从昏迷中醒来，失去了记忆；她必须弄清自己究竟是这户人家的哪一个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 126,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25858074/",
+        "subjectId": "25858074",
+        "edition": "灰姑娘的陷阱 2014",
+        "fetchedAt": "2026-09-20T14:25:08.954Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢身份谜题与心理悬疑的读者",
+        "偏爱法式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "叙述者推断自身身份的依据",
+        "周围人对她态度与称呼的变化",
+        "同一件事在不同章节中的说法"
+      ],
+      "warning": "本书围绕记忆与身份展开，建议留意叙述者获取信息的渠道。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2014（馆藏题名「灰姑娘的陷阱」／雅普瑞索）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "world-009",
+    "title": "她不是我妈妈",
+    "originalTitle": "Maman a tort",
+    "author": "米歇尔·普西",
+    "authorEn": "Michel Bussi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "identity",
+      "concealment",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "三岁的男孩在幼儿园里反复说，来接他的妈妈不是他的妈妈；这句话引来了一场追查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理悬疑与家庭谜题的读者",
+        "偏好法式悬疑节奏的读者"
+      ],
+      "watchFor": [
+        "孩子的说法在不同场合的版本",
+        "大人的证词与书面记录之间的出入",
+        "孩子身边成年人的关系"
+      ],
+      "warning": "本书以幼儿的一句话为起点展开，涉及家庭与身份的议题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2018（她不是我妈妈／(法) 米歇尔·普西著 MICHEL BUSSI）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "world-010",
+    "title": "罪行",
+    "originalTitle": "Verbrechen",
+    "author": "费迪南德·冯·席拉赫",
+    "authorEn": "Ferdinand von Schirach",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "first-person",
+      "social-commentary",
+      "city",
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school"
+    ],
+    "safeSummary": "一位辩护律师讲述自己经手过的案件：当事人看上去与罪行并不相称，而每个案子都在某个瞬间偏离了常理。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 4096,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6967983/",
+        "subjectId": "6967983",
+        "edition": "罪行 2012",
+        "fetchedAt": "2026-09-20T14:25:17.704Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇犯罪故事的读者",
+        "对刑事司法与人性议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "律师叙述时选择保留的部分",
+        "判决结果与当事人处境之间的关系",
+        "案中前后说法不一致之处"
+      ],
+      "warning": "本书为短篇集，故事取材于真实案件，基调冷静克制。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-011",
+    "title": "女药剂师",
+    "originalTitle": "Die Apothekerin",
+    "author": "英格丽特·诺尔",
+    "authorEn": "Ingrid Noll",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1994",
+    "series": "",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "passion",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一位三十多岁的女药剂师，生活看上去波澜不惊；直到一个男人出现，她周围的一切开始失去平衡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 74,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26836300/",
+        "subjectId": "26836300",
+        "edition": "女药剂师 2016",
+        "fetchedAt": "2026-09-20T14:25:21.233Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢女性视角犯罪小说的读者",
+        "偏好黑色幽默与冷静叙述的读者"
+      ],
+      "watchFor": [
+        "叙述者对自己行为的解释",
+        "她与身边人关系的变化",
+        "她叙述中省略的部分"
+      ],
+      "warning": "本书以第一人称冷静叙述，主角的道德判断与常人不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,作家出版社:,2016.08（女药剂师／(德) 英格丽特·诺尔著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "world-012",
+    "title": "法官和他的刽子手",
+    "originalTitle": "Der Richter und sein Henker",
+    "author": "弗里德里希·迪伦马特",
+    "authorEn": "Friedrich Dürrenmatt",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1950",
+    "series": "",
+    "detective": "贝尔拉赫（伯尔尼老探长）",
+    "country": "瑞士",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "obsession",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "身患重病的老探长在伯尔尼追查同事被枪杀的案子，而他这一生的宿敌似乎始终在暗处旁观。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 731,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1084794/",
+        "subjectId": "1084794",
+        "edition": "法官和他的刽子手 2004",
+        "fetchedAt": "2026-09-20T14:25:26.559Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢德语区经典犯罪小说的读者",
+        "偏好智斗与哲理性对白的读者"
+      ],
+      "watchFor": [
+        "老探长与旧日对手多年的往来",
+        "遇害同事生前正在查的事",
+        "各人物在案发时段的行踪"
+      ],
+      "warning": "本书篇幅不长，对白带有哲理性，节奏偏冷，建议一次读完。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-013",
+    "title": "玫瑰的名字",
+    "originalTitle": "Il nome della rosa",
+    "author": "翁贝托·埃科",
+    "authorEn": "Umberto Eco",
+    "genre": "历史推理",
+    "firstPublished": "1980",
+    "series": "",
+    "detective": "威廉修士",
+    "country": "意大利",
+    "tags": [
+      "locked-room",
+      "cipher",
+      "red-herring",
+      "historical-setting",
+      "hospital",
+      "legend-folklore",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "logic-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "十四世纪的一座修道院里接连有人离奇死去，前来参加辩论的修士受托查清缘由。而藏书楼本身就是一座不许外人进入的迷宫。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 10705,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3836566/",
+        "subjectId": "3836566",
+        "edition": "玫瑰的名字 2010",
+        "fetchedAt": "2026-09-20T14:25:34.373Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢知识与符号谜题的读者",
+        "偏好中世纪修道院舞台的读者"
+      ],
+      "watchFor": [
+        "藏书楼的空间结构与通行限制",
+        "不同教派立场对同一文本的解读差异"
+      ],
+      "warning": "本书含大量中世纪神学与符号学讨论，建议以历史推理的期待阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-014",
+    "title": "水的形状",
+    "originalTitle": "La forma dell'acqua",
+    "author": "安德烈亚·卡米莱里",
+    "authorEn": "Andrea Camilleri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1994",
+    "series": "蒙塔尔巴诺警长系列",
+    "detective": "萨尔沃·蒙塔尔巴诺",
+    "country": "意大利",
+    "tags": [
+      "series-detective",
+      "social-commentary",
+      "red-herring",
+      "psychological-misdirection",
+      "concealment",
+      "gain",
+      "countryside"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "西西里的一座海滨小城，一位政界人物被发现死在停于郊外的汽车里；接手案子的警长觉得现场过于妥帖。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 42,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30194662/",
+        "subjectId": "30194662",
+        "edition": "水的形状 2018",
+        "fetchedAt": "2026-09-20T14:25:37.594Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢意大利警探系列的读者",
+        "偏好地方风情与世故人情的读者"
+      ],
+      "watchFor": [
+        "死者生前的行程与关系网",
+        "当地政商之间的人情往来",
+        "官方结论与现场细节的差距"
+      ],
+      "warning": "本书为系列首作，含西西里方言色彩的对白与大量饮食描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新华出版社 2018（馆藏题名「水的形状」／卡米莱里）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "world-015",
+    "title": "风之影",
+    "originalTitle": "La sombra del viento",
+    "author": "卡洛斯·鲁依斯·萨丰",
+    "authorEn": "Carlos Ruiz Zafón",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2001",
+    "series": "遗忘书之墓四部曲",
+    "detective": "达涅尔·森普雷",
+    "country": "西班牙",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "obsession",
+      "identity",
+      "concealment",
+      "historical-setting",
+      "city",
+      "dark-atmosphere",
+      "meta-fiction",
+      "legend-folklore"
+    ],
+    "school": [
+      "meta-school",
+      "adventure-school"
+    ],
+    "safeSummary": "战后巴塞罗那，一个男孩从「遗忘书之墓」带走一本书，并开始寻找那位消失的作者；有人却在逐一销毁他的作品。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 10648,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1917078/",
+        "subjectId": "1917078",
+        "edition": "风之影 2006",
+        "fetchedAt": "2026-09-20T14:25:42.652Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢书籍与图书馆题材悬疑的读者",
+        "偏好战后巴塞罗那氛围的读者"
+      ],
+      "watchFor": [
+        "男孩追查作者生平的线索来源",
+        "书中书与现实中人物的对应关系",
+        "各人物讲述往事时的立场"
+      ],
+      "warning": "本书为四部曲的第一部，篇幅较长，基调忧郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据豆瓣条目元数据与公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-016",
+    "title": "死亡与指南针",
+    "originalTitle": "La muerte y la brújula",
+    "author": "豪尔赫·路易斯·博尔赫斯",
+    "authorEn": "Jorge Luis Borges",
+    "genre": "本格推理",
+    "firstPublished": "1942",
+    "series": "《杜撰集》收录短篇",
+    "detective": "埃里克·伦罗特",
+    "country": "阿根廷",
+    "tags": [
+      "nursery-rhyme",
+      "cipher",
+      "red-herring",
+      "meta-fiction",
+      "obsession",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "一名侦探被一连串按某种秩序发生的命案牵引，死者的名字与地点似乎构成一个可以推算的序列。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢符号与序列谜题的读者",
+        "偏好短篇推理与后设趣味的读者"
+      ],
+      "watchFor": [
+        "命案发生地点与日期之间的关系",
+        "死者姓名的拼写与称谓",
+        "侦探自己选择的推理路径"
+      ],
+      "warning": "本篇为短篇小说，收录于博尔赫斯的小说集中，同书另有非推理篇目。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理（单篇无独立中文单行本，收录于《杜撰集》）"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "本批次所有平台评分均留空（score/count/asOf 全为 null），等待脚本抓取豆瓣公开评分后覆盖；虎扑与 Goodreads 无可靠公开数据，一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "world-017",
+    "title": "罪与罚",
+    "originalTitle": "Преступление и наказание",
+    "author": "费奥多尔·陀思妥耶夫斯基",
+    "authorEn": "Fyodor Dostoevsky",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1866",
+    "series": "",
+    "detective": "波尔费利·彼得罗维奇（预审官）",
+    "country": "俄罗斯",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "social-commentary",
+      "obsession",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "十九世纪彼得堡的酷暑里，一名退学的大学生与一位预审官之间展开了漫长的心理周旋；一桩凶案的阴影笼罩全城。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 9.3,
+        "count": 42189,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1858568/",
+        "subjectId": "1858568",
+        "edition": "罪与罚 2006",
+        "fetchedAt": "2026-09-20T15:21:39.149Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理博弈与长篇内心独白的读者",
+        "关注社会底层处境的读者"
+      ],
+      "watchFor": [
+        "预审官与当事人对话时的措辞",
+        "主角独白中的自我辩解",
+        "旁人转述与事实之间的落差"
+      ],
+      "warning": "本书为十九世纪俄国长篇经典，心理描写与哲学议论比重很大，推理元素较弱。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-13-world-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

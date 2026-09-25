@@ -1,0 +1,499 @@
+[
+  {
+    "id": "westaudit69-001",
+    "title": "梅森探案集·移花接木·别墅疑云",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "concealment",
+      "gain"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森探案集的一卷合订本，收录《移花接木》与《别墅疑云》两桩案子。主角是辩护律师佩里·梅森，故事在事务所与法庭之间推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 199,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1080295/",
+        "subjectId": "1080295",
+        "edition": "梅森探案集  移花接木  别墅疑云 2003",
+        "fetchedAt": "2026-09-22T14:58:05.569Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "当事人交代与事实的落差",
+        "梅森在庭上先确认的那件事",
+        "两桩案子各自的证据链"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写。豆瓣条目只给出系列通用介绍、没有分册梗概，故本条梗概只描述收录篇目与系列定位，不代拟情节；原作名亦无从核实，留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2003 年版，群众出版社梅森探案集系列）；该条目无分册内容简介，梗概仅陈述收录篇目与系列定位"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit69-002",
+    "title": "梅森探案集·金矿之迷·溺鸭案件",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "gain",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森探案集的一卷合订本，收录《金矿之迷》与《溺鸭案件》两桩案子。主角是辩护律师佩里·梅森，故事在事务所与法庭之间推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 156,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1037226/",
+        "subjectId": "1037226",
+        "edition": "梅森探案集  金矿之迷  溺鸭案件 2001",
+        "fetchedAt": "2026-09-22T14:58:10.141Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "两桩案子里各人给出的时间点",
+        "梅森对证人的提问顺序",
+        "看似无关的物证如何被用上"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写。豆瓣条目只给出系列通用介绍、没有分册梗概，故本条梗概只描述收录篇目与系列定位，不代拟情节；原作名亦无从核实，留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2001 年版，群众出版社梅森探案集系列）；该条目无分册内容简介，梗概仅陈述收录篇目与系列定位"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit69-003",
+    "title": "梅森探案集·大猩猩杀人案·孪生女",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "dual-role",
+      "identity",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森探案集的一卷合订本，收录《大猩猩杀人案》与《孪生女》两桩案子。主角是辩护律师佩里·梅森，故事在事务所与法庭之间推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 104,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1004679/",
+        "subjectId": "1004679",
+        "edition": "梅森探案集  大猩猩杀人案  孪生女 2003",
+        "fetchedAt": "2026-09-22T14:58:14.463Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "两个长相相近的人各自的证词",
+        "梅森为什么反复确认身份",
+        "案发时间与不在场证明"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写。豆瓣条目只给出系列通用介绍、没有分册梗概，故本条梗概只描述收录篇目与系列定位，不代拟情节；原作名亦无从核实，留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2003 年版，群众出版社梅森探案集系列）；该条目无分册内容简介，梗概仅陈述收录篇目与系列定位"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit69-004",
+    "title": "梅森探案集·漂亮的女招待·逃尸案",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "faceless-corpse",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森探案集的一卷合订本，收录《漂亮的女招待》与《逃尸案》两桩案子。主角是辩护律师佩里·梅森，故事在事务所与法庭之间推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 92,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1016766/",
+        "subjectId": "1016766",
+        "edition": "梅森探案集  漂亮的女招待  逃尸案 2001",
+        "fetchedAt": "2026-09-22T14:58:18.941Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "尸体身份的确认依据",
+        "梅森对物证的处置",
+        "证词之间对不上的细节"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写。豆瓣条目只给出系列通用介绍、没有分册梗概，故本条梗概只描述收录篇目与系列定位，不代拟情节；原作名亦无从核实，留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2001 年版，群众出版社梅森探案集系列）；该条目无分册内容简介，梗概仅陈述收录篇目与系列定位"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit69-005",
+    "title": "伪造的眼睛·倾斜的蜡烛",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森探案集的一卷合订本，收录《伪造的眼睛》与《倾斜的蜡烛》两桩案子。主角是辩护律师佩里·梅森，故事在事务所与法庭之间推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 20,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1220067/",
+        "subjectId": "1220067",
+        "edition": "伪造的眼睛・倾斜的蜡烛 2005",
+        "fetchedAt": "2026-09-22T14:58:23.268Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "被伪造的那件东西究竟骗过了谁",
+        "现场物品的摆放",
+        "梅森与警方判断分歧的地方"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写。豆瓣条目只给出系列通用介绍、没有分册梗概，故本条梗概只描述收录篇目与系列定位，不代拟情节；原作名亦无从核实，留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2005 年版，群众出版社梅森探案集系列）；该条目无分册内容简介，梗概仅陈述收录篇目与系列定位",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 2005（馆藏题名「伪造的眼睛 倾斜的蜡烛」／加德纳）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2005"
+  },
+  {
+    "id": "jpaudit69-001",
+    "title": "恶灵公馆",
+    "originalTitle": "悪霊公館",
+    "author": "二阶堂黎人",
+    "authorEn": "Nikaido Reito",
+    "genre": "新本格",
+    "firstPublished": "1996",
+    "series": "二阶堂兰子系列",
+    "detective": "二阶堂兰子",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "legend-folklore",
+      "red-herring",
+      "ensemble",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一幢仿英国风格的大宅里出现了以魔法阵为标记的命案：中世纪的骑士铠甲、传说中的女幽灵、几度转生的魔女，同时出现在这个家族之中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 631,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3130288/",
+        "subjectId": "3130288",
+        "edition": "惡靈公館 2008",
+        "fetchedAt": "2026-09-22T14:58:27.924Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格与「馆」题材读者",
+        "二阶堂黎人的读者"
+      ],
+      "watchFor": [
+        "家族成员各自的立场与继承顺位",
+        "宅第的建筑结构",
+        "出现在现场的那些「不该存在」的东西"
+      ],
+      "warning": "新本格长篇，篇幅可观，含魔法阵、黑弥撒等怪奇元素与凶案描写。中文版为繁体版，书名按通行写法转为简体，原版题名见 originalTitle。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2008 年繁体中文版）；首版年据作者创作年表核实为 1996 年，梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-69-audit5.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

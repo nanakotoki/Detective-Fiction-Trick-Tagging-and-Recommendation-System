@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "opac102-001",
+    "title": "不可以",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "concealment",
+      "fear",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "一场连环车祸发生在隧道里，肇事司机逃逸，只留下狼藉的案发现场。全书由几个短篇连缀成一部长篇推理小说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "短篇连作结构的爱好者"
+      ],
+      "watchFor": [
+        "隧道车祸的现场",
+        "每一篇的叙述视角",
+        "几篇之间对得上的细节"
+      ],
+      "warning": "推理长篇（短篇连作），含车祸与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000895152**（四川文艺出版社 2021.7，译者吕灵芝）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**明写「这是一本由短篇故事组成的**长篇推理小说**」，并注明系「2019 年『这本**推理小说**了不起』榜单热门推荐作品」。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。**题材判读来源说明**：本轮豆瓣返回 `HTTP 403 登录跳转页`，本条书目、判据与梗概依据**全部来自馆藏著录**，评分待访问恢复后回填。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "opac102-002",
+    "title": "杀意的临界点",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "fear",
+      "revenge",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "为了保护女儿，藤原隐瞒了十五年前妻子死亡的真相。一通勒索电话却要毁掉父女二人平静的生活；他带着女儿逃回阔别已久的故乡，那里又压着三十年前母亲遇害案的阴影。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "家族悬疑的爱好者"
+      ],
+      "watchFor": [
+        "十五年前那件事",
+        "勒索电话的来路",
+        "三十年前母亲遇害案的旧卷"
+      ],
+      "warning": "推理长篇，含凶案、勒索与家庭题材描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000991063**（北京日报出版社 2023.11，译者李晓光）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及两代人的两桩命案与一通勒索电话。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac102-003",
+    "title": "骗子家族",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "red-herring",
+      "gain",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "五个身怀绝技的骗子被迫住到了同一个屋檐下。他们看似家人般关系和谐，但每个人都藏着不为人知的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "道尾秀介的读者",
+        "群像与诈骗题材的爱好者"
+      ],
+      "watchFor": [
+        "五个人各自的本事",
+        "他们为何住到一起",
+        "每个人瞒着的那件事"
+      ],
+      "warning": "推理长篇，诈骗题材，含欺诈与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000957687**（海南出版社 2023.7，译者丁丁虫）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及五个骗子同住一个屋檐、各藏秘密。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac102-004",
+    "title": "喜鹊的四季",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "red-herring",
+      "curiosity",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一家名为「喜鹊」的旧货店，三个看似不靠谱的店员。发生在春、夏、秋、冬的四个故事——《鹊之桥》《蝉之川》《南之绊》《橘之寺》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "温暖日常推理的爱好者",
+        "道尾秀介的读者"
+      ],
+      "watchFor": [
+        "旧货店里经手的物件",
+        "四季四篇的呼应",
+        "三个店员各自的来历"
+      ],
+      "warning": "推理短篇集（四篇），基调温暖，含轻微悬念与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000224005**（新星出版社 2012.11，译者潘璐）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「四篇精致**推理**故事温暖人心。最难解的谜题，是亲情」，并列出《鹊之桥》《蝉之川》《南之绊》《橘之寺》四篇篇名。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "opac102-005",
+    "title": "跳舞的小丑",
+    "originalTitle": "",
+    "author": "北山猛邦",
+    "authorEn": "Kitayama Takekuni",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "curiosity",
+      "narrative-trick"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "收录五个棘手案件：杀人现场散落大量扑克牌的密室凶杀、看不见的临终留言、千金小姐招女婿的堆雪人比赛上发生的不可能犯罪等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北山猛邦的读者",
+        "不可能犯罪爱好者"
+      ],
+      "watchFor": [
+        "现场那些扑克牌的排列",
+        "临终留言为何「看不见」",
+        "堆雪人比赛的规则"
+      ],
+      "warning": "本格推理短篇集（五篇），含密室凶杀与不可能犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001087427**（人民文学出版社 2025，译者徐嘉悦）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**列出五个案件，均为**密室**、**不可能犯罪**类谜面。梗概由整理者据此自行重写。**侦探字段留空**：本册提要未点明主角（同作者的另两册提要为「白濑与音野顺」搭档，但本册未述及，故不代为认定）。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac102-006",
+    "title": "从密室里救出黑猫的方法",
+    "originalTitle": "",
+    "author": "北山猛邦",
+    "authorEn": "Kitayama Takekuni",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "白濑与音野顺系列",
+    "detective": "白濑、音野顺",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "red-herring",
+      "curiosity",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "收录五个短篇。主角白濑是一位推理作家，他为懦弱的好友音野顺开了一家侦探事务所。一个完美密室里突然闯入一位不速之客——黑猫，犯人得从密室里把它找出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北山猛邦的读者",
+        "密室题材爱好者"
+      ],
+      "watchFor": [
+        "黑猫是怎么进去的",
+        "完美密室的判定条件",
+        "白濑与音野顺的分工"
+      ],
+      "warning": "本格推理短篇集（五篇），含密室与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001087426**（人民文学出版社 2025，译者徐嘉悦）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「收录了日本当代**推理**名家北山猛邦的五个短篇小说」，主角白濑是**推理作家**、为好友音野顺开了**侦探事务所**。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac102-007",
+    "title": "天空之船",
+    "originalTitle": "",
+    "author": "北山猛邦",
+    "authorEn": "Kitayama Takekuni",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "白濑与音野顺系列",
+    "detective": "白濑、音野顺",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "curiosity",
+      "multiple-solutions",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "收录五个推理短篇。主角白濑是一位推理作家，他为懦弱的好友音野顺开了一家侦探事务所。自称怪盗麦哲伦的人物寄来了一封信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北山猛邦的读者",
+        "轻快本格短篇的爱好者"
+      ],
+      "watchFor": [
+        "怪盗麦哲伦那封信的内容",
+        "事务所接下的几桩委托",
+        "白濑与音野顺的互动"
+      ],
+      "warning": "本格推理短篇集（五篇），风格轻快幽默，含盗窃与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001081763**（人民文学出版社 2025.09，译者徐奕）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「收录了……五个**推理**短篇小说……风格依然是可爱幽默的**本格推理**短篇」，主角白濑为**推理作家**、为好友音野顺开了**侦探事务所**。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac102-008",
+    "title": "清扫逝者房间的人",
+    "originalTitle": "",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "香澄",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "red-herring",
+      "concealment",
+      "curiosity",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "香澄阴差阳错地入职了一家号称从事「特殊清扫」的公司——他们要清扫的是曾陈放腐烂尸体的房间。她克服恐惧一次次走进逝者房间，却撞破了逝者生前没有说出口的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中山七里的读者",
+        "特殊行业题材的爱好者"
+      ],
+      "watchFor": [
+        "每间逝者房间留下的痕迹",
+        "香澄撞破的那些秘密",
+        "「特殊清扫」这门生意的规矩"
+      ],
+      "warning": "推理长篇，含尸体、腐败与死亡描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000996806**（文汇出版社 2024，译者百里）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及「特殊清扫」公司、主角一次次走进逝者房间并撞破秘密。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "opac102-009",
+    "title": "界线游戏",
+    "originalTitle": "",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "笘筱",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "identity",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "两个月，两具尸体，两部消失的手机。海岸边发现一具女尸，证件显示她叫笘筱奈津美——正是刑警笘筱失踪多年的妻子。他怀着疑问赶往现场，看到的却是另一番景象。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "警察程序题材的读者",
+        "中山七里的读者"
+      ],
+      "watchFor": [
+        "两部手机去了哪里",
+        "死者证件的疑点",
+        "笘筱自己的立场"
+      ],
+      "warning": "推理长篇，含凶案与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000990334**（台海出版社 2023.9，译者刘姿君）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及「两具尸体、两部消失的手机」与刑警笘筱接到失踪多年妻子的死讯。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac102-010",
+    "title": "那些得不到保护的人",
+    "originalTitle": "",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "笘篠诚一郎、莲田智彦",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "social-commentary",
+      "revenge",
+      "red-herring",
+      "vigilante"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "东日本大地震发生十年后，仙台地区发生连续杀人事件：两位官员被捆绑起来活活饿死。这种仿佛在惩罚犯人的犯罪行为，立刻引起警方的高度重视。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "中山七里的读者"
+      ],
+      "watchFor": [
+        "两名被害者的共同点",
+        "震后十年的社会背景",
+        "「惩罚」这个动机的来处"
+      ],
+      "warning": "社会派推理长篇，含连续凶案与灾害背景，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000990348**（台海出版社 2023.7，译者刘姿君）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及东日本大地震十年后的连续杀人事件与两名被害官员。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac102-011",
+    "title": "希波克拉底的誓言",
+    "originalTitle": "",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "光崎教授",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "multiple-solutions"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "五个看似并不复杂的案子背后，都隐藏着被误导的真相。实习女医生与传奇法医联手，用解剖技术还原尸体的死因，揭开藏在尸体背后的真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的爱好者",
+        "中山七里的读者"
+      ],
+      "watchFor": [
+        "每一个「被误导的真相」是怎么造的",
+        "光崎教授坚持的信念",
+        "实习女医生的成长"
+      ],
+      "warning": "推理短篇连作（五案），含尸体解剖与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000925612**（中国工人出版社 2022.7，译者周天艺）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**明写「五个看似并不复杂的案子背后，都隐藏了**被误导的真相**……揭开隐藏在尸体背后的真相」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "opac102-012",
+    "title": "怪奇小店",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "multiple-solutions",
+      "curiosity",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "收录《古玩之魔》《「烛火堂」的飞来横祸》《砸碎橱窗》《涛声理发店》《怪奇小店》等推理小说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有栖川有栖的读者",
+        "短篇本格的爱好者"
+      ],
+      "watchFor": [
+        "每家小店里的那件东西",
+        "几篇之间的呼应",
+        "谜面里被忽略的细节"
+      ],
+      "warning": "推理短篇集，含凶案与盗窃描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000942995**（中国工人出版社 2023，译者郭跻）。**推理属性判据**：**学科主题「推理小说-日本-现代-作品集」**；该馆**编目提要**列出《古玩之魔》《「烛火堂」的飞来横祸》《砸碎橱窗》《涛声理发店》《怪奇小店》等篇并明写为「**推理小说**」。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac102-013",
+    "title": "黑暗旅馆",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "火村英生系列",
+    "detective": "火村英生",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "closed-circle",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "四个中短篇，案件分别发生在一家即将拆除的旅馆、南部岛屿上的度假酒店、冬季的温泉旅馆与东京市中心的豪华酒店——都与「旅馆」有关。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "封闭空间题材的爱好者"
+      ],
+      "watchFor": [
+        "四家旅馆各自的构造",
+        "火村英生的观察角度",
+        "每案里被忽略的一个人"
+      ],
+      "warning": "推理短篇集（四篇），含凶案与神秘事件描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000925597**（中国工人出版社 2022.10，译者郭跻）。**推理属性判据**：该馆**编目提要**述及四个与「旅馆」相关的神秘案件，并点明「**临床犯罪学者火村英生与推理**……」——提要含**推理**字样且主角为系列侦探。**诚实标注**：该条 opac **学科主题只著录「中篇小说-小说集-日本-现代」，未归入推理类**；本条判据依赖提要中的「推理」表述、系列侦探火村英生与作者身份（库内已有有栖川有栖 13 部）。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "opac102-014",
+    "title": "献给火村英生的犯罪",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "火村英生系列",
+    "detective": "火村英生",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "cipher",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "京都一位三十岁的美容师在家中被杀，现场景象怪异。没过多久，大阪府警方收到一封挑战书，上面写着「这是奉献给火村英生的犯罪」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "挑战书题材的爱好者"
+      ],
+      "watchFor": [
+        "死者现场的怪异之处",
+        "挑战书为什么寄给火村",
+        "那通打给作家的怪电话"
+      ],
+      "warning": "本格推理长篇，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000638938**（现代出版社 2018，译者李翔华）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及现场怪异的凶案与写着「这是奉献给火村英生的犯罪」的挑战书。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "opac102-015",
+    "title": "菩提树庄园事件簿",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "火村英生系列",
+    "detective": "火村英生",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "夜幕下的神户市郊外，一具男子的尸体头浸在池塘里。他的衬衫、长裤与背心全都漂浮在水面上，鞋子就放在尸体旁边。死者正是菩提树庄园的主人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "古典本格的爱好者"
+      ],
+      "watchFor": [
+        "尸体与衣物的位置关系",
+        "庄园主人的身份",
+        "现场被摆成这样的用意"
+      ],
+      "warning": "本格推理长篇，含凶案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000638426**（现代出版社 2018，译者李翔华）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**详述尸体与漂浮衣物的现场状态，死者为菩提树庄园主人。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "opac102-016",
+    "title": "岛中谜案",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "series-detective",
+      "identity",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "小岛上的银星宾馆里，长住的一位客人突然上吊身亡——是自杀还是他杀？随着有栖川与火村教授的调查，这位神秘客人隐藏了三十多年的身份被一点点揭开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "孤岛题材的爱好者"
+      ],
+      "watchFor": [
+        "死者隐藏三十多年的身份",
+        "宾馆里各人的证词",
+        "自杀与他杀的判断依据"
+      ],
+      "warning": "本格推理长篇，含上吊与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000712296**（中国工人出版社 2018，译者梁琼月）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及银星宾馆客人上吊身亡、「是自杀？还是他杀？」以及有栖川与火村教授的调查。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "opac102-017",
+    "title": "瑞士手表之谜",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "火村英生",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "locked-room",
+      "red-herring",
+      "multiple-solutions",
+      "campus"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "「国名系列」第七弹，由《某 Y 的悲剧》《女雕塑家的头颅》《夏洛克的密室》《瑞士手表之谜》四部作品构成。「社会思想研究会」是由六名优秀高中生组成的社团。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有栖川有栖「国名系列」的读者",
+        "高中生社团题材的爱好者"
+      ],
+      "watchFor": [
+        "社员们各自的性格",
+        "《夏洛克的密室》那一篇的密室条件",
+        "四篇之间的共同线索"
+      ],
+      "warning": "本格推理短篇集（四篇），含凶案与密室描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000306745**（上海译文出版社 2015.8，译者马惠）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写本册「乃『**国名系列**』第七弹，由……四部**推理作品**构成」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "opac102-018",
+    "title": "摩洛哥水晶之谜",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "火村英生",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "cipher",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "「国名系列」第八弹，由《副教授的赎金》《ABC 杀手》《推理对战》《摩洛哥水晶之谜》四则短篇组成。一个陌生男子突然昏倒在推理作家有栖川的面前。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有栖川有栖「国名系列」的读者",
+        "短篇本格的爱好者"
+      ],
+      "watchFor": [
+        "陌生男子为何昏倒",
+        "《ABC 杀手》那一篇的线索",
+        "四则短篇之间的照应"
+      ],
+      "warning": "本格推理短篇集（四篇），含毒杀与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000306742**（上海译文出版社 2015.8，译者果露怡）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写本册「是『**国名系列**』第八弹」，主角为「**推理作家**有栖川」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "opac102-019",
+    "title": "王妃的遇难船",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "identity",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "被称作「王妃」的三松妃沙子周围，总是聚集着一些俊美少年——他们经济困难却生活自由。一起神秘的杀人事件，线索渐渐触及到他们。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有栖川有栖的读者",
+        "古典本格的爱好者"
+      ],
+      "watchFor": [
+        "少年们从「王妃」那里谋取什么",
+        "那件「猿」字样的东西",
+        "杀人事件与他们的关联"
+      ],
+      "warning": "本格推理长篇，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000223035**（新星出版社 2012，译者张倩倩）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及「一起神秘的杀人事件线索渐渐触及到他们」。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-102-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  }
+]

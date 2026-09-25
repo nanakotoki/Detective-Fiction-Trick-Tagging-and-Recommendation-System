@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "gap119-001",
+    "title": "限时医院",
+    "originalTitle": "",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hospital",
+      "locked-space",
+      "fear",
+      "closed-circle"
+    ],
+    "school": [
+      "trick-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "醒来后，阿梓躺在医院的病床上，穿着浅蓝色、像浴衣一样的病号服。她下半身的情形让她意识到：自己并不只是病人。而这家医院另有规矩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "医疗题材推理的读者",
+        "知念实希人的读者"
+      ],
+      "watchFor": [
+        "病栋的出入规则",
+        "阿梓的记忆缺口",
+        "医护人员的说法"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、拘禁与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：知念实希人，百花文艺出版社 2021。**推理属性判据**：**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）。**补作者缺口**：作者库内已有 3 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。梗概据馆藏提要文摘重写。 **诡计类标签补充（第 72 轮）**：据上图编目提要「这些人开始尝试解开医院内的谜团，逃出这个密室」补标 closed-circle（整座医院被封为「密室」，属封闭空间（非单间密室，故记 closed-circle 而非 locked-room））。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "gap119-002",
+    "title": "血色天籁",
+    "originalTitle": "",
+    "author": "阿诺德·英德里达松",
+    "authorEn": "Arnaldur Indriðason",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "埃伦迪尔探长系列",
+    "detective": "埃伦迪尔",
+    "country": "冰岛",
+    "tags": [
+      "city",
+      "concealment",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "冰岛首都雷克雅未克的犯罪故事。本系列塑造的探长在冰岛的社会肌理中办案，一件件旧事被重新翻出。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧犯罪小说的读者",
+        "埃伦迪尔系列的读者"
+      ],
+      "watchFor": [
+        "雷克雅未克的城市细节",
+        "案件牵出的旧事",
+        "探长的办案节奏"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与暴力描写，基调冷峻。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：阿诺德·英德里达松，新华出版社 2017。**推理属性判据**：**题名主题为「侦探小说 冰岛 现代 ; 长篇小说 冰岛 现代」**（第①类）；馆藏提要写明「本系列是当代冰岛作家的**犯罪与侦探小说**系列」。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "gap119-003",
+    "title": "瓮城谜案",
+    "originalTitle": "",
+    "author": "阿诺德·英德里达松",
+    "authorEn": "Arnaldur Indriðason",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "埃伦迪尔探长系列",
+    "detective": "埃伦迪尔",
+    "country": "冰岛",
+    "tags": [
+      "concealment",
+      "city",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "地板上倒着一具尸体，身上放着一张字条，上面写着「我就是他」。探长埃伦迪尔在死者的书桌里找到了一张小女孩的坟墓照片。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧犯罪小说的读者",
+        "喜欢旧案与照片线索的读者"
+      ],
+      "watchFor": [
+        "字条上的那句话",
+        "小女孩坟墓照片的来历",
+        "死者这些年的行踪"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与旧案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：阿诺德·英德里达松，新华出版社 2017。**推理属性判据**：**题名主题为「侦探小说 冰岛 现代」**（第①类）；馆藏提要写明字条与坟墓照片的谜面。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "gap119-004",
+    "title": "暴怒",
+    "originalTitle": "",
+    "author": "阿诺德·英德里达松",
+    "authorEn": "Arnaldur Indriðason",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "埃伦迪尔探长系列",
+    "detective": "埃伦迪尔",
+    "country": "冰岛",
+    "tags": [
+      "city",
+      "obsession",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "埃伦迪尔探长系列的一部长篇：一桩看似寻常的案件，随着调查牵出冰岛社会深层的旧账。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧犯罪小说的读者",
+        "埃伦迪尔系列的读者"
+      ],
+      "watchFor": [
+        "案件的初始线索",
+        "涉案人员的旧关系",
+        "探长的个人处境"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：阿诺德·英德里达松，新华出版社 2017.4。**推理属性判据**：**题名主题为「侦探小说 冰岛 现代 ; 长篇小说 冰岛 现代」**（第①类）。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列与体裁层面概括，不虚构具体案情**。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "gap119-005",
+    "title": "罪夜",
+    "originalTitle": "",
+    "author": "阿诺德·英德里达松",
+    "authorEn": "Arnaldur Indriðason",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "埃伦迪尔探长系列",
+    "detective": "埃伦迪尔",
+    "country": "冰岛",
+    "tags": [
+      "city",
+      "concealment",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "矿坑池塘里发现了一具流浪汉的尸体。这是意外，还是另有隐情？一个又一个线索的发现，带来的却是一个又一个新谜团。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧犯罪小说的读者",
+        "喜欢社会派冷峻笔调的读者"
+      ],
+      "watchFor": [
+        "流浪汉的身份",
+        "地下室里的东西",
+        "线索之间的时间关系"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、贫困与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：阿诺德·英德里达松，新华出版社 2017。**推理属性判据**：**题名主题为「侦探小说 冰岛 现代 ; 长篇小说 冰岛 现代」**（第①类）；馆藏提要写明矿坑池塘尸体与接连出现的新谜团。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "gap119-006",
+    "title": "她的契约",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "authorEn": "Cai Jun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2026",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "diary-form",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "2024 年的上海布达佩斯公寓内，一部天才悬疑小说被发现；一份跨越二十年的契约签订，揭开了一座传奇老公寓八十年来的四起凶杀悬案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "蔡骏的读者",
+        "喜欢「书中书」与旧案结构的读者"
+      ],
+      "watchFor": [
+        "那部小说手稿的内容",
+        "契约的条款",
+        "公寓八十年间的住客"
+      ],
+      "warning": "犯罪悬疑长篇，含多起凶杀与都市传闻描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：蔡骏，江苏凤凰文艺出版社 2026.03。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明手稿、契约与四起悬案的嵌套结构。**补作者缺口**：作者蔡骏库内已有 49 部。**年份字段说明**：中文原创，`firstPublished` 记 2026，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap119-007",
+    "title": "一千万人的密室",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "authorEn": "Cai Jun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座千万人口的城市里发生了一起迷雾重重的密室谋杀案。要从一千万人的密室里找到凶手，只有一千万分之一的机会。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "蔡骏的读者"
+      ],
+      "watchFor": [
+        "「密室」在本书中的定义",
+        "凶手设置的诡计",
+        "城市尺度带来的搜查难度"
+      ],
+      "warning": "犯罪悬疑长篇，含密室谋杀与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：蔡骏，作家出版社有限公司 2023.3。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明「小说既有凶手设置的精妙诡计」。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap119-008",
+    "title": "隐身的复仇者",
+    "originalTitle": "",
+    "author": "芦边拓",
+    "authorEn": "Ashibe Taku",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（中篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "两个各自成章又隐秘交错的双面故事，包括《被审判的法官》与《非连环杀手》两篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "芦边拓的读者",
+        "喜欢双面结构的读者"
+      ],
+      "watchFor": [
+        "两个故事之间的呼应",
+        "各篇中「隐身」的含义",
+        "叙述者的立场"
+      ],
+      "warning": "本格推理中篇集，含命案与审判描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：芦边拓，海峡文艺出版社 2021（福州）。**推理属性判据**：**题名主题为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明两个故事「各自成章又隐秘交错」。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "gap119-009",
+    "title": "斯芬克斯之谜",
+    "originalTitle": "The Sphinx Mystery",
+    "author": "罗纳德·诺克斯",
+    "authorEn": "Ronald Knox",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "迈尔斯·布兰登上校系列",
+    "detective": "迈尔斯·布兰登",
+    "country": "英国",
+    "tags": [
+      "vanished-weapon",
+      "identity",
+      "gain"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "奈杰尔和德里克表兄弟两人在泰晤士河上旅行，不料德里克神秘失踪。他是否已被谋杀？与他争夺财产继承权的奈杰尔因此受到怀疑。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "罗纳德·诺克斯的读者"
+      ],
+      "watchFor": [
+        "河上旅行当天的经过",
+        "兄弟二人的财产关系",
+        "失踪者的随身物件"
+      ],
+      "warning": "本格推理长篇，含失踪与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：罗纳德·诺克斯，上海文艺出版社 2022.09。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明泰晤士河旅行与失踪的谜面。**补作者缺口**：作者库内已有 2 部（**库内拼写为「罗纳德·诺克斯」，本条沿用**）。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "gap119-010",
+    "title": "最后的郊狼",
+    "originalTitle": "The Last Coyote",
+    "author": "迈克尔·康奈利",
+    "authorEn": "Michael Connelly",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1995",
+    "series": "哈里·博斯系列",
+    "detective": "哈里·博斯",
+    "country": "美国",
+    "tags": [
+      "silencing",
+      "city",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "hardboiled-school",
+      "social-school"
+    ],
+    "safeSummary": "哈里·博斯系列的一部长篇：被停职的警探回头去查一桩压在心里多年的旧案——他母亲当年的死。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈里·博斯系列的读者",
+        "喜欢冷硬派旧案追查的读者"
+      ],
+      "watchFor": [
+        "旧案卷宗的缺页",
+        "当年办案人的说法",
+        "博斯自己的处境"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、卖淫与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：迈克尔·康奈利，新星出版社 2006。**推理属性判据**：**题名主题为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**（第①类）。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列与主角层面概括，不虚构具体情节**；`originalTitle` 按英文原版通行书名填写。**补作者缺口**：作者库内已有 2 部。**原作年**：1995 年；`editionYear` 记 2006。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2006"
+  },
+  {
+    "id": "gap119-011",
+    "title": "推理竞技场",
+    "originalTitle": "",
+    "author": "深水黎一郎",
+    "authorEn": "Fukami Reiichiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一档神奇的节目，每期设定一个文字谜题，挑战者可在阅读谜面的过程中随时抢答，猜测犯罪者并说清原因，胜利者可获得极高奖赏。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多重解答的读者",
+        "读过大量本格的读者"
+      ],
+      "watchFor": [
+        "每位挑战者给出的解答",
+        "谜面中被反复引用的细节",
+        "节目规则本身的漏洞"
+      ],
+      "warning": "本格推理长篇，含命案与戏仿推理文体的写法。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：深水黎一郎，新星出版社 2019。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明猜凶手节目的规则。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2019。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "gap119-012",
+    "title": "第二次死亡",
+    "originalTitle": "",
+    "author": "午晔",
+    "authorEn": "Wu Ye",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "dual-role",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "四个看似毫无关联的受害者，三个「螳螂捕蝉黄雀在后」的犯罪诡计，两套「金蝉脱壳」计划。一起入室抢劫杀人案竟然牵出多起命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "午晔的读者",
+        "喜欢多层诡计结构的读者"
+      ],
+      "watchFor": [
+        "四名受害者的关联",
+        "几套诡计的衔接点",
+        "谁在给谁做局"
+      ],
+      "warning": "犯罪悬疑长篇，含多起命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：午晔，北京联合出版公司 2023。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明三套犯罪诡计与多起命案的套叠。**补作者缺口**：作者午晔库内已有 2 部（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap119-013",
+    "title": "湖畔的女人们",
+    "originalTitle": "",
+    "author": "吉田修一",
+    "authorEn": "Yoshida Shuichi",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "滨",
+    "country": "日本",
+    "tags": [
+      "hospital",
+      "locked-space",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "琵琶湖畔的养老院里，一名百岁老人惨遭杀害。在呼吸器没有发生任何故障的前提下，养老院的工作人员成了最大的嫌疑人。刑警滨中负责此案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "吉田修一的读者"
+      ],
+      "watchFor": [
+        "呼吸器的记录",
+        "养老院员工的排班",
+        "老人与家人的关系"
+      ],
+      "warning": "社会派长篇，含老人死亡、照护困境与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：吉田修一，台海出版社 2023.12。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明呼吸器无故障这一限定条件与嫌疑人范围。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-014",
+    "title": "原生之蔓",
+    "originalTitle": "",
+    "author": "葵田谷",
+    "authorEn": "Kuita Ya",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "silencing",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "某地发生一起轰动全市的儿童诱拐案：两岁女童被保姆带出家门，失踪四天后被抛尸海边。保姆人间蒸发，目击者心怀鬼胎。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语犯罪悬疑的读者",
+        "葵田谷的读者"
+      ],
+      "watchFor": [
+        "保姆的行踪",
+        "目击者各自的隐瞒",
+        "女童家庭内部的状况"
+      ],
+      "warning": "犯罪悬疑长篇，含幼童死亡、失踪与暴力描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：葵田谷，北京联合出版公司 2021。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明保姆失踪与目击者「心怀鬼胎」。**补作者缺口**：作者库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap119-015",
+    "title": "罪恶生涯",
+    "originalTitle": "Career of Evil",
+    "author": "罗伯特·加尔布雷思",
+    "authorEn": "Robert Galbraith",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "科莫兰·斯特莱克系列",
+    "detective": "科莫兰·斯特莱克、罗宾",
+    "country": "英国",
+    "tags": [
+      "silencing",
+      "revenge",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "hardboiled-school",
+      "trick-school"
+    ],
+    "safeSummary": "伦敦跛脚侦探斯特莱克的助理罗宾收到一个包裹，惊恐地发现里面是一条女人的断腿。斯特莱克没有她那么震惊，但也警觉起来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "斯特莱克系列的读者",
+        "喜欢冷硬派追凶的读者"
+      ],
+      "watchFor": [
+        "包裹的寄送方式",
+        "斯特莱克早年接触过的人",
+        "罗宾的处境变化"
+      ],
+      "warning": "犯罪悬疑长篇，含分尸、连环暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：罗伯特·加尔布雷思，人民文学出版社 2016。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明断腿包裹的开场。**补作者缺口**：作者库内已有 1 部。**原作年**：2015 年（英文原版 *Career of Evil* 出版年）；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "gap119-016",
+    "title": "深谷谜云",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "尼古拉斯·布莱克第十部「奈杰尔·斯特雷奇威系列」小说：一场扑朔迷离的乡村谋杀案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "奈杰尔·斯特雷奇威系列的读者"
+      ],
+      "watchFor": [
+        "乡村里各家的关系",
+        "案发前后的行踪",
+        "被忽略的那处细节"
+      ],
+      "warning": "本格推理长篇，乡村舞台，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克，上海文艺出版社 2023。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明「本书是尼古拉斯·布莱克的第十部『奈杰尔·斯特雷奇威系列小说』，也是**英国黄金时代侦探小说的代表作**」。**补作者缺口**：作者库内已有 1 部，本批另收同系列 4 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-017",
+    "title": "死后黎明",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "campus",
+      "concealment",
+      "locked-space"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡伯特大学内，一个男生走进一间废弃更衣室，尘封的柜门被拉开的瞬间，一具散发着腐臭的尸体直挺挺地向他扑来。死者是大学教授，也是豪门长子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢校园舞台的读者"
+      ],
+      "watchFor": [
+        "更衣室柜子的封闭情况",
+        "教授的家族关系",
+        "校内人员的作息"
+      ],
+      "warning": "本格推理长篇，含尸体、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克，上海文艺出版社 2023。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明更衣室柜中发现尸体的谜面。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-018",
+    "title": "游轮魅影",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "cruise-ship",
+      "closed-circle",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "长篇推理小说：一艘游轮上，乘客之间的暗流与疑影随着航程逐渐浮出水面。作者尼古拉斯·布莱克是英国黄金时代侦探小说的代表性作家。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢邮轮封闭舞台的读者"
+      ],
+      "watchFor": [
+        "乘客们各自的来历",
+        "航程中各段时间的动向",
+        "船员留意到的异常"
+      ],
+      "warning": "本格推理长篇，邮轮封闭舞台，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克，上海文艺出版社 2023.6。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要**直接写明**「本书为长篇**推理小说**……作者为尼古拉斯·布莱克，是**英国黄金时代侦探小说的代表性作家**」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-019",
+    "title": "奇境幻影",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "nursery-rhyme"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "尼古拉斯·布莱克第六部「奈杰尔·斯特雷奇威系列」小说：偌大的奇境度假营内，游客们正惬意享受悠闲假期，不料恶作剧事件接二连三地发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢度假营群像的读者"
+      ],
+      "watchFor": [
+        "恶作剧的升级顺序",
+        "营地里各人的反应",
+        "幕后者想引出什么"
+      ],
+      "warning": "本格推理长篇，含恶作剧、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克，上海文艺出版社 2023.7。**推理属性判据**：**题名主题为「推理小说 英国 现代」**（第①类）；馆藏提要写明这是第六部「奈杰尔·斯特雷奇威系列小说」并给出度假营的设定。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-020",
+    "title": "亡者归来",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "mansion",
+      "faceless-corpse",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "有这么一座美丽的庄园：古老的宅邸、连绵的绿茵、盛开的玫瑰。然而，就在离庄园不远处幽静的小河里，赫然出现了一具无头尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢无面尸谜团的读者"
+      ],
+      "watchFor": [
+        "尸体身份的辨认依据",
+        "庄园里各人的行踪",
+        "「归来」指的是谁"
+      ],
+      "warning": "本格推理长篇，含无头尸体与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克，上海文艺出版社 2023.07。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明庄园与河中无头尸体的谜面。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-021",
+    "title": "大唐悬疑录：最后的狄仁杰",
+    "originalTitle": "",
+    "author": "唐隐",
+    "authorEn": "Tang Yin",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "大唐悬疑录系列",
+    "detective": "狄仁杰、袁从英",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school",
+      "logic-school"
+    ],
+    "safeSummary": "狄仁杰在武皇突如其来的授意下致仕，带着侍卫长袁从英返回家乡并州。路上二人就遭遇了一系列离奇事件，先是太行山道上出了事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语历史推理的读者",
+        "大唐悬疑录系列的读者"
+      ],
+      "watchFor": [
+        "武皇授意致仕的用意",
+        "一路上接连发生的事",
+        "袁从英的观察"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与朝堂角力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：唐隐，人民文学出版社 2018。**推理属性判据**：**题名主题为「长篇小说 中国 当代 ; 推理小说 中国 当代」**（第①类）；馆藏提要写明狄仁杰致仕还乡途中接连遭遇离奇事件。**补作者缺口**：作者唐隐库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "大唐悬疑录5 最后的狄仁杰"
+    ]
+  },
+  {
+    "id": "gap119-022",
+    "title": "破釜沉舟",
+    "originalTitle": "",
+    "author": "薇儿·麦克德米德",
+    "authorEn": "Val McDermid",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "托尼·希尔与卡罗尔·乔丹系列",
+    "detective": "托尼·希尔、卡罗尔·乔丹",
+    "country": "英国",
+    "tags": [
+      "silencing",
+      "revenge",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school",
+      "forensic-school"
+    ],
+    "safeSummary": "内疚和悲伤令长期搭档心理学家托尼和女警官卡罗尔产生嫌隙，但他们互不说话并不代表杀戮就会停止——有人在杀女人，而这些死者都和卡罗尔有关系。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "薇儿·麦克德米德的读者",
+        "喜欢心理画像与刑侦并重的读者"
+      ],
+      "watchFor": [
+        "死者与卡罗尔的关系",
+        "托尼的心理侧写",
+        "两人之间的裂痕"
+      ],
+      "warning": "犯罪悬疑长篇，含连环命案、暴力与性犯罪相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：薇儿·麦克德米德，上海文艺出版社 2016.10。**推理属性判据**：**题名主题为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类）；馆藏提要写明连环杀害女性与两位主角的嫌隙。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "gap119-023",
+    "title": "破烂回收店",
+    "originalTitle": "",
+    "author": "小林泰三",
+    "authorEn": "Kobayashi Yasumi",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，收录《破烂》《给妻子的三封自白信》《食肉住宅》《兽的记忆》四篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "小林泰三的读者",
+        "能接受怪奇设定的读者"
+      ],
+      "watchFor": [
+        "各篇设定的规则",
+        "叙述者刻意不提的事",
+        "篇末对前文的重新解释"
+      ],
+      "warning": "变格推理短篇集，含怪奇、血腥与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：小林泰三，湖南文艺出版社 2023（长沙）。**推理属性判据**：**题名主题为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类）；馆藏提要列出全部篇目。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-024",
+    "title": "黑桃会",
+    "originalTitle": "",
+    "author": "轩弦",
+    "authorEn": "Xuan Xian",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "revenge"
+    ],
+    "school": [
+      "trick-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "在虚构的时代背景下，一个神秘的犯罪组织「黑桃会」走向灭亡。它曾有十五个核心成员，这些人走向犯罪道路的原因各不相同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "轩弦的读者",
+        "喜欢群像犯罪叙事的读者"
+      ],
+      "watchFor": [
+        "十五名成员各自的来历",
+        "组织内部的规矩",
+        "灭亡是怎么开始的"
+      ],
+      "warning": "犯罪悬疑长篇，含组织犯罪、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：轩弦，时代文艺出版社 2023。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明犯罪组织「黑桃会」与其十五名核心成员。**补作者缺口**：作者轩弦库内已有 1 部（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap119-025",
+    "title": "情人的骨灰",
+    "originalTitle": "",
+    "author": "英格丽特·诺尔",
+    "authorEn": "Ingrid Noll",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "passion",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "玛雅和柯拉两人志趣相投，形同姐妹，可总有人在她们生活中制造麻烦。在经历了一次偶然的突发事件后，她们终于明白杀人就是这么干脆利落、无声无息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理犯罪小说的读者",
+        "能接受黑色幽默基调的读者"
+      ],
+      "watchFor": [
+        "两位女主角的关系变化",
+        "「制造麻烦」的那些人",
+        "那件突发事件的经过"
+      ],
+      "warning": "犯罪悬疑长篇，含杀人、尸体处理与黑色幽默描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：英格丽特·诺尔，作家出版社 2015.01。**推理属性判据**：**题名主题为「侦探小说 德国 现代 ; 长篇小说 德国 现代」**（第①类）；馆藏提要写明两位女主角与那件突发事件的转折。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "gap119-026",
+    "title": "慈雨",
+    "originalTitle": "",
+    "author": "柚月裕子",
+    "authorEn": "Yuzuki Yuko",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "神场",
+    "country": "日本",
+    "tags": [
+      "silencing",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "退休警官神场与妻子一起踏上四国巡礼之旅，却在途中得知，最近发生的一起少女绑架案与十六年前自己经手过的案件非常相似。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "柚月裕子的读者"
+      ],
+      "watchFor": [
+        "十六年前那桩案子的处理经过",
+        "两案的相似之处",
+        "神场当年的选择"
+      ],
+      "warning": "社会派长篇，含少女绑架、冤案与命案描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：柚月裕子，北京联合出版公司 2023。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明退休警官与十六年前旧案的呼应。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "gap119-027",
+    "title": "不要阻挡我",
+    "originalTitle": "",
+    "author": "真梨幸子",
+    "authorEn": "Mari Yukiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "ensemble",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "从一部知名漫画粉丝俱乐部的六人聚会讲起：这几名资深粉丝加入俱乐部的来龙去脉，以及她们各自生活中不为人所知的困境。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真梨幸子的读者",
+        "喜欢女性群像心理线的读者"
+      ],
+      "watchFor": [
+        "六人各自的处境",
+        "粉丝俱乐部的内部规矩",
+        "叙述者之间的偏差"
+      ],
+      "warning": "犯罪悬疑短篇集，含命案、心理压迫与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：真梨幸子，台海出版社 2022。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明六人聚会与各自的困境。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-119-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  }
+]

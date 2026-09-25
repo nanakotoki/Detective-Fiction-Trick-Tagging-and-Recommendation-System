@@ -1,0 +1,1745 @@
+[
+  {
+    "id": "midorig96-001",
+    "title": "云雷岛事件",
+    "originalTitle": "",
+    "author": "孙国栋",
+    "authorEn": "Sun Guodong",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "非系列",
+    "detective": "吴寒峰",
+    "country": "中国",
+    "tags": [
+      "isolated-island",
+      "closed-circle",
+      "locked-room",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "平凡的职员吴寒峰跟随女友来到她的家乡云雷岛，岛上通信设施被人为破坏，命案接踵而来。案发现场都呈「密室」状态，凶手的作案手法似乎暗含金、木、水、火等五行要素。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 823,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34442134/",
+        "subjectId": "34442134",
+        "edition": "云雷岛事件 2019",
+        "fetchedAt": "2026-09-23T12:46:05.138Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛与密室连发的读者",
+        "孙国栋的读者"
+      ],
+      "watchFor": [
+        "岛上通信被破坏的方式",
+        "每处现场的「密室」条件",
+        "五行要素在手法里的对应"
+      ],
+      "warning": "本格推理长篇，孤岛封闭环境，含连续凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/34442134（新星出版社 2019-7，300 页，ISBN 9787513336093）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000750857：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②作者简介自述「热爱本格推理，钟情于一切能让人感到『巧妙』的诡计、逻辑推演」，并翻译出版《她死去的那一晚》；③丛编为新星出版社「午夜文库·原创系列」；④谜面为通信被切断的孤岛与连续密室命案。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-002",
+    "title": "床下的旅行箱",
+    "originalTitle": "",
+    "author": "巫昂",
+    "authorEn": "Wu Ang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "以千计系列",
+    "detective": "以千计",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "red-herring",
+      "concealment",
+      "fear",
+      "faceless-corpse"
+    ],
+    "school": [
+      "hardboiled-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "侦探以千计接下一件神秘委托：资料照片上一男一女背对背坐着，背部被缝合在一起，仿佛蝴蝶的一对翅膀。委托把他引到香港，带进鱼龙混杂的重庆大厦，房里还有一只上了锁的破旧旅行箱。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 377,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35644037/",
+        "subjectId": "35644037",
+        "edition": "床下的旅行箱 2021",
+        "fetchedAt": "2026-09-23T12:46:08.399Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢冷硬派与异国都市的读者",
+        "巫昂的读者"
+      ],
+      "watchFor": [
+        "照片上那两个人是谁",
+        "旅行箱上的 R 字锁",
+        "委托人替以千计安排的住处"
+      ],
+      "warning": "犯罪悬疑长篇，含残忍谋杀、尸体损毁与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35644037（新星出版社 2021-12，316 页，ISBN 9787513344968）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000907896：**中图法 I247.56** ＋**学科主题「侦探小说-中国-当代」**；②出版方宣传语为「诗人，作家巫昂　**犯罪文学**锐意之作」「**侦探以千计系列**第一部」，主角身份即侦探；③丛编为新星出版社「午夜文库·原创系列」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-003",
+    "title": "奇迹降临之前",
+    "originalTitle": "",
+    "author": "凌小灵",
+    "authorEn": "Ling Xiaoling",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "沈一心",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "legend-folklore",
+      "narrative-trick",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "妹妹沈天问离家出走，只留给姐姐沈一心一张车票。沈一心与「荒野旅社」的成员一同上路，途中车祸坠下山崖，误入谷底一个没有文字、语言自成体系的原始部落。凶案在双方之间相继发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 548,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35972548/",
+        "subjectId": "35972548",
+        "edition": "奇迹降临之前 2023",
+        "fetchedAt": "2026-09-23T12:46:11.578Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢语言与逻辑型诡计的读者",
+        "设定系推理读者"
+      ],
+      "watchFor": [
+        "妹妹留下的那张车票",
+        "部落语言与汉语对不上的地方",
+        "坠崖后各人的位置"
+      ],
+      "warning": "本格推理长篇，封闭环境与异文化设定，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35972548（新星出版社 2023-4，296 页，ISBN 9787513349819）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000940133：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「突破想象边界的『**语言推理**』」「**第七届金车·岛田庄司推理小说奖**决选入围者」「原创**推理**新境地」；③作者简介自述为「兴趣广泛的**推理小说**爱好者」，长篇《随机死亡》入围第七届金车·岛田庄司推理小说奖决选。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-004",
+    "title": "见鬼的爱情",
+    "originalTitle": "",
+    "author": "雷钧",
+    "authorEn": "Lei Jun",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "杨恪平",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "fear",
+      "dark-atmosphere",
+      "city",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "连环杀人案的受害者均为女性，死状一个比一个凄惨：吊挂在树上的大学生、头部不翼而飞的老板娘、脸部黏着发丝溺死的长发女子……调查陷入困境的杨恪平，在酒吧遇到一个似曾相识的女人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 549,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35063930/",
+        "subjectId": "35063930",
+        "edition": "见鬼的爱情 2020",
+        "fetchedAt": "2026-09-23T12:46:14.848Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷钧的读者",
+        "喜欢连环案与心理压迫感的读者"
+      ],
+      "watchFor": [
+        "四名被害人各自的死状",
+        "酒吧里那个女人说的话",
+        "杨恪平自己的状态"
+      ],
+      "warning": "推理长篇，含连环凶案与尸体损毁描写，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35063930（新星出版社 2020-7，253 页，ISBN 9787513340403）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000875288：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「中国当代**推理**创作中坚力量，第四届**岛田庄司奖**得主——雷钧」「第三届岛田庄司**推理小说奖**决选入围作品」；③作者另著《杀人游戏》短篇推理集（同批已收）。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-005",
+    "title": "长安异闻录",
+    "originalTitle": "",
+    "author": "远宁",
+    "authorEn": "Yuan Ning",
+    "genre": "历史推理",
+    "firstPublished": "2020",
+    "series": "唐案无名",
+    "detective": "史无名、李忠卿",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "中唐长安。富贵人家的小姐在灯火辉煌的上元节灯会上莫名失踪；地下伸出的「鬼手」将人拖入地中，随后地面恢复如初；猎户在秦岭子午峪的山洞里发现洞壁冰封着一支军队。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 592,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35217265/",
+        "subjectId": "35217265",
+        "edition": "长安异闻录 2020",
+        "fetchedAt": "2026-09-23T12:46:18.223Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "远宁的读者",
+        "唐代背景推理爱好者"
+      ],
+      "watchFor": [
+        "上元节灯会的人流",
+        "「鬼手」出现的位置",
+        "洞壁里那支军队的装束"
+      ],
+      "warning": "历史推理长篇，含失踪、凶案与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35217265（新星出版社 2020-9，320 页，ISBN 9787513341523）。**推理属性判据**：①扬州市图书馆 OPAC marc 0001047640：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②作者简介写明「于二〇〇八年开始**推理小说**创作，作品发表于杂志《推理世界》，有『大唐狄公案系列』『**唐案无名系列**』……」，本作主角即该系列的史无名、李忠卿；③丛编为新星出版社「午夜文库·原创系列」。**版本说明**：豆瓣另有 2024 年重印条目（subject/37385116），内容同一部作品，只收一条、首版年记 2020。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-006",
+    "title": "长安异闻录2",
+    "originalTitle": "",
+    "author": "远宁",
+    "authorEn": "Yuan Ning",
+    "genre": "历史推理",
+    "firstPublished": "2024",
+    "series": "唐案无名",
+    "detective": "史无名、李忠卿",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "玄宗朝过后五十年。骊山的华清宫只剩断壁残垣，却传闻深夜亮起灯火、出现宴饮场景；一名骊山书院的学子莫名死在按歌台上，被发现时只剩下白骨和衣物。马嵬驿也接连有男子被缢死。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 66,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37083388/",
+        "subjectId": "37083388",
+        "edition": "长安异闻录2 2024",
+        "fetchedAt": "2026-09-23T12:46:23.160Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《长安异闻录》的读者",
+        "唐代背景推理爱好者"
+      ],
+      "watchFor": [
+        "华清宫夜里的灯火",
+        "按歌台上留下的东西",
+        "死者身上的贵妃墓土"
+      ],
+      "warning": "历史推理长篇，含白骨、缢死与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37083388（新星出版社 2024-11，344 页，ISBN 9787513357784）。**推理属性判据**：①出版方宣传语为「『大唐狄公案』系列、『**唐案无名**』系列作者远宁口碑新作」「无名、忠卿携手大理寺、金吾卫一举侦破」，谜面为两起奇诡疑案；②同系列前作《长安异闻录》与《唐案无名·鬼门寮》均已在库，并各有 **中图法 I247.56**／**主题词「推理小说」** 的馆藏著录；③丛编为新星出版社「午夜文库·原创系列」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**，本条未取得本册自身的中图法分类号，判据依本系列其他各册与出版方表述。**版本说明**：豆瓣另有重印条目（subject/37385117），只收一条。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-007",
+    "title": "红旗袍",
+    "originalTitle": "",
+    "author": "裘小龙",
+    "authorEn": "Qiu Xiaolong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "陈超系列",
+    "detective": "陈超",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "city",
+      "red-herring",
+      "silencing",
+      "fear",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "hardboiled-school",
+      "social-school"
+    ],
+    "safeSummary": "一个连环杀手杀死年轻女子后，给她们换上被扯破的旧式旗袍，弃尸于公共场所。连续几周，每个周五早晨都有人报案发现尸体；警方找不到线索，连卧底的女警也以同样方式遇害。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 197,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10427246/",
+        "subjectId": "10427246",
+        "edition": "红旗袍 2012",
+        "fetchedAt": "2026-09-23T12:46:27.802Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "裘小龙的读者",
+        "喜欢警探程序与都市连环案的读者"
+      ],
+      "watchFor": [
+        "尸体被发现的时间规律",
+        "那件旧式旗袍的来路",
+        "陈超那几天去了哪里"
+      ],
+      "warning": "犯罪悬疑长篇，含连环凶案与卧底警员殉职描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/10427246（新星出版社 2012-3，324 页，ISBN 9787513305235，裘小龙以英文创作、本册为中文版）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000210932：**中图法 I712.45**（美国文学）＋**学科主题「推理小说-美国-现代」**——分类号不在中国文学类，但**主题词直接写着「推理小说」**；②作者简介写明其为「迄今唯一入围爱伦·坡奖、获得**第二十三届世界推理小说大奖**的华裔作家」，另著侦探小说《红英之死》；③主角为「大探长」陈超，属系列侦探。`country` 记「美国」是依作者以英语创作、作品归入美国文学类；作者为上海出生的华裔。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "midorig96-008",
+    "title": "冬之喜剧",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "本格推理",
+    "firstPublished": "2026",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "meta-fiction",
+      "dual-line",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "高中时的「我」读到室友翻译的一篇推理小说，作者是她的一位美国笔友。不长的篇幅里隐藏着惊人的秘密，尤其结尾的一句话里出现了一个令「我」百思不得其解的地理错误。全书另收四篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 185,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38436544/",
+        "subjectId": "38436544",
+        "edition": "冬之喜剧 2026",
+        "fetchedAt": "2026-09-23T12:46:32.173Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "陆秋槎的读者",
+        "喜欢作中作与元推理的读者"
+      ],
+      "watchFor": [
+        "那篇小说的结尾",
+        "那个地理错误到底错在哪",
+        "室友与美国笔友的关系"
+      ],
+      "warning": "本格推理短篇集（收录五篇），含作中作结构，含凶案与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/38436544（新星出版社 2026-7，264 页，ISBN 9787513364157）。**推理属性判据**：①扬州市图书馆 OPAC marc 0001095038：**中图法 I247.7**（短篇小说集）＋**学科主题「推理小说-小说集-中国-当代」**；②出版方宣传语为「**推理**、科幻双栖作家陆秋槎　作品多次登上日本四大推理榜单」「幻术·孤岛·雪国奇谭……经典**短篇**首次结集出版」，并引作者自述「至少也是在参与一场堪比『**新本格**』的运动」；③作者简介写明其为**本格推理作家俱乐部**成员、第二届「华文推理大奖赛」最佳新人奖得主，已出版推理小说《元年春之祭》等（皆收入「午夜文库」）。收录《前奏曲》《遥夜吟》《1797年的仙那都》《森林与乌托邦》《冬之喜剧》五篇。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-009",
+    "title": "多米诺少女",
+    "originalTitle": "",
+    "author": "政启若",
+    "authorEn": "Zheng Qiruo",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "小初（Zero）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "identity",
+      "dual-role",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "在这个仿生人司空见惯的时代，多米诺大厦向世人提供着欢娱。就在这座「乐园」之中，接连发生不可思议的袭击事件。代号 Zero 的仿生人小初当起了侦探，在一次次调查取证途中寻找答案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 404,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36074285/",
+        "subjectId": "36074285",
+        "edition": "多米诺少女 2022",
+        "fetchedAt": "2026-09-23T12:46:36.699Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系推理的读者",
+        "米泽穗信、相泽沙呼的读者"
+      ],
+      "watchFor": [
+        "大厦提供的「欢娱」是什么",
+        "每次袭击的目标选择",
+        "小初自身的记忆"
+      ],
+      "warning": "本格推理长篇，近未来仿生人设定，含袭击与破坏描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36074285（新星出版社 2022-10，216 页，ISBN 9787513350235）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000938219：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「华语**推理**新锐　政启若」「**SF × 本格**　推理力作」；③作者简介写明其「对本格**推理小说**产生了浓厚的兴趣……尤其喜爱日常之谜和**设定系推理**」；④丛编为新星出版社「午夜文库·原创系列」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-010",
+    "title": "螺旋塔事件",
+    "originalTitle": "",
+    "author": "孙国栋",
+    "authorEn": "Sun Guodong",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "宋立学、孙小玲",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "天涯大学学生宋立学与孙小玲受邀参加青云集团千金沈亦心的生日宴会，地点在偏僻的古南村。宴会后众人入住「螺旋塔」，第二天沈亦心被发现从十二层的房间坠亡，房间从内部反锁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.5,
+        "count": 502,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36135309/",
+        "subjectId": "36135309",
+        "edition": "螺旋塔事件 2023",
+        "fetchedAt": "2026-09-23T12:46:39.894Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "孙国栋的读者",
+        "喜欢建筑型密室的读者"
+      ],
+      "watchFor": [
+        "「螺旋庄」与「螺旋塔」的构造",
+        "坠亡房间的内部反锁状态",
+        "那座唯一吊桥的位置"
+      ],
+      "warning": "本格推理长篇，含坠楼、连续密室凶案与被困描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36135309（新星出版社 2023-2，232 页，ISBN 9787513350631）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000943130：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「华语**推理**新锐作家　孙国栋」「螺旋塔构建多重密室，**不可能谋杀**连夜上演」「昔日少女坠楼疑案　引发新的犯罪连锁」；③作者简介自述「**本格推理**爱好者、作者、译者」，已出版原创推理小说《云雷岛事件》《螺旋塔事件》；④谜面为高塔密室与吊桥被破坏后的封闭环境。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-011",
+    "title": "晚点五十八小时",
+    "originalTitle": "",
+    "author": "步铼",
+    "authorEn": "Bu Lai",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "train",
+      "closed-circle",
+      "alibi",
+      "timetable",
+      "multiple-solutions",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "能源学院某课题组的师生坐火车去参加学术研讨会，途中导师被害于自己的卧铺间内，课题组其他成员都有嫌疑，却无人拥有作案时间。雪夜列车意外停车，又有两起命案接连发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 434,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34949705/",
+        "subjectId": "34949705",
+        "edition": "晚点五十八小时 2020",
+        "fetchedAt": "2026-09-23T12:46:43.075Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时刻表与列车密室的读者",
+        "本格推理读者"
+      ],
+      "watchFor": [
+        "各人在列车上的时间表",
+        "卧铺间的出入条件",
+        "列车停驶后的位置变化"
+      ],
+      "warning": "本格推理长篇，含连续凶案与雪夜被困描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/34949705（新星出版社 2020-6，236 页，ISBN 9787513339650）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000858989：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「雪夜列车惊现神秘死尸！被动隔绝的犯罪时空，各怀鬼胎的嫌疑人」「**本格推理**『孤岛』模式的再创新」「无形的罪人，逻辑的死角」；③谜面为全部嫌疑人都不具备作案时间的卧铺密室。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-012",
+    "title": "深宫女捕快",
+    "originalTitle": "",
+    "author": "暗布烧",
+    "authorEn": "An Bushao",
+    "genre": "历史推理",
+    "firstPublished": "2022",
+    "series": "方欣媚系列",
+    "detective": "方欣媚",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "locked-room",
+      "closed-circle",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "江南名捕之女方欣媚为调查父亲被害的真相，化身司药房宫女。宫女腊梅在一个雪夜溺死在渡月轩的古井中，现场雪地上的一串脚印有去无回；长公主私奔后，鸡鸣寺众僧惨遭屠戮，寺门从内部紧锁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 362,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35635298/",
+        "subjectId": "35635298",
+        "edition": "深宫女捕快 2022",
+        "fetchedAt": "2026-09-23T12:46:46.208Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫廷背景推理的爱好者",
+        "暗布烧的读者"
+      ],
+      "watchFor": [
+        "雪地上那串脚印",
+        "鸡鸣寺大门从内部紧锁的条件",
+        "长公主陈尸时在场的人"
+      ],
+      "warning": "历史推理长篇，含溺死、屠戮与宫廷阴谋描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35635298（新星出版社 2022-1，284 页，ISBN 9787513346214）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000937959：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「华语**推理**人气作家暗布烧　宫廷女捕快方欣媚系列第一部」「**本格推理**　古风韵味」「一场众目睽睽之下的谋杀」；③作者简介写明其为「**推理**作家，北京大学心理学硕士，于二〇〇八年开始**推理小说**创作……作品多涉**不可能犯罪**题材」；④谜面为有去无回的雪地脚印与从内部紧锁的寺门。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-013",
+    "title": "父亲的复仇",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Hu Yanyun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2026",
+    "series": "非系列",
+    "detective": "呼延云",
+    "country": "中国",
+    "tags": [
+      "revenge",
+      "psychological-misdirection",
+      "red-herring",
+      "obsession",
+      "silencing"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "穷困潦倒的他与四岁的女儿相依为命，女儿却在一场「意外」中死去。三年后他走出监狱一心复仇，目标不仅受顶级安保公司二十四小时保护，还聘请了呼延云监视他的一举一动。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 212,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37868496/",
+        "subjectId": "37868496",
+        "edition": "父亲的复仇 2026",
+        "fetchedAt": "2026-09-23T12:46:51.538Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "呼延云的读者",
+        "社会派与复仇题材的爱好者"
+      ],
+      "watchFor": [
+        "女儿那场「意外」的经过",
+        "安保公司的防护布置",
+        "那份「谋杀方案」"
+      ],
+      "warning": "犯罪悬疑长篇，丧亲与复仇题材，含凶案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37868496（新星出版社 2026-3，336 页，ISBN 9787513362757）。**推理属性判据**：①扬州市图书馆 OPAC marc 0001088921：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「呼延云**长篇推理**力作，重装出版」，谜面为「一个不可思议的诡计」；③作者简介写明其为「著名**侦探小说**作家」，二〇〇九年以《嬗变》出道，「早期作品偏重**本格**」；④库内已有《嬗变》《空城计》《扫鼠岭》等呼延云作品。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-014",
+    "title": "罪恶天使",
+    "originalTitle": "",
+    "author": "午晔",
+    "authorEn": "Wu Ye",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "罪恶天使",
+    "detective": "黎希颖",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "forensic",
+      "cipher",
+      "red-herring",
+      "gain"
+    ],
+    "school": [
+      "hardboiled-school",
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "年少成名的文学界天才、电视台的专栏主持人、自主创业的女老板、学术不端的大学教授……每个人周围都潜藏着或多或少的恶意，而每起命案的背后又都有让人不寒而栗的人性阴暗。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 223,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25844731/",
+        "subjectId": "25844731",
+        "edition": "罪恶天使 2014",
+        "fetchedAt": "2026-09-23T12:48:27.380Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "午晔的读者",
+        "喜欢都市罪案与女性主角的读者"
+      ],
+      "watchFor": [
+        "每起命案背后各人的动机",
+        "黎希颖做过的那些「不守规则」的选择",
+        "她与黑白两道的关系"
+      ],
+      "warning": "犯罪悬疑长篇，含凶案与暗黑人性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "**首版年与题材判据取自扬州市图书馆 OPAC marc 0000212145**：天津：天津人民出版社，**2012**，**中图法 I247.56**（中国当代侦探／推理小说）。豆瓣条目 subject/25844731 记「新星出版社 2014-4」（276 页，ISBN 9787513314183），是收入「午夜文库」后的版本；两版内容为同一部作品，`firstPublished` 按更早的 2012 记。**推理属性判据**：①中图法 I247.56；②作者简介写明本系列「二〇〇一年开始在『推理之门』网站发表『罪恶天使』系列；二〇〇六年九月起，在杂志《**推理**》以每期两篇的速度开始同系列短篇连载」，作者本人即系列主角名「黎希颖」的曾用名；③名为「罪恶天使」的系列主角为黎希颖，本册即该系列长篇。同作者的《沉香劫中劫》已在本库（蜘蛛文库·原创系列）。梗概由整理者自行重写。 **版本年拆分（2026-09）**：本条 `firstPublished` 记 2012 年（天津人民出版社首版，据馆藏著录），而本库所读的豆瓣条目 subject/25844731 是「新星出版社 2014-4」版——两者确实是不同的版本，故 `editionYear` 记 2014。这正是把年份拆成两个字段的意义所在。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "midorig96-015",
+    "title": "不安的樱花",
+    "originalTitle": "",
+    "author": "江离",
+    "authorEn": "Jiang Li",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "youth",
+      "psychological-misdirection",
+      "revenge",
+      "fear",
+      "concealment",
+      "dual-role"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "家境贫困的樱庭贵志刚满十六岁，因仍受《少年法》保护而被三位不良同学视为替罪羊。在他们的威胁下，贵志无奈参与一起夜袭，不料卷入意外致死；受害女孩却死而复生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 126,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26344322/",
+        "subjectId": "26344322",
+        "edition": "不安的樱花 2015",
+        "fetchedAt": "2026-09-23T12:46:59.780Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢少年法题材的读者",
+        "日系氛围的犯罪悬疑读者"
+      ],
+      "watchFor": [
+        "那三个同学各自的打算",
+        "夜袭当晚发生了什么",
+        "女孩「复生」之后的举动"
+      ],
+      "warning": "犯罪悬疑长篇，校园暴力与未成年犯罪题材，含致死与报复描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/26344322（新星出版社 2015-4，564 页，ISBN 9787513317559）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000702005：**中图法 I247.56**（中国当代侦探／推理小说）——该馆此条未著录学科主题，故判据只依赖分类号一项；②丛编为新星出版社「午夜文库·原创系列」（推理专门书系）；③谜面为一起被掩盖的致死事件与随之而来的报复。**诚实标注**：本条的题材判据强度弱于同批多数条目——只有中图法分类号、没有主题词，谜面也不含密室／不在场证明等典型推理要素。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-016",
+    "title": "神探车丙三",
+    "originalTitle": "",
+    "author": "姜小坏",
+    "authorEn": "Jiang Xiaohuai",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "车丙三系列",
+    "detective": "车丙三",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "locked-room",
+      "red-herring",
+      "concealment",
+      "city",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "police-procedural"
+    ],
+    "safeSummary": "凯字营监狱发生一起失火案，三人死于火灾现场，另有一人重伤。巡捕房候补侦探车丙三奉命调查失火原因，却发现现场是一间近乎密室的会客厅，看不出凶手纵火的动机。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 126,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35209792/",
+        "subjectId": "35209792",
+        "edition": "神探车丙三 2020",
+        "fetchedAt": "2026-09-23T12:47:04.271Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国背景推理的爱好者",
+        "喜欢密室纵火题材的读者"
+      ],
+      "watchFor": [
+        "会客厅的门窗状况",
+        "门卫说的那句话",
+        "凯字营监狱本身的秘密"
+      ],
+      "warning": "本格推理长篇，民国背景，含火灾致死与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35209792（新星出版社 2020-9，288 页，ISBN 9787513341530）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000875566：**中图法 I247.56**（中国当代侦探／推理小说；该馆此条未著录学科主题）；②作者简介写明「《神探车丙三》是**候补侦探车丙三系列推理小说**的第一部」，并主张「多角度叙事构建推理故事」；③谜面为一间近乎密室的会客厅里的火灾命案。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-017",
+    "title": "太空无人生还",
+    "originalTitle": "",
+    "author": "阿元",
+    "authorEn": "A Yuan",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "fear",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "五位乘客与三位机组人员一同飞向太空、探访月球，本应浪漫的旅程却意外不断：月球背面惊现神秘基地，基地内竟有一具穿着航天服的尸体。在失重的茫茫宇宙中，隐藏的杀手究竟是谁？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 468,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30312389/",
+        "subjectId": "30312389",
+        "edition": "太空无人生还 2018",
+        "fetchedAt": "2026-09-23T12:47:08.892Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间推理的读者",
+        "《无人生还》式设定的爱好者"
+      ],
+      "watchFor": [
+        "五位乘客的遴选过程",
+        "月球背面那座基地",
+        "航天服里那具尸体的身份"
+      ],
+      "warning": "本格推理长篇，太空封闭环境，含死亡与恐慌描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/30312389（新星出版社 2018-10，268 页，ISBN 9787513332187）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000744359：**中图法 I247.56**（中国当代侦探／推理小说；该馆此条未著录学科主题）；②出版方宣传语为「匪夷所思的『失重密室』」「致敬阿加莎·克里斯蒂不朽名作《无人生还》」；③作者简介写明「2000年开始**推理小说**创作……以**密室**题材的创作见长，且喜爱加入『挑战读者』环节，重视叙事与线索布设的公平性」，「《太空无人生还》是其首部**本格推理**长篇小说」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-018",
+    "title": "南大命案追凶",
+    "originalTitle": "",
+    "author": "陈勇",
+    "authorEn": "Chen Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "非系列",
+    "detective": "沈念青",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "city",
+      "forensic",
+      "fear",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "年轻的民警沈念青被借调到市局刑侦大队，协助侦破曾轰动一时的悬案「南方大学命案」。多年过去，他从旧案卷宗入手一点点分析线索、重走案发现场，接近核心证据时相关证人却惨遭毒手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 3.2,
+        "count": 613,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36909381/",
+        "subjectId": "36909381",
+        "edition": "南大命案追凶 2024",
+        "fetchedAt": "2026-09-23T12:47:12.155Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢冷案追凶的读者",
+        "警探程序题材的爱好者"
+      ],
+      "watchFor": [
+        "旧案卷宗里缺失的部分",
+        "证人们各自的说法",
+        "凶手当年的作案条件"
+      ],
+      "warning": "犯罪悬疑长篇，含残忍凶案与证人遇害描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36909381（新星出版社 2024-10，412 页，ISBN 9787513356862）。**推理属性判据**：①扬州市图书馆 OPAC marc 0001003038：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；②出版方宣传语为「**首届新星国际推理文学奖**　长篇部门优秀奖获奖作品」「一桩残酷无比的悬案，一场锲而不舍的追凶」；③作者简介写明其「参加第一届**新星国际推理文学大奖**长篇部门竞赛单元……摘得长篇部门优秀奖」；④谜面为旧案卷宗、现场重勘与核心证据的追查。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-019",
+    "title": "犯罪者的七不规范",
+    "originalTitle": "",
+    "author": "张舟",
+    "authorEn": "Zhang Zhou",
+    "genre": "日常之谜",
+    "firstPublished": "2018",
+    "series": "非系列",
+    "detective": "叶真生、夏目晴",
+    "country": "中国",
+    "tags": [
+      "youth",
+      "campus",
+      "multiple-solutions",
+      "red-herring",
+      "curiosity",
+      "identity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "杀手妖狐犯下四桩大案，国际刑警设下猎狐圈套，却因突如其来的爆炸功败垂成，监控镜头全部损毁。唯一看到罪犯真身的，是失忆少女夏目晴；她恢复记忆后，转学去寻找当日的救命恩人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 211,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30175383/",
+        "subjectId": "30175383",
+        "edition": "犯罪者的七不规范 2018",
+        "fetchedAt": "2026-09-23T12:47:15.696Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜的读者",
+        "校园推理的爱好者"
+      ],
+      "watchFor": [
+        "爆炸现场被毁掉的监控",
+        "叶真生那些「不像人」的举动",
+        "七篇日常谜案之间的关联"
+      ],
+      "warning": "推理短篇连作（收录七篇），含爆炸、连续凶案与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/30175383（新星出版社 2018-7，452 页，ISBN 9787513330138）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000640898：**中图法 I247.56**（中国当代侦探／推理小说；该馆此条未著录学科主题）；②作者简介写明「由**推理**而结缘的一对爱侣。小张以翻译和研究鉴赏为主，小舟以小说创作为主，齐心协力，携手追逐两人的**推理**之梦」——**「张舟」是两人的合署笔名**，本库按出版方署名记为一位作者；③内容自述「本书收录了七篇**真探**的日常谜案」；④丛编为新星出版社「午夜文库·原创系列」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-020",
+    "title": "苏州园林谋杀简史",
+    "originalTitle": "",
+    "author": "慢三",
+    "authorEn": "Man San",
+    "genre": "变格",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "简耀",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "dual-role",
+      "identity",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "简耀临出国前陪父亲去了一趟苏州，可参观园林的第一天，父亲就卷入一起凶杀案，成了犯罪嫌疑人。更意想不到的是，父亲似乎「灵魂附体」在一个导游女孩身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 4.9,
+        "count": 404,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35490062/",
+        "subjectId": "35490062",
+        "edition": "苏州园林谋杀简史 2021",
+        "fetchedAt": "2026-09-23T12:47:18.900Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系与城市题材的读者",
+        "苏州园林爱好者"
+      ],
+      "watchFor": [
+        "那起凶杀案的现场",
+        "父亲「附体」后的言行差异",
+        "园林之间的移动路线"
+      ],
+      "warning": "推理长篇，含「灵魂附体」的幻想设定与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35490062（新星出版社 2021-7，ISBN 9787513345637）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000890815：**中图法 I247.56**（中国当代侦探／推理小说；该馆此条未著录学科主题）；②内容简介为「奇妙的**探案**之旅由此展开。简耀不得不追随细微的线索，穿梭在园林之间寻找真相」，谜面是父亲卷入的凶杀案；③作者简介写明其为「**悬疑**小说电影狂热症患者」，「已出版……长篇**悬疑**小说《影子里的恋人》等」；④丛编为新星出版社「午夜文库·原创系列」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig96-021",
+    "title": "π的杀人魔法",
+    "originalTitle": "",
+    "author": "墨殇",
+    "authorEn": "Mo Shang",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "安力为",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "ensemble",
+      "multiple-solutions",
+      "mansion",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "电视问答节目「勇往直前」进入白热化阶段，企业家荣应泰的夫人叶淑娴意外败北。可按规则本该「落下」并由工作人员接走的她，竟在众目睽睽之下「没了」，现场完全不可能地「蒸发」了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.6,
+        "count": 346,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27054450/",
+        "subjectId": "27054450",
+        "edition": "π的杀人魔法 2017",
+        "fetchedAt": "2026-09-23T12:47:22.215Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可能消失题材的读者",
+        "长篇本格的读者"
+      ],
+      "watchFor": [
+        "节目现场的机关与动线",
+        "工作人员接人的流程",
+        "荣家各人的立场"
+      ],
+      "warning": "本格推理长篇（812 页），含失踪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/27054450（新星出版社 2017-7，812 页，ISBN 9787513326339）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000709162：**中图法 I247.56**（中国当代侦探／推理小说；该馆此条未著录学科主题）；②作者简介写明「《Π的杀人魔法》是其**推理**长篇处女作，意在打造国内**推理**精品，让更多的人爱上**推理**阅读与创作」；③谜面为众目睽睽之下的「不可能蒸发」，并请来侦查一科的刑警调查；④丛编为新星出版社「午夜文库·原创系列」。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-96-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

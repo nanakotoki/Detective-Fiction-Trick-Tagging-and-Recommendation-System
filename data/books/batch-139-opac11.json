@@ -1,0 +1,78 @@
+[
+  {
+    "id": "facet139-001",
+    "title": "女法医宋雨日之1：黑夜女巫",
+    "originalTitle": "",
+    "author": "李敏、阿图说力",
+    "authors": ["李敏", "阿图说力"],
+    "authorEn": "Li Min; Atu Shuoli",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "女法医宋雨日系列",
+    "detective": "宋雨日",
+    "country": "中国",
+    "tags": ["forensic", "series-detective", "legend-folklore", "concealment"],
+    "school": ["forensic-school", "police-procedural"],
+    "safeSummary": "女法医宋雨日系列第一部。馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["女法医题材的读者", "系列首作的读者"],
+      "watchFor": ["宋雨日这一人物的来历", "案件与「女巫」之说的关系"],
+      "warning": "法医题材长篇，含命案描写；馆藏未提供内容提要，梗概暂缺。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经**主题词枚举**渠道发现，关键词「法医」）：李敏、阿图说力合著，作家出版社 2009，正题名「女法医宋雨日之1黑夜女巫」。**推理属性判据**：①**中图分类号为 `I247.56`**——**中国当代侦探／推理小说的专门分类号**，判据层级里最硬的一档；②**检索行主题词为「侦探小说 中国 现代 ; 长篇小说 中国 现代 ; 侦探小说 ; 长篇小说」**。**多作者模型**：馆藏著录明确作「**合著**」，`authors` 记两位，界面上会显示「合著」徽章。**新作者**：库内此前无李敏、阿图说力作品。**如实标注**：本条**馆藏提要为空白**，`safeSummary` 只登记书目信息，**未编造情节**。**年份字段说明**：中文原创，`firstPublished` 记 2009，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-139-opac11.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet139-002",
+    "title": "女法医宋雨日之2：周三先生",
+    "originalTitle": "",
+    "author": "李敏、阿图说力",
+    "authors": ["李敏", "阿图说力"],
+    "authorEn": "Li Min; Atu Shuoli",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "女法医宋雨日系列",
+    "detective": "宋雨日",
+    "country": "中国",
+    "tags": ["forensic", "series-detective", "concealment", "identity"],
+    "school": ["forensic-school", "police-procedural"],
+    "safeSummary": "女法医宋雨日系列第二部。馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["女法医题材的读者", "《黑夜女巫》的读者"],
+      "watchFor": ["「周三先生」这一称呼的来历", "与第一部在人物上的延续"],
+      "warning": "法医题材长篇，含命案描写；馆藏未提供内容提要，梗概暂缺。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：李敏、阿图说力著，作家出版社 2009，正题名「女法医宋雨日之2周三先生」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 现代 ; 长篇小说 中国 现代 ; 侦探小说 ; 长篇小说」**。**多作者模型**：`authors` 记两位署名作者。**补系列缺口**：与第 1 部同批补入，馆藏可见两卷**至此收齐**。**如实标注**：本条**馆藏提要为空白**，`safeSummary` 只登记书目信息，**未编造情节**。**年份字段说明**：中文原创，`firstPublished` 记 2009，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-139-opac11.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

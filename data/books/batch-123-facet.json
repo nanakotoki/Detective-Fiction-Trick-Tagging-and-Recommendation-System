@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "facet123-001",
+    "title": "中国侦探在旧金山",
+    "originalTitle": "",
+    "author": "乃凡",
+    "authorEn": "Nai Fan",
+    "genre": "历史推理",
+    "firstPublished": "2022",
+    "series": "中国近现代侦探小说拾遗",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "city",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
+    "safeSummary": "全书共收录四案：《一个没有完场的戏》《大厦之火》《永远的美丽》《冒险家之死》。民国侦探小说名家孙了红对该书推崇备至。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说的读者",
+        "关注中国侦探小说源流的读者"
+      ],
+      "watchFor": [
+        "四案各自的谜面",
+        "异国舞台的细节",
+        "民国叙述的语言风格"
+      ],
+      "warning": "民国侦探小说集，含命案、纵火与冒险情节描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：乃凡著，北京联合出版公司 2022.07，丛编项「**『中国近现代侦探小说拾遗』丛书**」。**推理属性判据**：①检索行**主题词为「侦探小说 小说集 中国 民国」**（第①类，最硬）；②丛编项为**专收中国近现代侦探小说的书系**；③馆藏提要文摘列出四案篇目并引民国侦探小说名家孙了红的推重之语。**新作者**：库内此前无乃凡作品。**年份字段说明**：`firstPublished` 记 2022（本书为**民国作品的整理本**），`editionYear` **留空**。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-002",
+    "title": "侦探小说家的未来之书",
+    "originalTitle": "",
+    "author": "周恺",
+    "authorEn": "Zhou Kai",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "unreliable-narrator",
+      "ensemble"
+    ],
+    "school": [
+      "meta-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，收《失踪》《背叛》《冒犯实验》《伪装》《白茂的骗局》《杂种春天》《刺青》《侦探小说家的未来之书》《梦之书》《不可饶恕的查沃狮》等篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语实验性推理的读者",
+        "喜欢短篇集的读者"
+      ],
+      "watchFor": [
+        "同名篇对侦探小说文体的处理",
+        "各篇叙述者的立场",
+        "篇与篇之间的呼应"
+      ],
+      "warning": "犯罪悬疑短篇集，含失踪、背叛与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：周恺著，译林出版社 2024（南京）。**推理属性判据**：①检索行**主题词为「侦探小说 小说集 中国 当代」**（第①类）；②馆藏提要文摘列出全部篇目。**新作者**：库内此前无周恺作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-003",
+    "title": "超能力侦探事务所2：神秘组织",
+    "originalTitle": "",
+    "author": "陆烨华",
+    "authorEn": "Lu Ye Hua",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "超能力侦探事务所系列",
+    "detective": "李清湖、左柔、叶飞刀、幽幽",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "幻影城是一座侦探之城，各家神探大显神通，也暗自比拼。唯独一桩十年前的案子至今无人破解，其幕后黑手依旧让侦探们闻风丧胆——他们就是「神秘组织」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语本格的读者",
+        "陆烨华的读者"
+      ],
+      "watchFor": [
+        "各侦探「没什么用」的超能力",
+        "十年前那桩悬案的记录",
+        "神秘组织的行动方式"
+      ],
+      "warning": "本格推理长篇，含命案与暴力描写，笔调诙谐。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：陆烨华著，新星出版社 2017.6（北京），丛编项「**午夜文库.原创系列**」。**推理属性判据**：①检索行**主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；②丛编项为**推理专门书系「午夜文库」的原创系列**；③馆藏提要文摘写明四位超能力侦探与十年前的悬案。**补作者缺口**：作者陆烨华库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-004",
+    "title": "镜框上的血痕",
+    "originalTitle": "",
+    "author": "苏天才",
+    "authorEn": "Su Tiancai",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "countryside",
+      "forensic"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school",
+      "forensic-school"
+    ],
+    "safeSummary": "一部长篇侦探小说，讲述了一个发生在闽南乡村的命案侦破的故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语刑侦小说的读者",
+        "乡村背景命案题材的读者"
+      ],
+      "watchFor": [
+        "现场留下的血痕",
+        "乡村里的人际关系",
+        "警方的侦破步骤"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：苏天才著，群众出版社 2016.8（北京）。**推理属性判据**：①检索行**主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②馆藏提要文摘**直接写明**「这是一部贴近生活、很有故事的长篇**侦探小说**」并给出闽南乡村命案侦破的主线。**新作者**：库内此前无苏天才作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-005",
+    "title": "心灵侦探八云5：绵延的思念",
+    "originalTitle": "",
+    "author": "神永学",
+    "authorEn": "Kaminaga Manabu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "心灵侦探八云系列",
+    "detective": "八云",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "十五年前制造一家人惨杀事件的嫌疑人十五年后突然出现，而参与案件调查的八云和警察后藤突然失踪了。他们为什么消失不见？又会去哪里？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心灵侦探八云系列的读者",
+        "喜欢灵异设定与推理结合的读者"
+      ],
+      "watchFor": [
+        "十五年前那桩惨案的记录",
+        "八云与后藤失踪前后的线索",
+        "嫌疑人的行踪"
+      ],
+      "warning": "犯罪悬疑长篇，含灵异设定、惨杀与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 神永学著，青岛出版社 2016.05。**推理属性判据**：①检索行**主题词为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；②馆藏提要文摘**直接写明**「这是一部赞美勇气、合作、友谊的**悬疑类侦探小说**」；③**相关题名附注载明「封面英文共同题名：Psychic detective Yakumo 5」**。**补作者缺口**：作者神永学库内已有 1 部（本批另收第 7 册）。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "facet123-006",
+    "title": "心灵侦探八云7：灵魂的去向",
+    "originalTitle": "",
+    "author": "神永学",
+    "authorEn": "Kaminaga Manabu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "心灵侦探八云系列",
+    "detective": "八云",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "大森真人的同班同学由美子离奇失踪。八云、晴香、后藤远赴长野展开调查；与此同时，留守东京的石井开始独自调查七濑美雪的囚车被劫案。两起案件最终都指向信州鬼无里这一小村庄。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心灵侦探八云系列的读者",
+        "喜欢双线并进的读者"
+      ],
+      "watchFor": [
+        "两条调查线的接点",
+        "鬼无里这个小村庄的旧事",
+        "四十五年前发生过什么"
+      ],
+      "warning": "犯罪悬疑长篇，含灵异设定、失踪与劫囚描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 神永学著，青岛出版社 2016.05。**推理属性判据**：①检索行**主题词为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；②馆藏提要文摘**直接写明**这是「**悬疑类侦探小说**」并给出两条调查线；③相关题名附注载明英文共同题名。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "facet123-007",
+    "title": "死人侦探",
+    "originalTitle": "",
+    "author": "威廉·赫弗南",
+    "authorEn": "William Heffernan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "哈利·道尔系列",
+    "detective": "哈利·道尔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "city",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "哈利·道尔十岁时险遭谋杀，幸亏两名坦帕警察及时抢救才幸免于难。二十年后他成了一名献身缉凶事业的命案侦探——由于具有听到谋杀案受害者低语的能力，同事们称他「死人侦探」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "美式刑侦小说的读者",
+        "喜欢带超常设定的侦探的读者"
+      ],
+      "watchFor": [
+        "道尔听到的那些低语",
+        "案件受害者的身份",
+        "他自己的童年阴影"
+      ],
+      "warning": "犯罪悬疑长篇，含针对儿童的犯罪、命案与暴力描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 威廉·赫弗南著，现代出版社 2015.5（北京）。**推理属性判据**：①检索行**主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；②馆藏提要文摘写明主角的童年经历、职业与「死人侦探」这一称号的由来。**新作者**：库内此前无威廉·赫弗南作品。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet123-008",
+    "title": "私家侦探",
+    "originalTitle": "",
+    "author": "纪蔚然",
+    "authorEn": "Ji Weiran",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列",
+    "detective": "吴诚",
+    "country": "中国",
+    "tags": [
+      "city",
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "吴诚是前大学教授、前知名剧作家，因一次酒后失态引发的「龟山岛事件」愤而退出戏剧界，遁隐于六张犁当起私家侦探。他看报兼接案，唯一助手是某次跟监行动中结识的出租车司机添来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语冷硬派的读者",
+        "纪蔚然的读者"
+      ],
+      "watchFor": [
+        "吴诚接下的案子",
+        "他与各色人等的往来",
+        "平静生活背后的那串命案"
+      ],
+      "warning": "犯罪悬疑长篇，含连续杀人命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：纪蔚然著，作家出版社 2015.01（北京）。**推理属性判据**：①检索行**主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②馆藏提要文摘写明主角身份、助手与「台湾第一起计划性连续杀人命案」。**新作者**：库内此前无纪蔚然作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-009",
+    "title": "雨后的脚印",
+    "originalTitle": "",
+    "author": "王建幸",
+    "authorEn": "Wang Jianxing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "王建幸的悬疑侦探小说集：收录多篇以警方侦破为主线的短篇，书名取自其中一篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语刑侦短篇的读者",
+        "喜欢现场痕迹线索的读者"
+      ],
+      "watchFor": [
+        "各篇中现场留下的痕迹",
+        "办案人员的推断",
+        "篇末对前文的重新解释"
+      ],
+      "warning": "犯罪悬疑短篇集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：王建幸著，文汇出版社 2015.02（上海）。**推理属性判据**：①检索行**主题词为「侦探小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②书名副题即「**悬疑侦探小说集**」。**备注**：该馆此条**提要文摘为空**，故梗概**只在体裁与主线层面概括，不虚构具体篇目**。**新作者**：库内此前无王建幸作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-010",
+    "title": "密室之无可逃脱",
+    "originalTitle": "",
+    "author": "贯越",
+    "authorEn": "Guan Yue",
+    "genre": "本格推理",
+    "firstPublished": "2013",
+    "series": "柳飞云系列",
+    "detective": "柳飞云、李晓峰",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "柳飞云与李晓峰合伙开了家只有一名员工的皮包公司。亏损三个月后，他们饥不择食地接下了开张以来的第一单生意：调查一具四处游荡的尸体——随后便陷入前所未有的大麻烦。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语本格的读者",
+        "密室诡计爱好者"
+      ],
+      "watchFor": [
+        "「四处游荡的尸体」是怎么回事",
+        "委托人的说辞",
+        "密室的构成条件"
+      ],
+      "warning": "本格推理长篇，含尸体、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：贯越著，重庆出版社 2013.08（重庆）。**推理属性判据**：①检索行**主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②书名即「密室」，馆藏提要文摘给出两位主角与「四处游荡的尸体」这一谜面。**补作者缺口**：作者贯越库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2013，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-011",
+    "title": "谋杀夏天",
+    "originalTitle": "",
+    "author": "赵小赵",
+    "authorEn": "Zhao Xiaozhao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "非系列",
+    "detective": "顾小白",
+    "country": "中国",
+    "tags": [
+      "youth",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "十三年前高考结束后的一个夏日，备受学生喜爱的老师孟海被人杀害。由五名学生组成的萤火虫乐队卷入这起枪击案，键盘手江蓝向警方自首。十三年后，吉他手顾小白回老家担任刑侦队队长。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语犯罪悬疑的读者",
+        "喜欢旧案与新案交错的读者"
+      ],
+      "watchFor": [
+        "当年那起枪击案的经过",
+        "乐队五名成员各自的下落",
+        "新案与旧案的接点"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、枪击与校园旧事描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：赵小赵著，人民文学出版社 2024（北京），丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；②馆藏提要文摘写明十三年前的枪击案与十三年后回乡任刑侦队长的旧乐队成员。**新作者**：库内此前无赵小赵作品（**华语原创推理**）。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-012",
+    "title": "福学家谋杀案",
+    "originalTitle": "",
+    "author": "格拉汉姆·摩尔",
+    "authorEn": "Graham Moore",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "meta-fiction",
+      "historical-setting",
+      "diary-form"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "在福尔摩斯学家的年度大会上，柯南·道尔失踪的日记引发了一起谋杀案。哈罗德·怀特运用福尔摩斯的推理方法追踪案情，却发现关键在柯南·道尔生命中一段不为人知的经历。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯迷",
+        "喜欢「书中书」结构的读者"
+      ],
+      "watchFor": [
+        "失踪日记的内容",
+        "两个时代的平行叙事",
+        "道尔当年为什么想「杀死」福尔摩斯"
+      ],
+      "warning": "历史推理长篇，含命案与历史人物相关情节描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 格拉汉姆·摩尔著，人民文学出版社 2015（北京）。**推理属性判据**：①检索行**主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；②馆藏提要文摘写明双重时空的案情结构。**新作者**：库内此前无格拉汉姆·摩尔作品。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet123-013",
+    "title": "歪斜的复印：税务杀人事件",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "gain",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一个神秘的年轻男子，每晚枯坐一家酒吧中固定的角落，凝视着对面的饭店。两个月后，这个常客突然从这家酒吧消失；再过两个月，他已成一具腐尸。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "松本清张的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "死者当年的税务员身份",
+        "他每晚凝视的那家饭店",
+        "「世人无法理解的动机」"
+      ],
+      "warning": "社会派长篇，含命案、腐尸与贪腐描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 松本清张著，译林出版社 2012（南京）。**推理属性判据**：①检索行**主题词为「长篇小说 日本 现代 ; 推理小说 日本 现代」**（第①类，最硬）；②馆藏提要文摘写明税务员之死与「我的犯罪动机，是世人无法理解的」这句供述。**补作者缺口**：作者松本清张库内已有 30 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2012。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "facet123-014",
+    "title": "爱情就是悬疑",
+    "originalTitle": "",
+    "author": "达芙妮·杜穆里埃",
+    "authorEn": "Daphne du Maurier",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "收录六篇短篇悬疑佳作，包括《群鸟》《真理之山》《苹果树》《小摄影师》等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "杜穆里埃的读者",
+        "喜欢心理悬疑短篇的读者"
+      ],
+      "watchFor": [
+        "各篇中不安感的来源",
+        "叙述者的立场",
+        "结尾处情势的反转"
+      ],
+      "warning": "心理悬疑短篇集，含惊悚气氛、命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 达芙妮·杜穆里埃著，北京日报出版社 2022（北京），丛编项「**读客悬疑文库**；达芙妮·杜穆里埃经典作品」。**推理属性判据**：①检索行**主题词为「推理小说 小说集；短篇小说 小说集 英国 现代」**（第①类）；②丛编项含**悬疑推理专门书系「读客悬疑文库」**；③馆藏提要文摘列出篇目。**新作者**：库内此前无达芙妮·杜穆里埃作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet123-015",
+    "title": "开元悬疑录：将进酒",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "2016",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "大唐开元初年，唐玄宗历经多番政治搏杀终登帝位。面对内外交困的局面，皇帝励精图治，忠臣良将同心协力，治世之风初现。然而括户之政与对外进取之策，也使政局涌动，暗伏危机。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "中国古代大案探奇录系列的读者"
+      ],
+      "watchFor": [
+        "括户之政牵动的各方",
+        "朝堂上的人事变动",
+        "案件与政局的关系"
+      ],
+      "warning": "历史推理长篇，唐代背景，含命案与政治斗争描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：吴蔚著，中国民主法制出版社 2016.04（北京），丛编项「**中国古代大案探奇录**」。**推理属性判据**：①检索行**主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②丛编项为**以「大案探奇」命名的历史探案书系**。**补作者缺口**：作者吴蔚库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet123-016",
+    "title": "浴场谋杀案",
+    "originalTitle": "",
+    "author": "巴斯克斯·蒙塔尔万",
+    "authorEn": "Manuel Vázquez Montalbán",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "佩佩·卡瓦略系列",
+    "detective": "佩佩·卡瓦略",
+    "country": "西班牙",
+    "tags": [
+      "city",
+      "social-commentary",
+      "forensic"
+    ],
+    "school": [
+      "social-school",
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "蒙塔尔万「佩佩·卡瓦略」系列的一部长篇：巴塞罗那的私家侦探卡瓦略接下一桩与浴场有关的案子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "南欧犯罪小说的读者",
+        "美食与侦探结合的题材"
+      ],
+      "watchFor": [
+        "卡瓦略的调查方式",
+        "巴塞罗那的城市细节",
+        "案件背后的社会处境"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(西) 巴斯克斯·蒙塔尔万著，人民文学出版社 2011.03（北京）。**推理属性判据**：①检索行**主题词为「侦探小说 西班牙 现代 ; 长篇小说 西班牙 现代」**（第①类，最硬）。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列与主角层面概括，不虚构具体案情**。**新作者**：库内此前无蒙塔尔万作品，亦无西班牙推理作者。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "facet123-017",
+    "title": "雅典谋杀案",
+    "originalTitle": "",
+    "author": "何塞·卡洛斯·索莫萨",
+    "authorEn": "José Carlos Somoza",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "西班牙",
+    "tags": [
+      "historical-setting",
+      "meta-fiction",
+      "diary-form"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "古希腊雅典城突发饿狼袭人事件，死去的学生来自柏拉图学园，解谜人受命调查。正当他试图借理性的推理结案之时，凶案再度发生。而这桩古代谜案的原稿来到了现代译者手中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「书中书」结构的读者",
+        "古希腊背景推理的读者"
+      ],
+      "watchFor": [
+        "古代线里的解谜过程",
+        "现代译者那条线的异样",
+        "两条线的接点"
+      ],
+      "warning": "历史推理长篇，含命案、尸体与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(西) 何塞·卡洛斯·索莫萨著，译林出版社 2022（南京）。**推理属性判据**：①检索行**主题词为「推理小说 西班牙 现代 ; 长篇小说 西班牙 现代」**（第①类，最硬）；②馆藏提要文摘写明古希腊解谜人与现代译者双线的嵌套结构。**新作者**：库内此前无索莫萨作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet123-018",
+    "title": "字母袖扣谋杀案",
+    "originalTitle": "",
+    "author": "苏菲·汉娜",
+    "authorEn": "Sophie Hannah",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "赫尔克里·波洛系列（新作）",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "cipher",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "休假中的波洛习惯每周四晚上七点去「欢乐咖啡屋」吃晚餐。这个星期四，他遇见了一位神情慌乱的女士，自称珍妮。珍妮声称有人要杀她，却又承认自己罪有应得。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "波洛系列的读者",
+        "克里斯蒂作品续作的好奇者"
+      ],
+      "watchFor": [
+        "珍妮那句「罪有应得」",
+        "袖扣上的字母",
+        "咖啡屋里其他常客"
+      ],
+      "warning": "本格推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 苏菲·汉娜著，新星出版社 2016.06（北京），丛编项「**阿加莎·克里斯蒂作品集.波洛系列**；午夜文库.大师系列」。**推理属性判据**：①检索行**主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②丛编项把它编入**波洛系列**且属**推理专门书系「午夜文库」**；③馆藏提要文摘写明波洛在咖啡屋遇见求助女士的开场。**备注**：本书是**克里斯蒂产权会授权的波洛系列新作**（作者苏菲·汉娜），**作者记实际执笔者苏菲·汉娜**，不记克里斯蒂——与本项目「改编作品记原著作者」的规则不同，因为这是**新创作的小说**而非改编。**新作者**：库内此前无苏菲·汉娜作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "facet123-019",
+    "title": "圣诞老人疑案",
+    "originalTitle": "",
+    "author": "梅维斯·多里尔·海",
+    "authorEn": "Mavis Doriel Hay",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "梅尔布里家族的成员每年圣诞节都会回到位于法莱克斯米尔的老家团聚。奥斯蒙德爵士作为家长认为圣诞团圆理所应当，因此即便大家通常都会度过一段阴郁的假期，也没有人胆敢说不。然而今年的圣诞节一切都变了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "大英图书馆侦探小说系列的读者"
+      ],
+      "watchFor": [
+        "家族成员各自的处境",
+        "团聚当天的行踪",
+        "家长的权威如何被动摇"
+      ],
+      "warning": "本格推理长篇，家族团聚舞台，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 梅维斯·多里尔·海著，中国青年出版社 2019（北京），丛编项「**大英图书馆·侦探小说黄金时代经典作品集**」。**推理属性判据**：①检索行**主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②丛编项为**以「侦探小说黄金时代」命名的专门书系**；③馆藏提要文摘写明家族圣诞团聚的设定与「今年的圣诞节一切都变了」。**新作者**：库内此前无梅维斯·多里尔·海作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2019。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "facet123-020",
+    "title": "地铁疑案",
+    "originalTitle": "",
+    "author": "梅维斯·多里尔·海",
+    "authorEn": "Mavis Doriel Hay",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "train",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个普通的周五清晨，肯定有不少人会从弗兰普敦私人酒店门前经过——那正是受害者尤菲米娅·彭莱顿女士居住的地方——却没有注意到任何异常。等从晚报看到噩耗时，他们才为自己粗心而后悔。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢交通线谜案的读者"
+      ],
+      "watchFor": [
+        "周五清晨的目击者证词",
+        "地铁与酒店之间的动线",
+        "各人「事后想起」的细节"
+      ],
+      "warning": "本格推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 梅维斯·多里尔·海著，中国青年出版社 2020（北京），丛编项「**大英图书馆·侦探小说黄金时代经典作品集**」。**推理属性判据**：①检索行**主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②丛编项为**以「侦探小说黄金时代」命名的专门书系**；③馆藏提要文摘以目击者的「事后回想」开篇。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2020。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-123-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  }
+]

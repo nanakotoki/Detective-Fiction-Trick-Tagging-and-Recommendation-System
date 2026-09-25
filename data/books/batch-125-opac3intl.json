@@ -1,0 +1,910 @@
+[
+  {
+    "id": "facet125-001",
+    "title": "伊芙琳的七次死亡",
+    "originalTitle": "The Seven Deaths of Evelyn Hardcastle",
+    "author": "斯图尔特·特顿",
+    "authorEn": "Stuart Turton",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "艾登·毕肖",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "nonlinear",
+      "swap-murder",
+      "mansion",
+      "identity"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "在父母举办的舞会上，伊芙琳将再一次被杀；每次循环里，想要救她的人都会在另一名宾客的身体中醒来，而有人正设法把他永远困在这座庄园里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢结构实验的本格读者",
+        "封闭庄园群像剧的读者"
+      ],
+      "watchFor": [
+        "每天醒来的身份与当天线索的对应",
+        "庄园访客之间反复出现的相处模式"
+      ],
+      "warning": "本格推理长篇，采用循环与换身结构，人物众多，建议边读边记时间线。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「检索行主题词枚举」渠道发现）：(英) 斯图尔特·特顿著，中国友谊出版公司 2021。**推理属性判据**：**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；馆藏提要写明「打破这一循环的唯一方法就是找出凶手」。**新作者**：库内此前无斯图尔特·特顿作品。**年份字段说明**：`firstPublished` 记原作年 2018（英文原书名取自原作名），`editionYear` 记所引中译本 2021。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-002",
+    "title": "露西亚娜·B的缓慢死亡",
+    "originalTitle": "La muerte lenta de Luciana B",
+    "author": "吉列尔莫·马丁内斯",
+    "authorEn": "Guillermo Martínez",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "阿根廷",
+    "tags": [
+      "psychological-misdirection",
+      "revenge",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "十年之间，露西亚娜身边的人接连死去，她把每一桩都算在当年那位作家的头上；巧合与精心策划的界限在哪里，成了全书的追问。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好心理悬念的读者",
+        "《牛津迷案》作者的读者"
+      ],
+      "watchFor": [
+        "每一桩死亡被叙述的方式",
+        "叙述者自身的立场与可信度"
+      ],
+      "warning": "犯罪悬疑长篇，含连续死亡事件与跟踪骚扰描写，气氛压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：吉列尔莫·马丁内斯著，人民文学出版社 2011，丛编项「99畅销文库」。**推理属性判据**：**检索行主题词为「推理小说 阿根廷 现代 ; 长篇小说 阿根廷 现代」**（第①类，最硬）；馆藏提要即以「巧合，还是天才策划的不可能犯罪」提出问题。**新作者**：库内此前无吉列尔莫·马丁内斯作品。**年份字段说明**：`firstPublished` 记原作年 2007，`editionYear` 记所引中译本 2011。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-003",
+    "title": "红色死亡",
+    "originalTitle": "A Red Death",
+    "author": "沃尔特·莫斯里",
+    "authorEn": "Walter Mosley",
+    "genre": "硬汉派",
+    "firstPublished": "1991",
+    "editionYear": "2013",
+    "series": "易兹·罗林斯探案系列",
+    "detective": "易兹·罗林斯",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "identity",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school"
+    ],
+    "safeSummary": "靠收租过日子的易兹被一名税务官盯上，为了遮掩来路不明的钱款，他不得不替联邦特工充当卧底，由此卷进一桩更麻烦的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "冷硬派的读者",
+        "关注种族与阶层议题的读者"
+      ],
+      "watchFor": [
+        "易兹在房东、特工与街坊之间的周旋",
+        "五十年代洛杉矶的社会底色"
+      ],
+      "warning": "冷硬派长篇，含暴力与种族歧视描写，为易兹·罗林斯系列第 2 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：沃尔特·莫斯里著，上海译文出版社 2013.05，丛编项「易兹·罗林斯探案系列」。**推理属性判据**：**检索行主题词为「长篇小说 美国 现代 ; 推理小说 美国 现代」**（第①类，最硬）；丛编项为作者本人的侦探系列。**新作者**：库内此前无沃尔特·莫斯里作品（库内亦无该系列第 1 部《蓝裙魔鬼》，已核）。**年份字段说明**：`firstPublished` 记原作年 1991（系列第 2 部 A Red Death），`editionYear` 记所引中译本 2013。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-004",
+    "title": "谁的尸体",
+    "originalTitle": "Whose Body?",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1923",
+    "editionYear": "2006",
+    "series": "彼得·温西勋爵系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "faceless-corpse",
+      "identity",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位先生回到自家卫生间，发现里面无端多出一具男尸；巧合的是，城中一位有名望的投资家同时不见了踪影。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "彼得·温西系列的读者"
+      ],
+      "watchFor": [
+        "两件事在时间上的重合",
+        "尸体身上与现场不合的细节"
+      ],
+      "warning": "本格推理长篇，含尸体与验尸描写，系温西勋爵系列首作。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：多萝西·利·塞耶斯著，群众出版社 2006，丛编项「英国侦探小说女皇多萝西·利·塞耶斯系列」。**推理属性判据**：**检索行主题词为「长篇小说 英国 现代 ; 侦探小说 英国 现代」**（第①类，最硬）；丛编项为作者个人作品系列。**同书异名核对**：本库塞耶斯条目用「多萝西·L·塞耶斯」写法（《九九神咒》《剧毒》等 6 部），本条沿用该写法；《谁的尸体》即 Whose Body?，库内此前无此书。**年份字段说明**：`firstPublished` 记原作年 1923，`editionYear` 记所引中译本 2006。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-005",
+    "title": "死亡之壳",
+    "originalTitle": "Shell of Death",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "1936",
+    "editionYear": "2023",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "alibi",
+      "mansion",
+      "countryside",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一战功勋飞行员接连收到威慑信，断言他将在节日当天毙命，于是他请来一位破案高手；家宴之上，他果然在众目睽睽下死去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "《野兽必死》作者的读者"
+      ],
+      "watchFor": [
+        "威慑信寄出的时间与来源",
+        "家宴上众人的座次与走动"
+      ],
+      "warning": "本格推理长篇，含命案与爆炸场面描写，为奈杰尔·斯特雷奇威系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：尼古拉斯·布莱克著，上海文艺出版社 2023.04，丛编项「尼古拉斯·布莱克桂冠推理全集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②馆藏提要写明「本书是长篇推理小说，采用了典型的『密室谋杀』故事构架」；③丛编项为作者的**推理作品全集**。**补作者缺口**：作者库内已有《野兽必死》《谋杀笔记》等 7 部，本条补该系列另一长篇。**年份字段说明**：`firstPublished` 记原作年 1936（Shell of Death），`editionYear` 记所引中译本 2023。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "逝灭之壳"
+    ]
+  },
+  {
+    "id": "facet125-006",
+    "title": "死亡邮递",
+    "originalTitle": "死の発送",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "松本清张作品",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "train",
+      "concealment",
+      "social-commentary",
+      "timetable"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名因挪用公款入狱的公务员与一名三流报社的总编相继离奇死亡；后者的尸体被装进一只超大的旅行箱，而在车站托运这只箱子的正是他自己。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派的读者",
+        "松本清张作品系列的读者"
+      ],
+      "watchFor": [
+        "托运记录上的姓名",
+        "两名死者之间看似无关的交集"
+      ],
+      "warning": "社会派推理长篇，含尸体与贪腐情节描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：松本清张著，浙江人民出版社 2020.09，丛编项「松本清张作品」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②馆藏提要写明「《死亡邮递》是日本作家松本清张所著的一部推理小说」。**补作者缺口**：作者库内已有 31 部，本条为其中未收的一部。**年份字段说明**：`editionYear` 记所引中译本 2020；`firstPublished` **留空**——中译名对应的原作篇目未能逐字确证（日文方面的同名影视化作品为「死の発送」），按既定做法**不冒填**，待原作信息可核后再补。 **诡计类标签补充（第 72 轮）**：据上图编目提要「一切的答案似乎都早已写在列车时刻表中」补标 timetable（提要明说答案在列车时刻表里——时刻表型的确证）。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-007",
+    "title": "不翼而飞的尸体",
+    "originalTitle": "The Corpse Steps Out",
+    "author": "克雷克·赖斯",
+    "authorEn": "Craig Rice",
+    "genre": "本格推理",
+    "firstPublished": "1940",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "identity",
+      "city",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "广播女星因旧日恋情被人勒索，随后对方暴死在公寓里，她成了头号嫌疑人；而尸体不久竟不翼而飞，新的受害者又出现了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典本格的读者",
+        "带喜剧色彩的推理小说读者"
+      ],
+      "watchFor": [
+        "尸体被移走的可能性",
+        "经纪人为她奔走时接触过的人"
+      ],
+      "warning": "本格推理长篇，含命案与勒索情节描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：克雷克·赖斯著，上海文艺出版社 2021，丛编项「域外故事会」。**推理属性判据**：**检索行主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；馆藏提要写明「杀死诸人的凶手到底是谁，保罗尸体又怎么不见」的谜面。**新作者**：库内此前无克雷克·赖斯作品。**年份字段说明**：`firstPublished` 记原作年 1940（The Corpse Steps Out），`editionYear` 记所引中译本 2021。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-010",
+    "title": "凶手在隔壁",
+    "originalTitle": "The Killer Next Door",
+    "author": "艾莉克丝·玛伍德",
+    "authorEn": "Alex Marwood",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "city",
+      "fear",
+      "concealment",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一个目击了犯罪现场的女子不得不亡命天涯，为了送母亲最后一程又冒险回来；她与同一栋楼里的邻居们各自藏着不能见光的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏好群像式悬疑的读者",
+        "《隔壁那对夫妻》作者的读者"
+      ],
+      "watchFor": [
+        "租客们彼此回避的话题",
+        "楼内公共空间里出现的异常"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、跟踪与暴力描写，气氛压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：艾莉克丝·玛伍德著，北京联合出版公司 2017，丛编项「果然·世界超级畅销小说大系」。**推理属性判据**：**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；馆藏提要写明「不仅仅是一本具有超高人气的悬疑推理小说」。**新作者**：库内此前无艾莉克丝·玛伍德作品。**年份字段说明**：`firstPublished` 记原作年 2013（The Killer Next Door），`editionYear` 记所引中译本 2017。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-011",
+    "title": "再也不绑架了",
+    "originalTitle": "もう誘拐なんてしない",
+    "author": "东川笃哉",
+    "authorEn": "Higashigawa Tokuya",
+    "genre": "青春推理",
+    "firstPublished": "2008",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "樽井翔太郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "identity",
+      "city",
+      "youth",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个怀揣梦想的打工仔受一位大小姐之托，策划了一场假绑架，本想赚一笔了事，却被卷进一连串荒唐的麻烦里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻喜剧推理的读者",
+        "《推理要在晚餐后》作者的读者"
+      ],
+      "watchFor": [
+        "假绑架计划之外的变数",
+        "委托人的真实处境"
+      ],
+      "warning": "轻喜剧风格推理长篇，含绑架与暴力团伙情节，基调轻松。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东川笃哉著，译林出版社 2013.01。**推理属性判据**：**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）。**补作者缺口**：作者库内已有《推理要在晚餐后》1–3、《不完整的密室》《向密室开枪》共 5 部。**年份字段说明**：`firstPublished` 记原作年 2008（もう誘拐なんてしない），`editionYear` 记所引中译本 2013。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-012",
+    "title": "华丽的绑架",
+    "originalTitle": "華麗なる誘拐",
+    "author": "西村京太郎",
+    "authorEn": "Nishimura Kyotaro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "左文字系列",
+    "detective": "左文字",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "city",
+      "ensemble",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "adventure-school",
+      "police-procedural"
+    ],
+    "safeSummary": "自称「蓝狮」的组织致电首相官邸，声称绑架了全体国民并索要巨额赎金，随后恐怖案件接连发生；私家侦探受托协助警方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "偏社会恐慌题材的推理读者"
+      ],
+      "watchFor": [
+        "电话录音里的细枝末节",
+        "组织「绑架全体国民」这一说法的含义"
+      ],
+      "warning": "犯罪悬疑长篇，含恐怖袭击与绑架情节描写，为左文字系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：西村京太郎著，青岛出版社 2024，丛编项「青鲤文库」。**推理属性判据**：**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；馆藏提要写明「精通心理学的左文字，通过对电话录音中蛛丝马迹线索的调查」逐步揭开真相。**补作者缺口**：作者库内已有 7 部（《七个证人》《双曲线的杀人案》等）。**年份字段说明**：`editionYear` 记所引中译本 2024；`firstPublished` **留空**——原题名可对应日文版『華麗なる誘拐』，但该日文原版的首版年未能核实，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-013",
+    "title": "火焰的凶器",
+    "originalTitle": "",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "天久鹰央的事件病历表",
+    "detective": "天久鹰央",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "curiosity",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "forensic-school"
+    ],
+    "safeSummary": "四名历史学者获准进入一位阴阳师后人的墓穴考察，不久一名副教授在密室中被火烧死，与传说里的杀人方式一模一样，余下的人开始相信诅咒。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "医学推理的读者",
+        "《天久鹰央的推理病历表》系列的读者"
+      ],
+      "watchFor": [
+        "密室内的燃烧痕迹",
+        "传说与现场细节的出入"
+      ],
+      "warning": "本格推理长篇，含烧死尸体与诅咒传说描写，为天久鹰央系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：知念实希人著，台海出版社 2021，丛编项为**「千本樱文库·推理作家系列」**与作品系列「天久鹰央的事件病历表」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②丛编项为**推理专门书系**（千本樱文库推理作家系列）；③馆藏提要写明密室中的烧死案与传说杀人方式。**补作者缺口**：作者库内已有《限时医院》《玻璃塔杀人事件》《天久鹰央的推理病历表》I–II 共 4 部。**年份字段说明**：`editionYear` 记所引中译本 2021；`firstPublished` **留空**——原题名未能确证，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet125-014",
+    "title": "百万富翁的心脏",
+    "originalTitle": "",
+    "author": "温宁顿",
+    "authorEn": "Winnington",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1980",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "gain",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "英国长篇推理小说的早期中译本，一九八〇年由吉林人民出版社出版；馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者与出版信息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "关注推理译介史的读者",
+        "旧译本收藏者"
+      ],
+      "watchFor": [
+        "一九八〇年代译本的语言习惯",
+        "译本对原著结构的处理"
+      ],
+      "warning": "早期中译长篇推理小说，馆藏未提供内容提要，梗概暂缺。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：温宁顿著，吉林人民出版社 1980，副题名「长篇推理小说」。**推理属性判据**：**检索行主题词为「长篇小说:推理小说 英国 现代 ; 推理小说:长篇小说 英国 现代」**（第①类，最硬，且为主题词中的**组配形式**，明确指出本书兼具长篇小说与推理小说两类属性）。**如实标注**：①本条**馆藏提要为空白**，梗概无法据实重写，`safeSummary` 只登记出版信息，未编造情节；②著者中文译名「温宁顿」为馆藏原样，**原文姓氏拼写未能核实**，`authorEn` 仅记该译名的通行拼写形式，待核。**年份字段说明**：`editionYear` 记所引中译本 1980；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-125-opac3intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

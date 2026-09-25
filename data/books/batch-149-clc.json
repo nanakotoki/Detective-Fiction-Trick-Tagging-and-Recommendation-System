@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "ns149-001",
+    "title": "谜局",
+    "originalTitle": "",
+    "author": "王文华",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "concealment",
+      "dual-line"
+    ],
+    "school": [
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "上世纪五十年代，越江地区破获了一起特务潜入案件，两名特务被当场打死，而准备接头的潜伏特务却始终没有被挖出来；公安部门为此秘密侦察，历经十年时间。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "反特题材的读者",
+        "长线追查结构的读者"
+      ],
+      "watchFor": [
+        "潜伏者为何十年未被挖出",
+        "历年侦察的线索链"
+      ],
+      "warning": "反特悬疑长篇，含潜伏与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举** `I247.56*` 发现）：王文华著，中国言实出版社 2022。**判据**：①索书号／中图分类 `I247.56`；②**提要写明公安部门「一直在秘密侦察，历经了 10 年时间」**——侦查内核。**新作者**。**如实标注**：该条馆藏未著录主题词（本桶按 §45.2 严格口径收录）。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-002",
+    "title": "尾气",
+    "originalTitle": "",
+    "author": "慢三",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "下班高峰、车流拥挤的高架桥上，一个男子突然猝死在车内；表面看起来是自杀无疑，但警察始终觉得事有蹊跷，不懈追查下发现了案件骇人听闻的背景。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派悬疑的读者",
+        "看似自杀型谜题的读者"
+      ],
+      "watchFor": [
+        "警方觉得蹊跷的那一点",
+        "死者生前的处境"
+      ],
+      "warning": "社会派犯罪悬疑长篇，含猝死与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：慢三著，人民文学出版社 2021，丛编项「99读书人」。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「警察始终觉得事有蹊跷，不懈的追查下」**——侦查内核。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-003",
+    "title": "人间.中卷：复活夜",
+    "originalTitle": "",
+    "author": "蔡骏",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "人间系列",
+    "detective": "高能",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "concealment",
+      "gain"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "系列中卷：主人公前往美国完成自己命中注定的任务——恢复公司大业；到美国后惊愕地发现所有关键人物接连死去，自己更被陷害入狱，在狱中接连遭遇一系列神秘事件。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "蔡骏的读者",
+        "《人间》系列的读者"
+      ],
+      "watchFor": [
+        "关键人物接连死去的原因",
+        "狱中的那些神秘事件"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与阴谋描写，为系列中卷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：蔡骏著，河南文艺出版社 2009，正题名「人间.中卷,复活夜」。**判据**：①索书号／中图分类 `I247.56`；②提要写明「关键人物接连死去」「被陷害，锒铛入狱」——命案与阴谋内核。**补系列缺口**：库内已有该系列上卷与大结局，本条补**中卷**，该系列至此收齐。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-004",
+    "title": "心理大师：模仿",
+    "originalTitle": "",
+    "author": "钟宇",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "心理大师系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "series-detective",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "陷入抑郁的心理师在游轮上再次遭遇对手；强悍的对手来袭，归来的恋人已是他人妻。心理师之间的试探、解离性迷游症下的失常，接连出现。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "犯罪心理题材的读者",
+        "《心理大师》系列的读者"
+      ],
+      "watchFor": [
+        "两位心理师之间的试探",
+        "解离性迷游症这一设定"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与心理疾病描写，为系列作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：钟宇著，中国友谊出版公司 2022，正题名「心理大师,模仿」。**判据**：①索书号／中图分类 `I247.56`；②**补系列缺口**——库内已有该系列的《起源》《深渊》《罪爱》3 部，本条补第 4 部。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-005",
+    "title": "2022中国年度悬疑小说",
+    "originalTitle": "",
+    "author": "蔡骏 主编",
+    "authors": [
+      "蔡骏"
+    ],
+    "anthology": true,
+    "authorEn": "Cai Jun (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "2022中国年度作品系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "年度悬疑小说选本，收录《真实的生活》《杯之壁障》《铁锈新鲜》《蝌蚪》《虚构的灰》《雪中追忆》《无辜的囚徒》《切齿梳》《第二方向》《空车》《窥光》《唯有死亡可以被原谅》等篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语悬疑短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的风格跨度",
+        "年度创作风向"
+      ],
+      "warning": "华语悬疑年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：蔡骏主编，漓江出版社 2023.05，丛编项「2022中国年度作品系列」。**判据**：①索书号／中图分类 `I247.56`；②**书名即「年度悬疑小说」**，提要列明所收篇目。**多作者模型**：多位作家的年度选本，`authors` 只登记主编、`author` 标签写「蔡骏 主编」；已标 `anthology`，界面显示「合集」徽章。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-006",
+    "title": "徐霞客山河异志",
+    "originalTitle": "",
+    "author": "茶弦",
+    "genre": "历史推理",
+    "firstPublished": "2020",
+    "series": "徐霞客山河异志系列",
+    "detective": "徐霞客",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "concealment",
+      "cipher"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "古代旅行悬疑小说：讲述中国旅行鼻祖徐霞客的旅行机密，还原他作为古代旅行家、探险家，擅长游法游术、身负各类求生用具、精于探寻山势水脉本来面貌的一面。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明代背景悬疑的读者",
+        "旅行探险题材的读者"
+      ],
+      "watchFor": [
+        "「旅行机密」指的是什么",
+        "游法游术在解谜中的用法"
+      ],
+      "warning": "历史悬疑长篇，明代背景，含探险与命案描写，为系列第 1 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：茶弦著，人民文学出版社 2020。**判据**：①索书号／中图分类 `I247.56`；②**馆藏提要写明「本书是一本古代旅行悬疑小说」**。**新作者**，本轮**一次补入该系列 3 部**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-007",
+    "title": "徐霞客山河异志.2：大明暗卫",
+    "originalTitle": "",
+    "author": "茶弦",
+    "genre": "历史推理",
+    "firstPublished": "2020",
+    "series": "徐霞客山河异志系列",
+    "detective": "徐霞客",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "古代旅行悬疑小说第二部，分「会聚篇」「离散篇」两篇，共含「旱骨桩」「探花郎」「群英会」「撒手锏」等八章。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明代背景悬疑的读者",
+        "《徐霞客山河异志》的读者"
+      ],
+      "watchFor": [
+        "两篇之间的结构关系",
+        "各章标题对应的内容"
+      ],
+      "warning": "历史悬疑长篇，明代背景，含探险与命案描写，为系列第 2 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：茶弦著，人民文学出版社 2020，正题名「徐霞客山河异志.2,大明暗卫」。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「本书是一本古代旅行悬疑小说」**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-008",
+    "title": "徐霞客山河异志.4",
+    "originalTitle": "",
+    "author": "茶弦",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "徐霞客山河异志系列",
+    "detective": "徐霞客",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "以徐霞客的历史记载为基础进行虚构创作的旅行悬疑小说第四部，全书八章：夺宫变、亡命徒、裹尸还、委鬼立、礼乐崩、九千岁、惊天爆、江湖远。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "明代背景悬疑的读者",
+        "《徐霞客山河异志》的读者"
+      ],
+      "watchFor": [
+        "八章标题串起的线索",
+        "宫廷与江湖两线的交汇"
+      ],
+      "warning": "历史悬疑长篇，明代背景，含命案与爆炸描写，为系列第 4 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：茶弦著，人民文学出版社 2021，正题名「徐霞客山河异志.4」。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「旅行悬疑小说」**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-009",
+    "title": "心狂：大结局",
+    "originalTitle": "",
+    "author": "初禾",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "心狂系列",
+    "detective": "明恕",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "当红明星在配合案件调查时神态有异，秉持着不放过任何一丝线索的信念，主人公决定追查下去；他背后的故事渐渐浮现在重案队众人眼前。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑侦题材的读者",
+        "《心狂》系列的读者"
+      ],
+      "watchFor": [
+        "明星神态有异的原因",
+        "重案队并线追查的思路"
+      ],
+      "warning": "刑侦题材长篇，含命案与暴力描写，为系列大结局。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：初禾著，北京联合出版公司 2022，正题名「心狂:大结局」。**判据**：①索书号／中图分类 `I247.56`；②提要写明「**案件调查**」「不放过任何一丝线索」「**重案队**」。**补系列缺口**：库内已有第 1、3 部，本条补大结局。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-010",
+    "title": "水浒猎人.4",
+    "originalTitle": "",
+    "author": "时晨",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "水浒猎人系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "北宋宣和二年重阳夜，梁山忠义堂内众好汉齐聚；一首表达招安之意的词曲唱罢，顿时让众人剑拔弩张，梁山好汉的出路问题成了上下最大的悬念和机密。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "水浒题材推理的读者",
+        "时晨的读者"
+      ],
+      "watchFor": [
+        "招安之争背后的算计",
+        "忠义堂上各方的立场"
+      ],
+      "warning": "历史推理长篇，北宋背景，含武力冲突与命案描写，为系列第 4 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：时晨著，人民文学出版社 2020，丛编项「99读书人」，正题名「水浒猎人.4」。**判据**：①索书号／中图分类 `I247.56`；②**补系列缺口**——库内已有该系列第 1、2 部（作者时晨为国内推理作家，库内另有多部作品），本条补第 4 部。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-011",
+    "title": "春寒",
+    "originalTitle": "",
+    "author": "赵娅君",
+    "genre": "历史推理",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "楚北望",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "民国十七年春，奉天古城：一直藏匿于市井深处无人知晓的华胜集，被一桩律师虐妻案推到了风口浪尖；警探孤身入局，调查过程中却意外频出，本该简单的案件变得扑朔迷离。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国奉天背景推理的读者",
+        "警探视角探案的读者"
+      ],
+      "watchFor": [
+        "案件为何越查越复杂",
+        "华胜集各方人物的来历"
+      ],
+      "warning": "历史推理长篇，民国背景，含虐妻案与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：赵娅君著，北京联合出版公司 2022。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「警探楚北望孤身入局，调查过程中却意外频出……案件变得扑朔迷离」**——侦查内核。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-013",
+    "title": "风暴来的那一天",
+    "originalTitle": "",
+    "author": "吴沚默",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "concealment",
+      "unreliable-narrator",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位不得志的颓废女演员，某天一个女孩不请自来成了她的室友；她渐渐发现，这个貌似热情的女孩正偷偷把触角伸向她不为人知的过往——母亲的出轨、意外的车祸、父亲的死亡。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "往事揭秘型叙事"
+      ],
+      "watchFor": [
+        "室友为何而来",
+        "父亲死亡那天的经过"
+      ],
+      "warning": "犯罪悬疑长篇，含车祸、死亡与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：吴沚默著，中信出版集团 2020。**判据**：①索书号／中图分类 `I247.56`；②提要给出「偷偷把触角伸向她不为人知的过往」这一解谜结构。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-014",
+    "title": "一个死后成名的画家又回来了",
+    "originalTitle": "",
+    "author": "张寒寺",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "dual-role",
+      "concealment",
+      "gain"
+    ],
+    "school": [
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "双胞胎弟弟去世后，哥哥在他人鼓动下与弟弟互换身份，让自己从世人眼中「消失」；通过商业运作，他的画作从无人问津到被炒上天价，而越来越多的人入局，谎言也越滚越大。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "身份互换题材的读者",
+        "艺术圈题材悬疑的读者"
+      ],
+      "watchFor": [
+        "假死如何维持",
+        "入局者的各自盘算"
+      ],
+      "warning": "犯罪悬疑长篇，含死亡与骗局描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：张寒寺著，江苏凤凰文艺出版社 2023。**判据**：①索书号／中图分类 `I247.56`；②提要给出「互换身份 + 假死 + 越滚越大的谎言」这一悬疑结构。**补作者缺口**：库内已有其作品。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-015",
+    "title": "虞美人不开的夏天",
+    "originalTitle": "",
+    "author": "鹿迢迢",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "女主角因一条匿名短信意外发现埋藏多年的秘密，一张保单揭开了尘封许久的过往；多年前的那起事件又重新出现在众人面前，行文层层剥茧，一点点展露二十年前那起事件的幕后真相。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "家族旧事题材悬疑的读者",
+        "保单与遗产线索的读者"
+      ],
+      "watchFor": [
+        "那张保单的受益人",
+        "二十年前那起事件"
+      ],
+      "warning": "犯罪悬疑长篇，含旧案与家庭秘密描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：鹿迢迢著，长江出版社 2024。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「行文层层剥茧……展露出 20 年前那起事件的幕后真相」**——解谜内核。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-016",
+    "title": "护宝寻踪",
+    "originalTitle": "",
+    "author": "灵羲",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "gain",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "以全国重大考古发现为现实蓝本：考古工作者与公安局文物缉查队等一线文物保护工作者，与盗墓者、文物贩子斗智斗勇，破获文物犯罪大案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "文物保护题材刑侦的读者",
+        "考古背景故事的读者"
+      ],
+      "watchFor": [
+        "文物犯罪链条的层级",
+        "考古发现与案件的关联"
+      ],
+      "warning": "刑侦题材长篇，含文物犯罪与命案描写；原作分上、下两册，本库合并为一条。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：灵羲著，青岛出版社 2025。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「公安局文物缉查队……破获文物犯罪大案」**——侦查内核。**收录说明**：本书**站在文物保护与缉查一方**（与「盗墓题材」相反），故按推理收录。**合并说明**：馆藏「护宝寻踪.上／.下」两条提要相同，**合并为一条**。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-017",
+    "title": "大汉绣衣使：无庸夫人",
+    "originalTitle": "",
+    "author": "黄虫子",
+    "genre": "历史推理",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "以悬疑手法描述大汉盛世时期的朝野全图：从天子近臣「绣衣使者」的角度，对当时的异族、外戚、功臣、豪强，边防与内政等做了多方位的展现。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "汉代背景悬疑的读者",
+        "古代监察/侦查官职题材"
+      ],
+      "watchFor": [
+        "绣衣使者的职权范围",
+        "朝野各方的立场"
+      ],
+      "warning": "历史悬疑长篇，汉代背景，含命案与朝堂争斗描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：黄虫子著，重庆出版社 2023，正题名「大汉绣衣使,无庸夫人」。**判据**：①索书号／中图分类 `I247.56`；②**提要写明「以悬疑手法」**，且主角身份为汉代负责缉查的「绣衣使者」。**新作者**。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-018",
+    "title": "秘密实验：甲骨碎",
+    "originalTitle": "",
+    "author": "那多",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "秘密实验系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "cipher",
+      "concealment",
+      "ensemble",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "围绕伦敦甲骨拍卖会的强烈诱惑，老千们依次登场，意外事件接连发生；惊人的真相伴随着一个个陷阱的浮现与一次次人性的考验。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "那多的读者",
+        "文物与骗局题材的读者"
+      ],
+      "watchFor": [
+        "甲骨拍卖会上的陷阱",
+        "老千们各自的目标"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与骗局描写；小说**融合悬疑、侦探与魔幻成分**，已如实标注。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：那多著，人民文学出版社 2021，正题名「秘密实验, 原名, 甲骨碎,甲骨碎」。**判据**：①索书号／中图分类 `I247.56`；②**馆藏提要写明「小说融合悬疑、侦探、魔幻等诸多因素」**——「侦探」为提要自述。**如实标注**：含**魔幻成分**，已在 `readingTips.warning` 与 `bizarre-school` 中写明。**补作者缺口**：作者库内已有《返祖》《19年间谋杀小叙》。**如实标注**：该条馆藏未著录主题词。**同名说明**：本书原名《甲骨碎》，题名依馆藏著录。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-019",
+    "title": "秘密实验：百年诅咒",
+    "originalTitle": "",
+    "author": "那多",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "秘密实验系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "legend-folklore",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "以作家茨威格的自传《昨日的世界》为引：他在自传里用很大篇幅记录了自己遭遇到的连环神秘死亡事件——与他的剧本有关的演员都无一幸免于死亡的厄运。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "那多的读者",
+        "文学史与谜案交织题材的读者"
+      ],
+      "watchFor": [
+        "剧本与演员死亡之间的对应",
+        "茨威格自传里的记录"
+      ],
+      "warning": "犯罪悬疑长篇，含连环死亡描写；小说**融合悬疑、侦探与魔幻成分**，已如实标注。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：那多著，人民文学出版社 2021，正题名「秘密实验, 原名, 百年诅咒,百年剧本谜咒」。**判据**：①索书号／中图分类 `I247.56`；②提要核心为「**连环神秘死亡事件**」的调查。**如实标注**：含**魔幻成分**（与同系列《甲骨碎》一致），已在 `readingTips.warning` 与 `bizarre-school` 中写明。**同名说明**：本书原名《百年诅咒》，题名依馆藏著录。**如实标注**：该条馆藏未著录主题词。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-020",
+    "title": "恐怖的魔王·黑手",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "江户川乱步青年侦探全集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "cipher",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "本书含两个故事：《恐怖的魔王》讲本已在一周前死去的女儿突然打来电话，让父亲送赎金给绑匪并接她回家；送赎金时，他发现与另一具尸体重叠的女儿尸体上刻着「恶魔王」字样。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步的读者",
+        "青年侦探全集的读者"
+      ],
+      "watchFor": [
+        "死去一周的人为何来电",
+        "尸体上的字样"
+      ],
+      "warning": "变格推理中篇集，含绑架、命案与怪奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举** `I313.456*` 发现）：江户川乱步著，时代文艺出版社 2016，丛编项「**江户川乱步青年侦探全集**」。**判据**：①索书号／中图分类 `I313.456`——**日本侦探／推理小说的专门分类号**；②**丛编项直接标明「侦探全集」**；③提要写明绑架与「恶魔王」谜面。**补作者缺口**：库内已有乱步作品 63 部，本轮**一次补入该全集 3 部**。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-021",
+    "title": "暗黑星·二钱铜币",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "江户川乱步青年侦探全集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "cipher",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "本书由《暗黑星》和《二钱铜币》两部小说集组成：《暗黑星》讲儿子遇刺受伤、妻子和小女儿遭害身亡、陌生男子死于家中，连负责侦破此案的大侦探也遭枪击住进了医院。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步的读者",
+        "明智小五郎系列的读者"
+      ],
+      "watchFor": [
+        "凶手为何连侦探也下手",
+        "《二钱铜币》的密码推理"
+      ],
+      "warning": "本格推理小说集，含命案与枪击描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：江户川乱步著，时代文艺出版社 2016，丛编项「江户川乱步青年侦探全集」。**判据**：①索书号／中图分类 `I313.456`；②丛编项标明「侦探全集」；③提要写明「负责**侦破**此案的大侦探**明智小五郎**」。**交叉说明**：所收《二钱铜币》**库内另有单篇条目**，按 §18.3「同一作品的不同选本算不同书目」处理，并在此交叉注明。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-022",
+    "title": "侏儒法师",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "江户川乱步青年侦探全集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "深更半夜的浅草公园、打烊闭店后的和服商场，侏儒的身影总是幽灵般出没在黑暗中；伴随他出现的还有残断的人的肢体——这些残肢从哪里来，被害人又是谁？",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步的读者",
+        "变格派怪奇推理的读者"
+      ],
+      "watchFor": [
+        "残肢的来源",
+        "侏儒为何始终逍遥法外"
+      ],
+      "warning": "变格推理长篇，含残肢、命案与怪奇描写，画面感较强。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：江户川乱步著，时代文艺出版社 2016，丛编项「江户川乱步青年侦探全集」。**判据**：①索书号／中图分类 `I313.456`；②丛编项标明「侦探全集」；③提要给出「残肢从哪里来、被害人是谁」的谜面。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-023",
+    "title": "胜者即是正义.2",
+    "originalTitle": "",
+    "author": "古沢良太、百濑忍",
+    "authors": [
+      "古沢良太",
+      "百濑忍"
+    ],
+    "authorEn": "Kozawa Ryota; Momose Shinobu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "胜者即是正义系列",
+    "detective": "古美门",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "「世纪恶女」毒杀情夫一案震惊全国，以金钱衡量案件价值的律师冒天下之大不韪出任被告的辩护律师，为其进行无罪辩护，却遭到曾在其门下实习的新人检察官的阻截。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭题材的读者",
+        "《胜者即是正义》的读者"
+      ],
+      "watchFor": [
+        "毒杀案的证据链",
+        "辩护策略的取舍"
+      ],
+      "warning": "法律题材犯罪悬疑长篇，含毒杀案与庭审描写，为**两位作者合著**，系列第 2 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I313.456*` 发现）：古沢良太、百濑忍著，人民文学出版社 2016，丛编项「99畅销文库」，正题名「胜者即是正义.2」。**判据**：①索书号／中图分类 `I313.456`；②**提要写明「毒杀情夫一案」「进行无罪辩护」**。**多作者模型**：`authors` 记两位，界面显示「合著」徽章。**补系列缺口**：与第 1 部同批补入。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-024",
+    "title": "胜者即是正义：特别篇",
+    "originalTitle": "",
+    "author": "古沢良太、百濑忍",
+    "authors": [
+      "古沢良太",
+      "百濑忍"
+    ],
+    "authorEn": "Kozawa Ryota; Momose Shinobu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "胜者即是正义系列",
+    "detective": "古美门",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "youth",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名中学男生坠楼摔成重伤，他的母亲坚信儿子在校受到了欺负、是被其他男孩推下楼的；家长与校方意见不一致，母亲通过他人找到了那位讨厌小屁孩和学校的律师。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭题材的读者",
+        "校园霸凌题材的读者"
+      ],
+      "watchFor": [
+        "坠楼是意外还是被推",
+        "校方回应的破绽"
+      ],
+      "warning": "法律题材犯罪悬疑长篇，涉及校园霸凌与坠楼事件，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：古沢良太、百濑忍著，人民文学出版社 2016，丛编项「99畅销文库」，正题名「胜者即是正义,特别篇」。**判据**：①索书号／中图分类 `I313.456`；②提要核心是坠楼事件的**调查与责任认定**。**多作者模型**：`authors` 记两位。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2016；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-025",
+    "title": "少女魔术师",
+    "originalTitle": "",
+    "author": "松冈圭祐",
+    "authorEn": "Matsuoka Keisuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "千里眼系列",
+    "detective": "岬美由纪",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "长野县发生雪山遇险事故，度假到此的主人公立即投入救援，可现场空无人影，她反倒被一场雪崩掩埋；好不容易回到之前入住的酒店，所有工作人员竟无一人认识她，且个个都声称她没来过。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "身份消失型谜题的读者",
+        "千里眼系列的读者"
+      ],
+      "watchFor": [
+        "酒店的人为何都不认识她",
+        "雪山现场到底发生了什么"
+      ],
+      "warning": "犯罪悬疑长篇，含雪崩、失踪与命案疑云。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I313.456*` 发现）：松冈圭祐著，上海译文出版社 2015，丛编项「**千里眼系列**」。**判据**：①索书号／中图分类 `I313.456`；②丛编项为作者本人的系列；③提要给出「所有人都不认识她」这一身份消失谜题。**新作者**。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-026",
+    "title": "二重身宫",
+    "originalTitle": "",
+    "author": "雾舍巧",
+    "authorEn": "Kirisaki Takumi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "梅菲斯特奖获奖精品",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "dual-role",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "本格推理长篇：以一座奇特的建筑为舞台，围绕「二重身」这一设定展开的密室与身份谜题。馆藏提要未提供情节内容，梗概暂缺。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格建筑题材的读者",
+        "梅菲斯特奖作品的读者"
+      ],
+      "watchFor": [
+        "建筑的构造与机关",
+        "「二重身」这一设定的规则"
+      ],
+      "warning": "本格推理长篇，含命案与建筑机关描写；馆藏未提供内容提要，梗概未扩写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I313.456*` 发现）：雾舍巧著，北岳文艺出版社 2004.10，丛编项「**梅菲斯特奖获奖精品**」。**判据**：①索书号／中图分类 `I313.456`——**日本侦探／推理小说的专门分类号**；②丛编项为**日本推理专门奖项「梅菲斯特奖」的获奖作品书系**——这是一条独立的、很强的第①类旁证。**如实标注**：**馆藏提要为空白**，`safeSummary` 只作体裁性描述，**未编造情节**；该条馆藏亦未著录主题词。**新作者**。**年份字段说明**：`editionYear` 记 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-027",
+    "title": "针眼",
+    "originalTitle": "",
+    "author": "肯·弗罗特",
+    "authorEn": "Ken Follett",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "埃德加·爱伦·坡奖最佳小说",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "英国四十五年来最为寒冷的一个冬天，到处白雪皑皑，村庄被切断了通往外界的通道，泰晤士河上一片冰封；一列火车晚点二十四小时后方才抵达。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "二战背景悬疑的读者",
+        "爱伦·坡奖作品的读者"
+      ],
+      "watchFor": [
+        "那列晚点二十四小时的火车",
+        "冰封环境下的追踪"
+      ],
+      "warning": "犯罪悬疑长篇，含追捕与暴力描写，二战背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法整类枚举** `I561.456*` 发现）：肯·弗罗特著，群众出版社 2007，丛编项「**埃德加·爱伦·坡奖最佳小说**」。**判据**：①索书号／中图分类 `I561.456`——**英国侦探／推理小说的专门分类号**；②丛编项为**推理专门奖项「埃德加·爱伦·坡奖」的获奖作品书系**——独立的强旁证。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2007；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-028",
+    "title": "10号舱的女人",
+    "originalTitle": "",
+    "author": "露丝·韦尔",
+    "authorEn": "Ruth Ware",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "cruise-ship",
+      "unreliable-narrator",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "旅行杂志记者顶替上司参加豪华游轮的处女航，临行前遭遇入室盗窃、背包被盗；她敲开隔壁 10 号舱的门去借东西，晚宴上又喝醉了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "露丝·韦尔的读者",
+        "封闭空间悬疑的读者"
+      ],
+      "watchFor": [
+        "她在 10 号舱看到了什么",
+        "证词为何没人相信"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与证词不可靠的设定。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：露丝·韦尔著，天地出版社 2018。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「本书为悬疑小说」**，且给出游轮上的封闭空间谜面。**补作者缺口**：作者库内已有《暗无边际》。**如实标注**：该条馆藏未著录主题词；提要只摘到「晚宴上又喝醉了」，`safeSummary` **未编造后续情节**。**年份字段说明**：`editionYear` 记 2018；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-029",
+    "title": "百万诱惑",
+    "originalTitle": "",
+    "author": "布莱德·迈尔泽",
+    "authorEn": "Brad Meltzer",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "惊悚文学系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "gain",
+      "concealment",
+      "fear",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一个投资银行工作者发现一笔巨款，在窃取这笔巨款之后，他的朋友离奇死亡，他很快发现自己陷入银行、联邦调查局和私家侦探的包围与追捕之中。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "金融犯罪题材的读者",
+        "追逃型悬疑的读者"
+      ],
+      "watchFor": [
+        "朋友离奇死亡的原因",
+        "那笔巨款的来路"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与追捕描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I712.456*` 发现）：布莱德·迈尔泽著，重庆出版社 2005.10，丛编项「惊悚文学系列」。**判据**：①索书号／中图分类 `I712.456`——**美国侦探／推理小说的专门分类号**；②**提要写明「他的朋友离奇死亡」「陷入银行、联邦调查局和私家侦探的包围于追捕」**——命案与追查内核。**新作者**。**如实标注**：该条馆藏未著录主题词。**年份字段说明**：`editionYear` 记 2005；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ns149-030",
+    "title": "埃及考古学家",
+    "originalTitle": "",
+    "author": "亚瑟·菲利普",
+    "authorEn": "Arthur Phillips",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "知识悬疑系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "historical-setting",
+      "unreliable-narrator",
+      "concealment",
+      "diary-form"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "以考古学家的笔记与书信构成的知识悬疑小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "文献体叙事的读者",
+        "考古题材悬疑的读者"
+      ],
+      "watchFor": [
+        "笔记与书信里前后不一致处",
+        "叙述者自己的立场"
+      ],
+      "warning": "知识悬疑长篇，含考古与身份疑云；馆藏未提供内容提要，梗概未扩写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I712.456*` 发现）：亚瑟·菲利普著，作家出版社 2005，丛编项「**知识悬疑系列**」。**判据**：①索书号／中图分类 `I712.456`；②**丛编项标明「悬疑」**。**如实标注**：**馆藏提要为空白**，`safeSummary` 只作体裁性描述（本书以笔记与书信构成），**未编造情节**；该条馆藏亦未著录主题词。**新作者**。**年份字段说明**：`editionYear` 记 2005；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-149-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

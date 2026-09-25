@@ -1,0 +1,32 @@
+# 运行时生成的持久化数据（用户动态添加的小说）
+server/data/*.json
+!server/data/.gitkeep
+
+# 评分刷新脚本的缓存与候选结果
+.cache/
+tmp/
+*.log
+
+# 依赖与编辑器
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── 采集过程的中间产物（不进仓库）─────────────────────────────
+# `_dd/` 是逐轮采集的工作目录：候选 TSV、扫描原始行、批次 spec、台账草稿。
+# 里面单个 TSV 就有 3 MB（全库扫描原始行），进仓库只会让 clone 变慢；
+# **能复现的东西不进仓库**——脚本 + 台账（docs/collection-backlog.md）才是要留的。
+_dd/
+
+# 网页探针留下的原始 HTML（调试用，随时可重抓）
+_*.html
+_*.tsv
+# `data/` 下划线开头的是逐轮采集中间件（队列、摘要草稿、扫描行）
+data/_*
+_dd-*.tsv
+
+# 构建/测试的临时输出
+*.tmp
+coverage/

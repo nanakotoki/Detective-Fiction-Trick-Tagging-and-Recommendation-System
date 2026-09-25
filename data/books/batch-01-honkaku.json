@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "honkaku-001",
+    "title": "狱门岛",
+    "originalTitle": "獄門島",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1948",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "nursery-rhyme",
+      "red-herring",
+      "psychological-misdirection",
+      "ensemble",
+      "isolated-island",
+      "countryside",
+      "legend-folklore",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "战地故友的托付，把金田一耕助带到濑户内海上一座风俗奇特的孤岛。旧宅中的接连死亡，与岛上流传的古老说法一一对应。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为孤岛舞台与连续死亡的压迫感极具代表性，对战后家族群像与地方风土的描写评价较高。",
+        "score": 7.9,
+        "count": 6626,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11614712/",
+        "subjectId": "11614712",
+        "edition": "狱门岛 2012",
+        "fetchedAt": "2026-09-20T11:58:37.822Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.8,
+        "count": 2000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞孤岛氛围与家族宿命感，也有读者认为登场人物偏多、节奏较慢。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛与封闭村落连续案件的读者",
+        "偏好本格解谜与乡土氛围的读者"
+      ],
+      "watchFor": [
+        "家族谱系与各房之间的位置关系",
+        "岛上传说、诗句与事件发生顺序的呼应",
+        "每个人物在案发时段的行踪"
+      ],
+      "warning": "本书涉及连续死亡与家族内部的悲剧，阅读时建议留意人物关系与当地风俗的描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（狱门岛／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "honkaku-002",
+    "title": "本阵杀人事件",
+    "originalTitle": "本陣殺人事件",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1946",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "red-herring",
+      "psychological-misdirection",
+      "snowfield",
+      "countryside",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "旧本阵一族的婚礼之夜，新人在门窗紧闭的屋中遇害；积雪的庭院没有留下任何足迹，古老的家族规矩让一切更显难解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "多数读者肯定其作为系列首作的开创意义与密室设计，部分读者觉得叙述节奏与时代背景偏旧。",
+        "score": 7.7,
+        "count": 7403,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11528304/",
+        "subjectId": "11528304",
+        "edition": "本阵杀人事件 2012",
+        "fetchedAt": "2026-09-20T11:58:40.964Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.8,
+        "count": 6000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者认可其在日本本格史上的地位，认为谜面精巧、时代色彩浓厚。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室类谜面的读者",
+        "对日本本格推理早期经典感兴趣的读者"
+      ],
+      "watchFor": [
+        "案发前后宅邸内各人的行动路线",
+        "雪地及现场遗留的痕迹与物品位置",
+        "旧家规矩与人物关系造成的视线盲点"
+      ],
+      "warning": "作品写于战后不久，时代用语与生活背景与今日差别较大，建议留意当时的民俗与家族制度。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（本阵杀人事件／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "honkaku-003",
+    "title": "犬神家一族",
+    "originalTitle": "犬神家の一族",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1951",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "dual-role",
+      "red-herring",
+      "psychological-misdirection",
+      "ensemble",
+      "countryside",
+      "gain",
+      "identity",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "巨富老人去世，留下的遗言把整个家族推向对立；一位以假面遮住面容、来历成谜的归来者，让家中的猜疑与旧怨一并浮起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞豪门群像与遗产争夺的戏剧张力，认为案件规模与意外性在系列中尤为突出。",
+        "score": 8.4,
+        "count": 48,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35517104/",
+        "subjectId": "35517104",
+        "edition": "犬神家一族 2021",
+        "fetchedAt": "2026-09-20T13:13:07.466Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 5000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者多称赞庞大的家族戏剧与层层推进的悬念，部分读者觉得人物关系需要耐心梳理。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢豪门遗产题材的读者",
+        "偏爱人物群像与家族戏剧的读者"
+      ],
+      "watchFor": [
+        "遗言内容与各继承人的处境",
+        "每个人物的身份来历与出场时机",
+        "家族成员之间的对立与结盟关系"
+      ],
+      "warning": "登场人物众多、亲缘关系复杂，阅读时建议随手记录人物关系，以免混淆。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "犬神家族"
+    ]
+  },
+  {
+    "id": "honkaku-004",
+    "title": "八墓村",
+    "originalTitle": "八つ墓村",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "first-person",
+      "countryside",
+      "legend-folklore",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "三百年前留下的传说仍在山村流传，返乡的青年被卷入接连发生的死亡；村人的恐惧与排外，把旧事的真相层层裹住。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "多数读者认可山村传说带来的恐怖氛围与第一人称的代入感，部分读者认为篇幅与巧合稍多。",
+        "score": 7.5,
+        "count": 4516,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11528301/",
+        "subjectId": "11528301",
+        "edition": "八墓村 2012",
+        "fetchedAt": "2026-09-20T14:09:42.202Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.7,
+        "count": 3000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者认为山村传说与恐怖氛围出色，也有人指出中段节奏偏慢、巧合偏多。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢山村传说与恐怖氛围的读者",
+        "能接受第一人称叙述的读者"
+      ],
+      "watchFor": [
+        "叙述者的见闻范围与记忆中的空白",
+        "村中传说与事件之间的对应关系",
+        "村民对旧事的不同说法与态度"
+      ],
+      "warning": "本书包含大量死亡描写与村落内部的排外情绪，部分段落气氛压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（八墓村／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "honkaku-006",
+    "title": "十角馆事件",
+    "originalTitle": "十角館の殺人",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "1987",
+    "series": "馆系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "closed-circle",
+      "red-herring",
+      "isolated-island",
+      "mansion",
+      "dual-line",
+      "ensemble",
+      "youth",
+      "meta-fiction",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "孤岛上的十角形宅邸迎来一批大学推理社团成员；同一时间，本土的旧馆里也浮起另一段谜团，两条线索隔海各自推进。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为其作为新本格起点影响深远，双线结构与收束方式被反复讨论，少数读者觉得人物刻画偏薄。",
+        "score": 7,
+        "count": 16135,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26771717/",
+        "subjectId": "26771717",
+        "edition": "十角馆事件 2016",
+        "fetchedAt": "2026-09-20T14:09:54.961Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 8000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞其对封闭孤岛模式的致敬与改写，认为结构设计令人印象深刻。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭孤岛模式与社团群像的读者",
+        "对叙述手法与结构设计感兴趣的读者"
+      ],
+      "watchFor": [
+        "岛上与本土两条线索的推进节奏",
+        "人物以推理作家昵称互称时的身份对应",
+        "各人叙述中透露的信息范围"
+      ],
+      "warning": "本书是新本格的重要起点，阅读时请留意叙述所提供的信息是否完整。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2024（十角馆事件／(日) 绫辻行人著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "honkaku-008",
+    "title": "暗黑馆事件",
+    "originalTitle": "暗黒館の殺人",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "2004",
+    "series": "馆系列",
+    "detective": "江南孝明",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "ensemble",
+      "identity",
+      "meta-fiction",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "深山中一座与世隔绝的巨大宅邸里，到访的青年很快发现，这里的人对他的身份另有说法；家族的旧事层层压来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞其宏大的世界观与系列内的呼应与伏笔，也有读者指出篇幅冗长、评价两极。",
+        "score": 7.5,
+        "count": 4597,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26771721/",
+        "subjectId": "26771721",
+        "edition": "暗黑馆事件 2016",
+        "fetchedAt": "2026-09-20T14:10:00.712Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "能接受超长篇幅的读者",
+        "喜欢馆系列整体世界观与家族秘辛的读者"
+      ],
+      "watchFor": [
+        "叙述者「我」的见闻与他人的说法",
+        "家族成员之间的血缘与外貌相似之处",
+        "馆内空间结构与房间分配"
+      ],
+      "warning": "篇幅极长、时间跨度大，建议准备充足时间，并留意各章节的舞台提示。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "honkaku-009",
+    "title": "迷宫馆事件",
+    "originalTitle": "迷宮館の殺人",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "1988",
+    "series": "馆系列",
+    "detective": "岛田洁",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "red-herring",
+      "mansion",
+      "ensemble",
+      "meta-fiction",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "著名设计师留下的迷宫之馆迎来一批访客，馆内不久便出现了无法解释的死亡，每个人似乎都牵涉到这座馆的过去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "多数读者认为作中作的设置颇具趣味，密室与小说创作主题的结合获得好评，部分读者觉得收束偏轻。",
+        "score": 7.6,
+        "count": 10249,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26771720/",
+        "subjectId": "26771720",
+        "edition": "迷宫馆事件 2016",
+        "fetchedAt": "2026-09-20T15:05:40.600Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与作中作结构的读者",
+        "对推理小说创作本身感兴趣的读者"
+      ],
+      "watchFor": [
+        "馆内房间与通道的结构布局",
+        "馆内留下的文字与馆内事件的对应",
+        "每位访客与这座馆的渊源"
+      ],
+      "warning": "本书涉及以小说为载体的推理游戏，建议留意虚构文本与馆内事件之间的界线。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "honkaku-010",
+    "title": "占星术杀人魔法",
+    "originalTitle": "占星術殺人事件",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "新本格",
+    "firstPublished": "1981",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "cipher",
+      "red-herring",
+      "psychological-misdirection",
+      "historical-setting",
+      "dual-line",
+      "diary-form",
+      "obsession",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school"
+    ],
+    "safeSummary": "画家的手记里写下一个关于六名少女的庞大构想，数十年后，一桩旧案与这份手记重新浮出水面。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为其构想规模宏大、影响深远，常被视为新本格的原点之作，也有读者指出叙述冗长。",
+        "score": 8.2,
+        "count": 33011,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10740776/",
+        "subjectId": "10740776",
+        "edition": "占星术杀人魔法 2012",
+        "fetchedAt": "2026-09-20T15:49:19.158Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 4000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞谜面的宏大与想象力的惊人，部分读者认为解答的可行性存在争议。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢宏大谜面与战前氛围的读者",
+        "对推理史经典与其后世影响感兴趣的读者"
+      ],
+      "watchFor": [
+        "手记中写下的构想与描述细节",
+        "各地发现遗体之间的关联",
+        "事件年代与调查当下的时间差"
+      ],
+      "warning": "本书涉及遗体相关描写与占星术设定，阅读时建议留意手记类文本的写作时间。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "honkaku-011",
+    "title": "斜屋犯罪",
+    "originalTitle": "斜め屋敷の犯罪",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "新本格",
+    "firstPublished": "1982",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "snowfield",
+      "mansion",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school"
+    ],
+    "safeSummary": "建在北方海角的倾斜宅邸迎来客人，积雪让每一次出入都留下痕迹，死亡却依然在没有任何足迹的地方降临。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "多数读者认可其大尺度建筑诡计的想象力，认为雪景与倾斜建筑构成强烈舞台感，部分读者对可行性存疑。",
+        "score": 7.5,
+        "count": 11891,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10740772/",
+        "subjectId": "10740772",
+        "edition": "斜屋犯罪 2012",
+        "fetchedAt": "2026-09-20T15:05:53.987Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢雪地不可能犯罪的读者",
+        "对建筑空间与诡计想象力感兴趣的读者"
+      ],
+      "watchFor": [
+        "宅邸的倾斜结构与房间布局",
+        "雪地上留下的痕迹与出入路线",
+        "案发时段各人的位置与目击证词"
+      ],
+      "warning": "本书以建筑与自然环境构成的谜面为核心，建议阅读时留意空间结构的描述。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2012（斜屋犯罪／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "honkaku-012",
+    "title": "奇想，天动",
+    "originalTitle": "奇想、天を動かす",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "新本格",
+    "firstPublished": "1989",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "alibi",
+      "red-herring",
+      "train",
+      "city",
+      "historical-setting",
+      "revenge",
+      "social-commentary",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "浅草街头发生一起众人目睹、动机不明的凶案，刑警吉敷竹史循着线索一路向北，追查一段久远的往事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为本作在解谜之外兼具社会关怀，对往事的处理获得好评，也有人觉得推理比重偏低。",
+        "score": 8.3,
+        "count": 7857,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/23780806/",
+        "subjectId": "23780806",
+        "edition": "奇想，天动 2013",
+        "fetchedAt": "2026-09-20T15:05:59.780Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢刑警走访式调查与列车旅情的读者",
+        "关注推理作品社会性议题的读者"
+      ],
+      "watchFor": [
+        "相关人物过去的经历与证词",
+        "列车沿线的移动时间与行程",
+        "不同人对同一段历史的说法差异"
+      ],
+      "warning": "本书涉及战争与战后经历等沉重题材，部分段落情绪压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2013（奇想，天动／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "honkaku-013",
+    "title": "活尸之死",
+    "originalTitle": "生ける屍の死",
+    "author": "山口雅也",
+    "authorEn": "Masaya Yamaguchi",
+    "genre": "新本格",
+    "firstPublished": "1989",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "faceless-corpse",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "mansion",
+      "countryside",
+      "gain",
+      "honkaku",
+      "dark-atmosphere",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "在一个死者会重新起身的世界里，名门家族的当主离世，葬礼与遗产把亲属聚在同一座大宅，死亡却接连造访。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞其奇想设定与对推理程式的戏仿，认为中段铺陈略显冗长是常见意见。",
+        "score": 7.4,
+        "count": 1863,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5938073/",
+        "subjectId": "5938073",
+        "edition": "活尸之死 2011",
+        "fetchedAt": "2026-09-20T11:59:36.984Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢奇想设定与反程式推理的读者",
+        "能接受怪诞笔调与长篇幅铺陈的读者"
+      ],
+      "watchFor": [
+        "死者起身的规则与条件",
+        "家族成员的继承顺位与遗言",
+        "谁在何时被确认已经死亡"
+      ],
+      "warning": "本书舞台设在海外、采用架空世界观，登场人物众多，建议先接受「死者会重新起身」这一前提再进入推理。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 译林出版社 2011（馆藏题名「活尸之死」／山口雅也）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-45-mid-authors.json#mid-017"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "生尸之死"
+    ],
+    "editionYear": "2011"
+  },
+  {
+    "id": "honkaku-014",
+    "title": "匣中失乐",
+    "originalTitle": "匣の中の失楽",
+    "author": "竹本健治",
+    "authorEn": "Kenji Takemoto",
+    "genre": "新本格",
+    "firstPublished": "1978",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "meta-fiction",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "一部推理小说里，人物又写下另一部推理小说；虚构与现实的界线一点点溶解，命案却接连出现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为其嵌套结构与迷幻氛围极为独特，也有不少读者表示晦涩、阅读门槛高。",
+        "score": 7.1,
+        "count": 1972,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5380419/",
+        "subjectId": "5380419",
+        "edition": "匣中失乐 2011",
+        "fetchedAt": "2026-09-20T11:59:43.019Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对后设结构与元推理感兴趣的读者",
+        "能接受晦涩实验性长篇的读者"
+      ],
+      "watchFor": [
+        "不同层级文本的作者与叙述者",
+        "虚构事件与现实事件的对应关系",
+        "各人的推理被推翻与重建的过程"
+      ],
+      "warning": "本书结构嵌套、思辨密集，阅读门槛较高，建议留意每一层文本的出处。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-01-honkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

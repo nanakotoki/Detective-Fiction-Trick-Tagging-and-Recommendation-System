@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cnaudit87-001",
+    "title": "温柔在窗边绽放",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "concealment",
+      "psychological-misdirection",
+      "identity",
+      "multiple-solutions",
+      "hospital"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一场大病让易理希失去全身知觉与语言能力，只剩眼部肌肉能动。每逢晴天她都在窗边等丈夫下班。附近发生一起虐杀儿童案，警方怀疑她是重要的目击证人，可沟通成了最大的障碍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 228,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26422106/",
+        "subjectId": "26422106",
+        "edition": "温柔在窗边绽放 2015",
+        "fetchedAt": "2026-09-23T06:35:42.537Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述诡计的读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "易理希能表达与不能表达的部分",
+        "那台沟通机器怎么工作",
+        "周围人转述她意思的方式"
+      ],
+      "warning": "本格推理长篇，以重症病人为视角，含虐童与凶案题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN 与提要文摘取自扬州市图书馆 OPAC（书目号 0000283565，新星出版社 2015 年 7 月版，ISBN 978-7-5133-1810-5）；梗概由整理者自行重写，未照搬原文，也未采用提要中涉及结局的部分"
+    },
+    "provenance": {
+      "source": "batch-87-cn-audit9.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

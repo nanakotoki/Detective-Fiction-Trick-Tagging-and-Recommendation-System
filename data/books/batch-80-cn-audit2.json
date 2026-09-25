@@ -1,0 +1,338 @@
+[
+  {
+    "id": "cnaudit80-001",
+    "title": "鬼笑石",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Huyan Yun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2025",
+    "series": "",
+    "detective": "呼延云、林香茗",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "ensemble",
+      "concealment",
+      "red-herring",
+      "multiple-solutions",
+      "historical-setting",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "上世纪九十年代，西山鬼笑石下的山林烧起大火，火灭后现场有两具死状骇人的尸体，还提取到一把刻着「呼」字的小刀。十年后，反锁的林间小屋里命案再起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 4113,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37268610/",
+        "subjectId": "37268610",
+        "edition": "鬼笑石 2025",
+        "fetchedAt": "2026-09-23T06:34:48.854Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理读者",
+        "呼延云的读者"
+      ],
+      "watchFor": [
+        "三个十年之间人物的处境变化",
+        "那把刻字小刀的来历",
+        "林香茗提到的那句话"
+      ],
+      "warning": "犯罪悬疑长篇，时间跨度大，含纵火、命案与年代背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN 与内容简介取自中国作家网「书汇」栏目（2025-06-27 发布，新星出版社 2025 年 4 月版，ISBN 9787513359887）；梗概由整理者据该书目自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-80-cn-audit2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit80-002",
+    "title": "空城计",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Huyan Yun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "",
+    "detective": "周芸（急诊科众人）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "ensemble",
+      "fear",
+      "concealment",
+      "psychological-misdirection",
+      "timetable",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "平州市儿童医院迁往新院区，旧城区只留急诊科。跨年夜，载着急诊科主力的巴士坠入冰河；临危受命的周芸带着留守人员，要同时应付涌来的患儿和一连串针对儿童的袭击。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 4227,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35714005/",
+        "subjectId": "35714005",
+        "edition": "空城计 2022",
+        "fetchedAt": "2026-09-23T06:34:52.314Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理读者",
+        "喜欢封闭空间与群像的读者"
+      ],
+      "watchFor": [
+        "急诊科里各人的分工与位置",
+        "伤者被送来的顺序",
+        "周芸被迫做的每一个取舍"
+      ],
+      "warning": "犯罪悬疑长篇，以医院急诊科为舞台，含事故、伤害与儿童受害题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN 与内容提要取自中国作家网「书汇」栏目（2022-07-06 发布）并另经国防科技大学图书馆 OPAC（书目号 786409）交叉核对，两处内容提要一致；新星出版社 2022 年 5 月版，ISBN 9787513347570。梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-80-cn-audit2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit80-003",
+    "title": "破镜",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Huyan Yun",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "",
+    "detective": "呼延云",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "red-herring",
+      "multiple-solutions",
+      "concealment",
+      "legend-folklore",
+      "honkaku",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "夏夜的一场「恐怖座谭」上，杨薇当众给自己独居的屋子打电话，本该无人的房间里却有人接听；众人赶去时她已被杀，而现场与刚才某人讲过的故事一模一样。故事围绕一面珍贵的西汉透光镜展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 631,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36048351/",
+        "subjectId": "36048351",
+        "edition": "破镜 2022",
+        "fetchedAt": "2026-09-23T06:34:55.935Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢本格与逻辑推演的读者",
+        "呼延云的读者"
+      ],
+      "watchFor": [
+        "席上各人讲的故事",
+        "那通电话是怎么被接起的",
+        "透光镜的来历与去向"
+      ],
+      "warning": "本格推理长篇，含凶案描写。另注：本书与作者另一部《不可能幸存》《嬗变》同属以「呼延云」为主角的系列，具体顺序请以出版年为准。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社与内容提要取自国防科技大学图书馆 OPAC（书目号 879136），新星出版社 2022 年版，ISBN 9787513350020；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-80-cn-audit2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit80-004",
+    "title": "枉死城事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "陈爝系列",
+    "detective": "陈爝、韩晋",
+    "country": "中国",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "red-herring",
+      "multiple-solutions",
+      "honkaku",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "袁秉德老先生痴迷刑具，斥巨资建了一座私人博物馆，人称「枉死城」。老先生去世后，陈爝与韩晋受人所托来到这里，卷入一场财产纠纷；命案与大火灾接连而来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1775,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35100261/",
+        "subjectId": "35100261",
+        "edition": "枉死城事件 2020",
+        "fetchedAt": "2026-09-23T06:34:59.103Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典本格的读者",
+        "时晨与陈爝系列的读者"
+      ],
+      "watchFor": [
+        "博物馆的馆藏与布局",
+        "袁家各人在这场纠纷里的位置",
+        "火是怎么烧起来的"
+      ],
+      "warning": "本格推理长篇，以刑具博物馆为舞台，含刑具、命案与纵火描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛书与内容简介取自浙江省新华书店「云台购」书目页（recordid=bG96YWthb2M5Nzg3NTEzMzQwNzMx），新星出版社 2020 年 7 月版，ISBN 9787513340731，丛书「午夜文库」；梗概由整理者自行重写，未照搬原文，也未采用该页的作者后记内容"
+    },
+    "provenance": {
+      "source": "batch-80-cn-audit2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

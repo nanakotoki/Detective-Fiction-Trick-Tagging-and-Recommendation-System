@@ -1,0 +1,987 @@
+[
+  {
+    "id": "cnrep-001",
+    "title": "霍桑探案集（一）",
+    "originalTitle": "",
+    "author": "程小青",
+    "authorEn": "Cheng Xiaoqing",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "霍桑探案系列",
+    "detective": "霍桑、包朗",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "honkaku",
+      "first-person"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "民国年间的上海，私家侦探霍桑与他的记录者包朗接下一桩桩委托。这些案子大多起于一件不起眼的失物或一句没头没尾的话，而查下去往往牵出一整条人情链。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 313,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2269108/",
+        "subjectId": "2269108",
+        "edition": "霍桑探案集一 1986",
+        "fetchedAt": "2026-09-22T11:22:03.646Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读中国侦探小说源流的读者",
+        "对民国上海感兴趣的读者"
+      ],
+      "watchFor": [
+        "委托人不肯说全的那部分",
+        "现场被当作「无关」的物件",
+        "霍桑问话的顺序"
+      ],
+      "warning": "民国时期作品，由助手包朗第一人称叙述，文风带时代痕迹。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-002",
+    "title": "霍桑探案集（二）",
+    "originalTitle": "",
+    "author": "程小青",
+    "authorEn": "Cheng Xiaoqing",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "霍桑探案系列",
+    "detective": "霍桑、包朗",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "honkaku",
+      "first-person"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "续集，仍是霍桑与包朗搭档的短篇。作者把「观察—假设—验证」这套流程写得很实，很多篇的转折点都落在一个被人反复看过、却没人当回事的细节上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 144,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2297462/",
+        "subjectId": "2297462",
+        "edition": "霍桑探案集(二) 1986",
+        "fetchedAt": "2026-09-22T11:22:07.049Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "霍桑探案系列的读者",
+        "喜欢短篇本格的读者"
+      ],
+      "watchFor": [
+        "被反复提到的同一件物品",
+        "证词里的时间点",
+        "霍桑推翻自己假设的地方"
+      ],
+      "warning": "民国时期作品，各篇独立，文风带时代痕迹。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-003",
+    "title": "蓝色响尾蛇",
+    "originalTitle": "",
+    "author": "孙了红",
+    "authorEn": "Sun Liaohong",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "侠盗鲁平系列",
+    "detective": "鲁平",
+    "country": "中国",
+    "tags": [
+      "adventure",
+      "dual-role",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "主角是个站在法律另一侧的人：他专门对来路不正的财富下手，也因此同时被两边追。这一次他盯上的东西，牵连的人比他预想的多。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 25,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35321171/",
+        "subjectId": "35321171",
+        "edition": "蓝色响尾蛇 2021",
+        "fetchedAt": "2026-09-22T11:22:13.895Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读民国通俗侦探小说的读者",
+        "喜欢怪盗题材的读者"
+      ],
+      "watchFor": [
+        "主角每次出手前布置的那一步",
+        "追捕方的判断失误",
+        "被盯上的东西真正的来路"
+      ],
+      "warning": "民国时期作品，主角是侠盗而非侦探，含冒险与追逐情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-004",
+    "title": "血纸人",
+    "originalTitle": "",
+    "author": "孙了红",
+    "authorEn": "Sun Liaohong",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "",
+    "detective": "鲁平",
+    "country": "中国",
+    "tags": [
+      "adventure",
+      "historical-setting",
+      "city",
+      "dual-role",
+      "legend-folklore",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，多与旧宅、旧物和说不清的传闻有关。作者擅长先把气氛推到近乎灵异，再用一个很实在的理由把它拉回来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 45,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3032186/",
+        "subjectId": "3032186",
+        "edition": "血纸人 2008",
+        "fetchedAt": "2026-09-22T11:22:18.956Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民国怪奇短篇的读者",
+        "孙了红的读者"
+      ],
+      "watchFor": [
+        "传闻最早由谁讲出来",
+        "旧物的真实来历",
+        "结尾处那个务实解释"
+      ],
+      "warning": "民国时期作品，各篇独立，含怪谈色彩与阴暗氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-005",
+    "title": "三十三号魔屋",
+    "originalTitle": "",
+    "author": "孙了红",
+    "authorEn": "Sun Liaohong",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "",
+    "detective": "鲁平",
+    "country": "中国",
+    "tags": [
+      "mansion",
+      "adventure",
+      "historical-setting",
+      "dark-atmosphere",
+      "concealment",
+      "dual-role",
+      "red-herring"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一栋被邻居避着走的房子，门牌号成了它的代号。故事从那栋房子里传出的动静讲起，而真正难解的并不是动静本身，是为什么所有人都默契地不去打听。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧宅怪谈的读者",
+        "孙了红的读者"
+      ],
+      "watchFor": [
+        "邻居们一致回避的说法",
+        "房子的历任住户",
+        "谁在夜里进出过"
+      ],
+      "warning": "民国时期作品，含怪谈与阴暗氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-006",
+    "title": "李飞探案集",
+    "originalTitle": "",
+    "author": "陆澹安",
+    "authorEn": "Lu Dan'an",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "",
+    "detective": "李飞",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "honkaku",
+      "first-person"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "民国时期的短篇探案集，主角李飞是那个年代中国侦探小说里较早成形的一位。案子多从一封来信或一次登门求助开始，解法靠的是对人情的判断而非机关。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 526,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35338191/",
+        "subjectId": "35338191",
+        "edition": "李飞探案集 2021",
+        "fetchedAt": "2026-09-22T11:22:29.554Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对中国侦探小说早期作品感兴趣的读者",
+        "喜欢民国市井背景的读者"
+      ],
+      "watchFor": [
+        "求助者叙述里的破口",
+        "当时社会的通行做法",
+        "李飞对动机的判断依据"
+      ],
+      "warning": "民国时期作品，各篇独立，文风带时代痕迹。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-007",
+    "title": "诡异房客",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "red-herring",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一栋出租屋里的住户各自过着互不打扰的日子，直到某天有人发现，其中一间的租客留下的信息对不上。查下去才发现，这栋楼里对不上的不止一处。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.6,
+        "count": 71,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10801487/",
+        "subjectId": "10801487",
+        "edition": "诡异房客 2012",
+        "fetchedAt": "2026-09-22T11:22:33.156Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢都市悬疑的读者",
+        "对出租屋群像题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "各户登记的入住时间",
+        "楼道里被改动的痕迹",
+        "谁对邻居的事知道得最多"
+      ],
+      "warning": "都市犯罪悬疑，含阴暗氛围与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-008",
+    "title": "死神的右手",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "red-herring",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几起案件的现场都留下了同一种痕迹，像是有人刻意署名。办案方在并案与不并案之间反复摇摆，而摇摆本身给了对方时间。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.3,
+        "count": 201,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3264999/",
+        "subjectId": "3264999",
+        "edition": "死神的右手 2008",
+        "fetchedAt": "2026-09-22T11:22:37.954Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢连续案件题材的读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "几处现场的相同与不同",
+        "并案判断是谁先提出的",
+        "留下痕迹的时机"
+      ],
+      "warning": "都市犯罪悬疑，含暴力与阴暗描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-009",
+    "title": "今夜宜有彩虹",
+    "originalTitle": "",
+    "author": "陆烨华",
+    "authorEn": "Lu Yehuua",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "几段看起来互不相干的城市日常被并排放在一起，每段里都有一处说不通的地方。读下去会发现，这些「说不通」是按同一个道理设计的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1734,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27118271/",
+        "subjectId": "27118271",
+        "edition": "今夜宜有彩虹 2017",
+        "fetchedAt": "2026-09-22T11:22:41.299Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢华语原创本格的读者",
+        "偏好轻量结构的读者"
+      ],
+      "watchFor": [
+        "每段里那处说不通的地方",
+        "各段之间重复的物件",
+        "叙述视角的切换点"
+      ],
+      "warning": "华语原创本格，结构偏精巧，暴力程度低。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-010",
+    "title": "冷钢",
+    "originalTitle": "",
+    "author": "文泽尔",
+    "authorEn": "Wen Zeer",
+    "genre": "本格推理",
+    "firstPublished": "2007",
+    "series": "文泽尔系列",
+    "detective": "文泽尔",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一间从内侧关好的房间里发生了死亡，而门锁的状态被多方反复确认过。侦探文泽尔把注意力放在那把锁上：它被确认过多少次，每次是谁确认的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 506,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2079749/",
+        "subjectId": "2079749",
+        "edition": "冷钢 2007",
+        "fetchedAt": "2026-09-22T11:22:45.226Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "文泽尔的读者"
+      ],
+      "watchFor": [
+        "门锁被确认的次数与经手人",
+        "房间内物品的原始位置",
+        "谁最先提出「这是密室」"
+      ],
+      "warning": "华语原创本格，密室谜面，含较密的技术性推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-011",
+    "title": "千岁兰",
+    "originalTitle": "",
+    "author": "文泽尔",
+    "authorEn": "Wen Zeer",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "文泽尔系列",
+    "detective": "文泽尔",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一株据说极长寿的植物被牵扯进一桩案子。侦探要弄清的不只是谁动的手，还有这株植物在整件事里究竟充当了什么角色——证物、借口，还是别的什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 288,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35236003/",
+        "subjectId": "35236003",
+        "edition": "千岁兰 2020",
+        "fetchedAt": "2026-09-22T11:22:51.032Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "文泽尔的读者",
+        "喜欢以物证为核心的推理的读者"
+      ],
+      "watchFor": [
+        "这株植物的来历与流转",
+        "谁最在意它",
+        "养护记录里的异常"
+      ],
+      "warning": "华语原创本格，含植物学相关知识。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnrep-012",
+    "title": "雨夜庄谋杀案",
+    "originalTitle": "",
+    "author": "林斯谚",
+    "authorEn": "Lin Ssu-Yen",
+    "genre": "本格推理",
+    "firstPublished": "2010",
+    "series": "林斯谚作品",
+    "detective": "林若平",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "snowfield",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一行人因为暴雨被困在一处庄院里，庄内的死亡事件看上去只能由在场者之一完成。侦探林若平先做的不是问谁有动机，而是核对每个人当夜究竟走过哪些地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 678,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4140512/",
+        "subjectId": "4140512",
+        "edition": "雨夜庄谋杀案 2010",
+        "fetchedAt": "2026-09-22T11:22:54.922Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢台湾原创本格的读者",
+        "林斯谚作品的读者"
+      ],
+      "watchFor": [
+        "庄院的进出路径",
+        "各人当夜的位置陈述",
+        "被暴雨改变的那件事"
+      ],
+      "warning": "台湾原创本格，封闭舞台，重逻辑推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-46-chinese-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

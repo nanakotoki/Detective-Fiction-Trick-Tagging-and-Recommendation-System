@@ -1,0 +1,508 @@
+[
+  {
+    "id": "westaudit63-001",
+    "title": "玻璃钥匙",
+    "originalTitle": "The Glass Key",
+    "author": "达希尔·哈米特",
+    "authorEn": "Dashiell Hammett",
+    "genre": "硬汉派",
+    "firstPublished": "1931",
+    "series": "",
+    "detective": "内德·博蒙特（无侦探身份，政治幕僚视角）",
+    "country": "美国",
+    "tags": [
+      "first-person",
+      "city",
+      "concealment",
+      "gain",
+      "ensemble",
+      "dark-atmosphere",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "一个政客的助手替上司处理各种见不得光的事，包括挨打和撒谎。当一桩命案把上司也牵进来，他要在保住自己和保住这段关系之间做选择——而他并不确定这两件事哪件更值得。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 393,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7065577/",
+        "subjectId": "7065577",
+        "edition": "玻璃钥匙 2012",
+        "fetchedAt": "2026-09-22T13:35:19.572Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派读者",
+        "达希尔·哈米特的读者"
+      ],
+      "watchFor": [
+        "叙述者替上司做的每一件事",
+        "他与上司妹妹的相处",
+        "谁在什么时候改口"
+      ],
+      "warning": "硬汉派长篇，含暴力、酗酒与政治交易描写；本书无本格诡计，推荐时不计入诡计重叠。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit63-002",
+    "title": "大陆侦探社",
+    "originalTitle": "The Continental Op",
+    "author": "达希尔·哈米特",
+    "authorEn": "Dashiell Hammett",
+    "genre": "硬汉派",
+    "firstPublished": "1923",
+    "series": "",
+    "detective": "大陆侦探社的无名探员",
+    "country": "美国",
+    "tags": [
+      "first-person",
+      "series-detective",
+      "city",
+      "dark-atmosphere",
+      "ensemble",
+      "concealment",
+      "gain"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一位不署名的私家探员受事务所派遣处理各种委托，多数时候他的工作是坐着等、跟着人走、以及在被揍之后继续跟着。故事集的重点不在谜面，而在这份工作把人磨成什么样。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 425,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10731941/",
+        "subjectId": "10731941",
+        "edition": "大陆侦探社 2012",
+        "fetchedAt": "2026-09-22T13:35:22.973Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派短篇读者",
+        "达希尔·哈米特的读者"
+      ],
+      "watchFor": [
+        "叙述者接活与交差的方式",
+        "委托方隐瞒的部分",
+        "他每次收手的位置"
+      ],
+      "warning": "硬汉派短篇集，各篇独立，含暴力与犯罪描写；本书无本格诡计，推荐时不计入诡计重叠。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「大陆侦探社」／哈米特）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "westaudit63-004",
+    "title": "无棺之尸",
+    "originalTitle": "No Coffin for the Corpse",
+    "author": "克莱顿·劳森",
+    "authorEn": "Clayton Rawson",
+    "genre": "本格推理",
+    "firstPublished": "1942",
+    "series": "马里尼系列",
+    "detective": "马里尼（The Great Merlini）",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "series-detective",
+      "red-herring",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位魔术师出身的侦探被请去处理一桩不可能的案件：尸体出现过，又不见了，而现场的记录显示它从未被移动过。他能依靠的只有自己对「手法」的了解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 217,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4074949/",
+        "subjectId": "4074949",
+        "edition": "无棺之尸 2009",
+        "fetchedAt": "2026-09-22T13:35:26.375Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与不可能犯罪的读者",
+        "马里尼系列的读者"
+      ],
+      "watchFor": [
+        "尸体出现与被发现的时间",
+        "现场记录的依据",
+        "魔术师对观众注意力的判断"
+      ],
+      "warning": "本格长篇，含密室谜面与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「无棺之尸」／劳森）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "westaudit63-005",
+    "title": "法律与淑女",
+    "originalTitle": "The Law and the Lady",
+    "author": "威尔基·柯林斯",
+    "authorEn": "Wilkie Collins",
+    "genre": "历史推理",
+    "firstPublished": "1875",
+    "series": "",
+    "detective": "瓦莱丽亚（妻子自行调查）",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "identity",
+      "concealment",
+      "red-herring",
+      "historical-setting",
+      "city",
+      "diary-form"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "新婚的瓦莱丽亚发现丈夫的过去里有一份判决记录，而他拒绝解释。当时的法律程序让这份记录无法被推翻，于是她决定自己去找出当年那件事的真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3075872/",
+        "subjectId": "3075872",
+        "edition": "法律与淑女 2008",
+        "fetchedAt": "2026-09-22T13:35:29.709Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "威尔基·柯林斯的读者",
+        "喜欢维多利亚时期叙事的读者"
+      ],
+      "watchFor": [
+        "那份判决的程序细节",
+        "丈夫回避的具体问题",
+        "她依次找到的证人"
+      ],
+      "warning": "维多利亚时期长篇，行文古旧、节奏偏慢，含庭审程序与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westaudit63-007",
+    "title": "福尔摩斯冒险史",
+    "originalTitle": "The Adventures of Sherlock Holmes",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1892",
+    "series": "福尔摩斯系列",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "first-person",
+      "red-herring",
+      "multiple-solutions",
+      "city",
+      "identity",
+      "honkaku",
+      "forensic"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "forensic-school"
+    ],
+    "safeSummary": "十二个短篇，各篇独立，由华生记录。委托人多是带着一件说不通的小事上门——一个记号、一份文件、一次偶遇——福尔摩斯从这些被旁人当作无关的细节入手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.9,
+        "count": 675,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34805589/",
+        "subjectId": "34805589",
+        "edition": "福尔摩斯冒险史 2019",
+        "fetchedAt": "2026-09-22T13:35:36.578Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯系列的读者",
+        "本格短篇入门读者"
+      ],
+      "watchFor": [
+        "委托人自己略过的那句",
+        "华生记录时的取舍",
+        "福尔摩斯观察的切入点"
+      ],
+      "warning": "本格短篇集，各篇独立，含命案与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：南京:,译林出版社:,2024（福尔摩斯冒险史／(英) 阿瑟·柯南·道尔著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "westaudit63-009",
+    "title": "爱伦·坡短篇小说集",
+    "originalTitle": "The Complete Tales of Edgar Allan Poe",
+    "author": "爱伦·坡",
+    "authorEn": "Edgar Allan Poe",
+    "genre": "本格推理",
+    "firstPublished": "1845",
+    "series": "",
+    "detective": "C. 奥古斯特·杜宾（部分篇目）",
+    "country": "美国",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "dark-atmosphere",
+      "locked-room",
+      "honkaku",
+      "diary-form"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，包含杜宾出场的三篇推理作品与其余怪奇、心理类篇目。坡写恐惧的方式是让叙述者一步步把自己的处境讲清楚，而听众越听越觉得他不是在讲别人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.8,
+        "count": 7522,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1083429/",
+        "subjectId": "1083429",
+        "edition": "爱伦·坡短篇小说集 1998",
+        "fetchedAt": "2026-09-22T13:35:44.484Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "爱伦·坡的读者",
+        "想通读推理源流的读者"
+      ],
+      "watchFor": [
+        "叙述者交代自己的方式",
+        "哪些篇目属于推理、哪些属于怪奇",
+        "结尾处留下的空白"
+      ],
+      "warning": "短篇集，各篇独立，含哥特式恐怖、精神异常与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-63-west-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

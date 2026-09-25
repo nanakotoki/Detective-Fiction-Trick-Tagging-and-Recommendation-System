@@ -1,0 +1,710 @@
+[
+  {
+    "id": "multiauth133-001",
+    "title": "埃及剧院谋杀案",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯、J.M.格莱格森",
+    "authors": [
+      "威尔·安德鲁斯",
+      "J.M.格莱格森"
+    ],
+    "authorEn": "Will Andrews; J. M. Gregson",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "本书收录《埃及剧院谋杀案》《高尔夫球场上的枪声》《手稿被盗之谜》《福尔摩斯探案短篇集》等四篇侦探小说，均为柯南·道尔笔下人物的续写。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯仿作的读者",
+        "短篇侦探小说的读者"
+      ],
+      "watchFor": [
+        "四篇各自的谜面",
+        "续写者对正典细节的照应"
+      ],
+      "warning": "福尔摩斯续写短篇集，含命案描写，为**两位作者合著**（不是多人选集）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：威尔·安德鲁斯、J.M.格莱格森著，群众出版社 2004，丛编项「**福尔摩斯探案续集**」。**推理属性判据**：①**检索行主题词为「侦探小说 英国 现代 选集 ; 侦探小说」**（第①类，最硬）；②丛编项为福尔摩斯仿作的专门书系；③馆藏提要列出四篇篇目。**多作者模型（本轮启用）**：本条为**两位作者合著**，`authors` 记全部署名作者，`author` 记展示标签（两者内容一致）。此前因库内是单一作者模型而搁置（见 `docs/collection-backlog.md` §28.3），本轮扩出 `authors` 字段后收录。**年份字段说明**：`editionYear` 记所引中译本 2004；`firstPublished` **留空**（原作名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2004"
+  },
+  {
+    "id": "multiauth133-002",
+    "title": "电话谋杀案",
+    "originalTitle": "",
+    "author": "约翰·霍尔、伊安·查诺克",
+    "authors": [
+      "约翰·霍尔",
+      "伊安·查诺克"
+    ],
+    "authorEn": "John Hall; Ian Charnock",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "adventure",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "本书为福尔摩斯续写故事集，馆藏提要列出「东风中的相会」「大吉岭」「千里之行，始于足下」「又是莫瑞第教授」「返回西方了」等篇目。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯仿作的读者",
+        "异国舞台冒险故事的读者"
+      ],
+      "watchFor": [
+        "莫瑞第教授这个名字出现的场合",
+        "旅途中的时间线"
+      ],
+      "warning": "福尔摩斯续写短篇集，含冒险与命案情节，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：约翰·霍尔、伊安·查诺克著，群众出版社 2004，丛编项「**福尔摩斯探案续集**」。**推理属性判据**：①**检索行主题词为「侦探小说 英国 现代 选集 ; 侦探小说」**（第①类，最硬）；②丛编项为福尔摩斯仿作专门书系。**多作者模型**：本条为两位作者合著，按 `authors` 字段登记。**年份字段说明**：`editionYear` 记所引中译本 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2004"
+  },
+  {
+    "id": "multiauth133-003",
+    "title": "吸血鬼凶杀案",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯、约翰·霍尔",
+    "authors": [
+      "威尔·安德鲁斯",
+      "约翰·霍尔"
+    ],
+    "authorEn": "Will Andrews; John Hall",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "fear",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "本书为福尔摩斯续写故事集，馆藏提要列出「吸血鬼凶杀案」「海滨女尸案」「商场勒索案」等篇目。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯仿作的读者",
+        "怪奇传说题材的读者"
+      ],
+      "watchFor": [
+        "「吸血鬼」这一说法的来源",
+        "三案在时间上的先后"
+      ],
+      "warning": "福尔摩斯续写短篇集，含命案与怪奇传说描写，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：威尔·安德鲁斯、约翰·霍尔著，群众出版社 2004，丛编项「**福尔摩斯探案续集**」。**推理属性判据**：①**检索行主题词为「侦探小说 英国 现代 选集 ; 侦探小说」**（第①类，最硬）；②丛编项为福尔摩斯仿作专门书系。**多作者模型**：本条为两位作者合著，按 `authors` 字段登记。**年份字段说明**：`editionYear` 记所引中译本 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2004"
+  },
+  {
+    "id": "multiauth133-004",
+    "title": "死亡的样板",
+    "originalTitle": "Un modelo para la muerte",
+    "author": "豪尔赫·路易斯·博尔赫斯、阿道夫·比奥伊·卡萨雷斯",
+    "authors": [
+      "豪尔赫·路易斯·博尔赫斯",
+      "阿道夫·比奥伊·卡萨雷斯"
+    ],
+    "authorEn": "Jorge Luis Borges; Adolfo Bioy Casares",
+    "genre": "本格推理",
+    "firstPublished": "1946",
+    "series": "博尔赫斯全集",
+    "detective": "",
+    "country": "阿根廷",
+    "tags": [
+      "identity",
+      "meta-fiction",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "两位阿根廷作家以「布斯托斯·多梅克」为共同笔名写下的侦探小说：一桩案件引出层层叙述，人物各自讲述自己所知的那一部分。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "博尔赫斯的读者",
+        "后设趣味与叙述游戏的读者"
+      ],
+      "watchFor": [
+        "不同叙述者交代的版本差异",
+        "「样板」一词在书中的含义"
+      ],
+      "warning": "本格推理中篇，为**两位作者以共同笔名合著**，叙述结构本身就是谜面的一部分。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：豪尔赫·路易斯·博尔赫斯、阿道夫·比奥伊·卡萨雷斯著，上海译文出版社 2021，丛编项「博尔赫斯全集」。**推理属性判据**：①**检索行主题词为「侦探小说 阿根廷 现代 ; 中篇小说 阿根廷 现代」**（第①类，最硬）；②两位作者均为拉美侦探小说的推动者（二人曾合编侦探小说选并合写侦探小说）。**多作者模型（本轮启用）**：本条为**两位作者合著**，此前因单一作者模型搁置（§28.3），本轮收录。**年份字段说明**：`firstPublished` 记原作年 1946（*Un modelo para la muerte*，署名 Bustos Domecq），`editionYear` 记所引中译本 2021。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "multiauth133-005",
+    "title": "失踪的消防车",
+    "originalTitle": "Brandbilen som försvann",
+    "author": "马伊·舍瓦尔、佩尔·瓦勒",
+    "authors": [
+      "马伊·舍瓦尔",
+      "佩尔·瓦勒"
+    ],
+    "authorEn": "Maj Sjöwall; Per Wahlöö",
+    "genre": "社会派",
+    "firstPublished": "1969",
+    "series": "马丁·贝克刑侦探案集",
+    "detective": "马丁·贝克",
+    "country": "瑞典",
+    "tags": [
+      "social-commentary",
+      "city",
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "斯德哥尔摩一名男子在公寓爆炸案中身亡，现场留下自杀的假象；随着调查深入，贝克和同事们发现这起看似简单的自杀案背后藏着复杂的犯罪网络。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北欧刑侦的读者",
+        "马丁·贝克系列的读者"
+      ],
+      "watchFor": [
+        "现场被布置成自杀的痕迹",
+        "本该及时赶到的消防车为何没到"
+      ],
+      "warning": "社会派刑侦长篇，含爆炸、贩毒与命案描写，为**舍瓦尔与瓦勒夫妇合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：马伊·舍瓦尔、佩尔·瓦勒著，漓江出版社 2026.06，丛编项「马丁·贝克刑侦探案集」。**推理属性判据**：①**检索行主题词为「侦探小说 瑞典 现代 ; 长篇小说 瑞典 现代」**（第①类，最硬）；②丛编项为作者本人的系列。**多作者模型（本轮启用）**：本条为**舍瓦尔与瓦勒夫妇合著**，此前因单一作者模型搁置（§28.3），本轮收录；`authors` 记两位，**作者统计与「同作者」推荐按列表分别计入**。**年份字段说明**：`firstPublished` 记原作年 1969（*Brandbilen som försvann*，马丁·贝克系列第 5 部），`editionYear` 记所引中译本 2026。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "multiauth133-006",
+    "title": "最后一枪",
+    "originalTitle": "",
+    "author": "董涛、袁春雨",
+    "authors": [
+      "董涛",
+      "袁春雨"
+    ],
+    "authorEn": "Dong Tao; Yuan Chunyu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2004",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "gain"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "海外走私、地下盗版、网络陷阱——不是贩毒、不是劫匪、不是诈骗，而是更大的犯罪；刑警队长带着新搭档深入盗版黑窝点展开追捕。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "经济犯罪题材的读者"
+      ],
+      "watchFor": [
+        "盗版网络的层级",
+        "「更大的犯罪」指向什么"
+      ],
+      "warning": "犯罪悬疑长篇，含走私、盗版与暴力追捕描写，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：董涛、袁春雨著，中国文联出版社 2004，副题名「长篇悬疑小说」。**推理属性判据**：**检索行主题词为「侦探小说 中国 现代 ; 长篇小说 中国 现代」**（第①类，最硬）。**多作者模型（本轮启用）**：本条为**两位作者合著**，此前因单一作者模型搁置（§28.3），本轮收录。**年份字段说明**：中文原创，`firstPublished` 记 2004，`editionYear` **留空**。梗概据馆藏提要重写。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "multiauth133-007",
+    "title": "坦得里奇庄园谋杀案",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯、伊迪·马圭尔 等",
+    "authors": [
+      "威尔·安德鲁斯",
+      "伊迪·马圭尔"
+    ],
+    "authorEn": "Will Andrews; Eddie Maguire; et al.",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "countryside"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "本书收有《神秘七修士》《失窃的密件》《三面人》《失踪的皇太子》《留声机里的遗言》等十篇侦探小说，均为福尔摩斯故事的续写。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯仿作的读者",
+        "短篇侦探小说的读者"
+      ],
+      "watchFor": [
+        "十篇各自的谜面",
+        "续写者对正典的照应"
+      ],
+      "warning": "福尔摩斯续写短篇集，含命案描写，为**多位作者的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：威尔·安德鲁斯、伊迪·马圭尔等著，群众出版社 2004，丛编项「**福尔摩斯探案续集**」。**推理属性判据**：①**检索行主题词为「侦探小说 英国 现代 选集 ; 短篇小说 英国 现代 选集 ; 侦探小说 ; 短篇小说」**（第①类，最硬）；②丛编项为福尔摩斯仿作专门书系；③馆藏提要列明十篇篇目。**多作者模型（本轮启用）**：馆藏著录作「**等著**」，实为多位作者的合集；`authors` 只登记**馆藏明确列出的两位**，`author` 标签写「… 等」以如实表明名单不完整——**不虚构未列出的作者名**。**年份字段说明**：`editionYear` 记所引中译本 2004；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2004",
+    "anthology": true
+  },
+  {
+    "id": "multiauth133-008",
+    "title": "凶手总是回到犯罪现场.2",
+    "originalTitle": "",
+    "author": "江户川乱步 等",
+    "authors": [
+      "江户川乱步",
+      "大阪圭吉",
+      "小酒井不木",
+      "阿瑟·柯南·道尔",
+      "埃德加·爱伦·坡",
+      "雷蒙德·钱德勒"
+    ],
+    "authorEn": "Edogawa Ranpo; et al.",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "精选十一位世界推理名家的代表作共十三篇，含《D坂杀人事件》《波希米亚丑闻》《失窃的信》《竹林中》《愚人之毒》等推理史上的经典名篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想通读推理史名篇的读者",
+        "短篇经典的读者"
+      ],
+      "watchFor": [
+        "十三篇各自的年代与国别",
+        "同一手法在不同作家笔下的差异"
+      ],
+      "warning": "世界推理名家短篇合集，含命案描写，为**十一位作者的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：江户川乱步等著，江苏凤凰文艺出版社 2025。**推理属性判据**：①**检索行主题词为「推理小说 小说集 世界 ; 短篇小说 小说集 世界」**（第①类，最硬）；②馆藏提要写明「精选…11 位世界推理名家的代表作品…13 篇推理小说史上的经典名篇」。**多作者模型（本轮启用）**：本条为**十一位作者的合集**。`authors` 只登记**馆藏提要明确列名**的六位，`author` 标签写「江户川乱步 等」——其余五位馆藏未列名，**不臆造**；作者统计按已列名者分别计入，这是本模型**已知且刻意**的取舍（见 `docs/collection-backlog.md` §33）。**年份字段说明**：`editionYear` 记所引中译本 2025；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025",
+    "anthology": true
+  },
+  {
+    "id": "multiauth133-009",
+    "title": "三个嫌疑人",
+    "originalTitle": "",
+    "author": "冯世荣 主编",
+    "authors": [
+      "冯世荣"
+    ],
+    "authorEn": "Feng Shirong (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "沪警风云丛书",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "上海公安作家创作的侦探推理小说集，共收录十篇短篇，含《「自燃」的劳斯莱斯》《冷血》《三个嫌疑人》《非杀人的杀人》《佛龛下的疑云》等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "公安作家短篇的读者",
+        "国产刑侦短篇的读者"
+      ],
+      "watchFor": [
+        "十篇各自的谜面",
+        "作者们共同的职业视角"
+      ],
+      "warning": "侦探推理短篇集，含命案描写，为**多位上海公安作家的合集**（主编署名）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：冯世荣主编，群众出版社 2024，丛编项「沪警风云丛书」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②馆藏提要写明「本书是一部上海公安作家创作的侦探推理小说集，共收录 10 篇短篇小说」。**多作者模型（本轮启用）**：本条是**十位作家的合集**，馆藏**只给出主编姓名、未列各篇作者**，因此 `authors` 只能登记主编一人（`author` 标签写「冯世荣 主编」以示其为编者而非作者）——**不虚构**；这条的局限已记入 `docs/collection-backlog.md` §33。**年份字段说明**：中文原创，`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-133-multiauthor.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "anthology": true
+  }
+]

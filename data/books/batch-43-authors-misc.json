@@ -1,0 +1,1524 @@
+[
+  {
+    "id": "auth2-001",
+    "title": "俄罗斯红茶之谜",
+    "originalTitle": "ロシア紅茶の謎",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "1994",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，篇名都取自一种饮品。犯罪学家火村与作家有栖川照例一边喝着东西一边聊案子，把那些看起来只是巧合的细节重新排一遍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 573,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26308262/",
+        "subjectId": "26308262",
+        "edition": "俄罗斯红茶之谜 2015",
+        "fetchedAt": "2026-09-22T10:40:53.226Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "喜欢轻量本格短篇的读者"
+      ],
+      "watchFor": [
+        "篇名与谜面的对应",
+        "当事人随口提到的小事",
+        "火村推翻假设的那一步"
+      ],
+      "warning": "短篇集，各篇独立，节奏轻快，无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（俄罗斯红茶之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "auth2-002",
+    "title": "乱鸦之岛",
+    "originalTitle": "乱鴉の島",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "2006",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "closed-circle",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "两人受邀前往一座以乌鸦闻名的孤岛，岛上住着一批各有来历的人。船期有限、天气转坏，而就在这段时间里，岛上有人身亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 1743,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4038572/",
+        "subjectId": "4038572",
+        "edition": "乱鸦之岛 2009年10月",
+        "fetchedAt": "2026-09-22T10:40:56.487Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛模式的读者",
+        "火村英生系列的读者"
+      ],
+      "watchFor": [
+        "岛上人员的来历",
+        "往返船只的时间",
+        "乌鸦这个意象出现的位置"
+      ],
+      "warning": "孤岛封闭空间长篇，氛围偏阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2009（馆藏题名「乱鸦之岛」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "auth2-003",
+    "title": "绝叫城杀人事件",
+    "originalTitle": "絶叫城殺人事件",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "series": "火村英生系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座被称作「绝叫城」的建筑里接连出事，而它的名字本身就来自一段旧闻。火村要判断的是：这些新发生的事，是在重复那段旧闻，还是在利用它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 43,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1370033/",
+        "subjectId": "1370033",
+        "edition": "絕叫城殺人事件 2001",
+        "fetchedAt": "2026-09-22T10:40:59.899Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "火村英生系列的读者",
+        "喜欢建筑与旧闻结合的读者"
+      ],
+      "watchFor": [
+        "「绝叫城」这个名字的来历",
+        "建筑本身的结构",
+        "谁对那段旧闻格外熟悉"
+      ],
+      "warning": "本格长篇，含旧案与新案交织的结构。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "auth2-004",
+    "title": "再见神明",
+    "originalTitle": "さよなら神様",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "2014",
+    "series": "神明系列",
+    "detective": "铃木太郎（自称神明）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "narrative-trick",
+      "unreliable-narrator",
+      "honkaku",
+      "red-herring",
+      "meta-fiction",
+      "youth"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "一个自称是神明的少年会在案发前说出凶手是谁，而警方要做的却是找出证据。麻烦在于：他说的话每次都对，可每次的「对」都用了一种谁都没想到的方式。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1806,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37042978/",
+        "subjectId": "37042978",
+        "edition": "再见神明 2024",
+        "fetchedAt": "2026-09-22T10:41:06.446Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢挑战读者的推理的读者",
+        "麻耶雄嵩的读者"
+      ],
+      "watchFor": [
+        "神明每句话的确切措辞",
+        "「凶手」这个词被定义的方式",
+        "叙述者自己站在什么位置"
+      ],
+      "warning": "短篇连作，结构上刻意与读者博弈，读时留意措辞。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 北京日报出版社 2024（馆藏题名「再见，神明」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "auth2-005",
+    "title": "萤",
+    "originalTitle": "蛍",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "2004",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "narrative-trick",
+      "unreliable-narrator",
+      "countryside",
+      "dark-atmosphere",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一名少年回到山里的小村，村里正流传着与萤火虫有关的旧说。他开始记录这个夏天遇到的人和事，而记录的方式本身，后来成了整件事的关键。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 6089,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3928881/",
+        "subjectId": "3928881",
+        "edition": "萤 2009",
+        "fetchedAt": "2026-09-22T10:41:11.616Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述性诡计的读者",
+        "能接受阴暗基调的读者"
+      ],
+      "watchFor": [
+        "叙述者记录事情的方式",
+        "村里人对旧说的态度",
+        "他每次提到「萤」的场合"
+      ],
+      "warning": "含叙述性诡计与暴力描写，读时留意第一人称的边界。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "auth2-006",
+    "title": "鸦",
+    "originalTitle": "鴉",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "legend-folklore",
+      "narrative-trick",
+      "unreliable-narrator",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一个外来者走进一座几乎与世隔绝的村子，村里把乌鸦当作某种存在来对待。他被允许留下，代价是要遵守村里那些没人解释原因的规矩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 4040,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6151379/",
+        "subjectId": "6151379",
+        "edition": "鸦 2011",
+        "fetchedAt": "2026-09-22T10:41:15.058Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭村落与民俗题材的读者",
+        "麻耶雄嵩的读者"
+      ],
+      "watchFor": [
+        "村里的几条规矩",
+        "外来者被允许做的事情范围",
+        "谁从来不跟他说话"
+      ],
+      "warning": "封闭村落长篇，含民俗恐怖与叙述性诡计要素。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「鸦」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "auth2-007",
+    "title": "麦卡托如是说",
+    "originalTitle": "メルカトルかく語りき",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "麦卡托鲇系列",
+    "detective": "麦卡托鲇、美袋三条",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "narrative-trick",
+      "unreliable-narrator",
+      "series-detective",
+      "honkaku",
+      "meta-fiction",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。名侦探麦卡托鲇每次都能给出一个完整的解答，而他的助手美袋三条每次都觉得哪里不对——问题是，那个「不对」往往才是作者想让读者抓住的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 3319,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36894796/",
+        "subjectId": "36894796",
+        "edition": "麦卡托如是说 2024",
+        "fetchedAt": "2026-09-22T10:41:18.631Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过多部麻耶雄嵩的读者",
+        "喜欢「反推理」趣味的读者"
+      ],
+      "watchFor": [
+        "侦探给出的解答是否真的闭合",
+        "助手提出的疑问",
+        "篇末那句看似收尾的话"
+      ],
+      "warning": "短篇集，各篇独立，刻意挑战推理小说的成规。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2024（麦卡托如是说／(日) 麻耶雄嵩著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "auth2-008",
+    "title": "解体诸因",
+    "originalTitle": "解体諸因",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "1995",
+    "series": "匠千晓系列",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "locked-room",
+      "series-detective",
+      "honkaku",
+      "meta-fiction",
+      "red-herring"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇连作，每一篇的谜面都落在同一个问题上：为什么非要把尸体拆开不可。因为动机不明，所以每一次的答案都不一样，而各篇之间其实彼此勾连。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 9791,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27078155/",
+        "subjectId": "27078155",
+        "edition": "解体诸因 2017",
+        "fetchedAt": "2026-09-22T10:41:22.015Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「为什么」型谜题的读者",
+        "匠千晓系列的读者"
+      ],
+      "watchFor": [
+        "每篇给出的动机类型",
+        "尸体被处理的具体方式",
+        "各篇之间的隐藏联系"
+      ],
+      "warning": "短篇连作，题材涉及分尸，但笔调轻快，偏解谜趣味。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "auth2-009",
+    "title": "羔羊们的平安夜",
+    "originalTitle": "仔羊たちの聖夜",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "匠千晓系列",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一群老朋友在平安夜聚在一间公寓里，聊起几年前同一天发生过的事。聊着聊着，几个人发现各自记得的版本拼不到一起，而缺的那一块正好是关键。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 3721,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26941499/",
+        "subjectId": "26941499",
+        "edition": "羔羊们的平安夜 2017",
+        "fetchedAt": "2026-09-22T10:41:27.628Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "匠千晓系列的读者",
+        "喜欢「聊天式推理」的读者"
+      ],
+      "watchFor": [
+        "几个人回忆的时间差",
+        "被谁一带而过的那句话",
+        "当晚谁不在场"
+      ],
+      "warning": "系列长篇，以对话推演为主，节奏轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "auth2-010",
+    "title": "人格转移杀人事件",
+    "originalTitle": "人格転移の殺人",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "无固定侦探（在场者视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "identity",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "几个人的意识被换进了彼此的身体里，而其中一个人已经死了。要找出是谁做的，先得确认一件事：现在说话的这个人，究竟是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 2657,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11498195/",
+        "subjectId": "11498195",
+        "edition": "人格转移杀人事件 2012",
+        "fetchedAt": "2026-09-22T10:41:32.916Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系本格的读者",
+        "能接受科幻前提的读者"
+      ],
+      "watchFor": [
+        "人格转移的规则与限制",
+        "每个人自称的身份依据",
+        "哪句话只有原本那个人才说得出"
+      ],
+      "warning": "设定系本格，需先接受人格转移这一前提。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「人格转移杀人事件」／西泽保彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "auth2-011",
+    "title": "啤酒之家的冒险",
+    "originalTitle": "麦酒の家の冒険",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "匠千晓系列",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "四个人开车途中迷了路，住进山间一栋空房子。屋里东西齐全，却一个人也没有，而冰箱里的东西说明这里不久前还有人住。他们决定先弄清这栋房子是谁的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 3807,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20559358/",
+        "subjectId": "20559358",
+        "edition": "啤酒之家的冒险 2013",
+        "fetchedAt": "2026-09-22T10:41:36.276Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "匠千晓系列的读者",
+        "喜欢日常推演的读者"
+      ],
+      "watchFor": [
+        "屋里物品的种类与数量",
+        "房子周边的道路",
+        "四个人各自提出的假设"
+      ],
+      "warning": "系列长篇，无凶案，属日常之谜式的推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「啤酒之家的冒险」／西泽保彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "auth2-012",
+    "title": "美浓牛",
+    "originalTitle": "美濃牛",
+    "author": "殊能将之",
+    "authorEn": "Shuno Masayuki",
+    "genre": "本格推理",
+    "firstPublished": "1995",
+    "series": "石动戏作系列",
+    "detective": "石动戏作",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "countryside",
+      "series-detective",
+      "honkaku",
+      "historical-setting"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座地方小城里的旧家族接连出事，家传的东西也一件件不见。侦探石动戏作介入后先做的是查地方志——因为这里的人都相信某段旧事，而那段旧事未必是真的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 657,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35539875/",
+        "subjectId": "35539875",
+        "edition": "美浓牛 2021",
+        "fetchedAt": "2026-09-22T10:41:41.392Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢地方旧闻题材的读者",
+        "殊能将之的读者"
+      ],
+      "watchFor": [
+        "地方志里记载的年代",
+        "家族成员各自的说法",
+        "被当作「家传」的那几件东西"
+      ],
+      "warning": "本格长篇，含地方史与家族题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,台海出版社:,2021（美浓牛／(日) 殊能将之著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "auth2-013",
+    "title": "黑佛",
+    "originalTitle": "黒仏",
+    "author": "殊能将之",
+    "authorEn": "Shuno Masayuki",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "series": "石动戏作系列",
+    "detective": "石动戏作",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "legend-folklore",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一尊通体黑色的佛像在一座寺院里被保管了很多年，围绕它有过几种互相矛盾的说法。当与这尊像有关的人接连出事，石动戏作开始逐条核对那些说法各自的来源。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 329,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36876501/",
+        "subjectId": "36876501",
+        "edition": "黑佛 2024",
+        "fetchedAt": "2026-09-22T10:41:44.567Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "石动戏作系列的读者",
+        "喜欢寺院与旧物题材的读者"
+      ],
+      "watchFor": [
+        "关于佛像的几种说法",
+        "谁有保管权",
+        "寺里最近一次变动是什么时候"
+      ],
+      "warning": "本格长篇，含宗教器物与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,台海出版社:,2024.07（黑佛／(日) 殊能将之著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "auth2-015",
+    "title": "二的悲剧",
+    "originalTitle": "二の悲劇",
+    "author": "法月纶太郎",
+    "authorEn": "Norizuki Rintaro",
+    "genre": "本格推理",
+    "firstPublished": "1998",
+    "series": "法月纶太郎系列",
+    "detective": "法月纶太郎",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "meta-fiction",
+      "identity"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "一位推理作家接到委托，去核对一桩已经被判定的旧案。他越查越发现，当年那套说法之所以成立，靠的是把两个不同的人当成了同一个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 628,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10535918/",
+        "subjectId": "10535918",
+        "edition": "二的悲剧 2012",
+        "fetchedAt": "2026-09-22T10:41:51.953Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法月纶太郎系列的读者",
+        "喜欢旧案复核题材的读者"
+      ],
+      "watchFor": [
+        "当年判定所依赖的身份确认",
+        "两个名字出现的场合",
+        "委托人为什么现在才来"
+      ],
+      "warning": "本格长篇，含后设趣味与旧案核查结构。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2012（馆藏题名「二的悲剧」／法月纶太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "auth2-016",
+    "title": "荫桔梗",
+    "originalTitle": "蔭桔梗",
+    "author": "泡坂妻夫",
+    "authorEn": "Awasa Tsumao",
+    "genre": "本格推理",
+    "firstPublished": "1990",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "first-person",
+      "ensemble",
+      "honkaku",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，背景是江户到明治年间的市井。谜面往往小得不像案子：一句被听错的话、一件放错位置的旧物，而解开之后牵出的是一个人的半生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 391,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24695292/",
+        "subjectId": "24695292",
+        "edition": "荫桔梗 2013",
+        "fetchedAt": "2026-09-22T10:41:57.654Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时代背景短篇的读者",
+        "泡坂妻夫的读者"
+      ],
+      "watchFor": [
+        "每篇里那句被误传的话",
+        "旧物的原本用途",
+        "结尾处视角的移动"
+      ],
+      "warning": "时代短篇集，各篇独立，基调沉静，无血腥。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「荫桔梗」／泡坂妻夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "auth2-017",
+    "title": "奇术侦探曾我佳城",
+    "originalTitle": "奇術探偵曾我佳城",
+    "author": "泡坂妻夫",
+    "authorEn": "Awasa Tsumao",
+    "genre": "本格推理",
+    "firstPublished": "1985",
+    "series": "曾我佳城系列",
+    "detective": "曾我佳城",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "meta-fiction",
+      "red-herring",
+      "theater"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。侦探本人是魔术师，而每篇的案件都发生在舞台前后——他把魔术的原理用在案件上，同时提醒读者：魔术的目的就是让你看错地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 338,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19949181/",
+        "subjectId": "19949181",
+        "edition": "奇术侦探曾我佳城·秘之卷 2013",
+        "fetchedAt": "2026-09-22T10:42:00.825Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对魔术与推理结合感兴趣的读者",
+        "泡坂妻夫的读者"
+      ],
+      "watchFor": [
+        "每个魔术手法的原理",
+        "观众被引导去看的位置",
+        "侦探点破时用的那个类比"
+      ],
+      "warning": "短篇集，各篇独立，作者本人是职业魔术师，含大量魔术知识。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「奇术侦探曾我佳城 戏之卷」／泡坂妻夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "auth2-018",
+    "title": "亚爱一郎的逃亡",
+    "originalTitle": "亞愛一郎的逃亡",
+    "author": "泡坂妻夫",
+    "authorEn": "Awasa Tsumao",
+    "genre": "本格推理",
+    "firstPublished": "1979",
+    "series": "亚爱一郎系列",
+    "detective": "亚爱一郎",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。主角是个不起眼、总被人小看的年轻人，却每次都能注意到别人没在看的地方——包括那些刻意做得让人不去看的地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 379,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6061479/",
+        "subjectId": "6061479",
+        "edition": "亞愛一郎的逃亡 2011",
+        "fetchedAt": "2026-09-22T10:42:06.654Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻妙短篇本格的读者",
+        "亚爱一郎系列的读者"
+      ],
+      "watchFor": [
+        "被旁人忽略的那个细节",
+        "主角「看」的方式与别人有何不同",
+        "每篇结尾他说的那句话"
+      ],
+      "warning": "短篇集，各篇独立，幽默与解谜并重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "auth2-019",
+    "title": "蜜",
+    "originalTitle": "蜜",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "passion",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的都是男女之间那种说不清的关系。叙述者往往在讲一件早已过去的事，语气平静，但读下去会慢慢意识到他省略了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1052,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11620651/",
+        "subjectId": "11620651",
+        "edition": "蜜 2012",
+        "fetchedAt": "2026-09-22T10:42:09.995Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢连城三纪彦式情感推理的读者",
+        "能接受留白结局的读者"
+      ],
+      "watchFor": [
+        "叙述者讲述这件事的时间点",
+        "他反复提到的那件小事",
+        "结尾停在了哪句话上"
+      ],
+      "warning": "短篇集，各篇独立，涉及婚外情与阴暗心理，无血腥场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-43-authors-misc.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

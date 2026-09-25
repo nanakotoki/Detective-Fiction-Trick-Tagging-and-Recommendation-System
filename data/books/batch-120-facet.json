@@ -1,0 +1,527 @@
+[
+  {
+    "id": "facet120-001",
+    "title": "不完整的密室",
+    "originalTitle": "",
+    "author": "东川笃哉",
+    "authorEn": "Higashikawa Tokuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": ["locked-room", "cozy", "multiple-solutions"],
+    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "safeSummary": "东川笃哉的密室推理小品短篇集，收录六部作品。六个密室的构造都简单，却设计精巧，以大学生侦探二人组为主角。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["密室诡计爱好者", "喜欢轻快笔调的本格读者"],
+      "watchFor": ["各篇密室的构造条件", "二人组各自提出的推理", "被推翻的那一版解答"],
+      "warning": "本格推理短篇集，六起密室案件，笔调轻松。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经由本库新开的「按检索行主题词枚举」渠道发现，见 `docs/collection-backlog.md` 第二十四节）：(日) 东川笃哉著，新星出版社 2014.08，丛编项「**午夜文库.东川笃哉作品.日系佳作**」。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类，最硬）；②丛编项含**推理专门书系「午夜文库·日系佳作」**；③馆藏提要文摘**直接写明**「本书为东川笃哉**密室推理**小品短篇集……将**本格密室推理小说**的严谨体现得淋漓尽致」。**新作者**：库内此前无东川笃哉作品，本批收入其两部。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2014。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2014"
+  },
+  {
+    "id": "facet120-002",
+    "title": "向密室开枪",
+    "originalTitle": "",
+    "author": "东川笃哉",
+    "authorEn": "Higashikawa Tokuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["locked-room", "vanished-weapon", "nursery-rhyme"],
+    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "safeSummary": "一把私制手枪流落民间，枪里还剩六颗子弹，接着枪声开始倒数，惨案相继发生。持有手枪的人成了最大的嫌疑对象。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["密室诡计爱好者", "东川笃哉的读者"],
+      "watchFor": ["六颗子弹的消耗顺序", "手枪的流转经过", "各起现场的封闭条件"],
+      "warning": "本格推理长篇，含枪击命案与密室描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著（该馆著者项误录为「东川笃战」，**本库按通行译名记「东川笃哉」并在条目内说明**），新星出版社 2014.06，丛编项「**午夜文库.日系佳作**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项含**推理专门书系「午夜文库·日系佳作」**；③馆藏提要文摘给出私制手枪与枪声倒数的谜面。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2014。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2014"
+  },
+  {
+    "id": "facet120-003",
+    "title": "不可能犯罪诊断书3",
+    "originalTitle": "",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "山姆·霍桑医生系列（短篇集）",
+    "detective": "山姆·霍桑",
+    "country": "美国",
+    "tags": ["locked-room", "countryside", "multiple-solutions"],
+    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "safeSummary": "「不可能犯罪诊断书」系列的第三册：北山镇医生山姆·霍桑凭借医学知识，在蛛丝马迹中寻找那些看似不可能发生的案件的线索。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪的爱好者", "爱德华·霍克的读者"],
+      "watchFor": ["各篇中「不可能」之处", "医生的医学观察", "篇末对前文的重新解释"],
+      "warning": "本格推理短篇集，含命案与医疗场景描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 爱德华·霍克著，湖南文艺出版社 2023.4。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②同系列第四册的馆藏提要**直接写明**「作为**推理小说**史上与福尔摩斯和波洛齐名的经典侦探形象，山姆·霍桑继续凭借严谨的医学知识在蛛丝马迹中寻求破案的线索」。**备注**：本条的梗概按**系列层面**撰写（同一主角与同一体例），**不虚构本册具体篇目内容**。**新作者**：库内此前无爱德华·霍克作品，本批收入其该系列三册。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet120-004",
+    "title": "不可能犯罪诊断书4",
+    "originalTitle": "",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "山姆·霍桑医生系列（短篇集）",
+    "detective": "山姆·霍桑",
+    "country": "美国",
+    "tags": ["locked-room", "countryside", "ensemble"],
+    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "safeSummary": "「不可能犯罪诊断书」系列第四册：案件越来越复杂，就连霍桑也必须依靠更多人手的帮助，渐渐地他发现自己已经有了一支固定成员的「探案班子」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪的爱好者", "喜欢短篇连作的读者"],
+      "watchFor": ["各篇的不可能之处", "逐渐固定下来的帮手们", "医学细节在推理中的作用"],
+      "warning": "本格推理短篇集，含命案与医疗场景描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 爱德华·霍克著，湖南文艺出版社 2023.4。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②馆藏提要文摘**直接写明**「作为**推理小说**史上与福尔摩斯和波洛齐名的经典侦探形象，山姆·霍桑继续凭借严谨的医学知识在蛛丝马迹中寻求破案的线索」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet120-005",
+    "title": "不可能犯罪诊断书大结局6",
+    "originalTitle": "",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "山姆·霍桑医生系列（短篇集）",
+    "detective": "山姆·霍桑",
+    "country": "美国",
+    "tags": ["locked-room", "countryside", "reverse-chronology"],
+    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "safeSummary": "「不可能犯罪诊断书」系列的收官一册：北山镇医生山姆·霍桑面对的最后一组不可能案件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪的爱好者", "追完该系列的读者"],
+      "watchFor": ["各篇的不可能之处", "系列前几册埋下的人与事", "篇末的重新解释"],
+      "warning": "本格推理短篇集，含命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 爱德华·霍克著，湖南文艺出版社。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②同系列第四册的馆藏提要**直接写明**该系列主角是「**推理小说**史上与福尔摩斯和波洛齐名的经典侦探形象」。**备注**：本条梗概按**系列层面**撰写，**不虚构本册具体篇目内容**。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023（与同系列一致，该馆此条未给出年份）。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet120-006",
+    "title": "朋友以上 侦探未满",
+    "originalTitle": "",
+    "author": "麻耶雄嵩",
+    "authorEn": "Maya Yutaka",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "伊贺桃、上野青",
+    "country": "日本",
+    "tags": ["youth", "ensemble", "multiple-solutions"],
+    "school": ["orthodox-school", "logic-school", "daily-mystery-school"],
+    "safeSummary": "伊贺桃与上野青都是推理迷。在一次社团活动中，两人在三重县伊贺市的一场解谜活动里卷入了一起杀人案。两个热爱侦探的女孩就此展开了破解迷案的竞赛。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["麻耶雄嵩的读者", "喜欢双人竞赛式解谜的读者"],
+      "watchFor": ["两位女孩各自提出的解答", "解谜活动的规则", "「胜者当福尔摩斯」的约定"],
+      "warning": "本格推理长篇，含命案与少年向氛围描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 麻耶雄嵩著，新星出版社 2023.7，丛编项「**午夜文库.日系佳作；麻耶雄嵩作品**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项含**推理专门书系「午夜文库·日系佳作」**；③馆藏提要文摘写明两位女高中生卷入杀人案并展开解谜竞赛。**补作者缺口**：作者麻耶雄嵩库内已有 11 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet120-007",
+    "title": "虚构推理",
+    "originalTitle": "",
+    "author": "城平京",
+    "authorEn": "Shirodaira Kyo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "虚构推理系列",
+    "detective": "岩永琴子",
+    "country": "日本",
+    "tags": ["legend-folklore", "multiple-solutions", "meta-fiction"],
+    "school": ["trick-school", "bizarre-school", "logic-school"],
+    "safeSummary": "美少女琴子与女警官纱季在一场意外中相识。机缘巧合下，琴子开始帮助纱季解决一些怪异的案件，两个女孩运用智慧在本格推理的案件里摸索着寻求真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢怪奇设定与本格结合的读者", "城平京的读者"],
+      "watchFor": ["「虚构」出来的那套解释", "琴子与纱季的分工", "传闻与实情的差距"],
+      "warning": "本格推理长篇，含怪奇设定、命案与都市传说描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 城平京著，北京时代华文书局 2018.12，丛编项「**千本樱文库**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项为**千本樱文库**——本项目第十四节曾把它列为「未枚举的推理专门丛书」，**本条是该丛书的第一部入库作品**；③馆藏提要文摘写明「两个女孩运用自己的智慧和能力在**本格推理**的案件故事中摸索着寻求真相」。**新作者**：库内此前无城平京作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2018。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2018"
+  },
+  {
+    "id": "facet120-008",
+    "title": "教堂里的谋杀",
+    "originalTitle": "",
+    "author": "P.D.詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "亚当·达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": ["closed-circle", "city", "concealment"],
+    "school": ["orthodox-school", "police-procedural", "logic-school"],
+    "safeSummary": "P.D. 詹姆斯的「亚当·达格利什」系列长篇：一桩发生在教堂相关场所的谋杀案，由诗人警司达格利什负责调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["P.D.詹姆斯的读者", "喜欢英式古典警探小说的读者"],
+      "watchFor": ["教堂相关场所的人员往来", "各人的证词", "达格利什的诗人心思"],
+      "warning": "本格推理长篇，含命案与宗教场所描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 詹姆斯(JAMES,P.D.) 著，群众出版社 1990.9。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类，最硬）；②作者 P.D. 詹姆斯为英国推理作家协会「钻石匕首奖」得主。**备注**：该馆此条**提要文摘只有一句畅销书说明、未交代案情**，故梗概**只在系列与主角层面概括，不虚构具体情节**。**新作者**：库内此前无 P.D. 詹姆斯作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 1990。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "1990"
+  },
+  {
+    "id": "facet120-009",
+    "title": "杀人广告",
+    "originalTitle": "Murder Must Advertise",
+    "author": "多萝西·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "series": "彼得·温姆西勋爵系列",
+    "detective": "彼得·温姆西勋爵",
+    "country": "英国",
+    "tags": ["city", "concealment", "dual-role"],
+    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "safeSummary": "比姆广告公司的职员维克多·迪恩从办公室的楼梯上失足毙命。这起意外原本没有引起员工猜疑，温姆西勋爵却凭着细致入微的洞察力断定，这不是一起普通的意外。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["黄金时代本格的读者", "塞耶斯的读者"],
+      "watchFor": ["迪恩坠楼当天的行踪", "广告公司内部的竞争", "温姆西以什么身份出现"],
+      "warning": "本格推理长篇，含命案与毒品交易相关描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 多萝西·利·塞耶斯著，群众出版社 2006，丛编项「**英国侦探小说女皇多萝西·利·塞耶斯系列**」。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类）；②丛编项为**以侦探小说命名的作家专集**；③馆藏提要文摘写明迪恩坠楼与温姆西的怀疑。**补作者缺口**：作者多萝西·塞耶斯库内已有 1 部。**原作年**：1933 年（英文原版 *Murder Must Advertise* 出版年）；`editionYear` 记 2006。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2006"
+  },
+  {
+    "id": "facet120-010",
+    "title": "形迹可疑的人",
+    "originalTitle": "",
+    "author": "卡雷尔·恰佩克",
+    "authorEn": "Karel Čapek",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "捷克",
+    "tags": ["diary-form", "meta-fiction", "dark-atmosphere"],
+    "school": ["bizarre-school", "trick-school", "orthodox-school"],
+    "safeSummary": "恰佩克的短篇小说集，收录二十六篇侦探小说。这些作品被视为别具一格的哲理侦探小说，重点在于从带有想象力和超现实色彩的故事中挖掘人性。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢思辨型侦探短篇的读者", "恰佩克的读者"],
+      "watchFor": ["各篇中「案」的边界", "叙述者的立场", "篇末的道德追问"],
+      "warning": "哲理侦探短篇集，含命案、超现实场景与人性阴暗面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(捷克) 卡雷尔·恰佩克著，新华出版社 2015.10。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类）；②馆藏提要文摘**直接写明**「本书是作者的一部短篇小说集，收录了 26 篇**侦探小说**。这些**侦探小说**被视为别具一格的哲理侦探小说……它们将**侦探小说**的形式、内涵与深度提高到了一个新的高度」。**新作者**：库内此前无恰佩克作品，亦无捷克推理作者。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet120-011",
+    "title": "谋杀之友",
+    "originalTitle": "",
+    "author": "内尔·诺伊豪斯",
+    "authorEn": "Nele Neuhaus",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "奥利弗与皮娅系列",
+    "detective": "奥利弗、皮娅",
+    "country": "德国",
+    "tags": ["city", "social-commentary", "concealment"],
+    "school": ["police-procedural", "social-school", "logic-school"],
+    "safeSummary": "陶努斯动物园里发现了一只人手，警探奥利弗和皮娅继而在草地上发现了尸体的其余部分。死者是位教师和激进的环保主义者，很多青少年崇拜他，也有很多人讨厌他。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["德国犯罪小说的读者", "奥利弗与皮娅系列的读者"],
+      "watchFor": ["死者的人际关系网", "环保议题牵扯到的各方", "两位警探的分工"],
+      "warning": "犯罪悬疑长篇，含分尸、命案与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(德) 内尔·诺伊豪斯著，上海文艺出版社 2013.10。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类）；②馆藏提要文摘写明动物园发现人手与尸体其余部分，并列出嫌疑人范围。**补作者缺口**：作者库内已有 1 部（德国犯罪小说作家，本批另收其同系列作品）。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2013。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2013"
+  },
+  {
+    "id": "facet120-012",
+    "title": "迪伦马特侦探小说集",
+    "originalTitle": "",
+    "author": "弗里德里希·迪伦马特",
+    "authorEn": "Friedrich Dürrenmatt",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列（小说集）",
+    "detective": "贝尔拉赫",
+    "country": "瑞士",
+    "tags": ["ensemble", "obsession", "social-commentary"],
+    "school": ["social-school", "psychological-school", "orthodox-school"],
+    "safeSummary": "本书收入迪伦马特的全部侦探小说，包括《法官和他的刽子手》《嫌疑》《公正》《诺言》《退休者》。其中《法官和他的刽子手》讲述侦探长贝尔拉赫为追究罪犯加斯特曼的罪行，多年跟踪、斗智斗勇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢文学性犯罪小说的读者", "迪伦马特的读者"],
+      "watchFor": ["贝尔拉赫与对手的长期博弈", "各篇中正义的实现方式", "叙述者的立场"],
+      "warning": "犯罪小说集，含命案、追捕与道德困境描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(瑞士) 弗里德里希·迪伦马特著，人民文学出版社 2018.10。**推理属性判据**：①检索行**主题词为「侦探小说 中篇小说」**（第①类）；②馆藏提要文摘**直接写明**「本书收入迪伦马特的全部**侦探小说**」并列出篇目。**新作者**：库内此前无迪伦马特作品，亦无瑞士推理作者。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2018。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2018"
+  },
+  {
+    "id": "facet120-013",
+    "title": "赫尔克里的丰功伟绩",
+    "originalTitle": "The Labours of Hercules",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1947",
+    "series": "赫尔克里·波洛系列（短篇集）",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": ["nursery-rhyme", "ensemble", "series-detective"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "波洛短篇集，收录《涅墨亚狮子》《勒尔那九头蛇》《阿卡狄亚牝鹿》《克里特岛神牛》《狄奥墨德斯野马》等篇——十二桩案子各对应赫拉克勒斯的一项功绩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["波洛短篇的读者", "喜欢「主题式」短篇连作的读者"],
+      "watchFor": ["每篇与对应功绩的呼应", "委托人的说辞", "波洛退休前的打算"],
+      "warning": "本格推理短篇集，含命案、失踪与绑架描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 阿加莎·克里斯蒂著，贵州人民出版社 1998，丛编项「阿加莎·克里斯蒂作品全集」。**推理属性判据**：①检索行**主题词为「侦探小说 短篇小说」**（第①类，最硬）；②馆藏提要文摘列出全部篇目（涅墨亚狮子、勒尔那九头蛇等，即赫拉克勒斯十二功绩）。**⚠ 这一条补上了一个悬了十几轮的缺口**：第十四节曾把《赫尔克里·波洛的丰功伟绩》记为「确为波洛系列、但两馆均未入藏、证据不足暂不收录」。本轮换用「按检索行主题词枚举」后，**该馆其实入藏了这本书的另一个中译名版本**（贵州人民 1998 版作《赫尔克里的丰功伟绩》），主题词直证「侦探小说」。**原作年**：1947 年（英文原版 *The Labours of Hercules* 出版年）；`editionYear` 记 1998。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "1998"
+  },
+  {
+    "id": "facet120-014",
+    "title": "宠溺谋杀",
+    "originalTitle": "",
+    "author": "玛丽·凯利",
+    "authorEn": "Mary Kelly",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "赫德利·尼克尔森系列",
+    "detective": "赫德利·尼克尔森",
+    "country": "英国",
+    "tags": ["gain", "concealment", "countryside"],
+    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "safeSummary": "斯塔福德郡的老字号陶瓷厂出了大事：国外生产商剽窃了申塔尔的陶瓷器设计，并以低价在美国市场出售同款。私人侦探尼克尔森受托前来，要尽快查出泄密者。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["黄金时代本格的读者", "喜欢产业背景谜案的读者"],
+      "watchFor": ["设计资料的外流途径", "厂内各人的立场", "商业间谍案之外的东西"],
+      "warning": "本格推理长篇，含商业间谍、命案与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 玛丽·凯利著，中国青年出版社 2024.08，丛编项「**大英图书馆·侦探小说黄金时代经典作品集**」。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类）；②丛编项为**以「侦探小说黄金时代」命名的专门书系**（第⑤类）；③馆藏提要文摘**直接写明**「商业间谍案只是个开始。随着调查的深入，尼克尔森逐渐挖掘出申塔尔陶瓷……」。**新作者**：库内此前无玛丽·凯利作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2024。梗概据馆藏提要文摘重写，只写到调查开始为止。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2024"
+  },
+  {
+    "id": "facet120-015",
+    "title": "心灵侦探八云8脱轨的灵魂",
+    "originalTitle": "",
+    "author": "神永学",
+    "authorEn": "Kaminaga Manabu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "心灵侦探八云系列",
+    "detective": "八云",
+    "country": "日本",
+    "tags": ["legend-folklore", "concealment", "fear"],
+    "school": ["bizarre-school", "trick-school", "orthodox-school"],
+    "safeSummary": "昏睡后醒来的八云发现自己身边是诚道的尸体，慌忙离开现场的他被警方认定为犯罪嫌疑人。而调查八云失踪案件的警察后藤和英心也被牵扯其中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["心灵侦探八云系列的读者", "喜欢灵异设定与推理结合的读者"],
+      "watchFor": ["八云昏睡期间的经过", "现场留下的痕迹", "两位警察的调查线"],
+      "warning": "犯罪悬疑长篇，含灵异设定、尸体与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 神永学著，青岛出版社 2016.05。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类）；②馆藏提要文摘**直接写明**「这是一部赞美勇气、合作、友谊的**悬疑类侦探小说**」并给出八云被列为嫌疑人的谜面。**新作者**：库内此前无神永学作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": { "source": "batch-120-facet.json", "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。" },
+    "editionYear": "2016"
+  }
+]

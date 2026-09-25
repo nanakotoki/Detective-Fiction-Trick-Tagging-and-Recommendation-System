@@ -1,0 +1,995 @@
+[
+  {
+    "id": "midorig95-001",
+    "title": "积木花园",
+    "originalTitle": "",
+    "author": "白月系",
+    "authorEn": "Bai Yuexi",
+    "genre": "新本格",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "白越隙、谬尔德",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "diary-form",
+      "narrative-trick",
+      "red-herring",
+      "fear",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "某大学社团一行人驾车前往宅邸「七星馆」聚会。前任馆主是三国迷，馆内摆满与诸葛亮有关的展品。馆主之子驾车撞下山崖、尸体被烧毁，众人陷入恐慌；推理作家白越隙则得到一份离奇手记。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1905,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35897313/",
+        "subjectId": "35897313",
+        "edition": "积木花园 2022",
+        "fetchedAt": "2026-09-23T12:29:35.180Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢暴风雪山庄模式的读者",
+        "绫辻行人、麻耶雄嵩的读者"
+      ],
+      "watchFor": [
+        "七星馆的展品与馆内布局",
+        "手记里阿海做的事",
+        "手记结尾那个血印"
+      ],
+      "warning": "本格推理长篇，含凶案、坠崖与烧尸描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35897313（新星出版社 2022-8，264 页，ISBN 9787513349123）。**推理属性判据**：①出版方宣传语为「华语推理新锐白月系」「挑战『暴风雪山庄』经典犯罪模式」「获得第七届岛田庄司推理小说奖优选奖」；②扬州市图书馆 OPAC marc 0000938709：**中图法 I247.56**（中国当代侦探／推理小说）＋**学科主题「推理小说-中国-当代」**；③丛编附注「主丛编编号 724」即新星出版社「午夜文库」；④作者曾以「月辻」等笔名在《推理》《推理世界》发表作品。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-002",
+    "title": "深藏于骨",
+    "originalTitle": "",
+    "author": "赵婧怡",
+    "authorEn": "Zhao Jingyi",
+    "genre": "社会派",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "周宇",
+    "country": "中国",
+    "tags": [
+      "alibi",
+      "dual-line",
+      "red-herring",
+      "concealment",
+      "city",
+      "forensic"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "一具尸体带出两起陈年旧案。刑警周宇决定新旧案一起查，锁定目标后却陷入怀疑：各人自述的行踪对不上，涉案人员之间毫无关联，被害人家属又躲躲闪闪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1287,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35998503/",
+        "subjectId": "35998503",
+        "edition": "深藏于骨 2022",
+        "fetchedAt": "2026-09-23T12:29:38.402Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢新旧案交织的读者",
+        "社会派推理读者"
+      ],
+      "watchFor": [
+        "那具尸骨的埋藏时间",
+        "各人自述的行踪",
+        "被害人家属回避的话题"
+      ],
+      "warning": "推理长篇，本格与社会派并重，含埋尸与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35998503（新星出版社 2022-8，256 页，ISBN 9787513349826）。**推理属性判据**：①出版方宣传语为「本格推理与社会派的精彩结合」；②扬州市图书馆 OPAC marc 0000938892：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；③作者公开身份为推理小说作者与日语翻译，译有《苏格兰游戏》《敲响密室之门2》等日系推理。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-003",
+    "title": "悲悼",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "硬汉派",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "刘雅弦",
+    "country": "中国",
+    "tags": [
+      "hardboiled",
+      "historical-setting",
+      "city",
+      "silencing",
+      "fear",
+      "red-herring"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一九三四年，省城。女侦探刘雅弦接待了一位女学生打扮的访客，对方拜托她寻找失踪的同学。她四处打探终于找到蛛丝马迹，却受到当地大亨手下的暴力阻挠，又因卷入命案而被捕。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 971,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36545724/",
+        "subjectId": "36545724",
+        "edition": "悲悼 2023",
+        "fetchedAt": "2026-09-23T12:29:41.697Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "陆秋槎的读者",
+        "民国背景与冷硬派的爱好者"
+      ],
+      "watchFor": [
+        "失踪女生最后出现的地方",
+        "葛家的态度为何反复",
+        "那桩让刘雅弦被捕的命案"
+      ],
+      "warning": "冷硬派推理长篇，民国背景，含暴力、失踪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/36545724（新星出版社 2023-9，252 页，ISBN 9787513353083）。**推理属性判据**：①出版方宣传语为「推理、科幻双栖作家陆秋槎　作品多次登上日本四大推理榜单」「时隔四年的推理新作　致敬冷硬派大师经典」，主角身份即「民国女侦探刘雅弦」；②扬州市图书馆 OPAC marc 0000966121：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；③作者此前已有《元年春之祭》《当且仅当雪是白的》等本格推理长篇在库。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-004",
+    "title": "刀锋上的救赎",
+    "originalTitle": "",
+    "author": "指纹",
+    "authorEn": "Zhi Wen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "非系列",
+    "detective": "赵馨诚",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "city",
+      "revenge",
+      "concealment",
+      "forensic"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "刑警队长赵馨诚身手超群，熟谙犯罪剖绘，接连破获要案，性格却让他屡受处分。与此同时京城命案频发，被害人的性别、年龄与职业毫无共通之处，连他身边的同事也惨遭毒手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 1761,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5980634/",
+        "subjectId": "5980634",
+        "edition": "刀锋上的救赎 2011",
+        "fetchedAt": "2026-09-23T12:29:45.430Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪剖绘与连环案的读者",
+        "《白夜追凶》的观众"
+      ],
+      "watchFor": [
+        "被害人的挑选方式",
+        "袁适的画像结论",
+        "韩彬给出的那些提示"
+      ],
+      "warning": "犯罪悬疑长篇，含连环凶案、暴力与刑警殉职描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "首次出版年与题材判据取自扬州市图书馆 OPAC marc 0000204056：《刀锋上的救赎：没有什么能阻止人与人相互伤害》**北京：新星出版社，2011.04**，ISBN 978-7-5133-0193-0，392 页，**中图法 I247.56**，**学科主题「侦探小说-中国-当代」**。豆瓣另有「增补版」（subject/26962628，2017-6）与「3版」（subject/37292122，2025-4）两个条目，内容同一部作品，故只收一条、`firstPublished` 记 2011 年。**推理属性判据**：①中图法 I247.56 与主题词「侦探小说」；②出版方为推理专门书系「午夜文库」；③作者指纹为《白夜追凶》编剧／原著作者。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-005",
+    "title": "杀人游戏",
+    "originalTitle": "",
+    "author": "雷钧",
+    "authorEn": "Lei Jun",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "closed-circle",
+      "psychological-misdirection",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "警匪游戏、狼人杀、剧本杀、密室逃脱……这些本该让人放松的多人游戏，在心怀叵测之徒看来却是隐藏罪行的绝好机会。五款规则各不相同的游戏，五场交锋。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1090,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30425286/",
+        "subjectId": "30425286",
+        "edition": "杀人游戏 2019",
+        "fetchedAt": "2026-09-23T12:29:50.754Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇与规则型诡计的读者",
+        "雷钧的读者"
+      ],
+      "watchFor": [
+        "每款游戏的规则条款",
+        "规则里被谁钻了空子",
+        "同一场游戏里各人的胜负动机"
+      ],
+      "warning": "本格推理短篇集，含凶案与心理博弈描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/30425286（新星出版社 2019-5，376 页，ISBN 9787513334761）。**推理属性判据**：①出版方与作者简介明确写着「《杀人游戏》是作者以『游戏』为主题创作的**短篇推理小说集**」，作者雷钧凭《黄》获**第四届岛田庄司推理小说奖首奖**、此前以《见鬼的爱情》入围决选；②扬州市图书馆 OPAC marc 0000768996：**中图法 I247.7**（短篇小说集）＋**学科主题「推理小说-小说集-中国-当代」**。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-006",
+    "title": "日月星杀人事件",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "陈默思探案",
+    "detective": "陈默思",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "snowfield",
+      "dual-line",
+      "alibi",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位推理小说家的殒命，把陈默思与陆宇卷进漩涡。两人代替死者前往日月山庄做客，得知十年前曾有天文爱好者团队在此聚会，其间发生过命案。血案伴随着风雪再度降临。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 1295,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30427816/",
+        "subjectId": "30427816",
+        "edition": "日月星杀人事件 2019",
+        "fetchedAt": "2026-09-23T12:29:54.005Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "青稞的读者",
+        "喜欢封闭山庄与旧案重提的读者"
+      ],
+      "watchFor": [
+        "十年前那场聚会的成员名单",
+        "是谁在暗示旧案凶手未伏法",
+        "山庄在风雪中的出入条件"
+      ],
+      "warning": "本格推理长篇，含凶案描写与风雪围困的紧张氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/30427816（新星出版社 2019-4，248 页，ISBN 9787513335171）。**推理属性判据**：①作者简介明确写着「青稞，**新锐推理作家**……**本格推理**死忠」，本作属「**陈默思探案**」系列，其长篇《巴别塔之梦》入围第五届岛田庄司推理小说赏决选、短篇获第三届华文推理大奖赛二等奖；②扬州市图书馆 OPAC marc 0000798230：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；③与库内已有的《钟塔杀人事件》《土楼杀人事件》《巴别塔之梦》同属陈默思系列。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-007",
+    "title": "请别随意@她",
+    "originalTitle": "",
+    "author": "昆金",
+    "authorEn": "Kun Jin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "非系列",
+    "detective": "张跃",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "red-herring",
+      "city",
+      "obsession",
+      "silencing"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "刑警张跃在微博上发现，有个女孩接连遭受三次意外。他判断这女孩危在旦夕，果然第四次意外之后女孩遇害。案发现场是一个只有一个出口的密闭空间，凶手行凶后从密室里凭空消失。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 251,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20515087/",
+        "subjectId": "20515087",
+        "edition": "请别随意@她 2013",
+        "fetchedAt": "2026-09-23T12:29:57.206Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与网络题材的读者",
+        "国内犯罪悬疑读者"
+      ],
+      "watchFor": [
+        "三次「意外」的现场",
+        "女孩在社交平台上的发言",
+        "那个密闭空间唯一的出口"
+      ],
+      "warning": "犯罪悬疑长篇，含跟踪、伤害与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/20515087（新星出版社 2013-1，208 页，ISBN 9787513309578）。**推理属性判据**：①内容简介的谜面为「密闭空间」中凶手行凶后**从密室凭空消失**，属典型不可能犯罪，且由刑警展开侦查，谜面为待解之谜而非氛围渲染；②丛编为新星出版社「午夜文库·原创系列」（推理专门书系）；③作者简介称其「对推理小说情有独钟」。**核实说明**：扬州市图书馆 OPAC 按书名检索**无馆藏记录**，故本条以豆瓣简介＋推理专门书系双重判据收录，未取得中图法分类号。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-008",
+    "title": "青之毒",
+    "originalTitle": "",
+    "author": "亚戈",
+    "authorEn": "Ya Ge",
+    "genre": "本格推理",
+    "firstPublished": "2025",
+    "series": "非系列",
+    "detective": "唐不疑、魏彻",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "historical-setting",
+      "legend-folklore",
+      "red-herring",
+      "adventure"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "传闻隐退多年的魔头「青煞」重现江湖，六扇门名捕唐不疑前往信阳山中调查，在青梅庄巧遇两大家族成员与名士高僧。一场暴雨冲断山路，庄内惨案接连发生，还出现了一起众人监视下的密室谋杀。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 704,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37286500/",
+        "subjectId": "37286500",
+        "edition": "青之毒 2025",
+        "fetchedAt": "2026-09-23T12:30:00.416Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢武侠与推理结合的读者",
+        "《冥海花》的读者"
+      ],
+      "watchFor": [
+        "青梅庄里各人的来历",
+        "那场密室谋杀发生时谁在看守",
+        "唐不疑留在信里的内容"
+      ],
+      "warning": "本格推理长篇，武侠江湖背景，含凶案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/37286500（新星出版社 2025-9，276 页，ISBN 9787513360340）。**推理属性判据**：①出版方宣传语为「**第二届新星国际推理文学奖　长篇部门获奖作品**」「侠义江湖 × **本格推理**」「逻辑利刃击破谜团」；②作者简介写着「国内**推理创作新锐**……作品将**本格推理**的经典模式与武侠小说相结合」；③扬州市图书馆 OPAC marc 0001086983：**中图法 I247.56** ＋**学科主题「推理小说-中国-当代」**；④谜面为暴雨封路后的封闭山庄与众人监视下的密室谋杀。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-009",
+    "title": "天使降临之塔",
+    "originalTitle": "",
+    "author": "里卡多",
+    "authorEn": "Li Ka Duo",
+    "genre": "变格",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "legend-folklore",
+      "countryside",
+      "fear",
+      "curiosity",
+      "silencing",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "自由撰稿人叶深在一次田野调查中迷路，误入深山里的神秘村庄，见到一座破败的高塔。村中的奇异风俗令她好奇，亲历献祭活动后她才发现，那竟是向塔身中栖息的群鸦献祭活人的仪式。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 799,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35309343/",
+        "subjectId": "35309343",
+        "edition": "天使降临之塔 2021",
+        "fetchedAt": "2026-09-23T12:30:03.619Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢三津田信三式村落怪谈的读者",
+        "变格推理读者"
+      ],
+      "watchFor": [
+        "村里献祭仪式的时间与规矩",
+        "高塔内的声响",
+        "叶深进村前遇到的指路人"
+      ],
+      "warning": "推理长篇，村落怪谈与献祭题材，氛围压抑，含死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35309343（新星出版社 2021-3，356 页，ISBN 9787513343329）。**推理属性判据**：①出版方宣传语为「**推理新锐**里卡多　长篇力作」「见证罪恶神迹与哀愁真相的漫长坠落」，作者简介明确写着「**推理小说**作家，建筑师」；②丛编为新星出版社「午夜文库·原创系列」（推理专门书系）；③谜面为深山村庄的献祭仪轨与「迷案的旋涡」。**诚实标注（与判据不符之处）**：扬州市图书馆 OPAC marc 0000879484 把本书归入**中图法 I247.57**（中国当代长篇小说通用类）、主题词仅「长篇小说」，**编目上并未归入推理类**；本条依赖推理专门书系＋作者身份＋谜面三项，判据强度弱于同批其他各条。另：OPAC 出版年记 2020，豆瓣记 2021-3，两者 ISBN 相同（978-7-5133-4332-9），本库按豆瓣的 2021 记。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-010",
+    "title": "彷徨的杀意",
+    "originalTitle": "",
+    "author": "陈俊霖",
+    "authorEn": "Chen Junlin",
+    "genre": "社会派",
+    "firstPublished": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "revenge",
+      "psychological-misdirection",
+      "red-herring",
+      "obsession",
+      "silencing"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "法学教授方雾一生将法律视若神明。一次偶然的机会，他得知了二十多年前妻女死亡的真相，可此案早已过了追诉时效，凶手仍逍遥法外。法外复仇将违背信仰，原谅凶手又愧对家人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 711,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35268424/",
+        "subjectId": "35268424",
+        "edition": "彷徨的杀意 2021",
+        "fetchedAt": "2026-09-23T12:30:06.810Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭与法理题材的读者",
+        "社会派推理读者"
+      ],
+      "watchFor": [
+        "追诉时效的起算方式",
+        "当年案卷里缺的那部分",
+        "方雾身边人的立场"
+      ],
+      "warning": "推理长篇，法庭与法理题材，含丧亲、复仇与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/35268424（新星出版社 2021-1，252 页，ISBN 9787513342520）。**推理属性判据**：①出版方宣传语为「**第六届岛田庄司推理小说奖入围作品**」「一部具有法学元素的**本格作品**，极具现实性与社会性」；②扬州市图书馆 OPAC marc 0000883496：**中图法 I247.56**（中国当代侦探／推理小说）；③谜面为二十多年前的案件真相与追诉时效之争。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-011",
+    "title": "八声甘州",
+    "originalTitle": "",
+    "author": "远宁",
+    "authorEn": "Yuan Ning",
+    "genre": "历史推理",
+    "firstPublished": "2019",
+    "series": "非系列",
+    "detective": "狄仁杰",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "city",
+      "legend-folklore",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "狄仁杰作为钦差巡视到甘州辖下的张掖。歌舞大比的欢乐氛围下暗流涌动：城内富商在自家院内死于非命，城外宝相寺惊现十五具焦尸，意欲进京献艺的舞团团长也在客栈内离奇死亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 736,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30378479/",
+        "subjectId": "30378479",
+        "edition": "八声甘州 2019",
+        "fetchedAt": "2026-09-23T12:30:10.020Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "远宁的读者",
+        "唐代背景与狄仁杰题材的爱好者"
+      ],
+      "watchFor": [
+        "三起案件发生的时间先后",
+        "那位巫女与各案的关系",
+        "张掖城内各方势力的立场"
+      ],
+      "warning": "历史推理长篇，含焦尸、凶案与政治暗流描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/30378479（新星出版社 2019-2，300 页，ISBN 9787513333740）。**推理属性判据**：①内容简介为狄仁杰查办三起命案的探案结构；②作者简介写明「于二〇〇八年开始**推理小说**创作，作品发表于杂志《推理世界》，有『大唐狄公案系列』『**唐案无名系列**』『红线传系列』等，作品《看朱成碧》获得**首届华文推理大赛一等奖**」；③扬州市图书馆 OPAC marc 0000738420：**中图法 I247.56**；④同作者另有《唐案无名·鬼门寮》在库（蜘蛛文库·原创系列）。**注**：库内既有的「大唐狄公案系列」标签指高罗佩作品，本条不与之混用，故 `series` 记「非系列」，系列关系由 `detective` 字段的「狄仁杰」体现。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "midorig95-012",
+    "title": "单身太久会被杀掉的",
+    "originalTitle": "",
+    "author": "孙未",
+    "authorEn": "Sun Wei",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "多情的「准新娘」在咖啡馆惨遭毁容，警方介入时她却选择逃亡；浪漫的女主编死于自己的公寓；紧接着又一位女白领倒在血泊之中。她们都事业有成，也都在同一个论坛上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 443,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26277998/",
+        "subjectId": "26277998",
+        "edition": "单身太久会被杀掉的 2015",
+        "fetchedAt": "2026-09-23T12:30:13.435Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢都市女性题材的读者",
+        "社会派悬疑读者"
+      ],
+      "watchFor": [
+        "三位被害人共同登录的论坛",
+        "毁容案后准新娘为何逃亡",
+        "她们各自的感情关系"
+      ],
+      "warning": "犯罪悬疑长篇，含毁容、凶案与抑郁描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/26277998（新星出版社 2015-1，356 页，ISBN 9787513316965）。**推理属性判据**：①扬州市图书馆 OPAC marc 0000279775：**中图法 I247.56**（中国当代侦探／推理小说），馆藏出版项记「新星出版社，2015.01」；②丛编为新星出版社「午夜文库·原创系列」（推理专门书系）；③谜面为三起针对都市女性、彼此有关联的连续案件，由警方侦查。梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-95-midnight-orig.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

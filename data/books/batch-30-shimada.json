@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "shimada2-001",
+    "title": "御手洗洁的问候",
+    "originalTitle": "御手洗潔の挨拶",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1990",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "locked-room",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "系列短篇集。几桩看似不起眼的委托被送到侦探手上，每一件都在日常的外表下藏着一个说不通的地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 4327,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3615041/",
+        "subjectId": "3615041",
+        "edition": "御手洗洁的问候 2009",
+        "fetchedAt": "2026-09-21T11:46:16.735Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢系列短篇与轻快节奏的读者",
+        "御手洗系列的老读者"
+      ],
+      "watchFor": [
+        "委托人不经意带过的那句话",
+        "侦探追问的方向",
+        "每篇里被当作常识的前提"
+      ],
+      "warning": "短篇集，各篇独立，比系列长篇轻快得多。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearNote": "**曾误填 2011，已撤回（2026-09 复核）**：`backfill-edition-year.mjs` 依「作者吻合」判定同一本书，而对外经贸大学图书馆的**题名检索实为宽松字面匹配**——《御手洗洁的问候》检索返回的作者吻合行其实是**《御手洗洁的旋律》**（新星出版社 2011.03），两者是岛田庄司「御手洗洁系列」的**不同两本书**。经 `audit-edition-year.mjs` 复核发现后清空；该馆未见《御手洗洁的问候》著录，故**留空**。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shimada2-002",
+    "title": "御手洗洁的舞蹈",
+    "originalTitle": "御手洗潔のダンス",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1990",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "系列短篇集。故事多从一段看似无关的见闻写起，随后才显出它与案件的关联。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1808,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7056767/",
+        "subjectId": "7056767",
+        "edition": "御手洗洁的舞蹈 2012",
+        "fetchedAt": "2026-09-21T11:46:22.367Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢系列短篇的读者",
+        "御手洗系列的老读者"
+      ],
+      "watchFor": [
+        "开篇那段见闻的细节",
+        "叙述者石冈的判断",
+        "侦探提出的那个反问"
+      ],
+      "warning": "短篇集，各篇独立。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「御手洗洁的舞蹈」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "shimada2-003",
+    "title": "御手洗洁的旋律",
+    "originalTitle": "御手洗潔のメロディ",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1998",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "系列短篇集，篇名多与音乐有关。案件的谜团往往要等到某个特定场景重复出现之后才显形。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2282,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5951352/",
+        "subjectId": "5951352",
+        "edition": "御手洗洁的旋律 2011",
+        "fetchedAt": "2026-09-21T11:46:27.860Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢系列短篇的读者",
+        "对音乐意象有兴趣的读者"
+      ],
+      "watchFor": [
+        "曲目与情节的对应",
+        "同一场景出现的次数",
+        "石冈记录的细节"
+      ],
+      "warning": "短篇集，各篇独立。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2011.03（御手洗洁的旋律／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "shimada2-004",
+    "title": "黑暗坡食人树",
+    "originalTitle": "暗闇坂の人喰いの木",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1990",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "坡道旁的一处旧宅院里长着一棵大树，当地流传着关于它的旧说法。围绕这处宅子，几件旧事重新被翻了出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 4622,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3787195/",
+        "subjectId": "3787195",
+        "edition": "黑暗坡食人树 2009",
+        "fetchedAt": "2026-09-21T11:46:31.603Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧宅与地方传说题材的读者",
+        "御手洗系列的老读者"
+      ],
+      "watchFor": [
+        "传说文本的具体内容",
+        "宅院的地形与坡道走向",
+        "相关人物的年代先后"
+      ],
+      "warning": "气氛阴郁，含怪奇与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shimada2-005",
+    "title": "摩天楼的怪人",
+    "originalTitle": "摩天楼の怪人",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2005",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "locked-space",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "舞台是一栋高层建筑。楼内出现了无法解释的状况，而建筑本身的构造与人流，让目击与行动范围都难以界定。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 569,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6969544/",
+        "subjectId": "6969544",
+        "edition": "摩天楼的怪人 上 2012",
+        "fetchedAt": "2026-09-21T11:46:37.187Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢建筑舞台与大规模诡计的读者",
+        "系列读者"
+      ],
+      "watchFor": [
+        "楼层与电梯的运行规律",
+        "各人的出入时间",
+        "被反复提到的那处结构"
+      ],
+      "warning": "篇幅长，诡计规模大，前段铺垫较多。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 译林出版社 2012（馆藏题名「摩天楼的怪人 上」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "shimada2-006",
+    "title": "星笼之海",
+    "originalTitle": "星籠の海",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2013",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "故事发生在濑户内海一带的岛屿与海岸。当地流传的说法与接连出现的事件交织在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 945,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25951036/",
+        "subjectId": "25951036",
+        "edition": "星笼之海 2014",
+        "fetchedAt": "2026-09-21T11:46:42.888Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢海岛舞台与地方传说的读者",
+        "系列读者"
+      ],
+      "watchFor": [
+        "岛屿与海岸的位置关系",
+        "当地说法在不同人之间的差异",
+        "潮汐与航路"
+      ],
+      "warning": "篇幅长，含地方传说与黑暗情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2014（馆藏题名「星笼之海」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "shimada2-007",
+    "title": "龙卧亭幻想",
+    "originalTitle": "龍臥亭幻想",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2007",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "《龙卧亭事件》的后续。同一处山村舞台再次出现状况，前作留下的疑点也在这里被重新提起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 910,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5395168/",
+        "subjectId": "5395168",
+        "edition": "龙卧亭幻想·上 2011",
+        "fetchedAt": "2026-09-21T11:46:46.567Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《龙卧亭事件》的读者",
+        "喜欢山村封闭舞台的读者"
+      ],
+      "watchFor": [
+        "与前作对应的人物与地点",
+        "村中传说的再次提及",
+        "石冈的处境"
+      ],
+      "warning": "《龙卧亭事件》的续作，建议先读前作；篇幅很长。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2024（龙卧亭幻想／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "shimada2-008",
+    "title": "被诅咒的木乃伊",
+    "originalTitle": "漱石と倫敦ミイラ殺人事件",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1984",
+    "series": "",
+    "detective": "夏目漱石、夏洛克·福尔摩斯",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "二十世纪初的伦敦，一位来自日本的留学生在租住处遇到怪事，随后被卷进一桩发生在封闭房间里的案件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1823,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3926674/",
+        "subjectId": "3926674",
+        "edition": "被诅咒的木乃伊 2009",
+        "fetchedAt": "2026-09-21T11:46:53.728Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢历史背景与致敬式作品的读者",
+        "对福尔摩斯衍生作品有兴趣的读者"
+      ],
+      "watchFor": [
+        "留学生日记中的记录",
+        "房东一家的言行",
+        "现场封闭成立的条件"
+      ],
+      "warning": "以真实历史人物为主角的小说，含对经典侦探形象的借用。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2024（被诅咒的木乃伊／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "shimada2-009",
+    "title": "火刑都市",
+    "originalTitle": "火刑都市",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1986",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "city",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名刑警在东京追查一桩与火有关的案件。城市的地形与人流，让目击与行踪的核对变得格外困难。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 794,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6001276/",
+        "subjectId": "6001276",
+        "edition": "火刑都市 2011",
+        "fetchedAt": "2026-09-21T11:46:57.437Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢刑警视角与都市调查的读者",
+        "吉敷系列的读者"
+      ],
+      "watchFor": [
+        "火灾现场的地理位置",
+        "各人的移动路线",
+        "刑警本人的处境"
+      ],
+      "warning": "含火灾与死亡描写，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「火刑都市」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "shimada2-010",
+    "title": "犬坊里美的冒险",
+    "originalTitle": "犬坊里美の冒険",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2006",
+    "series": "犬坊里美系列",
+    "detective": "犬坊里美",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位年轻女性接手了几桩别人不愿碰的委托。她以不同于常规侦探的方式走近当事人，再从中找出可核对的事实。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 518,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25726110/",
+        "subjectId": "25726110",
+        "edition": "犬坊里美的冒险 2013",
+        "fetchedAt": "2026-09-21T11:47:01.193Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢女性侦探视角的读者",
+        "作者的老读者"
+      ],
+      "watchFor": [
+        "委托人来求助的方式",
+        "主角与人打交道的手法",
+        "被当作结论的那句话"
+      ],
+      "warning": "系列作品，基调比作者的御手洗系列轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「犬坊里美的冒险」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "shimada2-011",
+    "title": "御手洗洁的追忆",
+    "originalTitle": "御手洗潔の追憶",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "系列短篇集。故事多涉及人物早年的经历，若干线索要在读到后面才与前面的一处细节接上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 152,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27098124/",
+        "subjectId": "27098124",
+        "edition": "御手洗潔的追憶 2017",
+        "fetchedAt": "2026-09-21T11:53:26.408Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "御手洗系列的老读者",
+        "对人物背景有兴趣的读者"
+      ],
+      "watchFor": [
+        "各篇提到的人物往事",
+        "侦探与叙述者的相处方式",
+        "被一笔带过的年代信息"
+      ],
+      "warning": "短篇集；豆瓣条目为台版（皇冠 2017），尚无大陆版。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据豆瓣条目与公开出版信息整理（皇冠 2017，ISBN 9789573333227）"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shimada2-012",
+    "title": "溺水的人鱼",
+    "originalTitle": "溺れる人魚",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2006",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集。几桩案件各自独立，都以一处说不通的现场细节为起点展开推演。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 574,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27197023/",
+        "subjectId": "27197023",
+        "edition": "溺水的人鱼 2018",
+        "fetchedAt": "2026-09-21T11:53:31.122Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇与不可能犯罪的读者",
+        "作者的老读者"
+      ],
+      "watchFor": [
+        "每篇里说不通的那个细节",
+        "推演依赖的物理条件",
+        "被推翻的初步判断"
+      ],
+      "warning": "短篇集；豆瓣丛书未标注所属系列，此处不臆测系列归属。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据豆瓣条目与公开出版信息整理（青岛出版社 2018，ISBN 9787555262787） **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「整理者据豆瓣条目与公开出版信息整理（青岛出版社 2018」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "shimada2-013",
+    "title": "UFO大道",
+    "originalTitle": "UFO大道",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1990",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "legend-folklore",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "系列短篇集。几篇故事涉及被人目击到的空中怪象与地方传闻，侦探要从这些说法里理出可核对的部分。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 984,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25897073/",
+        "subjectId": "25897073",
+        "edition": "UFO大道 2014",
+        "fetchedAt": "2026-09-21T11:53:34.580Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪象题材与短篇的读者",
+        "系列读者"
+      ],
+      "watchFor": [
+        "目击者描述的具体方位",
+        "传闻的流传范围",
+        "侦探对「看到了什么」的追问"
+      ],
+      "warning": "短篇集，含超自然外观的谜团，但解法仍走本格路径。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据豆瓣条目与公开出版信息整理（新星出版社 2014，ISBN 9787513315357） **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「整理者据豆瓣条目与公开出版信息整理（新星出版社 2014」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "shimada2-014",
+    "title": "消失的“水晶特快”",
+    "originalTitle": "消える「水晶特急」",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1986",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "train",
+      "timetable",
+      "vanished-weapon",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一列备受关注的列车在运行途中出了状况。刑警沿着线路与时刻逐段核对，寻找那段对不上的行程。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 2038,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3795856/",
+        "subjectId": "3795856",
+        "edition": "消失的“水晶特快” 2009",
+        "fetchedAt": "2026-09-21T11:53:38.441Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢铁路与时刻表题材的读者",
+        "吉敷系列的读者"
+      ],
+      "watchFor": [
+        "列车的编组与运行图",
+        "沿线各站的记录",
+        "刑警本人的行动安排"
+      ],
+      "warning": "以铁路时刻为核心，含大量线路与班次细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据豆瓣条目与公开出版信息整理（新星出版社 2009，ISBN 9787802257023） **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「整理者据豆瓣条目与公开出版信息整理（新星出版社 2009」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+    },
+    "provenance": {
+      "source": "batch-30-shimada.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  }
+]

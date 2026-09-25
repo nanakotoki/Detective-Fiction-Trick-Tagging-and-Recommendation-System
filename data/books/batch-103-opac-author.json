@@ -1,0 +1,938 @@
+[
+  {
+    "id": "opac103-001",
+    "title": "美女",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "psychological-misdirection",
+      "dual-line",
+      "curiosity"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "八个短篇，写的都是各种奇异的人与人之间的关系：陌生人打来的告密电话，同一时段丧命于两地的两个人，床边人不明所以的告白，「后窗」视角下的一家人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "短篇悬疑的爱好者"
+      ],
+      "watchFor": [
+        "两地同时丧命这一条",
+        "告密电话是谁打的",
+        "「后窗」那一篇的视角"
+      ],
+      "warning": "短篇集（八篇），悬疑色彩浓，含死亡与阴暗人性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001087780**（新星出版社 2025，译者董纾含）。**推理属性判据**：①**丛编项「午夜文库.日系佳作」**——推理专门书系；②该馆**编目提要**列出八个短篇的谜面，其中「**同一时段丧命于两地的两人**」属典型的不可能犯罪谜面。**诚实标注**：该条 opac 的**学科主题只著录「短篇小说-小说集-日本-现代」，未归入推理类**；本条判据依赖丛编项与提要中的谜面两项。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 `HTTP 403 登录跳转页`，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac103-002",
+    "title": "瓦斯灯",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "curiosity"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "五个短篇，其中《致亲爱的 S 君》最为有名。这几篇没有传统意义上的「诡计」，但字里行间透出的悬疑气氛十分吸引人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "气氛型悬疑的爱好者"
+      ],
+      "watchFor": [
+        "《致亲爱的 S 君》那一篇",
+        "每篇最后几笔的转折",
+        "标题里的那盏瓦斯灯"
+      ],
+      "warning": "短篇集（五篇），无传统诡计，以悬疑气氛见长，含死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000957451**（新星出版社 2023.6，译者吴春燕）。**推理属性判据**：①**丛编项「午夜文库.日系佳作.连城三纪彦作品;09」**——推理专门书系；②该馆**编目提要**明写「受众多**推理小说**爱好者喜爱……字里行间透出的**悬疑**气氛十分吸引人，最后再用寥寥几笔颠……」；③作者连城三纪彦为**直木奖**与**推理作家协会奖**得主，库内已收其《一朵桔梗花》《鼠之夜》《宵待草夜情》《蜜》四部。**诚实标注**：该条 opac 学科主题未归入推理类。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac103-003",
+    "title": "无颜的肖像",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "旗野康彦",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "red-herring",
+      "concealment",
+      "curiosity",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "美术大学学生旗野康彦迷上画家荻生仙太郎笔下的一幅肖像画——画中女孩的眼睛仿如凝视着死亡深渊。不久后这幅画被送到他面前，代价是接受一项任务：以假身份参加一场拍卖会。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "美术题材悬疑的爱好者"
+      ],
+      "watchFor": [
+        "那幅肖像画的来历",
+        "委托他的是谁",
+        "画中女孩的身份"
+      ],
+      "warning": "悬疑长篇，美术题材，含死亡与身份隐瞒描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000891616**（新星出版社 2020.6，译者刘羽阳）。**推理属性判据**：①**丛编项「午夜文库.日系佳作.连城三纪彦作品;7」**——推理专门书系；②该馆**编目提要**述及委托主角「以假身份参加一场拍卖会」这一待解任务。**诚实标注**：该条 opac 学科主题未归入推理类。梗概由整理者据此自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "opac103-004",
+    "title": "变调二人羽织",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "multiple-solutions",
+      "theater",
+      "curiosity"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "书名作的「二人羽织」本是外行人在新年聚会上表演的余兴技艺，却在表演过程中发生了难以理解的失踪事件。全书以下层女性为主角，结合日本旧时的曲艺与风俗。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "短篇本格的爱好者"
+      ],
+      "watchFor": [
+        "二人羽织的表演方式",
+        "失踪发生在哪一刻",
+        "各篇里的旧时风俗"
+      ],
+      "warning": "推理短篇集，含失踪与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000301003**（新星出版社 2015.11，译者吕灵芝）。**推理属性判据**：①**丛编项「午夜文库.日系佳作.连城三纪彦作品;08」**——推理专门书系；②该馆**编目提要**述及书名作的「二人羽织」表演过程中发生「**难以理解的失踪事件**」，属典型的不可能谜面。**诚实标注**：该条 opac 学科主题未归入推理类。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "opac103-005",
+    "title": "白光",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "concealment",
+      "red-herring",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一个炎热的午后，妹妹幸子四岁的女儿在姐姐聪子家被杀害，葬身于后院的凌霄花之下。炫目的白色阳光，开始照亮姐妹两个家庭之间不为人知的关系。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "家族题材悬疑的爱好者"
+      ],
+      "watchFor": [
+        "两个孩子家当天的行踪",
+        "姐妹之间那层没说破的东西",
+        "后院的凌霄花"
+      ],
+      "warning": "悬疑长篇，含幼女被害描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000221478**（新星出版社 2012.06，译者林新生）。**推理属性判据**：①**丛编项「午夜文库.日系佳作」**——推理专门书系；②该馆**编目提要**述及幼女被杀这一命案谜面，以及「照亮姐妹两个家庭之间不为人知的关系」。**诚实标注**：该条 opac 学科主题未归入推理类。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "opac103-006",
+    "title": "傀儡死之夜",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "multiple-solutions",
+      "countryside",
+      "fear",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "纱江的外甥俊是个小学生，已表现出非凡的绘画天赋。一天他独自去描摹石佛，却遭遇车祸而死。在听取目击者说明情况时，纱江发现了疑点。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "古典本格的爱好者"
+      ],
+      "watchFor": [
+        "目击者证词里的矛盾",
+        "俊那天为什么独自出门",
+        "祭神那夜发生的事"
+      ],
+      "warning": "本格推理长篇，含车祸致死与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000500534**（译者陈玉萍；丛编项「**七曜文库**」——吉林出版集团的推理专门书系）。**推理属性判据**：①**学科主题「推理小说-日本-现代」**；②该馆**编目提要**开篇即「本书是日本长篇**推理小说**」，并述及车祸现场目击者证词中的疑点。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-007",
+    "title": "华丽的丧服",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "「我将穿起红色的华丽丧服，举起复仇的枪。」被陌生男子绑架的她始终想不通：对方既不渴望她的肉体，也不愿意放她自由。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "复仇题材的爱好者"
+      ],
+      "watchFor": [
+        "绑架者的真实目的",
+        "那件红色丧服的寓意",
+        "兄妹之情这条线"
+      ],
+      "warning": "悬疑长篇，含绑架、复仇与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000262641**（译者曹逸冰；丛编项「**七曜文库.土屋隆夫**」——推理专门书系）。**推理属性判据**：①丛编项为推理专门书系；②该馆**编目提要**述及复仇、绑架与「错综复杂的犯……」等谜面。**诚实标注**：该条 opac **学科主题只著录「长篇小说-日本-现代」，未归入推理类**——本条判据依赖丛编项与提要中的谜面两项。**侦探字段留空**：提要未点明查案者。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-008",
+    "title": "物狂",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "堂前龙太",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "red-herring",
+      "fear",
+      "city",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "美岳市惊现幽灵，一名女子遇袭昏厥——她不单看到了幽灵的姿态，甚至听到那东西讲话。报社记者堂前龙太恰好行经附近。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "怪谈与推理结合的爱好者"
+      ],
+      "watchFor": [
+        "「幽灵」出现的地点与时刻",
+        "晕厥女子的证词",
+        "记者堂前龙太的追查路线"
+      ],
+      "warning": "本格推理长篇，含袭击与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000235623**（译者张剑；丛编项「**七曜文库.土屋隆夫**」）。**推理属性判据**：①**学科主题「推理小说-日本-现代」**（该条重复著录了「推理小说」两次）；②丛编项为推理专门书系；③该馆**编目提要**述及「幽灵」现身与女子遇袭的谜面。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-009",
+    "title": "米乐的囚犯",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "red-herring",
+      "multiple-solutions",
+      "identity",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "红牌牛郎全身赤裸地遭人勒死，精神异常的富家千金、力争上游的女税务师，以及知名的推理小说作家，全都卷进了这桩杀人案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "群像推理的爱好者"
+      ],
+      "watchFor": [
+        "四个人各自的处境",
+        "「天衣无缝的……」是什么",
+        "牛郎死时为何全身赤裸"
+      ],
+      "warning": "本格推理长篇，含勒杀与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000301487**。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**明写被卷入凶案的四人中包括一位「知名的**推理小说**作家」，并提到「只有破解**天衣无缝的**……」。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-010",
+    "title": "天狗面具",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "countryside",
+      "red-herring",
+      "multiple-solutions",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school",
+      "logic-school"
+    ],
+    "safeSummary": "第二次世界大战结束之后，民风淳朴的伏牛村惊现「神迹」——天狗堂的孤女阿玲成了众人瞩目的对象。所谓宗教，究竟是灵魂的救赎之道，还是掩饰恶行的借口？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "乡村怪谈式推理的爱好者"
+      ],
+      "watchFor": [
+        "「神迹」每次出现的条件",
+        "孤女阿玲的处境",
+        "天狗堂里各人的立场"
+      ],
+      "warning": "本格推理长篇，乡村宗教题材，含凶案与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000235620**（译者张剑；丛编项「**七曜文库**」）。**推理属性判据**：①**学科主题「推理小说-日本-现代」**；②丛编项为推理专门书系；③该馆**编目提要**述及战后伏牛村惊现「神迹」这一待解之谜。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-011",
+    "title": "圣恶女",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "psychological-misdirection",
+      "red-herring",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "故事的主人公名叫星川美绪。她只有一个副乳，长在右侧大腿根部上方两厘米处——那副乳很小，犹如一只倒扣的白瓷杯。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "土屋隆夫的读者",
+        "心理题材的爱好者"
+      ],
+      "watchFor": [
+        "这个身体特征意味着什么",
+        "星川美绪的处境",
+        "别人眼中的她"
+      ],
+      "warning": "悬疑长篇，含身体异常描写与凶案，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000235618**（译者曹逸冰；丛编项「**七曜文库**」）。**推理属性判据**：①**学科主题「推理小说-日本-现代」**；②丛编项为推理专门书系；③该馆**编目提要**给出主人公星川美绪的身体特征作为故事起点。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac103-012",
+    "title": "不安的初啼",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Tsuchiya Takao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "千草检察官系列",
+    "detective": "千草检察官",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "red-herring",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "创造生命的医学，究竟是上帝赐下的福音，还是恶魔玩弄人心的伎俩？「我可以接受荒木田的要求，帮他妻子做人工授精——但我用的不是供者的精液，而是我自己的。」",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "千草检察官系列的读者",
+        "医学伦理题材的爱好者"
+      ],
+      "watchFor": [
+        "那次人工授精的后果",
+        "各人的隐瞒",
+        "千草检察官的切入点"
+      ],
+      "warning": "本格推理长篇，医学伦理题材，含凶案与阴暗人性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000297166**（译者曹逸冰）。**推理属性判据**：①**丛编项「七曜文库.千草检察官系列;5」**——「千草检察官系列」是土屋隆夫的代表性**推理**系列；②该馆**编目提要**给出人工授精这一核心设定。**诚实标注**：该条 opac **学科主题只著录「长篇小说-日本-现代」，未归入推理类**——本条判据依赖丛编项（系列侦探名即检察官）与该系列的推理属性。库内已收同作者《影子的告发》（即本系列第 1 作）等六部。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-103-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  }
+]

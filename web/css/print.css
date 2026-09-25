@@ -1,0 +1,180 @@
+/* ==========================================================================
+   打印样式 —— 让「诡计分析报告」可以直接打印 / 另存为 PDF
+   ========================================================================== */
+
+@media print {
+  :root {
+    --bg: #fff;
+    --bg-elev: #fff;
+    --bg-elev-2: #fafafa;
+    --bg-sunken: #f4f4f4;
+    --border: #d5d5d5;
+    --border-strong: #b8b8b8;
+    --text: #111;
+    --text-dim: #333;
+    --text-faint: #666;
+    --shadow: none;
+  }
+
+  html[data-theme='dark'],
+  html[data-theme='light'] {
+    --bg: #fff;
+    --bg-elev: #fff;
+    --bg-elev-2: #fafafa;
+    --bg-sunken: #f4f4f4;
+    --border: #d5d5d5;
+    --border-strong: #b8b8b8;
+    --text: #111;
+    --text-dim: #333;
+    --text-faint: #666;
+    --accent: #8a4b12;
+    --accent-soft: #f5efe8;
+    --accent-line: #c9a887;
+    --gold: #7a5a10;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000;
+    font-size: 11pt;
+  }
+
+  body::before {
+    display: none !important;
+  }
+
+  /* 隐藏所有交互元素 */
+  .topbar,
+  .site-footer,
+  .report-toolbar,
+  .side-panel,
+  .toast-stack,
+  .modal-backdrop,
+  .skip-link,
+  .no-print,
+  button:not(.print-keep) {
+    display: none !important;
+  }
+
+  .main {
+    max-width: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .report-layout {
+    display: block;
+  }
+
+  .report-body {
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+    background: #fff;
+  }
+
+  .report-body h1 {
+    font-size: 18pt;
+  }
+
+  .report-body h2 {
+    font-size: 13pt;
+    border-bottom: 1px solid #999;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .report-body h3 {
+    font-size: 11.5pt;
+    color: #000;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 9pt;
+    color: #555;
+  }
+
+  .table-wrap,
+  table {
+    border-color: #999;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  th,
+  td {
+    border-color: #bbb;
+    padding: 5pt 7pt;
+  }
+
+  th {
+    background: #f0f0f0 !important;
+    position: static;
+  }
+
+  code,
+  code.tag {
+    background: #f2f2f2 !important;
+    border: 0;
+    color: #000 !important;
+    font-weight: 600;
+  }
+
+  blockquote {
+    border-left: 2pt solid #999;
+    background: #fafafa !important;
+    color: #222;
+    break-inside: avoid;
+  }
+
+  .card,
+  .book-card,
+  .notice,
+  .ironclad-rule {
+    border-color: #ccc !important;
+    box-shadow: none !important;
+    background: #fff !important;
+  }
+
+  .badge,
+  .tag-chip {
+    border: 1px solid #bbb !important;
+    background: #f6f6f6 !important;
+    color: #000 !important;
+  }
+
+  @page {
+    margin: 16mm 14mm;
+  }
+
+  /* 打印时的报告抬头 */
+  .print-header {
+    display: block !important;
+    border-bottom: 2pt solid #000;
+    padding-bottom: 4mm;
+    margin-bottom: 6mm;
+  }
+
+  .print-header .ph-title {
+    font-size: 16pt;
+    font-weight: 700;
+  }
+
+  .print-header .ph-sub {
+    font-size: 9pt;
+    color: #444;
+    margin-top: 2mm;
+  }
+}
+
+.print-header {
+  display: none;
+}

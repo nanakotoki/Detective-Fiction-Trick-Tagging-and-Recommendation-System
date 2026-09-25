@@ -1,0 +1,589 @@
+[
+  {
+    "id": "aosaki-001",
+    "title": "水族馆之谜",
+    "originalTitle": "水族館の殺人",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "本格推理",
+    "firstPublished": "2013",
+    "series": "风丘高校系列",
+    "detective": "袴田柚乃",
+    "country": "日本",
+    "tags": [
+      "locked-space",
+      "red-herring",
+      "multiple-solutions",
+      "campus",
+      "youth",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "暑假合宿期间，水泳部成员在水族馆闭馆后的场馆里发现一具尸体。喜爱推理的同学被请来协助，开始核对当晚每个人的行踪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 4747,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30159798/",
+        "subjectId": "30159798",
+        "edition": "水族馆之谜 2018",
+        "fetchedAt": "2026-09-20T16:09:17.618Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢逻辑推演与校园舞台的读者",
+        "偏好线索公平、可以自己跟着推理的作品"
+      ],
+      "watchFor": [
+        "当晚各人的移动路线与时间点",
+        "场馆内的展示区与水槽位置",
+        "看似无关的日常细节"
+      ],
+      "warning": "本系列以逐条检证的推演过程为看点，节奏偏慢，请以解谜的期待阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据该系列公开的写法取向与舞台设定标注",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2018（水族馆之谜／(日) 青崎有吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "aosaki-002",
+    "title": "图书馆之谜",
+    "originalTitle": "図書館の殺人",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "本格推理",
+    "firstPublished": "2014",
+    "series": "风丘高校系列",
+    "detective": "袴田柚乃",
+    "country": "日本",
+    "tags": [
+      "locked-space",
+      "red-herring",
+      "multiple-solutions",
+      "campus",
+      "youth",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "闭馆后的图书馆里有人倒地身亡，出入条件受到限制。喜爱推理的学生注意到馆内的书架排列与借阅记录，从细节入手逐条推演。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 4968,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30159888/",
+        "subjectId": "30159888",
+        "edition": "图书馆之谜 2018",
+        "fetchedAt": "2026-09-20T16:09:22.912Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢图书馆、校园等静态舞台的读者",
+        "享受从物证细节反推经过的读者"
+      ],
+      "watchFor": [
+        "书架分区与通道的布局",
+        "借阅记录与书籍的摆放位置",
+        "当晚馆内人员的进出顺序"
+      ],
+      "warning": "本系列以逐条检证的推演过程为看点，节奏偏慢，请以解谜的期待阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据该系列公开的写法取向与舞台设定标注",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2019（图书馆之谜／(日) 青崎有吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "aosaki-003",
+    "title": "风之丘五十元硬币之谜",
+    "originalTitle": "風ヶ丘五十円玉祭りの謎",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "日常之谜",
+    "firstPublished": "2014",
+    "series": "风丘高校系列",
+    "detective": "袴田柚乃",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "youth",
+      "cozy",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "以校园与街区为舞台的短篇集：五十元硬币、遗失的物品、走廊上的动静——看似琐碎的日常疑问，被爱好推理的学生逐一拆解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 3439,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33390352/",
+        "subjectId": "33390352",
+        "edition": "风之丘五十元硬币之谜 2019",
+        "fetchedAt": "2026-09-20T16:09:28.475Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻松日常谜团的读者",
+        "想先认识这个系列再读长篇的读者"
+      ],
+      "watchFor": [
+        "每篇里被当作理所当然的小事",
+        "人物的行动习惯与口头禅"
+      ],
+      "warning": "短篇集，几乎不涉及暴力事件，适合作为系列入门。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据该系列公开的写法取向与舞台设定标注",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2019（风之丘五十元硬币之谜／(日) 青崎有吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "aosaki-004",
+    "title": "敲响密室之门",
+    "originalTitle": "ノッキンオン・ロックドドア",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "本格推理",
+    "firstPublished": "2016",
+    "series": "敲响密室之门系列",
+    "detective": "御殿场倒理、片无冰雨",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "两位搭档分工明确：一人专攻「怎么做到的」，一人专攻「为什么这么做」。发生在封闭场所的各类案件，由这对组合接手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 1181,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35714006/",
+        "subjectId": "35714006",
+        "edition": "敲响密室之门 2022",
+        "fetchedAt": "2026-09-20T16:09:32.181Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与封闭空间题材的读者",
+        "偏好短篇节奏、一案一结的读者"
+      ],
+      "watchFor": [
+        "现场被描述为「不可能」的具体理由",
+        "两位搭档各自关注的信息",
+        "案件之间重复出现的委托来源"
+      ],
+      "warning": "短篇连作，案件独立但人物关系有推进，建议按顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据该系列公开的写法取向与舞台设定标注"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "aosaki-005",
+    "title": "敲响密室之门2",
+    "originalTitle": "ノッキンオン・ロックドドア2",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "敲响密室之门系列",
+    "detective": "御殿场倒理、片无冰雨",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "两位搭档继续接手封闭场所的案件。「怎么做到的」与「为什么这么做」两条线交替推进，若干短篇各自收束。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 3005,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35456278/",
+        "subjectId": "35456278",
+        "edition": "敲响密室之门2 2021",
+        "fetchedAt": "2026-09-20T16:09:35.696Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "已读过第一部的读者",
+        "喜欢密室题材与双主角设定的读者"
+      ],
+      "watchFor": [
+        "与前作呼应的委托与人物",
+        "两位搭档分工方式的细微变化"
+      ],
+      "warning": "第二部，含对前作人物关系的延续，建议先读第一部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据该系列公开的写法取向与舞台设定标注",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（敲响密室之门2／(日) 青崎有吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "aosaki-006",
+    "title": "煞风景的早间首班车",
+    "originalTitle": "早朝始発の殺風景",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "日常之谜",
+    "firstPublished": "2019",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "train",
+      "youth",
+      "cozy",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "清晨首班车上发生的几桩小事：车厢里的对话、遗落的物品、错过的站台。短篇集，谜团都藏在日常的缝隙里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 3865,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35520726/",
+        "subjectId": "35520726",
+        "edition": "煞风景的早间首班车 2021",
+        "fetchedAt": "2026-09-20T16:09:39.167Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜与短篇节奏的读者",
+        "对青春期人际关系描写有兴趣的读者"
+      ],
+      "watchFor": [
+        "人物在车厢里的座位与动作",
+        "对话中被略过的那句话",
+        "每篇结尾处视角的转换"
+      ],
+      "warning": "青春日常向短篇集，不含凶案，与作者的长篇本格风格不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据公开的舞台设定与写法取向标注",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（煞风景的早间首班车／(日) 青崎有吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "aosaki-007",
+    "title": "地雷格力高",
+    "originalTitle": "地雷グリコ",
+    "author": "青崎有吾",
+    "authorEn": "Yugo Aosaki",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "multiple-solutions",
+      "red-herring",
+      "campus",
+      "youth",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "校园里流传着几种规则奇特的较量游戏。参与者必须在不违反规则的前提下取胜，每一步选择都可能踩中对方设下的圈套。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1046,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37938902/",
+        "subjectId": "37938902",
+        "edition": "地雷格力高 2026",
+        "fetchedAt": "2026-09-20T16:09:42.676Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢智力博弈与规则推理的读者",
+        "享受「如何钻规则空子」这类思辨的读者"
+      ],
+      "watchFor": [
+        "每个游戏的规则条文与其边界",
+        "对手在开局阶段的非常规选择",
+        "看似吃亏的一步棋"
+      ],
+      "warning": "以规则博弈为核心，不是传统命案推理，请以智力对决的期待阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；标签依据公开的写法取向标注",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 中国友谊出版公司 2026（馆藏题名「地雷格力高」／青崎有吾）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-17-aosaki-yugo.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  }
+]

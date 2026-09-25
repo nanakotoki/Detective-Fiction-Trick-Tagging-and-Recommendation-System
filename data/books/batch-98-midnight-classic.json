@@ -1,0 +1,1505 @@
+[
+  {
+    "id": "midcls98-001",
+    "title": "本店招牌菜",
+    "originalTitle": "",
+    "author": "斯坦利·艾林",
+    "authorEn": "Stanley Ellin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "curiosity",
+      "fear",
+      "dark-atmosphere",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一家神秘餐馆不定时供应招牌菜，好奇的食客趋之若鹜，不断央求老板让他参观厨房，探寻美味佳肴的烹饪奥秘。全书另收十二篇短篇，展现一个艾林式的诡异世界。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 2588,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25708956/",
+        "subjectId": "25708956",
+        "edition": "本店招牌菜 2013",
+        "fetchedAt": "2026-09-23T13:20:48.670Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇与反转的读者",
+        "悬疑短篇爱好者"
+      ],
+      "watchFor": [
+        "那家餐馆招牌菜的供应规律",
+        "老板答应参观厨房的时机",
+        "每篇结尾的最后一笔"
+      ],
+      "warning": "悬疑短篇集（十三篇），含凶案、食人与阴暗人性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/25708956（新星出版社 2013-9，256 页，ISBN 9787513313438）。**推理属性判据**：①丛编为新星出版社「午夜文库·经典系列」（推理专门书系）；②内容简介写明「收录了美国**悬疑大师**斯坦利·艾林的十三篇短篇小说」；③作者斯坦利·艾林为美国侦探作家协会（MWA）大师奖得主，其《本店招牌菜》是短篇推理史上的名篇。**版本说明**：豆瓣另有 2019-4 版（subject/30458315，352 页，ISBN 9787513335232，篇目有增补），同一部书的两个版本，只收一条、首版年按 2013 记。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "midcls98-002",
+    "title": "角落里的老人",
+    "originalTitle": "",
+    "author": "奥希兹女男爵",
+    "authorEn": "Baroness Orczy",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "角落里的老人",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "city",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "二十世纪初的英国，有一家名叫「ABC 咖啡馆」。角落里坐着一位老人，每天在那里吃蛋糕、喝咖啡。一位女记者无意中和他攀谈起来，结果老人足不出户，仅凭报纸报道就准确破获了一起谋杀案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1452,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3273419/",
+        "subjectId": "3273419",
+        "edition": "角落里的老人 2008",
+        "fetchedAt": "2026-09-23T13:20:54.222Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "安乐椅神探的爱好者",
+        "古典短篇推理读者"
+      ],
+      "watchFor": [
+        "老人手里那根打结的绳子",
+        "报纸报道里被忽略的一句",
+        "女记者的提问方式"
+      ],
+      "warning": "古典推理短篇集（十二篇），含谋杀与凶案报道描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3273419（新星出版社 2008-11，280 页，ISBN 9787802255630）。**推理属性判据**：①内容简介写明全书 12 个短篇均为老人「足不出户，仅仅凭借报纸的报道，就非常准确的**破获了一起谋杀案**」；②作者简介称本作「被评价为是历史上最好看的『**安乐椅神探**』模式**推理小说**，其地位和成就至今无人逾越」；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "midcls98-003",
+    "title": "奇职怪业俱乐部",
+    "originalTitle": "",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "格兰特·巴兹尔",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "curiosity",
+      "multiple-solutions",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "格兰特·巴兹尔是一位癫狂的法官、一位神秘主义者，同时也是一位有过人见识的解谜专家。奇职怪业到底是个什么样的俱乐部？巴兹尔又和它有何瓜葛？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 603,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5348099/",
+        "subjectId": "5348099",
+        "edition": "奇职怪业俱乐部 2010",
+        "fetchedAt": "2026-09-23T13:22:16.207Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "切斯特顿的读者",
+        "喜欢反推理与戏仿的读者"
+      ],
+      "watchFor": [
+        "每一桩「怪事」的合理解释",
+        "巴兹尔的身份立场",
+        "作者嘲讽的对象是谁"
+      ],
+      "warning": "推理短篇连作，带戏仿与反推理色彩，含凶案与绑架描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/5348099（新星出版社 2010-11，164 页，ISBN 9787513301039）。**推理属性判据**：①内容简介写明主角是「有过人见识的**解谜专家**」，列出的一连串谜团（花圃上的死亡留言、反串的强盗、被囚禁在地下室的女士等）均为待解之谜，并自述「以**反推理**手法扩展了**推理小说**的视野与格局」；②作者简介写明「《奇职怪业俱乐部》虽是切斯特顿的第一本**推理小说**」，其后有「布朗神父」**推理系列**；③丛编为新星出版社「午夜文库·经典系列」；④库内已有同作者《布朗神父探案集》《布朗神父的智慧》《知道太多的人》。**作者译名沿用库内既用的「G·K·切斯特顿」**，避免同一作者被拆成两个。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-004",
+    "title": "弓区之谜",
+    "originalTitle": "",
+    "author": "伊斯瑞尔·冉威尔",
+    "authorEn": "Israel Zangwill",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "red-herring",
+      "multiple-solutions",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "十九世纪末的后维多利亚时代伦敦。某日清晨，一位租住在一间小房间里的绅士被杀。房间门窗紧锁，是不折不扣的密室；凶器不见踪影。行凶与脱身究竟是如何做到的？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1142,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3176757/",
+        "subjectId": "3176757",
+        "edition": "弓区之谜 2008",
+        "fetchedAt": "2026-09-23T13:21:05.770Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室推理的爱好者",
+        "推理史爱好者"
+      ],
+      "watchFor": [
+        "那间屋子的门窗状况",
+        "凶器去了哪里",
+        "各方给出的互不相同的解答"
+      ],
+      "warning": "古典本格推理长篇，含割喉凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3176757（新星出版社 2008-08，145 页，ISBN 9787802255340）。**推理属性判据**：①内容简介载明「本书是历史上第一部**长篇密室推理小说**，为**不可能犯罪**类型的推理作品开创了新纪元」，谜面为门窗紧锁的密室与不见踪影的凶器；②作者简介写明「一八九一年仅用两周时间创作的《弓区之谜》是历史上第一部**长篇密室推理小说**……在世界最权威的百部**密室推理小说**排行榜中与《三口棺材》《黄屋之谜》《中国橘子之谜》等经典作品一起位居前十」；③丛编为新星出版社「午夜文库·经典系列」。**侦探字段留空**：简介未点明固定侦探（苏格兰场、私人侦探与媒体各自出击），整理者不代为认定。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "midcls98-005",
+    "title": "死前之吻",
+    "originalTitle": "",
+    "author": "艾拉·利文",
+    "authorEn": "Ira Levin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "obsession",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "为了满足不断膨胀的野心，他不择手段地布设着一个又一个阴谋。所有人都被玩弄于股掌之中，他似乎就要成功了。突然，一个连上帝都无法预料到的障碍横亘在他的面前。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 419,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4175698/",
+        "subjectId": "4175698",
+        "edition": "死前之吻 2010",
+        "fetchedAt": "2026-09-23T13:21:09.034Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢反派视角的读者",
+        "心理悬疑爱好者"
+      ],
+      "watchFor": [
+        "他每一步计划的落点",
+        "身边人察觉到的异样",
+        "那个「预料不到的障碍」"
+      ],
+      "warning": "犯罪悬疑长篇，含谋杀与阴暗心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4175698（新星出版社 2010-1，270 页，ISBN 9787802258372）。**推理属性判据**：①作者简介写明本作「赢得**美国侦探作家俱乐部**最佳处女作大奖」，并与《玫瑰的名字》《时间的女儿》并称「西方三大现象级**侦探小说**」；②丛编为新星出版社「午夜文库·经典系列」（推理专门书系）；③谜面为主角层层布设的阴谋与那个「连上帝都无法预料到的障碍」。**侦探字段留空**：本书以加害者视角展开，无查案侦探。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-006",
+    "title": "校长宿舍谋杀案",
+    "originalTitle": "",
+    "author": "迈克尔·英尼斯",
+    "authorEn": "Michael Innes",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "艾伯比系列",
+    "detective": "艾伯比",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "campus",
+      "alibi",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "圣安东尼学院的夜晚，学监会锁好前后两个大门以及两个小门。就在这样的双重密室中，院长被一枚子弹夺去了性命。赶到现场的管家没看到半个人影，唯一的可能就是内部人犯案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 251,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5986573/",
+        "subjectId": "5986573",
+        "edition": "校长宿舍谋杀案 2011",
+        "fetchedAt": "2026-09-23T13:21:12.298Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "学院派古典推理的爱好者",
+        "迈克尔·英尼斯的读者"
+      ],
+      "watchFor": [
+        "四道门的上锁时间",
+        "院长宿舍的出入条件",
+        "诸学者各自的行程"
+      ],
+      "warning": "古典本格推理长篇，含枪杀描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/5986573（新星出版社 2011-3，260 页，ISBN 9787513301978）。**推理属性判据**：①内容简介写明谜面为「在这样的**双重密室**中，院长被一枚子弹夺去了性命」，属典型不可能犯罪；②作者简介写明其「开始创作**推理小说**……代表作《校长宿舍谋杀案》《艾伯比的终点》均是**推理小说**史上的经典，他笔下的**侦探艾伯比**被认为是史上最博学的侦探」；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "midcls98-007",
+    "title": "红屋之谜",
+    "originalTitle": "",
+    "author": "A·A·米尔恩",
+    "authorEn": "A. A. Milne",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "吉林厄姆",
+    "country": "英国",
+    "tags": [
+      "mansion",
+      "red-herring",
+      "multiple-solutions",
+      "alibi",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "「红屋」的主人马克在早餐时宣布，他十五年未见的哥哥罗伯特将于下午到来。客人们打完高尔夫回来，发现罗伯特已被枪杀在屋里，而马克从人间蒸发了。路过的业余侦探吉林厄姆解开了这个谜题。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 463,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4309423/",
+        "subjectId": "4309423",
+        "edition": "红屋之谜 2010",
+        "fetchedAt": "2026-09-23T13:21:15.708Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的爱好者",
+        "《小熊维尼》作者的另一面"
+      ],
+      "watchFor": [
+        "马克宣布消息时的在场者",
+        "那段时间里各人的去向",
+        "屋子的出入口"
+      ],
+      "warning": "古典本格推理长篇，含枪杀与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4309423（新星出版社 2010-4，214 页，ISBN 9787802258983）。**推理属性判据**：①内容简介写明谜面为枪杀命案与屋主的离奇失踪，并由「**业余侦探**吉林厄姆解开了这个谜题」；②作者 A.A.米尔恩的《红屋之谜》是黄金时代密室／不可能犯罪名作（本作与《弓区之谜》同属午夜文库·经典系列的古典推理序列）；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-008",
+    "title": "伟大的弗伦奇探长",
+    "originalTitle": "",
+    "author": "弗里曼·威尔斯·克劳夫茨",
+    "authorEn": "Freeman Wills Crofts",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "弗伦奇探长系列",
+    "detective": "弗伦奇探长",
+    "country": "英国",
+    "tags": [
+      "alibi",
+      "series-detective",
+      "timetable",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "最完备的证据，最严谨的逻辑，能否撼动一份最完美的不在场证明？侦探小说黄金时代的发轫之作，写实主义推理作品的巅峰水准。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 272,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4022140/",
+        "subjectId": "4022140",
+        "edition": "伟大的弗伦奇探长 2009",
+        "fetchedAt": "2026-09-23T13:22:19.713Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不在场证明题材的读者",
+        "写实派推理的爱好者"
+      ],
+      "watchFor": [
+        "嫌疑人的时间表",
+        "每一份证据的取得方式",
+        "看似无懈可击之处"
+      ],
+      "warning": "古典本格推理集，写实派风格，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4022140（新星出版社 2009-10，200 页，ISBN 9787802257382）。**推理属性判据**：①出版方宣传语为「**侦探小说**黄金时代的发轫之作，**写实主义推理**作品的巅峰水准」，并写明谜面是「最完美的**不在场证明**」；②作者简介写明其首部**侦探小说**《桶子》「成为**侦探文学**上里程碑式的作品……确立了写实派**侦探小说**」；③丛编为新星出版社「午夜文库·经典系列」；④库内已有同作者《木桶之谜》。**作者译名沿用库内既用的「弗里曼·威尔斯·克劳夫茨」**，避免同一作者被拆成两个。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "midcls98-009",
+    "title": "双轮马车的秘密",
+    "originalTitle": "",
+    "author": "弗格斯·休姆",
+    "authorEn": "Fergus Hume",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "卡伦",
+    "country": "澳大利亚",
+    "tags": [
+      "red-herring",
+      "alibi",
+      "city",
+      "concealment",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "legal-thriller",
+      "logic-school"
+    ],
+    "safeSummary": "墨尔本的两轮马车中赫然出现一具尸体，和死者同乘一辆车的人却离奇失踪。被害者的情敌受到怀疑，可嫌疑人只极力否认犯罪，却闭口不谈案发时身在何处。辩护律师卡伦为证明当事人清白孤军奋战。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 380,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3796460/",
+        "subjectId": "3796460",
+        "edition": "双轮马车的秘密 2009",
+        "fetchedAt": "2026-09-23T13:21:25.666Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "推理史爱好者",
+        "古典法庭推理的读者"
+      ],
+      "watchFor": [
+        "嫌疑人为何闭口不谈行踪",
+        "马车里另一个人的去向",
+        "案情背后的家族旧事"
+      ],
+      "warning": "古典本格推理长篇，含凶案与家族秘事描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3796460（新星出版社 2009-6，308 页，ISBN 9787802256996）。**推理属性判据**：①作者简介写明「受当时**侦探小说**热潮的影响，开始创作此类作品。他于一八八六年出版的第一部**侦探小说**《两轮马车的秘密》在全球引起轰动，是当时唯一一部可以比肩福尔摩斯系列的**侦探小说**……为现代**侦探小说**的兴起铺平了道路」；②谜面为马车中的尸体、失踪的同乘者与不肯说明行踪的嫌疑人；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。",
+      "alternateTitleNote": "《双轮马车谜案》（上海文艺出版社 2021，丛编「域外故事会」）与《双轮马车的秘密》同为休姆 *The Mystery of a Hansom Cab*，经第 58 轮**中图法分类号整类枚举**候选比对时发现（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009",
+    "alternateTitles": [
+      "双轮马车谜案"
+    ]
+  },
+  {
+    "id": "midcls98-010",
+    "title": "十三号房",
+    "originalTitle": "",
+    "author": "埃德加·华莱士",
+    "authorEn": "Edgar Wallace",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "revenge",
+      "red-herring",
+      "concealment",
+      "identity",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "达特木尔监狱的大门在钱宁身后合上，他誓言要找出出卖他的伪钞集团首脑「印钞机」。出狱后他得知心爱的女孩已经嫁给弗洛伊德少校，原本打算认输，却察觉出这是一场阴谋报复的行动。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 320,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3273415/",
+        "subjectId": "3273415",
+        "edition": "十三号房 2008",
+        "fetchedAt": "2026-09-23T13:21:28.942Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢复仇与阴谋题材的读者",
+        "埃德加·华莱士的读者"
+      ],
+      "watchFor": [
+        "「印钞机」到底是谁",
+        "那场婚姻的真相",
+        "各路人马各自的算计"
+      ],
+      "warning": "犯罪悬疑长篇，含伪钞、牢狱与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3273415（新星出版社 2008-11，220 页，ISBN 9787802255586）。**推理属性判据**：①作者简介写明「回到英国后开始创作**推理小说**……一生创作了 173 部小说……**推理**布局精妙且条理分明」；②丛编为新星出版社「午夜文库·经典系列」（推理专门书系）；③谜面为伪钞集团首脑的身份、一场阴谋报复的行动与随之引发的凶案。**侦探字段留空**：简介未点明查案侦探，整理者不代为认定。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "midcls98-011",
+    "title": "业余神偷拉菲兹",
+    "originalTitle": "",
+    "author": "E·W·赫尔南",
+    "authorEn": "E. W. Hornung",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "拉菲兹系列",
+    "detective": "拉菲兹",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "adventure",
+      "red-herring",
+      "dual-role",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「英雄不只是福尔摩斯，他也可以是个窃贼。」第一本将窃贼作为主人公的推理小说——受福尔摩斯小说的启发，赫尔南创作了「业余神偷拉菲兹」系列。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 296,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3260271/",
+        "subjectId": "3260271",
+        "edition": "业余神偷拉菲兹 2008",
+        "fetchedAt": "2026-09-23T13:21:32.279Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢反英雄主角的读者",
+        "福尔摩斯周边与戏仿的爱好者"
+      ],
+      "watchFor": [
+        "拉菲兹每一次「生意」的切口",
+        "他与邦尼的关系",
+        "作者对福尔摩斯的戏仿"
+      ],
+      "warning": "冒险推理短篇集，主角为窃贼，含盗窃与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3260271（新星出版社 2008-11，180 页，ISBN 9787802254985）。**推理属性判据**：①出版方宣传语为「第一本将**窃贼作为主人公的推理小说**」；②作者简介写明「受福尔摩斯小说的启发，赫尔南创作了『业余神偷拉菲兹』**系列**，开创了反派人物作为**推理小说**主人公的先例，为这一类型文学的发展起到了重要的引导作用」，且赫尔南是柯南·道尔的妹夫；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "midcls98-012",
+    "title": "盲侦探卡拉多斯",
+    "originalTitle": "",
+    "author": "欧内斯特·布拉玛",
+    "authorEn": "Ernest Bramah",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "卡拉多斯系列",
+    "detective": "卡拉多斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "locked-room",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡拉多斯双目失明，却凭借听觉、触觉与缜密的推理屡破奇案。全书收录狄奥尼修斯银币、骑士十字车站的信号灯、提灵村谜案、温泉别墅、黑暗赌局等短篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 313,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3608374/",
+        "subjectId": "3608374",
+        "edition": "盲侦探卡拉多斯 2009",
+        "fetchedAt": "2026-09-23T13:21:35.662Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢特殊设定侦探的读者",
+        "黄金时代短篇的爱好者"
+      ],
+      "watchFor": [
+        "卡拉多斯靠什么替代视觉",
+        "每一案里被常人忽略的声响",
+        "他那位助手的作用"
+      ],
+      "warning": "古典推理短篇集，含凶案与盗窃描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3608374（新星出版社 2009-4，247 页，ISBN 9787802256378）。**推理属性判据**：①收录篇目（狄奥尼修斯银币、骑士十字车站的信号灯、布鲁克班德乡村别墅的悲剧、提灵村谜案等）均为独立案件短篇；②作者简介写明「1914 年出版的《盲侦探卡拉多斯》是其代表作，主人公被誉为『**黄金时代最后一位神探**』」；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "midcls98-013",
+    "title": "闸边足迹",
+    "originalTitle": "",
+    "author": "罗纳德·诺克斯",
+    "authorEn": "Ronald A. Knox",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "麦尔斯·布莱顿",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "multiple-solutions",
+      "series-detective",
+      "alibi",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "故事因一份财产遗嘱而起。德里克和奈杰尔是一对堂兄弟，也是这份遗产的第一、二顺序继承人。一次泰晤士河泛舟，第一继承人德里克失踪，接着第二继承人也失踪了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 333,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3146948/",
+        "subjectId": "3146948",
+        "edition": "闸边足迹 2008",
+        "fetchedAt": "2026-09-23T13:21:39.066Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典本格的爱好者",
+        "推理史爱好者"
+      ],
+      "watchFor": [
+        "那份遗嘱的条款",
+        "泰晤士河上的行船路线",
+        "保险公司探员的切入点"
+      ],
+      "warning": "古典本格推理长篇，含失踪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/3146948（新星出版社 2008-9，239 页，ISBN 9787802254961）。**推理属性判据**：①内容简介开篇即写明「《闸边足迹》是作者的第三部长篇**推理小说**，也是典型的**古典本格推理**的代表产品」，并交代由保险公司特聘探员麦尔斯·布莱顿出马调查；②作者罗纳德·诺克斯是「**侦探十诫**」的提出者，简介全文讨论其**侦探小说**规范；③丛编为新星出版社「午夜文库·经典系列」；④库内已有同作者《陆桥谋杀案》。**作者译名沿用库内既用的「罗纳德·诺克斯」**，避免同一作者被拆成两个。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "midcls98-014",
+    "title": "艾伯比的终点",
+    "originalTitle": "",
+    "author": "迈克尔·英尼斯",
+    "authorEn": "Michael Innes",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "艾伯比系列",
+    "detective": "艾伯比",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "countryside",
+      "legend-folklore",
+      "red-herring",
+      "multiple-solutions",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "长梦山庄的雷文一家是不善营生的没落世家，祖上留下最丰富的产业是上一代庄主的传奇故事。侦探约翰·艾伯比受邀上庄过夜，却发现多起与那些传奇雷同的事件在此发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 171,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4780586/",
+        "subjectId": "4780586",
+        "edition": "艾伯比的终点 2010",
+        "fetchedAt": "2026-09-23T13:21:42.454Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "迈克尔·英尼斯的读者",
+        "乡村怪谈式推理的爱好者"
+      ],
+      "watchFor": [
+        "上一代庄主的那些传奇",
+        "被替换的石像",
+        "刻着生者死亡日期的墓碑"
+      ],
+      "warning": "古典本格推理长篇，乡村怪谈氛围，含凶案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4780586（新星出版社 2010-6，230 页，ISBN 9787802259348）。**推理属性判据**：①内容简介写明「**侦探**约翰·艾伯比禁不住纳闷他们为什么还要坚邀他上长梦山庄过夜」，谜面为一连串与旧日传奇雷同的怪事；②作者简介写明其「开始创作**推理小说**……代表作《校长宿舍谋杀案》《艾伯比的终点》均是**推理小说**史上的经典，他笔下的**侦探艾伯比**被认为是史上最博学的侦探」；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-015",
+    "title": "眼中的猎物",
+    "originalTitle": "",
+    "author": "玛格丽特·米勒",
+    "authorEn": "Margaret Millar",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "city",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "孤僻富有的克拉沃小姐接到一通骚扰电话，电话里的声音神秘而魅惑。随后，电话中的诅咒竟然一个接一个地变成了现实。最可怕的是：那个打电话的人没有制造任何新的恐惧，只是利用了她们已有的恐惧。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 139,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10827887/",
+        "subjectId": "10827887",
+        "edition": "眼中的猎物 2012",
+        "fetchedAt": "2026-09-23T13:21:46.934Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的爱好者",
+        "玛格丽特·米勒的读者"
+      ],
+      "watchFor": [
+        "每一通电话的内容",
+        "几位受害者共同的恐惧",
+        "股票经纪人的调查路线"
+      ],
+      "warning": "心理悬疑长篇，含骚扰、诅咒与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/10827887（新星出版社 2012-7，192 页，ISBN 9787513307598）。**推理属性判据**：①作者简介写明「凭借《眼中的猎物》《怪物的疆域》《邪魔》三获**爱伦·坡奖**。曾任**美国推理作家协会**主席，一九八三年被该协会授予大师奖。一九八七年，《眼中的猎物》入选**美国推理作家协会**评选的『一百部最佳**侦探小说**』」；②丛编为新星出版社「午夜文库·经典系列」；③谜面为骚扰电话里的诅咒逐一应验，属待解之谜。**侦探字段留空**：简介未点明侦探姓名（受委托调查者是股票经纪人布莱克希尔，非职业侦探），整理者不代为认定。**国别**按作者入美国籍记「美国」（出生于加拿大）。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "midcls98-016",
+    "title": "哈莱姆之怒",
+    "originalTitle": "",
+    "author": "切斯特·海姆斯",
+    "authorEn": "Chester Himes",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "戈尔迪、杰克逊",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment",
+      "red-herring",
+      "revenge",
+      "dual-role"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "哈莱姆区充满了欺诈和暴力。安分守己的杰克逊被一伙骗子骗去了全部积蓄，深爱的女人也不知所踪，自己还成了警方追捕的对象。为了追回失去的一切，他去向足智多谋的哥哥戈尔迪求助。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 83,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4887698/",
+        "subjectId": "4887698",
+        "edition": "哈莱姆之怒 2010",
+        "fetchedAt": "2026-09-23T13:21:51.405Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派的爱好者",
+        "切斯特·海姆斯的读者"
+      ],
+      "watchFor": [
+        "那群骗子的手法",
+        "戈尔迪那个办法的落点",
+        "谁才是幕后主使"
+      ],
+      "warning": "硬汉派犯罪小说，含暴力、欺诈与色情描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4887698（新星出版社 2010-7，224 页，ISBN 9787802259836）。**推理属性判据**：①作者简介写明其为「著名黑人**侦探小说家**……一九五八年创作的**侦探小说**处女作获法国警探小说文学奖大奖」，并写明「海姆斯对**冷硬派推理小说**产生了深远影响，为纪念他，特在美国设立了切斯特·海姆斯**侦探小说奖**（Chester Himes Mystery Awards）」；②丛编为新星出版社「午夜文库·经典系列」；③谜面为诈骗、失踪与「谁才是一切阴谋的幕后主使」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-017",
+    "title": "持枪的盲人",
+    "originalTitle": "",
+    "author": "切斯特·海姆斯",
+    "authorEn": "Chester Himes",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "series": "掘墓者与棺材主系列",
+    "detective": "掘墓者、棺材主",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "series-detective",
+      "city",
+      "red-herring",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一位贪心的白人就这样在哈莱姆的夜色中丢了性命。两位当地有名的黑人侦探——掘墓者和棺材主第一时间赶到现场，只看到一位头戴土耳其毡帽的男子仓皇逃离。两人沿着线索追查，却总被引入莫名其妙的种族暴动。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 89,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4898557/",
+        "subjectId": "4898557",
+        "edition": "持枪的盲人 2010",
+        "fetchedAt": "2026-09-23T13:21:56.106Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派的爱好者",
+        "切斯特·海姆斯的读者"
+      ],
+      "watchFor": [
+        "那位戴土耳其毡帽的男子",
+        "警局上司为何叫停",
+        "暴动是谁在推动"
+      ],
+      "warning": "硬汉派犯罪小说，含暴力、种族冲突与谋杀描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/4898557（新星出版社 2010-9，248 页，ISBN 9787802259935）。**推理属性判据**：①内容简介写明「两位当地有名的黑人**侦探**——掘墓者和棺材主第一时间赶到了现场」，全篇为二人查案；②作者简介写明其为「著名黑人**侦探小说家**」，并写明「海姆斯对**冷硬派推理小说**产生了深远影响……特在美国设立了切斯特·海姆斯**侦探小说奖**」；③丛编为新星出版社「午夜文库·经典系列」。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "midcls98-018",
+    "title": "棉花勇闯哈莱姆",
+    "originalTitle": "",
+    "author": "切斯特·海姆斯",
+    "authorEn": "Chester Himes",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "series": "掘墓者与棺材主系列",
+    "detective": "掘墓者、棺材主",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "series-detective",
+      "city",
+      "red-herring",
+      "gain",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "欧玛利牧师组织「回归非洲运动」，每个黑人家庭交一千美金就能上船回非洲，当天筹到八万七千美金，却被闯入的抢劫犯尽数抢走。劫犯的卡车途中出了车祸，一个捡破烂的恰好经过，捡走一包棉花。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 80,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6438412/",
+        "subjectId": "6438412",
+        "edition": "棉花勇闯哈莱姆 2011",
+        "fetchedAt": "2026-09-23T13:22:00.550Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派的爱好者",
+        "切斯特·海姆斯的读者"
+      ],
+      "watchFor": [
+        "那包棉花里到底是什么",
+        "牧师这场运动的真实目的",
+        "追这笔钱的有几路人"
+      ],
+      "warning": "硬汉派犯罪小说，含暴力、欺诈与种族题材描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自豆瓣条目 subject/6438412（新星出版社 2011-6，228 页，ISBN 9787513302678）。**推理属性判据**：①作者简介写明其为「著名黑人**侦探小说家**」，并写明「海姆斯对**冷硬派推理小说**产生了深远影响……特在美国设立了切斯特·海姆斯**侦探小说奖**」；②本册与同系列《持枪的盲人》同为「掘墓者与棺材主」**侦探**搭档系列；③丛编为新星出版社「午夜文库·经典系列」；④谜面为一场「猫鼠游戏」——被抢走的八万七千美金与一包神秘的棉花。梗概由整理者自行重写。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-98-midnight-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  }
+]

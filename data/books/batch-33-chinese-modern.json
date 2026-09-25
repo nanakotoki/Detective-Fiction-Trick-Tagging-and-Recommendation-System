@@ -1,0 +1,1495 @@
+[
+  {
+    "id": "cnmod-001",
+    "title": "五行塔事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "陈爝系列",
+    "detective": "陈爝",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "closed-circle",
+      "mansion",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座按五行方位布局的塔式建筑里发生了死亡事件，现场看上去不像是有人能进出的样子。侦探陈爝从建筑本身的结构与当天的人员动线入手，把这座塔拆成几个各自成立的难题。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 1219,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27054449/",
+        "subjectId": "27054449",
+        "edition": "五行塔事件 2017",
+        "fetchedAt": "2026-09-22T05:09:09.860Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢中国原创本格与建筑类诡计的读者",
+        "偏好平面图推演的读者"
+      ],
+      "watchFor": [
+        "五行方位与房间实际用途的对应关系",
+        "当天每个人在塔内的移动顺序",
+        "建筑图上被标成「装饰」的部分"
+      ],
+      "warning": "华语原创本格，重建筑与动线推演，节奏偏解谜向。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-002",
+    "title": "乌盆记",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Huyan Yun",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "呼延云作品",
+    "detective": "呼延云",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "nursery-rhyme",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一起命案的现场留下了一只来历不明的盆，围绕它出现了种种说不通的传闻。侦探一边拆解这些传闻是怎么被造出来的，一边发现真实的作案条件比传说本身更难成立。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 1244,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26388141/",
+        "subjectId": "26388141",
+        "edition": "乌盆记 2015",
+        "fetchedAt": "2026-09-22T05:09:13.331Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢把旧传说当作谜面来拆的读者",
+        "读过呼延云其他作品的读者"
+      ],
+      "watchFor": [
+        "传闻最早是从谁嘴里说出来的",
+        "现场的物证与传说之间对不上的地方",
+        "谁最需要这个传说被人相信"
+      ],
+      "warning": "书名取自传统公案故事，但本书是现代背景的原创本格。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-003",
+    "title": "乱神馆记·蝶梦",
+    "originalTitle": "",
+    "author": "水天一色",
+    "authorEn": "Shui Tian Yise",
+    "genre": "历史推理",
+    "firstPublished": "2011",
+    "series": "乱神馆记系列",
+    "detective": "离春",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "古代背景的馆舍里住着各色来客，一桩死亡被众人解释成神怪作祟。馆主离春不接受这个说法，转而从每个人当夜的位置与说辞里寻找破口。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1551,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36539479/",
+        "subjectId": "36539479",
+        "edition": "乱神馆记·蝶梦 2023",
+        "fetchedAt": "2026-09-22T05:09:21.020Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢中国古代背景本格的读者",
+        "偏好单一场景内多人对质的读者"
+      ],
+      "watchFor": [
+        "「神怪作祟」这个说法对谁有利",
+        "各人当夜所处位置的相互印证",
+        "馆中器物被移动过的痕迹"
+      ],
+      "warning": "古代背景，人物称谓与器物描写较密，需要一点耐心。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-004",
+    "title": "第欧根尼变奏曲",
+    "originalTitle": "",
+    "author": "陈浩基",
+    "authorEn": "Chan Ho-Kei",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "city",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，各篇独立成篇，题名取自那位住在木桶里、请人别挡住阳光的哲人。每一篇都从一个看似平淡的日常场景切入，再把它推向一个需要重新理解的前提。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 3449,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36078199/",
+        "subjectId": "36078199",
+        "edition": "第欧根尼变奏曲 2022",
+        "fetchedAt": "2026-09-22T05:09:24.622Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《13·67》想看他短篇的读者",
+        "喜欢篇末翻转型短篇的读者"
+      ],
+      "watchFor": [
+        "每篇开头被当作常识交代的那句话",
+        "叙述者与作者之间的距离",
+        "篇名与正文之间的对应"
+      ],
+      "warning": "短篇集，各篇风格与篇幅差异较大，可按任意顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-005",
+    "title": "冰镜庄杀人事件",
+    "originalTitle": "",
+    "author": "林斯谚",
+    "authorEn": "Lin Ssu-Yen",
+    "genre": "本格推理",
+    "firstPublished": "2009",
+    "series": "林斯谚作品",
+    "detective": "林若平",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "mansion",
+      "snowfield",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一行人因故滞留在一处山中庄院，庄内的死亡事件看上去只能由在场者之一完成。侦探林若平要处理的第一个问题是：谁在那段时间里其实并不在庄内。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 775,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4124427/",
+        "subjectId": "4124427",
+        "edition": "冰镜庄杀人事件 2009",
+        "fetchedAt": "2026-09-22T05:09:28.261Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢暴风雪山庄模式的读者",
+        "关注台湾原创本格的读者"
+      ],
+      "watchFor": [
+        "庄院周边地形与出入路径",
+        "每个人到达与离开的时间点",
+        "被当作「不可能」而没人去验证的那一步"
+      ],
+      "warning": "台湾原创本格，封闭舞台，重逻辑推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-006",
+    "title": "虚拟街头漂流记",
+    "originalTitle": "",
+    "author": "宠物先生",
+    "authorEn": "",
+    "genre": "本格推理",
+    "firstPublished": "2009",
+    "series": "S.T.E.P. 系列",
+    "detective": "无固定侦探（以虚拟实境调查者视角展开）",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "nonlinear",
+      "unreliable-narrator",
+      "city",
+      "meta-fiction",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "案件发生在一座可以反复重建的虚拟街区里，同一段时间被从不同角度看了很多遍。调查者逐渐发现，问题不在于场景还原得对不对，而在于每一次重看时是谁在决定看哪里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 850,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4124415/",
+        "subjectId": "4124415",
+        "edition": "虚拟街头漂流记 2009",
+        "fetchedAt": "2026-09-22T05:09:31.810Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对虚构与现实边界感兴趣的读者",
+        "读过宠物先生其他作品的读者"
+      ],
+      "watchFor": [
+        "同一场景两次描述之间的细微差别",
+        "谁有权修改虚拟环境的设定",
+        "叙述者不在场时发生了什么"
+      ],
+      "warning": "台湾原创，结构较为绕，建议一次读完以免线索断裂。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-007",
+    "title": "魔法妄想症",
+    "originalTitle": "",
+    "author": "既晴",
+    "authorEn": "Chi Ching",
+    "genre": "本格推理",
+    "firstPublished": "2004",
+    "series": "张钧见系列",
+    "detective": "张钧见",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名自称能用魔术解释一切的人卷入了一桩密室死亡，他给出的说法听上去无懈可击。侦探张钧见要判断的却是另一件事：这套说法是真相，还是当事人自己需要它是真相。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 617,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4140509/",
+        "subjectId": "4140509",
+        "edition": "魔法妄想症 2009",
+        "fetchedAt": "2026-09-22T05:09:37.218Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与心理谜题结合的读者",
+        "关注台湾原创推理的读者"
+      ],
+      "watchFor": [
+        "当事人对自己行为的解释前后是否一致",
+        "被当成「魔术手法」跳过的那个环节",
+        "谁在替谁维护这套说法"
+      ],
+      "warning": "涉及精神状态描写，密室解答与心理层面同等重要。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-008",
+    "title": "犯罪心理师Ⅱ",
+    "originalTitle": "",
+    "author": "艾西",
+    "authorEn": "Ai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "犯罪心理师系列",
+    "detective": "犯罪心理师（以心理分析视角展开）",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "silencing",
+      "obsession",
+      "city",
+      "series-detective",
+      "social-commentary"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几起表面无关的案件被交到同一位犯罪心理师手上，他要做的是从当事人的行为模式里抽出重复出现的那一部分。越往下查，越像是在描述同一个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 777,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4199622/",
+        "subjectId": "4199622",
+        "edition": "犯罪心理师 2010",
+        "fetchedAt": "2026-09-22T05:09:42.860Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对犯罪心理侧写感兴趣的读者",
+        "喜欢单元式案件串主线的读者"
+      ],
+      "watchFor": [
+        "几起案件里重复出现的细节",
+        "当事人陈述中被省略掉的动机",
+        "心理师自己的判断何时开始带上情绪"
+      ],
+      "warning": "系列第二部，含犯罪心理与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-009",
+    "title": "邪恶催眠师",
+    "originalTitle": "",
+    "author": "周浩晖",
+    "authorEn": "Zhou Haohui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "邪恶催眠师系列",
+    "detective": "罗飞",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "concealment",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几名当事人的记忆里都缺了同一段时间，而他们各自的说法又能互相圆上。警方请来懂催眠的人协助，问题是：被改写过的究竟是他们，还是调查者看到的记录。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 4675,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24753186/",
+        "subjectId": "24753186",
+        "edition": "邪恶催眠师 2013",
+        "fetchedAt": "2026-09-22T05:09:46.366Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢记忆与暗示题材的读者",
+        "读过周浩晖「死亡通知单」的读者"
+      ],
+      "watchFor": [
+        "几份陈述之间过于吻合的部分",
+        "谁有机会单独接触当事人",
+        "被当作「记不清」而跳过的那一分钟"
+      ],
+      "warning": "含催眠与心理操控描写，氛围偏暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-010",
+    "title": "无声的证词",
+    "originalTitle": "",
+    "author": "秦明",
+    "authorEn": "Qin Ming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "法医秦明系列",
+    "detective": "法医秦明",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "silencing",
+      "city",
+      "series-detective",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一系列案件的突破口都不在口供上，而在尸检台和解剖室里那些不会说话的痕迹上。法医要靠它们回答一个口供永远回答不了的问题：死者最后那段时间究竟经历了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 10626,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24531011/",
+        "subjectId": "24531011",
+        "edition": "无声的证词 2013",
+        "fetchedAt": "2026-09-22T05:09:51.794Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对法医鉴识流程感兴趣的读者",
+        "喜欢单元式案件结构的读者"
+      ],
+      "watchFor": [
+        "尸体征象与报案时间之间的差距",
+        "现场被清理过却漏掉的位置",
+        "不同案件里重复出现的同一类伤痕"
+      ],
+      "warning": "「法医秦明」系列作品，含较详细的尸检描写，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-011",
+    "title": "尸案调查科",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "尸案调查科系列",
+    "detective": "刑事技术小组（以现场勘查视角展开）",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "silencing",
+      "city",
+      "series-detective",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "刑事技术小组的工作从进入现场那一刻开始：先固定，再提取，判断永远排在流程末端。几起案件的共同点是现场都被处理得很干净，而越干净的现场，留下来的矛盾反而越多。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 1991,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26392203/",
+        "subjectId": "26392203",
+        "edition": "尸案调查科 2015",
+        "fetchedAt": "2026-09-22T05:09:57.712Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对现场勘查与痕迹检验感兴趣的读者",
+        "喜欢技术流办案过程的读者"
+      ],
+      "watchFor": [
+        "「太干净」这件事本身说明了什么",
+        "现场被改动过的先后顺序",
+        "痕检结果与目击者说法冲突之处"
+      ],
+      "warning": "以刑事技术流程为主线，含现场与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-012",
+    "title": "文学少女对数学少女",
+    "originalTitle": "",
+    "author": "陆秋槎",
+    "authorEn": "Lu Qiucha",
+    "genre": "日常之谜",
+    "firstPublished": "2019",
+    "series": "",
+    "detective": "无固定侦探（两名少女的对话式推理）",
+    "country": "中国",
+    "tags": [
+      "first-person",
+      "meta-fiction",
+      "campus",
+      "honkaku"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "一名写推理小说的少女和一名学数学的少女，把日常里遇到的小疑问拿来当作题目互相出给对方。没有凶案，只有定义、前提和推演——以及推演到一半发现前提本身就错了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1888,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30468752/",
+        "subjectId": "30468752",
+        "edition": "文学少女对数学少女 2019",
+        "fetchedAt": "2026-09-22T05:10:03.406Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜与对话体推理的读者",
+        "对推理文体本身感兴趣的读者"
+      ],
+      "watchFor": [
+        "题目里被默认成立的那个前提",
+        "「定义的边界在哪里」这类追问",
+        "两人各自擅长的推理方式有何不同"
+      ],
+      "warning": "轻量日常推理，含大量关于推理与数学的元讨论，几乎无暴力内容。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-013",
+    "title": "十宗罪3",
+    "originalTitle": "",
+    "author": "蜘蛛",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "十宗罪系列",
+    "detective": "特案组",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "city",
+      "social-commentary",
+      "series-detective",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "特案组接手的是那些在常规流程里排不上号、却一直没人愿意放下的案子。每一起背后都站着一个被忽略的人，而他们之所以被忽略，往往和案件本身无关。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 7913,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10826858/",
+        "subjectId": "10826858",
+        "edition": "十宗罪3 2012",
+        "fetchedAt": "2026-09-22T05:10:06.769Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢群案与社会议题交织的读者",
+        "读过「十宗罪」系列的读者"
+      ],
+      "watchFor": [
+        "每起案件里最先被忽略的那个人",
+        "办案流程中被跳过的一步",
+        "案件之间的共同社会背景"
+      ],
+      "warning": "犯罪题材合集，含暴力与性犯罪描写，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-014",
+    "title": "平原上的摩西",
+    "originalTitle": "",
+    "author": "双雪涛",
+    "authorEn": "Shuang Xuetao",
+    "genre": "社会派",
+    "firstPublished": "2016",
+    "series": "",
+    "detective": "无固定侦探（多视角叙事）",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "unreliable-narrator",
+      "historical-setting",
+      "city",
+      "social-commentary",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩多年前的出租车司机被杀案，把几个原本不会再见面的人重新连在一起。小说从不同人的角度分别讲述同一段往事，而每个人记住的版本都不太一样。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 33197,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26803179/",
+        "subjectId": "26803179",
+        "edition": "平原上的摩西 2016",
+        "fetchedAt": "2026-09-22T05:10:12.178Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢文学性与悬案结合的读者",
+        "对东北老工业区背景感兴趣的读者"
+      ],
+      "watchFor": [
+        "不同叙述者对同一件事的说法差异",
+        "时间线里对不上的那几年",
+        "「平原」与「摩西」在文中各自的所指"
+      ],
+      "warning": "文学性强，案件是骨架而非全部，重人物与时代氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-015",
+    "title": "回响",
+    "originalTitle": "",
+    "author": "东西",
+    "authorEn": "Dong Xi",
+    "genre": "社会派",
+    "firstPublished": "2021",
+    "series": "",
+    "detective": "冉咚咚",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "dual-line",
+      "unreliable-narrator",
+      "city",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名女刑警在侦办一桩抛尸案的同时，也在反复审视自己的婚姻。两条线互相渗透：办案时练出的那套判断人在不在说谎的方法，被她不由自主地用到了最亲近的人身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 3302,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35476563/",
+        "subjectId": "35476563",
+        "edition": "回响 2021",
+        "fetchedAt": "2026-09-22T05:10:21.895Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢案件与私人生活互为镜像的读者",
+        "关注当代文学中的推理元素的读者"
+      ],
+      "watchFor": [
+        "办案经验被挪用到私人关系里的时刻",
+        "同一句话在不同人那里被听成了什么",
+        "叙述者对自身动机的解释是否可信"
+      ],
+      "warning": "案件线与婚姻线并重，含心理与情感描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-016",
+    "title": "长安十二时辰",
+    "originalTitle": "",
+    "author": "马伯庸",
+    "authorEn": "Ma Boyong",
+    "genre": "历史推理",
+    "firstPublished": "2017",
+    "series": "",
+    "detective": "张小敬、李必",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "timetable",
+      "cipher",
+      "concealment",
+      "city",
+      "dual-role",
+      "adventure"
+    ],
+    "school": [
+      "logic-school",
+      "adventure-school",
+      "police-procedural"
+    ],
+    "safeSummary": "上元节当日的长安城被人布下了一件事，留给查案者的时间只有十二个时辰。两名身份悬殊的办案人必须在城门关闭与灯会开始之前，沿着城里蛛丝马迹把这条线逆推回去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 62313,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26899537/",
+        "subjectId": "26899537",
+        "edition": "长安十二时辰 上 2017",
+        "fetchedAt": "2026-09-22T05:10:27.588Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢限时推理与古代都市描写的读者",
+        "对唐代长安城市格局感兴趣的读者"
+      ],
+      "watchFor": [
+        "十二时辰的时间刻度与人物动线",
+        "城中各坊的职能与出入规则",
+        "被反复提到的那个地名"
+      ],
+      "warning": "古代背景的限时悬疑，篇幅长、人物多，含暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-017",
+    "title": "清明上河图密码 2",
+    "originalTitle": "",
+    "author": "冶文彪",
+    "authorEn": "Ye Wenbiao",
+    "genre": "历史推理",
+    "firstPublished": "2015",
+    "series": "清明上河图密码系列",
+    "detective": "无固定侦探（图中人物群像）",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "ensemble",
+      "dual-line",
+      "cipher",
+      "city",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "故事把一幅名画上的人物逐一认领成有名有姓的人，再让他们的命运彼此咬合。这一部里几条看似无关的线索同时收拢，指向画中某个一直没被注意到的位置。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 8003,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26576515/",
+        "subjectId": "26576515",
+        "edition": "清明上河图密码 2 2015",
+        "fetchedAt": "2026-09-22T05:10:33.161Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢群像与多线收束结构的读者",
+        "对北宋市井生活感兴趣的读者"
+      ],
+      "watchFor": [
+        "各条线各自的时间点",
+        "画中人物的位置与文中行踪的对应",
+        "被反复提及却始终没露面的那个人"
+      ],
+      "warning": "系列第二部，人物极多，建议按顺序阅读并随手记人名。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnmod-018",
+    "title": "追踪师",
+    "originalTitle": "",
+    "author": "紫金陈",
+    "authorEn": "Zi Jinchen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "series": "",
+    "detective": "无固定侦探（以网络追踪者视角展开）",
+    "country": "中国",
+    "tags": [
+      "cipher",
+      "concealment",
+      "city",
+      "social-commentary",
+      "dual-role",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "一名擅长顺着数据痕迹找人的追踪者，接下了寻找某个失踪者的委托。线索一条条都对得上，直到他发现这些痕迹被安排得太符合期待了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 3106,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30169891/",
+        "subjectId": "30169891",
+        "edition": "追踪师 2018",
+        "fetchedAt": "2026-09-22T05:10:36.500Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对信息追踪与网络取证感兴趣的读者",
+        "读过紫金陈其他作品的读者"
+      ],
+      "watchFor": [
+        "痕迹出现的顺序是否自然",
+        "委托人对结果的期待方向",
+        "数据之间过于顺滑的衔接"
+      ],
+      "warning": "现代都市背景，涉及网络与隐私议题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-33-chinese-modern.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

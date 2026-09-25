@@ -1,0 +1,587 @@
+[
+  {
+    "id": "jpaudit78-001",
+    "title": "三个人的双胞胎",
+    "originalTitle": "",
+    "author": "海野十三",
+    "authorEn": "Unno Juza",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "multiple-solutions",
+      "red-herring",
+      "narrative-trick",
+      "forensic"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "海野十三的推理短篇集。澡堂里的裸体者是男是女、蟒蛇腹中有无园长的尸身、电车上的枪弹来自何处、高空中飘落的粉末是不是骨灰——谜面都立在当时的科学知识上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 432,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4168620/",
+        "subjectId": "4168620",
+        "edition": "三个人的双胞胎 2009年12月",
+        "fetchedAt": "2026-09-22T16:24:01.885Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战前本格与科学趣味的读者",
+        "海野十三的读者"
+      ],
+      "watchFor": [
+        "每篇谜面依赖的那条科学常识",
+        "叙述者先入为主的判断",
+        "作者把「传播科学」放在什么位置"
+      ],
+      "warning": "战前推理短篇集，各篇独立，含凶案与医学题材描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4168620，按 subject id 直取）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「三个人的双胞胎」／海野十三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit78-002",
+    "title": "蝇男",
+    "originalTitle": "",
+    "author": "海野十三",
+    "authorEn": "Unno Juza",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "fear",
+      "concealment",
+      "dark-atmosphere",
+      "first-person",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "adventure-school"
+    ],
+    "safeSummary": "那位不可思议的「蝇男」，其实一直和我们呼吸着同一片空气。小说写的正是这样一种可能：如此离奇的东西就潜伏在身边，而我们自以为对周围的一切了如指掌。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.4,
+        "count": 235,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5043453/",
+        "subjectId": "5043453",
+        "edition": "蝇男 2010年9月",
+        "fetchedAt": "2026-09-22T16:24:05.129Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪奇题材的读者",
+        "海野十三的读者"
+      ],
+      "watchFor": [
+        "叙述者凭什么断定自己了解周围",
+        "「蝇男」出现的场合",
+        "结局之外的余味"
+      ],
+      "warning": "战前怪奇推理，含惊悚与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5043453，按 subject id 直取）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「蝇男」／海野十三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit78-003",
+    "title": "地狱使者",
+    "originalTitle": "",
+    "author": "海野十三",
+    "authorEn": "Unno Juza",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "multiple-solutions",
+      "red-herring",
+      "forensic",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "海野十三的推理短篇集。「Cafe Argon」的天花板里藏着什么、马戏团接连的爆炸背后是什么、已经死去的朋友为何又出现——谜面都带着科幻的意趣。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战前本格与科学趣味的读者",
+        "海野十三的读者"
+      ],
+      "watchFor": [
+        "每篇里被当作「不可能」的那件事",
+        "作者给出的科学前提",
+        "叙述者漏掉的那一步"
+      ],
+      "warning": "战前推理短篇集，各篇独立，含凶案与爆炸等描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4191763，按 subject id 直取）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「地狱使者」／海野十三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit78-004",
+    "title": "深夜市长",
+    "originalTitle": "",
+    "author": "海野十三",
+    "authorEn": "Unno Juza",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "帆村庄六系列",
+    "detective": "帆村庄六",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment",
+      "ensemble",
+      "adventure",
+      "dark-atmosphere",
+      "cipher"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "长篇。夜晚与白天是两个完全不同的世界——T 市的大部分居民都不知道这座城市入夜后的模样，他们以为 T 市也和他们一样睡着了。名侦探帆村庄六登场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 132,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6010587/",
+        "subjectId": "6010587",
+        "edition": "深夜市长 2011",
+        "fetchedAt": "2026-09-22T16:24:13.436Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "海野十三的读者",
+        "喜欢都市幻想与侦探冒险的读者"
+      ],
+      "watchFor": [
+        "夜里那座 T 市与白天的对应关系",
+        "谁在维持这种「两个世界」",
+        "帆村庄六查案的切入点"
+      ],
+      "warning": "都市幻想长篇，基调偏冒险，含犯罪与都市阴暗面描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/6010587，按 subject id 直取）；梗概据公开内容简介重写并经人工核对 **诡计类标签补充（第 72 轮）**：据上图编目提要「本书内容包括：活着的肠子、暗号唱片事件、失踪的金块、骷髅馆、楼梯、恐怖的守灵、深夜」补标 cipher（收录篇目中直接有「暗号唱片事件」）。",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「深夜市长」／海野十三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "jpaudit78-005",
+    "title": "小笛事件",
+    "originalTitle": "",
+    "author": "山本禾太郎",
+    "authorEn": "Yamamoto Kataro",
+    "genre": "社会派",
+    "firstPublished": "1936",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（以口供与鉴定报告展开）",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "historical-setting",
+      "psychological-misdirection",
+      "ensemble"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "取材真实案件的长篇。广川根本没有杀人，却背上了杀人的罪名，将被判处死刑。小说以大量口供与鉴定报告构成主体，一层层质疑当年的侦查与审判。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 267,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5288321/",
+        "subjectId": "5288321",
+        "edition": "小笛事件 2010",
+        "fetchedAt": "2026-09-22T16:24:18.097Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "关心冤案与司法题材的读者",
+        "战前犯罪实录的读者"
+      ],
+      "watchFor": [
+        "口供之间的出入",
+        "鉴定报告怎么被解读",
+        "当年办案者先入为主的地方"
+      ],
+      "warning": "战前犯罪实录长篇，含冤案、死刑与牢狱题材；本书无本格诡计，推荐时不计入诡计重叠。作者另一部《小笛事件》被评为战前「犯罪实录小说的双璧」之一。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5288321，按 subject id 直取）；连载年 1936 据公开作者介绍核实，梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「小笛事件」／山本禾太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit78-006",
+    "title": "仙人掌之花",
+    "originalTitle": "",
+    "author": "山本禾太郎",
+    "authorEn": "Yamamoto Kataro",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "concealment",
+      "obsession",
+      "dark-atmosphere",
+      "first-person"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "山本禾太郎的短篇集。有人临别时留下一幅仙人掌的画，说为何要画它，恐怕今生今世都不会讲出来——而答案，要等他死后才可能被理解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 238,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5349519/",
+        "subjectId": "5349519",
+        "edition": "仙人掌之花 2010",
+        "fetchedAt": "2026-09-22T16:24:21.202Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前变格派的读者",
+        "山本禾太郎的读者"
+      ],
+      "watchFor": [
+        "那幅画为什么是仙人掌",
+        "留下画的人当时的处境",
+        "叙述者后来才想通的部分"
+      ],
+      "warning": "战前短篇集，各篇独立，含阴暗题材与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5349519，按 subject id 直取）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「仙人掌之花」／山本禾太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit78-007",
+    "title": "抱茗荷之说",
+    "originalTitle": "",
+    "author": "山本禾太郎",
+    "authorEn": "Yamamoto Kataro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "concealment",
+      "obsession",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "山本禾太郎的短篇集。脱掉人偶的衣服后，左边胸口画着一个黑色的梅花形图案，后背上还写着一行字：「抱茗荷之说」。这几个字到底是什么意思？",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 250,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5288322/",
+        "subjectId": "5288322",
+        "edition": "抱茗荷之说 2010",
+        "fetchedAt": "2026-09-22T16:24:24.424Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战前本格的读者",
+        "山本禾太郎的读者"
+      ],
+      "watchFor": [
+        "人偶身上的墨迹是谁画的",
+        "「抱茗荷」这个纹饰的来历",
+        "君子记忆里的那段空白"
+      ],
+      "warning": "战前推理短篇集，各篇独立，含凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5288322，按 subject id 直取）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「抱茗荷之说」／山本禾太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-78-jp-audit13.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  }
+]

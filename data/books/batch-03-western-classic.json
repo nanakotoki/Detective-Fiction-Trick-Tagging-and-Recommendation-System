@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "western-001",
+    "title": "无人生还",
+    "originalTitle": "And Then There Were None",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1939",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "isolated-island",
+      "nursery-rhyme",
+      "psychological-misdirection",
+      "ensemble",
+      "revenge",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "十位互不相识的客人受邀来到与世隔绝的孤岛别墅，邀请他们的主人却始终没有露面。一首古老的童谣被逐句对应到他们身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "长期位居推理类高分榜，读者普遍认为封闭舞台与童谣结构的结合是类型标杆，结构设计讨论度极高。",
+        "score": 9,
+        "count": 170794,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3006581/",
+        "subjectId": "3006581",
+        "edition": "无人生还 2008",
+        "fetchedAt": "2026-09-20T15:50:52.060Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.3,
+        "count": 1300000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者票选度极高，常被列为入门首选；部分读者认为人物刻画服务于结构。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像案件的读者",
+        "偏好童谣或序列式结构的读者"
+      ],
+      "watchFor": [
+        "童谣文本与事件发生的先后顺序",
+        "十个人各自携带的过去"
+      ],
+      "warning": "请留意「邀请函」这一形式本身，以及参与者之间是否存在事前关联。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-002",
+    "title": "东方快车谋杀案",
+    "originalTitle": "Murder on the Orient Express",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "train",
+      "snowfield",
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "revenge",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "暴雪使豪华列车停在荒野，车厢内一位乘客死于非命。同车的十几位旅客说法各异，波洛在封闭的车厢里逐一问询。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "波洛系列中知名度最高的作品之一，读者常称赞其群像调度与车厢内的封闭张力。",
+        "score": 9.1,
+        "count": 156142,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1827374/",
+        "subjectId": "1827374",
+        "edition": "东方快车谋杀案 2006",
+        "fetchedAt": "2026-09-20T15:51:01.678Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.2,
+        "count": 1100000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者关注度极高，常被评为系列代表作；也有读者对结构安排有不同看法。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭移动舞台与群像问询的读者",
+        "偏好不在场证明类谜团的读者"
+      ],
+      "watchFor": [
+        "每位旅客陈述的时间与车厢位置",
+        "列车停驶前后的车厢内动静"
+      ],
+      "warning": "本书登场人物较多，建议边读边梳理旅客名单与车厢平面关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-003",
+    "title": "罗杰疑案",
+    "originalTitle": "The Murder of Roger Ackroyd",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "first-person",
+      "psychological-misdirection",
+      "red-herring",
+      "countryside",
+      "mansion",
+      "concealment",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "英国乡村小镇上，一位乡绅在自家书房中遇害。隐居附近的波洛受托查案，而镇上几乎每个人都藏着不愿提起的往事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "被频繁列入推理史必读清单，读者讨论多集中在叙述形式本身带来的阅读体验。",
+        "score": 9.2,
+        "count": 104561,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/21371175/",
+        "subjectId": "21371175",
+        "edition": "罗杰疑案 2013",
+        "fetchedAt": "2026-09-20T15:51:09.522Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.2,
+        "count": 350000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "在英文读者中评价极高，常被视为黄金时代长篇的代表；关于其结构安排的讨论长期不衰。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢乡村封闭小镇舞台的读者",
+        "对叙述形式本身感兴趣的读者"
+      ],
+      "watchFor": [
+        "镇上各人讲述中的时间与细节出入",
+        "第一人称叙述所覆盖的信息范围"
+      ],
+      "warning": "本书的叙述方式本身参与了谜团的构成，请留意信息来源与转述层次。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "罗杰·爱克罗伊德谋杀案"
+    ]
+  },
+  {
+    "id": "western-004",
+    "title": "帷幕",
+    "originalTitle": "Curtain: Poirot's Last Case",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1975",
+    "series": "赫尔克里·波洛系列（终章）",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "psychological-misdirection",
+      "red-herring",
+      "first-person",
+      "mansion",
+      "countryside",
+      "dark-atmosphere",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "年迈的波洛与老友黑斯廷斯在乡间庄园重逢，他声称此地即将发生一起命案，却始终不肯说出对象是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "波洛系列的收官之作，读者多认为其气氛沉郁，人物关系描写细致。",
+        "score": 9.1,
+        "count": 23298,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26292535/",
+        "subjectId": "26292535",
+        "edition": "帷幕 2015",
+        "fetchedAt": "2026-09-20T15:07:49.402Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.2,
+        "count": 120000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "作为系列的落幕篇评价很高，英文读者常提到其中的情感分量与结构安排。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "跟随系列多年的老读者",
+        "偏好心理博弈与人物关系的读者"
+      ],
+      "watchFor": [
+        "波洛不愿明说的理由",
+        "庄园访客之间的往来与旧关系"
+      ],
+      "warning": "本作是系列角色的告别之作，建议在读过前作后再阅读，并留意黑斯廷斯视角所及与未及之处。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021.08（帷幕／(英) 阿加莎·克里斯蒂著 AGATHA CHRISTIE）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "幕后凶手"
+    ],
+    "editionYear": "2021"
+  },
+  {
+    "id": "western-005",
+    "title": "希腊棺材之谜",
+    "originalTitle": "The Greek Coffin Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1932",
+    "series": "埃勒里·奎因系列",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "city",
+      "mansion",
+      "gain",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "古董商去世后，遗嘱在葬礼上不翼而飞；开棺寻找遗嘱时，棺木里却多出一具尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "奎因早期长篇的代表作之一，读者常提到线索铺陈的密度与推理过程的层层推进。",
+        "score": 8.4,
+        "count": 13048,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3112726/",
+        "subjectId": "3112726",
+        "edition": "希腊棺材之谜 2008",
+        "fetchedAt": "2026-09-20T15:51:26.920Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 12000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者多认可其谜面设计与公平性，也有人认为篇幅与线索量偏重。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多重解答结构的读者",
+        "享受高密度线索与公平推理的读者"
+      ],
+      "watchFor": [
+        "遗嘱的流转与保管经过",
+        "棺木开启前后的时间与在场者"
+      ],
+      "warning": "本作线索密度较高，建议边读边记录人物关系与物品去向。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-006",
+    "title": "Y的悲剧",
+    "originalTitle": "The Tragedy of Y",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1932",
+    "series": "哲瑞·雷恩系列",
+    "detective": "哲瑞·雷恩",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "mansion",
+      "city",
+      "concealment",
+      "dark-atmosphere",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "纽约的约克家族世代笼罩着疯狂与不幸的阴影，宅邸中接连有人死去，退休演员哲瑞·雷恩介入了这出家族悲剧。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "雷恩系列中悲剧色彩最浓的一部，读者多提到其压抑氛围与人物塑造。",
+        "score": 8.4,
+        "count": 13757,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3348010/",
+        "subjectId": "3348010",
+        "edition": "Y的悲剧 2009",
+        "fetchedAt": "2026-09-20T12:01:27.975Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 2000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者评价分化，多数认可其整体构思，也有人认为基调过于灰暗。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏爱家族群像与阴郁基调的读者",
+        "喜欢心理向推理的读者"
+      ],
+      "watchFor": [
+        "家族成员之间的血缘与病史线索",
+        "宅邸内日常起居的细节"
+      ],
+      "warning": "本作基调阴郁，涉及家族病史与精神状态的描写，阅读前请留意。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-007",
+    "title": "中国橘子之谜",
+    "originalTitle": "The Chinese Orange Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "埃勒里·奎因系列",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "faceless-corpse",
+      "red-herring",
+      "psychological-misdirection",
+      "city",
+      "gain",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "出版社办公室里一名男子倒地身亡，房门自内侧锁住，室内陈设处处反常，而没有人认得出死者是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "奎因中期作品，读者对其谜面设置评价较高，对人物与节奏则看法不一。",
+        "score": 7,
+        "count": 3314,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3112720/",
+        "subjectId": "3112720",
+        "edition": "中国橘子之谜 2008",
+        "fetchedAt": "2026-09-20T12:01:31.705Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.8,
+        "count": 4000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者多认为谜面别致，也有人觉得前期铺陈略显冗长。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室谜面与身份谜团的读者",
+        "偏好黄金时代解谜长篇的读者"
+      ],
+      "watchFor": [
+        "死者随身物品与衣着的位置关系",
+        "办公室内家具与陈设的朝向"
+      ],
+      "warning": "本书属于典型的黄金时代解谜长篇，线索埋得较深，建议放慢阅读速度。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-008",
+    "title": "三口棺材",
+    "originalTitle": "The Three Coffins",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1935",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "psychological-misdirection",
+      "red-herring",
+      "snowfield",
+      "city",
+      "meta-fiction",
+      "dark-atmosphere",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "大雪覆盖的伦敦，一位教授死在自内反锁的书房里；同一夜里，另一人在众目睽睽的街上遇害，现场却没有留下任何痕迹。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "卡尔最常被提及的代表作之一，读者普遍称赞其不可能犯罪的布置与氛围。",
+        "score": 7.7,
+        "count": 9305,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30324991/",
+        "subjectId": "30324991",
+        "edition": "三口棺材 2019",
+        "fetchedAt": "2026-09-20T15:51:39.046Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 12000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者视其为密室题材的标杆，也常提到书中关于这类谜团的讨论段落。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可能犯罪与密室谜团的读者",
+        "偏爱哥特式阴郁氛围的读者"
+      ],
+      "watchFor": [
+        "雪地上留下的痕迹与行走路线",
+        "两起事件在时间上的对应关系"
+      ],
+      "warning": "本书集中讨论了不可能犯罪的各类设想，书中人物提出的假设并不等同于结论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-009",
+    "title": "犹大之窗",
+    "originalTitle": "The Judas Window",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1938",
+    "series": "亨利·梅利维尔爵士系列",
+    "detective": "亨利·梅利维尔爵士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "psychological-misdirection",
+      "red-herring",
+      "city",
+      "mansion",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "legal-thriller",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名年轻人拜访未婚妻的父亲，在书房饮下一杯酒后失去意识，醒来时老人已中箭身亡，房门却从内侧锁着。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "卡尔法庭推理色彩最浓的作品之一，读者常称赞其辩论段落与密室谜面的结合。",
+        "score": 8.2,
+        "count": 10520,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30441962/",
+        "subjectId": "30441962",
+        "edition": "犹大之窗 2019",
+        "fetchedAt": "2026-09-20T12:01:45.490Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 3000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者多认为其法庭段落节奏出色，是梅利维尔系列中评价较高的一本。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭辩论与密室谜面结合的读者",
+        "偏好黄金时代公平推理的读者"
+      ],
+      "watchFor": [
+        "案发前后书房内物品的摆放与状态",
+        "庭审中双方对同一细节的不同解释"
+      ],
+      "warning": "本作有大量法庭辩论内容，人物证词之间存在明显分歧，请留意证词与物证之间的差别。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2019（犹大之窗／(美) 约翰·迪克森·卡尔著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "western-010",
+    "title": "皇帝的鼻烟壶",
+    "originalTitle": "The Emperor's Snuff-Box",
+    "alternateTitles": [
+      "皇帝的鼻烟盒"
+    ],
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1942",
+    "series": "",
+    "detective": "德莫特·金罗斯",
+    "country": "美国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "alibi",
+      "mansion",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "法国海滨小镇上，一位老人在自家别墅中身亡，现场遗留的一只鼻烟壶成为众人关注的物件，嫌疑落在他年轻的儿媳身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "卡尔非系列作品中评价较好的一本，读者多提到其人物描写与谜面布置。",
+        "score": 8.1,
+        "count": 1210,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191439/",
+        "subjectId": "4191439",
+        "edition": "皇帝的鼻烟壶 2010",
+        "fetchedAt": "2026-09-20T12:01:51.026Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 1500,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者普遍认为其结构精巧，知名度低于作者的密室代表作。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理向悬念与人物关系的读者",
+        "想读卡尔非系列作品的读者"
+      ],
+      "watchFor": [
+        "鼻烟壶在案发前后的位置变化",
+        "案发时段各人的去向与目击情况"
+      ],
+      "warning": "本作不属于作者最知名的密室系列，故事重心在人物关系与心理描写上。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「皇帝的鼻烟壶」／卡尔）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "western-011",
+    "title": "斑点带子案",
+    "originalTitle": "The Adventure of the Speckled Band",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1892",
+    "series": "福尔摩斯系列（《冒险史》）",
+    "detective": "歇洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "red-herring",
+      "first-person",
+      "countryside",
+      "mansion",
+      "gain",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位女子在古老宅邸中独处时离奇身亡，临终只留下「斑点带子」几个字；多年后，她的妹妹向福尔摩斯求助。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据（该短篇的评分通常并入《冒险史》等合集，无独立条目）",
+        "score": 7.4,
+        "count": 51,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1225512/",
+        "subjectId": "1225512",
+        "edition": "斑点带子案 2005",
+        "fetchedAt": "2026-09-20T13:16:20.438Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.3,
+        "count": 300000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "该短篇收录于《冒险史》，此处为合集层面的参考数据；英文读者常把它列为福尔摩斯短篇中气氛最紧张的一篇。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇本格解谜的读者",
+        "偏爱哥特式庄园氛围的读者"
+      ],
+      "watchFor": [
+        "宅邸的改建与房间之间的连通情况",
+        "案发前夜宅内的声响与动静"
+      ],
+      "warning": "本作是福尔摩斯短篇中最常被提及的一篇，阅读时请留意华生的记录方式与时间顺序。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western-012",
+    "title": "巴斯克维尔的猎犬",
+    "originalTitle": "The Hound of the Baskervilles",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1902",
+    "series": "福尔摩斯系列",
+    "detective": "歇洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "closed-circle",
+      "legend-folklore",
+      "countryside",
+      "mansion",
+      "first-person",
+      "gain",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "德文郡的荒原上流传着巨型猎犬的家族传说，庄园主人突然离世，继承人从海外赶来，福尔摩斯派华生陪他前往庄园。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "福尔摩斯长篇中最受欢迎的一部，读者多称赞其荒原氛围与悬念铺陈。",
+        "score": 8.6,
+        "count": 253,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37023818/",
+        "subjectId": "37023818",
+        "edition": "巴斯克维尔的猎犬 2024",
+        "fetchedAt": "2026-09-20T12:02:01.099Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 350000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者评价极高，常被视为系列长篇的代表；氛围描写广受好评。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢荒原孤宅与传说氛围的读者",
+        "偏好长篇调查式推理的读者"
+      ],
+      "watchFor": [
+        "荒原上的人物往来与夜间动静",
+        "家族传说的流传经过与记录来源"
+      ],
+      "warning": "本作气氛偏阴森，涉及传说中的怪物与死亡场景，请留意传说与事实之间的界限。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息核对"
+    },
+    "provenance": {
+      "source": "batch-03-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

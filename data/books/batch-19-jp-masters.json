@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "jpmas-001",
+    "title": "冰菓",
+    "originalTitle": "氷菓",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "2001",
+    "series": "古典部系列",
+    "detective": "折木奉太郎",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "first-person",
+      "campus",
+      "historical-setting",
+      "honkaku",
+      "cozy",
+      "youth",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "一名信奉「没必要的事不做」的高中生被姐姐托付，加入了即将废部的古典部。他与好奇心旺盛的同伴一起，解开校园里的种种小谜团。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 4750,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24383185/",
+        "subjectId": "24383185",
+        "edition": "冰菓 2013",
+        "fetchedAt": "2026-09-20T16:11:46.166Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢校园日常之谜的读者",
+        "偏好轻快节奏与少年少女对话的读者"
+      ],
+      "watchFor": [
+        "社团活动室里留下的旧物",
+        "学长学姐们流传的说法",
+        "主角「节能」原则的例外"
+      ],
+      "warning": "日常之谜，不含凶案，基调明亮。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南美术出版社 2013（馆藏题名「冰菓」／米泽穗信）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-36-jp-authors-expand.json#jpauth-007"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [],
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmas-002",
+    "title": "愚者的片尾",
+    "originalTitle": "愚者のエンドロール",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "2002",
+    "series": "古典部系列",
+    "detective": "折木奉太郎",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "youth",
+      "cozy",
+      "multiple-solutions",
+      "meta-fiction",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "文化祭上要放映的班级自制悬疑短片还没拍完，写剧本的人却病倒了。古典部的成员被请去，为这部片子补一个说得通的收尾。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 3009,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24853056/",
+        "subjectId": "24853056",
+        "edition": "愚者的片尾 2013",
+        "fetchedAt": "2026-09-20T16:11:49.739Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「推理小说中的推理小说」这类结构的读者",
+        "对创作幕后有兴趣的读者"
+      ],
+      "watchFor": [
+        "已拍好部分留下的线索",
+        "剧组各人对结局的猜测",
+        "剧本里被省略的镜头"
+      ],
+      "warning": "围绕一部未完成的影片展开，含后设趣味。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-003",
+    "title": "库特利亚芙卡的排序",
+    "originalTitle": "クドリャフカの順番",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "2005",
+    "series": "古典部系列",
+    "detective": "折木奉太郎",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "youth",
+      "cozy",
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "文化祭期间，社刊接连被人拿走。古典部的几个人分头行动，从各自的视角追查这件看似微不足道的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 3193,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25737796/",
+        "subjectId": "25737796",
+        "edition": "库特利亚芙卡的排序 2013",
+        "fetchedAt": "2026-09-20T16:11:53.384Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多视角并行叙事的读者",
+        "对校园社团生态有兴趣的读者"
+      ],
+      "watchFor": [
+        "各人在同一时间的位置",
+        "社刊的分发与留存数量",
+        "文化祭当天的行程安排"
+      ],
+      "warning": "多视角短篇连作，时间线交错，建议留意每章的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南美术出版社 2013（馆藏题名「库特利亚芙卡的排序」／米泽穗信）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmas-005",
+    "title": "王与马戏团",
+    "originalTitle": "王とサーカス",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "社会派",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "太刀洗万智",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "social-commentary",
+      "historical-setting",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名记者前往政局动荡的异国采访，原本只想写一篇轻松的报道。当地发生的一起事件，让她重新思考记者的职责。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 367,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26822652/",
+        "subjectId": "26822652",
+        "edition": "王與馬戲團 2017",
+        "fetchedAt": "2026-09-20T16:16:08.732Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢记者视角与社会派题材的读者",
+        "对新闻伦理议题有兴趣的读者"
+      ],
+      "watchFor": [
+        "记者与当地人的交流方式",
+        "报道口径与事实之间的距离",
+        "她选择写下与不写下的部分"
+      ],
+      "warning": "以真实的政变事件为背景，基调沉重，与作者的校园系列风格不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-006",
+    "title": "重力小丑",
+    "originalTitle": "重力ピエロ",
+    "author": "伊坂幸太郎",
+    "authorEn": "Kotaro Isaka",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2003",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "dual-line",
+      "city",
+      "social-commentary",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一对同母异父的兄弟在同一座城市生活。弟弟在街头清理涂鸦，哥哥则对多年前的一桩旧案念念不忘。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 10142,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26359751/",
+        "subjectId": "26359751",
+        "edition": "重力小丑 2015",
+        "fetchedAt": "2026-09-20T16:12:04.298Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢兄弟关系与家庭题材的读者",
+        "能接受轻快笔调下藏着沉重议题的读者"
+      ],
+      "watchFor": [
+        "兄弟二人各自的日常",
+        "父亲反复提起的那句话",
+        "街边涂鸦的图案与位置"
+      ],
+      "warning": "涉及性犯罪与家庭创伤等沉重议题，笔调相对轻快但有反差。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2015.05（重力小丑／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "jpmas-007",
+    "title": "奥杜邦的祈祷",
+    "originalTitle": "オーデュボンの祈り",
+    "author": "伊坂幸太郎",
+    "authorEn": "Kotaro Isaka",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2000",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "isolated-island",
+      "adventure",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "adventure-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名青年在逃亡途中醒来，发现自己身处一座与世隔绝、地图上找不到的岛。岛上有会说话的稻草人，也有不为人知的规矩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 6501,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892089/",
+        "subjectId": "26892089",
+        "edition": "奥杜邦的祈祷 2017",
+        "fetchedAt": "2026-09-20T16:12:08.213Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢奇妙设定与冒险叙事的读者",
+        "能接受现实与幻想混合的读者"
+      ],
+      "watchFor": [
+        "岛上居民遵守的规矩",
+        "稻草人说的话",
+        "这座岛与外界的往来方式"
+      ],
+      "warning": "带强烈幻想色彩，推理要素为辅。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-008",
+    "title": "死神的精确度",
+    "originalTitle": "死神の精度",
+    "author": "伊坂幸太郎",
+    "authorEn": "Kotaro Isaka",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "ensemble",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "一名以人的身份出现在世间、负责判断生死的存在，接连与几位即将面临终点的人相处了几天。六段故事各自发生在不同的场所。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 6353,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26599256/",
+        "subjectId": "26599256",
+        "edition": "死神的精确度 2015",
+        "fetchedAt": "2026-09-20T16:12:11.722Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇集与温柔笔调的读者",
+        "对生死议题有兴趣但不想读得太沉重的读者"
+      ],
+      "watchFor": [
+        "叙述者对人间的观察方式",
+        "每位对象在几天内的选择",
+        "音乐在故事中的作用"
+      ],
+      "warning": "主题涉及死亡，但笔调温和，不是惊悚作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-009",
+    "title": "冰冷密室与博士们",
+    "originalTitle": "冷たい密室と博士たち",
+    "author": "森博嗣",
+    "authorEn": "Hiroshi Mori",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "S&M系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "campus",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "大学校园内的低温实验设施中发生了死亡事件。研究者与学生对现场条件各执一词，建筑系的研究室开始自行推演。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1140,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4836935/",
+        "subjectId": "4836935",
+        "edition": "冰冷密室与博士们 2010",
+        "fetchedAt": "2026-09-20T16:12:17.904Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢理科背景与密室题材的读者",
+        "对大学研究环境有兴趣的读者"
+      ],
+      "watchFor": [
+        "实验设施的温度与出入记录",
+        "研究室的构造与设备",
+        "师生之间的对话方式"
+      ],
+      "warning": "系列第二作，登场人物关系延续自第一部，建议按顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-010",
+    "title": "不会笑的数学家",
+    "originalTitle": "笑わない数学者",
+    "author": "森博嗣",
+    "authorEn": "Hiroshi Mori",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "S&M系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "mansion",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位几乎不与人来往的数学家住在封闭的宅邸里。造访者到达后，这座宅邸中开始出现难以解释的状况。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1290,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4893052/",
+        "subjectId": "4893052",
+        "edition": "不会笑的数学家 2010",
+        "fetchedAt": "2026-09-20T16:12:23.676Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢数学意象与封闭舞台的读者",
+        "享受理性对话的读者"
+      ],
+      "watchFor": [
+        "宅邸的结构与房间用途",
+        "数学家说话时的用词习惯",
+        "出现在文中的数字与图形"
+      ],
+      "warning": "系列第三作，含较多关于数学与理性的讨论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2010（馆藏题名「不会笑的数学家」／森博嗣）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpmas-011",
+    "title": "马来铁道之谜",
+    "originalTitle": "マレー鉄道の謎",
+    "author": "有栖川有栖",
+    "authorEn": "Alice Arisugawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "国名系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "train",
+      "locked-room",
+      "alibi",
+      "timetable",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "两名日本人在东南亚乘坐列车旅行，途中车厢里出现了异常状况。案件与当地铁路的运行方式纠缠在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 547,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26308256/",
+        "subjectId": "26308256",
+        "edition": "马来铁道之谜 2015",
+        "fetchedAt": "2026-09-20T16:12:27.303Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢列车与旅情推理的读者",
+        "对异国铁道细节有兴趣的读者"
+      ],
+      "watchFor": [
+        "列车编组与车厢连接方式",
+        "停靠站与时刻安排",
+        "同行乘客的座位变化"
+      ],
+      "warning": "国名系列之一，含大量铁路运行细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（马来铁道之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "jpmas-012",
+    "title": "第46号密室",
+    "originalTitle": "46番目の密室",
+    "author": "有栖川有栖",
+    "authorEn": "Alice Arisugawa",
+    "genre": "本格推理",
+    "firstPublished": "1992",
+    "series": "作家爱丽丝系列",
+    "detective": "火村英生、有栖川有栖",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位专写密室题材的作家被发现死于上锁的房间内。现场条件之间互相矛盾，犯罪学者与作家搭档着手检证。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 775,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1287802/",
+        "subjectId": "1287802",
+        "edition": "第四十六号密室 2003",
+        "fetchedAt": "2026-09-20T16:12:32.906Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室诡计与作家题材的读者",
+        "对「密室分类」有兴趣的读者"
+      ],
+      "watchFor": [
+        "房间的锁具与窗户结构",
+        "死者生前写下的稿件内容",
+        "现场被破坏的程度"
+      ],
+      "warning": "系列早期作品，围绕密室的构成条件展开讨论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-013",
+    "title": "影子",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Shusuke Michio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "youth"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名少年在校园里长期处于被排挤的位置。转学生出现后，他的处境开始变化，而他的叙述也逐渐显出偏差。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1873,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5395173/",
+        "subjectId": "5395173",
+        "edition": "影子 2011",
+        "fetchedAt": "2026-09-20T16:12:39.902Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述者的读者",
+        "能接受阴暗校园题材的读者"
+      ],
+      "watchFor": [
+        "叙述者对自身处境的评价",
+        "他与转学生之间的对话",
+        "同一事件被提及两次时的差异"
+      ],
+      "warning": "涉及校园霸凌与心理问题，基调阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-015",
+    "title": "第十三种人格的恐怖",
+    "originalTitle": "十三番目の人格 ISOLA",
+    "author": "贵志佑介",
+    "authorEn": "Yusuke Kishi",
+    "genre": "恐怖",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "fear",
+      "identity"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一名少女在事故后被发现具有多重人格。为查明她身上发生的事，相关人员开始记录并分析她每一次人格转换。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1498,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1263550/",
+        "subjectId": "1263550",
+        "edition": "第十三种人格的恐怖 2003",
+        "fetchedAt": "2026-09-20T16:12:49.060Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢超心理题材与人格议题的读者",
+        "能接受恐怖氛围的读者"
+      ],
+      "watchFor": [
+        "各个人格的特征与记忆范围",
+        "记录者的判断是否可靠",
+        "少女周围人的异常举动"
+      ],
+      "warning": "含恐怖与暴力描写，涉及精神病理题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-016",
+    "title": "夏天·烟火·我的尸体",
+    "originalTitle": "夏と花火と私の死体",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "恐怖",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "youth",
+      "countryside"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一个夏天，几个孩子在乡间藏起了一件不能被人发现的事。叙述者以一种特别的立场，看着这几天里发生的一切。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 57515,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34778574/",
+        "subjectId": "34778574",
+        "edition": "夏天、烟火和我的尸体 2019",
+        "fetchedAt": "2026-09-20T16:12:54.273Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇与独特叙述视角的读者",
+        "能接受儿童视角下的黑暗题材的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场与能感知的范围",
+        "孩子们对这件事的理解方式",
+        "夏日祭典的时间节点"
+      ],
+      "warning": "作者出道作，含儿童相关的黑暗题材，笔调却异常平静。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-018",
+    "title": "8的杀戮",
+    "originalTitle": "8の殺人",
+    "author": "我孙子武丸",
+    "authorEn": "Takehiko Abiko",
+    "genre": "本格推理",
+    "firstPublished": "1992",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "locked-space",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "八名男女聚集在一处与外界隔绝的场所，随后接连出现牺牲者。人数在减少，剩下的人必须找出发生在内部的原因。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 103,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11499798/",
+        "subjectId": "11499798",
+        "edition": "8的杀戮 2018",
+        "fetchedAt": "2026-09-20T16:13:01.078Z",
+        "asOf": "2026-09"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间连续事件的读者",
+        "享受古典本格结构的读者"
+      ],
+      "watchFor": [
+        "八个人的身份与相互关系",
+        "场地的出入口与分布",
+        "每次事件发生前后的在场情况"
+      ],
+      "warning": "古典封闭舞台，出场人物较多，建议留意人物表。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-43-authors-misc.json#auth2-014"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "8的杀人"
+    ]
+  },
+  {
+    "id": "jpmas-019",
+    "title": "夜蝉",
+    "originalTitle": "",
+    "author": "北村薰",
+    "authorEn": "Kaoru Kitamura",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "圆紫大师与我系列",
+    "detective": "圆紫大师",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "cozy",
+      "city",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名爱好落语的女大学生，常就身边的小疑问请教一位年长的落语家。几个短篇各自围绕一件生活里的小事展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 733,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37183412/",
+        "subjectId": "37183412",
+        "edition": "夜蝉 2025",
+        "fetchedAt": "2026-09-20T16:13:06.307Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜与怀旧氛围的读者",
+        "对落语等传统艺能有兴趣的读者"
+      ],
+      "watchFor": [
+        "每篇里被忽略的生活细节",
+        "落语家解答时的切入角度",
+        "季节与景物的描写"
+      ],
+      "warning": "短篇集，节奏舒缓，几乎不涉及暴力。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-020",
+    "title": "恐怖的人狼城",
+    "originalTitle": "人狼城の恐怖",
+    "author": "二阶堂黎人",
+    "authorEn": "Reito Nikaido",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "二阶堂兰子系列",
+    "detective": "二阶堂兰子",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座建在欧洲乡间的城郭流传着人狼的传说。来访者进入其中后，城内接连出现难以解释的死亡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1135,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10491582/",
+        "subjectId": "10491582",
+        "edition": "恐怖的人狼城 2012",
+        "fetchedAt": "2026-09-20T16:13:12.115Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢大部头封闭舞台本格的读者",
+        "对传说与诡计结合的题材有兴趣的读者"
+      ],
+      "watchFor": [
+        "城内的房间与通道结构",
+        "人狼传说的文本记载",
+        "各人到达与行动的先后"
+      ],
+      "warning": "篇幅极长，分多卷展开，需要较多阅读时间。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「恐怖的人狼城 人狼的魅惑」／二阶堂黎人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "jpmas-021",
+    "title": "鼠之夜",
+    "originalTitle": "",
+    "author": "连城三纪彦",
+    "authorEn": "Mikihiko Renjo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "passion",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "以男女关系与旧日纠葛为主题的短篇集。每篇从一段看似寻常的相处写起，逐渐露出底下盘错的执念。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 6180,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35058746/",
+        "subjectId": "35058746",
+        "edition": "鼠之夜 2020",
+        "fetchedAt": "2026-09-20T16:13:15.692Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢抒情笔调与心理描写的读者",
+        "能接受阴暗情感题材的读者"
+      ],
+      "watchFor": [
+        "叙述者与对方的关系变化",
+        "反复出现的意象与物件",
+        "每篇结尾处的语气转折"
+      ],
+      "warning": "以情感纠葛与扭曲心理为主题，基调阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2015（馆藏题名「鼠之夜」／连城三纪彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "jpmas-022",
+    "title": "M的悲剧",
+    "originalTitle": "Mの悲劇",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "revenge",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名上班族的生活因一次偶然的相遇而改变。他以为自己掌握了局面，事态却顺着另一条线发展下去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 260,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1046728/",
+        "subjectId": "1046728",
+        "edition": "M的悲剧 2006",
+        "fetchedAt": "2026-09-20T16:13:18.883Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢都市悬疑与人物心理的读者",
+        "偏好剧情反转的读者"
+      ],
+      "watchFor": [
+        "主角对局面的判断依据",
+        "那位女性的言行细节",
+        "时间线中缺失的几天"
+      ],
+      "warning": "以人物心理与关系变化推动，节奏偏慢。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2018（M的悲剧／(日) 夏树静子著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "jpmas-023",
+    "title": "11张扑克牌",
+    "originalTitle": "",
+    "author": "泡坂妻夫",
+    "authorEn": "Tsutomu Manzaki",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "亚爱一郎系列",
+    "detective": "亚爱一郎",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "vanished-weapon",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位外貌出众却总在关键时刻失手的摄影师，接连遇上几桩蹊跷事件。短篇集，每篇都围绕一个具体的小机关展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 240,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6780929/",
+        "subjectId": "6780929",
+        "edition": "11張撲克牌 2011",
+        "fetchedAt": "2026-09-20T16:16:12.233Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇机巧型本格的读者",
+        "享受轻松笔调与精巧诡计的读者"
+      ],
+      "watchFor": [
+        "每篇中被当作道具的小物件",
+        "主角失手的原因",
+        "物理与视觉上的细节"
+      ],
+      "warning": "短篇集，风格轻快，以诡计的巧妙为看点。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-024",
+    "title": "99%诱拐",
+    "originalTitle": "99%の誘拐",
+    "author": "冈嶋二人",
+    "authorEn": "Futari Okajima",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1988",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "timetable",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名少年被带走，对方提出了以计算机程序为条件的交换要求。为了在时限内完成条件，相关人员必须读懂对方留下的规则。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 8090,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35217275/",
+        "subjectId": "35217275",
+        "edition": "99%诱拐 2020",
+        "fetchedAt": "2026-09-20T16:13:26.321Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢高科技犯罪与程序题材的读者",
+        "对八十年代计算机背景有兴趣的读者"
+      ],
+      "watchFor": [
+        "交换条件的措辞与漏洞",
+        "程序运行所需的时间",
+        "时限设定本身的目的"
+      ],
+      "warning": "成书于八十年代，计算机描写带有当时的技术背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-025",
+    "title": "巧克力游戏",
+    "originalTitle": "チョコレートゲーム",
+    "author": "冈嶋二人",
+    "authorEn": "Futari Okajima",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1986",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "revenge",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "几个人被卷入一场按照既定规则进行的较量。参与者以为自己在按计划行事，实际上规则的设计另有目的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 589,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5283631/",
+        "subjectId": "5283631",
+        "edition": "巧克力遊戲 2010",
+        "fetchedAt": "2026-09-20T16:16:15.932Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢智力对抗与布局题材的读者",
+        "享受八十年代都市氛围的读者"
+      ],
+      "watchFor": [
+        "规则是谁制定的、何时告知",
+        "参与者各自掌握的信息量",
+        "看似偶然的相遇"
+      ],
+      "warning": "以布局与反布局为核心，人物动机在中后段才明朗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-026",
+    "title": "人偶为何被杀",
+    "originalTitle": "人形はなぜ殺される",
+    "author": "高木彬光",
+    "authorEn": "Akitaro Takagi",
+    "genre": "本格推理",
+    "firstPublished": "1955",
+    "series": "神津恭介系列",
+    "detective": "神津恭介",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "浅草的人偶师身边接连出现怪事。一名在战后再未接过案子的天才侦探，被请来参与调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1381,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26422109/",
+        "subjectId": "26422109",
+        "edition": "人偶为何被杀 2015",
+        "fetchedAt": "2026-09-20T16:13:37.294Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢昭和本格与名侦探系列的读者",
+        "对战后日本市井风貌有兴趣的读者"
+      ],
+      "watchFor": [
+        "人偶的制作与摆放",
+        "现场留下的物理痕迹",
+        "侦探对常识的重新检视"
+      ],
+      "warning": "成书于昭和中期，部分社会背景与当下差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2015.08（人偶为何被杀／(日) 高木彬光著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "jpmas-027",
+    "title": "紫丁香庄园",
+    "originalTitle": "",
+    "author": "鲇川哲也",
+    "authorEn": "Tetsuya Ayukawa",
+    "genre": "本格推理",
+    "firstPublished": "1956",
+    "series": "星影龙三系列",
+    "detective": "星影龙三",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "alibi",
+      "timetable",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一群人在山中的庄舍相聚，随后接连有人身亡。现场留下的时间线索互相冲突，侦探开始重新核对每个人的行动。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 3074,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10549916/",
+        "subjectId": "10549916",
+        "edition": "紫丁香庄园 2012",
+        "fetchedAt": "2026-09-20T16:13:41.083Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典不在场证明题材的读者",
+        "享受时刻表式严密推演的读者"
+      ],
+      "watchFor": [
+        "各人陈述的时间点",
+        "庄舍周边交通的班次",
+        "证词中被忽略的一句"
+      ],
+      "warning": "成书于昭和中期，以时刻与不在场证明的严密推演为核心。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-028",
+    "title": "赤的组曲",
+    "originalTitle": "",
+    "author": "土屋隆夫",
+    "authorEn": "Takao Tsuchiya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "千草检察官系列",
+    "detective": "千草泰辅",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "alibi",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名检察官接手了一桩看似单纯的案件。随着物证被逐一检视，他注意到其中几处无法自然解释的巧合。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 544,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11533541/",
+        "subjectId": "11533541",
+        "edition": "赤的组曲 2013",
+        "fetchedAt": "2026-09-20T16:13:44.509Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢检察官视角与物证推理的读者",
+        "偏好扎实调查过程的读者"
+      ],
+      "watchFor": [
+        "物证的检验结论",
+        "相关人员的证词细节",
+        "检方与警方判断的分歧"
+      ],
+      "warning": "以物证与调查程序推进，节奏沉稳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-029",
+    "title": "两分铜币",
+    "originalTitle": "二銭銅貨",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "本格推理",
+    "firstPublished": "1923",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，收录作者早期的若干作品。故事多从一件不起眼的物品或一段传闻开始，逐步导向出人意料的结论。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 5897,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6001119/",
+        "subjectId": "6001119",
+        "edition": "两分铜币 2011",
+        "fetchedAt": "2026-09-20T16:13:48.112Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想了解日本推理源流的读者",
+        "喜欢短篇与暗号解谜的读者"
+      ],
+      "watchFor": [
+        "每篇开头的引子",
+        "被反复端详的那件物品",
+        "叙述者掌握信息的范围"
+      ],
+      "warning": "大正末期的作品，语言风格与当代作品差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmas-031",
+    "title": "照柿",
+    "originalTitle": "",
+    "author": "高村薰",
+    "authorEn": "Kaoru Takamura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "psychological-misdirection",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一名刑警在追查案件的过程中，与周围的同僚、家人和调查对象都产生了摩擦。他的执拗既推动了调查，也带来了代价。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 30,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24294871/",
+        "subjectId": "24294871",
+        "edition": "照柿 2013",
+        "fetchedAt": "2026-09-20T16:13:56.954Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢硬派刑警与社会派写实的读者",
+        "能接受厚重叙事的读者"
+      ],
+      "watchFor": [
+        "刑警与周围人的关系变化",
+        "调查中的程序性障碍",
+        "反复出现的季节与景物描写"
+      ],
+      "warning": "篇幅厚重，以人物关系与社会写实为主，推理推进较慢。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-19-jp-masters.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

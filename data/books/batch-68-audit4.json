@@ -1,0 +1,170 @@
+[
+  {
+    "id": "westaudit68-001",
+    "title": "空盒疑案·怪钟谜案",
+    "originalTitle": "",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "梅森探案系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "cipher",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "梅森律师的两桩案子：一位太太在地窖发现一个没开封却是空的罐头盒，当夜她听到枪声，两名房客随后失踪；另一桩里，山上小木屋外埋着一只仍在走的钟。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 20,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1146391/",
+        "subjectId": "1146391",
+        "edition": "空盒疑案·怪钟谜案 2002",
+        "fetchedAt": "2026-09-22T14:46:51.068Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "梅森探案系列的读者"
+      ],
+      "watchFor": [
+        "空盒盖背面的刻痕",
+        "那只钟为什么还在走",
+        "梅森与警方判断分歧的地方"
+      ],
+      "warning": "法庭推理合卷，含两桩案件与凶案描写；豆瓣条目未给出原作名，故 originalTitle 留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2002 年版），梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 2002（馆藏题名「空盒疑案 怪钟谜案」／加德纳）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-68-audit4.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "jpaudit68-001",
+    "title": "破戒裁判",
+    "originalTitle": "破戒裁判",
+    "author": "高木彬光",
+    "authorEn": "Takagi Akimitsu",
+    "genre": "社会派",
+    "firstPublished": "1961",
+    "series": "非系列",
+    "detective": "辩护律师百谷泉一郎",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "red-herring",
+      "concealment",
+      "identity",
+      "ensemble"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一九六一年的法庭推理长篇。辩护律师要为一名被告翻案，而他要面对的不只是证据，还有缠在这桩案子上的偏见与来路。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 339,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1992457/",
+        "subjectId": "1992457",
+        "edition": "破戒裁判 1981",
+        "fetchedAt": "2026-09-22T14:46:55.807Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法庭推理读者",
+        "高木彬光的读者"
+      ],
+      "watchFor": [
+        "控方证据链上最弱的一环",
+        "证人的身份与来历",
+        "书名借用的那部名著指的是什么"
+      ],
+      "warning": "法庭推理长篇，涉及对特定群体的歧视议题，含凶案与庭审描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、原作名与首版年取自豆瓣条目（1961 年发表，1981 年中文版），梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 1981（馆藏题名「破戒裁判」／高木彬光）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-68-audit4.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1981"
+  }
+]

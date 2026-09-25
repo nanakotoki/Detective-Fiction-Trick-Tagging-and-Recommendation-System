@@ -1,0 +1,170 @@
+[
+  {
+    "id": "cnaudit81-001",
+    "title": "傀儡村事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "陈爝系列",
+    "detective": "陈爝、韩晋",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "red-herring",
+      "multiple-solutions",
+      "honkaku",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "以制作傀儡闻名的弇山村，一夜之间全村数百名居民悄无声息地集体消失，没有暴力痕迹，也没留下任何理由。多年后，一行人来到这个被视为禁忌的地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 1486,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30261633/",
+        "subjectId": "30261633",
+        "edition": "傀儡村事件 2018",
+        "fetchedAt": "2026-09-23T06:35:02.559Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典本格的读者",
+        "时晨与陈爝系列的读者"
+      ],
+      "watchFor": [
+        "村里留下的痕迹",
+        "傀儡这门手艺的细节",
+        "同行各人各自的来意"
+      ],
+      "warning": "本格推理长篇，以废弃村落为舞台，含怪谈氛围与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000658573，新星出版社 2018 年版，ISBN 978-7-5133-3161-6，丛编「午夜文库·原创系列」「时晨作品 03」）；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-81-cn-audit3.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit81-002",
+    "title": "黑曜馆事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "数学家系列",
+    "detective": "陈爝、韩晋",
+    "country": "中国",
+    "tags": [
+      "mansion",
+      "red-herring",
+      "multiple-solutions",
+      "honkaku",
+      "legend-folklore",
+      "psychological-misdirection",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "数学家陈爝与友人韩晋受人之托，到上海郊区一栋叫「黑曜馆」的房子做客，并参与调查二十年前发生在这里的一起案件。旧案未解，新案又发。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 1534,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26593247/",
+        "subjectId": "26593247",
+        "edition": "黑曜馆事件 2015",
+        "fetchedAt": "2026-09-23T06:35:08.401Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典本格的读者",
+        "时晨与陈爝系列的读者"
+      ],
+      "watchFor": [
+        "二十年前那桩旧案的记录",
+        "馆里那本与旧案相关的童话",
+        "陈爝推理时先确立的前提"
+      ],
+      "warning": "本格推理长篇，含旧案、童话与凶案描写。本书为陈爝系列较早的一部，与《枉死城事件》同系列，阅读顺序可依出版年。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000303454，长江出版社 2015 年 8 月版，ISBN 978-7-5492-3561-2，丛编「数学家系列」）；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-81-cn-audit3.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

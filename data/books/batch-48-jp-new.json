@@ -1,0 +1,671 @@
+[
+  {
+    "id": "jpadd-001",
+    "title": "双月城的惨剧",
+    "originalTitle": "双月城の惨劇",
+    "author": "加贺美雅之",
+    "authorEn": "Kagami Masayuki",
+    "genre": "本格推理",
+    "firstPublished": "2002",
+    "series": "",
+    "detective": "帕特里克·史密斯",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座建在德国山间的双塔城堡里，主人邀请客人前来，随后城堡与外界的通路被切断。两座塔里各有一间从内侧锁死的房间，而里面都出现了尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 4158,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36446877/",
+        "subjectId": "36446877",
+        "edition": "双月城的惨剧 2023",
+        "fetchedAt": "2026-09-22T11:23:58.146Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "喜欢欧式城堡封闭舞台的读者"
+      ],
+      "watchFor": [
+        "两座塔的构造差异",
+        "城堡被封锁的具体方式",
+        "各人当夜的位置关系"
+      ],
+      "warning": "本格长篇，两起密室谜面，含血腥场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中国友谊出版公司:,2023（双月城的惨剧／(日) 加贺美雅之著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "jpadd-002",
+    "title": "烟、土或食物",
+    "originalTitle": "煙か土か食い物",
+    "author": "舞城王太郎",
+    "authorEn": "Maijo Otaro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2001",
+    "series": "阿春系列",
+    "detective": "阿春",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "revenge",
+      "dark-atmosphere",
+      "city",
+      "concealment",
+      "ensemble",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "一个男人回到多年没回过的家乡，因为他的女友在这里被人害死了。他打算自己把这件事了结，而家乡的人对他的归来各有各的反应。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 454,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2055817/",
+        "subjectId": "2055817",
+        "edition": "煙、土或食物 2006",
+        "fetchedAt": "2026-09-22T11:24:01.639Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "能接受狂躁文体的读者",
+        "舞城王太郎的读者"
+      ],
+      "watchFor": [
+        "叙述者讲述时的语速与重复",
+        "家乡人对这件事的说法",
+        "他记忆里的空白"
+      ],
+      "warning": "文体极端、节奏狂躁，含大量暴力描写，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpadd-003",
+    "title": "迪斯科侦探星期三",
+    "originalTitle": "ディスコ探偵水曜日",
+    "author": "舞城王太郎",
+    "authorEn": "Maijo Otaro",
+    "genre": "变格",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "迪斯科星期三",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "meta-fiction",
+      "ensemble",
+      "dark-atmosphere",
+      "unreliable-narrator",
+      "identity"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位名叫「星期三」的侦探接手一桩家族失踪案，而查案过程中出现的人与事越来越不遵守常理。作者把推理的框架留下来，把里面填的东西全部换掉了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 495,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10739303/",
+        "subjectId": "10739303",
+        "edition": "迪斯科侦探星期三（上、下） 2012",
+        "fetchedAt": "2026-09-22T11:24:05.196Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "能接受超长与超现实叙事的读者",
+        "舞城王太郎的读者"
+      ],
+      "watchFor": [
+        "侦探接下委托时的条件",
+        "家族成员的失踪顺序",
+        "哪些设定被作者刻意不解释"
+      ],
+      "warning": "超长篇，超现实与暴力内容密集，阅读门槛很高。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「迪斯科侦探星期三」／舞城王太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "jpadd-004",
+    "title": "废墟中的少女侦探",
+    "originalTitle": "廃墟√少女探偵",
+    "author": "相泽沙呼",
+    "authorEn": "Aizawa Sahoro",
+    "genre": "日常之谜",
+    "firstPublished": "2012",
+    "series": "废墟中的少女侦探系列",
+    "detective": "少女侦探与「我」",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "youth",
+      "series-detective",
+      "honkaku",
+      "campus"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "一个不起眼的男生被同班的少女拉进她自封的「侦探社」，从此每天放学后都要陪着解一些别人根本不会当回事的小疑问。而她每次给出的答案，都比问题本身大得多。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 1048,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27100485/",
+        "subjectId": "27100485",
+        "edition": "废墟中的少女侦探 2017",
+        "fetchedAt": "2026-09-22T11:24:08.695Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜与校园题材的读者",
+        "偏好低暴力、重推演的读者"
+      ],
+      "watchFor": [
+        "少女侦探提出的那个「为什么」",
+        "旁人觉得无所谓的细节",
+        "叙述者对她的观察"
+      ],
+      "warning": "日常推理短篇连作，无凶案，节奏轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2017（废墟中的少女侦探／(日)相泽沙呼著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "jpadd-005",
+    "title": "废墟中的少女侦探2",
+    "originalTitle": "廃墟√少女探偵2",
+    "author": "相泽沙呼",
+    "authorEn": "Aizawa Sahoro",
+    "genre": "日常之谜",
+    "firstPublished": "2013",
+    "series": "废墟中的少女侦探系列",
+    "detective": "少女侦探与「我」",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "youth",
+      "series-detective",
+      "honkaku",
+      "campus"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "续作，仍是两人放学后的推演。这一次有些问题的答案落到了他们自己身上，叙述者开始意识到：少女侦探之所以总能看穿别人，是因为她也站在同样的一种处境里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 541,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34451081/",
+        "subjectId": "34451081",
+        "edition": "废墟中的少女侦探2 2019",
+        "fetchedAt": "2026-09-22T11:24:13.975Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过第一部的读者",
+        "喜欢日常之谜的读者"
+      ],
+      "watchFor": [
+        "少女侦探自己的处境",
+        "叙述者观察她的角度变化",
+        "几篇之间的人物呼应"
+      ],
+      "warning": "日常推理短篇连作，建议先读第一部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2019（馆藏题名「废墟中的少女侦探 2」／相泽沙呼）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "jpadd-006",
+    "title": "玻璃塔杀人事件",
+    "originalTitle": "ガラスの塔の殺人",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "",
+    "detective": "无固定侦探（在场者视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "locked-room",
+      "ensemble",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一群人聚集在一座通体玻璃的塔里，为的是一场事先约好的聚会。塔的入口被封之后，其中一人被发现死在房中，而在场者都清楚：凶手只可能是他们中的一个。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像推理的读者",
+        "知念实希人的读者"
+      ],
+      "watchFor": [
+        "聚集在此的每个人都有什么目的",
+        "塔的结构与出入口",
+        "被封锁前后各人的位置"
+      ],
+      "warning": "封闭空间本格，含凶案与血腥场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "玻璃塔谜案"
+    ]
+  },
+  {
+    "id": "jpadd-007",
+    "title": "天久鹰央的推理病历表",
+    "originalTitle": "天久鷹央の推理カルテ",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "本格推理",
+    "firstPublished": "2013",
+    "series": "天久鹰央系列",
+    "detective": "天久鹰央",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "hospital",
+      "red-herring"
+    ],
+    "school": [
+      "forensic-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。一位诊断能力极强的医生接连遇到被当成怪事、灵异甚至犯罪的现象，而她处理的办法是先把它们当成疾病来排查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 207,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26634706/",
+        "subjectId": "26634706",
+        "edition": "天久鷹央的推理病歷表 2016",
+        "fetchedAt": "2026-09-22T11:24:22.019Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对医学推理感兴趣的读者",
+        "喜欢短篇解谜的读者"
+      ],
+      "watchFor": [
+        "被当成「怪事」的那个现象",
+        "当事人的用药与既往病史",
+        "医生排除法走的顺序"
+      ],
+      "warning": "医学推理短篇集，各篇独立，含临床与病理解说。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpadd-008",
+    "title": "天久鹰央的推理病历表II",
+    "originalTitle": "天久鷹央の推理カルテII",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "本格推理",
+    "firstPublished": "2014",
+    "series": "天久鹰央系列",
+    "detective": "天久鹰央",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "multiple-solutions",
+      "series-detective",
+      "honkaku",
+      "hospital",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "续作，仍是短篇集。这一批现象更接近犯罪：有人死于看似不可能的方式，而排除了所有疾病之后，剩下的那个解释指向了人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 103,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26809457/",
+        "subjectId": "26809457",
+        "edition": "天久鷹央的推理病歷表II 2016",
+        "fetchedAt": "2026-09-22T11:24:26.950Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "天久鹰央系列的读者",
+        "对医学推理感兴趣的读者"
+      ],
+      "watchFor": [
+        "哪些症状无法用疾病解释",
+        "死者生前的就诊记录",
+        "谁最了解他的身体状况"
+      ],
+      "warning": "医学推理短篇集，各篇独立，含死亡与临床描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-48-jp-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

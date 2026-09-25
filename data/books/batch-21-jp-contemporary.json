@@ -1,0 +1,894 @@
+[
+  {
+    "id": "jpmod-001",
+    "title": "猫知道",
+    "originalTitle": "猫は知っていた",
+    "author": "仁木悦子",
+    "authorEn": "Etsuko Niki",
+    "genre": "本格推理",
+    "firstPublished": "1957",
+    "series": "仁木兄妹系列",
+    "detective": "仁木雄太郎、仁木悦子",
+    "country": "日本",
+    "tags": [
+      "locked-space",
+      "red-herring",
+      "multiple-solutions",
+      "countryside",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一对兄妹搬到郊外租房养病，与房东一家同住。邻家接连出现意外，兄妹俩从日常生活里的细小异样入手观察。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 1198,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3096857/",
+        "subjectId": "3096857",
+        "edition": "猫知道 1980",
+        "fetchedAt": "2026-09-20T16:50:44.091Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家庭舞台与日常观察式推理的读者",
+        "想了解战后日本本格复兴的读者"
+      ],
+      "watchFor": [
+        "家中成员的作息与出入",
+        "猫在院中的行动路线",
+        "兄妹俩各自注意到的事"
+      ],
+      "warning": "战后初期的作品，生活场景与当代差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 1980（馆藏题名「猫知道」／仁木悦子）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1980"
+  },
+  {
+    "id": "jpmod-002",
+    "title": "青春的证明",
+    "originalTitle": "青春の証明",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "1977",
+    "series": "证明三部曲",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "psychological-misdirection",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几名年轻人在同一时期相遇又各自散去。多年后，一桩案件让当年的关系重新浮出水面，牵扯出各自不愿提起的往事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 1788,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1207339/",
+        "subjectId": "1207339",
+        "edition": "青春的证明 2002",
+        "fetchedAt": "2026-09-20T16:50:50.389Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派与跨年代叙事的读者",
+        "对经济高速增长期的社会背景有兴趣的读者"
+      ],
+      "watchFor": [
+        "各人当年的处境与选择",
+        "时间跨度中人物关系的变化",
+        "案件与旧事的连接点"
+      ],
+      "warning": "昭和后期的作品，涉及社会议题，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-003",
+    "title": "白昼的死角",
+    "originalTitle": "白昼の死角",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "1978",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "red-herring",
+      "city",
+      "gain"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名在商界迅速崛起的男子，其发迹过程引来调查者的注意。随着旧关系被逐一翻出，光鲜履历下露出另一副样子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 1293,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26742634/",
+        "subjectId": "26742634",
+        "edition": "白昼的死角 2016",
+        "fetchedAt": "2026-09-20T16:50:53.740Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢经济犯罪与社会派题材的读者",
+        "对组织内部运作有兴趣的读者"
+      ],
+      "watchFor": [
+        "资金与合约的流转路径",
+        "当事人早年的经历",
+        "调查者获得信息的渠道"
+      ],
+      "warning": "涉及商业与金融背景，人物众多，建议留意关系图。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-004",
+    "title": "华丽的丑闻",
+    "originalTitle": "",
+    "author": "佐野洋",
+    "authorEn": "Hiroshi Sano",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "social-commentary",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩牵涉名流的丑闻被媒体披露，相关各方随即各自动作。追查此事的记者发现，被摆到台面上的说法未必是事情的全貌。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 77,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3538314/",
+        "subjectId": "3538314",
+        "edition": "華麗的醜聞 1991",
+        "fetchedAt": "2026-09-20T16:50:56.952Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢媒体与丑闻题材的读者",
+        "对昭和后期社会面貌有兴趣的读者"
+      ],
+      "watchFor": [
+        "各方对外口径的差异",
+        "记者获得的材料来源",
+        "谁在推动报道的方向"
+      ],
+      "warning": "昭和后期作品，涉及媒体伦理与隐私议题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-005",
+    "title": "罪之法则",
+    "originalTitle": "",
+    "author": "芦泽央",
+    "authorEn": "Hisao Ashizawa",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "revenge",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "一名少年在多年前的事件中失去了家人。长大之后，他以自己的方式接近当年相关的人，并逐步收紧围绕他们的安排。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 211,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3402876/",
+        "subjectId": "3402876",
+        "edition": "罪之法则 2009",
+        "fetchedAt": "2026-09-20T16:51:01.660Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢复仇题材与冷峻笔调的读者",
+        "能接受阴暗叙事的读者"
+      ],
+      "watchFor": [
+        "主角接近各人的方式",
+        "他掌握的信息从何而来",
+        "叙述中对某些事的省略"
+      ],
+      "warning": "涉及少年犯罪与复仇，基调阴暗，含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-006",
+    "title": "密室推理游戏",
+    "originalTitle": "密室殺人ゲーム王手飛車取り",
+    "author": "歌野晶午",
+    "authorEn": "Sho Inoue",
+    "genre": "本格推理",
+    "firstPublished": "2007",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一群人聚在网络论坛上，轮流提出自己设计的密室谜题，供其他人挑战。规则明确：出题者不能透露答案，答题者要指出破绽。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 415,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37444747/",
+        "subjectId": "37444747",
+        "edition": "密室推理游戏 2026",
+        "fetchedAt": "2026-09-20T16:51:05.055Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室诡计与智力对抗的读者",
+        "读过大量本格、想看点结构新奇的读者"
+      ],
+      "watchFor": [
+        "每个谜题给出的条件边界",
+        "出题者与答题者的措辞",
+        "论坛帖子的时间顺序"
+      ],
+      "warning": "结构特殊，含对推理文体的自我指涉，建议读过一定数量密室作品后再读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2026（馆藏题名「密室推理游戏 [3] 狂热粉」／歌野晶午）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "jpmod-007",
+    "title": "武士道十六岁",
+    "originalTitle": "武士道シックスティーン",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "青春推理",
+    "firstPublished": "2003",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "first-person",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school"
+    ],
+    "safeSummary": "两名性格截然相反的高中女生，因为剑道在同一间道场相遇。一个从小按部就班地练，一个凭本能闯进来，两人互相看不顺眼。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 38,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25781019/",
+        "subjectId": "25781019",
+        "edition": "武士道十六歲 2013",
+        "fetchedAt": "2026-09-20T16:51:14.783Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢青春成长题材的读者",
+        "对社团与竞技描写有兴趣的读者"
+      ],
+      "watchFor": [
+        "两人对同一场比赛的感受",
+        "各自家庭对练剑的态度",
+        "她们互相观察到的细节"
+      ],
+      "warning": "青春成长小说，不含案件与诡计，与作者的刑侦系列风格不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-008",
+    "title": "花之寺杀人事件",
+    "originalTitle": "",
+    "author": "山村美纱",
+    "authorEn": "Misa Yamamura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "timetable",
+      "red-herring",
+      "historical-setting",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "police-procedural"
+    ],
+    "safeSummary": "以京都的寺院与花季为舞台。观光客往来的热闹场所里出了事，调查者必须把各人的行程与花开的时间一并算进去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 101,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2245256/",
+        "subjectId": "2245256",
+        "edition": "花之寺殺人事件 2007",
+        "fetchedAt": "2026-09-20T16:51:19.399Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旅情推理与京都舞台的读者",
+        "享受不在场证明推演的读者"
+      ],
+      "watchFor": [
+        "各人的移动路线与交通班次",
+        "寺院的开闭时间",
+        "花季带来的客流变化"
+      ],
+      "warning": "以京都观光地为舞台，含大量地名与交通细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-009",
+    "title": "三毛猫推理",
+    "originalTitle": "三毛猫ホームズの推理",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "日常之谜",
+    "firstPublished": "1978",
+    "series": "三毛猫福尔摩斯系列",
+    "detective": "片山义太郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "cozy",
+      "city",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名胆小却又放不下心的刑警，与一只被寄养在他家的三毛猫同住。奇怪的是，这只猫总能在关键处给出提示。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 69,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1478124/",
+        "subjectId": "1478124",
+        "edition": "三毛貓推理 三毛貓福爾摩斯系列 2005",
+        "fetchedAt": "2026-09-20T16:52:56.557Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻松笔调与系列人物的读者",
+        "想找节奏明快的入门读物的读者"
+      ],
+      "watchFor": [
+        "猫对谁格外亲近",
+        "刑警兄妹的相处方式",
+        "每起事件中重复出现的小道具"
+      ],
+      "warning": "轻喜剧风格的系列推理，暴力描写很少。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-010",
+    "title": "越前竹偶",
+    "originalTitle": "越前竹人形",
+    "author": "水上勉",
+    "authorEn": "Tsutomu Minakami",
+    "genre": "社会派",
+    "firstPublished": "1963",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "countryside",
+      "obsession",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "以越前的竹工艺村落为舞台。一名手艺出众却身有残疾的匠人，与一位被命运推到他身边的女子，在村中过着旁人议论的日子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 125,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30133217/",
+        "subjectId": "30133217",
+        "edition": "越前竹偶 2018",
+        "fetchedAt": "2026-09-20T16:51:28.250Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派与地方风土描写的读者",
+        "对匠人题材有兴趣的读者"
+      ],
+      "watchFor": [
+        "村中人对两人的态度",
+        "竹工艺的工序与讲究",
+        "季节变化中的日常细节"
+      ],
+      "warning": "纯文学作品，基调沉郁，重在人物处境而非解谜。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod-011",
+    "title": "宵待草夜情",
+    "originalTitle": "宵待草夜情",
+    "author": "连城三纪彦",
+    "authorEn": "Mikihiko Renjo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1983",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "passion",
+      "multiple-solutions",
+      "dark-atmosphere",
+      "first-person"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，每篇围绕一段看似平常的情感关系展开。叙述者往往在最后才让人意识到，自己一直读错了某个人的立场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 5888,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26367367/",
+        "subjectId": "26367367",
+        "edition": "宵待草夜情 2015",
+        "fetchedAt": "2026-09-20T16:51:32.963Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢抒情笔调与结尾反转的读者",
+        "对情感题材推理有兴趣的读者"
+      ],
+      "watchFor": [
+        "叙述者与对方的关系定位",
+        "反复出现的花与季节",
+        "每篇最后一段的语气变化"
+      ],
+      "warning": "以情感纠葛为主题，基调阴郁，含扭曲关系描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-21-jp-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

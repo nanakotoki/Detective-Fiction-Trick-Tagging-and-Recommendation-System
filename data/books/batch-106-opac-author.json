@@ -1,0 +1,236 @@
+[
+  {
+    "id": "opac106-001",
+    "title": "失踪假日",
+    "originalTitle": "",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "psychological-misdirection",
+      "fear",
+      "curiosity"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "收录《幸福宝贝》《玛莉亚的手指》《失踪假日》三部作品。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "短篇怪奇悬疑的爱好者"
+      ],
+      "watchFor": [
+        "三篇各自的叙述视角",
+        "《玛莉亚的手指》那一篇的细节",
+        "标题作的失踪经过"
+      ],
+      "warning": "悬疑短篇集（三篇），怪奇色彩浓，含失踪、死亡与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001044736**（浙江人民出版社 2024.08，译者张秀强等；译稿由皇冠出版社（香港）授权）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**列出收录的三部作品。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 `HTTP 403 登录跳转页`，本条书目、判据与梗概依据**全部来自馆藏著录**，评分待访问恢复后回填。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-106-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "opac106-002",
+    "title": "女佣异闻：乙一出道25周年纪念短篇集",
+    "originalTitle": "",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "气氛侦探阿松",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "narrative-trick",
+      "red-herring",
+      "curiosity",
+      "fear"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录《于是我变成了熊》《气氛侦探阿松：返场》《女佣异闻》《胶卷》《我想为悠川拍照》五篇，是乙一出道二十五周年的纪念短篇集。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "短篇连作的爱好者"
+      ],
+      "watchFor": [
+        "《气氛侦探阿松》这一篇的设定",
+        "《胶卷》里的影像",
+        "五篇之间的呼应"
+      ],
+      "warning": "悬疑短篇集（五篇），怪奇色彩浓，含死亡与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000997262**（文汇出版社 2024，译者潘郁灵；**丛编项「读客悬疑文库;158」**）。**推理属性判据**：①**学科主题「推理小说-小说集-日本-现代」**；②丛编项为悬疑专门书系；③该馆**编目提要**列出收录的五篇篇名，其中一篇的主角即「**气氛侦探**阿松」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-106-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "opac106-003",
+    "title": "白井",
+    "originalTitle": "",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "铃木、山村、间宫",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "red-herring",
+      "multiple-solutions",
+      "fear",
+      "curiosity"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "由一个乡野怪谈引发的一连串离奇悬案。铃木、山村、间宫三人在调查事件真相时听闻了一则怪谈，而这似乎正是悬案发生的原因。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "乡野怪谈题材的爱好者"
+      ],
+      "watchFor": [
+        "那则怪谈的内容",
+        "三名调查者各自掌握的部分",
+        "几桩悬案之间的共同点"
+      ],
+      "warning": "悬疑长篇，乡野怪谈氛围，含悬案、死亡与牺牲描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000923528**（花城出版社 2022.4，译者吴春燕）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「由一个乡野怪谈引发的一连串的离奇**悬案**……铃木、山村、间宫在**调查事件真相**」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-106-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  }
+]

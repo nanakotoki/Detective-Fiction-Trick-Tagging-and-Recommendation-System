@@ -1,0 +1,534 @@
+[
+  {
+    "id": "christie109-001",
+    "title": "悬崖上的谋杀",
+    "originalTitle": "Why Didn't They Ask Evans?",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "非系列",
+    "detective": "博比·琼斯、弗朗西丝",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "adventure",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
+    "safeSummary": "海雾里有人从悬崖上跌落，碰巧在场的退役军人博比被卷进这件事。他怀疑这不是意外，便与儿时好友弗兰基结成搭档自行查访，随后自己也招来了追杀。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢双人搭档自行查案的读者"
+      ],
+      "watchFor": [
+        "死者咽气前说的那句话",
+        "死者随身的物品与身份",
+        "博比被追杀前后接触到的人"
+      ],
+      "warning": "本格推理长篇，含坠崖命案与追杀情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**两条著录：人民文学出版社 2010（ISBN 978-7-02-008180-6，丛编项「畅销文库.阿加莎·克里斯蒂侦探推理系列」）与新星出版社 2019（ISBN 978-7-5133-3547-8，丛编项「午夜文库.大师系列；阿加莎·克里斯蒂侦探作品集.其他系列及非系列作品」），本库引新星版。**推理属性判据**：①两条著录的**题名主题（学科主题词）分别为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项一为「阿加莎·克里斯蒂**侦探推理**系列」、一为**推理专门书系「午夜文库」**；③馆藏提要文摘写明「本书是作者的一部**探案推理小说**……最终查出『悬崖惨案』的凶手」。**原作年**：1934 年，取自克里斯蒂作品年表（标准书目），编目源只给中译版本年，故 `editionYear` 记 2019。**同书异译核查**：已比对库内 61 部克里斯蒂作品，本书无重复条目。梗概由整理者据馆藏提要文摘自行重写，舍弃了其中点明凶手身份的部分。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "christie109-002",
+    "title": "魔手",
+    "originalTitle": "The Moving Finger",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1942",
+    "series": "马普尔小姐系列",
+    "detective": "简·马普尔",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "伯顿兄妹搬到一个平静的乡村小镇疗养，刚安顿下来就收到一封充满恶意的匿名信。随后他们发现，镇上居民陆陆续续都收到了内容各异的匿名信，事态终于演变成一场命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马普尔小姐系列的读者",
+        "喜欢乡村小镇封闭人际圈的读者"
+      ],
+      "watchFor": [
+        "几封匿名信写法的异同",
+        "收信人各自的反应",
+        "镇上外来者的来历"
+      ],
+      "warning": "本格推理长篇，含匿名信骚扰与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录：人民文学出版社 2007（ISBN 978-7-02-006391-8，丛编项「阿加莎·克里斯蒂侦探推理系列；99畅销文库」）与新星出版社 2023／2023.04（ISBN 978-7-5133-3841-7，丛编项「午夜文库.大师系列；阿加莎·克里斯蒂作品.**马普尔小姐系列**」），本库引新星版。**推理属性判据**：①新星两条著录的**题名主题（学科主题词）为「侦探小说 英国 现代」**，人民文学那条亦有「侦探小说 英国 现代」，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**；③馆藏提要文摘写明谜面为接连寄达的匿名信「终于演变成一场**命案**」。**原作年**：1942 年，取自克里斯蒂作品年表；`editionYear` 记 2023（新星版）。**同书异译核查**：库内 61 部克里斯蒂作品中无本书重复条目。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "christie109-003",
+    "title": "三只瞎老鼠",
+    "originalTitle": "Three Blind Mice and Other Stories",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "snowfield",
+      "countryside",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇合集，以同名中篇领衔：暴雪封住了乡间旅店通往外界的路，一批素不相识的住客被困在此，随后有人遇害，凶手就在住客之中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "暴风雪山庄模式的爱好者",
+        "想读克里斯蒂中短篇的读者"
+      ],
+      "watchFor": [
+        "旅店里各人的身份与来历",
+        "暴雪封锁前后进出旅店的人",
+        "住客们彼此试探时的措辞"
+      ],
+      "warning": "推理中短篇合集，封闭舞台连续案件，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（新星出版社 2019，ISBN 978-7-5133-3234-7，索书号 I561.45/K29-56，丛编项「午夜文库.大师系列；阿加莎·克里斯蒂作品.其他系列及非系列作品」）。**推理属性判据（本条判据弱于同批其他条目，如实写明）**：①该馆著录的**题名主题只有「短篇小说 小说集 英国 现代」，并未出现「推理小说／侦探小说」**，因此**不能**以学科主题直证；②改以**丛编项**为据——该书被编入**推理专门书系「午夜文库」**，且丛书位是出版方自设的「阿加莎·克里斯蒂**侦探**作品集」，属判据层级第⑤类（推理专门书系）叠加作者身份；③作者阿加莎·克里斯蒂为推理作家，库内已收其 61 部。**原作年**：1950 年，取自克里斯蒂作品年表；`editionYear` 记 2019。梗概由整理者撰写，只交代封闭舞台与案件发生，不涉及任何解答。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "christie109-004",
+    "title": "顺水推舟",
+    "originalTitle": "Taken at the Flood",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1948",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "gain",
+      "identity",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "戈登·克洛德死于伦敦的一场空袭，庞大家产落到年轻妻子罗萨琳手里，一向依靠戈登生活的克洛德家族顿时人心浮动。就在这时，村里来了一个自称是罗萨琳前夫的男人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "波洛系列的读者",
+        "喜欢遗产纠纷型谜案的读者"
+      ],
+      "watchFor": [
+        "遗产继承的顺位与条件",
+        "自称归来者的身份凭据",
+        "克洛德家族各房的态度"
+      ],
+      "warning": "本格推理长篇，含命案与遗产争夺描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（新星出版社 2018／2022.07／2022，ISBN 978-7-5133-3217-0 与 978-7-5133-3817-2），丛编项为「午夜文库.大师系列；阿加莎·克里斯蒂作品.**赫尔克里·波洛系列**」。**推理属性判据**：①2022 两条著录的**题名主题（学科主题词）为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**，且书目归入波洛系列；③馆藏提要文摘写明谜面为「接二连三的谋杀」与遗产争夺。**原作年**：1948 年，取自克里斯蒂作品年表；`editionYear` 记 2018（本库所引较早的新星版）。**同书异译核查**：库内无本书重复条目。梗概由整理者据馆藏提要文摘自行重写，只写到自称归来者出现为止，不涉及解答。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018",
+    "alternateTitles": [
+      "致命遗产"
+    ]
+  },
+  {
+    "id": "christie109-005",
+    "title": "谋杀启事",
+    "originalTitle": "A Murder Is Announced",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "series": "马普尔小姐系列",
+    "detective": "简·马普尔",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "小镇报纸的广告栏里登出一则启事，预告某日晚间将有一场谋杀在某处宅子里发生。邻居们当作玩笑赴约，灯灭之后，枪声真的响了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马普尔小姐系列的读者",
+        "喜欢「预告式」谜面的读者"
+      ],
+      "watchFor": [
+        "启事的措辞与刊登它的报纸",
+        "那晚到场的人各自的位置",
+        "宅子里诸人的来历与证件"
+      ],
+      "warning": "本格推理长篇，乡村舞台，含枪击与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**六条著录（人民文学出版社 2007，ISBN 978-7-02-006109-9；新星出版社 2014.08／2014／2021／2025，ISBN 978-7-5133-1548-7 等），本库引新星 2014 版，丛编项为「午夜文库.大师系列；阿加莎·克里斯蒂作品.**马普尔小姐系列**」。**推理属性判据**：①人民文学与新星各条著录的**题名主题（学科主题词）均为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**。**原作年**：1950 年，取自克里斯蒂作品年表；`editionYear` 记 2014。**同书异译核查**：库内 61 部克里斯蒂作品中无重复条目。**梗概说明**：该馆该条提要文摘为空，梗概据书名所指的谜面（报纸上的谋杀预告）撰写，只交代设定与开场，不涉及任何解答。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "christie109-006",
+    "title": "他们来到巴格达",
+    "originalTitle": "They Came to Baghdad",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1951",
+    "series": "非系列",
+    "detective": "维多利亚·琼斯",
+    "country": "英国",
+    "tags": [
+      "adventure",
+      "city",
+      "spy-espionage"
+    ],
+    "school": [
+      "adventure-school",
+      "spy-school"
+    ],
+    "safeSummary": "伦敦姑娘维多利亚在公园里邂逅青年爱德华，一见倾心，索性追着他去了巴格达。到了那里她才发现，自己一脚踏进的是远比恋爱凶险的漩涡。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢异国舞台与追逐戏的读者"
+      ],
+      "watchFor": [
+        "维多利亚在巴格达结识的各色人物",
+        "爱德华的真实行踪",
+        "看似无关的偶遇之间的接点"
+      ],
+      "warning": "冒险悬疑长篇，含间谍组织对抗、追逐与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（群众出版社 1981；新星出版社 2015.01，ISBN 978-7-5133-1701-6；新星出版社 2022.10，ISBN 978-7-5133-3844-8），本库引新星 2015 版。**推理属性判据（如实说明其特殊之处）**：①三条著录的**题名主题均为「长篇小说 英国 现代」，不含「推理小说／侦探小说」**；②判据落在**丛编项**上——新星两条把该书编入「**阿加莎·克里斯蒂侦探作品集**；午夜文库.大师系列」，即**推理专门书系加出版方自设的侦探作品集**；③作者为阿加莎·克里斯蒂。**体裁说明**：该书带**间谍战**色彩——馆藏提要文摘明写「最终收获美好的爱情，不料却因此被卷入一场**间谍战**」。用户口径排除的是**纯间谍小说**，而本书是克里斯蒂的冒险悬疑长篇，且库内已收《四魔头》《暗藏杀机》《烟囱的秘密》等同一路数的作品，为保持同一作者内部的收录一致性，本条按「冒险悬疑」收，并在标签中如实标出 `spy-espionage`。**原作年**：1951 年，取自克里斯蒂作品年表；`editionYear` 记 2015。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "christie109-007",
+    "title": "煦阳岭的疑云",
+    "originalTitle": "By the Pricking of My Thumbs",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1968",
+    "series": "汤米与塔彭丝系列",
+    "detective": "汤米、塔彭丝",
+    "country": "英国",
+    "tags": [
+      "hospital",
+      "countryside",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "汤米和塔彭丝去养老院探望年迈的艾达姑妈。老人们对姑妈关于医生的指责不以为意，可「有人在蘑菇汤里下毒」「壁炉后面有东西」这些絮语，渐渐把他们拖进了一桩谜团。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "汤米与塔彭丝系列的读者",
+        "喜欢旧宅与养老院阴郁氛围的读者"
+      ],
+      "watchFor": [
+        "老人们对姑妈指责的反应",
+        "「壁炉后面有东西」这句絮语",
+        "养老院墙上那幅画"
+      ],
+      "warning": "本格推理长篇，含养老院环境、旧案与命案描写，基调偏阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（opac.lib.uibe.edu.cn/opac/book/1e2e7dcb2974e5e0a9a91c0fab5602b4）：(英) 阿加莎·克里斯蒂著、党敏博译，新星出版社 2019，ISBN 978-7-5133-3412-9，索书号 I561.456/K29-37，丛编项「午夜文库.大师系列」。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**；③馆藏提要文摘写明汤米与塔彭丝「逐渐发现他们卷入了令人毛骨悚然的谜团之中，并给自己**招来了杀身之祸**」。**原作年**：1968 年，取自克里斯蒂作品年表；`editionYear` 记 2019。**同书异译核查**：库内无本书重复条目。梗概由整理者据馆藏提要文摘自行重写，保留了其中的两句原文絮语（属谜面而非解答）。"
+    },
+    "provenance": {
+      "source": "batch-109-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "jpaudit74-001",
+    "title": "日本推理名作选·梦野久作（卷一）",
+    "originalTitle": "",
+    "author": "梦野久作",
+    "authorEn": "Yumeno Kyusaku",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "legend-folklore",
+      "obsession",
+      "dark-atmosphere",
+      "diary-form"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "梦野久作作品集第一卷，收十三篇，以成名作《妖鼓》开篇：一具附有诅咒的妖鼓，把制鼓者的后代一步步引入咒怨深处；另有《瓶装地狱》《人脸》等早期代表作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 514,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3390177/",
+        "subjectId": "3390177",
+        "edition": "日本推理名作选·梦野久作（卷一） 2009年3月",
+        "fetchedAt": "2026-09-22T15:41:13.159Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《脑髓地狱》的读者",
+        "能接受变格派文风的读者"
+      ],
+      "watchFor": [
+        "叙述者交代自己时的方式",
+        "每篇里被当成「事实」的那句话",
+        "文档与手记的嵌套层次"
+      ],
+      "warning": "战前变格派短篇集，各篇独立，含精神异常与猎奇描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3390177）；梗概与目录据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 梦野久作 卷一」／梦野久作）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-74-jp-audit9.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpaudit74-002",
+    "title": "日本推理名作选·梦野久作（卷二）",
+    "originalTitle": "",
+    "author": "梦野久作",
+    "authorEn": "Yumeno Kyusaku",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "obsession",
+      "dark-atmosphere",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "梦野久作作品集第二卷，收中期以后的作品六篇，含《少女地狱》《冰涯》等。这一时期的写法已不重严格逻辑，而以真幻相交的叙述揭示人物内心的诡谲与阴暗。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 270,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3783143/",
+        "subjectId": "3783143",
+        "edition": "日本推理名作选·梦野久作（卷二） 2009",
+        "fetchedAt": "2026-09-22T15:41:16.550Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《脑髓地狱》的读者",
+        "能接受变格派文风的读者"
+      ],
+      "watchFor": [
+        "每篇里叙述者留下的空白",
+        "「少女地狱」一篇与同名单行本的关系",
+        "作者中期以后的写法变化"
+      ],
+      "warning": "战前变格派短篇集，各篇独立，含精神异常与猎奇描写。本卷所收《少女地狱》一篇，与本库另收的同名单行本内容有重叠；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3783143）；梗概与目录据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 梦野久作 卷二」／梦野久作）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-74-jp-audit9.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  }
+]

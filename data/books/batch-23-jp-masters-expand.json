@@ -1,0 +1,1926 @@
+[
+  {
+    "id": "jpmx-001",
+    "title": "怪盗二十面相",
+    "originalTitle": "怪盗二十面相",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "冒险悬疑",
+    "firstPublished": "1936",
+    "series": "少年侦探团系列",
+    "detective": "明智小五郎、小林芳雄",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "cipher",
+      "adventure",
+      "series-detective",
+      "youth",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名以变装闻名的怪盗扬言要取走某件藏品。名侦探与少年助手们必须在预告的期限内守住它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 2784,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10760350/",
+        "subjectId": "10760350",
+        "edition": "怪盗二十面相 2012",
+        "fetchedAt": "2026-09-21T03:49:49.438Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪盗与名侦探对抗的读者",
+        "想了解日本少年推理源流的读者"
+      ],
+      "watchFor": [
+        "预告的方式与内容",
+        "身边人的言行细节",
+        "变装能成立的条件"
+      ],
+      "warning": "面向少年的作品，气氛紧张但描写克制。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-002",
+    "title": "黑蜥蜴",
+    "originalTitle": "黒蜥蜴",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "1934",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "obsession",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名被称为「黑蜥蜴」的女子向收藏家发出预告，声称要取走他视为至宝的东西。名侦探受邀介入这场预告与反预告。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 530,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35127760/",
+        "subjectId": "35127760",
+        "edition": "黑蜥蜴 2020",
+        "fetchedAt": "2026-09-21T03:49:55.864Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪奇犯罪与强势反派角色的读者",
+        "对乱步中期作品有兴趣的读者"
+      ],
+      "watchFor": [
+        "预告的措辞与时限",
+        "双方各自的布置",
+        "叙述中对某些场景的回避"
+      ],
+      "warning": "含怪奇与偏执描写，基调阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,民主与建设出版社:,2022.08（黑蜥蜴／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "jpmx-003",
+    "title": "孤岛之鬼",
+    "originalTitle": "孤島の鬼",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "1929",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "dark-atmosphere",
+      "first-person",
+      "psychological-misdirection",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "adventure-school"
+    ],
+    "safeSummary": "叙述者追查恋人死亡的缘由，线索把他引向一座远离本土的岛。岛上居民的状况与外界传闻相去甚远。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 4575,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6967992/",
+        "subjectId": "6967992",
+        "edition": "孤岛之鬼 2011",
+        "fetchedAt": "2026-09-21T03:49:59.317Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢乱步长篇与怪奇冒险的读者",
+        "能接受强烈不适描写的读者"
+      ],
+      "watchFor": [
+        "叙述者获得线索的途径",
+        "岛上地形与建筑分布",
+        "旧记录中前后矛盾之处"
+      ],
+      "warning": "含强烈的怪奇与残酷描写，是乱步作品中口味较重的一本。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,民主与建设出版社:,2022.08（孤岛之鬼／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "jpmx-004",
+    "title": "蜘蛛男",
+    "originalTitle": "蜘蛛男",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Ranpo",
+    "genre": "变格",
+    "firstPublished": "1929",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "dark-atmosphere",
+      "red-herring",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名以「蜘蛛」自居的人物接连制造怪事件，并把自己的行踪当作展示。名侦探在报端与他展开隔空较量。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 2817,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10467108/",
+        "subjectId": "10467108",
+        "edition": "蜘蛛男 2012",
+        "fetchedAt": "2026-09-21T03:50:08.927Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪人型反派与连载式悬念的读者",
+        "对昭和初期都市氛围有兴趣的读者"
+      ],
+      "watchFor": [
+        "对手留下的公开信息",
+        "报纸报道与事实的落差",
+        "登场人物的职业与出入场所"
+      ],
+      "warning": "昭和初期的连载作品，含怪奇与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2016（蜘蛛男／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "jpmx-005",
+    "title": "三首塔",
+    "originalTitle": "三首塔",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1977",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "gain",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名年轻人突然被告知自己是巨额遗产的继承人，条件是必须与指定的人结婚。此后，相关的人接连出事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 1412,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24861172/",
+        "subjectId": "24861172",
+        "edition": "三首塔 2013",
+        "fetchedAt": "2026-09-21T03:50:12.639Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢遗产争夺与家族题材的读者",
+        "金田一耕助系列的老读者"
+      ],
+      "watchFor": [
+        "遗嘱的具体条款",
+        "塔内各层的位置关系",
+        "登场人物与家族的血缘"
+      ],
+      "warning": "战后时期的作品，含家族恩怨与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（三首塔／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmx-006",
+    "title": "医院坡血案",
+    "originalTitle": "病院坂の首縊りの家",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1975",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "gain",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座位于坡道旁的老宅里，多年前发生过一件事。如今家族要办喜事，旧事却随着相关人员的聚首重新浮出。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 631,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25981499/",
+        "subjectId": "25981499",
+        "edition": "医院坡血案 2014",
+        "fetchedAt": "2026-09-21T03:50:16.240Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家族旧案与阴郁氛围的读者",
+        "能接受长篇群像的读者"
+      ],
+      "watchFor": [
+        "宅邸的改建与前后差异",
+        "家族成员各自的立场",
+        "当年在场者的证词"
+      ],
+      "warning": "篇幅长，人物众多，含怪奇与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-007",
+    "title": "恶魔的彩球歌",
+    "originalTitle": "悪魔の手毬唄",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1959",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "nursery-rhyme",
+      "closed-circle",
+      "countryside",
+      "legend-folklore",
+      "red-herring",
+      "honkaku",
+      "series-detective",
+      "psychological-misdirection",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座山村流传着几首旧时的童谣。村里的年轻人陆续出事，死状与歌谣中的词句逐一对应起来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 2666,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/22606935/",
+        "subjectId": "22606935",
+        "edition": "恶魔的彩球歌 2013",
+        "fetchedAt": "2026-09-21T03:50:19.800Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童谣杀人题材的读者",
+        "横沟正史式山村封闭舞台的爱好者"
+      ],
+      "watchFor": [
+        "歌谣的完整歌词与传唱范围",
+        "村中家族之间的旧怨",
+        "事件发生的时间节点"
+      ],
+      "warning": "含童谣与死亡场面的对应描写，基调阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理；与 honkaku-005《恶魔的手毬歌》为同一部作品（原书名同为 悪魔の手毬唄），已合并",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（恶魔的彩球歌／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmx-008",
+    "title": "夜行",
+    "originalTitle": "夜歩く",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1948",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dual-role",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名男子在战后回到旧宅，发现家族中接连有人失踪。旧宅内的房间与走廊，似乎藏着与传闻有关的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 2573,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20428298/",
+        "subjectId": "20428298",
+        "edition": "夜行 2013",
+        "fetchedAt": "2026-09-21T03:50:23.437Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧宅舞台与失踪题材的读者",
+        "对战后日本社会氛围有兴趣的读者"
+      ],
+      "watchFor": [
+        "宅内房间的分布与用途",
+        "各人对失踪经过的说法",
+        "战前与战后的家族变化"
+      ],
+      "warning": "战后初期的作品，含怪奇与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（夜行／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmx-009",
+    "title": "恶魔吹着笛子来",
+    "originalTitle": "悪魔が来りて笛を吹く",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "1953",
+    "series": "金田一耕助系列",
+    "detective": "金田一耕助",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "concealment",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一家人在战后重新聚首，随后接连发生不祥之事。旧宅里的笛声与家族早年的旧事，被一并牵扯出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 4136,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11597271/",
+        "subjectId": "11597271",
+        "edition": "恶魔吹着笛子来 2012",
+        "fetchedAt": "2026-09-21T03:50:29.274Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢没落家族与旧案交织的读者",
+        "横沟正史代表作系列的读者"
+      ],
+      "watchFor": [
+        "家族成员的战时经历",
+        "笛声出现的时机",
+        "宅邸中各人的行动范围"
+      ],
+      "warning": "含怪奇与残酷描写，涉及战后家族解体背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（恶魔吹着笛子来／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmx-010",
+    "title": "日本的黑雾",
+    "originalTitle": "日本の黒い霧",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1960",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "historical-setting",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "作者以报道的方式追查战后日本发生的若干起疑案，逐件梳理当时的官方结论与公开材料之间的出入。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 210,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19951326/",
+        "subjectId": "19951326",
+        "edition": "日本的黑雾 2012",
+        "fetchedAt": "2026-09-21T03:50:34.730Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢纪实型社会派作品的读者",
+        "对战后日本史有兴趣的读者"
+      ],
+      "watchFor": [
+        "各方说法的先后顺序",
+        "被反复引用的那份材料",
+        "调查推进中遇到的组织性阻力"
+      ],
+      "warning": "纪实性作品，涉及真实历史事件与政治背景，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-011",
+    "title": "黑地之绘",
+    "originalTitle": "黒地の絵",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1961",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "historical-setting",
+      "psychological-misdirection",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集。故事多发生在战后不久的城市与驻军周边，普通人被卷进自己无法左右的事态里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 885,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27190142/",
+        "subjectId": "27190142",
+        "edition": "黑地之绘 2018",
+        "fetchedAt": "2026-09-21T03:50:38.122Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战后题材与短篇的读者",
+        "对社会派笔法有兴趣的读者"
+      ],
+      "watchFor": [
+        "人物的职业与身份",
+        "时代背景下的权力关系",
+        "每篇收尾处的处理方式"
+      ],
+      "warning": "涉及战后社会创伤与暴力，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2018（黑地之绘／(日) 松本清张著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "jpmx-012",
+    "title": "苍白的轨迹",
+    "originalTitle": "蒼い描点",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1960",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "timetable",
+      "red-herring",
+      "social-commentary",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "trick-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名编辑在整理来稿时注意到一处前后不符的记述。他顺着这条线追下去，牵出了一段被人为安排过的行程。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1542,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10591693/",
+        "subjectId": "10591693",
+        "edition": "苍白的轨迹 2013",
+        "fetchedAt": "2026-09-21T03:50:45.965Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢调查型社会派推理的读者",
+        "对编辑与出版行业背景有兴趣的读者"
+      ],
+      "watchFor": [
+        "文稿中前后不符的地方",
+        "相关人员的行程记录",
+        "调查者获得材料的途径"
+      ],
+      "warning": "以缜密调查推进，节奏沉稳，含社会派常见的沉重议题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-013",
+    "title": "球形的荒野",
+    "originalTitle": "球形の荒野",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1962",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "dual-line",
+      "city",
+      "historical-setting",
+      "revenge",
+      "identity",
+      "concealment",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名记者受命追查一位战后下落不明的外交官。随着走访深入，他发现相关的人都刻意回避同一段时期。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 2716,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30389854/",
+        "subjectId": "30389854",
+        "edition": "球形的荒野 2019",
+        "fetchedAt": "2026-09-21T03:50:51.890Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢记者视角与战后题材的读者",
+        "偏好扎实走访式叙事的读者"
+      ],
+      "watchFor": [
+        "受访者回避的具体话题",
+        "战时与战后的时间对照",
+        "被反复提到的地点"
+      ],
+      "warning": "涉及战争责任与政治议题，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,文汇出版社:,2019（球形的荒野／(日) 松本清张著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-41-yokomizo-matsumoto.json#matsumoto2-002"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "一个背叛日本的日本人"
+    ],
+    "editionYear": "2019"
+  },
+  {
+    "id": "jpmx-014",
+    "title": "时间的习俗",
+    "originalTitle": "時間の習俗",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1962",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "alibi",
+      "red-herring",
+      "train",
+      "social-commentary"
+    ],
+    "school": [
+      "trick-school",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "两起发生在不同地方的案件，被一张列车时刻表联系了起来。刑警沿着时间线逐段核对，寻找那处对不上的空白。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1685,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24840351/",
+        "subjectId": "24840351",
+        "edition": "时间的习俗 2013",
+        "fetchedAt": "2026-09-21T03:50:55.790Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时刻表与不在场证明题材的读者",
+        "对昭和交通状况有兴趣的读者"
+      ],
+      "watchFor": [
+        "各段行程的衔接时间",
+        "目击者的证词范围",
+        "两案之间的对应关系"
+      ],
+      "warning": "以时刻推演为核心，需要留意时间线细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2013（馆藏题名「时间的习俗」／松本清张）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmx-015",
+    "title": "富士山禁恋",
+    "originalTitle": "富士山禁恋",
+    "author": "松本清张",
+    "authorEn": "Seicho Matsumoto",
+    "genre": "社会派",
+    "firstPublished": "1962",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "passion",
+      "psychological-misdirection",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名在政府部门任职的男子，因一桩与工作相关的调查结识了某位女性。两人的往来逐渐被周围的视线与利害裹住。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 3544,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7153418/",
+        "subjectId": "7153418",
+        "edition": "富士山禁恋 2012",
+        "fetchedAt": "2026-09-21T03:51:01.704Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派情感题材的读者",
+        "对昭和官僚社会有兴趣的读者"
+      ],
+      "watchFor": [
+        "男子工作上的往来关系",
+        "两人见面的时间与地点",
+        "周围人态度的变化"
+      ],
+      "warning": "涉及情感与职场伦理议题，基调沉郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2012（馆藏题名「富士山禁恋」／松本清张）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "jpmx-016",
+    "title": "骸之爪",
+    "originalTitle": "骸の爪",
+    "author": "道尾秀介",
+    "authorEn": "Shusuke Michio",
+    "genre": "本格推理",
+    "firstPublished": "2008",
+    "series": "真备庄介系列",
+    "detective": "真备庄介",
+    "country": "日本",
+    "tags": [
+      "unreliable-narrator",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一件来路不明的佛像被人带到店里。围绕它出现的说法彼此矛盾，而持有它的人也开始变得不太对劲。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 766,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6952335/",
+        "subjectId": "6952335",
+        "edition": "骸之爪 2012",
+        "fetchedAt": "2026-09-21T03:51:05.200Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述诡计与心理悬念的读者",
+        "对古美术题材有兴趣的读者"
+      ],
+      "watchFor": [
+        "叙述者与各人的对话",
+        "佛像在不同人手中的流转",
+        "被反复提到的那处细节"
+      ],
+      "warning": "含心理压迫与阴暗描写，结尾处读法会变。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海译文出版社 2012（馆藏题名「骸之爪」／道尾秀介）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "jpmx-017",
+    "title": "所罗门之犬",
+    "originalTitle": "ソロモンの犬",
+    "author": "道尾秀介",
+    "authorEn": "Shusuke Michio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "unreliable-narrator",
+      "first-person",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "youth"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "几名少年在暑假里遇到一件事，之后各自回到日常。故事由其中一人的视角讲述，而他记住的未必是全部。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1733,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4821212/",
+        "subjectId": "4821212",
+        "edition": "所罗门之犬 2010",
+        "fetchedAt": "2026-09-21T03:51:08.975Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢少年视角与叙述诡计的读者",
+        "对青春题材的阴暗面有兴趣的读者"
+      ],
+      "watchFor": [
+        "叙述者对同伴的评价",
+        "同一场景被提及两次时的差异",
+        "他与成年人之间的对话"
+      ],
+      "warning": "涉及青少年心理与阴暗事件，基调压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-018",
+    "title": "乌鸦的拇指",
+    "originalTitle": "カラスの親指",
+    "author": "道尾秀介",
+    "authorEn": "Shusuke Michio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "ensemble",
+      "psychological-misdirection",
+      "social-commentary",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一对以行骗为生的搭档，遇上了几个无处可去的人。几个人凑在一起过日子，各自都藏着没说的过去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 3794,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5423899/",
+        "subjectId": "5423899",
+        "edition": "乌鸦的拇指 2011",
+        "fetchedAt": "2026-09-21T03:51:14.806Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢群像与温情底色的读者",
+        "对骗术题材有兴趣的读者"
+      ],
+      "watchFor": [
+        "各人加入这个小团体的缘由",
+        "搭档之间的分工",
+        "叙述者刻意略过的那段经历"
+      ],
+      "warning": "涉及诈骗与家庭创伤，笔调相对温和但有阴暗底色。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「乌鸦的拇指」／道尾秀介）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "jpmx-019",
+    "title": "龙神之雨",
+    "originalTitle": "龍神の雨",
+    "author": "道尾秀介",
+    "authorEn": "Shusuke Michio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "youth",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "两个家庭在同一段时间里各自遭遇变故。两边的叙述交替展开，都提到了那场一直下不完的雨。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 903,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6861478/",
+        "subjectId": "6861478",
+        "edition": "龙神之雨 2011",
+        "fetchedAt": "2026-09-21T03:51:18.427Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双线叙事与家庭题材的读者",
+        "能接受阴郁基调的读者"
+      ],
+      "watchFor": [
+        "两条线的时间对应关系",
+        "各家的经济与成员状况",
+        "雨这个意象出现的位置"
+      ],
+      "warning": "涉及家庭暴力与少年犯罪，基调阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmx-020",
+    "title": "危险的童话",
+    "originalTitle": "危険な童話",
+    "author": "土屋隆夫",
+    "authorEn": "Takao Tsuchiya",
+    "genre": "本格推理",
+    "firstPublished": "1975",
+    "series": "千草检察官系列",
+    "detective": "千草泰辅",
+    "country": "日本",
+    "tags": [
+      "nursery-rhyme",
+      "red-herring",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一桩案件的现场留下了与童话有关的痕迹。检察官顺着这些线索追查，发现它们指向的并非字面上的意思。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 782,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11533538/",
+        "subjectId": "11533538",
+        "edition": "危险的童话 2013",
+        "fetchedAt": "2026-09-21T03:51:23.524Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童话意象与物证推理的读者",
+        "千草检察官系列的老读者"
+      ],
+      "watchFor": [
+        "童话原文与现场痕迹的对应",
+        "相关人员的阅读经历",
+        "物证被发现的顺序"
+      ],
+      "warning": "以物证与走访推进，节奏沉稳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「危险的童话」／土屋隆夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmx-021",
+    "title": "针的诱惑",
+    "originalTitle": "針の誘い",
+    "author": "土屋隆夫",
+    "authorEn": "Takao Tsuchiya",
+    "genre": "本格推理",
+    "firstPublished": "1973",
+    "series": "千草检察官系列",
+    "detective": "千草泰辅",
+    "country": "日本",
+    "tags": [
+      "vanished-weapon",
+      "red-herring",
+      "alibi",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "案件现场找不到应当存在的那件东西。检察官从细小的痕迹入手，逐步还原出它在案发前后的去向。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 514,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11533542/",
+        "subjectId": "11533542",
+        "edition": "针的诱惑 2013",
+        "fetchedAt": "2026-09-21T03:51:27.497Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢物证细节与推演的读者",
+        "对「消失的凶器」这类题材有兴趣的读者"
+      ],
+      "watchFor": [
+        "现场的细小痕迹",
+        "相关人员当天的行动",
+        "物证被处理的时间窗口"
+      ],
+      "warning": "以物证与程序推进，需要留意细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「针的诱惑」／土屋隆夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmx-022",
+    "title": "盲目的乌鸦",
+    "originalTitle": "盲目の鴉",
+    "author": "土屋隆夫",
+    "authorEn": "Takao Tsuchiya",
+    "genre": "本格推理",
+    "firstPublished": "1976",
+    "series": "千草检察官系列",
+    "detective": "千草泰辅",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "multiple-solutions",
+      "alibi",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名目击者的证词看似明确，却与其他证据对不上。检察官反复走访，试图弄清那段证词是怎么形成的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 489,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11533543/",
+        "subjectId": "11533543",
+        "edition": "盲目的乌鸦 2013",
+        "fetchedAt": "2026-09-21T03:51:33.054Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢证词可靠性题材的读者",
+        "偏好扎实走访的读者"
+      ],
+      "watchFor": [
+        "目击者所处的位置",
+        "证词前后措辞的变化",
+        "其他证据与证词的矛盾点"
+      ],
+      "warning": "以证词检证为核心，节奏沉稳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「盲目的乌鸦」／土屋隆夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmx-023",
+    "title": "孤独的歌声",
+    "originalTitle": "孤独の歌声",
+    "author": "土屋隆夫",
+    "authorEn": "Takao Tsuchiya",
+    "genre": "本格推理",
+    "firstPublished": "1966",
+    "series": "千草检察官系列",
+    "detective": "千草泰辅",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一桩看似单纯的案件，在检方与辩方之间出现了两种解释。检察官需要判断哪一种能同时容纳全部证据。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 607,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1391584/",
+        "subjectId": "1391584",
+        "edition": "孤独的歌声 2005",
+        "fetchedAt": "2026-09-21T03:51:38.326Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢检方视角与证据攻防的读者",
+        "对昭和司法程序有兴趣的读者"
+      ],
+      "watchFor": [
+        "两种解释各自依赖的证据",
+        "证人出庭时的措辞",
+        "被双方都忽略的那一点"
+      ],
+      "warning": "以程序与推演推进，基调沉稳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-23-jp-masters-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "id": "author132-001",
+    "title": "一张俊美的脸",
+    "originalTitle": "To Love and Be Wise",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "本格推理",
+    "firstPublished": "1950",
+    "editionYear": "2017",
+    "series": "格兰特探长系列",
+    "detective": "艾伦·格兰特",
+    "country": "英国",
+    "tags": ["series-detective", "identity", "red-herring", "countryside"],
+    "school": ["orthodox-school", "psychological-school"],
+    "safeSummary": "长着一张俊美面孔的年轻人突然出现在平静的英国小镇圣玛丽，给这里的人们带来不寻常的感觉；随后他蓦然失踪，引起轩然大波。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["铁伊的读者", "格兰特探长系列的读者"],
+      "watchFor": ["失踪前后的时间线", "小镇上各人对他的印象差异"],
+      "warning": "本格推理长篇，含失踪与命案描写，为格兰特探长系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现，`scripts/opac-author-scan.mjs`）：约瑟芬·铁伊著，现代出版社 2017，丛编项「**现代推理馆**」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号为 `I561.456`**——`I561.45` 之下**专指英国侦探／推理小说的复分号**；③丛编项为出版社的**推理专门书系**（现代推理馆）。**⚠️ 纠正前轮误登记**：本书此前被当作《博来·法拉先生》（*Brat Farrar*）的**异名**登记在本库（`alternateTitles`）。本轮取到馆藏提要后确认**并非同一部作品**——提要写明主人公是「长着一张俊美的脸的莱斯利·瑟尔」在圣玛丽小镇失踪、由格兰特探长查办，对应的是 *To Love and Be Wise*（1950），而 *Brat Farrar* 讲的是流浪汉冒充豪门失散继承人。**已从《博来·法拉先生》的 `alternateTitles` 中撤下，并作为独立作品收录。** **补作者缺口**：作者库内已有 5 部。**年份字段说明**：`firstPublished` 记原作年 1950（*To Love and Be Wise*），`editionYear` 记所引中译本 2017。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-002",
+    "title": "萍小姐的主意",
+    "originalTitle": "Miss Pym Disposes",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "本格推理",
+    "firstPublished": "1946",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "萍小姐",
+    "country": "英国",
+    "tags": ["closed-circle", "campus", "psychological-misdirection", "red-herring"],
+    "school": ["orthodox-school", "psychological-school"],
+    "safeSummary": "英式寄宿女校里，女孩子之间藏着秘密与暗暗的心机；一名女孩意外死亡，萍小姐似乎窥探到了不得了的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["铁伊的读者", "校园封闭环境推理的读者"],
+      "watchFor": ["女孩们之间的往来细节", "萍小姐作为旁观者的位置"],
+      "warning": "本格推理长篇，含意外死亡描写，心理描写成分较重。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：约瑟芬·铁伊著，现代出版社 2017，丛编项「现代推理馆」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.456`**（英国侦探／推理小说专门复分号）；③丛编项为**推理专门书系**。**补作者缺口**：同批补入该系列两卷；库内此前无《萍小姐的主意》。**年份字段说明**：`firstPublished` 记原作年 1946（*Miss Pym Disposes*），`editionYear` 记所引中译本 2017。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-003",
+    "title": "亚森·罗平智斗福尔摩斯",
+    "originalTitle": "Arsène Lupin contre Herlock Sholmès",
+    "author": "莫里斯·勒布朗",
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "1908",
+    "editionYear": "2014",
+    "series": "亚森·罗平系列",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": ["adventure", "dual-role", "series-detective", "identity"],
+    "school": ["adventure-school", "trick-school"],
+    "safeSummary": "亚森·罗平与福尔摩斯齐名，是位有正义感与同情心的「侠盗」；他精于易容之术，可随时化装成任何人，有时也以侦探的身份登场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["亚森·罗平系列的读者", "怪盗与名侦探对决题材的读者"],
+      "watchFor": ["易容之下的真实身份", "两人过招的每一回合"],
+      "warning": "冒险悬疑长篇，含盗窃与对抗情节，属怪盗探案一类。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：莫里斯·勒布朗著，群众出版社 2014.08，丛编项「**世界侦探推理名著文库**」。**推理属性判据**：①**检索行主题词为「侦探小说 法国 现代 ; 长篇小说 法国 现代」**（第①类，最硬）；②**中图分类号 `I565.45`**；③丛编项为**出版社的推理名著专门书库**。**作者写法统一**：**库内既有写法是「莫里斯·勒布朗」**（《侠盗亚森·罗平》），本条沿用。**年份字段说明**：`firstPublished` 记原作年 1908（*Arsène Lupin contre Herlock Sholmès*），`editionYear` 记所引中译本 2014。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-004",
+    "title": "樱树抽芽时，想你",
+    "originalTitle": "葉桜の季節に君を想うということ",
+    "author": "歌野晶午",
+    "authorEn": "Utano Shogo",
+    "genre": "本格推理",
+    "firstPublished": "2003",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "成濑",
+    "country": "日本",
+    "tags": ["narrative-trick", "unreliable-narrator", "red-herring", "identity"],
+    "school": ["trick-school", "orthodox-school"],
+    "safeSummary": "曾在侦探事务所任职的成濑受托调查一起车祸的真相，却被卷入一场保险金杀人案；其间他邂逅了自杀未遂的樱，两人开始了一段奇妙的恋情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["叙述性诡计的读者", "歌野晶午的读者"],
+      "watchFor": ["成濑叙述里被略去的部分", "两个当事人各自的年纪与处境"],
+      "warning": "本格推理长篇，以叙述方式为核心机关，含命案与自杀场面描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：歌野晶午著，江苏凤凰文艺出版社 2017，丛编项「读客外国小说文库」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**。**补作者缺口**：作者库内已有 1 部（《密室推理游戏》）。**年份字段说明**：`firstPublished` 记原作年 2003（*葉桜の季節に君を想うということ*，第 57 届日本推理作家协会奖获奖作），`editionYear` 记所引中译本 2017。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-005",
+    "title": "歌剧院",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": ["series-detective", "identity", "red-herring", "theater"],
+    "school": ["orthodox-school", "daily-mystery-school"],
+    "safeSummary": "国际钢琴比赛上，一名黑马选手击败了来自音乐世家的知名选手；更令人意外的是，这位要在维也纳歌剧院举办演奏会的无名选手只是普通上班族。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "三色猫探案系列的读者"],
+      "watchFor": ["无名选手的来历", "比赛结果引发的连锁反应"],
+      "warning": "本格推理长篇，含命案描写，基调轻快，为三色猫探案系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：赤川次郎著，人民文学出版社 2018，丛编项「99读书人；**三色猫探案**」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为作者本人的系列。**补作者缺口**：作者库内已有 5 部（《三毛猫推理》《幽灵列车》等），本轮**一次补入 8 部**。**年份字段说明**：`editionYear` 记所引中译本 2018；`firstPublished` **留空**——馆藏未给出原题名，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-006",
+    "title": "登山车",
+    "alternateTitles": ["三色猫福尔摩斯雪山谜案"],
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "三色猫探案系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": ["series-detective", "snowfield", "adventure", "concealment"],
+    "school": ["orthodox-school", "adventure-school"],
+    "safeSummary": "年轻刑警片山与妹妹在瑞士度假，在海拔三千多米的少女峰上邂逅一名日本少女；少女险些从山顶的预警绳索缝隙中摔落，片山出手相救。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "雪山与旅行题材的读者"],
+      "watchFor": ["少女为何被要求严密监视", "山顶那一幕的细节"],
+      "warning": "本格推理长篇，含命案与雪山遇险描写，为三色猫探案系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，人民文学出版社 2018，丛编项「三色猫探案」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号为 `I313.456`**——日本侦探／推理小说专门复分号。**同书异名核对（已由用户核实）**：馆藏另有《三色猫福尔摩斯雪山谜案》（山东文艺出版社 2015），其提要同样以**少女峰登山车**上的谋杀为核心。本轮初审时两条的原题名均缺失、提要细节亦不完全吻合，故按「宁可少收、不可收重」**暂记待核**；**用户随后核实二者确为同一部作品**，现据此登记为 `alternateTitles`，**不另设条目**。**年份字段说明**：`editionYear` 记 2018；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-007",
+    "title": "随风而去",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["gain", "concealment", "ensemble", "dark-atmosphere"],
+    "school": ["social-school", "psychological-school"],
+    "safeSummary": "一桩为夺取舅舅遗产而仓促开始的谋杀计划启动后，把各色人等牵扯进来，事态随即向不可遏止的方向发展，计划被完全打乱。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "遗产与人性题材的读者"],
+      "watchFor": ["计划被打乱的每一步", "被卷进来的人各自的算盘"],
+      "warning": "犯罪悬疑长篇，含谋杀计划与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2019，丛编项「**现代推理馆·日本馆**；赤川次郎作品系列」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为出版社的**推理专门书系**（现代推理馆）。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**——馆藏「相关题名附注」只写「书名原文取自封面」，未给出原题名。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-008",
+    "title": "黯夜的呼唤",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["concealment", "revenge", "fear", "dark-atmosphere"],
+    "school": ["psychological-school", "social-school"],
+    "safeSummary": "四名女大学生在狭小房间里醒来，依稀记得前一晚的事；一名男同学被从课堂上带走，无辜的他成了替罪羊；数年后，她们陆续收到匿名信件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "旧事追责题材的读者"],
+      "watchFor": ["那一晚房间里发生过什么", "匿名信出现的次序"],
+      "warning": "犯罪悬疑长篇，涉及性侵暗示、自杀与命案描写，题材沉重。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2019，丛编项「**现代推理馆·日本馆**；赤川次郎作品系列」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为推理专门书系。**内容提示**：提要涉及四名女大学生失去意识后醒来、事后追责的设定，题材较重，已在 `readingTips.warning` 写明。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**。梗概据馆藏提要重写，未复述侵害细节。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-009",
+    "title": "一个人的生活",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "坂垣依子",
+    "country": "日本",
+    "tags": ["youth", "city", "curiosity", "ensemble"],
+    "school": ["daily-mystery-school", "orthodox-school"],
+    "safeSummary": "刚上大一的女孩坂垣依子第一次独自生活；生活不易，她凭随机应变的能力和正直的性格打动了身边的人，也收获了友谊。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "青春日常题材的读者"],
+      "watchFor": ["独居生活里的小麻烦", "依子身边出现的各色人物"],
+      "warning": "青春推理长篇，基调轻松，命案与暴力成分在本作中较轻。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2019，丛编项「**现代推理馆·日本馆**；赤川次郎作品系列」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为推理专门书系。**如实标注**：馆藏提要未提供命案或谜面要素，内容偏向**青春成长**；判据仍是编目第①类，已在 `readingTips.warning` 写明「命案与暴力成分较轻」，供读者判断。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-010",
+    "title": "泪如雨下",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "由美",
+    "country": "日本",
+    "tags": ["identity", "dual-role", "concealment", "youth"],
+    "school": ["psychological-school", "orthodox-school"],
+    "safeSummary": "十五岁的由美重获自由的那天，两个神秘男子出现，她摇身一变成了大集团掌舵人失散多年的外孙女；真正的大小姐在哪里，为何是她被选中做替身。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "身份替换题材的读者"],
+      "watchFor": ["真正的大小姐去了哪里", "选由美当替身的理由"],
+      "warning": "犯罪悬疑长篇，含身份冒认与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2019，丛编项「**现代推理馆·日本馆**；赤川次郎作品系列」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为推理专门书系。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**。梗概据馆藏提要重写，只保留谜面。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-011",
+    "title": "夜半的惊醒",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "真美",
+    "country": "日本",
+    "tags": ["concealment", "revenge", "city", "ensemble"],
+    "school": ["social-school", "police-procedural"],
+    "safeSummary": "白领真美为帮助高中同学洗刷冤屈，被迫卷入因警察内部造黑钱内幕引发的一系列杀人事件；她与女记者、同学之母联手揭开内幕。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "组织内部犯罪题材的读者"],
+      "watchFor": ["造黑钱内幕的关键环节", "三人联手时各自的动机"],
+      "warning": "犯罪悬疑长篇，含杀人事件与警方内部腐败描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2019，丛编项「**现代推理馆·日本馆**；赤川次郎作品系列」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为推理专门书系。**年份字段说明**：`editionYear` 记 2019；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-012",
+    "title": "幽灵候补生",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "幽灵系列",
+    "detective": "宇野乔",
+    "country": "日本",
+    "tags": ["dual-role", "identity", "series-detective", "red-herring"],
+    "school": ["trick-school", "orthodox-school"],
+    "safeSummary": "一直以为已经死去的永井夕子奇迹般「复活」，更以另一个已婚妇女的身份出现在男主人公宇野乔面前；是失忆，还是世上真有长得一模一样的人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["赤川次郎的读者", "幽灵系列与身份谜题的读者"],
+      "watchFor": ["「复活」者的身份如何确认", "宇野乔所见与旁人所见是否一致"],
+      "warning": "本格推理长篇，含命案与身份疑云描写，为幽灵系列长篇。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：赤川次郎著，现代出版社 2015，丛编项「**现代推理馆·赤川次郎**」。**推理属性判据**：①**检索行主题词为「长篇小说 日本 现代 ; 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号为 `I313.456`**（日本侦探／推理小说专门复分号）；③丛编项为推理专门书系。**补作者缺口**：与库内《幽灵列车》《幽灵心理学》《幽灵同好会》同属幽灵系列，本条补该系列另一长篇。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-013",
+    "title": "宽恕之城",
+    "originalTitle": "",
+    "author": "雷米",
+    "authorEn": "Lei Mi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": ["revenge", "dual-line", "concealment", "red-herring"],
+    "school": ["psychological-school", "police-procedural"],
+    "safeSummary": "一位「母亲」复仇的故事：两桩离奇杀人事件，引出十九年前作案手法与之相似的旧案；沾满儿子鲜血的父亲、如影随形的神秘女人、盘山公路上变形的汽车。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["雷米的读者", "复仇与旧案交织题材的读者"],
+      "watchFor": ["十九年前那桩旧案的细节", "盘山公路车祸的成因"],
+      "warning": "犯罪悬疑长篇，含凶杀与车祸描写，题材沉重，原作分上、下两册。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：雷米著，北京联合出版公司 2023。**推理属性判据**：①**中图分类号为 `I247.56`**——**中国当代侦探／推理小说的专门分类号**，本项目判据层级里最硬的一档；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**合并说明**：馆藏以「宽恕之城.上册」与「宽恕之城.下册」两条著录，二者为**同一部作品的上、下两册**，按库内既有做法（如《写乐·闭锁之国的幻影》《龙卧亭杀人事件》）**合并为一条**，不按两本计。**补作者缺口**：作者库内已有《心理罪》系列 3 部、《执念》《殉罪者》共 5 部。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-014",
+    "title": "龙眼石之谜",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "洪律师探案集",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": ["forensic", "concealment", "red-herring", "series-detective"],
+    "school": ["legal-thriller", "forensic-school", "orthodox-school"],
+    "safeSummary": "意外捡到一块「龙眼石」的人离奇死亡，其妻被认定为凶手；其子为查明真相聘请了洪律师。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["法律与科学取证题材的读者", "洪律师探案集的读者"],
+      "watchFor": ["那块石头的真实性质", "死者生前接触过什么"],
+      "warning": "犯罪悬疑长篇，涉及放射性物质致死的科学设定与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：何家弘著，知识产权出版社 2016，丛编项「**洪律师探案集**」。**推理属性判据**：①**中图分类号为 `I247.56`**（中国当代侦探／推理小说专门分类号，最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③丛编项为作者本人的系列。**合并说明**：馆藏另有同名的「精华本」（知识产权出版社 2017.01），为**同一部作品的另一版本**，按同书不另设条目处理。**补作者缺口**：作者库内已有《血之罪》《X之罪》《性之罪》《无罪贪官》4 部；其中《血之罪》《性之罪》亦有「精华本」著录，同样按同书处理。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-015",
+    "title": "黑蝙蝠之谜",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "洪律师探案集",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": ["countryside", "closed-circle", "red-herring", "series-detective"],
+    "school": ["legal-thriller", "orthodox-school"],
+    "safeSummary": "武夷山区河谷幽深，昔日的六位同窗专程相聚、故地重游；神秘的黑蝙蝠频频现身，一位老友意外身亡，随后大群白蝙蝠从头上掠过。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["法律与调查并重的读者", "旧友重聚型封闭环境推理的读者"],
+      "watchFor": ["同窗六人各自的处境", "蝙蝠出现的时间与地点"],
+      "warning": "犯罪悬疑长篇，含意外死亡与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：何家弘著，知识产权出版社 2016，丛编项「洪律师探案集」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。梗概据馆藏提要重写，未点出死者身份之外的情节走向。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author132-016",
+    "title": "古画之谜",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "洪律师探案集",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": ["historical-setting", "concealment", "red-herring", "series-detective"],
+    "school": ["legal-thriller", "orthodox-school"],
+    "safeSummary": "九十年代，某企业总工程师藏有一幅清朝末年由王府流入民间的神秘古画，这幅画给他带来了灾难；北京律师洪钧受其妻委托前来调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["法律与文物题材的读者", "洪律师探案集的读者"],
+      "watchFor": ["那幅古画的流传经过", "办案过程中遇到的怪事"],
+      "warning": "犯罪悬疑长篇，含冤案与命案描写，时代背景为二十世纪九十年代。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：何家弘著，知识产权出版社 2016，丛编项「洪律师探案集」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-132-opac7intl.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "id": "rampo-001",
+    "title": "心理测验",
+    "originalTitle": "心理試験",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "本格推理",
+    "firstPublished": "1925",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "first-person",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名嫌疑人通过了所有常规讯问，态度镇定、说辞完整。侦探换了另一种方式：不再问他知道什么，而是设计一个场景，看他在毫无准备时会先注意什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 247,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11526867/",
+        "subjectId": "11526867",
+        "edition": "江户川乱步：心理测验",
+        "fetchedAt": "2026-09-22T10:26:37.506Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读乱步短篇的读者",
+        "对心理取证手法感兴趣的读者"
+      ],
+      "watchFor": [
+        "嫌疑人在测验中的反应顺序",
+        "他刻意表现得自然的地方",
+        "测验设计的原理本身"
+      ],
+      "warning": "乱步早期短篇，明智小五郎登场，篇幅短、重心理推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-002",
+    "title": "镜子地狱",
+    "originalTitle": "鏡地獄",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "1926",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "diary-form",
+      "obsession",
+      "unreliable-narrator",
+      "dark-atmosphere",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个痴迷于镜面的男人，把毕生心力投在一间四面都是镜子的房间里。他写下自己为什么非要做成这件事，以及走进那间屋子之后发生了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 63,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36437856/",
+        "subjectId": "36437856",
+        "edition": "镜子地狱 2024",
+        "fetchedAt": "2026-09-22T10:26:40.520Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢乱步怪奇短篇的读者",
+        "对偏执心理题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "他叙述自己收藏镜子的顺序",
+        "关于「无限反射」的那段描述",
+        "结尾他对自己处境的判断"
+      ],
+      "warning": "怪奇短篇，含精神失常描写，氛围压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：西安:,陕西人民出版社:,2023（镜子地狱／(日) 江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "rampo-003",
+    "title": "黄金面具",
+    "originalTitle": "黄金仮面",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "少年侦探团系列",
+    "detective": "明智小五郎、小林芳雄",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "dual-role",
+      "cipher",
+      "series-detective",
+      "city",
+      "red-herring",
+      "identity"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个戴着黄金面具的人接连在城中作案，每次都能在众目睽睽之下消失。少年侦探团和明智小五郎追着这条线跑，而面具下是谁，比作案手法更难查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 39,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1557564/",
+        "subjectId": "1557564",
+        "edition": "黄金面具 1900",
+        "fetchedAt": "2026-09-22T10:26:44.958Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "少年侦探团系列的读者",
+        "喜欢怪盗题材的读者"
+      ],
+      "watchFor": [
+        "面具人每次现身的地点",
+        "他留下的字条内容",
+        "被盯上的几件物品之间的联系"
+      ],
+      "warning": "少年向冒险推理，反派形象夸张，节奏明快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-004",
+    "title": "地狱的滑稽大师",
+    "originalTitle": "地獄の道化師",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "1926",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "obsession",
+      "dark-atmosphere",
+      "series-detective",
+      "fear",
+      "red-herring"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个自称「地狱的滑稽大师」的人向世人宣告，他将把犯罪当作一场表演。随后城中出现的一系列怪事，确实像是照着某个剧本在走。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 400,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4071772/",
+        "subjectId": "4071772",
+        "edition": "地狱的滑稽大师 2001.3",
+        "fetchedAt": "2026-09-22T10:26:49.467Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢乱步怪奇长篇的读者",
+        "对「犯罪者表演欲」题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "那个自称的名字第一次出现在哪里",
+        "几起事件的排列顺序",
+        "明智小五郎对「表演」二字的看法"
+      ],
+      "warning": "怪奇向，含猎奇与残酷场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-005",
+    "title": "幽灵塔",
+    "originalTitle": "幽霊塔",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "冒险悬疑",
+    "firstPublished": "1937",
+    "series": "",
+    "detective": "无固定侦探（以继承者视角展开）",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "adventure",
+      "cipher",
+      "concealment",
+      "dark-atmosphere",
+      "identity",
+      "historical-setting"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座久已荒废的宅子里立着一座钟塔，据说每到夜里就会传出不该有的声音。继承了这片地产的年轻人搬进去之后，开始一点点弄清这座塔究竟是谁留下的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 595,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35355621/",
+        "subjectId": "35355621",
+        "edition": "幽灵塔 2021",
+        "fetchedAt": "2026-09-22T10:26:54.815Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古宅与机关题材的读者",
+        "乱步长篇的读者"
+      ],
+      "watchFor": [
+        "钟塔的机械构造",
+        "宅子历任主人的更替",
+        "夜里那个声音出现的时刻"
+      ],
+      "warning": "乱步长篇，含机关暗道与惊险场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-006",
+    "title": "青铜魔人",
+    "originalTitle": "青銅の魔人",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "series": "少年侦探团系列",
+    "detective": "明智小五郎、小林芳雄",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "dual-role",
+      "series-detective",
+      "city",
+      "fear",
+      "red-herring",
+      "cipher"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "城里出现了一个通体青铜色的人形，据说它能在墙上攀爬、在夜里行走。少年侦探团追查下去，发现这个「魔人」的身后还站着另一个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 255,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1944047/",
+        "subjectId": "1944047",
+        "edition": "青铜魔人 1999",
+        "fetchedAt": "2026-09-22T10:26:57.916Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "少年侦探团系列的读者",
+        "喜欢机关人形题材的读者"
+      ],
+      "watchFor": [
+        "「魔人」出现的地点分布",
+        "它的行动规律",
+        "谁在案发前打听过城中地形"
+      ],
+      "warning": "少年向冒险推理，含惊险与追逐场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-007",
+    "title": "女妖",
+    "originalTitle": "女妖",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "1926",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "obsession",
+      "dark-atmosphere",
+      "fear",
+      "unreliable-narrator",
+      "ensemble",
+      "alibi",
+      "locked-room"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。乱步笔下的女性常以某种近乎非人的形象出现：她们未必做了什么，只是旁人看她们的方式本身就不太正常。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1122,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35061157/",
+        "subjectId": "35061157",
+        "edition": "女妖 2020",
+        "fetchedAt": "2026-09-22T10:27:03.264Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读乱步短篇集的读者",
+        "能接受怪奇基调的读者"
+      ],
+      "watchFor": [
+        "叙述者描述女性时用的比喻",
+        "每篇结尾叙述者的处境",
+        "「妖」这个判断是谁下的"
+      ],
+      "warning": "怪奇短篇集，含变态心理与猎奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充（第 72 轮）**：据上图编目提要「后是村越在密闭的房间中被枪杀……所有人都有完美的不在场证明」补标 alibi、locked-room（密闭房间＋全员不在场证明，两个机制都由提要写明）。"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "rampo-008",
+    "title": "恐怖三角馆",
+    "originalTitle": "三角館の恐怖",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "series": "明智小五郎系列",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座呈三角形的宅子里住着几户人家，彼此看得见却互不往来。某天其中一间房里出现了尸体，而整座建筑的构造让「谁去过哪里」变得难以确认。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 170,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26685999/",
+        "subjectId": "26685999",
+        "edition": "恐怖三角馆 2016",
+        "fetchedAt": "2026-09-22T10:27:08.359Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢建筑诡计的读者",
+        "明智小五郎系列的读者"
+      ],
+      "watchFor": [
+        "三角馆的平面结构与视线关系",
+        "各户之间的往来记录",
+        "谁对宅子的构造格外熟悉"
+      ],
+      "warning": "乱步中期作品，建筑与视线关系是谜面核心。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2016.01（恐怖三角馆／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "rampo-009",
+    "title": "影男",
+    "originalTitle": "影男",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "冒险悬疑",
+    "firstPublished": "1955",
+    "series": "",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "identity",
+      "adventure",
+      "city",
+      "series-detective",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "有一个人能在任何场合都不被记住——不是易容，而是他出现时别人根本不会多看一眼。当这样一个人被卷进一桩案子，找到他比找到凶手更难。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 94,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26841256/",
+        "subjectId": "26841256",
+        "edition": "影男 2016",
+        "fetchedAt": "2026-09-22T10:27:12.862Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步战后作品的读者",
+        "喜欢身份隐匿题材的读者"
+      ],
+      "watchFor": [
+        "目击者对那个人的描述",
+        "他出现过的场所类型",
+        "谁最早注意到「没人记得他」"
+      ],
+      "warning": "乱步战后长篇，含都市犯罪与追逐场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：济南:,山东画报出版社:,2022.03（影男／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-40-edogawa.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  }
+]

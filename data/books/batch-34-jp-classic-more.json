@@ -1,0 +1,431 @@
+[
+  {
+    "id": "jpcls2-001",
+    "title": "能面杀人事件",
+    "originalTitle": "能面殺人事件",
+    "author": "高木彬光",
+    "authorEn": "Takagi Akimitsu",
+    "genre": "本格推理",
+    "firstPublished": "1949",
+    "series": "高木彬光作品集",
+    "detective": "神津恭介",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "dual-role",
+      "mansion",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "能乐世家的宅邸里发生了命案，现场的门窗从内侧锁着，死者身旁留有一张能面。侦探神津恭介要弄清的第一件事是：那张面具原本属于谁，又是谁把它带进了这个房间。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 2015,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10746421/",
+        "subjectId": "10746421",
+        "edition": "能面杀人事件 2013",
+        "fetchedAt": "2026-09-22T05:10:39.802Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战后日本本格与密室题材的读者",
+        "对能乐等传统艺能背景感兴趣的读者"
+      ],
+      "watchFor": [
+        "能面在家族中的传承与保管规则",
+        "各人进出那间房的目击证词",
+        "面具的朝向与摆放位置"
+      ],
+      "warning": "一九四九年的战前战后本格，节奏与用词带时代感，重逻辑推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「能面杀人事件」／高木彬光）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-34-jp-classic-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpcls2-002",
+    "title": "青玉狮子香炉",
+    "originalTitle": "青玉獅子香炉",
+    "author": "陈舜臣",
+    "authorEn": "Chin Shunshin",
+    "genre": "历史推理",
+    "firstPublished": "1969",
+    "series": "陈舜臣作品",
+    "detective": "无固定侦探（以文物与人的流转为线索）",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "cipher",
+      "social-commentary",
+      "legend-folklore",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一件玉器在不同时代、不同人手里辗转，每个经手的人都以为自己在保护它。小说顺着它的流转写下去，把几代人的选择与一件器物的去向缠在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1189,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4212247/",
+        "subjectId": "4212247",
+        "edition": "青玉狮子香炉 2010",
+        "fetchedAt": "2026-09-22T05:10:43.131Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以文物为线索的历史推理的读者",
+        "对近代中日文化交流史感兴趣的读者"
+      ],
+      "watchFor": [
+        "每次转手时经手人的真实处境",
+        "器物细节在不同时代的记述差异",
+        "谁在刻意让某段来历被忘掉"
+      ],
+      "warning": "历史题材，跨年代叙事，重人物处境与社会背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：桂林:,广西师范大学出版社:,2010（青玉狮子香炉／(日) 陈舜臣著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-34-jp-classic-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpcls2-003",
+    "title": "人外魔境",
+    "originalTitle": "人外魔境",
+    "author": "小栗虫太郎",
+    "authorEn": "Oguri Mushitaro",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "日本推理名作选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "historical-setting",
+      "dark-atmosphere",
+      "meta-fiction",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。作者把大量冷僻知识——异域风俗、古文献、博物学——堆进故事里，让谜面本身先变成一个读不懂的东西，再一点一点把它的来路交代清楚。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 181,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5043452/",
+        "subjectId": "5043452",
+        "edition": "人外魔境 2010",
+        "fetchedAt": "2026-09-22T05:10:46.440Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢战前日本变格派与炫学趣味的读者",
+        "读过《黑死馆杀人事件》想再读作者的读者"
+      ],
+      "watchFor": [
+        "每篇开头那段看似跑题的博物学铺陈",
+        "叙述者获取这些知识的途径",
+        "「无法解释」与「尚未查到」的区别"
+      ],
+      "warning": "战前变格派作品，知识密度高、行文古旧，阅读门槛偏高。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空而不是填一个估计值",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「人外魔境」／小栗虫太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-34-jp-classic-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpcls2-004",
+    "title": "明治开化安吾捕物帖",
+    "originalTitle": "明治開化安吾捕物帖",
+    "alternateTitles": [
+      "明治开化安吾捕物帖（上）"
+    ],
+    "author": "坂口安吾",
+    "authorEn": "Sakaguchi Ango",
+    "genre": "历史推理",
+    "firstPublished": "1950",
+    "series": "日本推理名作选",
+    "detective": "结城新十郎",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "red-herring",
+      "city",
+      "social-commentary",
+      "honkaku",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "明治初年的东京，新旧秩序交替之际接连出现怪事。侦探结城新十郎与他的同伴一件件查下去，往往发现被称作「文明开化」的那一面，正是怪事得以成立的条件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 267,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3608270/",
+        "subjectId": "3608270",
+        "edition": "明治开化安吾捕物帖（上） 2009年4月",
+        "fetchedAt": "2026-09-22T05:10:51.073Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢捕物帐与明治时代背景的读者",
+        "对纯文学作家写推理感兴趣的读者"
+      ],
+      "watchFor": [
+        "当时刚出现的新器物与新制度",
+        "传闻如何在街头被越传越离谱",
+        "侦探对「常识」的怀疑态度"
+      ],
+      "warning": "短篇连作，时代背景浓厚，含部分怪谈色彩的篇目。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「明治开化安吾捕物帖 下」／坂口安吾）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-34-jp-classic-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "jpcls2-005",
+    "title": "黑桃A的诅咒",
+    "originalTitle": "りら荘事件",
+    "author": "鲇川哲也",
+    "authorEn": "Ayukawa Tetsuya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "读客悬疑文库",
+    "detective": "星影龙三",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "alibi",
+      "timetable",
+      "mansion",
+      "countryside",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一群人在山中的庄屋里度过一夜，第二天发现其中一人死在房内。现场留下的扑克牌像是某种排序，而每个人当晚的位置都能互相印证——太能互相印证了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 659,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37502927/",
+        "subjectId": "37502927",
+        "edition": "黑桃A的诅咒 2025",
+        "fetchedAt": "2026-09-22T05:10:57.055Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时刻表与不在场证明推演的读者",
+        "读过《黑色皮箱》《紫丁香庄园》的读者"
+      ],
+      "watchFor": [
+        "每人当晚在庄内的移动记录",
+        "扑克牌的排列顺序",
+        "证词之间衔接得过于整齐的地方"
+      ],
+      "warning": "本格解谜，重时间线与不在场证明，需对照做笔记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空而不是填一个估计值",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏凤凰文艺出版社 2025（馆藏题名「黑桃A的诅咒」／鲇川哲也）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-34-jp-classic-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  }
+]

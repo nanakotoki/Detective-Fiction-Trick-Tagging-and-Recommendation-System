@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "west3-001",
+    "title": "布朗神父探案集",
+    "originalTitle": "The Innocence of Father Brown",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1911",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "dual-role",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位外貌平常、说话绕弯的神父，接连卷入各类离奇事件。他破案靠的不是物证，而是对人心的理解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 347,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2122206/",
+        "subjectId": "2122206",
+        "edition": "布朗神父探案集 2010",
+        "fetchedAt": "2026-09-21T10:52:24.426Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典短篇与本格解谜的读者",
+        "对「侦探即心理学家」这一路数有兴趣的读者"
+      ],
+      "watchFor": [
+        "神父对当事人动机的判断",
+        "叙述者刻意不提的细节",
+        "看似无关的旁人身份"
+      ],
+      "warning": "爱德华时代的短篇集，文体与当代作品差异较大，含宗教话题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2000（布朗神父探案集／(英) G.K.切斯特顿著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2000"
+  },
+  {
+    "id": "west3-002",
+    "title": "知道太多的人",
+    "originalTitle": "The Man Who Knew Too Much",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "1922",
+    "series": "",
+    "detective": "霍恩",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位身居要职、掌握大量内情的男子，接连遇到看似意外的事件。他总能在旁人察觉之前看出其中的安排。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇连作的读者",
+        "对政治背景下的推理有兴趣的读者"
+      ],
+      "watchFor": [
+        "主角掌握的信息来源",
+        "事件表面理由与实际动机的落差",
+        "各篇之间的时间线索"
+      ],
+      "warning": "含政治与间谍要素，基调比布朗神父系列更冷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-003",
+    "title": "红拇指印",
+    "originalTitle": "The Red Thumb Mark",
+    "author": "R·奥斯汀·弗里曼",
+    "authorEn": "R. Austin Freeman",
+    "genre": "本格推理",
+    "firstPublished": "1907",
+    "series": "宋戴克医师系列",
+    "detective": "宋戴克医师",
+    "country": "英国",
+    "tags": [
+      "forensic",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一枚清晰的拇指印留在现场，看上去足以定案。被告的辩护方请来一位兼通医学与法律的鉴定者重新检视它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 119,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26946094/",
+        "subjectId": "26946094",
+        "edition": "红拇指印",
+        "fetchedAt": "2026-09-21T10:52:32.835Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢科学鉴识题材的读者",
+        "对早期法庭科学有兴趣的读者"
+      ],
+      "watchFor": [
+        "鉴定过程的每一步操作",
+        "样本的取得与保存方式",
+        "被当作定论的那项证据"
+      ],
+      "warning": "成书于 1907 年，部分鉴定技术已过时，但推理方法仍有价值。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-004",
+    "title": "歌唱的白骨",
+    "originalTitle": "The Singing Bone",
+    "author": "R·奥斯汀·弗里曼",
+    "authorEn": "R. Austin Freeman",
+    "genre": "本格推理",
+    "firstPublished": "1912",
+    "series": "宋戴克医师系列",
+    "detective": "宋戴克医师",
+    "country": "英国",
+    "tags": [
+      "reverse-chronology",
+      "forensic",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集。每一篇都先写清事情的经过与当事人，再让鉴定者从遗留下的物证出发，一步步推出同一结论。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 470,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5063402/",
+        "subjectId": "5063402",
+        "edition": "歌唱的白骨 2010",
+        "fetchedAt": "2026-09-21T10:52:37.938Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想了解「倒叙推理」起源的读者",
+        "喜欢物证推演的读者"
+      ],
+      "watchFor": [
+        "前半段留下的每一处痕迹",
+        "鉴定者选取的检验顺序",
+        "前后两段之间的对应关系"
+      ],
+      "warning": "倒叙体开山之作，读者一开始就知道经过，看点在推演过程。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2010（馆藏题名「歌唱的白骨」／弗里曼）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "west3-005",
+    "title": "死神之眼",
+    "originalTitle": "The Eye of Osiris",
+    "author": "R·奥斯汀·弗里曼",
+    "authorEn": "R. Austin Freeman",
+    "genre": "本格推理",
+    "firstPublished": "1911",
+    "series": "宋戴克医师系列",
+    "detective": "宋戴克医师",
+    "country": "英国",
+    "tags": [
+      "faceless-corpse",
+      "forensic",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位考古学者失踪，只留下零散的遗物。要确认他是否已经死亡，必须先弄清那些骨头属于谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 101,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2179662/",
+        "subjectId": "2179662",
+        "edition": "死神之眼 2011",
+        "fetchedAt": "2026-09-21T10:52:41.391Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢遗骨鉴定与身份谜团的读者",
+        "对埃及学背景有兴趣的读者"
+      ],
+      "watchFor": [
+        "遗骨被发现的地点与状态",
+        "解剖学上的判断依据",
+        "遗嘱与继承关系"
+      ],
+      "warning": "涉及遗骨与尸体鉴定描写，部分内容可能引起不适。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-006",
+    "title": "水晶瓶塞",
+    "originalTitle": "Le Bouchon de cristal",
+    "author": "莫里斯·勒布朗",
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "1912",
+    "series": "亚森·罗平系列",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": [
+      "adventure",
+      "dual-role",
+      "cipher",
+      "series-detective",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名以盗窃为业却行事有度的男子卷入一桩政界丑闻。他要找的东西藏在一件不起眼的日常用具里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 65,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3198481/",
+        "subjectId": "3198481",
+        "edition": "水晶瓶塞 1981",
+        "fetchedAt": "2026-09-21T10:52:47.792Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪盗冒险题材的读者",
+        "对法国「侠盗」传统有兴趣的读者"
+      ],
+      "watchFor": [
+        "主角的化名与出入场所",
+        "被反复端详的那件小物件",
+        "各方势力的相互牵制"
+      ],
+      "warning": "以冒险与智斗为看点，推理成分较轻。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-007",
+    "title": "三十口棺材岛",
+    "originalTitle": "L'Île aux trente cercueils",
+    "author": "莫里斯·勒布朗",
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "1919",
+    "series": "亚森·罗平系列",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": [
+      "isolated-island",
+      "legend-folklore",
+      "adventure",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一名女子循着线索来到布列塔尼外海的一座岛，岛上流传着关于三十口棺材的古老预言，而预言里的名字正被逐一应验。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 61,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10441814/",
+        "subjectId": "10441814",
+        "edition": "三十口棺材岛 2012",
+        "fetchedAt": "2026-09-21T10:52:52.529Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛冒险与古老预言的读者",
+        "对布列塔尼地方传说有兴趣的读者"
+      ],
+      "watchFor": [
+        "预言文本的具体措辞",
+        "岛上遗迹的位置",
+        "各人上岛的顺序"
+      ],
+      "warning": "气氛阴郁，含大量死亡场面与宿命色彩。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-008",
+    "title": "空心岩柱",
+    "originalTitle": "L'Aiguille creuse",
+    "author": "莫里斯·勒布朗",
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "1909",
+    "series": "亚森·罗平系列",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": [
+      "cipher",
+      "adventure",
+      "series-detective",
+      "historical-setting",
+      "countryside"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名中学生偶然卷入一桩悬案，顺着一条线索追到诺曼底海边。那里有一根中空的岩柱，藏着一个流传数百年的说法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢解谜式冒险的读者",
+        "对法国历史传说有兴趣的读者"
+      ],
+      "watchFor": [
+        "古老文献中的地名",
+        "海岸地形与潮汐",
+        "少年侦探的推理依据"
+      ],
+      "warning": "以冒险解谜为主，含历史传说成分。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 东方出版社 2013（馆藏题名「空心岩柱」／勒布朗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "west3-009",
+    "title": "金甲虫",
+    "originalTitle": "The Gold-Bug",
+    "author": "埃德加·爱伦·坡",
+    "authorEn": "Edgar Allan Poe",
+    "genre": "冒险悬疑",
+    "firstPublished": "1843",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "adventure",
+      "isolated-island",
+      "first-person"
+    ],
+    "school": [
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一名男子在海岸边捡到一只金色的甲虫，随之发现一张画着奇怪符号的羊皮纸。符号背后似乎藏着一段旧事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 146,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37186647/",
+        "subjectId": "37186647",
+        "edition": "金甲虫 2025",
+        "fetchedAt": "2026-09-21T10:53:01.758Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对密码解读起源有兴趣的读者",
+        "喜欢短篇冒险解谜的读者"
+      ],
+      "watchFor": [
+        "符号出现的频率",
+        "纸张受热后的变化",
+        "叙述者对同伴的观察"
+      ],
+      "warning": "1843 年的作品，含当时对种族与仆役的描写方式。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-010",
+    "title": "莱文沃思案",
+    "originalTitle": "The Leavenworth Case",
+    "author": "安娜·凯瑟琳·格林",
+    "authorEn": "Anna Katharine Green",
+    "genre": "本格推理",
+    "firstPublished": "1878",
+    "series": "",
+    "detective": "埃比尼泽·格赖斯",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "city",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位富商在书房中身亡，门窗完好。调查者起初把目光放在两位侄女身上，随着细节浮现，方向一再调整。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 43,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26962565/",
+        "subjectId": "26962565",
+        "edition": "莱文沃思案 2017",
+        "fetchedAt": "2026-09-21T10:53:06.345Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想了解美国侦探小说源流的读者",
+        "喜欢物证细节与法庭氛围的读者"
+      ],
+      "watchFor": [
+        "书房陈设与现场痕迹",
+        "两位当事人的证词",
+        "被反复提到的钟表时间"
+      ],
+      "warning": "1878 年的作品，文体与当代差异很大，含当时的性别观念。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理 **又名补充**：午夜文库·经典系列另出《利文沃兹案》（新星出版社 2010-4，subject/4246967，ISBN 9787802258878），为 The Leavenworth Case 的另一种中译名，同一部作品，故记为「又名」而不另立条目。 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「（新星出版社 2010-4」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "利文沃兹案"
+    ],
+    "editionYear": "2010"
+  },
+  {
+    "id": "west3-011",
+    "title": "特伦特最后一案",
+    "originalTitle": "Trent's Last Case",
+    "author": "爱德华·本特利",
+    "authorEn": "E. C. Bentley",
+    "genre": "本格推理",
+    "firstPublished": "1913",
+    "series": "",
+    "detective": "菲利普·特伦特",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一名记者受命报道富商遇害一案，自己动手查了起来。他得出结论后才发现，案子里有一层他从未设想过的解释。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 370,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1737316/",
+        "subjectId": "1737316",
+        "edition": "特伦特最后一案 2006",
+        "fetchedAt": "2026-09-21T10:53:13.346Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「侦探也会出错」这类结构的读者",
+        "对黄金时代前夜作品有兴趣的读者"
+      ],
+      "watchFor": [
+        "记者推理时依赖的前提",
+        "当事人的证词细节",
+        "结局对前文的重新安排"
+      ],
+      "warning": "被视为「侦探会犯错」这一写法的早期代表，结论层次较多。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-012",
+    "title": "箭屋",
+    "originalTitle": "The House of the Arrow",
+    "author": "A·E·W·梅森",
+    "authorEn": "A. E. W. Mason",
+    "genre": "本格推理",
+    "firstPublished": "1924",
+    "series": "哈纳探案",
+    "detective": "哈诺",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位法国老妇人在自家宅中去世，遗嘱的内容让亲属关系骤然紧张。受委托前来的人发现，宅子里的每个人都有所隐瞒。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 84,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1082964/",
+        "subjectId": "1082964",
+        "edition": "箭屋 2004",
+        "fetchedAt": "2026-09-21T10:53:18.409Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法国家族宅邸题材的读者",
+        "对遗嘱与继承纠纷有兴趣的读者"
+      ],
+      "watchFor": [
+        "遗嘱条款的措辞",
+        "宅中各人的经济处境",
+        "老妇人生前的用药与习惯"
+      ],
+      "warning": "以家访与推演推进，节奏沉稳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 译林出版社 2004（馆藏题名「箭屋」／梅森）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2004"
+  },
+  {
+    "id": "west3-013",
+    "title": "野兽必死",
+    "originalTitle": "The Beast Must Die",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1938",
+    "series": "奈杰尔·斯特兰奇韦斯系列",
+    "detective": "奈杰尔·斯特兰奇韦斯",
+    "country": "英国",
+    "tags": [
+      "diary-form",
+      "first-person",
+      "psychological-misdirection",
+      "revenge",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名男子的儿子死于肇事逃逸。他记下自己寻找肇事者的过程，也记下了打算如何了结这件事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 831,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36194209/",
+        "subjectId": "36194209",
+        "edition": "野兽必死 2023",
+        "fetchedAt": "2026-09-21T10:53:23.483Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢第一人称复仇叙事的读者",
+        "能接受道德灰色地带的读者"
+      ],
+      "watchFor": [
+        "日记中日期与行动的对应",
+        "他对嫌疑人的观察",
+        "侦探介入的时机"
+      ],
+      "warning": "涉及复仇与私刑议题，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2023（野兽必死／(英) 尼古拉斯·布莱克著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "禽兽该死"
+    ],
+    "editionYear": "2023"
+  },
+  {
+    "id": "west3-014",
+    "title": "旋转楼梯",
+    "originalTitle": "The Circular Staircase",
+    "author": "玛丽·罗伯茨·莱因哈特",
+    "authorEn": "Mary Roberts Rinehart",
+    "genre": "本格推理",
+    "firstPublished": "1908",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "first-person",
+      "mansion",
+      "red-herring",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位女士带着家人租下乡间宅子避暑，入住不久便接连出事。她以第一人称记下这段日子里的所见与所疑。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 12,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2267576/",
+        "subjectId": "2267576",
+        "edition": "旋轉樓梯 1997",
+        "fetchedAt": "2026-09-21T10:53:27.137Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢第一人称家庭悬疑的读者",
+        "对「女管家式叙述」这一路数有兴趣的读者"
+      ],
+      "watchFor": [
+        "叙述者看到与没看到的部分",
+        "宅中楼梯与房间的位置",
+        "夜里出现动静的规律"
+      ],
+      "warning": "1908 年的作品，文体与当代差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-015",
+    "title": "梅森探案集",
+    "originalTitle": "The Case of the Velvet Claws",
+    "author": "厄尔·斯坦利·加德纳",
+    "authorEn": "Erle Stanley Gardner",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1933",
+    "series": "梅森律师系列",
+    "detective": "佩里·梅森",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位辩护律师接下委托时发现，来人的说法前后不一。他一边应付庭审，一边在委托人之外寻找事实。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 199,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1080295/",
+        "subjectId": "1080295",
+        "edition": "梅森探案集  移花接木  别墅疑云 2003",
+        "fetchedAt": "2026-09-21T10:53:32.966Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭攻防的读者",
+        "对律师视角侦探故事有兴趣的读者"
+      ],
+      "watchFor": [
+        "委托人叙述中的漏洞",
+        "庭审中证据出示的顺序",
+        "律师安排的应对方式"
+      ],
+      "warning": "以法庭程序与律师调查为主线，含刑事案件描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-016",
+    "title": "女巫角",
+    "originalTitle": "Hag's Nook",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "legend-folklore",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座旧宅里流传着关于绞刑架的诅咒，家族中每一代都有人死于非命。新的一代即将成年，旧说法重新被提起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 739,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2378183/",
+        "subjectId": "2378183",
+        "edition": "女巫角 2007",
+        "fetchedAt": "2026-09-21T10:53:39.616Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家族诅咒题材的读者",
+        "卡尔系列的老读者"
+      ],
+      "watchFor": [
+        "诅咒说法的具体内容",
+        "宅邸与绞刑架的位置关系",
+        "各人的行动时间"
+      ],
+      "warning": "气氛阴郁，含宿命色彩与死亡场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-017",
+    "title": "阿拉伯之夜谋杀案",
+    "originalTitle": "The Arabian Nights Murder",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1936",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "博物馆的一间展厅里出了事，现场布置得像是《一千零一夜》里的场景。几份互相矛盾的证词让调查一开始就陷入混乱。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 813,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2378210/",
+        "subjectId": "2378210",
+        "edition": "阿拉伯之夜谋杀案 2007",
+        "fetchedAt": "2026-09-21T10:53:45.451Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多份证词互相冲突的读者",
+        "卡尔系列的老读者"
+      ],
+      "watchFor": [
+        "各份证词的记录者是谁",
+        "展厅的陈设与布置",
+        "时间线上的空白段"
+      ],
+      "warning": "叙事层较多，需要留意每段叙述的来源。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-018",
+    "title": "九尾怪猫",
+    "originalTitle": "Cat of Many Tails",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1949",
+    "series": "",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一座城市里接连出现手法相似的案件，市民陷入恐慌。调查者发现，受害者之间似乎没有任何交集。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 856,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3615076/",
+        "subjectId": "3615076",
+        "edition": "九尾怪猫 2009",
+        "fetchedAt": "2026-09-21T10:53:52.964Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢连环案件与逻辑推演的读者",
+        "奎因系列的老读者"
+      ],
+      "watchFor": [
+        "各起案件之间的共同点",
+        "受害者的社会关系",
+        "调查者排查过又排除的线索"
+      ],
+      "warning": "涉及连环案件与社会恐慌描写，基调偏暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "west3-019",
+    "title": "然后在第八天",
+    "originalTitle": "And on the Eighth Day",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1964",
+    "series": "",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "multiple-solutions",
+      "countryside",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名男子在沙漠中迷路，误入一处与外界少有往来的聚落。这里的人遵循着一套自成体系的规矩，而规矩正在松动。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 718,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11632543/",
+        "subjectId": "11632543",
+        "edition": "然后在第八天 2012",
+        "fetchedAt": "2026-09-21T10:53:56.866Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭社群题材的读者",
+        "对奎因后期风格有兴趣的读者"
+      ],
+      "watchFor": [
+        "聚落的规矩条文",
+        "外来者被允许知道的范围",
+        "新旧两代人的分歧"
+      ],
+      "warning": "带寓言色彩，与奎因早期作品风格差异较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「然后在第八天」／奎因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "west3-020",
+    "title": "恶之源",
+    "originalTitle": "The Origin of Evil",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1951",
+    "series": "",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一个普通家庭接连收到匿名寄来的财物。寄件人的用意不明，而这家人各自都有不愿被翻出来的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 535,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3615037/",
+        "subjectId": "3615037",
+        "edition": "恶之源 2009",
+        "fetchedAt": "2026-09-21T10:54:00.403Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家庭悬疑与逻辑推演的读者",
+        "奎因系列的老读者"
+      ],
+      "watchFor": [
+        "包裹的寄出时间与邮戳",
+        "家中各人的经济状况",
+        "被反复提到的那件旧物"
+      ],
+      "warning": "涉及家庭隐私与陈年旧事，基调偏暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-25-western-classic.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

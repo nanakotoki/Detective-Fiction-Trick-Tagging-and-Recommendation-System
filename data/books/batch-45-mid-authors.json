@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "mid-001",
+    "title": "华丽人生",
+    "originalTitle": "ラッシュライフ",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2002",
+    "series": "",
+    "detective": "无固定侦探（多线人物群像）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "nonlinear",
+      "city",
+      "concealment",
+      "meta-fiction",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "meta-school",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "几个人在同一天里各自过着自己的日子：一个小偷、一个失业的男人、一个做心理咨询的女人。他们互不相识，但彼此的行动正在悄悄改变对方的处境。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 12257,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35602671/",
+        "subjectId": "35602671",
+        "edition": "华丽人生 2021",
+        "fetchedAt": "2026-09-22T10:53:39.857Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多线交汇结构的读者",
+        "伊坂幸太郎的读者"
+      ],
+      "watchFor": [
+        "各条线出现交集的物件",
+        "同一段时间被重复描写的部分",
+        "谁会先遇到谁"
+      ],
+      "warning": "多线群像，时间线刻意打乱，建议一次读完。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2017（华丽人生／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "mid-002",
+    "title": "一首小夜曲",
+    "originalTitle": "一首小夜曲",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "日常之谜",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "无固定侦探（短篇连作）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "youth",
+      "city",
+      "nonlinear",
+      "meta-fiction"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇连作，各篇讲一对男女的相遇，而篇与篇之间用同一首歌串起来。没有案件，只有那些当时没在意、事后才明白的瞬间。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 9956,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26687879/",
+        "subjectId": "26687879",
+        "edition": "一首小夜曲 2016",
+        "fetchedAt": "2026-09-22T10:53:45.456Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢伊坂式温柔笔调的读者",
+        "偏好短篇连作的读者"
+      ],
+      "watchFor": [
+        "那首歌出现在哪些场合",
+        "各篇人物之间的交叉",
+        "每篇结尾的时间点"
+      ],
+      "warning": "短篇连作，无凶案，属日常之谜与青春题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2016（一首小夜曲／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "mid-003",
+    "title": "沙漠",
+    "originalTitle": "砂漠",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "青春推理",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "无固定侦探（大学生群像）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "ensemble",
+      "campus",
+      "city",
+      "social-commentary",
+      "meta-fiction"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "五个大学生在北方城市的冬天里混日子，打保龄球、打麻将、聊一些没什么用的话题。而他们这一代人正被要求做一件他们还没想清楚的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 2507,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34438686/",
+        "subjectId": "34438686",
+        "edition": "沙漠 2020",
+        "fetchedAt": "2026-09-22T10:53:48.800Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢青春群像的读者",
+        "伊坂幸太郎的读者"
+      ],
+      "watchFor": [
+        "几个人各自的立场变化",
+        "保龄球这条线出现的位置",
+        "他们谈论「超能力」的场合"
+      ],
+      "warning": "青春向群像小说，无凶案与侦探，这里收录是因为它对理解伊坂的写法很关键。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "mid-004",
+    "title": "孩子们",
+    "originalTitle": "チルドレン",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "日常之谜",
+    "firstPublished": "2004",
+    "series": "",
+    "detective": "无固定侦探（短篇连作）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "youth",
+      "city",
+      "meta-fiction",
+      "social-commentary"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "social-school"
+    ],
+    "safeSummary": "短篇连作，围绕一个总在换工作、说话没头没尾的男人展开。旁人觉得他不靠谱，而他每次插手别人的麻烦，用的都是同一套谁也没想到的办法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 1695,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33404969/",
+        "subjectId": "33404969",
+        "edition": "孩子们 2019",
+        "fetchedAt": "2026-09-22T10:53:52.216Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢单元式短篇连作的读者"
+      ],
+      "watchFor": [
+        "这个男人每次换的工作",
+        "他给出的那句看似跑题的判断",
+        "几篇之间人物的重叠"
+      ],
+      "warning": "短篇连作，无凶案，基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "mid-005",
+    "title": "余生皆假期",
+    "originalTitle": "余生は全部休暇",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "",
+    "detective": "无固定侦探（父子视角）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "dual-line",
+      "city",
+      "red-herring",
+      "concealment",
+      "meta-fiction",
+      "youth"
+    ],
+    "school": [
+      "meta-school",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个刚辞职的男人被儿子问起从前的事，他于是讲了一段听着不太可信的经历。儿子一边听一边追问细节，而追问下去的方向，和父亲预想的完全不同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 25909,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25892399/",
+        "subjectId": "25892399",
+        "edition": "余生皆假期 2015",
+        "fetchedAt": "2026-09-22T10:53:55.277Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢父子对话推动叙事的读者"
+      ],
+      "watchFor": [
+        "父亲讲述里的时间漏洞",
+        "儿子提出的那几个问题",
+        "「假期」这个词出现的场合"
+      ],
+      "warning": "以对话推进，含黑帮与旧案背景。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2015.02（余生皆假期／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "mid-006",
+    "title": "汽油生活",
+    "originalTitle": "ガソリン生活",
+    "author": "伊坂幸太郎",
+    "authorEn": "Isaka Kotaro",
+    "genre": "日常之谜",
+    "firstPublished": "2013",
+    "series": "",
+    "detective": "无固定侦探（以一辆家用车为叙述者）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "city",
+      "meta-fiction",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "meta-school"
+    ],
+    "safeSummary": "叙述者是一户人家的私家车。它停在停车场里，听着主人一家的对话、看着上下车的乘客，把观察到的这些串成了一件发生在身边的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 4282,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26712094/",
+        "subjectId": "26712094",
+        "edition": "汽油生活 2016",
+        "fetchedAt": "2026-09-22T10:53:58.675Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢特殊叙述者的读者",
+        "伊坂幸太郎的读者"
+      ],
+      "watchFor": [
+        "叙述者能看到与看不到的范围",
+        "车里乘客的谈话",
+        "它对主人一家的判断是否可靠"
+      ],
+      "warning": "叙述者是一辆车，设定特殊；无凶案，基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2016（汽油生活／(日)伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "mid-007",
+    "title": "暗黑童话",
+    "originalTitle": "暗黒童話",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "concealment",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个女孩失去了记忆，却拥有一种能力：只要接触别人的眼球，就能看到那个人曾经看到的画面。她用这种方式拼凑自己的过去，而那些画面彼此并不连贯。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 18069,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4067621/",
+        "subjectId": "4067621",
+        "edition": "暗黑童话 2009",
+        "fetchedAt": "2026-09-22T10:54:02.114Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "能接受怪奇与阴暗题材的读者"
+      ],
+      "watchFor": [
+        "她看到的画面之间的断点",
+        "能力的触发条件与限制",
+        "她对自己过去的推断"
+      ],
+      "warning": "含猎奇与暴力描写，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2022.04（暗黑童话／(日) 乙一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "mid-008",
+    "title": "平面狗",
+    "originalTitle": "平面犬",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "变格",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "dark-atmosphere",
+      "youth",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，每篇都从一个很小的、几乎像是玩笑的设定出发：身上多出来的东西、看不见的同伴。而写到最后，这些设定都会落到一个具体的人身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 12794,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2297706/",
+        "subjectId": "2297706",
+        "edition": "平面狗 2007",
+        "fetchedAt": "2026-09-22T10:54:07.637Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一短篇的读者",
+        "能接受温柔与阴暗并存的读者"
+      ],
+      "watchFor": [
+        "每篇那个特殊设定的规则",
+        "主角身边的人的反应",
+        "结尾处留白的那句话"
+      ],
+      "warning": "短篇集，各篇独立，基调在温情与怪奇之间摆动。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **又名补充**：馆藏另有《平面犬》（marc 0000883619，译者吕灵芝），与本书原作名同为 平面犬，是同一部作品的另一种中译名（犬／狗之别），故记为「又名」而不另立条目。",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 当代世界出版社 2007（馆藏题名「平面狗」／乙一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "平面犬"
+    ],
+    "editionYear": "2007"
+  },
+  {
+    "id": "mid-009",
+    "title": "天帝妖狐",
+    "originalTitle": "天帝妖狐",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "变格",
+    "firstPublished": "1997",
+    "series": "",
+    "detective": "无固定侦探（两部中篇）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "legend-folklore",
+      "dark-atmosphere",
+      "identity",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "两部中篇。一部讲的是一具尸体的自述，另一部讲一个被下了咒的年轻人。乙一写的从来不是怪物本身，而是还留在怪物里面的那部分人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 5580,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4199431/",
+        "subjectId": "4199431",
+        "edition": "天帝妖狐 2009",
+        "fetchedAt": "2026-09-22T10:54:11.123Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一的读者",
+        "能接受怪奇设定的读者"
+      ],
+      "watchFor": [
+        "叙述者的身份",
+        "「妖狐」这个说法由谁提起",
+        "两部中篇的共同点"
+      ],
+      "warning": "怪奇中篇集，含死亡与变形描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2022（馆藏题名「天帝之狐」／乙一著）。馆藏题名作「天帝之狐」。山西省图书馆 OPAC 的 MARC 记录显示该版（四川文艺出版社 2022，ISBN 978-7-5411-6222-0）提要为「本书收录了《假面舞会》和《天帝妖狐》两部小说」——即**同一本书**，馆藏题名与库内题名一字之差（之／妖）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填，并经 `scripts/audit-edition-year.mjs` 逐条复核（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "mid-010",
+    "title": "只有你听到",
+    "originalTitle": "きみにしか聞こえない",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "青春推理",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "youth",
+      "psychological-misdirection",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，主角多是学生。他们各自有一种别人不会相信的体验，而故事要处理的不是那个体验是真是假，而是他们为什么会需要它是真的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 5548,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35216488/",
+        "subjectId": "35216488",
+        "edition": "只有你听到 2021",
+        "fetchedAt": "2026-09-22T10:54:14.541Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乙一短篇的读者",
+        "喜欢青春与怪奇结合的读者"
+      ],
+      "watchFor": [
+        "每篇主角的特殊体验",
+        "周围人的反应",
+        "结尾处那个没有解释的细节"
+      ],
+      "warning": "短篇集，各篇独立，基调孤独，含死亡题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：杭州:,浙江人民出版社:,2020（只有你听到／(日) 乙一著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "mid-011",
+    "title": "濒死之绿",
+    "originalTitle": "死にぞこないの青",
+    "author": "乙一",
+    "authorEn": "Otsuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（少年第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "campus",
+      "youth",
+      "psychological-misdirection",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个被全班和老师一起孤立的小学生，某天发现自己身边多了一个只有他能看见的东西。它说会帮他，而他很快发现，这种帮忙的代价和他想的不一样。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 2834,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25881330/",
+        "subjectId": "25881330",
+        "edition": "濒死之绿 2014",
+        "fetchedAt": "2026-09-22T10:54:17.921Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "能接受校园霸凌题材的读者",
+        "乙一的读者"
+      ],
+      "watchFor": [
+        "那个东西出现的时机",
+        "老师与同学的言行",
+        "男孩自己怎么解释这些事"
+      ],
+      "warning": "涉及校园霸凌与儿童心理创伤，基调压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：桂林:,广西师范大学出版社:,2014.07（濒死之绿／(日) 乙一）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "mid-012",
+    "title": "深红色的迷宫",
+    "originalTitle": "深紅色の迷宮",
+    "author": "贵志佑介",
+    "authorEn": "Kishi Yusuke",
+    "genre": "冒险悬疑",
+    "firstPublished": "2006",
+    "series": "",
+    "detective": "无固定侦探（生存者视角）",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "adventure",
+      "closed-circle",
+      "fear",
+      "concealment",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "adventure-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一群人醒来时身处一片陌生的地下空间，彼此都不记得自己是怎么到这里的。要出去只能往里走，而越往里，越像是有人在安排他们的路线。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1027,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26361747/",
+        "subjectId": "26361747",
+        "edition": "深红色的迷宫 2015",
+        "fetchedAt": "2026-09-22T10:54:21.278Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢生存惊悚的读者",
+        "贵志佑介的读者"
+      ],
+      "watchFor": [
+        "各人醒来的位置",
+        "空间里的规则",
+        "谁在别人之前就知道该往哪走"
+      ],
+      "warning": "生存惊悚，含血腥与身体伤害描写，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：重庆:,重庆出版社:,2015.02（深红色的迷宫／(日) 贵志佑介著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "mid-013",
+    "title": "诗般的杀意",
+    "originalTitle": "詩的私的ジャック",
+    "author": "森博嗣",
+    "authorEn": "Mori Hiroshi",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "S&M 系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "campus",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名教授收到了一份以「诗」的形式寄来的东西，随后与他有关的人接连出事。犀川与萌绘要弄清的是：这些像诗一样的字句，是在说明动机，还是在掩盖动机。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1212,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4893053/",
+        "subjectId": "4893053",
+        "edition": "诗般的杀意 2010年7月",
+        "fetchedAt": "2026-09-22T10:54:24.649Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "S&M 系列的读者",
+        "喜欢理系解谜的读者"
+      ],
+      "watchFor": [
+        "那些字句的排列方式",
+        "收件人之间的关系",
+        "谁了解教授的研究领域"
+      ],
+      "warning": "S&M 系列长篇，含冷峻的理系对话与连续案件。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2010（馆藏题名「诗般的杀意」／森博嗣）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "mid-014",
+    "title": "死亡幻术的门徒",
+    "originalTitle": "幻惑の死と使途",
+    "author": "森博嗣",
+    "authorEn": "Mori Hiroshi",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "S&M 系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "theater"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名魔术师在表演过程中身亡，现场条件与他的表演流程都对得上，看不出有人插手的余地。犀川要从手法本身入手，判断哪一步是表演，哪一步不是。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 692,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6026290/",
+        "subjectId": "6026290",
+        "edition": "死亡幻术的门徒 2011",
+        "fetchedAt": "2026-09-22T10:54:30.265Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢魔术题材本格的读者",
+        "S&M 系列的读者"
+      ],
+      "watchFor": [
+        "表演的每一步顺序",
+        "道具的检查记录",
+        "谁知道完整流程"
+      ],
+      "warning": "S&M 系列长篇，谜面围绕舞台魔术展开。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2011（馆藏题名「死亡幻术的门徒」／森博嗣）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "mid-015",
+    "title": "晚安，拉赫曼尼诺夫",
+    "originalTitle": "おやすみラフマニノフ",
+    "author": "中山七里",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "本格推理",
+    "firstPublished": "2010",
+    "series": "岬洋介系列",
+    "detective": "岬洋介",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "concealment",
+      "obsession",
+      "theater"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名钢琴比赛的热门选手在决赛前身亡，而现场留下的线索指向一段被反复弹奏的乐句。岬洋介要判定的不只是谁动的手，还有这段音乐为什么非要在那时响起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 99,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25925669/",
+        "subjectId": "25925669",
+        "edition": "晚安，拉赫曼尼諾夫 2014",
+        "fetchedAt": "2026-09-22T10:54:33.334Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岬洋介系列的读者",
+        "对古典音乐题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "那段乐句在比赛曲目中的位置",
+        "选手之间的竞争关系",
+        "谁在赛前改动过安排"
+      ],
+      "warning": "音乐推理，含钢琴比赛细节；豆瓣条目评价人数很少，样本不足。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "mid-016",
+    "title": "倒错的归结",
+    "originalTitle": "倒錯の帰結",
+    "author": "折原一",
+    "authorEn": "Orihara Ichi",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "series": "倒错系列",
+    "detective": "无固定侦探（多重视角）",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "multiple-solutions",
+      "meta-fiction",
+      "red-herring",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "psychological-school"
+    ],
+    "safeSummary": "同一个事件被写成好几份材料：手记、投稿、编辑的说明。每份材料单看都说得通，放在一起却对不上——而把它们摆在一起的人，本身就带着目的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 1977,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10537626/",
+        "subjectId": "10537626",
+        "edition": "倒错的归结 2012",
+        "fetchedAt": "2026-09-22T10:54:37.965Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述性诡计的读者",
+        "折原一「倒错系列」的读者"
+      ],
+      "watchFor": [
+        "每份材料的作者与写作时间",
+        "材料之间的细节冲突",
+        "把这些材料编在一起的那个人的动机"
+      ],
+      "warning": "多文本嵌套结构，刻意与读者博弈，建议留意每一份材料的落款。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「倒错的归结」／折原一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "mid-018",
+    "title": "续·日本杀人事件",
+    "originalTitle": "続・日本殺人事件",
+    "author": "山口雅也",
+    "authorEn": "Yamaguchi Masaya",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "historical-setting",
+      "red-herring",
+      "meta-fiction",
+      "honkaku",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，每篇都借用一个日本旧时代的故事框架，再把其中的「不可能」抽出来当谜面。作者的兴趣在于：这些老设定到底还能不能骗到今天的读者。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.3,
+        "count": 159,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11529485/",
+        "subjectId": "11529485",
+        "edition": "续·日本杀人事件 2013",
+        "fetchedAt": "2026-09-22T10:54:46.187Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对推理文体本身感兴趣的读者",
+        "山口雅也的读者"
+      ],
+      "watchFor": [
+        "每篇借用的旧框架是什么",
+        "被抽出来当谜面的那一点",
+        "作者在篇末如何自陈"
+      ],
+      "warning": "短篇集，各篇独立，偏实验与游戏性；豆瓣评价人数很少，样本不足。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「续·日本杀人事件」／山口雅也）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "mid-019",
+    "title": "盘上之敌",
+    "originalTitle": "盤上の敵",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1999",
+    "series": "",
+    "detective": "无固定侦探（双线）",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "narrative-trick",
+      "psychological-misdirection",
+      "concealment",
+      "city",
+      "meta-fiction",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "meta-school"
+    ],
+    "safeSummary": "一条线写一桩绑架案，另一条线写两个人在棋盘前对弈。两条线交替推进，读的人很快会意识到：棋局里每一步的取舍，和案子里的每一步是同一件事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 2821,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4133164/",
+        "subjectId": "4133164",
+        "edition": "盘上之敌 2009",
+        "fetchedAt": "2026-09-22T10:54:50.869Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双线对照结构的读者",
+        "对将棋感兴趣的读者"
+      ],
+      "watchFor": [
+        "棋局的走向与案情的对应",
+        "绑架方的要求",
+        "两条线的时间是否同步"
+      ],
+      "warning": "双线叙事，含将棋术语与绑架题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2010（馆藏题名「盘上之敌」／北村薰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "mid-020",
+    "title": "秋花",
+    "originalTitle": "秋花",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "日常之谜",
+    "firstPublished": "1997",
+    "series": "圆紫大师系列",
+    "detective": "圆紫大师",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "city",
+      "historical-setting",
+      "series-detective",
+      "honkaku",
+      "youth"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名女大学生遇到一件说不通的小事，去请落语家圆紫大师帮忙参详。事情本身很小，解开它却要绕进一段旧年代的文学与人事里去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 548,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37157888/",
+        "subjectId": "37157888",
+        "edition": "秋花 2025",
+        "fetchedAt": "2026-09-22T10:54:54.181Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "圆紫大师系列的读者",
+        "喜欢文学气息浓的日常推理的读者"
+      ],
+      "watchFor": [
+        "那件小事的表述方式",
+        "圆紫大师反问的那句话",
+        "旧年代文本里的对应"
+      ],
+      "warning": "日常推理，无凶案，含大量昭和文学与落语话题。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 2025（馆藏题名「秋花」／北村薰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "mid-021",
+    "title": "六之宫公主",
+    "originalTitle": "六の宮の姫君",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "日常之谜",
+    "firstPublished": "1992",
+    "series": "圆紫大师系列",
+    "detective": "圆紫大师",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "historical-setting",
+      "city",
+      "series-detective",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "女大学生在查一篇旧作的来历，越查越觉得里面有个地方被人有意绕开了。她把问题带给圆紫大师，而大师先从「这句话是谁说的」问起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.8,
+        "count": 495,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5293928/",
+        "subjectId": "5293928",
+        "edition": "六之宮公主 2010/10/06",
+        "fetchedAt": "2026-09-22T10:55:02.214Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "圆紫大师系列的读者",
+        "对日本近代文学感兴趣的读者"
+      ],
+      "watchFor": [
+        "旧作的版本差异",
+        "被绕开的那处",
+        "大师提问的角度"
+      ],
+      "warning": "日常推理，无凶案，涉及日本近代文学史。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 2025（馆藏题名「六之宫公主」／北村薰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-45-mid-authors.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  }
+]

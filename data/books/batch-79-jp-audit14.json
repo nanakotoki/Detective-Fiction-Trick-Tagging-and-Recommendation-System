@@ -1,0 +1,257 @@
+[
+  {
+    "id": "jpaudit79-001",
+    "title": "世界怪奇实话（上）",
+    "originalTitle": "",
+    "author": "牧逸马",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "世界怪奇实话",
+    "detective": "无固定侦探（实录，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "obsession",
+      "gain"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "犯罪实录上卷。作者游历欧美期间收集整理的奇闻异事，连载于《中央公论》后结集。按他自己的说法，写法就是把「故事」与「真实事件」两种概念故意混在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 560,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5387468/",
+        "subjectId": "5387468",
+        "edition": "世界怪奇实话（上） 2011",
+        "fetchedAt": "2026-09-22T16:34:29.636Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪实录与旧案记录的读者",
+        "想追溯日本推理素材来源的读者"
+      ],
+      "watchFor": [
+        "每篇事件的发生地与年代",
+        "作者是实地走访还是转述",
+        "叙述里被略过的部分"
+      ],
+      "warning": "**犯罪实录，不是虚构小说**（收录理由是它与本库已收的《小笛事件》同属战前犯罪实录，且被日本历代推理作家视为素材源泉）。含真实案件与暴力描写。该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5387468，按 subject id 直取）；梗概据公开作者自序重写并经人工核对。牧逸马本名长谷川海太郎（1900－1935），另有笔名林不忘、谷让次",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「世界怪奇实话 上」／牧逸马）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-79-jp-audit14.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "jpaudit79-002",
+    "title": "世界怪奇实话（中）",
+    "originalTitle": "",
+    "author": "牧逸马",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "世界怪奇实话",
+    "detective": "无固定侦探（实录，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "fear",
+      "legend-folklore"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "犯罪实录中卷。作者在前言里写明：本书不拘泥于犯罪事件，只要是真实的，各种奇闻异事都收进来；所记内容几乎都是他实地调查的结果。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 270,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5387469/",
+        "subjectId": "5387469",
+        "edition": "世界怪奇实话（中） 2011",
+        "fetchedAt": "2026-09-22T16:34:32.713Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪实录与旧案记录的读者",
+        "想追溯日本推理素材来源的读者"
+      ],
+      "watchFor": [
+        "哪些篇目并非犯罪而是异闻",
+        "作者自述的调查过程",
+        "与上卷重复提到的地点"
+      ],
+      "warning": "**犯罪实录，不是虚构小说**。含真实案件与暴力描写。该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5387469，按 subject id 直取）；梗概据公开作者自序重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「世界怪奇实话 中」／牧逸马）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-79-jp-audit14.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "jpaudit79-003",
+    "title": "世界怪奇实话（下）",
+    "originalTitle": "",
+    "author": "牧逸马",
+    "authorEn": "",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "世界怪奇实话",
+    "detective": "无固定侦探（实录，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "obsession",
+      "gain"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "犯罪实录下卷。这套书被日本历代推理作家视为灵感与素材的源泉——岛田庄司曾特意编选过一本《牧逸马的世界怪奇实话》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 233,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5387470/",
+        "subjectId": "5387470",
+        "edition": "世界怪奇实话（下） 2011",
+        "fetchedAt": "2026-09-22T16:34:35.999Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪实录与旧案记录的读者",
+        "想追溯日本推理素材来源的读者"
+      ],
+      "watchFor": [
+        "哪几则后来被推理作家改写",
+        "作者对案件的态度",
+        "全书收尾的方式"
+      ],
+      "warning": "**犯罪实录，不是虚构小说**。含真实案件与暴力描写。该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5387470，按 subject id 直取）；梗概据公开作者简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「世界怪奇实话 下」／牧逸马）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-79-jp-audit14.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  }
+]

@@ -1,0 +1,766 @@
+[
+  {
+    "id": "hg57-001",
+    "title": "湖畔",
+    "originalTitle": "レイクサイド",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "社会派",
+    "firstPublished": "2002",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "concealment",
+      "social-commentary",
+      "psychological-misdirection",
+      "countryside",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "四对夫妇带着孩子住进湖边的别墅，为的是让孩子考上同一所名校。某天早上，其中一家的女主人被发现死在湖边，而四家人的第一反应都是：这件事不能报警。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 19242,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26598142/",
+        "subjectId": "26598142",
+        "edition": "湖畔 2016",
+        "fetchedAt": "2026-09-22T12:42:32.463Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾社会派作品的读者",
+        "关注教育议题的读者"
+      ],
+      "watchFor": [
+        "四家人对同一件事的态度",
+        "孩子们当天的行踪",
+        "谁最先提出不报警"
+      ],
+      "warning": "社会派长篇，含婚外情、升学压力与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "hg57-002",
+    "title": "十一字杀人",
+    "originalTitle": "11文字の殺人",
+    "alternateTitles": [
+      "11字谜案"
+    ],
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1984",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "multiple-solutions",
+      "red-herring",
+      "first-person",
+      "concealment",
+      "city",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名女子的男友在海边溺亡，官方结论是意外。她在他的遗物里发现了一张写着十一个字的纸条，而顺着这十一个字查下去，牵出了一群当年同在一艘船上的人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 15114,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191587/",
+        "subjectId": "4191587",
+        "edition": "十一字杀人 2010年1月",
+        "fetchedAt": "2026-09-22T12:42:38.074Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾早期本格的读者",
+        "喜欢文字谜题的读者"
+      ],
+      "watchFor": [
+        "那十一个字的确切内容",
+        "当年船上人员的名单",
+        "各人对那次出海的回忆差异"
+      ],
+      "warning": "本格长篇，含溺亡与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2010（十一字杀人／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "hg57-003",
+    "title": "布鲁特斯的心脏",
+    "originalTitle": "ブルータスの心臓",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1989",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "concealment",
+      "red-herring",
+      "dark-atmosphere",
+      "city",
+      "identity",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一家公司正在测试一台能代替人工作的机器，而公司内部的人事斗争也到了最后一步。当一个被安排好的计划开始执行，所有人都在确认一件事：机器究竟记住了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 6144,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20432186/",
+        "subjectId": "20432186",
+        "edition": "布鲁特斯的心脏 2013",
+        "fetchedAt": "2026-09-22T12:42:45.842Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾早期作品的读者",
+        "对企业与科技题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "机器的记录与人的记忆差异",
+        "计划参与者的分工",
+        "谁在计划之外动了手"
+      ],
+      "warning": "犯罪悬疑长篇，含暴力与职场斗争描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "hg57-004",
+    "title": "鸟人计划",
+    "originalTitle": "鳥人計画",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1989",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "concealment",
+      "snowfield",
+      "dark-atmosphere",
+      "forensic",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "forensic-school"
+    ],
+    "safeSummary": "一名跳台滑雪选手在集训期间身亡，而当时在场的队友都说没看到异常。办案方要从训练记录、雪况与每个人的作息里，找出那个被所有人跳过的时刻。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 4679,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5939295/",
+        "subjectId": "5939295",
+        "edition": "鸟人计划 2011",
+        "fetchedAt": "2026-09-22T12:42:49.413Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢运动题材推理的读者",
+        "东野圭吾早期作品的读者"
+      ],
+      "watchFor": [
+        "训练记录与在场者证词",
+        "当天的雪况与风向",
+        "谁在案发后调整过器材"
+      ],
+      "warning": "本格长篇，含竞技体育细节与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "hg57-005",
+    "title": "天使之耳",
+    "originalTitle": "天使の耳",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1991",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "forensic",
+      "city",
+      "honkaku",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "forensic-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，主题都落在交通事故上。看似普通的车祸里藏着说不通的地方，而解法靠的多半是现场留下的物理痕迹与当事人的听力、视力这类被忽略的条件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 2486,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30488942/",
+        "subjectId": "30488942",
+        "edition": "天使之耳 2019",
+        "fetchedAt": "2026-09-22T12:42:55.545Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇本格的读者",
+        "东野圭吾早期作品的读者"
+      ],
+      "watchFor": [
+        "现场痕迹的方向与力度",
+        "当事人感官条件的限制",
+        "证词里那些技术细节"
+      ],
+      "warning": "短篇集，各篇独立，含交通事故与伤亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2019（天使之耳／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "hg57-006",
+    "title": "美丽的凶器",
+    "originalTitle": "美しい凶器",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1992",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "concealment",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "social-school"
+    ],
+    "safeSummary": "几名与体育界有关的人接连出事，而他们多年前共同经历过同一件事。动手的人并不掩饰自己的目的，难的是弄清她为什么等了这么久。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 2437,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26103819/",
+        "subjectId": "26103819",
+        "edition": "美丽的凶器 2014",
+        "fetchedAt": "2026-09-22T12:43:00.925Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾早期作品的读者",
+        "喜欢复仇题材的读者"
+      ],
+      "watchFor": [
+        "几名当事人当年共同做过什么",
+        "他们各自如今的位置",
+        "谁在阻止事情被查清"
+      ],
+      "warning": "犯罪悬疑长篇，含复仇、暴力与性相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2014（美丽的凶器／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "chr57-001",
+    "title": "死亡之犬",
+    "originalTitle": "The Hound of Death",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "变格",
+    "firstPublished": "1933",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "英国",
+    "tags": [
+      "legend-folklore",
+      "first-person",
+      "dark-atmosphere",
+      "fear",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，是克里斯蒂作品里最偏超自然的一批。她写的仍然是人的执念与恐惧，只是这一次把解释权留在了读者手里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 441,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1215326/",
+        "subjectId": "1215326",
+        "edition": "死亡之犬 1998",
+        "fetchedAt": "2026-09-22T12:43:04.673Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想读克里斯蒂非系列短篇的读者",
+        "能接受超自然色彩"
+      ],
+      "watchFor": [
+        "每篇里那个未被解释的现象",
+        "叙述者的可信度",
+        "故事停在了哪一句上"
+      ],
+      "warning": "短篇集，各篇独立，带超自然与怪奇色彩，与她的本格作品风格不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 1998（馆藏题名「死亡之犬」／克里斯蒂）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1998"
+  },
+  {
+    "id": "chr57-002",
+    "title": "命运之门",
+    "originalTitle": "Postern of Fate",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1973",
+    "series": "汤米与塔彭丝系列",
+    "detective": "汤米·贝雷斯福德、塔彭丝·贝雷斯福德",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "cipher",
+      "concealment",
+      "red-herring",
+      "honkaku",
+      "countryside"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一对年老的夫妇搬进一栋旧宅，在整理书架时发现一本书里被人用铅笔写下了一句话，大意是「某人不是我杀的」。他们顺着这句话去查，发现这件事已经过去了很多年。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.2,
+        "count": 1176,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26413663/",
+        "subjectId": "26413663",
+        "edition": "命运之门 2015",
+        "fetchedAt": "2026-09-22T12:43:08.555Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "汤米与塔彭丝系列的读者",
+        "喜欢旧书与旧案题材的读者"
+      ],
+      "watchFor": [
+        "那句话的字迹与年份",
+        "宅子历任住户",
+        "镇上人对那件事的说法"
+      ],
+      "warning": "克里斯蒂晚期长篇，节奏偏慢，重回忆与旧事追查。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2022.12（命运之门／(英) 阿加莎·克里斯蒂著 AGATHA CHRISTIE）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "chr57-003",
+    "title": "灯火阑珊",
+    "originalTitle": "While the Light Lasts",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "ensemble",
+      "identity",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，收录的多是她写作生涯不同阶段的非系列篇目。题材从殖民地背景的旧事到伦敦的日常纠纷都有，能看出她的兴趣在这几十年里怎么变。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1360,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26687880/",
+        "subjectId": "26687880",
+        "edition": "灯火阑珊 2016",
+        "fetchedAt": "2026-09-22T12:43:12.272Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂短篇的读者",
+        "想看她非系列作品的读者"
+      ],
+      "watchFor": [
+        "每篇的写作年代痕迹",
+        "叙述视角的选择",
+        "结尾处那个被推翻的判断"
+      ],
+      "warning": "短篇集，各篇独立，风格跨度较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-58-higashino-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

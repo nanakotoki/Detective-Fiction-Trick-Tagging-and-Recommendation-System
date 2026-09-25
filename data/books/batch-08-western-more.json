@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "western2-001",
+    "title": "ABC谋杀案",
+    "originalTitle": "The A.B.C. Murders",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1936",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "nursery-rhyme",
+      "red-herring",
+      "psychological-misdirection",
+      "alibi",
+      "timetable",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一封封署名ABC的挑战信寄到波洛手中，随后各地接连发生命案，每处现场都留下一本字母顺序的铁路指南。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 37734,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24737009/",
+        "subjectId": "24737009",
+        "edition": "ABC谋杀案 2013",
+        "fetchedAt": "2026-09-20T15:56:48.103Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢序列式连续案件的读者",
+        "偏好古典解谜与公平线索的读者"
+      ],
+      "watchFor": [
+        "信件寄出的时间与案件发生地点的对应关系",
+        "各案目击者对陌生人外貌的描述差异",
+        "波洛对每起案件背景的追问方式"
+      ],
+      "warning": "本书为系列作，登场人物与线索较分散，建议边读边整理信件、地点与被害人的对应表。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-002",
+    "title": "尼罗河上的惨案",
+    "originalTitle": "Death on the Nile",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1937",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "cruise-ship",
+      "alibi",
+      "red-herring",
+      "psychological-misdirection",
+      "passion",
+      "gain",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "尼罗河游轮上，一对新婚夫妇与一位执着的旧友同船而行；随后一位乘客死于非命，波洛逐一问询船上众人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 56196,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1818347/",
+        "subjectId": "1818347",
+        "edition": "尼罗河上的惨案 2006",
+        "fetchedAt": "2026-09-20T15:13:37.062Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭场景群像调查的读者",
+        "偏好不在场证明与时间线推敲的读者"
+      ],
+      "watchFor": [
+        "每位乘客在案发时段的行踪陈述",
+        "船上人物公开与私下的关系",
+        "波洛反复追问过的几处细节"
+      ],
+      "warning": "登场人物较多，建议先梳理乘客名单与彼此的关系再进入调查部分。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "尼罗河谋杀案"
+    ]
+  },
+  {
+    "id": "western2-003",
+    "title": "阳光下的罪恶",
+    "originalTitle": "Evil Under the Sun",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1941",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "isolated-island",
+      "alibi",
+      "timetable",
+      "red-herring",
+      "psychological-misdirection",
+      "passion",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "海滨小岛上的一座度假酒店里，一位女客陈尸于僻静的海湾，住客们各有各的说法，波洛开始调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 15545,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25929085/",
+        "subjectId": "25929085",
+        "edition": "阳光下的罪恶 2014",
+        "fetchedAt": "2026-09-20T14:18:02.024Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢度假地封闭圈层案件的读者",
+        "偏好时间线与行踪核对的读者"
+      ],
+      "watchFor": [
+        "各人在案发时段的活动与目击者",
+        "酒店住客之间此前是否相识",
+        "与死者关系紧张的几位客人"
+      ],
+      "warning": "本书重心在人物关系与时间线，建议边读边记下每位住客当天的行踪。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-004",
+    "title": "死亡终局",
+    "originalTitle": "Death Comes as the End",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1944",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "historical-setting",
+      "countryside",
+      "legend-folklore",
+      "passion",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "公元前两千年的埃及，一位祭司家中接连发生不祥之事，家人把疑惧投向已故者留下的诅咒，少女蕾妮森布目睹一切。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2215,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30398399/",
+        "subjectId": "30398399",
+        "edition": "死亡终局 2018",
+        "fetchedAt": "2026-09-20T13:21:21.280Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古代背景推理的读者",
+        "偏好家族内部群像与猜疑氛围的读者"
+      ],
+      "watchFor": [
+        "家中各人对同一事件的转述差异",
+        "古埃及家庭的继承与居住规矩",
+        "家中各人明面上的关系与私下往来"
+      ],
+      "warning": "本书舞台为古代埃及，人物姓名与亲属关系密集，建议先记住家谱再读下去。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-005",
+    "title": "怪屋",
+    "originalTitle": "Crooked House",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1949",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "gain",
+      "passion",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "伦敦郊外一栋歪斜的老宅里，年迈的家长突然中毒身亡，家人各怀心思；归国的青年查尔斯受托留下观察这个家庭。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 5192,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25862274/",
+        "subjectId": "25862274",
+        "edition": "怪屋 2014",
+        "fetchedAt": "2026-09-20T13:21:24.590Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家族群像与关系推理的读者",
+        "偏好第一人称视角叙述的读者"
+      ],
+      "watchFor": [
+        "家族成员对遗产与婚事的公开态度",
+        "叙述者对每个人物的第一印象",
+        "宅子里日常起居的细节"
+      ],
+      "warning": "本书为独立长篇，登场人物较多，建议先理清家族成员之间的亲疏与称呼。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-006",
+    "title": "歪曲的枢纽",
+    "originalTitle": "The Crooked Hinge",
+    "alternateTitles": [
+      "扭曲的铰链"
+    ],
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1938",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "dual-role",
+      "psychological-misdirection",
+      "identity",
+      "mansion",
+      "countryside",
+      "legend-folklore",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "英国乡间的庄园里，两位男子都自称是同一爵位的继承人，争执未决之际，庄园内发生了一桩命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1404,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2378202/",
+        "subjectId": "2378202",
+        "edition": "歪曲的枢纽 2007",
+        "fetchedAt": "2026-09-20T13:21:28.048Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢身份谜团与不可能犯罪的读者",
+        "偏好卡尔式乡间庄园氛围的读者"
+      ],
+      "watchFor": [
+        "两位继承候选人各自的说法与证物",
+        "命案现场周围的出入口与目击者位置",
+        "当地关于这座庄园的旧传闻"
+      ],
+      "warning": "本书为系列作，涉及英国继承制度与旧案背景，建议留意人物关系与称谓的说明。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-007",
+    "title": "绿胶囊之谜",
+    "originalTitle": "The Problem of the Green Capsule",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1939",
+    "series": "基甸·菲尔博士系列",
+    "detective": "基甸·菲尔博士",
+    "country": "美国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "alibi",
+      "countryside",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小镇糖果店里的巧克力被人下毒，数人受害；一位乡绅为验证目击者的可靠程度安排了一场公开演示。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 2578,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35170811/",
+        "subjectId": "35170811",
+        "edition": "绿胶囊之谜 2020",
+        "fetchedAt": "2026-09-20T13:21:33.441Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢证词可靠性主题的读者",
+        "偏好乡间小镇群像的读者"
+      ],
+      "watchFor": [
+        "演示现场每位观看者的位置与视线",
+        "糖果店事件受害者之间的关联",
+        "不同人物对同一场景的描述差异"
+      ],
+      "warning": "本书为系列作，建议留意证词与实物记录之间的出入。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理 **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,外语教学与研究出版社:,2020（绿胶囊之谜／(美) 约翰·迪克森·卡尔著 JOHN DICKSON CARR）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "western2-008",
+    "title": "血字的研究",
+    "originalTitle": "A Study in Scarlet",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1887",
+    "series": "福尔摩斯系列",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "dual-line",
+      "cipher",
+      "red-herring",
+      "revenge",
+      "city",
+      "adventure",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "伦敦一间空屋里出现一具毫无外伤的尸体，墙上留着一个血字；这是华生记录下的福尔摩斯早期案件之一。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 1259,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6308163/",
+        "subjectId": "6308163",
+        "edition": "血字的研究 2012",
+        "fetchedAt": "2026-09-20T13:21:38.971Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢维多利亚时代伦敦氛围的读者",
+        "偏好双线叙事与旧案追溯的读者"
+      ],
+      "watchFor": [
+        "墙上的字迹与现场遗留物",
+        "报纸上的启事与相关记录",
+        "叙述中时间与地点的切换"
+      ],
+      "warning": "本书为福尔摩斯系列的开篇长篇，后半部时间与地域跨度较大，建议留意叙述视角的转换。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-009",
+    "title": "四签名",
+    "originalTitle": "The Sign of the Four",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1890",
+    "series": "福尔摩斯系列",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "cipher",
+      "red-herring",
+      "concealment",
+      "revenge",
+      "city",
+      "adventure",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位女子收到匿名寄来的珍珠，随后委托福尔摩斯陪同赴约；围绕失踪的父亲与旧日宝藏的谜团就此展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 1182,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34805607/",
+        "subjectId": "34805607",
+        "edition": "血字的研究·四签名 2019",
+        "fetchedAt": "2026-09-20T13:21:44.969Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢追踪线索与寻宝题材的读者",
+        "偏好维多利亚伦敦街景的读者"
+      ],
+      "watchFor": [
+        "委托人家中留存的文件与图纸",
+        "同行几人的身份与来历",
+        "河上追逐前后的时间安排"
+      ],
+      "warning": "本书为系列长篇，含异国背景的插叙段落，建议留意时间与地点的跳转。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-010",
+    "title": "空屋历险记",
+    "originalTitle": "The Adventure of the Empty House",
+    "author": "阿瑟·柯南·道尔",
+    "authorEn": "Arthur Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "1903",
+    "series": "福尔摩斯系列（《归来记》）",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "vanished-weapon",
+      "dual-role",
+      "red-herring",
+      "first-person",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "伦敦一位年轻贵族在反锁的房间内中弹身亡，现场不见凶器，窗外的街道还处在监视之下。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书（待抓取）",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可能犯罪与短篇节奏的读者",
+        "偏好福尔摩斯后期故事的读者"
+      ],
+      "watchFor": [
+        "房间门窗的位置与街道视线",
+        "死者在案发前的行程安排",
+        "新出现的面孔与其行为细节"
+      ],
+      "warning": "本篇属于福尔摩斯系列，人物与前作有关联，建议按出版顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    }
+  },
+  {
+    "id": "western2-011",
+    "title": "暹罗连体人之谜",
+    "originalTitle": "The Siamese Twin Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "series": "埃勒里·奎因系列",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "countryside",
+      "dark-atmosphere",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座山顶别墅被森林大火围困，避居其中的埃勒里父子遇上一桩命案，屋主一家与来客各有隐情。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 2364,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3112724/",
+        "subjectId": "3112724",
+        "edition": "暹罗连体人之谜 2008",
+        "fetchedAt": "2026-09-20T13:21:52.076Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间与极限环境设定的读者",
+        "偏好逻辑推演式解谜的读者"
+      ],
+      "watchFor": [
+        "大火蔓延前后众人的活动范围",
+        "屋主家庭成员的病史与关系",
+        "现场遗留的小物件"
+      ],
+      "warning": "本书为系列作，建议留意侦探在过程中提出过的多个假设。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-012",
+    "title": "荷兰鞋之谜",
+    "originalTitle": "The Dutch Shoe Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1931",
+    "series": "埃勒里·奎因系列",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "alibi",
+      "locked-space",
+      "red-herring",
+      "psychological-misdirection",
+      "hospital",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位女富豪在手术前的准备室里被发现死于非命，医院里人来人往，埃勒里着手核查当天的出入情形。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 2188,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25986274/",
+        "subjectId": "25986274",
+        "edition": "荷兰鞋之谜 2014",
+        "fetchedAt": "2026-09-20T13:21:57.596Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢医院等封闭场所案件的读者",
+        "偏好物证细节推敲的读者"
+      ],
+      "watchFor": [
+        "准备室出入人员的顺序与时间",
+        "现场衣物与随身物品的摆放",
+        "医院人员的值班安排"
+      ],
+      "warning": "本书为系列作，建议留意侦探对物证细节的反复核对。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2014（荷兰鞋之谜／(美) 埃勒里·奎因著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "western2-013",
+    "title": "十日惊奇",
+    "originalTitle": "Ten Days' Wonder",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1948",
+    "series": "埃勒里·奎因系列",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "countryside",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一位富家子弟在间歇性失忆后向埃勒里求助，想弄清自己在那段时间做过什么；不久镇上发生命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 1525,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5336211/",
+        "subjectId": "5336211",
+        "edition": "十日惊奇 2010",
+        "fetchedAt": "2026-09-20T13:22:03.112Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理悬念与古典解谜结合的读者",
+        "偏好奎因后期长篇的读者"
+      ],
+      "watchFor": [
+        "当事人对失忆时段的回忆与旁证",
+        "小镇居民对这户人家的看法",
+        "案件前后的日期与通信往来"
+      ],
+      "warning": "本书为系列作，主角的判断在书中会经历反复，建议先保留自己的推断。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2010（馆藏题名「十日惊奇」／奎因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "western2-014",
+    "title": "贝罗那俱乐部的不快事件",
+    "originalTitle": "The Unpleasantness at the Bellona Club",
+    "author": "多萝西·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1928",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西爵爷",
+    "country": "英国",
+    "tags": [
+      "alibi",
+      "timetable",
+      "red-herring",
+      "forensic",
+      "gain",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位老将军在伦敦绅士俱乐部的扶手椅中去世，恰逢停战纪念日的默哀时刻，死亡时间因此难以确定。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 368,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3621596/",
+        "subjectId": "3621596",
+        "edition": "贝罗那俱乐部的不快事件 2009",
+        "fetchedAt": "2026-09-20T13:22:08.393Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时间线与遗产纠纷交织的读者",
+        "偏好英式俱乐部氛围的读者"
+      ],
+      "watchFor": [
+        "将军与妹妹各自的遗嘱安排",
+        "俱乐部当天的作息与人员流动",
+        "医生对死亡时间的判断依据"
+      ],
+      "warning": "本书为系列作，涉及英国遗产法与俱乐部习俗，建议留意相关说明。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "western2-015",
+    "title": "博来·法拉先生",
+    "originalTitle": "Brat Farrar",
+    "alternateTitles": [
+      "博莱特·法拉"
+    ],
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1949",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "dual-role",
+      "red-herring",
+      "psychological-misdirection",
+      "identity",
+      "concealment",
+      "countryside",
+      "mansion"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一个年轻人被说服冒充某家族失踪多年的继承人回到庄园，家族中却有人对他的身份心存怀疑。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 746,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1248320/",
+        "subjectId": "1248320",
+        "edition": "博来·法拉先生 2003",
+        "fetchedAt": "2026-09-20T13:22:13.779Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢身份冒充与家族秘密题材的读者",
+        "偏好英式庄园日常描写的读者"
+      ],
+      "watchFor": [
+        "家族成员对归来者的态度变化",
+        "庄园经营与马术活动的安排",
+        "家族旧事的传闻与记录"
+      ],
+      "warning": "本书重在人物与心理描写，案件元素出现较晚，建议耐心读完前段。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：哈尔滨:,北方文艺出版社:,2007（博来·法拉先生／(英) 约瑟芬·铁伊著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2007"
+  },
+  {
+    "id": "western2-016",
+    "title": "格林家杀人事件",
+    "originalTitle": "The Greene Murder Case",
+    "author": "S·S·范·达因",
+    "authorEn": "S. S. Van Dine",
+    "genre": "本格推理",
+    "firstPublished": "1928",
+    "series": "菲洛·凡斯系列",
+    "detective": "菲洛·凡斯",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "red-herring",
+      "psychological-misdirection",
+      "mansion",
+      "city",
+      "gain",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "纽约一栋老宅里，家族成员接连遭遇不测，而遗嘱规定他们必须同住在这栋宅子中，凡斯介入调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 684,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1319671/",
+        "subjectId": "1319671",
+        "edition": "格林家杀人事件 2005",
+        "fetchedAt": "2026-09-20T13:22:19.110Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢大家族遗产题材的读者",
+        "偏好美式古典解谜的读者"
+      ],
+      "watchFor": [
+        "遗嘱条款对居住与继承的限制",
+        "宅中各人的作息与房间位置",
+        "家人对彼此的评价与旧怨"
+      ],
+      "warning": "本书为系列作，登场人物较多，建议先理清家族成员与佣人的关系。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 朝华出版社 2005（馆藏题名「格林家杀人事件」／范达因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "葛蕾丝命案"
+    ],
+    "editionYear": "2005"
+  },
+  {
+    "id": "western2-017",
+    "title": "主教杀人事件",
+    "originalTitle": "The Bishop Murder Case",
+    "author": "S·S·范·达因",
+    "authorEn": "S. S. Van Dine",
+    "genre": "本格推理",
+    "firstPublished": "1929",
+    "series": "菲洛·凡斯系列",
+    "detective": "菲洛·凡斯",
+    "country": "美国",
+    "tags": [
+      "nursery-rhyme",
+      "red-herring",
+      "psychological-misdirection",
+      "city",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "纽约一户人家的院子里发生命案，现场情形与一首古老的童谣吻合；不久又出现了署名的信件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 657,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1414445/",
+        "subjectId": "1414445",
+        "edition": "主教杀人事件 2005",
+        "fetchedAt": "2026-09-20T13:22:22.594Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童谣与序列式案件结构的读者",
+        "偏好二十年代纽约氛围的读者"
+      ],
+      "watchFor": [
+        "童谣文本与每起事件的对应点",
+        "收到信件的时间与投递方式",
+        "登场人物之间的学术与私人往来"
+      ],
+      "warning": "本书为系列作，涉及棋类与数学话题的段落较多，可略读后回看。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 朝华出版社 2005（馆藏题名「主教杀人事件」／范达因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2005"
+  },
+  {
+    "id": "western2-018",
+    "title": "禁闭岛",
+    "originalTitle": "Shutter Island",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2003",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "isolated-island",
+      "psychological-misdirection",
+      "red-herring",
+      "hospital",
+      "dark-atmosphere",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "两名法警乘船前往一座关押精神病罪犯的孤岛监狱，调查一名女病人的失踪事件，岛上却遭遇风暴阻挠。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 237,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36897633/",
+        "subjectId": "36897633",
+        "edition": "禁闭岛 2024",
+        "fetchedAt": "2026-09-20T13:22:26.146Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛密闭环境与心理张力的读者",
+        "偏好悬疑与推理交融的读者"
+      ],
+      "watchFor": [
+        "岛上工作人员的说法与书面记录",
+        "主角自身的头痛与梦境片段",
+        "监狱各区域的通行规则"
+      ],
+      "warning": "本书气氛压抑，涉及精神医疗与创伤题材，请酌情阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "provenance": {
+      "source": "batch-08-western-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

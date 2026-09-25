@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cnaudit67-001",
+    "title": "超能力侦探事务所",
+    "originalTitle": "",
+    "author": "陆烨华",
+    "authorEn": "Lu Yehua",
+    "genre": "日常之谜",
+    "firstPublished": "2016",
+    "series": "超能力侦探事务所系列",
+    "detective": "事务所的众侦探",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "series-detective",
+      "meta-fiction",
+      "honkaku",
+      "city"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "幻影城是一座侦探之城，各种风格的侦探事务所并存。超能力侦探事务所的侦探们确实各有超能力，只不过每个人的能力都有点派不上用场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1027,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26815978/",
+        "subjectId": "26815978",
+        "edition": "超能力侦探事务所 2016",
+        "fetchedAt": "2026-09-22T14:36:59.297Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢幽默推理的读者",
+        "华语原创本格读者"
+      ],
+      "watchFor": [
+        "每个人的超能力到底能做什么",
+        "事务所之外的动静",
+        "被当成玩笑略过的那条线索"
+      ],
+      "warning": "幽默推理短篇连作，基调轻快，含犯罪与凶案描写（不写血腥场面）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2016 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-67-cn-audit2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cnaudit85-001",
+    "title": "女神",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "王稼骏作品",
+    "detective": "无固定侦探（第一人称）",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "obsession",
+      "gain",
+      "red-herring",
+      "ensemble",
+      "fear",
+      "first-person"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "我因为想做生意的念头误入歧途，背上了巨额债务，债主派人上门逼债。缓解危机的唯一办法是拿到因车祸去世的父母的遗产，而前提是找到已离家出走两年的姐姐——据说她加入了一个叫「云端」的组织。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创推理读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "「云端」这个组织的说法",
+        "那位「女神」的来历",
+        "叙述者自己的动机与说辞"
+      ],
+      "warning": "犯罪悬疑长篇，含债务、逼债与组织操控等题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000940216，北京联合出版公司 2023 年版，ISBN 978-7-5596-6739-7，丛编「谜托邦 11」「王稼骏作品 01」）；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-85-cn-audit7.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。本条抓取时豆瓣限流，评分稍后补齐。"
+    }
+  },
+  {
+    "id": "cnaudit85-002",
+    "title": "阿尔法的迷宫",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "2016",
+    "series": "王稼骏作品",
+    "detective": "童平",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "meta-fiction",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "有一种新的破案手段：用仪器借助脑电波进入昏迷者的大脑，潜入者要在那个世界里扮演某个角色，套取受试者藏在心里的秘密。童平因儿时捉迷藏的本事成了潜入者。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 449,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26846551/",
+        "subjectId": "26846551",
+        "edition": "阿尔法的迷宫 2016",
+        "fetchedAt": "2026-09-23T06:35:32.884Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系与叙述诡计的读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "潜入者在「阿尔法世界」里的身份",
+        "受试者隐瞒的是什么",
+        "现实与那一侧的分界"
+      ],
+      "warning": "设定系推理长篇，含科幻设定与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000344855，新星出版社 2016 年 8 月版，ISBN 978-7-5133-2298-0，丛编「午夜文库·原创系列·王稼骏作品 02」）；梗概由整理者自行重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-85-cn-audit7.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

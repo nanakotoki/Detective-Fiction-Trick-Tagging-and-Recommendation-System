@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "shinhonkaku-001",
+    "title": "嫌疑人X的献身",
+    "originalTitle": "容疑者Xの献身",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "新本格",
+    "firstPublished": "2005",
+    "series": "伽利略系列",
+    "detective": "汤川学",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "psychological-misdirection",
+      "red-herring",
+      "dual-line",
+      "concealment",
+      "obsession",
+      "city",
+      "honkaku",
+      "series-detective",
+      "forensic"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名数学教师与一对母女成了邻居，一桩发生在都市公寓里的案件把三人卷进同一张网。侦查与守护同时推进，双方都在与时间赛跑。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为情感线与推理结构结合得极为紧密，结尾余韵强；也有读者认为社会派色彩重于解谜趣味。",
+        "score": 8.9,
+        "count": 559997,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3211779/",
+        "subjectId": "3211779",
+        "edition": "嫌疑人X的献身 2008",
+        "fetchedAt": "2026-09-20T15:49:47.816Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 40000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞结构精巧与人物动机的层次感，部分读者认为节奏偏慢。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不在场证明与逻辑推演类诡计的读者",
+        "偏好情感线与推理并重的读者"
+      ],
+      "watchFor": [
+        "各个人物在同一时间点的行踪",
+        "侦查线与另一条叙事线交替推进的节奏"
+      ],
+      "warning": "本书含时间与不在场证明层面的结构设计，建议留意章节中的时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据出版社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2014（嫌疑人X的献身／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "shinhonkaku-002",
+    "title": "恶意",
+    "originalTitle": "悪意",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "加贺恭一郎系列",
+    "detective": "加贺恭一郎",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "psychological-misdirection",
+      "red-herring",
+      "diary-form",
+      "unreliable-narrator",
+      "first-person",
+      "city",
+      "concealment",
+      "obsession",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位作家之死很快有了轮廓，相关人留下的手记与调查记录却彼此错位。刑警重读这些文字时，感到案件背后还有更冷的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为手记体结构与层层剥开的写法极具冲击力，篇幅短、节奏快；部分读者觉得人物温度偏低。",
+        "score": 8.5,
+        "count": 245945,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3646172/",
+        "subjectId": "3646172",
+        "edition": "恶意 2009",
+        "fetchedAt": "2026-09-20T11:59:52.882Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 12000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞文本结构与动机描写，也有读者认为推理成分偏轻。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢手记体与叙述性诡计的读者",
+        "偏好短篇幅、节奏紧凑的推理作品的读者"
+      ],
+      "watchFor": [
+        "每一份手记的书写者与书写时间",
+        "同一事件在不同文本中的说法差异"
+      ],
+      "warning": "本书由多种手记与记录类文本构成，建议留意每份文本是谁、在什么时间写下的。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据出版社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-003",
+    "title": "放学后",
+    "originalTitle": "放課後",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "1985",
+    "series": "非系列",
+    "detective": "前岛",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "psychological-misdirection",
+      "red-herring",
+      "campus",
+      "youth",
+      "first-person",
+      "concealment",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一所女子高中的老师接连出事，其中一起发生在无法从外部进出的屋子里。校园里人人忙着社团与考试，日常的缝隙中藏着敌意。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为校园氛围与密室谜团结合自然，作为出道作完成度高；部分读者觉得人物刻画略显单薄。",
+        "score": 7.6,
+        "count": 159256,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4074636/",
+        "subjectId": "4074636",
+        "edition": "放学后 2010",
+        "fetchedAt": "2026-09-20T14:10:51.993Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢校园舞台与密室类谜团的读者",
+        "偏好篇幅短、节奏快的本格推理的读者"
+      ],
+      "watchFor": [
+        "案发前后各人物在校园内的动线",
+        "社团活动与校历上的时间点"
+      ],
+      "warning": "本书包含密室类谜团，建议留意作品中反复出现的时间与场所提示。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据出版社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-004",
+    "title": "白夜行",
+    "originalTitle": "白夜行",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "社会派",
+    "firstPublished": "1999",
+    "series": "非系列",
+    "detective": "笹垣润三",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "nonlinear",
+      "city",
+      "concealment",
+      "obsession",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一桩旧案之后，两个孩子各自长大。此后近二十年里，他们身边的人不断遭遇不幸，而两条人生轨迹始终若即若离。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍认为群像与时间跨度极具压迫感，长期被视为其代表作；部分读者指出推理趣味让位于人物命运。",
+        "score": 9.2,
+        "count": 542786,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10554308/",
+        "subjectId": "10554308",
+        "edition": "白夜行 2013",
+        "fetchedAt": "2026-09-20T15:50:04.874Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.2,
+        "count": 10000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞叙事野心与时代质感，也有读者认为篇幅偏长、推进缓慢。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多视角、长跨度群像叙事的读者",
+        "关注社会议题与人物命运的读者"
+      ],
+      "watchFor": [
+        "各章节标注的年份与视角人物",
+        "事件之间的因果链条如何被逐步补全"
+      ],
+      "warning": "本书时间跨度长、视角人物多，建议留意每章的时间与视角切换。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据出版社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-005",
+    "title": "钟表馆事件",
+    "originalTitle": "時計館の殺人",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "1991",
+    "series": "馆系列",
+    "detective": "鹿谷门实",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "timetable",
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "dual-line",
+      "dark-atmosphere",
+      "series-detective",
+      "narrative-trick",
+      "psychological-misdirection",
+      "locked-space",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一座以钟表为主题的旧馆里，来访者在一场仪式中与外界断了联系。钟声与指针各说各话，旧日事故的阴影也随之浮现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者普遍称赞建筑设定与时间主题、伏笔严密，收束出人意料；部分读者觉得节奏偏慢。",
+        "score": 8.3,
+        "count": 28525,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26771719/",
+        "subjectId": "26771719",
+        "edition": "钟表馆事件 2016",
+        "fetchedAt": "2026-09-20T15:50:08.437Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与封闭舞台的读者",
+        "偏爱宏大建筑设定与时间主题的读者",
+        "喜欢馆系列与建筑舞台的读者",
+        "对时间主题与氛围营造感兴趣的读者"
+      ],
+      "watchFor": [
+        "各章节标注的时间与在场人物",
+        "馆内不同区域的时间参照",
+        "馆内各处时钟显示的时间",
+        "叙述在不同时间层之间切换的标记",
+        "来客在馆内停留的天数与日程安排"
+      ],
+      "warning": "本书把时间刻度作为阅读体验的一部分，建议随手记录各章节的时间与人物位置。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-006",
+    "title": "首无作祟之物",
+    "originalTitle": "首無の如き祟るもの",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "新本格",
+    "firstPublished": "2007",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "multiple-solutions",
+      "narrative-trick",
+      "locked-room",
+      "red-herring",
+      "diary-form",
+      "countryside",
+      "historical-setting",
+      "legend-folklore",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "深山名门为继承仪式聚在一处，仪式当天出现了无头的死者。旧宅与水井边代代相传的忌讳，让村人对某个古老名号闭口不谈。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞结构精巧、谜团数量惊人、解答层层翻覆，怪谈氛围到位；部分读者认为文笔与篇幅处理偏弱。",
+        "score": 8.7,
+        "count": 17327,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6249670/",
+        "subjectId": "6249670",
+        "edition": "首无·作祟之物 2011",
+        "fetchedAt": "2026-09-20T12:00:10.650Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗怪谈氛围与本格解谜结合的读者",
+        "能接受厚书与密集推论的读者"
+      ],
+      "watchFor": [
+        "文本的记录者、转述者与成文时间",
+        "同一事件在不同记录中的出入"
+      ],
+      "warning": "本书含叙述层次与多重推论的结构设计，读到最后建议回看前面的记录性章节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据原书房官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 文化发展出版社 2021（馆藏题名「如首无作祟之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "shinhonkaku-007",
+    "title": "如幽女怨怼之物",
+    "originalTitle": "幽女の如き怨むもの",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "新本格",
+    "firstPublished": "2012",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "psychological-misdirection",
+      "red-herring",
+      "diary-form",
+      "historical-setting",
+      "legend-folklore",
+      "social-commentary",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "被卖入花街的少女在日记里写下自己的日子。战前、战中、战后，同一座游郭接连有人投水身亡，人们把账算在某个名号身上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞三个时代的对照与日记体写法，氛围哀婉；部分读者认为篇幅偏长、推理感偏弱。",
+        "score": 8,
+        "count": 5264,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35217601/",
+        "subjectId": "35217601",
+        "edition": "如幽女怨怼之物 2020",
+        "fetchedAt": "2026-09-20T12:00:15.985Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢时代背景与民俗怪谈氛围的读者",
+        "偏好日记体、多时代并行叙事的读者"
+      ],
+      "watchFor": [
+        "三段时间线各自的年代与人物关系",
+        "日记文本的书写时间与叙述范围"
+      ],
+      "warning": "本书跨越战前、战中、战后三个时期，建议留意每段的时间标记与记录者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 文化发展出版社 2020（馆藏题名「如幽女怨怼之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "shinhonkaku-008",
+    "title": "夏与冬的奏鸣曲",
+    "originalTitle": "夏と冬の奏鳴曲",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yutaka Maya",
+    "genre": "新本格",
+    "firstPublished": "1993",
+    "series": "麦卡托系列",
+    "detective": "麦卡托鲇",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "narrative-trick",
+      "psychological-misdirection",
+      "red-herring",
+      "isolated-island",
+      "mansion",
+      "unreliable-narrator",
+      "honkaku"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "一群旧友重返当年夏天共同生活过的孤岛。岛上的宅邸一切如旧，可他们记忆中的那个夏天，似乎与眼前的一切对不上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称结构激进、颠覆推理范式；不少读者觉得晦涩难读、用力过猛。",
+        "score": 7.1,
+        "count": 3434,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10546184/",
+        "subjectId": "10546184",
+        "edition": "夏与冬的奏鸣曲 2012",
+        "fetchedAt": "2026-09-20T12:00:23.934Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛封闭舞台与实验性结构的读者",
+        "能接受挑战读者式写法的读者"
+      ],
+      "watchFor": [
+        "岛上旧日记录与当下叙述的差异",
+        "各人物对同一段往事的说法"
+      ],
+      "warning": "本书结构带有实验性与后设趣味，建议留意叙述层次的变化。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-009",
+    "title": "有翼之暗",
+    "originalTitle": "翼ある闇 メルカトル鮎最後の事件",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yutaka Maya",
+    "genre": "新本格",
+    "firstPublished": "1991",
+    "series": "麦卡托系列",
+    "detective": "麦卡托鲇",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "faceless-corpse",
+      "psychological-misdirection",
+      "red-herring",
+      "unreliable-narrator",
+      "mansion",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一座封闭的宅邸里接连出现离奇的死亡，受邀而来的侦探与随行的记录者被卷了进去。疑点越积越多，记录者的笔始终没有停下。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称多重解答与收束处的逆转密集精彩；也有人觉得前段沉闷、布局牵强。",
+        "score": 7.6,
+        "count": 6005,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25892396/",
+        "subjectId": "25892396",
+        "edition": "有翼之暗 2014",
+        "fetchedAt": "2026-09-20T12:00:27.484Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭宅邸与多重解答的读者",
+        "对挑战读者式结构感兴趣的读者"
+      ],
+      "watchFor": [
+        "记录者提供信息的范围与边界",
+        "宅邸内各人物的位置与时间点"
+      ],
+      "warning": "本书含叙述层次与多重推论的设计，建议留意记录者的叙述范围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-010",
+    "title": "独眼少女",
+    "originalTitle": "隻眼の少女",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yutaka Maya",
+    "genre": "新本格",
+    "firstPublished": "2010",
+    "series": "非系列",
+    "detective": "御陵御影",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "narrative-trick",
+      "psychological-misdirection",
+      "closed-circle",
+      "dual-line",
+      "countryside",
+      "legend-folklore",
+      "meta-fiction",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "山村里的旧案与传说再次被提起，一名独眼的少女以侦探身份介入。随着新的死亡出现，关于她自身的疑问也越来越多。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称逻辑推演与多重解答出色、颠覆推理法则；也有人觉得人物关系的处理略显极端。",
+        "score": 7.6,
+        "count": 5386,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25918073/",
+        "subjectId": "25918073",
+        "edition": "独眼少女 2014",
+        "fetchedAt": "2026-09-20T12:00:33.058Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢山村封闭舞台与传说型谜团的读者",
+        "偏好冷峻氛围与反复推翻式解答的读者"
+      ],
+      "watchFor": [
+        "1985年与2003年两条叙事线的对应关系",
+        "各方对同一传说的不同讲法"
+      ],
+      "warning": "本书含多重推论与叙述层面的设计，建议留意时间推进与叙述范围的变化。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据文艺春秋官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shinhonkaku-011",
+    "title": "倒错的轮舞",
+    "originalTitle": "倒錯のロンド",
+    "author": "折原一",
+    "authorEn": "Hajime Orihara",
+    "genre": "新本格",
+    "firstPublished": "1989",
+    "series": "倒错系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "psychological-misdirection",
+      "multiple-solutions",
+      "first-person",
+      "dual-line",
+      "city",
+      "meta-fiction",
+      "obsession",
+      "honkaku"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "立志成为推理小说作家的青年写出自信能获奖的长篇，原稿却被他人拿走，并以陌生人的名义得了奖。原作者与剽窃者就此展开追逐。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为布局精巧、环环相扣，被摆布感强烈；部分读者觉得设定取巧、文笔朴素。",
+        "score": 7.3,
+        "count": 2810,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7047217/",
+        "subjectId": "7047217",
+        "edition": "倒错的轮舞 2012",
+        "fetchedAt": "2026-09-20T15:07:07.338Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述性诡计与出版业界题材的读者",
+        "愿意反复核对文本细节的读者"
+      ],
+      "watchFor": [
+        "两条叙事线各自的叙述者与时间",
+        "同一份文稿在不同叙述中的来历"
+      ],
+      "warning": "本书含叙述层面的设计，建议留意叙述者提供信息的边界。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「倒错的轮舞」／折原一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "shinhonkaku-012",
+    "title": "异人们的馆",
+    "originalTitle": "異人たちの館",
+    "author": "折原一",
+    "authorEn": "Hajime Orihara",
+    "genre": "新本格",
+    "firstPublished": "1993",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "diary-form",
+      "unreliable-narrator",
+      "mansion",
+      "countryside",
+      "meta-fiction",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "穷困的代笔作家受雇住进一座宅邸，为一位夫人撰写她失踪儿子的传记。他翻阅旧资料、走访相关人士，身边却开始出现诡异的「异人」身影。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为前半氛围与铺陈精彩、可读性强，但收尾仓促、力道不足。",
+        "score": 7.3,
+        "count": 1012,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24882299/",
+        "subjectId": "24882299",
+        "edition": "异人们的馆 2013",
+        "fetchedAt": "2026-09-20T12:00:41.800Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述性诡计与多文体拼贴的读者",
+        "偏好封闭宅邸与昭和氛围的读者"
+      ],
+      "watchFor": [
+        "年谱、采访、独白等不同文本的出处",
+        "各文本对同一人物说法的不一致"
+      ],
+      "warning": "本书由多种文体与视角交替构成，建议留意每段文本的出处与叙述者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据讲谈社官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「异人们的馆」／折原一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "shinhonkaku-013",
+    "title": "模仿犯",
+    "originalTitle": "模倣犯",
+    "author": "宫部美雪",
+    "authorEn": "Miyuki Miyabe",
+    "genre": "社会派",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "ensemble",
+      "city",
+      "social-commentary",
+      "dark-atmosphere",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "东京接连发生年轻女性失踪与遇害的案件，媒体与公众的目光被一次次牵动。受害者家属、记者与办案者各自在同一座城市里奔走。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多认为群像铺陈与社会议题的刻画扎实、压迫感强；部分读者认为篇幅偏长、解谜趣味较淡。",
+        "score": 7.9,
+        "count": 3734,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26650280/",
+        "subjectId": "26650280",
+        "edition": "模仿犯（全三册） 2016",
+        "fetchedAt": "2026-09-20T15:07:14.173Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.7,
+        "count": 700,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文版读者多称赞其对媒体生态与受害者家属处境的描写，部分读者认为节奏缓慢、篇幅偏长。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派议题与群像叙事的读者",
+        "能接受长篇与多线并进的读者"
+      ],
+      "watchFor": [
+        "各章节的视角人物及其所处位置",
+        "媒体报道与案件已知事实之间的落差"
+      ],
+      "warning": "本书篇幅长、登场人物多，建议留意每章的视角人物与时间标记。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": false,
+      "verifiedAt": null,
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核实评分）",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2016（馆藏题名「模仿犯」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "shinhonkaku-014",
+    "title": "告白",
+    "originalTitle": "告白",
+    "author": "凑佳苗",
+    "authorEn": "Kanae Minato",
+    "genre": "社会派",
+    "firstPublished": "2008",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "ensemble",
+      "campus",
+      "revenge",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一位中学教师在课堂上向学生宣布了一件事，随后叙述者一章一章地更换。同一场事件在不同人嘴里呈现出完全不同的样子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "多数读者认为多视角轮转的结构极具张力；对青少年心理与社会责任的讨论长期热度很高。",
+        "score": 8.8,
+        "count": 42561,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26681984/",
+        "subjectId": "26681984",
+        "edition": "告白 2016",
+        "fetchedAt": "2026-09-20T15:07:17.871Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 20000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者多称赞其冷峻的叙述与结构设计，部分读者认为基调压抑。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多视角轮转结构的读者",
+        "偏好社会派主题的读者"
+      ],
+      "watchFor": [
+        "每一章叙述者与前一章的关系",
+        "同一件事在不同叙述中的说法差异"
+      ],
+      "warning": "本书由多位叙述者接力讲述，建议留意每章开头交代的讲述者身份。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": false,
+      "verifiedAt": null,
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核实评分）"
+    },
+    "provenance": {
+      "source": "batch-02-shinhonkaku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

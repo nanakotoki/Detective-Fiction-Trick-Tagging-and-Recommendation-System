@@ -1,0 +1,763 @@
+[
+  {
+    "id": "christie-001",
+    "title": "高尔夫球场命案",
+    "originalTitle": "The Murder on the Links",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1923",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛、黑斯廷斯",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "faceless-corpse",
+      "countryside",
+      "series-detective",
+      "honkaku",
+      "identity"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "波洛收到一封来自法国的求助信，赶到时写信人已被刺死，尸体被丢在球场边一个浅坑里。现场留下的东西指向一个人，但那人恰好有最不可动摇的不在场证明。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 13712,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25905706/",
+        "subjectId": "25905706",
+        "edition": "高尔夫球场命案 2014",
+        "fetchedAt": "2026-09-22T10:11:44.168Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "波洛早期长篇的读者",
+        "喜欢不在场证明推演的读者"
+      ],
+      "watchFor": [
+        "求助信寄出的时间",
+        "尸体被移动过的方式",
+        "现场两件互相矛盾的物证"
+      ],
+      "warning": "波洛系列早期作品，黑斯廷斯担任叙述者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-002",
+    "title": "云中命案",
+    "originalTitle": "Death in the Clouds",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1935",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "vanished-weapon",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一架从巴黎飞往伦敦的航班上，一名女乘客在座位上去世，死因是颈后被刺入的一枚吹箭。乘客名单是封闭的，而凶器在落地后不见了踪影。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 7569,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25919321/",
+        "subjectId": "25919321",
+        "edition": "云中命案 2014",
+        "fetchedAt": "2026-09-22T10:11:47.629Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间案件的读者",
+        "波洛系列读者"
+      ],
+      "watchFor": [
+        "机上各人的座位与走动",
+        "凶器可能被处理掉的时机",
+        "死者生前与人结怨的来龙去脉"
+      ],
+      "warning": "封闭空间 + 凶器消失，属波洛系列中期的经典谜面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-003",
+    "title": "牙医谋杀案",
+    "originalTitle": "One, Two, Buckle My Shoe",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1940",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "nursery-rhyme",
+      "city",
+      "series-detective",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "波洛看完牙医的当天下午，那位牙医被发现死在诊室里，手上握着枪。看起来是自杀，但同一时间还有一名病人没有出现在约定的复诊名单上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 8862,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26962860/",
+        "subjectId": "26962860",
+        "edition": "牙医谋杀案 2017",
+        "fetchedAt": "2026-09-22T10:11:50.876Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童谣式结构的读者",
+        "波洛系列读者"
+      ],
+      "watchFor": [
+        "当天就诊名单上的人",
+        "诊室被摆成自杀的方式",
+        "书名那句童谣在文中的对应"
+      ],
+      "warning": "书名取自英文童谣，结构与童谣的递进关系有关。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-004",
+    "title": "死亡约会",
+    "originalTitle": "Appointment with Death",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1938",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "historical-setting",
+      "series-detective",
+      "honkaku",
+      "obsession"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一支旅行队伍在中东的遗址间行进，队伍里那位把全家人牢牢攥在手里的老太太某天没有再醒来。波洛恰好同行，而同行者中几乎每个人都有理由松一口气。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 7378,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25961788/",
+        "subjectId": "25961788",
+        "edition": "死亡约会 2014",
+        "fetchedAt": "2026-09-22T10:11:54.165Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家族关系题材的读者",
+        "波洛系列读者"
+      ],
+      "watchFor": [
+        "死者控制家人的具体手段",
+        "各人当天的行踪",
+        "谁在案发前后改变了态度"
+      ],
+      "warning": "波洛系列中较偏心理与家族关系的一部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-005",
+    "title": "长夜",
+    "originalTitle": "Endless Night",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1967",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "narrative-trick",
+      "psychological-misdirection",
+      "obsession",
+      "countryside",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个出身普通的年轻司机娶到了他梦寐以求的姑娘，两人在一片据说不太干净的地皮上盖起了房子。他讲这段经历时语气平静，但有些地方他反复说了好几遍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 9823,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25844726/",
+        "subjectId": "25844726",
+        "edition": "长夜 2014",
+        "fetchedAt": "2026-09-22T10:11:57.840Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述者不可靠类作品的读者",
+        "读过《罗杰疑案》的读者"
+      ],
+      "watchFor": [
+        "叙述者反复强调的那几句话",
+        "地皮旧事的传闻由谁讲起",
+        "他对身边人评价的变化"
+      ],
+      "warning": "克里斯蒂晚期作品，非系列，基调阴冷，叙述方式是全书关键。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "无尽长夜"
+    ]
+  },
+  {
+    "id": "christie-006",
+    "title": "空谷幽魂",
+    "originalTitle": "The Hollow",
+    "alternateTitles": [
+      "空幻之屋"
+    ],
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1946",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "red-herring",
+      "countryside",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "波洛应邀去乡间庄园做客，走到泳池边时，看见一位女主人倒在池畔，身边站着她手里还握着枪的丈夫。所有在场者都目睹了这一幕，而波洛认为这恰恰是最可疑的地方。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 3073,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1920565/",
+        "subjectId": "1920565",
+        "edition": "空谷幽魂 2006",
+        "fetchedAt": "2026-09-22T10:12:01.466Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「当场目击」型谜面的读者",
+        "波洛系列读者"
+      ],
+      "watchFor": [
+        "每个人到达池边的时间",
+        "那把枪原本放在哪里",
+        "在场者的证词为何异常一致"
+      ],
+      "warning": "波洛系列中偏重人物关系的一部，凶手身份的判定依赖心理层面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2006（空谷幽魂／(英) 阿加莎·克里斯蒂著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2006"
+  },
+  {
+    "id": "christie-007",
+    "title": "鸽群中的猫",
+    "originalTitle": "Cat Among the Pigeons",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1959",
+    "series": "波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "campus",
+      "multiple-solutions",
+      "red-herring",
+      "concealment",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一所收费昂贵的女子学校里，一位体育老师夜里死在体育馆。校方想把事情压下来，但案子牵出的东西远在千里之外——某个刚刚发生政变的国家，和一批不知去向的私人财物。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 3165,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26297045/",
+        "subjectId": "26297045",
+        "edition": "鸽群中的猫 2015",
+        "fetchedAt": "2026-09-22T10:12:05.250Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢校园封闭场景的读者",
+        "波洛系列读者"
+      ],
+      "watchFor": [
+        "新来的几位师生的来历",
+        "校内各处被翻动过的痕迹",
+        "那批财物可能被带进学校的方式"
+      ],
+      "warning": "波洛在本作中出场较晚，前半部以学校师生视角推进。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-008",
+    "title": "寓所谜案",
+    "originalTitle": "The Murder at the Vicarage",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1930",
+    "series": "马普尔小姐系列",
+    "detective": "简·马普尔",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "countryside",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "村里谁都讨厌的那位上校，在牧师的书房里被人开枪打死。牧师本人担任叙述者，把事情一桩桩记下来；而村里那位爱织毛线的老太太，注意到的是别人都没当回事的部分。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 4588,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/21617613/",
+        "subjectId": "21617613",
+        "edition": "寓所谜案 2013",
+        "fetchedAt": "2026-09-22T10:12:08.622Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马普尔小姐系列的读者",
+        "喜欢英式乡村群像的读者"
+      ],
+      "watchFor": [
+        "有几个人承认自己开了枪",
+        "各人进门出门的路线",
+        "马普尔小姐随口说的那句类比"
+      ],
+      "warning": "马普尔小姐首次登场的长篇，由牧师第一人称叙述。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "christie-009",
+    "title": "褐衣男子",
+    "originalTitle": "The Man in the Brown Suit",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1924",
+    "series": "",
+    "detective": "无固定侦探（安妮·贝丁菲尔德视角）",
+    "country": "英国",
+    "tags": [
+      "first-person",
+      "adventure",
+      "cipher",
+      "dual-role",
+      "identity",
+      "red-herring",
+      "cruise-ship"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "地铁站里一个男人在她面前倒下，临死前掉出一张写着几个字的纸条。警察把它当作意外，而刚失去父亲的她决定拿着这张纸条，坐上开往非洲的船去弄个明白。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1903,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30389703/",
+        "subjectId": "30389703",
+        "edition": "褐衣男子 2019",
+        "fetchedAt": "2026-09-22T10:12:14.009Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢冒险色彩更浓的克里斯蒂的读者",
+        "偏好女性主角成长线的读者"
+      ],
+      "watchFor": [
+        "纸条上那几个字的排列",
+        "船上各人的身份自我介绍",
+        "同一个人在不同场合的穿着变化"
+      ],
+      "warning": "非系列冒险推理，节奏比波洛/马普尔系列轻快，含追逃情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-38-christie.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

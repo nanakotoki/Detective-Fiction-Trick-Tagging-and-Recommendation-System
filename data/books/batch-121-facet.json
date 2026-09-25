@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "facet121-001",
+    "title": "周四推理俱乐部：活了两次的男人",
+    "originalTitle": "",
+    "author": "理查德·奥斯曼",
+    "authorEn": "Richard Osman",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "周四推理俱乐部系列",
+    "detective": "伊丽莎白、乔伊丝、朗恩、易卜拉辛",
+    "country": "英国",
+    "tags": [
+      "ensemble",
+      "cozy",
+      "countryside"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "四个住在同一养老院、个性迥异的退休老人组成了「周四推理俱乐部」：年轻时的愤青朗恩、守寡独居的护士乔伊丝、退休心理师易卜拉辛，以及另一位。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "舒适推理的读者",
+        "周四推理俱乐部系列的读者"
+      ],
+      "watchFor": [
+        "四位老人各自的专长",
+        "养老院里的人际往来",
+        "旧案与新事之间的呼应"
+      ],
+      "warning": "本格推理长篇，含命案描写，笔调温和幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 理查德·奥斯曼著，接力出版社 2022（南宁）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类，最硬）；②馆藏提要文摘写明四位退休老人组成「周四推理俱乐部」的设定。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet121-002",
+    "title": "周四推理俱乐部：「魔鬼」的最后一眼",
+    "originalTitle": "",
+    "author": "理查德·奥斯曼",
+    "authorEn": "Richard Osman",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "周四推理俱乐部系列",
+    "detective": "伊丽莎白、乔伊丝、朗恩、易卜拉辛",
+    "country": "英国",
+    "tags": [
+      "ensemble",
+      "cozy",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「周四推理俱乐部」系列的又一部长篇：四位养老院老人这一次要面对的，是一件被称作「魔鬼的最后一眼」的旧事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "周四推理俱乐部系列的读者",
+        "舒适推理的读者"
+      ],
+      "watchFor": [
+        "旧案的来龙去脉",
+        "四位老人各自的线索",
+        "养老院之外的人物"
+      ],
+      "warning": "本格推理长篇，含命案与旧事描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 理查德·奥斯曼著。**推理属性判据**：①检索行**主题词为「长篇小说 推理小说」**（第①类）；②同系列上一册的馆藏提要文摘写明「周四推理俱乐部」的四位退休老人设定。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列层面概括，不虚构具体案情**。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022（与同系列一致）。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet121-003",
+    "title": "炼金术师的密室",
+    "originalTitle": "",
+    "author": "绀野天龙",
+    "authorEn": "Konno Tenryu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "炼金术师系列",
+    "detective": "特蕾莎、艾米利亚",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "historical-setting"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "发生在架空世界里的一桩炼金术师密室案件：炼金术师特蕾莎与青年士兵艾米利亚奉命前往水上蒸汽都市，参加世界第一炼金术师斐迪南举办的特殊仪式。仪式前夜，斐迪南的生命在密室内被终结。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系本格的读者",
+        "密室诡计爱好者"
+      ],
+      "watchFor": [
+        "密室的构造与进出方式",
+        "炼金术在本书中的规则",
+        "仪式当夜的在场者"
+      ],
+      "warning": "本格推理长篇，架空世界设定，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 绀野天龙著，宁波出版社 2022.09，丛编项「**千本樱文库.推理作家系列**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项含**千本樱文库的「推理作家系列」**——本库第二部千本樱文库作品；③馆藏提要文摘**直接写明**「这是日本作家绀野天龙的一部**推理小说**，讲述了一起发生在架空世界里与炼金术师有关的**密室案件**」。**新作者**：库内此前无绀野天龙作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet121-004",
+    "title": "太宰治的词典",
+    "originalTitle": "太宰治の辞書",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "「我」与圆紫大师系列",
+    "detective": "圆紫大师",
+    "country": "日本",
+    "tags": [
+      "diary-form",
+      "meta-fiction",
+      "cozy"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「太宰翻阅的词典，其实存在于……」时隔多年，「我」已结婚生子。某日在新潮文库的复刻本中发现了法国小说家「皮埃尔·洛蒂」的名字，联想随即发散开来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的读者",
+        "北村薰的读者"
+      ],
+      "watchFor": [
+        "词典与复刻本上的线索",
+        "「我」的联想路径",
+        "与几位文豪相关的书与事"
+      ],
+      "warning": "日常之谜长篇，围绕书籍与文人旧事展开，题材温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 北村薰著，贵州人民出版社 2025（贵阳），丛编项「**S文库.北村薰日常推理代表作系列**；轻读文库」。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②丛编项**直接写明「日常推理代表作系列」**；③**相关题名附注载明「封面题日文题名：太宰治の辞書」**——原作名由此取证。**补作者缺口**：作者北村薰库内已有 8 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2025。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "facet121-005",
+    "title": "全能侦探社",
+    "originalTitle": "Dirk Gently's Holistic Detective Agency",
+    "author": "道格拉斯·亚当斯",
+    "authorEn": "Douglas Adams",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1987",
+    "series": "德克·简特利系列",
+    "detective": "德克·简特利",
+    "country": "英国",
+    "tags": [
+      "meta-fiction",
+      "adventure",
+      "legend-folklore"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "adventure-school"
+    ],
+    "safeSummary": "程序员理查德莫名成了杀死上司的嫌疑人。侦探德克在帮他洗脱嫌疑的过程中，又发现了一个鬼魂、一个时间旅行者，以及一个可能导致人类灭绝的秘密。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢荒诞设定的读者",
+        "道格拉斯·亚当斯的读者"
+      ],
+      "watchFor": [
+        "德克那套「整体侦探法」",
+        "时间线上的错位",
+        "看似无关的支线"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、超现实设定与幽默笔调。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 道格拉斯·亚当斯著，湖南文艺出版社 2019（长沙），丛编项「《全能侦探社》系列」。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类，最硬）；②馆藏提要文摘写明程序员的嫌疑与侦探德克的介入。**新作者**：库内此前无道格拉斯·亚当斯作品。**原作年**：1987 年（英文原版 *Dirk Gently's Holistic Detective Agency* 出版年）；`editionYear` 记 2019。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "facet121-006",
+    "title": "猫侦探的名推理",
+    "originalTitle": "猫探偵はタマネギをかじる",
+    "author": "广元",
+    "authorEn": "Hirotomo",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "series": "猫侦探系列",
+    "detective": "喵生、喵尔摩斯",
+    "country": "日本",
+    "tags": [
+      "cozy",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "流浪猫喵生在鲣鱼丘街遇到风度翩翩的家猫喵尔摩斯，并在其引导下被播本小姐收养。本以为能过安静生活的喵生，突然被卷入种种动物们的诡异事件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "轻松动物推理的读者",
+        "喜欢猫的读者"
+      ],
+      "watchFor": [
+        "两只猫各自的本事",
+        "动物们提供的线索",
+        "人类视角看不到的细节"
+      ],
+      "warning": "动物推理长篇，题材轻松，含失踪与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 广元著，青岛出版社 2022，丛编项「青鲤文库」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘**直接写明**「这是一部猫咪为我们献上的**幽默动物推理小说**」；③**相关题名附注载明「书中题日文题名：猫探偵はタマネギをかじる ニヤーロック·ニヤームズの名推理」**——原作名由此取证。**新作者**：库内此前无广元作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "facet121-007",
+    "title": "鸟居密室",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "榊枫无法忘记：她人生中最快乐与最悲伤的瞬间发生在同一天。一个圣诞节早晨，小枫在枕边发现了有生以来收到的第一份圣诞礼物——她却不知道母亲已在隔壁房间惨遭杀害。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "岛田庄司的读者"
+      ],
+      "watchFor": [
+        "门窗从内部上锁这一点",
+        "圣诞礼物是谁放的",
+        "京都那座宅子的构造"
+      ],
+      "warning": "本格推理长篇，含命案与密室描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 岛田庄司著，新星出版社 2020.12，丛编项「**午夜文库.大师系列.岛田庄司作品**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项含**推理专门书系「午夜文库」**；③馆藏提要文摘写明「家里的门窗都从内部上锁，外人无法进入，是一个标准的『**密室**』」。**补作者缺口**：作者岛田庄司库内已有 29 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2020。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "facet121-008",
+    "title": "没有凶手的杀人夜",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "vanished-weapon",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "东野圭吾的短篇集，共七篇，包括《小小的恶作剧故事》《黑暗中的两个人》《舞女》《无尽之夜》《白色凶器》《别了，教练》《没有凶手的杀人夜》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢结尾翻转的读者"
+      ],
+      "watchFor": [
+        "各篇叙述者略过不提的部分",
+        "「没有凶手」这个提法",
+        "篇末对前文的重新解释"
+      ],
+      "warning": "本格推理短篇集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：东野圭吾著，上海文艺出版社 2015.09，丛编项「东野圭吾作品；99畅销文库」。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②馆藏提要文摘列出全部七篇篇目。**补作者缺口**：作者东野圭吾库内已有 62 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet121-009",
+    "title": "天方夜谭谋杀案",
+    "originalTitle": "",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "暗夜，陈列东方文物的博物馆外，两位不速之客先后造访：一位飞扑袭警后摔昏在地又突然不知所踪，另一位掉落的字条上写着「亲爱的 G，得搞到一具尸体」。巡官赶到时，守门人正绕着一方棺椁跳舞。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "不可能犯罪的爱好者",
+        "卡尔的读者"
+      ],
+      "watchFor": [
+        "字条上的那句话",
+        "守门人的举动",
+        "旧式马车里滚落的东西"
+      ],
+      "warning": "本格推理长篇，含命案与怪奇场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 约翰·迪克森·卡尔著，外语教学与研究出版社 2021，丛编项「约翰·迪克森·卡尔作品」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明博物馆外的不速之客、字条与棺椁旁跳舞的守门人。**补作者缺口**：作者库内已有 17 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "facet121-010",
+    "title": "谋杀笔记",
+    "originalTitle": "",
+    "author": "尼古拉斯·布莱克",
+    "authorEn": "Nicholas Blake",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "奈杰尔·斯特雷奇威系列",
+    "detective": "奈杰尔·斯特雷奇威",
+    "country": "英国",
+    "tags": [
+      "city",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "故事以刚结束二战的英国为背景：奈杰尔战时加入了政府成立的宣传部门，他隐藏的侦探身份在一次谋杀案后重新启动。一位金发女秘书命丧聚会当场，此后又发生了一系列事件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "奈杰尔·斯特雷奇威系列的读者"
+      ],
+      "watchFor": [
+        "办公室里各人的秘密",
+        "聚会当天的动线",
+        "奈杰尔的双重身份"
+      ],
+      "warning": "本格推理长篇，含命案与战时背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：尼古拉斯·布莱克著，上海文艺出版社 2023.06，丛编项「**尼古拉斯·布莱克桂冠推理全集**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项为**以「推理全集」命名的作家专集**；③馆藏提要文摘写明女秘书命丧聚会与奈杰尔重启侦探身份。**补作者缺口**：作者库内已有 6 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet121-011",
+    "title": "班森谋杀案",
+    "originalTitle": "The Benson Murder Case",
+    "author": "范达因",
+    "authorEn": "S. S. Van Dine",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "series": "菲洛·凡斯系列",
+    "detective": "菲洛·凡斯",
+    "country": "美国",
+    "tags": [
+      "alibi",
+      "mansion",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "富商班森在自己家中中枪身亡。从未有过探案经验的凡斯受检察官所激，承担起破案的重任。据警方调查，嫌疑人一共有六位，但每个人都有不在场的证明。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "菲洛·凡斯系列的读者"
+      ],
+      "watchFor": [
+        "六位嫌疑人的不在场证明",
+        "现场反映出的作案作风",
+        "凡斯的心理推断"
+      ],
+      "warning": "本格推理长篇，含枪击命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 范达因著，重庆大学出版社 2015，丛编项「**梵达因推理小说名侦探凡斯系列**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项为**推理小说系列的作家专集**；③馆藏提要文摘写明六名嫌疑人各有不在场证明这一典型谜面。**新作者**：库内此前无范达因作品。**原作年**：1926 年（英文原版 *The Benson Murder Case* 出版年）；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  },
+  {
+    "id": "facet121-012",
+    "title": "二次谋杀奇案",
+    "originalTitle": "",
+    "author": "玛格丽·阿林厄姆",
+    "authorEn": "Margery Allingham",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "阿尔伯特·坎皮恩系列（短篇集）",
+    "detective": "阿尔伯特·坎皮恩",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "countryside",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "本书收录《二次谋杀奇案》《幸运数字——三》《相机里的证据》《正反博弈》《玩笑的尽头》五篇。同名篇中，一个病故的人几个月后又成了一场新谋杀案的受害者。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "喜欢短篇连作的读者"
+      ],
+      "watchFor": [
+        "同名篇里死者的身份",
+        "各篇中不合常理之处",
+        "坎皮恩的调查方式"
+      ],
+      "warning": "本格推理短篇集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(英) 玛格丽·阿林厄姆著，上海文艺出版社 2021，丛编项「域外故事会」。**推理属性判据**：①检索行**主题词为「侦探小说 短篇小说 中篇小说」**（第①类）；②馆藏提要文摘列出全部五篇并写明同名篇的谜面（病故者数月后成为新谋杀案的受害者）。**新作者**：库内此前无玛格丽·阿林厄姆作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "facet121-013",
+    "title": "最高法院谋杀案",
+    "originalTitle": "",
+    "author": "玛格丽特·杜鲁门",
+    "authorEn": "Margaret Truman",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "首都犯罪系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "玛格丽特·杜鲁门「首都犯罪系列」的一部长篇：一桩发生在华盛顿权力机构周边的谋杀案，由警方逐步追查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "政治背景犯罪小说的读者",
+        "喜欢警方程序叙事的读者"
+      ],
+      "watchFor": [
+        "案发地点的机构背景",
+        "涉案人员的职务关系",
+        "警方的调查步骤"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与政界背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 杜鲁门著，安徽文艺出版社 1991.2（合肥）。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说」**（第①类，最硬）；②作者玛格丽特·杜鲁门为美国总统杜鲁门之女，以「首都犯罪系列」闻名。**备注**：该馆此条**提要文摘为空**，故梗概**只在系列与体裁层面概括，不虚构具体案情**；**库内作者名按通行译法记「玛格丽特·杜鲁门」**（该馆著录为「杜鲁门」）。**新作者**：库内此前无该作者作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 1991。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "1991"
+  },
+  {
+    "id": "facet121-014",
+    "title": "杀人回忆",
+    "originalTitle": "",
+    "author": "康奈尔·伍尔里奇",
+    "authorEn": "Cornell Woolrich",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "identity",
+      "unreliable-narrator",
+      "revenge"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "全书分三卷：第一卷「帷幕降落」，男主人公对另一个身份的自己茫然无知；第二卷「帷幕升起」，由于被人追杀，他决心探查自己的另一个身份；第三卷「帷幕之后」，他回到三年前惨案的现场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黑色悬疑的读者",
+        "伍尔里奇的读者"
+      ],
+      "watchFor": [
+        "男主人公的双重身份",
+        "追杀者的来路",
+        "三年前那桩惨案"
+      ],
+      "warning": "犯罪悬疑长篇，含命案、追杀与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 康奈尔·伍尔里奇著，人民文学出版社 2016.11，丛编项「99读书人；**伍尔里奇经典推理**」。**推理属性判据**：①检索行**主题词为「推理小说 中篇小说」**（第①类）；②丛编项为**以「经典推理」命名的作家专集**；③馆藏提要文摘写明全书三卷的结构与双重身份设定。**新作者**：库内此前无康奈尔·伍尔里奇作品。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2016。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "facet121-015",
+    "title": "东北新干线杀人事件",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "十津川警部系列",
+    "detective": "十津川警部",
+    "country": "日本",
+    "tags": [
+      "train",
+      "timetable",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "警方在东京某地发现一名被杀害的公司女职员，经调查她的一张火车票丢失。随后，在她丢失的车票对应的座位上，又发生了一名男子被杀的案件，而被怀疑的凶手莫名死在了警方的追捕之中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "旅情推理的读者",
+        "西村京太郎的读者"
+      ],
+      "watchFor": [
+        "那张丢失的车票",
+        "座位与时间表的对应",
+        "围绕铁道修站的各方利益"
+      ],
+      "warning": "本格推理长篇，含连环命案与铁道背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 西村京太郎著，时代文艺出版社 2023.01（长春），丛编项「**西村京太郎经典推理作品**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②丛编项为**以「经典推理作品」命名的作家专集**；③馆藏提要文摘**开门见山写「本书是西村京太郎经典推理作品」**并给出车票与座位对应的谜面。**补作者缺口**：作者西村京太郎库内已有 7 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet121-016",
+    "title": "蓝色卧铺列车杀人事件",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "十津川警部系列",
+    "detective": "十津川警部",
+    "country": "日本",
+    "tags": [
+      "train",
+      "gain",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "主人公高田是一名律师，早在学生时代就野心勃勃。当他发现武田诈骗五亿日元用于贿赂有关人员、并成功当上运输大臣后，认为自己发迹的时候到了，便纠集同伙向武田敲诈，并在蓝色列车上进行了「演习」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "旅情推理的读者",
+        "西村京太郎的读者"
+      ],
+      "watchFor": [
+        "「演习」的具体安排",
+        "列车上的时间与位置",
+        "被敲诈者一方的反应"
+      ],
+      "warning": "社会派推理长篇，含贿赂、敲诈与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 西村京太郎著，时代文艺出版社 2023.01（长春），丛编项「**西村京太郎经典推理作品**」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘**直接写明**「本书是西村京太郎**社会派旅情推理**作品」并给出敲诈与列车「演习」的设定。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "facet121-017",
+    "title": "黄道十二宫杀人事件",
+    "originalTitle": "The Luminaries",
+    "author": "埃莉诺·卡顿",
+    "authorEn": "Eleanor Catton",
+    "genre": "历史推理",
+    "firstPublished": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "新西兰",
+    "tags": [
+      "historical-setting",
+      "ensemble",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "1866 年一个雨夜，来自英国的华特·穆迪经过漫长海上航行抵达新西兰海岸小镇霍基蒂卡。他像所有做着发财梦的人一样，准备在淘金热中赌上一把。走进旅馆吸菸室歇脚时，他发现里面挤着十二个男人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "喜欢群像与结构实验的长篇读者"
+      ],
+      "watchFor": [
+        "十二个男人各自的来历",
+        "黄道十二宫与章节的对应",
+        "淘金镇的财产纠纷"
+      ],
+      "warning": "历史推理长篇，含命案、淘金热背景与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(新西兰) 埃莉诺·卡顿著，中国友谊出版公司 2024（北京）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明淘金小镇与吸菸室里十二个男人的开场。**新作者**：库内此前无埃莉诺·卡顿作品，亦无新西兰推理作者。**原作年**：2013 年（英文原版 *The Luminaries* 出版年，同年获布克奖）；`editionYear` 记 2024。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "facet121-018",
+    "title": "汤姆·沙耶侦探案",
+    "originalTitle": "Tom Sawyer, Detective",
+    "author": "马克·吐温",
+    "authorEn": "Mark Twain",
+    "genre": "本格推理",
+    "firstPublished": "1896",
+    "series": "非系列（中篇集）",
+    "detective": "汤姆·沙耶",
+    "country": "美国",
+    "tags": [
+      "youth",
+      "countryside",
+      "dual-role"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
+    "safeSummary": "本书包括马克·吐温的两部中篇侦探小说——《汤姆·沙耶侦探案》与《双料侦探案》，皆是其幽默讽刺风格的代表作。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马克·吐温的读者",
+        "喜欢少年侦探故事的读者"
+      ],
+      "watchFor": [
+        "汤姆的观察与推断",
+        "《双料侦探案》里的双胞胎设定",
+        "两篇中的幽默笔法"
+      ],
+      "warning": "侦探中篇集，含命案与冒名顶替情节描写，笔调幽默。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 马克·吐温著，上海书店出版社 2011，丛编项「名家名作名译」。**推理属性判据**：①检索行**主题词为「中篇小说 侦探小说」**（第①类，最硬）；②馆藏提要文摘**直接写明**「本书包括马克·吐温的两部中篇**侦探小说**」。**新作者**：库内此前无马克·吐温作品。**原作年**：1896 年（英文原版 *Tom Sawyer, Detective* 出版年）；`editionYear` 记 2011。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "facet121-019",
+    "title": "边际谋杀",
+    "originalTitle": "Murder at the Margin",
+    "author": "马歇尔·杰文斯",
+    "authorEn": "Marshall Jevons",
+    "genre": "本格推理",
+    "firstPublished": "1978",
+    "series": "亨利·斯皮尔曼系列",
+    "detective": "亨利·斯皮尔曼",
+    "country": "美国",
+    "tags": [
+      "countryside",
+      "gain",
+      "curiosity"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "以经济学教授亨利·斯皮尔曼为主角的推理小说：一桩发生在度假地的案件，靠经济学的推理方式被层层拆解。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「学科推演」型本格的读者",
+        "对经济学感兴趣的读者"
+      ],
+      "watchFor": [
+        "教授建立的推理模型",
+        "各人的成本与动机",
+        "被模型排除的嫌疑人"
+      ],
+      "warning": "本格推理长篇，含命案描写，含经济学推理元素。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(美) 马歇尔·杰文斯著，机械工业出版社 2006。**推理属性判据**：①检索行**主题词为「侦探小说 长篇小说 / 侦探小说 / 长篇小说」**（第①类，最硬）；②作者「马歇尔·杰文斯」是两位经济学家的共用笔名，本系列以经济学教授为主角。**备注**：该馆此条**提要文摘与发行项均为空**，故梗概**只在主角与体裁层面概括，不虚构具体案情**。**新作者**：库内此前无马歇尔·杰文斯作品。**原作年**：1978 年（英文原版 *Murder at the Margin* 出版年）；`editionYear` 记 2006。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2006"
+  },
+  {
+    "id": "facet121-020",
+    "title": "500个目击者：绝对不在场证明2",
+    "originalTitle": "",
+    "author": "大山诚一郎",
+    "authorEn": "Oyama Seiichiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "绝对不在场证明系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "locked-room",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一家神秘的钟表店，只要五千日元就能受理委托。沉入湖底的豪车中绑着一个死不瞑目的男人；500 句真实的证词，却让焚尸案陷入僵局。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "不在场证明诡计的爱好者",
+        "大山诚一郎的读者"
+      ],
+      "watchFor": [
+        "每个案子的时间设定",
+        "钟表店店主提出的反证",
+        "证词数量与可信度的反差"
+      ],
+      "warning": "本格推理短篇集，含命案、焚尸与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 大山诚一郎著，北京日报出版社 2022.12，丛编项「**读客悬疑文库**」。**推理属性判据**：①检索行**主题词为「推理小说 短篇小说」**（第①类）；②丛编项为**悬疑推理专门书系「读客悬疑文库」**；③馆藏提要文摘写明多个不在场证明谜面。**补作者缺口**：作者大山诚一郎库内已有 7 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+    },
+    "provenance": {
+      "source": "batch-121-facet.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  }
+]

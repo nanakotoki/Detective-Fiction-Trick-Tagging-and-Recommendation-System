@@ -1,0 +1,503 @@
+[
+  {
+    "id": "cnaudit66-001",
+    "title": "血匕首",
+    "originalTitle": "",
+    "author": "程小青",
+    "authorEn": "Cheng Xiaoqing",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "霍桑探案系列",
+    "detective": "霍桑（叙述者包朗）",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "first-person",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "霍桑探案系列的短篇集：一只金表、袖口上的钮子、一把染血的刀、几通电话与几份证词——线索都摊在明面上，霍桑把它们串起来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 54,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1315989/",
+        "subjectId": "1315989",
+        "edition": "血匕首 1998",
+        "fetchedAt": "2026-09-22T14:27:28.107Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说读者",
+        "程小青与霍桑探案的读者"
+      ],
+      "watchFor": [
+        "叙述者包朗记录时的取舍",
+        "每篇里那件最不起眼的物证",
+        "霍桑提出结论前先排除了什么"
+      ],
+      "warning": "民国时期侦探小说短篇集，各篇独立，含凶案描写；本篇目为后世编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（群众出版社版）；该集为后世编选，首版年无法确定为某一年，故留空，梗概据公开目录与内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit66-002",
+    "title": "三国谍影",
+    "originalTitle": "",
+    "author": "何慕",
+    "authorEn": "He Mu",
+    "genre": "历史推理",
+    "firstPublished": "2016",
+    "series": "三国谍影系列",
+    "detective": "多视角（各国情报机构中人）",
+    "country": "中国",
+    "tags": [
+      "spy-espionage",
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "identity",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "三国时期的谍战系列。魏蜀吴各有情报机构，彼此都潜伏着对方的细作；四个案子串起一场贯穿三国战局的情报暗战。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 1431,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26869266/",
+        "subjectId": "26869266",
+        "edition": "三国谍影：暗战定军山 2016",
+        "fetchedAt": "2026-09-22T14:27:36.554Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢历史悬疑与古风探案的读者",
+        "对情报战题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "军情是从哪一环漏出去的",
+        "每个人效忠的对象",
+        "几桩案子之间的时间顺序"
+      ],
+      "warning": "谍战题材，全四册；收录理由是它以多桩可独立成立的案件串起情报暗战，与纯粹的间谍小说不同。含战争与刑讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2016 年起分册出版，2022 年出全四册修订版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit66-003",
+    "title": "盲人与狗",
+    "originalTitle": "",
+    "author": "水天一色",
+    "authorEn": "Shui Tian Yise",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "许飞与杜公子系列",
+    "detective": "许飞、杜公子",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "narrative-trick",
+      "unreliable-narrator",
+      "red-herring",
+      "multiple-solutions",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "许飞与杜公子受托到一家旅店找人，刚到店里，要找的人就跌入火车轨道身亡；不久另一位熟人也被杀，而死者留下了讯息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1002,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37354659/",
+        "subjectId": "37354659",
+        "edition": "盲人与狗 2025",
+        "fetchedAt": "2026-09-22T14:27:39.886Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创本格读者",
+        "喜欢伏线流与叙述性诡计的读者"
+      ],
+      "watchFor": [
+        "谁在讲述这个故事",
+        "旅店里各人各自的活动时间",
+        "死者留下的那句话该怎么读"
+      ],
+      "warning": "本格长篇，封闭舞台，含凶案描写；曾绝版多年后重版，首版年未在可核实来源中查到，firstPublished 留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与内容取自豆瓣条目（绝版十余年后重版）；首版年无法核实，故留空，梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit66-004",
+    "title": "人皮论语",
+    "originalTitle": "",
+    "author": "冶文彪",
+    "authorEn": "Ye Wenbiao",
+    "genre": "历史推理",
+    "firstPublished": "2011",
+    "series": "非系列",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring",
+      "ensemble",
+      "identity",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "西汉景帝末年，孔子旧宅墙壁中发掘出一批古简，其中一部孤本古文《论语》此后失传。小说沿着这批竹简的去向往下追。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 5485,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5390091/",
+        "subjectId": "5390091",
+        "edition": "人皮论语 2011",
+        "fetchedAt": "2026-09-22T14:27:43.240Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理读者",
+        "冶文彪的读者"
+      ],
+      "watchFor": [
+        "竹简每一次转手到了谁那里",
+        "不同人对同一段经文的解释",
+        "被反复提起的那个年份"
+      ],
+      "warning": "历史推理长篇，以汉代经籍公案为骨架，含权谋与刑杀描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2011 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit66-005",
+    "title": "风起陇西",
+    "originalTitle": "",
+    "author": "马伯庸",
+    "authorEn": "Ma Boyong",
+    "genre": "历史推理",
+    "firstPublished": "2011",
+    "series": "非系列",
+    "detective": "无固定侦探（双方情报人员视角）",
+    "country": "中国",
+    "tags": [
+      "spy-espionage",
+      "historical-setting",
+      "ensemble",
+      "concealment",
+      "identity",
+      "red-herring"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "三国时期，围绕蜀汉新型弩机的诞生，魏蜀两国在秦岭两侧展开一场不为人知的情报战。史书没有记下这些人的名字。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 14619,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6025373/",
+        "subjectId": "6025373",
+        "edition": "风起陇西 2011",
+        "fetchedAt": "2026-09-22T14:27:46.456Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢历史悬疑与情报战的读者",
+        "马伯庸的读者"
+      ],
+      "watchFor": [
+        "情报在传递链的哪一环被改动",
+        "各人自称的身份与实际的身份",
+        "双方对同一件事的不同记载"
+      ],
+      "warning": "谍战题材，收录理由是它以情报甄别与身份核查的推演为主体；含战争与刑讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2011 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cnaudit66-006",
+    "title": "山椒鱼",
+    "originalTitle": "",
+    "author": "拟南芥",
+    "authorEn": "Ni Nanjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "series": "非系列",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "dual-role",
+      "identity",
+      "timetable",
+      "ensemble",
+      "fear"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "东南亚某国的监狱遭遇地震，整座监狱沉入地下，幸存的狱警与囚犯分成两个阵营，在最紧迫的时间里求生，而谋杀接连发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 493,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30182605/",
+        "subjectId": "30182605",
+        "edition": "山椒鱼 2018",
+        "fetchedAt": "2026-09-22T14:27:51.870Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间与不可能犯罪的读者",
+        "华语原创推理读者"
+      ],
+      "watchFor": [
+        "塌方后各人所在的位置",
+        "谁在什么时候换了身份",
+        "余震与水位变化对时间判断的影响"
+      ],
+      "warning": "封闭空间犯罪长篇，含监狱、塌方与凶案描写；案中用到密室、身份替换与时间诡计等元素。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与出版信息取自豆瓣条目（2018 年版），梗概据公开内容简介重写并经人工核对"
+    },
+    "provenance": {
+      "source": "batch-66-cn-audit.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

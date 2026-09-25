@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "mitsuda2-001",
+    "title": "祸家",
+    "originalTitle": "禍家",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "变格",
+    "firstPublished": "2000",
+    "series": "家系列",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "first-person",
+      "legend-folklore",
+      "dark-atmosphere",
+      "fear",
+      "concealment",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个被亲戚收养的孩子，住进了一栋据说出过事的房子。屋里的人都对他很好，只是有些房间不能进、有些事不能问——而那些规矩本身，比规矩要挡的东西更让人不安。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 576,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6540695/",
+        "subjectId": "6540695",
+        "edition": "祸家 2011",
+        "fetchedAt": "2026-09-22T10:28:25.367Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怪谈与家族题材的读者",
+        "三津田信三「家系列」的读者"
+      ],
+      "watchFor": [
+        "家里定下的几条规矩",
+        "对他特别好的那个人",
+        "他自己记住与记不清的部分"
+      ],
+      "warning": "怪谈色彩浓厚，含儿童视角下的恐怖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「祸家」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "mitsuda2-002",
+    "title": "窥伺之眼",
+    "originalTitle": "窺伺之眼",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "变格",
+    "firstPublished": "2012",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "legend-folklore",
+      "fear",
+      "dark-atmosphere",
+      "unreliable-narrator",
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个搬回老家的年轻人在旧宅里找到一本手记，记的是这地方世代相传的一则怪谈。他开始逐条核对怪谈里提到的地点，而每核对一处，就多一分被人看着的感觉。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 273,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26711275/",
+        "subjectId": "26711275",
+        "edition": "窺伺之眼 2016",
+        "fetchedAt": "2026-09-22T10:28:28.851Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗怪谈的读者",
+        "三津田信三非系列作的读者"
+      ],
+      "watchFor": [
+        "手记里提到的地点顺序",
+        "当地人讲这则怪谈时的措辞",
+        "「看」与「被看」在文中各指谁"
+      ],
+      "warning": "怪谈向作品，含恐怖氛围与心理压迫描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "mitsuda2-003",
+    "title": "黑面之狐",
+    "originalTitle": "黑面之狐",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "countryside",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座煤矿小镇上流传着「黑面之狐」的说法，据说见到它的人会出事。刀城言耶来到这里走访旧矿工，发现镇上对某一年发生的事，所有人讲的都是同一个版本。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 682,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34432444/",
+        "subjectId": "34432444",
+        "edition": "黑面之狐 2019",
+        "fetchedAt": "2026-09-22T10:28:32.071Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刀城言耶系列的读者",
+        "喜欢矿区与民俗背景的读者"
+      ],
+      "watchFor": [
+        "镇上人讲述时的统一措辞",
+        "「黑面」具体指什么",
+        "哪几个人从不在同一场合出现"
+      ],
+      "warning": "刀城言耶系列长篇，含怪谈与矿难相关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2019（馆藏题名「黑面之狐」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "mitsuda2-004",
+    "title": "白魔之塔",
+    "originalTitle": "白魔の塔",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "本格推理",
+    "firstPublished": "2025",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "mansion",
+      "multiple-solutions",
+      "series-detective",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座通体白色的塔立在村落边上，村里关于它的说法不止一个版本。刀城言耶进村调查时，最先遇到的问题是：为什么每个人讲的塔的高度都不一样。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 336,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37523085/",
+        "subjectId": "37523085",
+        "edition": "白魔之塔 2025",
+        "fetchedAt": "2026-09-22T10:28:37.499Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刀城言耶系列的读者",
+        "喜欢村落怪谈题材的读者"
+      ],
+      "watchFor": [
+        "各人描述中塔的细节差异",
+        "谁能接近那座塔",
+        "村里最近一次出事的时间"
+      ],
+      "warning": "刀城言耶系列长篇，怪谈与推理并重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏凤凰文艺出版社 2025（馆藏题名「白魔之塔」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "mitsuda2-005",
+    "title": "蛇棺葬",
+    "originalTitle": "蛇棺葬",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "变格",
+    "firstPublished": "2006",
+    "series": "家系列",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "first-person",
+      "legend-folklore",
+      "dark-atmosphere",
+      "concealment",
+      "fear",
+      "countryside"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一族人家世代守着一套与蛇有关的葬礼规矩，外人看来只是旧俗，族里人却谁都不肯细说。一个回到本家的年轻人开始记录这些规矩，慢慢发现规矩之外还有规矩。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 535,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24521849/",
+        "subjectId": "24521849",
+        "edition": "蛇棺葬 2013",
+        "fetchedAt": "2026-09-22T10:28:40.695Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "三津田信三「家系列」的读者",
+        "喜欢宗族与民俗题材的读者"
+      ],
+      "watchFor": [
+        "葬礼规矩的具体条目",
+        "族里谁有解释权",
+        "哪一代人开始不再提某件事"
+      ],
+      "warning": "怪谈向，含殡葬与恐怖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "mitsuda2-006",
+    "title": "七人捉迷藏",
+    "originalTitle": "七人捉迷蔵",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "无固定侦探（在场者视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "ensemble",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "七个人聚到一处旧宅，玩起了一个据说是当地流传下来的捉迷藏游戏。游戏规则要求每个人单独躲藏，而当他们重新聚齐时，人数对不上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 189,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25868713/",
+        "subjectId": "25868713",
+        "edition": "七人捉迷藏 2015",
+        "fetchedAt": "2026-09-22T10:28:45.970Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间群像的读者",
+        "三津田信三非系列作的读者"
+      ],
+      "watchFor": [
+        "游戏规则的具体条款",
+        "各人躲藏的位置",
+        "旧宅哪些地方是相通的"
+      ],
+      "warning": "封闭空间推理，含恐怖与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shimada3-001",
+    "title": "水晶金字塔",
+    "originalTitle": "水晶のピラミッド",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "新本格",
+    "firstPublished": "1991",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "historical-setting",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "adventure"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "一座玻璃金字塔在众目睽睽之下建成，而里面出现了一具无法解释的尸体：那个位置从开工起就被封着。御手洗洁要处理的是建筑本身给出的这道题。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 2217,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4711239/",
+        "subjectId": "4711239",
+        "edition": "水晶金字塔 2010",
+        "fetchedAt": "2026-09-22T10:28:52.785Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢宏大建筑诡计的读者",
+        "御手洗洁系列的读者"
+      ],
+      "watchFor": [
+        "金字塔的施工流程与封闭时间",
+        "古埃及相关的那条副线",
+        "现场被当作「不可能」而跳过的环节"
+      ],
+      "warning": "岛田庄司式宏大诡计，含古埃及历史背景与炫学段落。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shimada3-002",
+    "title": "最后的一球",
+    "originalTitle": "最後の一球",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2006",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "social-commentary",
+      "obsession"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一桩旧案的线索只剩下当年一场棒球赛的记分册。吉敷竹史顺着这本册子往回查，发现要弄清那天发生了什么，得先把那场比赛重看一遍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 684,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25897071/",
+        "subjectId": "25897071",
+        "edition": "最后的一球 2014",
+        "fetchedAt": "2026-09-22T10:28:56.115Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吉敷竹史系列的读者",
+        "喜欢从旧物追查旧案的读者"
+      ],
+      "watchFor": [
+        "记分册上的记录方式",
+        "当天在场的人后来的去向",
+        "那场比赛的胜负与案件的关系"
+      ],
+      "warning": "吉敷竹史系列，含棒球竞技细节与旧案追查。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2014（馆藏题名「最后的一球」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "shimada3-003",
+    "title": "泪流不止",
+    "originalTitle": "涙が止まらない",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "社会派",
+    "firstPublished": "2006",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "historical-setting",
+      "series-detective",
+      "dual-line",
+      "dark-atmosphere",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一桩发生在地方小镇的旧案重新被翻出来，当事人已经各自过了很多年。吉敷竹史在走访中发现，镇上人记得的版本与卷宗里的记录，从一开始就不是同一件事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 1223,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7916085/",
+        "subjectId": "7916085",
+        "edition": "泪流不止（上、下） 2012",
+        "fetchedAt": "2026-09-22T10:29:01.592Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派旧案追查的读者",
+        "吉敷竹史系列的读者"
+      ],
+      "watchFor": [
+        "卷宗记录与镇上说法不符之处",
+        "几个当事人如今的生活处境",
+        "谁一直留在镇上没走"
+      ],
+      "warning": "社会派长篇（上下卷），节奏偏慢，含沉重题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "queen-001",
+    "title": "X的悲剧",
+    "originalTitle": "The Tragedy of X",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1932",
+    "series": "哲瑞·雷恩系列",
+    "detective": "哲瑞·雷恩",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "timetable",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名商人在拥挤的电车上被人刺死，同车的乘客都能证明没人靠近过他。退休演员哲瑞·雷恩接手此案，而他破案的方式是把所有证词当成台词，逐个核对它们能不能同时成立。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 20392,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3347997/",
+        "subjectId": "3347997",
+        "edition": "X的悲剧 2009",
+        "fetchedAt": "2026-09-22T10:29:04.842Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢纯逻辑推演的读者",
+        "奎因「悲剧系列」的读者"
+      ],
+      "watchFor": [
+        "车厢内各人的位置与移动",
+        "凶器如何进出封闭空间",
+        "证词中被当作「当然」的前提"
+      ],
+      "warning": "古典本格，线索全部摆明，重逻辑链条，节奏偏慢。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "queen-002",
+    "title": "Z的悲剧",
+    "originalTitle": "The Tragedy of Z",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "series": "哲瑞·雷恩系列",
+    "detective": "哲瑞·雷恩",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "一名囚犯在严密看守下死于狱中，而在此之前，他的案子已经走完了全部程序。雷恩要证明的不只是谁动的手，还有当初那套程序本身错在了哪一步。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 5541,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3348024/",
+        "subjectId": "3348024",
+        "edition": "Z的悲剧 2009",
+        "fetchedAt": "2026-09-22T10:29:08.635Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奎因「悲剧系列」的读者",
+        "喜欢法庭与程序题材的读者"
+      ],
+      "watchFor": [
+        "监狱内部的作息与巡查记录",
+        "原审时的关键证物",
+        "谁有机会在程序之外行动"
+      ],
+      "warning": "古典本格，含监狱与审判程序描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2017（Z的悲剧／(美) 埃勒里·奎因著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "queen-003",
+    "title": "埃及十字架之谜",
+    "originalTitle": "The Egyptian Cross Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1932",
+    "series": "埃勒里·奎因早期作品",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "faceless-corpse",
+      "countryside",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名男子被发现钉在十字架上，头颅不知去向。案发地是一个几乎人人相识的小镇，而第二起同类案件出现在千里之外，两地的共同点只有那副十字架。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 3018,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26808302/",
+        "subjectId": "26808302",
+        "edition": "埃及十字架之谜 2016",
+        "fetchedAt": "2026-09-22T10:29:12.111Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奎因早期作品的读者",
+        "喜欢连续案件串联的读者"
+      ],
+      "watchFor": [
+        "两处现场的共同细节",
+        "被害人的身份确认方式",
+        "十字架这个形式想让人联想到什么"
+      ],
+      "warning": "古典本格，含残忍场面与宗教意象。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "queen-004",
+    "title": "美国枪之谜",
+    "originalTitle": "The American Gun Mystery",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1933",
+    "series": "埃勒里·奎因早期作品",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "vanished-weapon",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一场马术表演上，一名骑手在数万观众眼前坠马身亡，验尸显示他中了一枪。枪响过，但没有人看见枪，也没有人在事后找到它——而全场观众都被搜过身。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 1394,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4922499/",
+        "subjectId": "4922499",
+        "edition": "美国枪之谜 2010",
+        "fetchedAt": "2026-09-22T10:29:17.729Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「凶器消失」谜面的读者",
+        "奎因早期作品的读者"
+      ],
+      "watchFor": [
+        "场地结构与枪可能被丢出的方向",
+        "表演流程中的时间空档",
+        "谁在搜身之前离开过现场"
+      ],
+      "warning": "古典本格，凶器消失是核心谜面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2019（美国枪之谜／(美) 埃勒里·奎因著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "queen-005",
+    "title": "王者已逝",
+    "originalTitle": "The King Is Dead",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "1952",
+    "series": "埃勒里·奎因后期作品",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位权势极大的老人在自己的宅邸里中枪，宅子四周布满守卫，外人不可能进入。更麻烦的是，案发时宅子里的人各自都在别人的视线范围内。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1069,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3219389/",
+        "subjectId": "3219389",
+        "edition": "王者已逝 2008",
+        "fetchedAt": "2026-09-22T10:29:23.228Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奎因后期作品的读者",
+        "喜欢封闭宅邸案件的读者"
+      ],
+      "watchFor": [
+        "守卫的巡逻路线与换班时间",
+        "宅内各人的位置关系",
+        "老人当天的会客名单"
+      ],
+      "warning": "古典本格，封闭空间设定，后期奎因风格。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-42-mitsuda-shimada-queen.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

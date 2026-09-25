@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "hig113-001",
+    "title": "名侦探的守则",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "天下一大五郎系列",
+    "detective": "天下一大五郎",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "大河原警官给名侦探天下一当了很多年配角。又一桩案子发生，他照旧假装查不出真相，天下一展开推理，用手杖指向人群中的某一个人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过大量本格推理的读者",
+        "喜欢对推理套路开玩笑的作品的读者"
+      ],
+      "watchFor": [
+        "每一章被拆解的那条推理套路",
+        "警官与侦探的固定分工",
+        "叙述者对读者的直接喊话"
+      ],
+      "warning": "本格推理短篇连作，对推理文体本身进行戏仿，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2017。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出的情节为「大河原警官已经为名侦探天下一当了很多年配角……名侦探天下一展开推理」，**谜面与侦探结构成立**。**补作者缺口**：作者东野圭吾库内已有 43 部，本条为新增。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**——本轮可用的编目源只给中译版本年；`editionYear` 记 2017。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "hig113-002",
+    "title": "绑架游戏",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "psychological-misdirection",
+      "gain"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "佐久间精心筹备的企划案被日星汽车的大老板葛城胜俊斥为肤浅。怀恨在心的他偷偷躲在葛城大宅外，却目睹葛城之女从宅内翻墙而出。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢双方博弈型故事的读者"
+      ],
+      "watchFor": [
+        "两人各自的动机与筹码",
+        "交涉条件的每一次变化",
+        "时间节点上的对照"
+      ],
+      "warning": "犯罪悬疑长篇，含绑架、要挟与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，上海译文出版社 2011.10。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出企划案受挫与窥见葛城之女翻墙而出的开场。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2011。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "hig113-003",
+    "title": "侦探俱乐部",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "侦探俱乐部系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "本格短篇集，由《伪装之夜》《圈套之中》《委托人之女》《侦探的使用方式》《蔷薇与刀》五篇组成，每篇都发生一起离奇命案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢经典本格结构的读者"
+      ],
+      "watchFor": [
+        "各篇里被藏起来的那处细节",
+        "委托人的说法",
+        "侦探登场的方式"
+      ],
+      "warning": "本格推理短篇集，五篇各含一起命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2013。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书为东野圭吾最精彩**本格短篇推理小说**合集」并列出全部五篇篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2013。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "hig113-004",
+    "title": "宿命",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "vanished-weapon",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "电机巨头瓜生直明社长因病过世，不久后继任的社长在家族墓地被杀，背上插着一支箭，身旁散落着白色的菊花。警方查明箭尖含有剧毒。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢家族与身世谜团的读者"
+      ],
+      "watchFor": [
+        "那副消失的十字弓",
+        "两家人之间的往来",
+        "兄弟二人各自的记忆"
+      ],
+      "warning": "本格推理长篇，含命案、剧毒与身世秘密描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2025.01。**推理属性判据**：①该条**题名主题（学科主题词）为「长篇小说 日本 现代 ; 推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出墓地被杀、箭尖含毒、十字弓失踪的谜面。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "hig113-005",
+    "title": "我杀了他",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "加贺恭一郎系列",
+    "detective": "加贺恭一郎",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "diary-form",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "作家穗高在自己的婚礼上中毒身亡。他的经纪人、编辑和新娘的哥哥都以为是自己成功杀了他。婚礼一周后，一封邀请函让三个嫌疑人聚到穗高家。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "加贺恭一郎系列的读者",
+        "喜欢多份自述互相对照的读者"
+      ],
+      "watchFor": [
+        "三份自述各自的时间线",
+        "婚礼当天的用药与经手",
+        "邀请函的发出者"
+      ],
+      "warning": "本格推理长篇，含中毒命案与多人自述描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2019。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明婚礼中毒身亡与三名嫌疑人的自述结构，并点出刑警加贺。**备注**：本书与库内已有的《谁杀了她》为同一系列的对照作（读者需自行指认凶手）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2019。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "hig113-006",
+    "title": "杀人之门",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "revenge",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个被当作「弃子」的人，在一重重骗局里颠沛、挣扎、受辱。作者以深不可测的人心为入口，以诡异邪恶的欺诈为路径，把故事推向杀意的巅峰。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢漫长心理累积型故事的读者"
+      ],
+      "watchFor": [
+        "每一次骗局的操盘者",
+        "主人公处境的逐级下滑",
+        "他心态转变的节点"
+      ],
+      "warning": "社会派长篇，含诈骗、羞辱与杀意描写，基调压抑。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2011。**推理属性判据**：①该条**题名主题（学科主题词）为「长篇小说 日本 现代 ; 推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出「以深不可测的人心为入口……最终达至杀意的巅峰」的叙事结构。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2011。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "hig113-007",
+    "title": "白马山庄谜案",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "nursery-rhyme",
+      "mansion",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "白马的鹅妈妈度假山庄是一座欧式庄园，主人是位神秘的英国贵妇。为了调查哥哥离奇过世的真相，妹妹直子在好友陪伴下来到这座庄园——庄内每间屋子的名字都取自《鹅妈妈》童谣。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢童谣与暗号型谜题的读者",
+        "东野圭吾早期本格的读者"
+      ],
+      "watchFor": [
+        "客房名字与童谣的对应",
+        "哥哥留下的记录",
+        "山庄里住客的来历"
+      ],
+      "warning": "本格推理长篇，封闭庄园舞台，含命案与童谣线索描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，湖南文艺出版社 2025（长沙）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出「鹅妈妈度假山庄」「每间屋子的名字都是鹅妈妈童谣」的谜面结构。**同书异译核查**：本次候选清单里另有一条《白马山庄杀人事件》（同为硬判据），**与本条是同一部作品**，已登记为 `alternateTitles`，**不另立条目**。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025",
+    "alternateTitles": [
+      "白马山庄杀人事件"
+    ]
+  },
+  {
+    "id": "hig113-008",
+    "title": "空中杀人现场",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "空姐侦探系列（短篇集）",
+    "detective": "小A、小B",
+    "country": "日本",
+    "tags": [
+      "locked-space",
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "空姐小A与小B是一对性格迥异却非常合拍的密友。离地万米的机舱里坐着形形色色的旅客，她们总是卷入意想不到的诡异事件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢机舱这一封闭舞台的读者"
+      ],
+      "watchFor": [
+        "旅客登机时的举动",
+        "两位空姐的分工",
+        "落地前后时间的对照"
+      ],
+      "warning": "本格推理短篇集，机舱封闭舞台，含命案与盗窃描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2019。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 中篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明两位空姐在机舱里「总是卷入意想不到的诡异事件」。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2019。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "hig113-009",
+    "title": "以眨眼干杯",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "公关小姐小田香子平日里最大的心愿就是嫁入豪门。在珠宝名店「华屋」的感谢派对上，她物色到了高见不动产的青年才俊高见俊介，正在欣喜时却传来了噩耗。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢宴会现场谜案的读者"
+      ],
+      "watchFor": [
+        "派对当晚各人的位置",
+        "珠宝的存放与经手",
+        "香子留意到的细节"
+      ],
+      "warning": "本格推理长篇，含密室相关命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，九州出版社 2023.3。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出派对现场与随之而来的噩耗。**同书异译核查**：候选清单里另有一条《一眨眼干杯》，与本条同为一部作品，已合并。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023",
+    "alternateTitles": [
+      "一眨眼干杯"
+    ]
+  },
+  {
+    "id": "hig113-010",
+    "title": "假面游戏",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "假面系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "revenge",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "trick-school"
+    ],
+    "safeSummary": "警方调查某连环案件后发现，三个案子的死者都有案史，疑为遗属复仇。而这些遗属在同一天住进了同一家饭店，引起警方注意。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "假面系列的读者",
+        "喜欢多视角刑侦叙事的读者"
+      ],
+      "watchFor": [
+        "三名死者的案史",
+        "遗属们入住的时间",
+        "饭店员工的观察"
+      ],
+      "warning": "犯罪悬疑长篇，含连环命案与复仇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2024。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明「通过刑警、酒店服务人员和受害者的视角讲述了一起连环案件的终结」以及遗属复仇的线索。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "hig113-011",
+    "title": "长长的回廊",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "revenge",
+      "diary-form"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "凭着自己的努力，女主人公桐生事业爱情双丰收，却在一夜之间从高处被狠狠摔下。身份地位、唯一的恋人、甜蜜的爱情、曾真心付出的信任，一切都在一场大火中化为乌有。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢身份反转型故事的读者"
+      ],
+      "watchFor": [
+        "火灾前后各人的说法",
+        "桐生身边的人际关系",
+        "叙述者身份的线索"
+      ],
+      "warning": "犯罪悬疑长篇，含纵火、命案与身份伪装描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2020。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明主人公在一场大火中失去身份、恋人、爱情与信任。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "hig113-012",
+    "title": "第十年的情人节",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "cozy"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school",
+      "trick-school"
+    ],
+    "safeSummary": "东野圭吾的短篇推理集，各篇从一个日常场景切入，再翻出意想不到的另一面。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢结尾翻转的读者"
+      ],
+      "watchFor": [
+        "每个日常场景里不协调的地方",
+        "叙述者略过不提的部分",
+        "篇末重新解释的那件事"
+      ],
+      "warning": "推理短篇集，题材温和，部分篇目涉及命案。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，人民文学出版社 2017。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）。**备注**：该馆此条**提要文摘为空**，故梗概只作体裁与读法层面的概括，**不虚构任何具体情节**。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "hig113-013",
+    "title": "沉睡美人",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "unreliable-narrator",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "东野圭吾的中短篇集，共七篇独立成章的故事，全部以「那些看上去很奇怪的人」的第一人称视角展开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢第一人称怪谈式叙事的读者"
+      ],
+      "watchFor": [
+        "叙述者刻意不提的事",
+        "各篇视角人物的自述动机",
+        "结尾处视角的偏移"
+      ],
+      "warning": "推理中短篇集，含命案与心理异常描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，湖南文艺出版社 2025（长沙）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘**直接写明**「本书是知名**推理小说作家**东野圭吾的一部中短篇小说集……共有 7 篇独立成章的故事……全部曾于《小说宝石》杂志上连载刊登，是东野圭吾早期少有的中短篇」。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "hig113-014",
+    "title": "祈愿女神",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "楠树系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "月乡神社有一棵据说能实现祈念的楠树，目前由玲斗守护管理。高中女生佑纪奈来到神社，想寄卖自制的诗集以帮补家计。不久后，一名落魄的男子也来了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "《祈念守护人》的读者",
+        "喜欢温情向谜团的读者"
+      ],
+      "watchFor": [
+        "来神社求助者的来历",
+        "楠树传说的具体说法",
+        "玲斗自己的身世"
+      ],
+      "warning": "犯罪悬疑长篇，含命案与家庭困境描写，笔调温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，湖南文艺出版社 2025.01（长沙）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出月乡神社楠树、寄卖诗集的女生与随后而至的落魄男子。**备注**：本书与库内已有的《祈念守护人》为同一系列。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "hig113-015",
+    "title": "架空犯",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "五代努、山尾阳介",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "东京都一栋高级住宅发生火灾，都议会议员藤堂康幸和妻子双双殒命。一些细微线索的寻获，让案件定性由最初的自杀转为谋杀。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢刑侦程序与政界背景的读者"
+      ],
+      "watchFor": [
+        "改变案件定性的那几处线索",
+        "议员夫妇的社会关系",
+        "两位刑警的分工"
+      ],
+      "warning": "犯罪悬疑长篇，含纵火、命案与政界背景描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，浙江人民出版社 2025（杭州）。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘写明火灾、议员夫妇殒命与「由最初的自杀转为谋杀」的定性反转，并点出警视厅搜查一课的办案人员。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "hig113-016",
+    "title": "你杀了谁",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "加贺恭一郎系列",
+    "detective": "加贺恭一郎",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "八月，原本安静的豪华别墅区热闹起来。从都市回来的别墅主人们享受着一年一度的烧烤派对，宴会直到半夜才结束。就在他们各自回家后不久，每一家都有人遭受了袭击。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "加贺恭一郎系列的读者",
+        "喜欢多户人家同时涉案的读者"
+      ],
+      "watchFor": [
+        "各户受害的时间先后",
+        "派对上的相处情形",
+        "别墅区的外来者"
+      ],
+      "warning": "本格推理长篇，一夜间多户遇袭，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，南海出版公司 2025.01。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出派对当夜多户人家接连遇袭的谜面。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "hig113-017",
+    "title": "白银杰克",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "fear",
+      "timetable",
+      "adventure"
+    ],
+    "school": [
+      "trick-school",
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "正值滑雪旺季，新月高原滑雪场突然接到恐吓信，称各雪道下都已埋下定时炸弹，如不满足提出的苛刻要求，将随时遥控引爆。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢倒计时式紧张感的读者"
+      ],
+      "watchFor": [
+        "恐吓信提出的条件",
+        "雪场各条索道的走向",
+        "当天在场人员的动线"
+      ],
+      "warning": "犯罪悬疑长篇，含爆炸威胁、勒索与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，上海译文出版社 2017。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出滑雪场收到炸弹恐吓信的谜面。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017",
+    "alternateTitles": [
+      "雪国之劫"
+    ]
+  },
+  {
+    "id": "hig113-018",
+    "title": "造彩虹的人",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "fear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "白河光瑠天生对色彩有惊人的感知力。读高中后，他开始在深夜来到一座废弃的音乐厅，用如彩虹般的灯光演奏出神奇的旋律，吸引了无数听众。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾非系列作品的读者",
+        "能接受超常设定与阴郁基调的读者"
+      ],
+      "watchFor": [
+        "光瑠对色彩的描述",
+        "听众们的反应变化",
+        "白色灯光出现后的异常"
+      ],
+      "warning": "犯罪悬疑长篇，带超常设定，含群体狂热与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，北京十月文艺出版社 2017。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 日本 现代 ; 长篇小说 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘给出主人公以灯光演奏旋律并吸引听众的设定。**备注**：本书带超常色彩，按内容记「犯罪悬疑」，流派中标为 `bizarre-school`（变格派）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "hig113-019",
+    "title": "怪人们",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "authorEn": "Higashino Keigo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "ensemble",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "短篇集，收录《沉睡的女人》《让我再听一次你的判罚》《至死方休》《蜜月之旅》《灯塔之上》《新婚照之谜》《哥斯达黎加的冷雨》等篇目。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾短篇的读者",
+        "喜欢以怪人为视角的短篇的读者"
+      ],
+      "watchFor": [
+        "各篇叙述者的立场",
+        "看似寻常对话里的破绽",
+        "篇末对前文的重新解释"
+      ],
+      "warning": "推理短篇集，含命案、失踪与心理异常描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：东野圭吾，上海文艺出版社 2015.09。**推理属性判据**：①该条**题名主题（学科主题词）为「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，属判据层级第①类（最硬）；②馆藏提要文摘列出全部篇目。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2015。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-113-higashino.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2015"
+  }
+]

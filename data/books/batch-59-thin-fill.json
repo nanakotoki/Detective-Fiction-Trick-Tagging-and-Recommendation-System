@@ -1,0 +1,163 @@
+[
+  {
+    "id": "thin59-001",
+    "title": "监狱岛",
+    "originalTitle": "監獄島",
+    "author": "加贺美雅之",
+    "authorEn": "Kagami Masayuki",
+    "genre": "本格推理",
+    "firstPublished": "2004",
+    "series": "",
+    "detective": "帕特里克·史密斯",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "closed-circle",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一座四面环水、只靠定期船联系的旧监狱被改作他用，岛上的人各有各的来处。当船期被天气打断，岛上出现了第一具尸体——而所有人都在同一片小小的陆地上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 479,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6902945/",
+        "subjectId": "6902945",
+        "edition": "監獄島 下 2004",
+        "fetchedAt": "2026-09-22T12:53:00.331Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室与孤岛题材爱好者",
+        "加贺美雅之的读者"
+      ],
+      "watchFor": [
+        "岛上的建筑与通道",
+        "船期与天气的对应",
+        "各人被送到这里的原因"
+      ],
+      "warning": "本格长篇（上下卷），孤岛封闭舞台，含暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-59-thin-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "thin59-002",
+    "title": "幻想博物馆",
+    "originalTitle": "幻想博物館",
+    "author": "中井英夫",
+    "authorEn": "Nakai Hideo",
+    "genre": "变格",
+    "firstPublished": "1981",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "meta-fiction",
+      "dark-atmosphere",
+      "first-person",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。作者的写法是把一件件收藏品当作入口：一件器物、一页旧稿、一段乐谱，每样东西背后都连着一个不太正常的故事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《献给虚无的供物》的读者",
+        "喜欢战前战后怪奇趣味的读者"
+      ],
+      "watchFor": [
+        "每件「收藏品」的性质",
+        "叙述者获取它的经过",
+        "故事停在了哪一句上"
+      ],
+      "warning": "怪奇短篇集，各篇独立，基调阴翳，含猎奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-59-thin-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

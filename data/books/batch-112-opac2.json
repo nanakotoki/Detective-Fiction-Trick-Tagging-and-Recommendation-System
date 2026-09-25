@@ -1,0 +1,610 @@
+[
+  {
+    "id": "src112-001",
+    "title": "意外来客",
+    "originalTitle": "The Unexpected Guest",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1999",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["countryside", "concealment", "ensemble"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "浓雾里，斯塔克韦瑟的车冲进了沟里。他摸黑走到附近一户人家求助，却在客厅里撞见了一桩刚刚发生的命案，以及一个手里还握着枪的人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["克里斯蒂剧作改编作品的读者", "喜欢单一现场多人证词的读者"],
+      "watchFor": ["斯塔克韦瑟进门后看到的顺序", "在场各人的证词出入", "雾中与宅子里时间的对照"],
+      "warning": "本格推理长篇，含枪击命案与现场对峙描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**两条著录（新星出版社 2018／2023，中图分类 I561.45），丛编项为「午夜文库.大师系列；阿加莎·克里斯蒂作品.其他系列及非系列作品；阿加莎·克里斯蒂侦探小说全集」。**推理属性判据**：①2023 那条著录的**题名主题（学科主题词）为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**。**⚠ 假阴性记录**：上一轮的批量取证器只取**第一条**精确著录，2018 那条主题为「长篇小说」，因此把它误判为「弱判据」；本轮改为逐条看全部著录后更正为硬判据。**改编说明**：本书是克里斯蒂 1958 年同名舞台剧的小说化改写（Charles Osborne 执笔），按本项目「改编作品记原著作者」的规则作者记克里斯蒂；`firstPublished` 记小说化版本年 1999，`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "src112-002",
+    "title": "黑咖啡",
+    "originalTitle": "Black Coffee",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1998",
+    "series": "赫尔克里·波洛系列",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": ["mansion", "locked-space", "vanished-weapon"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "物理学家克劳德·阿莫里爵士研究出一个全新的方程式。他把几位客人请到家中，席间离开片刻，回来时人已死在锁着的房间里，而那份公式也不见了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["波洛系列的读者", "喜欢室内单一现场谜案的读者"],
+      "watchFor": ["咖啡杯的取用与摆放", "几位客人离席的时间", "那份方程式的存放处"],
+      "warning": "本格推理长篇，含中毒命案与密室相关描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（新星出版社 2017／2022／2022.07），丛编项为「午夜文库.大师系列.波洛系列；阿加莎·克里斯蒂侦探作品集.赫尔克里·波洛系列」。**推理属性判据**：①2022 那条著录的**题名主题（学科主题词）为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②丛编项含**推理专门书系「午夜文库」**并归入波洛系列。**⚠ 假阴性记录**：同《意外来客》，上一轮的批量器只取第一条著录（2017 那条主题为「长篇小说」）而误判为弱判据。**改编说明**：本书是克里斯蒂 1930 年同名舞台剧的小说化改写（Charles Osborne 执笔），作者记克里斯蒂；`firstPublished` 记小说化版本年 1998，`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "src112-003",
+    "title": "天涯过客",
+    "originalTitle": "Passenger to Frankfurt",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "冒险悬疑",
+    "firstPublished": "1970",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["adventure", "spy-espionage", "city"],
+    "school": ["adventure-school", "spy-school"],
+    "safeSummary": "一班飞往日内瓦的航班因故无法抵达，形形色色的旅客被困在中转地。外交官斯塔福德在机场遇到一位求助的年轻女子，随后被卷进一桩远超预期的麻烦。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["克里斯蒂非系列作品的读者", "喜欢旅途舞台的读者"],
+      "watchFor": ["机场里各色旅客的来历", "那位女子的请求", "斯塔福德此行的差事"],
+      "warning": "冒险悬疑长篇，冷战后背景，含间谍组织与阴谋描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**两条著录（新星出版社 2014.01／2022.11，中图分类 I561.45），丛编项为「阿加莎·克里斯蒂侦探作品集；午夜文库.大师系列」。**推理属性判据**：①2022.11 那条著录的**题名主题（学科主题词）为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②另一条丛编项写的是「阿加莎·克里斯蒂**侦探**作品集」。**体裁说明**：本书带间谍与阴谋色彩，按内容记「冒险悬疑」并如实标 `spy-espionage`，与库内已收的《四魔头》《桑苏西来客》口径一致；**编目方直接把它标为「侦探小说」**，故收录。**原作年**：1970 年，取自克里斯蒂作品年表；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "src112-004",
+    "title": "上帝之灯",
+    "originalTitle": "",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "埃勒里·奎因短篇集",
+    "detective": "埃勒里·奎因",
+    "country": "美国",
+    "tags": ["cipher", "mansion", "locked-room"],
+    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "safeSummary": "奎因短篇集，收录《上帝之灯》《寻宝游戏》《空心的龙》《黑暗之屋》《泣血的画像》等篇目，各篇多为不可能的现场或难解的符号。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["奎因短篇的读者", "喜欢逻辑推演型短篇的读者"],
+      "watchFor": ["各篇中不合常理的物证", "叙述者列出的疑点清单", "篇末推理所依赖的那条线索"],
+      "warning": "本格推理短篇集，含命案、失踪与怪奇现场描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(美) 埃勒里·奎因著，化学工业出版社 2016.01。**推理属性判据（如实写明其层级）**：①该条**题名主题（学科主题词）为「短篇小说 小说集 美国 现代」，不含「推理小说／侦探小说」**，故不能以学科主题直证；②**丛编项为「金匕首文库.奎因推理经典系列」——出版社在丛书名里直接写明了「推理」**，属判据层级第②类（出版方明写推理）叠加第⑤类（推理专门书系）；③作者埃勒里·奎因是黄金时代代表作家，库内已收其 17 部；④馆藏提要文摘列出全部篇目（《上帝之灯》《寻宝游戏》《空心的龙》《黑暗之屋》《泣血的画像》等）。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2016。梗概只列篇目。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "src112-005",
+    "title": "恶狼之夜",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "伯恩斯系列（短篇集）",
+    "detective": "伯恩斯",
+    "country": "法国",
+    "tags": ["locked-room", "legend-folklore", "psychological-misdirection"],
+    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "safeSummary": "保罗·霍尔特的短篇集：以伯恩斯为主人公的六个短篇，外加若干独立成篇的故事，案情多为看似无法实现的现场。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪的爱好者", "法国古典本格的读者"],
+      "watchFor": ["各篇现场的不可能之处", "传说与怪谈在案中的作用", "伯恩斯提出的假设"],
+      "warning": "本格推理短篇集，含密室、怪奇气氛与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(法) 保罗·霍尔特著，文汇出版社 2023（上海）。**推理属性判据**：①该条**题名主题为「短篇小说 小说集 法国 现代」**，不含推理，故不以学科主题直证；②**丛编项「读客悬疑文库」为悬疑推理专门书系**；③馆藏提要文摘直接写「本书是一部短篇小说集，收录了**法国推理大师**保罗·霍尔特撰写的以伯恩斯为主人公的 6 个短篇，及独立的 9 篇」——**出版方在提要里明写「推理」**，属判据层级第②类叠加第⑤类；④作者保罗·霍尔特与库内上一批收入的《亡灵之舞》为同一作者。**年份字段拆分（方案 C）**：`firstPublished`（法文原版年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "src112-006",
+    "title": "恶徒的救赎",
+    "originalTitle": "",
+    "author": "高野和明",
+    "authorEn": "Takano Kazuaki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["city", "revenge", "adventure"],
+    "school": ["police-procedural", "trick-school", "adventure-school"],
+    "safeSummary": "一个自认恶徒的男人为赶上医院的骨髓捐献手术，必须在时限内穿过整座城市；而沿途等着他的，是一连串与旧案有关的杀机。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["高野和明的读者", "喜欢逃跑与追击叙事的读者"],
+      "watchFor": ["主人公赶路的时间压力", "沿途各人的动机", "旧案卷宗里的名字"],
+      "warning": "犯罪悬疑长篇，节奏紧张，含连环命案与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 高野和明著，北京日报出版社 2023.03。**推理属性判据**：①该条**题名主题为「长篇小说 日本 现代」**，不含推理；②**丛编项「读客悬疑文库」为悬疑推理专门书系**；③馆藏提要文摘直接写「本书**荣获日本推理作家协会大奖**、山田风太郎文学奖等知名奖项」——**所获奖项本身就是推理奖项**，属判据层级第②类叠加第⑤类；④作者高野和明，与本批《消失的13级台阶》同一作者。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2023。**说明**：本条梗概据书名与馆藏提要所述「主人公在时限内穿越城市」的框架撰写，未涉结局。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "src112-007",
+    "title": "消失的13级台阶",
+    "originalTitle": "",
+    "author": "高野和明",
+    "authorEn": "Takano Kazuaki",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["alibi", "silencing", "forensic"],
+    "school": ["social-school", "police-procedural", "logic-school"],
+    "safeSummary": "一对老夫妇惨遭杀害，一切证据都指向树原亮，他却因车祸恰好丧失了案发前后数小时的记忆。死刑判决之下，两名调查者开始重新追查那几小时。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["社会派推理的读者", "关注死刑制度议题的读者"],
+      "watchFor": ["树原亮失忆的那几个小时", "现场遗留的物证", "两位调查者各自的目的"],
+      "warning": "社会派推理长篇，含命案、死刑与司法程序描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 高野和明著，上海文艺出版社 2020（上海）。**推理属性判据（本条弱于本批的硬判据条目，如实写明）**：①该条**题名主题为「长篇小说 日本 现代」**，不含推理；②丛编项「读客外国小说文库」**不是**推理专门书系，故第⑤类也不成立；③判据落在**第④类（作者身份 AND 谜面要素）**：作者高野和明以本书获**日本推理作家协会奖**体系内的奖项（本书为其江户川乱步奖获奖作），库内同一作者的《恶徒的救赎》馆藏提要明确写有「荣获**日本推理作家协会大奖**」；④馆藏提要文摘给出的谜面是典型的推理结构——「一切证据都指向树原亮，他却因车祸，恰好丧失了案发前后数小时的记忆」。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2020。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "src112-008",
+    "title": "黑色皮革手册",
+    "originalTitle": "",
+    "author": "松本清张",
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["gain", "city", "social-commentary"],
+    "school": ["social-school", "psychological-school"],
+    "safeSummary": "原口元子原是银行职员，不甘于那种单调的生活。她记下一本黑色皮革手册，随后带着从银行挪出的一大笔钱消失，转而在银座的夜色里开起了自己的店。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["松本清张的读者", "喜欢以把柄与交易推动的故事的读者"],
+      "watchFor": ["手册上记下的名字与数字", "元子与客人之间的往来", "银行方面的追查"],
+      "warning": "社会派长篇，含挪用公款、要挟与风俗业描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 松本清张著，文汇出版社 2018（上海）。**推理属性判据（本条弱于本批的硬判据条目，如实写明）**：①该条**题名主题为「长篇小说 日本 现代」**，不含推理；②丛编项「读客外国小说文库」不是推理专门书系；③判据落在**第④类（作者身份 AND 谜面要素）**——作者松本清张为**日本推理作家协会奖**得主、社会派推理的开创者，库内已收其 **23 部**；④馆藏提要文摘给出的情节核心是一本记满客户把柄的「黑色皮革手册」与随之而来的交易，属社会派犯罪小说的典型结构。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2018。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "src112-009",
+    "title": "天使的号角",
+    "originalTitle": "",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆",
+    "country": "美国",
+    "tags": ["forensic", "city", "silencing"],
+    "school": ["police-procedural", "forensic-school", "trick-school"],
+    "safeSummary": "林肯·莱姆系列：一个新的嫌疑人正在行动，作案手段狡诈多变，蛰伏在阴暗潮湿的角落里布置现场。莱姆与搭档必须在下一处现场出现前读懂他的规律。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["林肯·莱姆系列的读者", "喜欢物证推理的读者"],
+      "watchFor": ["各处现场的布置规律", "留下的微量物证", "凶手选择目标的条件"],
+      "warning": "犯罪悬疑长篇，含连环命案、现场鉴识与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(美) 杰弗里·迪弗著，新星出版社 2022.12。**推理属性判据**：①该条**题名主题为「长篇小说 美国 现代」**，不含推理；②**丛编项为「午夜文库.大师系列.杰夫里·迪弗；林肯·莱姆系列」——推理专门书系「午夜文库」**，属判据层级第⑤类；③作者杰夫里·迪弗（**库内拼写为「杰夫里·迪弗」**，本条沿用）为犯罪推理作家，库内已收其 12 部，与本批《狙击室》同系列；④馆藏提要文摘写明谜面为「一个新的嫌疑人正在行动——凶手的犯罪手段狡诈多变」。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "src112-010",
+    "title": "黑贵妇",
+    "originalTitle": "",
+    "author": "西泽保彦",
+    "authorEn": "Nishizawa Yasuhiko",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "匠千晓系列（短篇集）",
+    "detective": "匠千晓",
+    "country": "日本",
+    "tags": ["ensemble", "multiple-solutions", "cozy"],
+    "school": ["logic-school", "orthodox-school", "daily-mystery-school"],
+    "safeSummary": "短篇集。通称「匠仔」的匠千晓、外号「漂撇学长」的边见右辅、外号「高千」的高濑千帆与昵称「小兔」的羽迫由起，四人凑在一起聊着聊着，就把身边的怪事聊成了谜题。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["匠千晓系列的读者", "喜欢日常之谜与闲聊式推理的读者"],
+      "watchFor": ["四人各自提出的解释", "被推翻的那一版推理", "话题里被一带而过的细节"],
+      "warning": "本格推理短篇集，含命案与失踪描写，笔调轻松。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**两条著录（新星出版社 2017／2022.12），后者丛编项为「**午夜文库.日系佳作.西泽保彦作品**；匠千晓系列」。**推理属性判据**：①该条**题名主题为「短篇小说 小说集 日本 现代」**，不含推理；②**丛编项含推理专门书系「午夜文库·日系佳作」并标明「西泽保彦作品」**，属判据层级第⑤类；③作者西泽保彦库内已收 11 部，与本批《偶然而恐怖的相遇》同一作者；④馆藏提要文摘写明这是匠千晓系列短篇集。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2022。梗概由整理者据馆藏提要文摘与系列人物设定自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "src112-011",
+    "title": "破冰游戏",
+    "originalTitle": "",
+    "author": "艾莉·雷诺兹",
+    "authorEn": "Allie Reynolds",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["closed-circle", "snowfield", "locked-space"],
+    "school": ["trick-school", "orthodox-school", "psychological-school"],
+    "safeSummary": "法国境内的阿尔卑斯山上，五位昔日的滑雪比赛选手重聚于一处缆车站。风雪封山，旧日队友之间的旧账被一件件翻出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["暴风雪山庄模式的爱好者", "喜欢旧友重聚型悬疑的读者"],
+      "watchFor": ["缆车站与外界失联的时点", "五人各自隐瞒的往事", "山上留下的痕迹"],
+      "warning": "犯罪悬疑长篇，封闭雪山舞台，含失踪、命案与暴力描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**两条著录（新星出版社 2024），丛编项均为「**午夜文库.艾莉·雷诺兹作品**」。**推理属性判据**：①该条**题名主题为「长篇小说 英国 现代」**，不含推理；②**丛编项含推理专门书系「午夜文库」**，属判据层级第⑤类；③馆藏提要文摘写「本书讲述了一个高度概念性、快节奏的**密室惊悚**故事，故事发生在法国境内的阿尔卑斯山上」，**「密室」这一谜面要素成立**，即第⑤类叠加第③类（谜面要素）。**新作者**：库内此前无艾莉·雷诺兹作品。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "src112-012",
+    "title": "陌生人的日记",
+    "originalTitle": "",
+    "author": "艾莉·格里菲斯",
+    "authorEn": "Elly Griffiths",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": ["diary-form", "concealment", "countryside"],
+    "school": ["orthodox-school", "psychological-school", "logic-school"],
+    "safeSummary": "克莱尔是一名高中教师，也是研究哥特小说作家 R.M. 霍兰德的专家。一本旧日记落到她手里，日记里写的事与她正在研究的作家对得上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["喜欢文献与旧手稿线索的读者", "艾莉·格里菲斯的读者"],
+      "watchFor": ["日记的书写年代与笔迹", "作家作品与日记的对应处", "克莱尔同事们的说法"],
+      "warning": "犯罪悬疑长篇，含失踪、旧案与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(英) 艾莉·格里菲斯著，新星出版社 2023，丛编项「**午夜文库.艾莉·格里菲斯作品**」。**推理属性判据**：①该条**题名主题为「长篇小说 英国 现代」**，不含推理；②**丛编项含推理专门书系「午夜文库」**，属判据层级第⑤类；③馆藏提要文摘写明研究者身份与旧手稿线索，谜面成立（第③类谜面要素）。**新作者**：库内此前无艾莉·格里菲斯作品。**年份字段拆分（方案 C）**：`firstPublished`（英文原版年）**留空不冒填**；`editionYear` 记 2023。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "src112-013",
+    "title": "繁花将逝",
+    "originalTitle": "",
+    "author": "伽古屋圭市",
+    "authorEn": "Kagoya Keiichi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列（短篇连作）",
+    "detective": "茂次郎",
+    "country": "日本",
+    "tags": ["historical-setting", "obsession", "concealment"],
+    "school": ["orthodox-school", "logic-school", "bizarre-school"],
+    "safeSummary": "美人画画家茂次郎有一双特殊的识人眼力，他选中的作画对象都曾有过一段隐秘的经历。一位位客人坐下，各自的往事在画笔下慢慢浮出来。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["时代背景短篇连作的读者", "喜欢以人物往事为谜的读者"],
+      "watchFor": ["每位客人自述中的出入", "茂次郎作画时的观察", "各篇之间重复出现的街道与人"],
+      "warning": "本格推理短篇连作，昭和背景，含命案与情感纠葛描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**：(日) 伽古屋圭市著，新星出版社 2025.02（北京），丛编项「**午夜文库.日系佳作.伽古屋圭市作品**」。**推理属性判据**：①该条**题名主题不含推理（仅列日本现代长篇小说）**；②**丛编项含推理专门书系「午夜文库·日系佳作」并标明「伽古屋圭市作品」**，属判据层级第⑤类；③馆藏提要文摘给出「画家识人、客人各有隐秘经历」的谜面结构（第③类）。**新作者**：库内此前无伽古屋圭市作品。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2025。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "src112-014",
+    "title": "恐怖呢喃",
+    "originalTitle": "",
+    "author": "贵志佑介",
+    "authorEn": "Kishi Yusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["fear", "dark-atmosphere", "concealment"],
+    "school": ["psychological-school", "trick-school", "bizarre-school"],
+    "safeSummary": "一次在热带雨林的神秘科考活动，几名队员相继听到了一种诡异而恐怖的声音。在那之后，他们各自的人生开始偏离原来的轨道。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["贵志佑介的读者", "能接受阴郁与惊悚气氛的读者"],
+      "watchFor": ["声音出现的时机与地点", "队员回国后的变化", "科考队留下的记录"],
+      "warning": "犯罪悬疑长篇，气氛阴郁，含怪奇现象与死亡描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**：(日) 贵志祐介著，文汇出版社 2024.3（上海），丛编项「**读客悬疑文库**」。**推理属性判据**：①该条**题名主题为「长篇小说 日本 现代」**，不含推理；②**丛编项「读客悬疑文库」为悬疑推理专门书系**，属判据层级第⑤类；③作者贵志佑介（**库内拼写为「贵志佑介」，本条沿用**）库内已收 7 部，本批另收其《黑暗之家》，而《黑暗之家》的编目主题**明确标为「推理小说」**（可作同一作者的旁证）；④馆藏提要文摘给出「科考队相继听到诡异声音、此后各自生变」的谜面。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2024。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "src112-015",
+    "title": "海妖的诅咒",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": ["legend-folklore", "mansion", "locked-room"],
+    "school": ["orthodox-school", "trick-school", "bizarre-school"],
+    "safeSummary": "偏远村庄里的克兰斯顿庄园流传着一个家族诅咒：据说海妖的叫声响起时，没听到声音的家族成员就会出事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["不可能犯罪与传说题材的爱好者", "保罗·霍尔特的读者"],
+      "watchFor": ["诅咒传说的具体条文", "听到与没听到声音的人", "庄园里留存的家史记录"],
+      "warning": "本格推理长篇，含怪奇传说、家族死亡与命案描写。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**：(法) 保·罗霍尔特（著录如此，即 **Paul Halter / 保罗·霍尔特**）著，文汇出版社 2024.06（上海），丛编项「**读客悬疑文库**」。**推理属性判据**：①该条**题名主题不含推理**；②**丛编项「读客悬疑文库」为悬疑推理专门书系**，属判据层级第⑤类；③作者保罗·霍尔特库内已有《亡灵之舞》《恶狼之夜》两部，且《恶狼之夜》的馆藏提要**明写其为「法国推理大师」**（同一作者的旁证）；④馆藏提要文摘给出「家族诅咒」这一典型的不可能犯罪式谜面。**年份字段拆分（方案 C）**：`firstPublished`（法文原版年）**留空不冒填**；`editionYear` 记 2024。**备注**：该馆把作者著录为「保·罗霍尔特」，本库统一采用**库内既有拼写「保罗·霍尔特」**。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "src112-016",
+    "title": "残虐记",
+    "originalTitle": "",
+    "author": "桐野夏生",
+    "authorEn": "Kirino Natsuo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": ["unreliable-narrator", "concealment", "obsession"],
+    "school": ["psychological-school", "social-school"],
+    "safeSummary": "一桩令人震惊、谜团重重的少女诱拐事件。小说以「我」——一位失踪作家的丈夫——的口吻叙述，他要弄清妻子那部未完成的作品里写的究竟是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["心理悬疑的读者", "能接受沉重题材的读者"],
+      "watchFor": ["叙述者的立场与局限", "手稿里被删改的地方", "当事人多年后的说法"],
+      "warning": "犯罪悬疑长篇，含诱拐、长期拘禁与性暴力相关描写，题材沉重。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：(日) 桐野夏生著，广西师范大学出版社 2010（桂林），丛编项「桐野夏生作品」。**推理属性判据（本条是本批中判据最弱的，如实写明）**：①该条**题名主题为「长篇小说 日本 现代」**，不含推理；②丛编项「桐野夏生作品」**不是**推理专门书系，故第⑤类不成立；③唯一可依的是**第④类（作者身份 AND 谜面要素）**——作者桐野夏生为**日本推理作家协会奖**得主、以犯罪小说见长；④馆藏提要文摘写明情节核心为「一个令人震惊、**谜团重重**的少女诱拐事件」并以失踪作家丈夫的口吻叙述，谜面与叙述层次成立。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2010。**新作者**：库内此前无桐野夏生作品。梗概由整理者据馆藏提要文摘自行重写。"
+    },
+    "provenance": {
+      "source": "batch-112-opac2.json",
+      "ratingsNote": "豆瓣评分为抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  }
+]

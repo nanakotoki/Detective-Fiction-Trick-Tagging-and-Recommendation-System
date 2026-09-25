@@ -1,0 +1,338 @@
+[
+  {
+    "id": "spider93-001",
+    "title": "第七位囚禁者",
+    "originalTitle": "",
+    "author": "葵田谷",
+    "authorEn": "Kuitiangu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "fear",
+      "dark-atmosphere",
+      "city",
+      "ensemble",
+      "psychological-misdirection",
+      "silencing"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "香港接连有偷渡入境的边缘女性被囚禁在没有门的灰色房间里，直到缺水而死，挣扎呼救的视频出现在网络上。两地警方联手追凶，却每次都晚到一步。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 729,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36429805/",
+        "subjectId": "36429805",
+        "edition": "第七位囚禁者 2023",
+        "fetchedAt": "2026-09-23T11:51:32.533Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢连环案与社会题材的读者",
+        "葵田谷的读者"
+      ],
+      "watchFor": [
+        "两地警方的协作方式",
+        "接近涂姝的那个男人的来路",
+        "视频是谁放上网的"
+      ],
+      "warning": "犯罪悬疑长篇，含囚禁、虐待与凶案描写，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与内容简介取自豆瓣条目 subject/36429805。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」（出版社推理专门书系）；②作者公开身份为推理小说作家、编剧；③内容为连环命案与追凶。首次出版年以豆瓣该条目版本年为准；梗概由整理者自行重写，未照搬原文。"
+    },
+    "provenance": {
+      "source": "batch-93-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider93-002",
+    "title": "红楼梦事件",
+    "originalTitle": "",
+    "author": "褚盟",
+    "authorEn": "Chu Meng",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "",
+    "detective": "无固定侦探（贾府众人视角）",
+    "country": "中国",
+    "tags": [
+      "alibi",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "mansion",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "故事发生在贾府由盛转衰之际。先是凤姐的哥哥被人刺死，众人却都有不在场证明，同时巧姐儿与贾蓉离奇失踪；接着来求亲的三位公子同在一幢小楼里死于非命。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 553,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35972778/",
+        "subjectId": "35972778",
+        "edition": "红楼梦事件 2023",
+        "fetchedAt": "2026-09-23T11:51:35.834Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢本格与名著改编的读者",
+        "褚盟的读者"
+      ],
+      "watchFor": [
+        "各人不在场证明的细节",
+        "那幢独立小楼的出入条件",
+        "探春消失的那间密闭房"
+      ],
+      "warning": "本格推理长篇，借《红楼梦》人物与贾府背景写连环案件，含凶案与失踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与内容简介取自豆瓣条目 subject/35972778。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②作者曾任新星出版社「午夜文库」主编、现为推理编剧与专栏主讲人；③简介自述为「推理世界中的红楼梦」，谜面由不在场证明、密室消失、多人同室死亡构成。首次出版年以豆瓣该条目版本年为准；梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-93-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider93-003",
+    "title": "遗骸拼图",
+    "originalTitle": "",
+    "author": "关山",
+    "authorEn": "Guan Shan",
+    "genre": "本格推理",
+    "firstPublished": "2024",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "faceless-corpse",
+      "legend-folklore",
+      "dual-line",
+      "red-herring",
+      "multiple-solutions",
+      "countryside"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "彭家河村留下三桩悬案：窑洞密室里两具断头尸、翻下山崖的司机、防空洞里被一刀毙命的人。当年亲历者回忆疑点，子孙又得到记载案件的日记——百年前的密室凶案再次出现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 283,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37020263/",
+        "subjectId": "37020263",
+        "edition": "遗骸拼图 2024",
+        "fetchedAt": "2026-09-23T11:51:39.116Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢横沟正史式村落怪谈的读者",
+        "本格推理读者"
+      ],
+      "watchFor": [
+        "三桩旧案各自的现场条件",
+        "那本日记的记载",
+        "村里关于四神兽的说法"
+      ],
+      "warning": "本格推理长篇，以封闭村落为舞台，含断头尸、密室与怪谈氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与内容简介取自豆瓣条目 subject/37020263。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②作者自述为本格推理小说爱好者，受约翰·狄克森·卡尔、横沟正史、三津田信三影响；③谜面为密室杀人与断头尸。首次出版年以豆瓣该条目版本年为准；梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-93-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "spider93-004",
+    "title": "莫比乌斯的圈套",
+    "originalTitle": "",
+    "author": "轩弦",
+    "authorEn": "Xuan Xian",
+    "genre": "本格推理",
+    "firstPublished": "2024",
+    "series": "",
+    "detective": "唐洛樱",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "dual-role",
+      "narrative-trick",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "唐洛樱和同学登山途中误入一座神秘古宅，两名同学先后失踪，众人也被困在宅中无法离开。她无意按下在古宅里找到的遥控器，竟回到了一天之前——而走进古宅的人里，有另一个自己。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 293,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36447333/",
+        "subjectId": "36447333",
+        "edition": "莫比乌斯的圈套 2024",
+        "fetchedAt": "2026-09-23T11:51:42.359Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与设定系诡计的读者",
+        "轩弦的读者"
+      ],
+      "watchFor": [
+        "古宅的出入条件",
+        "回到一天前之后各人的位置",
+        "另一个自己做了什么"
+      ],
+      "warning": "本格推理长篇，含密室杀人、时空回溯设定与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与内容简介取自豆瓣条目 subject/36447333。**推理属性判据**：①丛编为「蜘蛛文库·原创系列」；②出版方标注为「岛田庄司主编推理杂志推荐作家轩弦代表作」，并自述为「长篇推理小说」；③谜面为深山古宅密室杀人。首次出版年以豆瓣该条目版本年为准；梗概由整理者自行重写。"
+    },
+    "provenance": {
+      "source": "batch-93-spider.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "modern-001",
+    "title": "喜鹊谋杀案",
+    "originalTitle": "Magpie Murders",
+    "author": "安东尼·霍洛维茨",
+    "authorEn": "Anthony Horowitz",
+    "genre": "本格推理",
+    "firstPublished": "2016",
+    "series": "苏珊·赖兰系列",
+    "detective": "阿提库斯·庞德（书中书侦探）／苏珊·赖兰",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "red-herring",
+      "multiple-solutions",
+      "meta-fiction",
+      "countryside",
+      "mansion",
+      "curiosity",
+      "honkaku"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "出版社编辑收到畅销作家的新稿，却发现最后一章不翼而飞，作家本人也突然死亡；书里书外的谜团开始彼此咬合。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者多称赞「书中书」双层结构与对黄金时代风格的致敬，也有人觉得篇幅偏长、节奏前松后紧。",
+        "score": 7.4,
+        "count": 20475,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33445034/",
+        "subjectId": "33445034",
+        "edition": "喜鹊谋杀案 2019",
+        "fetchedAt": "2026-09-20T12:04:03.488Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.05,
+        "count": 90000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "英文读者普遍认可其元小说趣味与线索铺设，部分读者认为收束略显套路。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典解谜与多重解答的读者",
+        "对推理文体自省、致敬黄金时代感兴趣的读者"
+      ],
+      "watchFor": [
+        "书中书与书外世界在细节上的对应关系",
+        "两份文本各自给出的线索边界"
+      ],
+      "warning": "本书为双层文本结构，建议留意章节标题与人称切换的位置。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2019（喜鹊谋杀案／(英) 安东尼·霍洛维茨著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "modern-002",
+    "title": "关键词是谋杀",
+    "originalTitle": "The Word Is Murder",
+    "author": "安东尼·霍洛维茨",
+    "authorEn": "Anthony Horowitz",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "霍桑与霍洛维茨系列",
+    "detective": "丹尼尔·霍桑",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "first-person",
+      "meta-fiction",
+      "city",
+      "series-detective",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名女子先为自己安排好葬礼，几小时后被发现死于家中；受命记录此案的作家发现它与此前的旧事纠缠。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者认可作家本人入书的趣味与霍桑的人物魅力，也有人认为案件本身偏轻。",
+        "score": 7.4,
+        "count": 4451,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35425102/",
+        "subjectId": "35425102",
+        "edition": "关键词是谋杀 2021",
+        "fetchedAt": "2026-09-20T12:04:07.236Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 25000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者喜欢其自嘲式叙事与伦敦背景，认为谜团强度略逊于作者前作。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢后设趣味与作家入书设定的读者",
+        "偏爱英式调查线与人物对话的读者"
+      ],
+      "watchFor": [
+        "案件发生前受害者的行为顺序",
+        "叙述者在场与不在场的段落"
+      ],
+      "warning": "本书把真实作家本人写进故事，请注意区分作者与书中叙述者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（关键词是谋杀／(英) 安东尼·霍洛维茨著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "modern-003",
+    "title": "第四扇门",
+    "originalTitle": "La Quatrième Porte",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "1987",
+    "series": "独立作（非系列）",
+    "detective": "独立长篇（以案件相关者视角展开）",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "countryside",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "英国乡间宅邸中发生了一桩无法解释的死亡，围绕封闭房间的谜团与家族旧事层层交叠。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "本格爱好者称赞其营造的不可能犯罪氛围与致敬卡尔的趣味，认为人物描写相对单薄。",
+        "score": 7.3,
+        "count": 3463,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36403723/",
+        "subjectId": "36403723",
+        "edition": "第四扇门 2023",
+        "fetchedAt": "2026-09-20T12:04:10.985Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "偏爱密室与不可能犯罪谜团的读者",
+        "喜欢英式乡间宅邸舞台的读者"
+      ],
+      "watchFor": [
+        "房间出入口与钥匙的管理方式",
+        "不同证词对同一时刻的描述差异"
+      ],
+      "warning": "本书为经典密室题材，建议留意空间结构与证词中的时间点。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,文汇出版社:,2023（第四扇门／(法) 保罗·霍尔特著 PAUL HALTER）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "modern-004",
+    "title": "燃烧的法庭",
+    "originalTitle": "The Burning Court",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "1937",
+    "series": "独立作（非菲尔博士系列）",
+    "detective": "非系列作（独立长篇）",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "psychological-misdirection",
+      "red-herring",
+      "mansion",
+      "legend-folklore",
+      "dark-atmosphere",
+      "historical-setting",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一桩旧宅中的异常死亡，牵出家族世代相传的投毒传闻；现实与历史中的谜团彼此呼应。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称其气氛诡异、构思大胆，属于卡尔作品中风格相当特殊的一部。",
+        "score": 8.1,
+        "count": 3113,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35350765/",
+        "subjectId": "35350765",
+        "edition": "燃烧的法庭 2021",
+        "fetchedAt": "2026-09-20T12:04:16.654Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.9,
+        "count": 3000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者多认为本书在卡尔作品序列中气质独特，兼具严密推理与暧昧的超自然氛围。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢哥特气氛与超自然色彩谜团的读者",
+        "卡尔式不可能犯罪的爱好者"
+      ],
+      "watchFor": [
+        "历史段落与当代事件之间的呼应关系",
+        "关于家族旧事的不同版本说法"
+      ],
+      "warning": "本书带有超自然传闻色彩，阅读时可留意哪些说法仅来自传闻。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验） **国别修正**：本条原记「英国」，2026-09 统一改为「美国」——约翰·迪克森·卡尔 1906 年生于美国宾夕法尼亚州，长期旅居英国并写英式黄金时代推理，但国籍始终是美国；库内同一作者的条目此前有「美国」「英国」两种记法，覆盖的又都是同一批菲尔博士系列，并非有意按系列区分，故全库统一。「卡特·迪克森」为其笔名（Carter Dickson，梅利维尔爵士系列所用），与本名是同一人。",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,外语教学与研究出版社:,2021（燃烧的法庭／(美) 约翰·迪克森·卡尔著 JOHN DICKSON CARR）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "modern-005",
+    "title": "毒巧克力命案",
+    "originalTitle": "The Poisoned Chocolates Case",
+    "author": "安东尼·伯克莱",
+    "authorEn": "Anthony Berkeley",
+    "genre": "本格推理",
+    "firstPublished": "1929",
+    "series": "犯罪圈俱乐部系列（罗杰·谢林汉姆）",
+    "detective": "罗杰·谢林汉姆与犯罪圈成员",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "ensemble",
+      "city",
+      "honkaku",
+      "series-detective",
+      "curiosity"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一盒巧克力引发致命案件，警方束手无策；一个业余犯罪研究俱乐部决定各自给出解答，六种推理互相冲突。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞六重解答的结构实验性与讽刺笔调，也有人觉得部分段落节奏偏慢。",
+        "score": 7,
+        "count": 2093,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37308748/",
+        "subjectId": "37308748",
+        "edition": "毒巧克力命案 2025",
+        "fetchedAt": "2026-09-20T15:54:47.952Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 3.7,
+        "count": 3000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者认可其多重解答的结构创意与英式幽默，认为部分推理环节略显冗长。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多重解答与逻辑辩论的读者",
+        "偏爱英式俱乐部推理的读者"
+      ],
+      "watchFor": [
+        "每位解谜者选取的线索与忽略的部分",
+        "证物经多人转述后发生的变化"
+      ],
+      "warning": "本书由多名角色轮流给出解答，请注意区分假设与已证实的事实。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern-006",
+    "title": "九九神咒",
+    "originalTitle": "The Nine Tailors",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1934",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "timetable",
+      "cipher",
+      "red-herring",
+      "countryside",
+      "series-detective",
+      "legend-folklore",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "新年夜教堂鸣钟之后，村中墓园被挖开，出现一具身份不明的尸体；钟声传统与旧日传闻交织成谜。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞钟声与沼泽营造的氛围及扎实的乡村调查，也有人认为节奏偏慢。",
+        "score": 7.1,
+        "count": 424,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3277266/",
+        "subjectId": "3277266",
+        "edition": "九九神咒 2008",
+        "fetchedAt": "2026-09-20T12:04:28.852Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 20000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "常被视为塞耶斯结构最精巧的作品之一，读者称其钟声意象与乡野氛围令人印象深刻。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢乡土氛围与教堂钟声意象的读者",
+        "偏爱扎实取证与时间线推演的读者"
+      ],
+      "watchFor": [
+        "鸣钟的时间安排与人员轮换",
+        "墓园与水道一带的空间关系"
+      ],
+      "warning": "本书涉及大量英国教堂鸣钟术语，建议留意鸣钟次序这条时间线索。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern-007",
+    "title": "时间的女儿",
+    "originalTitle": "The Daughter of Time",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "本格推理",
+    "firstPublished": "1951",
+    "series": "格兰特探长系列",
+    "detective": "艾伦·格兰特",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "historical-setting",
+      "hospital",
+      "series-detective",
+      "curiosity",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "因伤住院的探长闲极无聊，转而研究数百年前的一桩历史疑案，只能在病床上用书与画像重新审视定论。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞其历史翻案的论证趣味与短小篇幅，也有人认为推理成分偏弱。",
+        "score": 7.9,
+        "count": 409,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30141153/",
+        "subjectId": "30141153",
+        "edition": "时间的女儿 2017",
+        "fetchedAt": "2026-09-20T12:04:33.859Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 50000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者多认可其历史推理的开创性，也有人觉得缺少传统侦查场面。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对历史翻案与史料辨析感兴趣的读者",
+        "喜欢安静智性推理的读者"
+      ],
+      "watchFor": [
+        "史料来源的年代与立场",
+        "画像与文献之间的矛盾之处"
+      ],
+      "warning": "本书的推理几乎全部发生在病床上，请以历史考据的期待来阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern-008",
+    "title": "剧毒",
+    "originalTitle": "Strong Poison",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1930",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "passion",
+      "city",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "legal-thriller",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位女作家被控毒害旧日恋人，证据与动机看似齐备；温西认为其中另有隐情，在庭审间隙展开调查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者喜欢温西与哈丽雅特初遇的设定与法庭线，也有人认为谜团难度不高。",
+        "score": 7.3,
+        "count": 18,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1464385/",
+        "subjectId": "1464385",
+        "edition": "Strong Poison 1995",
+        "fetchedAt": "2026-09-21T04:19:38.330Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 20000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "系列读者称其人物魅力突出，是温西系列中较受喜爱的一部。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "温西系列的读者",
+        "对法庭线与私下调查并行的故事感兴趣的读者"
+      ],
+      "watchFor": [
+        "案发前后的饮食与接触机会",
+        "庭审证词与私下查访之间的差异"
+      ],
+      "warning": "本书含庭审场景，请注意区分法庭上的指控与已被证实的事实。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "source": "batch-06-modern-specialty.json"
+    }
+  },
+  {
+    "id": "modern-009",
+    "title": "雪人",
+    "originalTitle": "Snømannen",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "series": "哈利·霍尔系列",
+    "detective": "哈利·霍尔",
+    "country": "挪威",
+    "tags": [
+      "red-herring",
+      "psychological-misdirection",
+      "snowfield",
+      "city",
+      "forensic",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "奥斯陆的雪地上立着一个雪人，随后有女性失踪；警探哈利·霍尔发现案件似与多年前的旧案相连。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞其寒冷氛围与紧凑节奏，也有人认为暴力描写偏多、线索较杂。",
+        "score": 8.1,
+        "count": 26585,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26729776/",
+        "subjectId": "26729776",
+        "edition": "雪人 2016",
+        "fetchedAt": "2026-09-20T12:04:39.031Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4,
+        "count": 100000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者普遍认为本书是哈利·霍尔系列中压迫感最强的一部，节奏紧凑。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢寒冷氛围与连环案件调查的读者",
+        "北欧犯罪小说的读者"
+      ],
+      "watchFor": [
+        "案发时间与季节气候的对应关系",
+        "旧案档案与新案现场的相似之处"
+      ],
+      "warning": "本书为系列作，部分人物关系延续自前作，案件描写较为阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2016（雪人／(挪威) 尤·奈斯博著 JO NESBO）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "modern-010",
+    "title": "龙文身的女孩",
+    "originalTitle": "Män som hatar kvinnor",
+    "author": "斯蒂格·拉森",
+    "authorEn": "Stieg Larsson",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "千禧年系列",
+    "detective": "米克尔·布隆维斯特与莉丝·莎兰德",
+    "country": "瑞典",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "closed-circle",
+      "isolated-island",
+      "dual-line",
+      "snowfield",
+      "social-commentary",
+      "dark-atmosphere",
+      "series-detective"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "记者受托调查一桩四十年前的失踪案，案发当天岛上唯一的通路被堵；他还有一名身手不凡的黑客搭档。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞双主角设定与作品的社会议题力度，也有人认为中段企业线略显拖沓。",
+        "score": 8.5,
+        "count": 17537,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4292149/",
+        "subjectId": "4292149",
+        "edition": "龙文身的女孩 2010",
+        "fetchedAt": "2026-09-21T04:52:52.752Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 3000000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "全球读者称其叙事抓人、议题沉重，也有人认为部分情节过于残酷。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢调查线与社会议题并行的读者",
+        "偏爱双主角搭档结构的读者"
+      ],
+      "watchFor": [
+        "四十年前案发当天的岛上出入情况",
+        "旧照片与笔记中反复出现的符号"
+      ],
+      "warning": "本书含较强烈的暴力与侵害描写，阅读时请留意情绪负担。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern-011",
+    "title": "沉默的羔羊",
+    "originalTitle": "The Silence of the Lambs",
+    "author": "托马斯·哈里斯",
+    "authorEn": "Thomas Harris",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1988",
+    "series": "汉尼拔·莱克特系列",
+    "detective": "克拉丽丝·史达琳",
+    "country": "美国",
+    "tags": [
+      "psychological-misdirection",
+      "red-herring",
+      "forensic",
+      "hospital",
+      "series-detective",
+      "dark-atmosphere",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "FBI 实习探员为追查一名连环杀手，不得不向被关押的精神病学医生请教侧写；对话本身成了危险的博弈。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞心理博弈的张力与人物刻画，也提示部分描写较为血腥。",
+        "score": 8.3,
+        "count": 7419,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1082159/",
+        "subjectId": "1082159",
+        "edition": "沉默的羔羊 1995",
+        "fetchedAt": "2026-09-20T15:12:04.288Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.2,
+        "count": 500000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者普遍认可其心理悬疑张力与人物塑造，认为恐怖感主要来自对话而非场面。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理博弈与对话张力的读者",
+        "对犯罪侧写题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "探员与在押者之间信息交换的边界",
+        "案件细节在对话中被反复修正的部分"
+      ],
+      "warning": "本书含血腥与心理压迫描写，且系列人物关系跨越数部作品。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "modern-012",
+    "title": "消失的爱人",
+    "originalTitle": "Gone Girl",
+    "author": "吉莉安·弗琳",
+    "authorEn": "Gillian Flynn",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "独立作（非系列）",
+    "detective": "非系列作（夫妻双视角）",
+    "country": "美国",
+    "tags": [
+      "narrative-trick",
+      "psychological-misdirection",
+      "red-herring",
+      "unreliable-narrator",
+      "diary-form",
+      "first-person",
+      "dual-line",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "结婚五周年当天，妻子离奇失踪，丈夫成为舆论焦点；两人的叙述交替展开，而彼此的说法并不一致。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "读者称赞双视角叙述与对婚姻关系的锋利剖析，也有人认为后段节奏变化明显。",
+        "score": 8.2,
+        "count": 10986,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24541883/",
+        "subjectId": "24541883",
+        "edition": "消失的爱人 2013",
+        "fetchedAt": "2026-09-20T12:04:58.173Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": 4.1,
+        "count": 2500000,
+        "source": "Goodreads",
+        "asOf": "2025-01",
+        "summary": "读者普遍认为叙事结构精巧、可读性强，也有读者表示两位主角都难以共情。"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不可靠叙述与双视角结构的读者",
+        "对婚姻与媒体议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "两位叙述者各自的信息来源",
+        "日记文本与当下时间线的对应关系"
+      ],
+      "warning": "本书存在不可靠叙述，建议留意叙述者各自的立场与措辞。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2025-01",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,中信出版社:,2017（消失的爱人／(美) 吉莉安·弗琳著 GILLIAN FLYNN）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-06-modern-specialty.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  }
+]

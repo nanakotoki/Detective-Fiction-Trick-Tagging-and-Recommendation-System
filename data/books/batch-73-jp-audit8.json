@@ -1,0 +1,343 @@
+[
+  {
+    "id": "jpaudit73-001",
+    "title": "蝴蝶合战",
+    "originalTitle": "",
+    "author": "冈本绮堂",
+    "authorEn": "Okamoto Kido",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "半七捕物帐系列",
+    "detective": "半七",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "historical-setting",
+      "red-herring",
+      "fear",
+      "concealment",
+      "first-person"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "bizarre-school"
+    ],
+    "safeSummary": "「半七捕物帐」短篇集。豪门帮佣一去不返、通神的比丘尼陈尸地窖、笔墨铺姐姐突然暴毙、酒铺与梳妆铺接连出事——半七逐件查明。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 345,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4246535/",
+        "subjectId": "4246535",
+        "edition": "蝴蝶合战 2010年2月",
+        "fetchedAt": "2026-09-22T15:40:56.358Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户风情与捕物帐的读者",
+        "冈本绮堂的读者"
+      ],
+      "watchFor": [
+        "每篇里被当成神异的那件事",
+        "半七查案时先问的是什么",
+        "江户市井的行规与人情"
+      ],
+      "warning": "江户捕物帐短篇集，各篇独立，含怪谈氛围与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4246535）；梗概据公开内容简介重写并经人工核对 **出版年补全（2026-09）**：本条原先未填 firstPublished。经**当当**书目核对，该版出版信息为「吉林出版集团有限责任公司　2010-02-01」（结果题名与检索词精确匹配，非模糊命中），故按年份记 2010。当当前无中图法／主题词，**此处只用于补出版信息，不作为题材判据**。 【2026-09 年份语义修正】本条原先把 **2010** 填在 `firstPublished` 里，但那是**中译本的版本年**（该值当年由当当补入，见 backlog 第十一节），不是「半七捕物帐」的原作年；作者卒于 1939，年份晚于卒年即为判据。按选项 C 的字段语义已改为 `editionYear=2010`，`firstPublished` **留空**——**不拿系列起始年 1917 去凑**，那对具体每一卷都是臆测。"
+    },
+    "provenance": {
+      "source": "batch-73-jp-audit8.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit73-002",
+    "title": "雷兽与蛇",
+    "originalTitle": "",
+    "author": "冈本绮堂",
+    "authorEn": "Okamoto Kido",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "半七捕物帐系列",
+    "detective": "半七",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "historical-setting",
+      "red-herring",
+      "fear",
+      "concealment",
+      "first-person"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "bizarre-school"
+    ],
+    "safeSummary": "「半七捕物帐」短篇集。粮铺的女儿遭雷击身亡，法事未毕，唯一的继承人也死在「雷兽」爪下；此外还有私塾少女出走与寒冬养金鱼的生意。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 224,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4626206/",
+        "subjectId": "4626206",
+        "edition": "雷兽与蛇 2010年4月",
+        "fetchedAt": "2026-09-22T15:40:59.533Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户风情与捕物帐的读者",
+        "冈本绮堂的读者"
+      ],
+      "watchFor": [
+        "传说中的雷兽与实际留下的痕迹",
+        "违逆时令的生意经",
+        "每篇里孩子与大人的说法差在哪"
+      ],
+      "warning": "江户捕物帐短篇集，各篇独立，含怪谈氛围与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4626206）；梗概据公开内容简介重写并经人工核对 **出版年补全（2026-09）**：本条原先未填 firstPublished。经**当当**书目核对，该版出版信息为「吉林出版集团有限责任公司　2010-04-01」（结果题名与检索词精确匹配，非模糊命中），故按年份记 2010。当当前无中图法／主题词，**此处只用于补出版信息，不作为题材判据**。 【2026-09 年份语义修正】本条原先把 **2010** 填在 `firstPublished` 里，但那是**中译本的版本年**（该值当年由当当补入，见 backlog 第十一节），不是「半七捕物帐」的原作年；作者卒于 1939，年份晚于卒年即为判据。按选项 C 的字段语义已改为 `editionYear=2010`，`firstPublished` **留空**——**不拿系列起始年 1917 去凑**，那对具体每一卷都是臆测。"
+    },
+    "provenance": {
+      "source": "batch-73-jp-audit8.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit73-003",
+    "title": "鹰的去向",
+    "originalTitle": "",
+    "author": "冈本绮堂",
+    "authorEn": "Okamoto Kido",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "半七捕物帐系列",
+    "detective": "半七",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "historical-setting",
+      "red-herring",
+      "fear",
+      "concealment",
+      "first-person"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "bizarre-school"
+    ],
+    "safeSummary": "「半七捕物帐」短篇集。鹰匠在妓院惊走了将军的御鹰、卖艺的万岁艺人冻毙街头、寒夜出现只为试刀的长矛刺杀——半七逐件查下去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 280,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191760/",
+        "subjectId": "4191760",
+        "edition": "鹰的去向 2010年1月",
+        "fetchedAt": "2026-09-22T15:41:04.701Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户风情与捕物帐的读者",
+        "冈本绮堂的读者"
+      ],
+      "watchFor": [
+        "那只鹰到底飞去了哪",
+        "死者身上少掉的东西",
+        "半七为救人抢出来的时间"
+      ],
+      "warning": "江户捕物帐短篇集，各篇独立，含凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4191760）；梗概据公开内容简介重写并经人工核对 **出版年补全（2026-09）**：本条原先未填 firstPublished。经**当当**书目核对，该版出版信息为「吉林出版集团有限责任公司　2010-01-01」（结果题名与检索词精确匹配，非模糊命中），故按年份记 2010。当当前无中图法／主题词，**此处只用于补出版信息，不作为题材判据**。 【2026-09 年份语义修正】本条原先把 **2010** 填在 `firstPublished` 里，但那是**中译本的版本年**（该值当年由当当补入，见 backlog 第十一节），不是「半七捕物帐」的原作年；作者卒于 1939，年份晚于卒年即为判据。按选项 C 的字段语义已改为 `editionYear=2010`，`firstPublished` **留空**——**不拿系列起始年 1917 去凑**，那对具体每一卷都是臆测。"
+    },
+    "provenance": {
+      "source": "batch-73-jp-audit8.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpaudit73-004",
+    "title": "妖银杏",
+    "originalTitle": "",
+    "author": "冈本绮堂",
+    "authorEn": "Okamoto Kido",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "series": "半七捕物帐系列",
+    "detective": "半七",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "historical-setting",
+      "red-herring",
+      "fear",
+      "concealment",
+      "first-person"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "bizarre-school"
+    ],
+    "safeSummary": "「半七捕物帐」短篇集。雨夜赶路的人带着黄金与名家卷轴经过妖银杏，醒来时怀里已空；雪融之后，街边的雪人底下露出一具摆着坐姿的尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4626155/",
+        "subjectId": "4626155",
+        "edition": "妖银杏 2010年3月",
+        "fetchedAt": "2026-09-22T15:41:07.869Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户风情与捕物帐的读者",
+        "冈本绮堂的读者"
+      ],
+      "watchFor": [
+        "树妖传说与实际的作案痕迹",
+        "雪人是谁堆的、堆在哪",
+        "被抢走的那卷卷轴"
+      ],
+      "warning": "江户捕物帐短篇集，各篇独立，含怪谈氛围与凶案描写；该卷为中文编选，无单一原作名与首版年，故两栏留空。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/4626155）；梗概据公开内容简介重写并经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「妖银杏」／冈本绮堂）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-73-jp-audit8.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  }
+]

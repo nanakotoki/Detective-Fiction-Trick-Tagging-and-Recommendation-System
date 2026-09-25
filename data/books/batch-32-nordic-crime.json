@@ -1,0 +1,499 @@
+[
+  {
+    "id": "nordic2-001",
+    "title": "蝙蝠",
+    "originalTitle": "Flaggermusmannen",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1997",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "concealment",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "一名挪威女子在悉尼离奇死亡，当地警方倾向于认定是抢劫杀人。被派去协助的霍勒却在这座完全陌生的城市里，顺着死者最后几天的行踪一路往回查。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 3253,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34809718/",
+        "subjectId": "34809718",
+        "edition": "蝙蝠 2019",
+        "fetchedAt": "2026-09-21T16:35:33.471Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想按顺序读哈利·霍勒系列的读者",
+        "喜欢异国城市背景与走访式调查的读者"
+      ],
+      "watchFor": [
+        "死者生前的社交圈里谁在回避提问",
+        "当地警方过早定性的那句结论",
+        "叙述里偶尔插入的、与主线无关的片段"
+      ],
+      "warning": "哈利·霍勒系列第一部，案件背景涉及演艺圈与药物滥用。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2019（馆藏题名「蝙蝠」／奈斯博）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "nordic2-002",
+    "title": "蟑螂",
+    "originalTitle": "Kakerlakkene",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1998",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "concealment",
+      "city",
+      "social-commentary",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "挪威驻曼谷大使被发现死在城中一间旅馆房间里，现场看上去像一桩不体面的意外。霍勒被派去把这件事安静地收尾，却发现有人正希望结论就停在这里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 306,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26765220/",
+        "subjectId": "26765220",
+        "edition": "蟑螂 2016",
+        "fetchedAt": "2026-09-21T16:36:42.837Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢反腐与机构内部调查题材的读者",
+        "能接受灰色地带人物描写的读者"
+      ],
+      "watchFor": [
+        "「尽快结案」这个要求是谁提出来的",
+        "大使最后一段时间的行程由谁安排",
+        "当地合作方不愿碰的那几条线"
+      ],
+      "warning": "哈利·霍勒系列第二部，涉及性交易与人口贩运背景，氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2019（馆藏题名「蟑螂」／奈斯博）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "nordic2-003",
+    "title": "救赎者",
+    "originalTitle": "Frelseren",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "silencing",
+      "revenge",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "救世军的一场圣诞户外聚会上，一名成员在人群中被枪杀，枪手随即消失。这场枪击看起来不像临时起意，而像是与多年前的某件旧事连着。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 3062,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27619637/",
+        "subjectId": "27619637",
+        "edition": "救赎者 2018",
+        "fetchedAt": "2026-09-21T16:35:43.046Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢职业杀手视角与警方视角交替推进的读者",
+        "关注宗教慈善组织内部运作的读者"
+      ],
+      "watchFor": [
+        "枪手在动手前后反复确认的那件事",
+        "救世军内部谁掌握着旧名单",
+        "霍勒与旧同僚之间没说出口的部分"
+      ],
+      "warning": "哈利·霍勒系列第六部，含职业杀手视角与冷峻暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2018（救赎者／(挪威) 尤·奈斯博著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "nordic2-004",
+    "title": "警察",
+    "originalTitle": "Politi",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "revenge",
+      "silencing",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "几名警员先后在自己曾经办过案的地方被杀，作案地点与当年的悬案一一对应。已经离开警队的霍勒被重新找回来，而这一次凶手似乎对他们的旧案卷宗了如指掌。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 3648,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27077201/",
+        "subjectId": "27077201",
+        "edition": "警察 2017",
+        "fetchedAt": "2026-09-21T16:35:51.379Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢连环案件与旧案串联结构的读者",
+        "读过霍勒系列前作、想接着往下看的读者"
+      ],
+      "watchFor": [
+        "几处案发地点对应的旧案编号",
+        "当年办案时被跳过或简化的一步",
+        "谁有权限调阅这些尘封卷宗"
+      ],
+      "warning": "哈利·霍勒系列第十部，与前作人物关系紧密，含针对警察的暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2017（馆藏题名「警察」／奈斯博）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "nordic2-005",
+    "title": "刀",
+    "originalTitle": "Kniv",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2019",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "revenge",
+      "concealment",
+      "city",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩多年未解的旧案，证据忽然被人重新翻了出来，而这一次所有的线索都指向霍勒自己身边的人。处于停职状态的他只能靠私人关系，把一笔笔旧账重新翻清楚。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 155,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34988975/",
+        "subjectId": "34988975",
+        "edition": "刀 2020",
+        "fetchedAt": "2026-09-21T16:36:51.932Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "跟读霍勒系列到后期的老读者",
+        "能接受主角处境极度灰暗的读者"
+      ],
+      "watchFor": [
+        "被重新翻出来的那份证据是谁交出去的",
+        "霍勒身边人最近的行程对不上的地方",
+        "旧案卷宗里被划掉又重新写上的名字"
+      ],
+      "warning": "哈利·霍勒系列第十二部，涉及主角私人生活的重大事件，建议按系列顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "alternateTitleNote": "《刀锋》（湖南文艺出版社 2022，ISBN 978-7-5726-0548-2）经 `audit-edition-year.mjs` 复核：馆藏提要出现「代号『未婚夫』的性侵犯斯韦恩·芬内」「哈利曾亲手将芬内逮捕」等情节，与本条 *Kniv* 一致，判为**同一本书的另一中文题名**（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "刀锋"
+    ]
+  },
+  {
+    "id": "nordic2-006",
+    "title": "直捣蜂窝的女孩",
+    "originalTitle": "Luftslottet som sprängdes",
+    "author": "斯蒂格·拉森",
+    "authorEn": "Stieg Larsson",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "series": "「千禧年」三部曲",
+    "detective": "米克尔·布隆维斯特、莉丝·莎兰德",
+    "country": "瑞典",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city",
+      "social-commentary",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "有人试图把一名女子重新送进封闭的精神医疗机构，而唯一能证明她清白的那份材料，藏在某个从未对外公开过的机构档案深处。要把它拿出来，必须先证明那个机构存在过。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 9,
+        "count": 7310,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5993310/",
+        "subjectId": "5993310",
+        "edition": "直捣蜂窝的女孩 2011",
+        "fetchedAt": "2026-09-21T16:36:03.280Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《龙文身的女孩》《玩火的女孩》的读者",
+        "喜欢档案解密与体制问责题材的读者"
+      ],
+      "watchFor": [
+        "几份官方文件之间互相矛盾的表述",
+        "谁有权决定一个人是否「需要被收容」",
+        "旧档案里的编号与人员名单"
+      ],
+      "warning": "「千禧年」三部曲终章，必须按顺序阅读；含性暴力与机构滥权的回顾性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-32-nordic-crime.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

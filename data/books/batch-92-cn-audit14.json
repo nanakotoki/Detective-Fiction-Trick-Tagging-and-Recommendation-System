@@ -1,0 +1,166 @@
+[
+  {
+    "id": "cnaudit92-001",
+    "title": "荒野猎人",
+    "originalTitle": "",
+    "author": "文泽尔",
+    "authorEn": "Wenzel",
+    "genre": "本格推理",
+    "firstPublished": "2010",
+    "series": "文泽尔作品",
+    "detective": "文泽尔（作者）",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "multiple-solutions",
+      "fear",
+      "dark-atmosphere",
+      "first-person",
+      "countryside"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名作者在自己的荒野木屋中接连发现四起「不可能」密室凶案，而受害者都非人——黑熊、蚺蛇、赤狐、渡鸦。四种只有这些动物才能完成的密室，四重黑暗的魔法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与怪奇氛围的读者",
+        "文泽尔的读者"
+      ],
+      "watchFor": [
+        "每间密室的出入口与在场者",
+        "当地关于那四种动物的说法",
+        "叙述者对自己身份的追问"
+      ],
+      "warning": "本格推理长篇，以荒野木屋为舞台，含密室谜面、动物与凶案描写。2020 年出新版（第 2 版），首版年为 2010。作者另有译者身份，其翻译作品不计入本库。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名、作者、出版社、ISBN、版本说明、丛编与提要文摘取自扬州市图书馆 OPAC（书目号 0000858992，新星出版社 2020 年 6 月第 2 版，ISBN 978-7-5133-3999-5，丛编「午夜文库·原创系列·文泽尔作品 01」）；梗概由整理者自行重写，未照搬原文 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「新星出版社 2020」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+    },
+    "provenance": {
+      "source": "batch-92-cn-audit14.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "cnaudit92-002",
+    "title": "虫神山事件",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2025",
+    "series": "陈爝系列",
+    "detective": "陈爝、韩晋",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "西南深山中有一个崇拜虫神的村落，两位考古学家相继遭遇不幸，其中一位死在密室中。韩晋与陈爝随研究团队进村，借拍摄纪录片之名暗中调查，团队成员又有一人死在密室里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 1030,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37235058/",
+        "subjectId": "37235058",
+        "edition": "虫神山事件 2025",
+        "fetchedAt": "2026-09-23T10:56:29.211Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗题材与本格的读者",
+        "时晨与陈爝系列的读者"
+      ],
+      "watchFor": [
+        "村中仪式的具体流程",
+        "两间密室各自的条件",
+        "后来那支科考队遇到了什么"
+      ],
+      "warning": "本格推理长篇，以深山村落为舞台，含民俗信仰、密室谜面与凶案描写，「时晨作品 07」。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书名与书目信息取自豆瓣条目 subject/37235058（新星出版社 2025 年版，ISBN 978-7-5133-5965-8，丛编「午夜文库·原创系列」，附注「时晨作品 07」）；梗概据该书公开内容简介重写，未照搬原文"
+    },
+    "provenance": {
+      "source": "batch-92-cn-audit14.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

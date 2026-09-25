@@ -1,0 +1,35 @@
+[
+  {
+    "id": "cnaudit90-001",
+    "title": "她的秘密",
+    "originalTitle": "",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "2009",
+    "series": "",
+    "detective": "陈骏（警官）",
+    "country": "中国",
+    "tags": ["cipher", "dual-line", "ensemble", "red-herring", "gain", "city", "multiple-solutions"],
+    "school": ["orthodox-school", "logic-school", "social-school"],
+    "safeSummary": "网络热帖称上海市内某处埋着价值千万的宝藏，发帖人「WC先生」留下一副围棋残局当作藏宝图。大学退学生「我」、职业男妓程震、警官陈骏三条线各自卷入，最终汇到同一件事上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
+      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
+      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+    },
+    "readingTips": {
+      "suitableFor": ["王稼骏的读者", "喜欢多线交织与解谜寻宝的读者"],
+      "watchFor": ["那副围棋残局怎么当藏宝图", "三条线各自的动机", "「WC先生」是谁"],
+      "warning": "本格推理长篇，三条主线交替推进，含凶案与黑色幽默成分。"
+    },
+    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "origin": "seed",
+    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书名、作者、出版社、ISBN 与提要文摘取自扬州市图书馆 OPAC（书目号 0000183638，新世界出版社 2009 年版，ISBN 978-7-5104-0494-8）；梗概由整理者自行重写，未照搬原文" },
+    "provenance": {
+      "source": "batch-90-cn-audit12.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

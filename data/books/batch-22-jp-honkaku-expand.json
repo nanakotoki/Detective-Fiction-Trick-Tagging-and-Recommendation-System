@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "jphk-001",
+    "title": "名侦探的献祭",
+    "originalTitle": "名探偵のいけにえ",
+    "author": "白井智之",
+    "authorEn": "Tomoyuki Shirai",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "psychological-misdirection",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一处与外界隔绝的聚落里接连出现死亡。前来调查的人必须在天亮之前理清这一夜发生的全部经过。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 18561,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36512989/",
+        "subjectId": "36512989",
+        "edition": "名侦探的献祭 2023",
+        "fetchedAt": "2026-09-21T03:48:12.782Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多重解答层层递进的读者",
+        "能接受高密度逻辑推演的读者"
+      ],
+      "watchFor": [
+        "每个解答被推翻的具体理由",
+        "聚落中各方的关系与出入",
+        "时间被反复强调的那个节点"
+      ],
+      "warning": "推演密度很高，含暴力描写，建议留出完整时间一次读完。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,九州出版社:,2023（名侦探的献祭／(日) 白井智之著 SHIRAI TOMOYUKI）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "jphk-002",
+    "title": "东京结合人间",
+    "originalTitle": "東京結合人間",
+    "author": "白井智之",
+    "authorEn": "Tomoyuki Shirai",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "在一个身体构造与常识不同的设定下，围绕几起发生在封闭场所的事件展开。规则本身既是舞台，也是推理的前提。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 3223,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26581313/",
+        "subjectId": "26581313",
+        "edition": "東京結合人間 2015",
+        "fetchedAt": "2026-09-21T03:48:16.090Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢特殊设定与本格推演结合的读者",
+        "能接受猎奇描写与冷峻笔调的读者"
+      ],
+      "watchFor": [
+        "设定中的人物构造规则",
+        "现场被判定为「不可能」的依据",
+        "叙述中被当作常识的前提"
+      ],
+      "warning": "含猎奇与残酷描写，设定特殊，口味较重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-003",
+    "title": "象首迷宫",
+    "originalTitle": "象首迷宮",
+    "author": "白井智之",
+    "authorEn": "Tomoyuki Shirai",
+    "genre": "本格推理",
+    "firstPublished": "2024",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "locked-space",
+      "red-herring",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "围绕一组彼此关联的事件展开，人物在受限的条件下反复推演。每推进一层，前面的结论都要重新检视。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 5435,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37422829/",
+        "subjectId": "37422829",
+        "edition": "象首迷宮 2025",
+        "fetchedAt": "2026-09-21T03:48:21.255Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢结构复杂、需要反复回看的读者",
+        "读过作者前作、想再挑战一次的读者"
+      ],
+      "watchFor": [
+        "各层推演所依赖的前提",
+        "同一物件在不同阶段的意义",
+        "章节之间的对应关系"
+      ],
+      "warning": "结构复杂，建议边读边记，含猎奇描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-004",
+    "title": "北方夕鹤2/3杀人事件",
+    "originalTitle": "北の夕鶴2/3の殺人",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1984",
+    "series": "吉敷竹史系列",
+    "detective": "吉敷竹史",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "timetable",
+      "train",
+      "red-herring",
+      "multiple-solutions",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名刑警为了追查旧案，沿着北方的铁路线一路走访。列车时刻与目击证词之间，始终对不上一个关键的时段。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 6432,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3753043/",
+        "subjectId": "3753043",
+        "edition": "北方夕鹤2/3杀人事件 2009",
+        "fetchedAt": "2026-09-21T03:48:27.095Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旅情推理与时刻表题材的读者",
+        "关注刑警个人处境的读者"
+      ],
+      "watchFor": [
+        "列车换乘的具体时间",
+        "各证人的目击范围",
+        "刑警本人的行程安排"
+      ],
+      "warning": "以铁路时刻为核心，含大量线路与班次细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-005",
+    "title": "异邦骑士",
+    "originalTitle": "異邦の騎士",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1988",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名男子在街头醒来，记不起自己是谁，身边只有零碎的物件。在旁人的帮助下，他一边生活一边回溯自己的来历。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 7977,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11501902/",
+        "subjectId": "11501902",
+        "edition": "异邦骑士 2012",
+        "fetchedAt": "2026-09-21T03:48:30.738Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢身份不明与记忆题材的读者",
+        "想了解御手洗系列早期作品的读者"
+      ],
+      "watchFor": [
+        "主角保留下来的物件",
+        "他对自己处境的解释",
+        "叙述中前后不一致的细节"
+      ],
+      "warning": "系列早期长篇，与作者的怪奇型诡计风格略有不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2012（异邦骑士／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "jphk-006",
+    "title": "眩晕",
+    "originalTitle": "眩暈",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1992",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一栋造型奇特的建筑里，有人在无法出入的房间内被发现死亡。建筑本身的构造成为解开现场的关键。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 2596,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35428114/",
+        "subjectId": "35428114",
+        "edition": "眩晕 2021",
+        "fetchedAt": "2026-09-21T03:48:38.300Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢建筑型诡计与怪奇氛围的读者",
+        "读过作者其他长篇、想再挑战的读者"
+      ],
+      "watchFor": [
+        "建筑的平面与楼层关系",
+        "房间的开启与封闭方式",
+        "现场遗留物的位置"
+      ],
+      "warning": "篇幅长，诡计规模大，前段铺垫较多。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-007",
+    "title": "螺丝人",
+    "originalTitle": "ネジ式ザゼツキー",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "2003",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁、石冈和己",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位来访者带来了一段难以判断真伪的记述。侦探需要先弄清这段记述本身是怎么来的，才能谈它是否可信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 3579,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6251398/",
+        "subjectId": "6251398",
+        "edition": "螺丝人 2011",
+        "fetchedAt": "2026-09-21T03:48:41.626Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「文本本身即谜题」这类结构的读者",
+        "对叙述可靠性议题有兴趣的读者"
+      ],
+      "watchFor": [
+        "记述的来源与书写时间",
+        "记述与现实的对应关系",
+        "侦探提问的角度"
+      ],
+      "warning": "含对推理文体的自我指涉，读过一定数量本格作品后体验更佳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-008",
+    "title": "龙卧亭杀人事件",
+    "originalTitle": "龍臥亭事件",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "countryside",
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座位于偏僻山村的老宅里聚集了来访者。村中流传的旧事与接连发生的状况交织在一起，出去的路也不顺畅。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1546,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5326847/",
+        "subjectId": "5326847",
+        "edition": "龙卧亭杀人事件（上） 2010",
+        "fetchedAt": "2026-09-21T03:48:47.473Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭山村舞台与民俗元素的读者",
+        "能接受长篇铺陈的读者"
+      ],
+      "watchFor": [
+        "宅邸的房间分布",
+        "村中传说的不同版本",
+        "来访者各自的来意"
+      ],
+      "warning": "篇幅很长，分上下册，含怪奇与残酷描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 译林出版社 2010（馆藏题名「龙卧亭杀人事件 下」／岛田庄司）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "龙卧亭事件·贝繁村谜团",
+      "龙卧亭事件·隐秘的角落"
+    ],
+    "editionYear": "2010"
+  },
+  {
+    "id": "jphk-009",
+    "title": "贵族侦探",
+    "originalTitle": "貴族探偵",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yukiya Maya",
+    "genre": "本格推理",
+    "firstPublished": "2010",
+    "series": "贵族侦探系列",
+    "detective": "贵族侦探",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "honkaku",
+      "series-detective",
+      "mansion"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位从不亲自推理的贵族，把调查与解谜全交给身边的随从。短篇集，每篇都在开篇就点明「侦探本人不会动手」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 2000,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24723002/",
+        "subjectId": "24723002",
+        "edition": "贵族侦探 2013",
+        "fetchedAt": "2026-09-21T03:48:53.424Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢对名侦探形象做文章的作品的读者",
+        "读过大量本格、想看点解构的读者"
+      ],
+      "watchFor": [
+        "贵族本人说了什么、又没说什么",
+        "随从们的分工",
+        "每篇结尾处结论的来源"
+      ],
+      "warning": "带有对推理程式的戏仿，读过一定数量本格作品后体验更佳。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「贵族侦探」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jphk-010",
+    "title": "神的游戏",
+    "originalTitle": "神のゲーム",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yukiya Maya",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一群人被召集到一处封闭的场所，被迫参与一场有规则的较量。规则的制定者始终没有露面。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 2848,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26936111/",
+        "subjectId": "26936111",
+        "edition": "神的遊戲 2017",
+        "fetchedAt": "2026-09-21T03:48:56.972Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭舞台与规则博弈的读者",
+        "能接受叙述本身带有欺骗性的读者"
+      ],
+      "watchFor": [
+        "规则条文的边界",
+        "参与者各自掌握的信息",
+        "叙述者在哪些地方保持了沉默"
+      ],
+      "warning": "叙述带有强烈的操作性，读完可能想立刻回头重看开头。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-011",
+    "title": "献给麦卡托与美袋的谋杀",
+    "originalTitle": "メルカトルと美袋のための殺人",
+    "author": "麻耶雄嵩",
+    "authorEn": "Yukiya Maya",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "series": "麦卡托系列",
+    "detective": "麦卡托鲇",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "psychological-misdirection",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位自称「铭侦探」的推理者与他的记录者，接连处理若干起案件。短篇集，每篇的解法都从意想不到的角度切入。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 787,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37336938/",
+        "subjectId": "37336938",
+        "edition": "献给麦卡托与美袋的谋杀 2026",
+        "fetchedAt": "2026-09-21T03:49:00.498Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢颠覆性解法的读者",
+        "读过大量本格、对套路已经熟悉的读者"
+      ],
+      "watchFor": [
+        "记录者对侦探的评价",
+        "案件描述中被省略的部分",
+        "每篇解法的立足点"
+      ],
+      "warning": "对推理套路有强烈戏仿，含让读者「上当」的设计。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2026（馆藏题名「献给麦卡托与美袋的谋杀」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "jphk-012",
+    "title": "如水魑沉没之物",
+    "originalTitle": "水魑の如き沈むもの",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "本格推理",
+    "firstPublished": "2009",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "countryside",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座与水域相邻的村落里，世代流传着关于水神的祭祀。祭期内接连出现意外，来访者被困在村中。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1813,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35355593/",
+        "subjectId": "35355593",
+        "edition": "如水魑沉没之物 2021",
+        "fetchedAt": "2026-09-21T03:49:04.323Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗传说与封闭村落舞台的读者",
+        "能接受怪谈氛围的读者"
+      ],
+      "watchFor": [
+        "祭祀仪式的流程与禁忌",
+        "村中各家对传说说法的不一致",
+        "水域周边的地形"
+      ],
+      "warning": "含民俗怪谈元素，气氛阴郁，部分描写较为骇人。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 文化发展出版社 2021（馆藏题名「如水魑沉没之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jphk-013",
+    "title": "如碆灵祭祀之物",
+    "originalTitle": "碆霊の如き祀るもの",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "本格推理",
+    "firstPublished": "2018",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "countryside",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座沿海村落信奉着名为「碆灵」的存在，并以特定仪式加以祭祀。仪式期间，村中出现了与旧闻相符的怪事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 208,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35015476/",
+        "subjectId": "35015476",
+        "edition": "如碆靈祭祀之物 2020",
+        "fetchedAt": "2026-09-21T03:49:08.378Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢沿海村落舞台与祭祀题材的读者",
+        "本系列的老读者"
+      ],
+      "watchFor": [
+        "祭祀用物的来历与保管",
+        "本家与分家的关系",
+        "海况与进出村落的时机"
+      ],
+      "warning": "含民俗怪谈元素，气氛阴郁，部分描写较为骇人。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-015",
+    "title": "少女音乐盒",
+    "originalTitle": "少女音楽匣",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "本格推理",
+    "firstPublished": "2008",
+    "series": "侦探仪式系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座收藏着各式机械装置的宅邸里发生了死亡事件。现场留下的自动人偶与齿轮结构，成了调查者必须读懂的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 1045,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34899816/",
+        "subjectId": "34899816",
+        "edition": "少女音乐盒 2020",
+        "fetchedAt": "2026-09-21T03:49:17.574Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢机械装置与物理型诡计的读者",
+        "能接受阴暗残酷基调的读者"
+      ],
+      "watchFor": [
+        "人偶与装置的运转方式",
+        "宅邸各房间的用途",
+        "现场被破坏的痕迹"
+      ],
+      "warning": "作者风格偏向残酷与怪奇，含令人不适的描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2020（馆藏题名「少女音乐盒」／北山猛邦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "jphk-016",
+    "title": "断头台城杀人事件",
+    "originalTitle": "断頭台城の殺人",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "本格推理",
+    "firstPublished": "2005",
+    "series": "侦探仪式系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一座以断头台为主题的奇异建筑中，来访者被困其中。建筑内部各处的机关与接连发生的事件相互牵扯。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 2315,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4781305/",
+        "subjectId": "4781305",
+        "edition": "“断头台城”杀人事件 2010年6月",
+        "fetchedAt": "2026-09-21T03:49:21.116Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢奇幻建筑与封闭舞台的读者",
+        "对物理型诡计有兴趣的读者"
+      ],
+      "watchFor": [
+        "建筑的内部结构",
+        "机关的触发条件",
+        "各人被困的位置"
+      ],
+      "warning": "系列首作，含残酷描写与强烈的怪奇趣味。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-017",
+    "title": "爱丽丝·镜城杀人事件",
+    "originalTitle": "アリス・ミラー城殺人事件",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "本格推理",
+    "firstPublished": "2003",
+    "series": "侦探仪式系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一座以镜面构造为特色的城中，聚集了几位受邀而来的人。倒影与实物的关系，让目击证词变得难以采信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 3143,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4246532/",
+        "subjectId": "4246532",
+        "edition": "“爱丽丝·镜城”杀人事件 2010",
+        "fetchedAt": "2026-09-21T03:49:27.000Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢视觉型诡计与镜像题材的读者",
+        "对童话题材改写有兴趣的读者"
+      ],
+      "watchFor": [
+        "镜面的位置与朝向",
+        "各人看到的是本人还是倒影",
+        "城中房间的对称关系"
+      ],
+      "warning": "以童话为底本改写，含残酷描写与强烈的怪奇趣味。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-018",
+    "title": "我们盗走星座的理由",
+    "originalTitle": "私たちが星座を盗んだ理由",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "youth",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集。几段发生在年轻人之间的故事，各自围绕一个不太起眼的谜团，收尾时却都转向了意外的方向。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 2946,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34860553/",
+        "subjectId": "34860553",
+        "edition": "我们盗走星座的理由 2019",
+        "fetchedAt": "2026-09-21T03:49:32.424Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇与青春题材的读者",
+        "想先认识这位作者的读者"
+      ],
+      "watchFor": [
+        "每篇里被当作背景的那个设定",
+        "人物之间没说出口的话",
+        "结尾处信息的重新排列"
+      ],
+      "warning": "短篇集，篇幅短小，基调偏冷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2019（馆藏题名「我们盗走星座的理由」／北山猛邦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "jphk-019",
+    "title": "千年图书馆",
+    "originalTitle": "千年図書館",
+    "author": "北山猛邦",
+    "authorEn": "Takekuni Kitayama",
+    "genre": "本格推理",
+    "firstPublished": "2015",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，其中多篇围绕书籍、文字与记录展开。被读到的内容本身，往往就是需要被解开的东西。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2058,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35116584/",
+        "subjectId": "35116584",
+        "edition": "千年图书馆 2020",
+        "fetchedAt": "2026-09-21T03:49:35.706Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以文本为谜题的读者",
+        "偏好短篇与后设趣味的读者"
+      ],
+      "watchFor": [
+        "文字的书写方式与载体",
+        "记录者与阅读者的关系",
+        "每篇结尾处的视角"
+      ],
+      "warning": "含对书籍与阅读本身的自我指涉。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 台海出版社 2020（馆藏题名「千年图书馆」／北山猛邦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "jphk-020",
+    "title": "谁彼",
+    "originalTitle": "誰彼",
+    "author": "法月纶太郎",
+    "authorEn": "Rintaro Norizuki",
+    "genre": "本格推理",
+    "firstPublished": "1992",
+    "series": "",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "unreliable-narrator",
+      "multiple-solutions",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集。几段围绕「同一个人似乎有不同的身份」展开的故事，每篇都在最后让前面读到的内容改变含义。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢叙述诡计与身份题材的读者",
+        "读过大量本格、对结构敏感的读者"
+      ],
+      "watchFor": [
+        "同一人物在不同场景的称呼",
+        "叙述者掌握信息的范围",
+        "每篇开头看似多余的交代"
+      ],
+      "warning": "叙述结构本身是谜题，请勿提前翻阅书评或简介。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-021",
+    "title": "法月纶太郎的冒险",
+    "originalTitle": "法月綸太郎の冒険",
+    "author": "法月纶太郎",
+    "authorEn": "Rintaro Norizuki",
+    "genre": "本格推理",
+    "firstPublished": "1992",
+    "series": "法月纶太郎系列",
+    "detective": "法月纶太郎",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction",
+      "locked-room",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "logic-school"
+    ],
+    "safeSummary": "以作者本人为名的侦探接连面对几桩案件。短篇集，每篇都在挑战某个本格推理的固有套路。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 173,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5255289/",
+        "subjectId": "5255289",
+        "edition": "法月綸太郎の冒険 1995",
+        "fetchedAt": "2026-09-21T03:52:27.143Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢对推理套路做文章的作品的读者",
+        "读过大量本格的老读者"
+      ],
+      "watchFor": [
+        "每篇对应的是哪一类套路",
+        "侦探与作者的界线",
+        "解法所依赖的那个前提"
+      ],
+      "warning": "豆瓣上是日文原版条目；含对推理文体的强烈自我指涉。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jphk-022",
+    "title": "如生灵双身之物",
+    "originalTitle": "生霊の如き重るもの",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "multiple-solutions",
+      "red-herring",
+      "countryside",
+      "psychological-misdirection",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，取材于各地流传的怪异说法。每个故事里都有人声称看见了不该在场的另一个「自己」，而传闻往往先于事件发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 591,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36692816/",
+        "subjectId": "36692816",
+        "edition": "如生灵双身之物 2024",
+        "fetchedAt": "2026-09-21T04:01:29.087Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗怪谈与短篇的读者",
+        "本系列的老读者"
+      ],
+      "watchFor": [
+        "传闻的流传范围与版本差异",
+        "目击者所处的环境",
+        "同一人物被看到的位置"
+      ],
+      "warning": "含民俗怪谈元素，气氛阴郁，部分描写较为骇人。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2024（馆藏题名「如生灵双身之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "jphk-023",
+    "title": "如魔偶招致之物",
+    "originalTitle": "魔偶の如き斎み闇",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "series": "刀城言耶系列",
+    "detective": "刀城言耶",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "dark-atmosphere",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，多与人偶、器物及老宅有关。被供奉或收存的旧物似乎与接连发生的怪事牵扯在一起，说法却各有不同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 478,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36547407/",
+        "subjectId": "36547407",
+        "edition": "如魔偶招致之物 2024",
+        "fetchedAt": "2026-09-21T04:01:32.434Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢器物怪谈与老宅舞台的读者",
+        "本系列的老读者"
+      ],
+      "watchFor": [
+        "人偶的来历与保管方式",
+        "各篇中重复出现的说法",
+        "旧物被移动的时间"
+      ],
+      "warning": "含民俗怪谈元素，气氛阴郁，部分描写较为骇人。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2024（馆藏题名「如魔偶招致之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-22-jp-honkaku-expand.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  }
+]

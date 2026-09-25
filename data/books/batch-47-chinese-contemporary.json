@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "cncont-001",
+    "title": "风声",
+    "originalTitle": "",
+    "author": "麦家",
+    "authorEn": "Mai Jia",
+    "genre": "间谍小说",
+    "firstPublished": "2007",
+    "series": "",
+    "detective": "无固定侦探（封闭审查中的五人）",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "dual-role",
+      "identity",
+      "red-herring",
+      "concealment",
+      "historical-setting"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一份情报被泄露，能接触到它的只有五个人。五个人被关进一栋宅子里逐一审查，而里面确实有一个是内鬼——问题是在被审出来之前，情报还在继续往外走。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 15187,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35166857/",
+        "subjectId": "35166857",
+        "edition": "风声 2020",
+        "fetchedAt": "2026-09-22T11:22:58.721Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间找出内鬼这一结构的读者",
+        "对谍战题材但不排斥推演的读者"
+      ],
+      "watchFor": [
+        "五个人各自能接触到什么",
+        "审查过程里被改动过的旧记录",
+        "谁在替谁遮掩"
+      ],
+      "warning": "谍战题材。之所以收录，是因为它的核心是**封闭空间里的有限嫌疑人推理**，与纯谍战小说不同。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-002",
+    "title": "解密",
+    "originalTitle": "",
+    "author": "麦家",
+    "authorEn": "Mai Jia",
+    "genre": "间谍小说",
+    "firstPublished": "2002",
+    "series": "",
+    "detective": "无固定侦探（以破译者生平为线索）",
+    "country": "中国",
+    "tags": [
+      "cipher",
+      "obsession",
+      "identity",
+      "historical-setting",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "logic-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一个出身奇特、性格孤僻的年轻人被选去破译一份极难的密码。他能解开别人解不开的东西，代价是他自己也在被这份工作一点点改写。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 5204,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34836248/",
+        "subjectId": "34836248",
+        "edition": "解密 2019",
+        "fetchedAt": "2026-09-22T11:23:04.313Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对密码题材感兴趣的读者",
+        "读过麦家其他作品的读者"
+      ],
+      "watchFor": [
+        "这个人解题的方式与常人有何不同",
+        "他周围的人对他的判断",
+        "他被选中时的那份评估"
+      ],
+      "warning": "谍战与密码题材，含人物精神状态的描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-003",
+    "title": "暗算",
+    "originalTitle": "",
+    "author": "麦家",
+    "authorEn": "Mai Jia",
+    "genre": "间谍小说",
+    "firstPublished": "2003",
+    "series": "",
+    "detective": "无固定侦探（三部独立中篇）",
+    "country": "中国",
+    "tags": [
+      "cipher",
+      "ensemble",
+      "historical-setting",
+      "identity",
+      "concealment",
+      "dark-atmosphere",
+      "dual-role"
+    ],
+    "school": [
+      "logic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "由三个相对独立的部分组成，分别写监听、破译与潜伏。三部分的人互不相识，做的是同一件事的不同环节，而每个环节上的人都被要求不留下自己的痕迹。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 8911,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1858594/",
+        "subjectId": "1858594",
+        "edition": "暗算 2006",
+        "fetchedAt": "2026-09-22T11:23:08.102Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对密码与情报题材感兴趣的读者",
+        "麦家的读者"
+      ],
+      "watchFor": [
+        "三个部分各自的技术条件",
+        "人物被要求放弃的东西",
+        "三部分之间隐约的呼应"
+      ],
+      "warning": "谍战题材，由三个中篇组成，基调克制。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-004",
+    "title": "血之罪",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "洪钧系列",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "concealment",
+      "forensic"
+    ],
+    "school": [
+      "legal-thriller",
+      "logic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名法学教授接手一桩已经走完程序的旧案。他要证明的不是「另有其人」，而是当年那套证据链在逻辑上从一开始就不成立。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 156,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4712535/",
+        "subjectId": "4712535",
+        "edition": "血之罪 2010",
+        "fetchedAt": "2026-09-22T11:23:14.332Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对证据规则与法庭题材感兴趣的读者",
+        "喜欢旧案复核的读者"
+      ],
+      "watchFor": [
+        "原审证据链的每一环",
+        "链条中唯一靠推断支撑的一环",
+        "谁在推动维持原判"
+      ],
+      "warning": "法庭 / 证据题材，作者本人是法学教授，含较专业的证据规则讨论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "血之罪·精华本"
+    ]
+  },
+  {
+    "id": "cncont-005",
+    "title": "X之罪",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "series": "洪钧系列",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "logic-school"
+    ],
+    "safeSummary": "案件的关键落在一个用字母代称的人身上，而这个代称在不同人嘴里指的是不同的人。要理清这桩案子，先得把这份称呼上的混乱理清。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 25,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19978724/",
+        "subjectId": "19978724",
+        "edition": "X之罪 2012",
+        "fetchedAt": "2026-09-22T11:23:18.856Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "洪钧系列的读者",
+        "喜欢从称谓与记录入手的推理的读者"
+      ],
+      "watchFor": [
+        "同一个代称出现过的所有场合",
+        "笔录与口供的措辞差异",
+        "谁最先使用这个代称"
+      ],
+      "warning": "法庭 / 证据题材，含法律程序描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-006",
+    "title": "性之罪",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "洪钧系列",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city",
+      "series-detective",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school"
+    ],
+    "safeSummary": "一桩牵涉私人关系的案件被推到法庭上，而各方争的其实不是事实，是对同一段关系的定性。法学教授要处理的正是这个难点：定性一变，罪名就完全不同。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 132,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6109401/",
+        "subjectId": "6109401",
+        "edition": "性之罪 2011",
+        "fetchedAt": "2026-09-22T11:23:23.659Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对法律定性议题感兴趣的读者",
+        "洪钧系列的读者"
+      ],
+      "watchFor": [
+        "各方对同一段关系的表述",
+        "证据能支持到哪一步",
+        "谁在推动某种定性"
+      ],
+      "warning": "涉及性犯罪与法律定性议题，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "性之罪·精华本"
+    ]
+  },
+  {
+    "id": "cncont-007",
+    "title": "无罪贪官",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "series": "洪钧系列",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city",
+      "series-detective",
+      "gain",
+      "red-herring"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名官员被指控受贿，证据看上去齐备，而他本人坚持自己无罪。案件的难点在于：如果这些钱确实经过了他的手，那要否定指控就必须解释清楚它为什么经过。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 11,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/22182380/",
+        "subjectId": "22182380",
+        "edition": "无罪贪官 2013",
+        "fetchedAt": "2026-09-22T11:23:27.994Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对职务犯罪与证据规则感兴趣的读者",
+        "洪钧系列的读者"
+      ],
+      "watchFor": [
+        "每一笔款项的流转路径",
+        "中间经手人",
+        "证人证言之间的时间差"
+      ],
+      "warning": "法庭与职务犯罪题材，含法律程序与体制描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-008",
+    "title": "异域深眠",
+    "originalTitle": "",
+    "author": "何慕",
+    "authorEn": "He Mu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几起发生在异地的事件被串到一起，共同点是当事人对自己那段时间的经历都说不清楚。调查者要在这些说不清楚的空白里找出规律。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 104,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6873987/",
+        "subjectId": "6873987",
+        "edition": "异域深眠 2011",
+        "fetchedAt": "2026-09-22T11:23:32.677Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理悬疑的读者",
+        "对多线交汇结构感兴趣的读者"
+      ],
+      "watchFor": [
+        "各人记忆的空洞出现在哪个时间段",
+        "他们当时所处的地点",
+        "谁对这些空白格外有兴趣"
+      ],
+      "warning": "心理犯罪悬疑，含阴暗氛围与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-009",
+    "title": "西游八十一案",
+    "originalTitle": "",
+    "author": "陈渐",
+    "authorEn": "Chen Jian",
+    "genre": "历史推理",
+    "firstPublished": "2018",
+    "series": "西游八十一案系列",
+    "detective": "玄奘",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "red-herring",
+      "multiple-solutions",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "取经路上遇到的每一处「妖魔」，到最后都落到具体的人与事上。玄奘既是行路的人，也是解开这些事的人，而他所依凭的只有观察与推理。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 4030,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27609563/",
+        "subjectId": "27609563",
+        "edition": "西游八十一案 2018",
+        "fetchedAt": "2026-09-22T11:23:39.464Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢把传说还原成案件的读者",
+        "对唐代背景感兴趣的读者"
+      ],
+      "watchFor": [
+        "「妖魔」传闻的最初来源",
+        "当地人一致的忌讳",
+        "玄奘问话里抓的那个点"
+      ],
+      "warning": "历史背景长篇，借《西游记》框架写本格解谜，含唐代风物描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-010",
+    "title": "大唐泥犁狱",
+    "originalTitle": "",
+    "author": "陈渐",
+    "authorEn": "Chen Jian",
+    "genre": "历史推理",
+    "firstPublished": "2012",
+    "series": "西游八十一案系列",
+    "detective": "玄奘",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "locked-room",
+      "legend-folklore",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一处据说通向地狱的所在，进去过的人没有一个能说清里面是什么样子。玄奘被请去查看，而他先要弄清的是：这些人究竟是不能说，还是不愿说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 968,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10344038/",
+        "subjectId": "10344038",
+        "edition": "大唐泥犁狱 2012",
+        "fetchedAt": "2026-09-22T11:23:45.644Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西游八十一案系列的读者",
+        "喜欢机关与传说结合的读者"
+      ],
+      "watchFor": [
+        "「地狱」这个说法的用途",
+        "进出过那里的人",
+        "描述之间的共同措辞"
+      ],
+      "warning": "历史背景长篇，含宗教与刑罚描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-011",
+    "title": "西域列王纪",
+    "originalTitle": "",
+    "author": "陈渐",
+    "authorEn": "Chen Jian",
+    "genre": "历史推理",
+    "firstPublished": "2014",
+    "series": "西游八十一案系列",
+    "detective": "玄奘",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "adventure",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "西域诸国之间的一桩纠葛被推到玄奘面前，各方给出的说法都能自圆其说。要判断谁在说谎，得先弄清这片地方的人是怎么看待「作证」这件事的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 338,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25790920/",
+        "subjectId": "25790920",
+        "edition": "西域列王纪 2014",
+        "fetchedAt": "2026-09-22T11:23:49.444Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西游八十一案系列的读者",
+        "对西域历史感兴趣的读者"
+      ],
+      "watchFor": [
+        "各方说法各自成立的条件",
+        "当地的风俗与律法",
+        "谁的话里有第三方的转述"
+      ],
+      "warning": "历史背景长篇，含西域风物与政治描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "cncont-012",
+    "title": "西游八十一案：大唐敦煌变",
+    "originalTitle": "",
+    "author": "陈渐",
+    "authorEn": "Chen Jian",
+    "genre": "历史推理",
+    "firstPublished": "2020",
+    "series": "西游八十一案系列",
+    "detective": "玄奘",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "cipher",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "敦煌的一处洞窟里留下了几份文字，彼此之间对同一件事的记载不一致。玄奘要从这些文字的写法与改动痕迹入手，还原出它们被写下的先后顺序。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 1642,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34995157/",
+        "subjectId": "34995157",
+        "edition": "西游八十一案：大唐敦煌变 2020",
+        "fetchedAt": "2026-09-22T11:23:52.634Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西游八十一案系列的读者",
+        "喜欢文献考据式推理的读者"
+      ],
+      "watchFor": [
+        "几份文字的措辞差异",
+        "涂改与补写的痕迹",
+        "哪一份是被要求写下的"
+      ],
+      "warning": "历史背景长篇，含敦煌文献与宗教内容。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-47-chinese-contemporary.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

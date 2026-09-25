@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "wfill61-001",
+    "title": "失落的秘符",
+    "originalTitle": "The Lost Symbol",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2009",
+    "series": "罗伯特·兰登系列",
+    "detective": "罗伯特·兰登",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "historical-setting",
+      "series-detective",
+      "adventure",
+      "concealment",
+      "timetable",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "一位导师在讲学前被人带走，现场留下一只被刻意处理过的手。符号学教授兰登被卷进来，要在限定时间内读懂一串只有内部人才认得的标记。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 32545,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4171951/",
+        "subjectId": "4171951",
+        "edition": "失落的秘符 2010",
+        "fetchedAt": "2026-09-22T13:07:09.867Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢符号与建筑谜题的读者",
+        "丹·布朗的读者"
+      ],
+      "watchFor": [
+        "那只手的处理方式",
+        "城市地标与标记的对应",
+        "谁在替谁传递消息"
+      ],
+      "warning": "冒险悬疑长篇，含暴力与秘密结社题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2010（失落的秘符／(美) 丹·布朗著 DAN BROWN）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "wfill61-002",
+    "title": "地狱",
+    "originalTitle": "Inferno",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2013",
+    "series": "罗伯特·兰登系列",
+    "detective": "罗伯特·兰登",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "historical-setting",
+      "series-detective",
+      "adventure",
+      "timetable",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school"
+    ],
+    "safeSummary": "兰登在一座意大利城市的医院里醒来，不记得自己为什么会在这里，身上只有一件与某部古典文学作品有关的东西。而有人正在按那部作品的结构安排一件事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 12051,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25756947/",
+        "subjectId": "25756947",
+        "edition": "地狱 2013",
+        "fetchedAt": "2026-09-22T13:07:13.679Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹·布朗的读者",
+        "对古典文学与城市地标感兴趣的读者"
+      ],
+      "watchFor": [
+        "那部作品的结构",
+        "几处地标的先后顺序",
+        "谁在引导他往哪走"
+      ],
+      "warning": "冒险悬疑长篇，含生物议题与暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-003",
+    "title": "本源",
+    "originalTitle": "Origin",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2017",
+    "series": "罗伯特·兰登系列",
+    "detective": "罗伯特·兰登",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "historical-setting",
+      "series-detective",
+      "adventure",
+      "concealment",
+      "dual-role",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "一位预言家式的科技人物宣布要公布一个足以推翻两种长期答案的发现，而发布会还没开始他就出事了。兰登要在那个发现被别人抢先解释之前找到它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 6505,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30142312/",
+        "subjectId": "30142312",
+        "edition": "本源 2018",
+        "fetchedAt": "2026-09-22T13:07:19.556Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹·布朗的读者",
+        "对科技与宗教议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "那位人物生前的安排",
+        "发布会现场的动线",
+        "谁最不希望那个发现被说出来"
+      ],
+      "warning": "冒险悬疑长篇，含科技伦理、宗教议题与暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2018（本源／(美) 丹·布朗著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "wfill61-004",
+    "title": "骗局",
+    "originalTitle": "Deception Point",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "cipher",
+      "adventure",
+      "dual-role",
+      "timetable",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "一枚在极地冰层下被发现的东西，足以决定一个机构的存亡，也足以决定一场选举的结果。被派去核实的几位专家很快发现，鉴定这件事本身就被人安排过。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 12267,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1485225/",
+        "subjectId": "1485225",
+        "edition": "骗局 2006",
+        "fetchedAt": "2026-09-22T13:07:23.304Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢科技阴谋题材的读者",
+        "丹·布朗的读者"
+      ],
+      "watchFor": [
+        "鉴定流程的每一步",
+        "谁安排了这几位专家",
+        "样本的采集与保存记录"
+      ],
+      "warning": "科技惊悚长篇，含暴力与政治阴谋描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-005",
+    "title": "父之罪",
+    "originalTitle": "The Sins of the Fathers",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "1976",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "city",
+      "dark-atmosphere",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一位父亲请斯卡德查清女儿死前那段时间发生了什么。女孩的死已经结案，凶手也认了，而这位父亲想知道的是另一件事：她为什么会走到那一步。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 2668,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1921617/",
+        "subjectId": "1921617",
+        "edition": "父之罪 2006",
+        "fetchedAt": "2026-09-22T13:07:29.049Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "喜欢硬汉派第一人称的读者"
+      ],
+      "watchFor": [
+        "女孩生前的活动轨迹",
+        "父亲不愿相信的那部分",
+        "斯卡德自己与家庭的关系"
+      ],
+      "warning": "硬汉派，含性、暴力与酗酒描写，基调阴郁。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2006（父之罪／劳伦斯·布洛克著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2006"
+  },
+  {
+    "id": "wfill61-006",
+    "title": "在死亡之中",
+    "originalTitle": "In the Midst of Death",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "1976",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "city",
+      "dark-atmosphere",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名警察被指控杀了人，而他坚称自己是被人设计的。斯卡德接下这桩委托时并不相信他，但查下去以后，问题变成了：如果他是清白的，那被保护的是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1531,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1944926/",
+        "subjectId": "1944926",
+        "edition": "在死亡之中 2006",
+        "fetchedAt": "2026-09-22T13:07:36.904Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "喜欢警界内部题材的读者"
+      ],
+      "watchFor": [
+        "指控所依赖的证据",
+        "谁在推动这桩案子",
+        "被告自己回避的部分"
+      ],
+      "warning": "硬汉派，含性、腐败与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-007",
+    "title": "谋杀与创造之时",
+    "originalTitle": "Time to Murder and Create",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "1977",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "city",
+      "dark-atmosphere",
+      "revenge",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个靠掌握别人把柄过活的人找到斯卡德，说自己可能活不长，把一个信封交给他保管。几天后他死了，而信封里有三个人的名字。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1420,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1958881/",
+        "subjectId": "1958881",
+        "edition": "谋杀与创造之时 2006",
+        "fetchedAt": "2026-09-22T13:07:42.905Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "喜欢三个嫌疑人结构的读者"
+      ],
+      "watchFor": [
+        "信封里那三个名字",
+        "死者与他们的关系",
+        "谁在死者生前最后见过他"
+      ],
+      "warning": "硬汉派，含性、暴力与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2007（谋杀与创造之时／劳伦斯·布洛克著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2007"
+  },
+  {
+    "id": "wfill61-008",
+    "title": "高窗",
+    "originalTitle": "The High Window",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1942",
+    "series": "菲利普·马洛系列",
+    "detective": "菲利普·马洛",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "city",
+      "concealment",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一位老夫人请马洛找回一枚不见了的旧金币，事情小得不像需要侦探。而马洛一开口打听，就有人开始死。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 2163,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3017251/",
+        "subjectId": "3017251",
+        "edition": "高窗 2008",
+        "fetchedAt": "2026-09-22T13:07:46.587Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "菲利普·马洛系列的读者",
+        "喜欢冷硬文风的读者"
+      ],
+      "watchFor": [
+        "那枚金币的来历",
+        "家里各人的处境",
+        "谁在案发前后换过说法"
+      ],
+      "warning": "硬汉派经典，含暴力、腐败与性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-009",
+    "title": "湖底女人",
+    "originalTitle": "The Lady in the Lake",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1943",
+    "series": "菲利普·马洛系列",
+    "detective": "菲利普·马洛",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "countryside",
+      "concealment",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩找人的委托把马洛从城里带到了山间的湖边。委托人要找一个多月没回家的妻子，而湖里捞上来的那张脸已经认不出是谁。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1969,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3013107/",
+        "subjectId": "3013107",
+        "edition": "湖底女人 2008",
+        "fetchedAt": "2026-09-22T13:07:52.325Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "菲利普·马洛系列的读者",
+        "喜欢湖与山间场景的读者"
+      ],
+      "watchFor": [
+        "妻子失踪前的时间线",
+        "湖边住户的说法",
+        "尸体的身份确认方式"
+      ],
+      "warning": "硬汉派经典，含暴力、性描写与阴暗氛围。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-010",
+    "title": "小妹妹",
+    "originalTitle": "The Little Sister",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "1949",
+    "series": "菲利普·马洛系列",
+    "detective": "菲利普·马洛",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "first-person",
+      "series-detective",
+      "city",
+      "concealment",
+      "dark-atmosphere",
+      "red-herring"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一个从乡下来的姑娘请马洛找她多年没有音信的哥哥。线索指向的地方和影视圈有关，而马洛很快发现，找他的人和被找的人都不肯把事情说全。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1387,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3032742/",
+        "subjectId": "3032742",
+        "edition": "小妹妹 2008",
+        "fetchedAt": "2026-09-22T13:07:57.872Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "菲利普·马洛系列的读者",
+        "对好莱坞背景感兴趣的读者"
+      ],
+      "watchFor": [
+        "哥哥最后出现的地点",
+        "妹妹隐瞒的部分",
+        "谁在阻止这件事被查下去"
+      ],
+      "warning": "硬汉派经典，含暴力、性描写与行业阴暗面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：桂林:,漓江出版社:,2023.10（小妹妹／(美) 雷蒙德·钱德勒著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "wfill61-011",
+    "title": "一先令蜡烛",
+    "originalTitle": "A Shilling for Candles",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "本格推理",
+    "firstPublished": "1936",
+    "series": "格兰特探长系列",
+    "detective": "艾伦·格兰特",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "cipher",
+      "red-herring",
+      "countryside",
+      "honkaku",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名探长因为身体原因被送去休养，途中在车厢里遇到一桩死亡。他手上唯一的线索是死者留下的一句读不通的话，而所有人都劝他别管。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 763,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1215446/",
+        "subjectId": "1215446",
+        "edition": "一先令蜡烛 2003",
+        "fetchedAt": "2026-09-22T13:08:03.511Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "格兰特探长系列的读者",
+        "铁伊的读者"
+      ],
+      "watchFor": [
+        "那句读不通的话",
+        "死者生前的行程",
+        "探长自己的身体状况如何影响判断"
+      ],
+      "warning": "古典推理长篇，基调沉静，含死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 【2026-09 修正】本条原先的原题名写作 *The Singing Sands*（1952）并把《歌唱的沙》登记为异名——**那是把铁伊的两部不同作品并成了一部**。据对外经贸大学图书馆 OPAC 著录的「现代推理馆·约瑟芬·铁伊」书系部次（博莱特·法拉1／法兰柴思事件2／**歌唱的沙3**／排队的人4／萍小姐的主意5／时间的女儿6／**一先令蜡烛7**／一张俊美的脸8），两书**各自是独立卷次**：一先令蜡烛 = *A Shilling for Candles*（1936），歌唱的沙 = *The Singing Sands*（1952）。已改正原题名与首版年，并**撤销错误的异名绑定**；《歌唱的沙》另立条目。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-012",
+    "title": "法兰柴思事件",
+    "originalTitle": "The Franchise Affair",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "社会派",
+    "firstPublished": "1948",
+    "series": "",
+    "detective": "无固定侦探（律师视角）",
+    "country": "英国",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "red-herring",
+      "countryside",
+      "identity",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名少女声称被一对母女关在乡下的房子里，消息传开后，这户人家在镇上成了众矢之的。受托为她们辩护的律师发现，麻烦的不是有没有证据，而是所有人都已经有结论了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 1369,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1127653/",
+        "subjectId": "1127653",
+        "edition": "法兰柴思事件 2003",
+        "fetchedAt": "2026-09-22T13:08:09.470Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭与舆论题材的读者",
+        "铁伊的读者"
+      ],
+      "watchFor": [
+        "少女说法里的细节",
+        "镇上人的态度变化",
+        "谁最先把消息传出去"
+      ],
+      "warning": "社会派长篇，涉及舆论审判与少女受害指控，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "弗朗才斯绑架案"
+    ]
+  },
+  {
+    "id": "wfill61-013",
+    "title": "排队的人",
+    "originalTitle": "The Man in the Queue",
+    "author": "约瑟芬·铁伊",
+    "authorEn": "Josephine Tey",
+    "genre": "本格推理",
+    "firstPublished": "1929",
+    "series": "格兰特探长系列",
+    "detective": "艾伦·格兰特",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "honkaku",
+      "identity"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "剧院门口排队买票的人群里，一个人站着死去，而前后左右的人都说没注意到异常。凶手几乎肯定还在队伍里，问题是队伍已经散了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 764,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1215447/",
+        "subjectId": "1215447",
+        "edition": "排队的人 2003",
+        "fetchedAt": "2026-09-22T13:08:14.898Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "格兰特探长系列的读者",
+        "喜欢人群与身份题材的读者"
+      ],
+      "watchFor": [
+        "排队者的位置",
+        "死者被确认身份的过程",
+        "谁在散场后主动联系了警方"
+      ],
+      "warning": "古典推理长篇，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-014",
+    "title": "证人风云",
+    "originalTitle": "Clouds of Witness",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "1926",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "identity"
+    ],
+    "school": [
+      "legal-thriller",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名贵族死在自家庄园的菜园里，而温西的哥哥成了嫌疑人。这一次他不能站在外面看，因为要证明清白的人就是他自己的家人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 20,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3429589/",
+        "subjectId": "3429589",
+        "edition": "证人风云 2009年1月",
+        "fetchedAt": "2026-09-22T13:08:20.218Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·温西爵爷系列的读者",
+        "喜欢法庭辩论的读者"
+      ],
+      "watchFor": [
+        "案发当晚各人的行踪",
+        "庭审上证人的先后顺序",
+        "家族成员之间的沉默"
+      ],
+      "warning": "古典推理长篇，含庭审场面与凶案描写；豆瓣条目评价人数很少，样本不足。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "wfill61-015",
+    "title": "红胡子的诅咒",
+    "originalTitle": "La Malédiction de Barbe-Rousse",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "1996",
+    "series": "",
+    "detective": "欧文·伯恩斯",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "legend-folklore",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一桩与海盗传说有关的旧案被重新提起：当年有人在密室中死去，而现场的一切都指向一个早已死去的名字。侦探要判断的是，这个传说被人用在了哪一步。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 645,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/7065578/",
+        "subjectId": "7065578",
+        "edition": "红胡子的诅咒 2012",
+        "fetchedAt": "2026-09-22T13:08:24.875Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "保罗·霍尔特的读者"
+      ],
+      "watchFor": [
+        "传说的每一处细节",
+        "密室成立的条件",
+        "谁在散布这个传说"
+      ],
+      "warning": "本格长篇，含密室谜面与怪奇色彩。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「红胡子的诅咒」／霍尔特）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2012"
+  },
+  {
+    "id": "wfill61-016",
+    "title": "隐形圈",
+    "originalTitle": "Le Cercle invisible",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "欧文·伯恩斯",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "雪地上留下了一圈脚印，而圈子中间的人已经死去。脚印是他自己走出来的，可这样一来就有一个说不通的地方：动手的人是什么时候进去的、又是什么时候出来的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 385,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6126825/",
+        "subjectId": "6126825",
+        "edition": "隐形圈 2011",
+        "fetchedAt": "2026-09-22T13:08:28.154Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室与不可能犯罪爱好者",
+        "保罗·霍尔特的读者"
+      ],
+      "watchFor": [
+        "雪地上的脚印形状",
+        "死者倒下时的朝向",
+        "在场者各自看到的时间"
+      ],
+      "warning": "本格长篇，核心是不可能犯罪谜面；豆瓣条目评价人数较少。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「隐形圈」／霍尔特）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "wfill61-017",
+    "title": "猫头鹰谋杀案",
+    "originalTitle": "Moonflower Murders",
+    "author": "安东尼·霍洛维茨",
+    "authorEn": "Anthony Horowitz",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "苏珊·赖兰系列",
+    "detective": "苏珊·赖兰",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "meta-fiction",
+      "red-herring",
+      "honkaku",
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位编辑接到旧识的求助：她女儿在读了一本推理小说之后，认定多年前那桩发生在自家旅馆的案子判错了人，随后就失踪了。编辑要做的第一件事，是把那本小说读完。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 5256,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35541390/",
+        "subjectId": "35541390",
+        "edition": "猫头鹰谋杀案 2021",
+        "fetchedAt": "2026-09-22T13:08:31.352Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《喜鹊谋杀案》的读者",
+        "喜欢书中书结构的读者"
+      ],
+      "watchFor": [
+        "书里书外两桩案子的对应",
+        "编辑读到的关键段落",
+        "谁把这本书推荐给了她"
+      ],
+      "warning": "后设本格长篇，含书中书结构，篇幅较长。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（猫头鹰谋杀案／(英) 安东尼·霍洛维茨著 ANTHONY HOROWITZ）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "wfill61-018",
+    "title": "一行杀人的台词",
+    "originalTitle": "A Line to Kill",
+    "author": "安东尼·霍洛维茨",
+    "authorEn": "Anthony Horowitz",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "霍桑探案系列",
+    "detective": "霍桑、安东尼·霍洛维茨",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "isolated-island",
+      "multiple-solutions",
+      "meta-fiction",
+      "red-herring",
+      "series-detective",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "作家跟着他笔下的侦探去一座小岛参加文学节，岛上正为一件事争得不可开交。活动期间有人身亡，而岛上的渡轮一天只有几班。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1470,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36360785/",
+        "subjectId": "36360785",
+        "edition": "一行杀人的台词 2023",
+        "fetchedAt": "2026-09-22T13:08:34.831Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "霍桑探案系列的读者",
+        "喜欢作家与侦探搭档的读者"
+      ],
+      "watchFor": [
+        "岛上争议的双方",
+        "渡轮班次与案发时间",
+        "叙述者（作家本人）被排除在外的部分"
+      ],
+      "warning": "后设本格长篇，叙述者即作者本人，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2023.05（一行杀人的台词／(英) 安东尼·霍洛维茨著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "wfill61-019",
+    "title": "睡偶",
+    "originalTitle": "The Sleeping Doll",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "series": "凯瑟琳·丹斯系列",
+    "detective": "凯瑟琳·丹斯",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "concealment",
+      "city",
+      "red-herring",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "一名以操纵人心著称的囚犯在押解途中脱逃，而审讯专家要在他重新犯案之前判断他会去哪里。麻烦在于，这个人说的每一句话都可能是为了让追捕者走错方向。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 164,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25700740/",
+        "subjectId": "25700740",
+        "edition": "睡偶 2013",
+        "fetchedAt": "2026-09-22T13:08:38.307Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢审讯与心理博弈的读者",
+        "迪弗的读者"
+      ],
+      "watchFor": [
+        "他供述里的时间与地点",
+        "他提到过的人",
+        "谁在配合他"
+      ],
+      "warning": "刑侦惊悚长篇，含暴力与心理操控描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 译林出版社 2013（馆藏题名「睡偶」／迪弗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "wfill61-020",
+    "title": "血月",
+    "originalTitle": "Blodmåne",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "concealment",
+      "obsession",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "霍勒处于人生最低谷，躲到北方去避开所有人。而那里正好发生了一桩与旧案有关的失踪，来找他的人知道他没有理由拒绝。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 586,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37275116/",
+        "subjectId": "37275116",
+        "edition": "血月 2025",
+        "fetchedAt": "2026-09-22T13:08:45.376Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈利·霍勒系列的读者",
+        "读过系列后期的读者"
+      ],
+      "watchFor": [
+        "旧案的当事人近况",
+        "失踪者最后出现的地点",
+        "谁在利用霍勒的处境"
+      ],
+      "warning": "哈利·霍勒系列第十三部，含暴力与阴暗题材，建议按系列顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南文艺出版社 2025（馆藏题名「血月」／奈斯博）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "wfill61-021",
+    "title": "焦渴",
+    "originalTitle": "Tørst",
+    "author": "尤·奈斯博",
+    "authorEn": "Jo Nesbø",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
+    "country": "挪威",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "obsession",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "几起命案现场都留下了同一种痕迹，而这一次动手的人似乎不是初犯。霍勒回到警队时，面对的是一个比以往更了解他的对手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 2631,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33378002/",
+        "subjectId": "33378002",
+        "edition": "焦渴 2019",
+        "fetchedAt": "2026-09-22T13:08:49.045Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈利·霍勒系列的读者",
+        "喜欢连环案件题材的读者"
+      ],
+      "watchFor": [
+        "几处现场的相同痕迹",
+        "凶手的行动节奏",
+        "谁掌握着霍勒的旧资料"
+      ],
+      "warning": "哈利·霍勒系列第十一部，含暴力与阴暗题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2019（焦渴／(挪威) 尤·奈斯博著 JO NESBO）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-61-western-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  }
+]

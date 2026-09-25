@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "gap50-001",
+    "title": "日本侦探小说选Ⅲ：甲贺三郎作品集1",
+    "originalTitle": "",
+    "author": "甲贺三郎",
+    "authorEn": "Koga Saburo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "日本侦探小说选",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "historical-setting",
+      "red-herring",
+      "honkaku",
+      "ensemble"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "战前日本推理的短篇选集。作者的写法是先把一件不可思议的事摆出来，再让人物用当时能掌握的知识去解释它——而解释的过程本身往往比结论更值得看。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对日本战前推理感兴趣的读者",
+        "喜欢短篇解谜的读者"
+      ],
+      "watchFor": [
+        "被当作「常识」交代的前提",
+        "当时技术条件的边界",
+        "叙述者与事件之间的距离"
+      ],
+      "warning": "战前作品选集，文风与用语带时代痕迹，部分篇目带怪奇色彩。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-002",
+    "title": "杭州搁浅",
+    "originalTitle": "",
+    "author": "拟南芥",
+    "authorEn": "Ni Nanjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring",
+      "nonlinear",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "meta-school"
+    ],
+    "safeSummary": "一座城市里几组互不相识的人同时遇到麻烦，而这些麻烦的解法彼此牵制：一个人做出的选择，会决定另一个人还有没有退路。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 368,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523009/",
+        "subjectId": "35523009",
+        "edition": "杭州搁浅 2021",
+        "fetchedAt": "2026-09-22T11:36:40.052Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多线绞合结构的读者",
+        "能接受非常规叙事的读者"
+      ],
+      "watchFor": [
+        "各组人之间的时间关系",
+        "被重复描写的同一个场景",
+        "谁的选择改变了别人的处境"
+      ],
+      "warning": "华语原创，结构偏实验，含阴暗题材与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-003",
+    "title": "少女的坟墓",
+    "originalTitle": "A Maiden's Grave",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1995",
+    "series": "",
+    "detective": "无固定侦探（谈判专家视角）",
+    "country": "美国",
+    "tags": [
+      "timetable",
+      "concealment",
+      "red-herring",
+      "psychological-misdirection",
+      "countryside",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "三名逃犯闯入一所特殊学校，带走了一群听不见声音的女孩。谈判专家面对的是一道时间题：外面的期限在逼近，而里面的人根本听不到任何喊话。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 594,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3610136/",
+        "subjectId": "3610136",
+        "edition": "少女的坟墓 2009",
+        "fetchedAt": "2026-09-22T11:36:44.040Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢限时危机叙事的读者",
+        "迪弗的读者"
+      ],
+      "watchFor": [
+        "沟通方式本身构成的障碍",
+        "三名逃犯各自的目的",
+        "谈判中谁在说谎"
+      ],
+      "warning": "人质危机题材，含暴力与儿童受威胁描写，阅读压力较大。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2009（馆藏题名「少女的坟墓」／迪弗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "gap50-004",
+    "title": "蓝色骇客",
+    "originalTitle": "The Blue Nowhere",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2001",
+    "series": "",
+    "detective": "无固定侦探（网络犯罪组视角）",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "dual-role",
+      "concealment",
+      "city",
+      "psychological-misdirection",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "logic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名擅长通过社交手段套取信息的人接连作案，而他从不用暴力——他要的东西，当事人会自己交出来。追他的人里有位刚从监狱出来的老黑客。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 1192,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4038567/",
+        "subjectId": "4038567",
+        "edition": "蓝色骇客 2009",
+        "fetchedAt": "2026-09-22T11:36:47.735Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对社会工程学手法感兴趣的读者",
+        "迪弗的读者"
+      ],
+      "watchFor": [
+        "作案者获取信息的方式",
+        "当事人被套话的环节",
+        "老黑客加入后的思路差异"
+      ],
+      "warning": "网络犯罪题材，含暴力场面与计算机术语。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2009（馆藏题名「蓝色骇客」／迪弗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "gap50-005",
+    "title": "燃烧的电缆",
+    "originalTitle": "The Burning Wire",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "city",
+      "red-herring",
+      "timetable",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "有人把城市的供电系统当成了武器，而每次动手的方式都不一样。莱姆要在这套手法被用到最极端之前，弄清对方真正想要的是什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 373,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34997256/",
+        "subjectId": "34997256",
+        "edition": "燃烧的电缆 2020",
+        "fetchedAt": "2026-09-22T11:36:51.563Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "对电力与物理常识感兴趣的读者"
+      ],
+      "watchFor": [
+        "每次动手的技术条件",
+        "电网的调度记录",
+        "谁有权限接触这些节点"
+      ],
+      "warning": "刑侦惊悚，含电击与灼伤描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-006",
+    "title": "破窗",
+    "originalTitle": "The Broken Window",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "cipher",
+      "concealment",
+      "red-herring",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "莱姆的表兄被指控杀人，而证据链条完整得不像真的。追查下去，他发现要证明一个人有罪，有时并不需要伪造任何东西——只需要知道去哪里找。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 352,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35047239/",
+        "subjectId": "35047239",
+        "edition": "破窗 2020",
+        "fetchedAt": "2026-09-22T11:36:55.045Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "对数据与隐私议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "证据是「真实」的这一点的含义",
+        "谁知道该去哪里找",
+        "数据从哪里被汇总起来"
+      ],
+      "warning": "刑侦惊悚，含数据隐私与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-007",
+    "title": "思考机器探案集之幽灵汽车",
+    "originalTitle": "",
+    "author": "杰克·福翠尔",
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "1907",
+    "series": "思考机器系列",
+    "detective": "奥古斯都·范杜森教授",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "locked-room",
+      "red-herring",
+      "cipher"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。范杜森教授照例不出门，只让记者把经过讲一遍，然后从物理条件上判断：这件事在现实中到底能不能发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 338,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3314863/",
+        "subjectId": "3314863",
+        "edition": "思考机器探案集之幽灵汽车 2009年1月",
+        "fetchedAt": "2026-09-22T11:36:58.691Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢纯逻辑推演短篇的读者",
+        "思考机器系列的读者"
+      ],
+      "watchFor": [
+        "复述里的时间与距离",
+        "被当作常识的物理事实",
+        "教授反问的那一句"
+      ],
+      "warning": "二十世纪初作品，短篇集，各篇独立，重逻辑不重人物。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-008",
+    "title": "思考机器探案集之微笑的上帝",
+    "originalTitle": "",
+    "author": "杰克·福翠尔",
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "1907",
+    "series": "思考机器系列",
+    "detective": "奥古斯都·范杜森教授",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "cipher",
+      "red-herring",
+      "locked-room"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，谜面多与「不可能」有关：不可能发生的消失、不可能出现的痕迹。教授的解法总是从排除物理上的不可能开始，剩下的那个再离奇也是答案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 401,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3314866/",
+        "subjectId": "3314866",
+        "edition": "思考机器探案集之微笑的上帝 2009年1月",
+        "fetchedAt": "2026-09-22T11:37:02.282Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "思考机器系列的读者",
+        "喜欢短篇不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "被排除掉的那些可能性",
+        "叙述者转述时的省略",
+        "教授下结论前问的最后一个问题"
+      ],
+      "warning": "二十世纪初作品，短篇集，各篇独立。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-009",
+    "title": "思考机器探案集之致命的密码",
+    "originalTitle": "",
+    "author": "杰克·福翠尔",
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "1907",
+    "series": "思考机器系列",
+    "detective": "奥古斯都·范杜森教授",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "cipher",
+      "honkaku",
+      "red-herring",
+      "locked-room"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，其中有几篇的核心是一段读不通的文字。教授处理密码的方式很朴素：不去猜它的含义，先数它的字数与重复出现的组合。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 345,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3314862/",
+        "subjectId": "3314862",
+        "edition": "思考机器探案集之致命的密码 2009年1月",
+        "fetchedAt": "2026-09-22T11:37:06.114Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对密码类谜题感兴趣的读者",
+        "思考机器系列的读者"
+      ],
+      "watchFor": [
+        "密文的字数与重复组合",
+        "寄出与收到的时间",
+        "谁懂得这种写法"
+      ],
+      "warning": "二十世纪初作品，短篇集，各篇独立。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-010",
+    "title": "柳园图",
+    "originalTitle": "The Willow Pattern",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1965",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "mansion",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "狄公在京城任职期间遇到一桩发生在宅门里的案子，而案件与一种常见的瓷器纹样有牵连。他一边断案，一边要应付京城里比地方上复杂得多的人际关系。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 992,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523201/",
+        "subjectId": "35523201",
+        "edition": "柳园图 2021",
+        "fetchedAt": "2026-09-22T11:37:09.920Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "对瓷器与纹样感兴趣的读者"
+      ],
+      "watchFor": [
+        "那种纹样的来历",
+        "宅中各人的关系",
+        "谁在狄公面前刻意提起这件案子"
+      ],
+      "warning": "历史推理，含命案与官场描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：太原:,北岳文艺出版社:,2018（馆藏题名「柳园图奇案」／高罗佩著）。馆藏题名作「柳园图奇案」（北岳文艺出版社 2018）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填，并经 `scripts/audit-edition-year.mjs` 逐条复核（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2018"
+  },
+  {
+    "id": "gap50-011",
+    "title": "御珠案",
+    "originalTitle": "The Emperor's Pearl",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1963",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "legend-folklore",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一节龙舟赛上出了事，而围绕一颗珠子的旧传说也被重新提起。狄公要分清的是：哪些是传说附会上去的，哪些是有人借着传说做的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 1406,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35033068/",
+        "subjectId": "35033068",
+        "edition": "御珠案 2020",
+        "fetchedAt": "2026-09-22T11:37:17.351Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢节庆场景的读者"
+      ],
+      "watchFor": [
+        "传说的最早版本",
+        "珠子在谁手里",
+        "比赛当天的水路与人群"
+      ],
+      "warning": "历史推理，含命案与节庆场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2020（御珠案／(荷) 高罗佩著 ROBERT VAN GULIK）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "gap50-012",
+    "title": "大唐狄公案3",
+    "originalTitle": "Judge Dee Mysteries",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1960",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "合集本，收录狄公断案的若干则。这些案子篇幅不一，短的只写一次堂审，长的要跨州跨县，但断案的路数一致：先勘验，再问人，最后才动判断。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 259,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6110192/",
+        "subjectId": "6110192",
+        "edition": "大唐狄公案3 2011",
+        "fetchedAt": "2026-09-22T11:37:20.938Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢公案体例的读者"
+      ],
+      "watchFor": [
+        "每则案子的勘验记录",
+        "供词之间的先后矛盾",
+        "狄公故意放出去的那句话"
+      ],
+      "warning": "历史推理合集，含刑讯与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-013",
+    "title": "乱步侦探作品集1",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "本格推理",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "honkaku",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "logic-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "乱步作品选集，以明智小五郎系列为主。这些篇目能看出他从模仿西方侦探小说起步，再一步步把怪奇与都市传说掺进推理骨架里的过程。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 219,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1098618/",
+        "subjectId": "1098618",
+        "edition": "乱步侦探作品集.1 2002",
+        "fetchedAt": "2026-09-22T11:37:26.123Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想系统读乱步的读者",
+        "对日本推理源流感兴趣的读者"
+      ],
+      "watchFor": [
+        "早期篇目与后期篇目的写法差异",
+        "怪奇元素出现的比例",
+        "明智小五郎的推理方式"
+      ],
+      "warning": "选集，含怪奇与猎奇篇目，部分内容氛围阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 1」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "gap50-014",
+    "title": "乱步侦探作品集4",
+    "originalTitle": "",
+    "author": "江户川乱步",
+    "authorEn": "Edogawa Rampo",
+    "genre": "变格",
+    "firstPublished": "2002",
+    "series": "乱步侦探作品集",
+    "detective": "明智小五郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "multiple-solutions",
+      "dark-atmosphere",
+      "obsession",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "bizarre-school",
+      "logic-school"
+    ],
+    "safeSummary": "选集的后几卷，怪奇色彩更重。乱步在这里关心的已经不是「谁做的」，而是「一个人为什么会变成这样」，推理成了剥开这层心理的工具。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 147,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1117084/",
+        "subjectId": "1117084",
+        "edition": "乱步侦探作品集.4 2002",
+        "fetchedAt": "2026-09-22T11:37:29.282Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步的读者",
+        "对变格派感兴趣的读者"
+      ],
+      "watchFor": [
+        "叙述者与事件的距离",
+        "偏执心理的成形过程",
+        "结尾处没有解释的那部分"
+      ],
+      "warning": "含变态心理与猎奇描写，氛围阴暗，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 4」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2002"
+  },
+  {
+    "id": "gap50-015",
+    "title": "入殓师推理事件簿",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "2017",
+    "series": "",
+    "detective": "无固定侦探（入殓师视角）",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "city",
+      "first-person"
+    ],
+    "school": [
+      "forensic-school",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "主角的职业是入殓师，他接触到的都是已经确定的死亡。而正因为尸体在他手上要待很久，他能看到别人来不及看的那些细节。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 170,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27118319/",
+        "subjectId": "27118319",
+        "edition": "入殓师推理事件簿 2017",
+        "fetchedAt": "2026-09-22T11:37:34.156Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对遗体与现场细节题材感兴趣的读者",
+        "华语原创本格的读者"
+      ],
+      "watchFor": [
+        "遗体上的痕迹与官方结论的差异",
+        "家属回避的问题",
+        "入殓师注意到的顺序"
+      ],
+      "warning": "华语原创，含遗体处理与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gap50-016",
+    "title": "消失的断章",
+    "originalTitle": "消えた断章",
+    "author": "深木章子",
+    "authorEn": "Miki Akiko",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "unreliable-narrator",
+      "red-herring",
+      "diary-form",
+      "concealment",
+      "honkaku",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一批旧文稿在整理时被发现少了一部分，而缺的那部分恰好是承接前后文的关键。要还原它写了什么，只能从留下来的部分反推。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 275,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36242817/",
+        "subjectId": "36242817",
+        "edition": "消失的断章 2023",
+        "fetchedAt": "2026-09-22T11:37:38.931Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢文稿与叙述类谜题的读者",
+        "深木章子的读者"
+      ],
+      "watchFor": [
+        "前后文对不上接的地方",
+        "谁整理过这批文稿",
+        "缺失部分可能涉及的年份"
+      ],
+      "warning": "本格长篇，涉及家族旧事与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 台海出版社 2023（馆藏题名「消失的断章」／深木章子）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-50-gap-fill.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  }
+]

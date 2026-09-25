@@ -1,0 +1,225 @@
+[
+  {
+    "id": "ct158-001",
+    "title": "推理之神：诡异罪恶园",
+    "originalTitle": "",
+    "author": "江户川乱步 编",
+    "authors": [
+      "江户川乱步"
+    ],
+    "anthology": true,
+    "authorEn": "Edogawa Ranpo (ed.)",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "legend-folklore",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "由江户川乱步编选的世界经典「诡诞猎奇」短篇小说集，收录六部作品，如《两瓶调味品》《十五个杀人者》《黄色蛞蝓》等。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乱步选本的读者",
+        "怪奇短篇的读者"
+      ],
+      "watchFor": [
+        "六篇各自的「诡诞」之处",
+        "乱步的选编标准"
+      ],
+      "warning": "怪奇推理短篇选集，含命案与猎奇描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经**第二馆关键词枚举**发现，见 §54.2）：江户川乱步编，江苏凤凰文艺出版社 2025.10。**判据**：①**详情页主题词为「推理小说 小说集 世界 ; 短篇小说 小说集 世界」**（第①类，最硬）；②**中图分类 `I313.45`**；③馆藏提要列明所收六篇的篇名与梗概。**多作者模型**：馆藏著录的责任者只有**编者**，按 §34.2「只署编者则登记编者、标签写『某某 编』」处理——`authors` 只记江户川乱步，**不臆造执笔作者**；已标 `anthology`（界面显示「合集」徽章）。**补作者缺口**：作者库内已有乱步作品 66 部。**年份字段说明**：`editionYear` 记 2025；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-158-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ct158-002",
+    "title": "缉毒",
+    "originalTitle": "",
+    "author": "江公",
+    "authorEn": "Jiang Gong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "非系列",
+    "detective": "丁凡",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "cipher",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "春江市火车站发生了一起毒贩劫持人质的案件：公安局长亲临一线解救人质，然而疑犯却自杀身亡；他身上没有任何线索，只有一部手机留下一些可疑的通信记录，而其中一个号码让刚正不阿的他添了很多烦恼。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "缉毒题材刑侦小说的读者",
+        "国产公安题材的读者"
+      ],
+      "watchFor": [
+        "手机里那个可疑号码",
+        "嫌犯为何自杀"
+      ],
+      "warning": "缉毒刑侦题材长篇，含劫持、自杀与毒品犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：江公著，天津人民出版社 2015.8。**判据**：①**详情页主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②**中图分类 `I247.56`**——**中国当代侦探／推理小说的专门分类号**；③馆藏提要写明劫持案与随后的侦查线索。**新作者**。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-158-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "ct158-003",
+    "title": "刑警之子",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "concealment",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "少年八木泽顺和当刑警的父亲无意间得知了下町街一起案件的传闻；与此同时，一封封匿名信寄到了警局和家里，信中详细告知了受害者的信息，警方的调查因此受到影响。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "少年视角题材的读者"
+      ],
+      "watchFor": [
+        "匿名信的寄件人",
+        "信中为何详知受害者信息"
+      ],
+      "warning": "警察题材犯罪悬疑长篇，含案件描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：宫部美雪著，天津人民出版社 2020.7。**判据**：①**详情页主题词为「推理小说 日本 现代」**（第①类，最硬）；②**中图分类 `I313.45`**；③馆藏提要写明案件传闻与匿名信这一谜面。**补作者缺口**：作者库内已有宫部美雪作品（写法沿用库内「宫部美雪」）。**年份字段说明**：`editionYear` 记 2020；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-158-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

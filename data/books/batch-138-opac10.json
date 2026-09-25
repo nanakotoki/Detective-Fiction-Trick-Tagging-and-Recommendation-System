@@ -1,0 +1,2607 @@
+[
+  {
+    "id": "facet138-001",
+    "title": "灯塔血案",
+    "originalTitle": "The Lighthouse",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "2005",
+    "editionYear": "2019",
+    "series": "亚当·达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "isolated-island",
+      "closed-circle",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "科姆岛是一座富人用来逃避世俗生活的世外之岛，每年只有少数人能获准登岛；浓雾弥漫的清晨，一位脾气暴躁的作家离奇失踪，随后被吊死在废弃灯塔的围栏上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "孤岛封闭舞台的读者"
+      ],
+      "watchFor": [
+        "登岛许可名单",
+        "岛上各人与作家的旧怨"
+      ],
+      "warning": "本格推理长篇，含命案描写，为亚当·达格利什系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**主题词枚举**渠道发现，`scripts/opac-facet-scan.mjs`）：P. D. 詹姆斯著，上海文艺出版社 2019，丛编项「读客外国小说文库；**P. D. 詹姆斯作品系列**」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为作者本人的作品系列。**年份字段说明**：`firstPublished` 记原作年 2005（*The Lighthouse*），`editionYear` 记所引中译本 2019。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-002",
+    "title": "血案寻踪",
+    "originalTitle": "",
+    "author": "易买生",
+    "authorEn": "Yi MAisheng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "新时代中国法治文学精选",
+    "detective": "谭钰芾",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "dual-line",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "明光集团董事长一家在住宅中遭袭、其子被绑架；专案组救出人质后追查凶手，却牵出二十八年前的又一宗悬案，涉案人一个接一个被害。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "旧案与今案交织的读者"
+      ],
+      "watchFor": [
+        "两家人的恩怨脉络",
+        "二十八年前那桩悬案的卷宗"
+      ],
+      "warning": "刑侦题材长篇，含灭门、绑架与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：易买生著，群众出版社 2023.5，丛编项「2022 年『新时代中国法治文学精选』丛书·长篇小说」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无易买生作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-003",
+    "title": "遗珠血案",
+    "originalTitle": "",
+    "author": "帕特丽夏·温沃斯",
+    "authorEn": "Patricia Wentworth",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "女神探希娃系列",
+    "detective": "希娃",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "faceless-corpse",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "迪平村深处一间受百年「诅咒」的小木屋里发现一具无名女尸，唯一的报案目击者随即离奇死亡；警察弗兰克发现两起谋杀背后藏着三个大家族的恩怨。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "女神探希娃系列的读者"
+      ],
+      "watchFor": [
+        "小木屋的传说与本案的关系",
+        "三家人之间的旧账"
+      ],
+      "warning": "本格推理长篇，含无名尸与谋杀描写，为女神探希娃系列第 14 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·温沃斯著，贵州人民出版社 2018.9，丛编项「『**女神探希娃**』系列悬疑推理小说 14；曼陀罗悬疑馆」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项标明「**悬疑推理小说**」且为作者的系列第 14 部；④提要写明请来「著名的女侦探希娃」。**新作者**：库内此前无帕特丽夏·温沃斯作品。**年份字段说明**：`editionYear` 记所引中译本 2018；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-004",
+    "title": "利沃尼惨案",
+    "originalTitle": "Un drame en Livonie",
+    "author": "儒勒·凡尔纳",
+    "authorEn": "Jules Verne",
+    "genre": "本格推理",
+    "firstPublished": "1904",
+    "editionYear": "2017",
+    "series": "凡尔纳冒险·侦探·悬疑系列名作",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "historical-setting",
+      "alibi",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一八七六年的俄国：沙皇在波罗的海沿岸诸省推进俄罗斯化，里加市即将大选；被推举为竞选代表的教授因曾与政敌的银行伙计同住一家客栈而被警方怀疑。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "凡尔纳的读者",
+        "古典侦探小说的读者"
+      ],
+      "watchFor": [
+        "客栈那一夜发生了什么",
+        "失窃巨款的去向"
+      ],
+      "warning": "古典侦探小说长篇，含命案与政治阴谋描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：儒勒·凡尔纳著，万卷出版公司 2017，丛编项「**凡尔纳冒险·侦探·悬疑系列名作**」。**推理属性判据**：①**检索行主题词为「侦探小说 法国 近代 ; 长篇小说 法国 近代」**（第①类，最硬）；②**中图分类号 `I565.44`**；③丛编项标明「**侦探**」。**合并说明**：馆藏另有北京时代华文书局 2015.02 的同一部作品（同一译者体系的另一版），按同书不另设条目处理。**年份字段说明**：`firstPublished` 记原作年 1904（*Un drame en Livonie*），`editionYear` 记所引中译本 2017。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-005",
+    "title": "看不见的证人",
+    "originalTitle": "",
+    "author": "岑嵘",
+    "authorEn": "Cen Rong",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "童理",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "curiosity",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "临死前为何还要把餐具摆得整整齐齐，一块鸟形饼干为何成为禁忌，一只小狗的失而复得与命案有何关系；经济学家「侦探」童理据此作出推断。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常推理的读者",
+        "经济学科普与推理结合的读者"
+      ],
+      "watchFor": [
+        "餐具摆放这类生活细节",
+        "经济学视角给出的解释"
+      ],
+      "warning": "本格推理长篇，含命案描写，推理切口偏生活细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：岑嵘著，中国国际广播出版社 2022。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无岑嵘作品。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-006",
+    "title": "解剖",
+    "originalTitle": "Abgeschnitten",
+    "author": "赛巴斯蒂安·菲茨克、迈克尔·索寇斯",
+    "authors": [
+      "赛巴斯蒂安·菲茨克",
+      "迈克尔·索寇斯"
+    ],
+    "authorEn": "Sebastian Fitzek; Michael Tsokos",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "editionYear": "2015",
+    "series": "德式惊悚系列",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "fear",
+      "silencing"
+    ],
+    "school": [
+      "forensic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "德国法医题材推理小说：全书以一起案件为引，围绕主人公赫兹斐的一系列拯救行动展开；作者之一是法医，书中大量使用法医学细节。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "德系法医题材的读者",
+        "菲茨克的读者"
+      ],
+      "watchFor": [
+        "法医细节在推理中的作用",
+        "主人公行动的时间压力"
+      ],
+      "warning": "法医题材长篇，含尸检与暴力犯罪描写，为**两位作者合著**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：赛巴斯蒂安·菲茨克、迈克尔·索寇斯著，华夏出版社 2015.10，丛编项「『德式惊悚』系列」。**推理属性判据**：①**检索行主题词为「推理小说 德国 现代 ; 长篇小说 德国 现代」**（第①类，最硬）；②**中图分类号 `I516.45`**；③馆藏提要写明「本书为德国**推理作家**赛巴斯蒂安·菲茨克作品，是一部**法医题材的推理小说**」。**多作者模型**：本条为**两位作者合著**，`authors` 记两位，界面上会显示「合著」徽章。**年份字段说明**：`firstPublished` 记原作年 2010（*Abgeschnitten*），`editionYear` 记所引中译本 2015。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-007",
+    "title": "二蓝神事务所",
+    "originalTitle": "",
+    "author": "明月听风",
+    "authorEn": "Mingyue Tingfeng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "蓝耀阳、倪蓝",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "cipher",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "在外人看来「二蓝神事务所」是家非常不正经的公司：总裁想当侦探，艺人是反恐黑客专家，数学老师做了业务经理，退休工人管安保；第一单委托就牵出旧案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语都市悬疑的读者",
+        "群像办案结构的读者"
+      ],
+      "watchFor": [
+        "各成员的专业背景如何派上用场",
+        "两年前那场车祸的真相"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写，原作分上、下两册。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：明月听风著，长江出版社 2022.10。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**合并说明**：馆藏以「二蓝神事务所.上」与「.下」两条著录，为**同一部作品的上下两册**，按库内既有做法合并为一条。**新作者**：库内此前无明月听风作品。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-008",
+    "title": "法医专家",
+    "originalTitle": "",
+    "author": "王文杰",
+    "authorEn": "Wang Wenjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "curiosity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "主人公既是法医也是痕迹调研员，用昆虫学知识破解一系列案件：依据保险箱上昆虫的茧判定开箱时间，用双方衣服上的蛛丝提出时间证据。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医昆虫学题材的读者",
+        "痕检细节爱好者"
+      ],
+      "watchFor": [
+        "昆虫与时间推断的关系",
+        "蛛丝这类微小物证的比对"
+      ],
+      "warning": "法医题材长篇，含命案与物证勘查描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：王文杰著，天津人民出版社 2017。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书为一部精彩的**推理侦探小说**」。**新作者**：库内此前无王文杰作品。**年份字段说明**：中文原创，`firstPublished` 记 2017，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-009",
+    "title": "法医奇案",
+    "originalTitle": "",
+    "author": "陆玩",
+    "authorEn": "Lu Wan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "法医笔记系列",
+    "detective": "陆玩",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "法医陆玩、法医王洁与痕迹检验师林霄等组成的小组，用专业法医技术侦破六宗案件，包括分尸案、呕吐物杀人案、青山医院案、浴室杀人案等。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "多案件单元结构的读者"
+      ],
+      "watchFor": [
+        "每起案件的物证切口",
+        "小组各成员的分工"
+      ],
+      "warning": "法医题材长篇（六案），含尸检与命案描写，为法医笔记系列。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：陆玩著，台海出版社 2023.04，丛编项「法医笔记系列」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是一部**法医破案推理小说**」。**新作者**：库内此前无陆玩作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-010",
+    "title": "尸语女法医.3：渊底之刺",
+    "originalTitle": "",
+    "author": "川濑七绪",
+    "authorEn": "Kawase Nao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "尸语女法医系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "江户川区的河堤旁发现一具男性尸体，尸体趴在沉积的沙土下，被乌鸦包围，成群的苍蝇绕着头部打转，沙土上还爬着几只体型异常的绿龟。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日系法医题材的读者",
+        "尸检细节爱好者"
+      ],
+      "watchFor": [
+        "尸体周围的生物痕迹",
+        "死者的身份确认过程"
+      ],
+      "warning": "法医题材长篇，含尸体与命案描写，为系列第 3 卷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：川濑七绪著，中国友谊出版公司 2020，正题名「尸语女法医.3,渊底之刺」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**。**新作者**：库内此前无川濑七绪作品。**年份字段说明**：`editionYear` 记所引中译本 2020；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-011",
+    "title": "尸语女法医.4：莫比乌斯的守护者",
+    "originalTitle": "",
+    "author": "川濑七绪",
+    "authorEn": "Kawase Nao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "尸语女法医系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "faceless-corpse"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "东京最偏僻的西多摩山道旁发现了三段男人的手臂；尸体惨遭分尸，尸块散落在山道旁，右手的五根手指全被切断。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日系法医题材的读者",
+        "分尸案鉴识描写的读者"
+      ],
+      "watchFor": [
+        "尸块的切口特征",
+        "抛尸地点的选择"
+      ],
+      "warning": "法医题材长篇，含分尸与残损尸体描写，为系列第 4 卷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：川濑七绪著，中国友谊出版公司 2020，正题名「尸语女法医.4,莫比乌斯的守护者」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**。**年份字段说明**：`editionYear` 记所引中译本 2020；`firstPublished` **留空**。梗概据馆藏提要重写，未复述尸体细节。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-012",
+    "title": "新锐法医.2：迷雾",
+    "originalTitle": "",
+    "author": "吕吉吉",
+    "authorEn": "Lü Jiji",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "新锐法医系列",
+    "detective": "柳弈",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "夏日未至，柳弈收到一具埋藏八年的人体断指白骨，平静数月的鑫海市再起波澜；断指连环杀人案的凶手把他列为最终目标。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "连环案追凶的读者"
+      ],
+      "watchFor": [
+        "白骨案与断指案的关联",
+        "十三年前金铺劫案的卷宗"
+      ],
+      "warning": "法医题材长篇，含白骨、纵火与命案描写，为系列第 2 卷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：吕吉吉著，孔学堂书局 2023，正题名「新锐法医.2,迷雾」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无吕吉吉作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-013",
+    "title": "入骨相思：女法医勘查手记",
+    "originalTitle": "",
+    "author": "火罐大公举",
+    "authorEn": "Huoguan Dagongju",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "series": "非系列",
+    "detective": "刘依依",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere",
+      "alibi"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "游戏厅机箱里惊现腐尸而嫌疑人都有不在场证明；大年夜一家三口在团圆饭桌上被杀；多名年轻女孩死于寒冬野外，她们死前都穿过同一件古着大衣。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "女法医题材的读者",
+        "多案单元结构的读者"
+      ],
+      "watchFor": [
+        "几起案件的共同物证",
+        "不在场证明如何被推翻"
+      ],
+      "warning": "法医题材长篇，含腐尸、灭门与命案描写，画面感较强。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：火罐大公举著，天津人民出版社 2018。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无火罐大公举作品。**年份字段说明**：中文原创，`firstPublished` 记 2018，`editionYear` **留空**。梗概据馆藏提要重写，只保留谜面。 **诡计类标签补充（第 72 轮）**：据本库梗概「游戏厅机箱里惊现腐尸而嫌疑人都有不在场证明」补标 alibi（不在场证明是本案的核心障碍）。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-014",
+    "title": "女法医手记之证词",
+    "originalTitle": "",
+    "author": "刘真",
+    "authorEn": "Liu Zhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "series": "让死者闭眼系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "以一位女法医的视角记录几起相对独立的凶杀案侦破过程；案情曲折但不刻意追求诡异，凶手、被害人、法医与侦探都是生活里的普通人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "写实向法医题材的读者",
+        "单元案件结构的读者"
+      ],
+      "watchFor": [
+        "每起案件的取证过程",
+        "普通人在案件中的处境"
+      ],
+      "warning": "法医题材长篇，含凶杀案与尸检描写，风格写实。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：刘真著，广东旅游出版社 2016.05，丛编项「让死者闭眼系列」。**推理属性判据**：①**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.5`**（大类号；该馆对本书未细分到 `.56`，故判据以主题词为准）。**新作者**：库内此前无刘真作品。**年份字段说明**：中文原创，`firstPublished` 记 2016，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-015",
+    "title": "法医追凶：消失的证人",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "法医追凶系列",
+    "detective": "章桐",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "火车上一声巨响终结了多条人命；郊外一座荒废工厂用电量异常之高；一只限量版大提琴箱里装着的却是异常干净的尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "爆炸与现场勘查题材的读者"
+      ],
+      "watchFor": [
+        "荒废工厂的用电去向",
+        "大提琴箱的来源"
+      ],
+      "warning": "法医题材长篇，含爆炸、尸体农场与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：戴西著，台海出版社 2021，正题名「法医追凶,消失的证人」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无戴西作品，本轮**一次补入 3 部**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-016",
+    "title": "法医追凶：最后一个名字",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "法医追凶系列",
+    "detective": "章桐",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一位心理医生暗恋上内向高冷的女法医，两人之间却似乎有着许多说不出的生死纠葛；而死亡名单上那个尚未出现的名字，成了她必须弄清的事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "心理线索型悬疑的读者"
+      ],
+      "watchFor": [
+        "死亡名单上的名字",
+        "心理医生与女法医的交往"
+      ],
+      "warning": "法医题材长篇，含命案与心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：戴西著，台海出版社 2021，正题名「法医追凶,最后一个名字」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-017",
+    "title": "法医追凶：无声的证言",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2021",
+    "series": "法医追凶系列",
+    "detective": "章桐",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "faceless-corpse"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一场大火过后，现场只有一具失去皮肤的少女尸体，没有任何线索；一个神秘的盒子、一对干瘪的眼球、一朵枯黄的雏菊，牵出尘封十三年的凶杀悬案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "旧案重启题材的读者"
+      ],
+      "watchFor": [
+        "三件物证的来源",
+        "十三年前那桩悬案的卷宗"
+      ],
+      "warning": "法医题材长篇，含焚尸、残损尸体与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：戴西著，台海出版社 2021，正题名「法医追凶,无声的证言」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要重写，只保留谜面。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-018",
+    "title": "刑警罗宋",
+    "originalTitle": "",
+    "author": "空城",
+    "authorEn": "Kong Cheng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2020",
+    "series": "非系列",
+    "detective": "罗宋",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "以刑警罗宋为主角的小说集，收录《谜尸》《僵尸》《白月光》《疯猫》四个基于现实的半虚构故事；推理内核之外，是现实生活里的悲剧。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本土刑侦短篇的读者",
+        "写实向悬疑的读者"
+      ],
+      "watchFor": [
+        "四篇里案件与现实的接口",
+        "罗宋不同于传统神探的办案方式"
+      ],
+      "warning": "刑侦题材小说集，含命案描写，风格写实。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：空城著，江苏凤凰文艺出版社 2020.05，丛编项「豆瓣方舟文库·悬疑推理」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 小说集 中国 当代 ; 中篇小说 小说集 中国 当代」**；③丛编项标明「**悬疑推理**」。**新作者**：库内此前无空城作品。**年份字段说明**：中文原创，`firstPublished` 记 2020，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-019",
+    "title": "刑警一中队",
+    "originalTitle": "",
+    "author": "李阳",
+    "authorEn": "Li Yang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "新时代中国法治文学精选",
+    "detective": "阚兆祥",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "莲城市公安局刑警大队下设两个中队，一中队主要负责侦办发生在莲城和油田的各类刑事案件；一年前从油田娱乐城的一起案件查起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "基层警队群像的读者"
+      ],
+      "watchFor": [
+        "两个中队的分工与摩擦",
+        "油田案件牵出的关系网"
+      ],
+      "warning": "刑侦题材长篇，含刑事案件与基层警务描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：李阳著，群众出版社 2023.5，丛编项「2022 年『新时代中国法治文学精选』丛书·长篇小说」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无李阳作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-020",
+    "title": "刑警的诺言",
+    "originalTitle": "",
+    "author": "赵迅",
+    "authorEn": "Zhao Xun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "新时代中国法治文学精选",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "九十年代中期，东港市相继发生杀人碎尸、杀害出租车司机以及持枪杀人大案；港城刑警循着现场遗留的痕迹物证展开侦查，步步紧逼。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "年代刑侦题材的读者",
+        "痕迹物证推理的读者"
+      ],
+      "watchFor": [
+        "现场痕迹与并案的依据",
+        "几起案件之间的关联"
+      ],
+      "warning": "刑侦题材长篇，含碎尸、持枪杀人等重案描写，年代背景为九十年代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：赵迅著，群众出版社 2023.5，丛编项「2022 年『新时代中国法治文学精选』丛书·长篇小说」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无赵迅作品。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-021",
+    "title": "刑警手记之异案现场",
+    "originalTitle": "",
+    "author": "风雨如书",
+    "authorEn": "Fengyu Rushu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "刑警手记",
+    "detective": "陈和",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "dark-atmosphere",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "bizarre-school"
+    ],
+    "safeSummary": "刑警陈和因身赋特殊能力被召进公安厅特案小组，从而接触到一帮经历与他类似的同事，以及一系列诡谲离奇的案件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "带超常设定的办案故事读者"
+      ],
+      "watchFor": [
+        "特案小组成员的各自能力",
+        "案件里的非自然表象"
+      ],
+      "warning": "刑侦题材长篇，含命案描写，设定中含**超常能力**成分。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：风雨如书著，九州出版社 2015.4。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**如实标注**：提要写明主人公「身赋**特殊能力**」，设定含超常成分；判据仍是编目第①类，已在 `readingTips.warning` 与标签中写明。**补作者缺口**：作者库内已有《还原犯罪现场》系列与《天罚者》。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-022",
+    "title": "刑警手记之逝者之证",
+    "originalTitle": "",
+    "author": "梧桐私语",
+    "authorEn": "Wutong Siyu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "series": "刑警手记",
+    "detective": "龚克",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "以一个推理天才和一个资深女法医探案为线索，讲述一系列匪夷所思的罪案的侦破过程，并辅以两人的情感经历。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "案中案结构的读者",
+        "法医与推理搭档题材的读者"
+      ],
+      "watchFor": [
+        "连环案之间的扣合",
+        "推理者对细节的把控"
+      ],
+      "warning": "刑侦题材长篇，含命案与法医描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：梧桐私语著，九州出版社 2015.4。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；③馆藏提要写明「本书是一本**侦探推理小说**」。**新作者**：库内此前无梧桐私语作品。**年份字段说明**：中文原创，`firstPublished` 记 2015，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-023",
+    "title": "连环局",
+    "originalTitle": "",
+    "author": "纪玉峰",
+    "authorEn": "Ji Yufeng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "连环局系列",
+    "detective": "纪佳程",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "二十年前一桩坠楼血案轰动一时，刚成为实习律师的纪佳程意外目睹全过程；二十年后他代理的一起商业纠纷案，竟与当年的惨案有着千丝万缕的关联。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法律题材悬疑的读者",
+        "旧案今案交织结构的读者"
+      ],
+      "watchFor": [
+        "二十年前那桩坠楼案的目击细节",
+        "商业纠纷与旧案的接口"
+      ],
+      "warning": "犯罪悬疑长篇，含坠楼与连环死亡描写，主角为律师。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：纪玉峰著，江苏凤凰文艺出版社 2023，丛编项「读客三道杠知识小说文库；读客知识小说文库」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无纪玉峰作品，本轮**一次补入 2 部**。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-024",
+    "title": "连环局.2：囚徒密码",
+    "originalTitle": "",
+    "author": "纪玉峰",
+    "authorEn": "Ji Yufeng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "连环局系列",
+    "detective": "纪佳程",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "identity",
+      "series-detective"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "五年前一场变故让何家几乎满门覆灭；五年后一场大雨将律师纪佳程卷入两个家族间的血海深仇，而委托他辩护的人似乎都在隐藏什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法律题材悬疑的读者",
+        "《连环局》的读者"
+      ],
+      "watchFor": [
+        "委托人与妻子的说辞差异",
+        "两家人仇怨的起点"
+      ],
+      "warning": "犯罪悬疑长篇，含家族仇杀与命案描写，为系列第 2 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经主题词枚举渠道发现）：纪玉峰著，江苏凤凰文艺出版社 2023，正题名「连环局.2,囚徒密码」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**补系列缺口**：与第 1 部同批补入。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-025",
+    "title": "三色猫福尔摩斯连环谜案",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "三色猫福尔摩斯系列",
+    "detective": "片山",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "closed-circle",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "「猫公馆」里，女主人和她养的十一只猫被杀；片山与同事着手调查这起谋杀案，却让片山唯一的妹妹晴美掉入陷阱，生命危在旦夕。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "赤川次郎的读者",
+        "三色猫系列的读者"
+      ],
+      "watchFor": [
+        "猫公馆里各人的出入",
+        "十一只猫在现场留下的线索"
+      ],
+      "warning": "本格推理长篇，含命案与动物死亡描写，为三色猫福尔摩斯系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：赤川次郎著，山东文艺出版社 2015.12，丛编项「99畅销文库；**三色猫福尔摩斯系列**」。**推理属性判据**：①**检索行主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编项为作者本人的系列。**补作者缺口**：作者库内已有《三毛猫推理》《登山车》《歌剧院》等 13 部。**年份字段说明**：`editionYear` 记所引中译本 2015；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-026",
+    "title": "真凶快跑之心灵风暴",
+    "originalTitle": "",
+    "author": "王界",
+    "authorEn": "Wang Jie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "series": "非系列",
+    "detective": "华生",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "identity",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "以清贫著称的医生在值夜班时意外坠楼身亡，嗜好推理的实习医生对死因生疑；与警官合作侦查时，发现这位医生竟拥有名表、豪车与巨额存款。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "医疗背景悬疑的读者",
+        "实习医生视角探案的读者"
+      ],
+      "watchFor": [
+        "死者名下财产的来源",
+        "坠楼当晚的值班记录"
+      ],
+      "warning": "犯罪悬疑长篇，含坠楼与医疗腐败相关情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：王界著，作家出版社 2014.04。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**新作者**：库内此前无王界作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-027",
+    "title": "首席女法医：波特墓园",
+    "originalTitle": "From Potter's Field",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1995",
+    "editionYear": "2010",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "圣诞平安夜，空气冷冽，黑色冰层看似坚硬其实易碎；犯罪案件的信息在监视扫描仪上响个不停，斯卡佩塔又要面对一具无名的尸体。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "法医鉴识题材的读者"
+      ],
+      "watchFor": [
+        "无名尸的身份确认",
+        "节日期间的办案节奏"
+      ],
+      "warning": "法医题材长篇，含尸检与命案描写，为系列第 6 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现，关键词「法医」）：帕特丽夏·康薇尔著，南海出版公司 2010.07，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；②**中图分类号 `I712.45`**；③丛编项为作者本人的作品系列。**作者写法统一**：馆藏作「帕特丽夏」，**库内既有写法为「帕特里夏·康薇尔」**，本条沿用库内写法。**系列位置**：库内已有第 1～5 部与《死亡的理由》（第 7 部），本条补**第 6 部**。**年份字段说明**：`firstPublished` 记原作年 1995（*From Potter's Field*，「波特墓园」即 Potter's Field 的直译），`editionYear` 记所引中译本 2010。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-028",
+    "title": "首席女法医：致命暴露",
+    "originalTitle": "Unnatural Exposure",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1997",
+    "editionYear": "2011",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "又一具苍白的残骸出现在垃圾掩埋场，连环杀人案仍在继续；不久，绝迹多年的致病病毒在小岛上诡异出现，一名老妇人受感染卧尸在床，大规模疫情一触即发。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "疫病与鉴识结合的题材"
+      ],
+      "watchFor": [
+        "病毒的来源",
+        "掩埋场尸骸与疫情的关联"
+      ],
+      "warning": "法医题材长篇，含尸检、连环命案与疫病描写，为系列第 8 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版社 2011.01，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：本条补**第 8 部**（库内有 1～5 与第 7 部）。**年份字段说明**：`firstPublished` 记原作年 1997（*Unnatural Exposure*），`editionYear` 记所引中译本 2011。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-029",
+    "title": "首席女法医：终极辖区",
+    "originalTitle": "",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "alibi"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "有人上门夺命，女法医斯卡佩塔险中自卫，却引得舆论一片挞伐；百口莫辩之时，她又因一名女警官遇害而被警方列为嫌疑人。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "主角被怀疑的困局题材"
+      ],
+      "watchFor": [
+        "自卫那一刻的现场",
+        "女警官遇害的时间线"
+      ],
+      "warning": "法医题材长篇，含命案与主角被指控的情节，为系列长篇之一。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2011.09，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**年份字段说明**：`editionYear` 记所引中译本 2011；`firstPublished` **留空**——馆藏未给出原题名，中译名与原作的对应**未核实**，按既定做法不冒填。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-030",
+    "title": "首席女法医：黑色通告",
+    "originalTitle": "Black Notice",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1999",
+    "editionYear": "2011",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "阳光和美景如今只为他人存在，我的生命徒留冷酷；一具从海上集装箱里送来的尸体，把斯卡佩塔带向一份国际通报。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "跨国案件题材的读者"
+      ],
+      "watchFor": [
+        "集装箱尸体的来历",
+        "国际通报覆盖的范围"
+      ],
+      "warning": "法医题材长篇，含尸检与跨国命案描写，为系列第 10 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2011.07，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：本条补**第 10 部**。**年份字段说明**：`firstPublished` 记原作年 1999（*Black Notice*，「黑色通告」即原题直译），`editionYear` 记所引中译本 2011。**如实标注**：馆藏提要只摘了开头的抒情段落，`safeSummary` 据此重写并**未编造情节**。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-031",
+    "title": "首席女法医：绿头苍蝇",
+    "originalTitle": "Blow Fly",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2003",
+    "editionYear": "2012",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "凯·斯卡佩塔把一只小玻璃瓶移近烛光，照亮一条在酒精中沉浮的蛆；只消一眼，她已判断出这只乳白色虫尸在哪个变态阶段被装进样本瓶。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "法医昆虫学细节的读者"
+      ],
+      "watchFor": [
+        "昆虫阶段与死亡时间的对应",
+        "样本瓶的送检路径"
+      ],
+      "warning": "法医题材长篇，含尸检与命案描写，为系列第 12 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2012.01，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：本条补**第 12 部**。**年份字段说明**：`firstPublished` 记原作年 2003（*Blow Fly*，「绿头苍蝇」即原题直译，与提要中的蛆虫情节吻合），`editionYear` 记所引中译本 2012。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-032",
+    "title": "首席女法医13：微物证据",
+    "originalTitle": "Trace",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2004",
+    "editionYear": "2012",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "城市老建筑正被推土机和挖掘机粗暴地铲平，斯卡佩塔为眼前的一幕停下租来的车；与此同时，一桩与微量物证有关的案子等着她。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "微量物证题材的读者"
+      ],
+      "watchFor": [
+        "现场取到的微量物证",
+        "被拆除的建筑与案件的关联"
+      ],
+      "warning": "法医题材长篇，含尸检与命案描写，为系列第 13 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2012.07，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：中译名**自带部次「13」**，与本条 `originalTitle` *Trace*（系列第 13 部）一致，互为佐证。**年份字段说明**：`firstPublished` 记原作年 2004（*Trace*），`editionYear` 记所引中译本 2012。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-033",
+    "title": "首席女法医14：掠食者",
+    "originalTitle": "Predator",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "editionYear": "2012",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "医生案：一位脑神经医生疑似自杀，曾出现在现场的枪却不见了。教会案：神秘教会中一家四口离奇失踪，家中只发现铜喷剂和耳印。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "失踪与自杀疑云题材的读者"
+      ],
+      "watchFor": [
+        "失踪案现场留下的两样物证",
+        "医生案中消失的枪"
+      ],
+      "warning": "法医题材长篇，含尸检、失踪与命案描写，为系列第 14 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2012.10，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：中译名自带部次「14」，与 `originalTitle` *Predator*（系列第 14 部）一致。**年份字段说明**：`firstPublished` 记原作年 2005（*Predator*），`editionYear` 记所引中译本 2012。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-034",
+    "title": "首席女法医16：猎杀斯卡佩塔",
+    "originalTitle": "Scarpetta",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "editionYear": "2013",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "vigilante"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一名侏儒少女被勒死，脚上系着一条金链子，和几年前两起勒杀案中受害人脚上的链子一模一样；死者遗物显示她与「斯卡佩塔」频繁通信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "连环案并案题材的读者"
+      ],
+      "watchFor": [
+        "金链子这一标记",
+        "死者与斯卡佩塔之间的通信"
+      ],
+      "warning": "法医题材长篇，含勒杀与命案描写，为系列第 16 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2013.08，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：中译名自带部次「16」，与 `originalTitle` *Scarpetta*（系列第 16 部）一致。**年份字段说明**：`firstPublished` 记原作年 2008（*Scarpetta*），`editionYear` 记所引中译本 2013。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "facet138-035",
+    "title": "首席女法医17：致命基因",
+    "originalTitle": "The Bone Bed",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2010",
+    "editionYear": "2014",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡佩塔",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一位名媛失踪三周，调查毫无进展；一名慢跑者被抛尸公园，解剖结果却与警方掌握的证据大相径庭；负责两案的法医收到了炸弹。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "法医与警方证据冲突的题材"
+      ],
+      "watchFor": [
+        "解剖结论与警方证据的分歧",
+        "失踪名媛的社交圈"
+      ],
+      "warning": "法医题材长篇，含抛尸、爆炸威胁与命案描写，为系列第 17 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**重庆工商大学图书馆 OPAC**（经主题词枚举渠道发现）：帕特丽夏·康薇尔著，南海出版公司 2014.05，丛编项「新经典文库·康薇尔作品」。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代 ; 推理小说 ; 长篇小说」**（第①类，最硬）；②**中图分类号 `I712.45`**。**作者写法统一**：沿用库内写法「帕特里夏·康薇尔」。**系列位置**：中译名自带部次「17」，与 `originalTitle` *The Bone Bed*（系列第 17 部）一致。**年份字段说明**：`firstPublished` 记原作年 2010（*The Bone Bed*），`editionYear` 记所引中译本 2014。"
+    },
+    "provenance": {
+      "source": "batch-138-opac10.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

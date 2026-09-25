@@ -1,0 +1,1790 @@
+[
+  {
+    "id": "westnew-001",
+    "title": "达·芬奇密码",
+    "originalTitle": "The Da Vinci Code",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2003",
+    "series": "罗伯特·兰登系列",
+    "detective": "罗伯特·兰登、索菲·奈芙",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "historical-setting",
+      "series-detective",
+      "adventure",
+      "concealment",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "博物馆馆长在馆内被杀，尸体被摆成一个只有懂符号学的人才能读懂的姿势。被卷进来的教授与密码学家要在一天之内顺着这些符号走下去，而追他们的人也在顺着同一条线。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 214757,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1040771/",
+        "subjectId": "1040771",
+        "edition": "达·芬奇密码 2004",
+        "fetchedAt": "2026-09-22T11:24:31.473Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密码与艺术史谜题的读者",
+        "能接受快节奏追逃情节的读者"
+      ],
+      "watchFor": [
+        "尸体被摆出的那个姿势",
+        "每处符号指向的下一个地点",
+        "谁在替谁提供线索"
+      ],
+      "warning": "冒险悬疑，节奏极快，含宗教议题与暴力场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2009（达·芬奇密码／(美) 丹·布朗著 DAN BROWN）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "westnew-002",
+    "title": "天使与魔鬼",
+    "originalTitle": "Angels & Demons",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "冒险悬疑",
+    "firstPublished": "2000",
+    "series": "罗伯特·兰登系列",
+    "detective": "罗伯特·兰登",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "historical-setting",
+      "series-detective",
+      "adventure",
+      "timetable",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "logic-school"
+    ],
+    "safeSummary": "一件被窃的样品、一个重新现身的古老组织，以及一位即将选出新领袖的宗教城邦。符号学教授被请来 decipher 一条线索，而线索指向的地点在逐个应验。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 13845,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3654604/",
+        "subjectId": "3654604",
+        "edition": "天使与魔鬼 2009",
+        "fetchedAt": "2026-09-22T11:24:42.344Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢限时解谜的读者",
+        "丹·布朗的读者"
+      ],
+      "watchFor": [
+        "线索给出的时间点",
+        "几个地点的排列",
+        "谁对这套古老符号最熟"
+      ],
+      "warning": "冒险悬疑，含宗教议题、暴力与惊险场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-003",
+    "title": "数字城堡",
+    "originalTitle": "Digital Fortress",
+    "author": "丹·布朗",
+    "authorEn": "Dan Brown",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1998",
+    "series": "",
+    "detective": "苏珊·弗莱彻",
+    "country": "美国",
+    "tags": [
+      "cipher",
+      "concealment",
+      "dual-role",
+      "red-herring",
+      "city",
+      "timetable",
+      "identity"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "情报机构手中有一台能破译一切密码的机器，直到有一天它遇到了一段破不开的东西。而这段东西的制作者提出的条件，让机构在解与不解之间都无法脱身。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 23837,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1057206/",
+        "subjectId": "1057206",
+        "edition": "数字城堡 2004",
+        "fetchedAt": "2026-09-22T11:24:46.373Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对密码学题材感兴趣的读者",
+        "丹·布朗的读者"
+      ],
+      "watchFor": [
+        "那段破不开的东西的传递方式",
+        "机构内部谁最先知道",
+        "制作者提出的条件本身"
+      ],
+      "warning": "技术惊悚，含暴力与阴谋情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-004",
+    "title": "人骨拼图",
+    "originalTitle": "The Bone Collector",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1997",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "timetable",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "silencing"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "一名全身瘫痪、只能靠一根手指操作的刑事鉴定专家，通过电话指挥现场的女警取证。对方留下的每一处痕迹都像是有意留下的，而它们连起来指向下一个地点。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 2164,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24859588/",
+        "subjectId": "24859588",
+        "edition": "人骨拼图 2013",
+        "fetchedAt": "2026-09-22T11:24:52.135Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对刑事鉴识细节感兴趣的读者",
+        "喜欢猫鼠博弈叙事的读者"
+      ],
+      "watchFor": [
+        "现场痕迹被留下的方式",
+        "各处现场之间的地理关系",
+        "谁掌握着鉴定专家的旧资料"
+      ],
+      "warning": "刑侦惊悚，含详细罪案现场与暴力描写，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2009.01（人骨拼图／(美) 杰夫里·迪弗著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2009"
+  },
+  {
+    "id": "westnew-005",
+    "title": "棺材舞者",
+    "originalTitle": "The Coffin Dancer",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1998",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "dual-role",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "一个以善于变换身份著称的杀手接下了活，而警方只有两天时间把目标保住。莱姆要做的不是找线索，而是从对方每次改变手法的规律里预判他下一步会怎么做。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 1595,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3130847/",
+        "subjectId": "3130847",
+        "edition": "棺材舞者 2008",
+        "fetchedAt": "2026-09-22T11:24:58.005Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢限时保护与预判题材的读者"
+      ],
+      "watchFor": [
+        "杀手每次改变的手法",
+        "保护方案里被公开的那部分",
+        "谁有机会接触到方案"
+      ],
+      "warning": "刑侦惊悚，含暴力与爆炸场面。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-006",
+    "title": "空椅子",
+    "originalTitle": "The Empty Chair",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2000",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "countryside",
+      "red-herring",
+      "dark-atmosphere",
+      "silencing",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "莱姆到外地接受手术，却卷进了当地的一桩绑架案。他只能靠远程指挥和一张不断更新的地图工作，而案发地的地形让「谁去过哪里」变得极难确认。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 1370,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3130849/",
+        "subjectId": "3130849",
+        "edition": "空椅子 2008",
+        "fetchedAt": "2026-09-22T11:25:03.990Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢地域与追捕结合的读者"
+      ],
+      "watchFor": [
+        "当地地形与路线选择",
+        "证据传递到莱姆手上的延迟",
+        "被当成「已知」而没核实的事"
+      ],
+      "warning": "刑侦惊悚，含暴力与昆虫学细节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-007",
+    "title": "石猴子",
+    "originalTitle": "The Stone Monkey",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2002",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "city",
+      "red-herring",
+      "dark-atmosphere",
+      "concealment",
+      "cruise-ship"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "一艘货轮靠岸后，船上的偷渡者四散进入城市，而其中混着一个以杀人为业的人。莱姆要在这些人被逐个找到之前，弄清谁是猎人、谁是猎物。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 945,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3130853/",
+        "subjectId": "3130853",
+        "edition": "石猴子 2008",
+        "fetchedAt": "2026-09-22T11:25:10.050Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "对唐人街社群题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "船上人员的名单与顺序",
+        "谁在案发前就知道船期",
+        "目击者对同一人的描述差异"
+      ],
+      "warning": "刑侦惊悚，含偷渡、暴力与族群议题描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-008",
+    "title": "第十二张牌",
+    "originalTitle": "The Twelfth Card",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "cipher",
+      "historical-setting",
+      "city",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "一名高中女生在图书馆遭到袭击，而她当时正在查一份一百多年前的旧文件。莱姆发现，要弄清谁想让她闭嘴，得先弄清那份文件里到底写了什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 448,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34970027/",
+        "subjectId": "34970027",
+        "edition": "第十二张牌 2020",
+        "fetchedAt": "2026-09-22T11:25:16.270Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢旧文献与当代案件串联的读者"
+      ],
+      "watchFor": [
+        "那份旧文件的借阅记录",
+        "女生查它的起因",
+        "文件里被涂改的部分"
+      ],
+      "warning": "刑侦惊悚，含种族与历史议题，暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2020（第十二张牌／(美)杰夫里·迪弗著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "westnew-009",
+    "title": "冷月",
+    "originalTitle": "The Cold Moon",
+    "author": "杰夫里·迪弗",
+    "authorEn": "Jeffery Deaver",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2006",
+    "series": "林肯·莱姆系列",
+    "detective": "林肯·莱姆、阿米莉亚·萨克斯",
+    "country": "美国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "timetable",
+      "red-herring",
+      "city",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "凶手在现场留下一只停摆的钟，而每次作案的时间都与钟面所指的时刻吻合。莱姆要在这套时间表走完之前，弄清它到底在倒计时什么。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 770,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34974702/",
+        "subjectId": "34974702",
+        "edition": "冷月 2020",
+        "fetchedAt": "2026-09-22T11:25:19.996Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢时刻表型谜面的读者"
+      ],
+      "watchFor": [
+        "钟面时刻与案发时间的对应",
+        "被留下的钟的型号",
+        "谁买过同款"
+      ],
+      "warning": "刑侦惊悚，含暴力与钟表知识。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2020（冷月／(美) 杰夫里·迪弗著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "westnew-010",
+    "title": "思考机器探案集之寒鸦女郎",
+    "originalTitle": "",
+    "author": "杰克·福翠尔",
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "1907",
+    "series": "思考机器系列",
+    "detective": "奥古斯都·范杜森教授",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "locked-room",
+      "red-herring",
+      "cipher"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。一位被称作「思考机器」的教授从不跑现场，他只让记者把事情的经过复述一遍，然后指出其中哪一句话在逻辑上不可能同时成立。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 616,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3314834/",
+        "subjectId": "3314834",
+        "edition": "思考机器探案集之寒鸦女郎 2009年1月",
+        "fetchedAt": "2026-09-22T11:25:23.683Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢纯逻辑推演短篇的读者",
+        "对黄金时代之前的美国推理感兴趣的读者"
+      ],
+      "watchFor": [
+        "复述里的时间与距离",
+        "被当作常识的物理事实",
+        "教授发问的那一句"
+      ],
+      "warning": "二十世纪初作品，短篇集，各篇独立，重逻辑不重人物。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "westnew-011",
+    "title": "逃出十三号牢房",
+    "originalTitle": "The Problem of Cell 13",
+    "author": "杰克·福翠尔",
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "1905",
+    "series": "思考机器系列",
+    "detective": "奥古斯都·范杜森教授",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "cipher"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "教授与朋友打赌：把他关进一所监狱的死囚牢房，他也能在一周内自己走出来。他随身只带了一点点东西，而被允许做的只有写信。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 104,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6892443/",
+        "subjectId": "6892443",
+        "edition": "逃出十三号牢房 2012",
+        "fetchedAt": "2026-09-22T11:25:27.061Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室与逃脱题材爱好者",
+        "想读推理史上名篇的读者"
+      ],
+      "watchFor": [
+        "他带进去的那几样东西",
+        "每封信的内容与收信人",
+        "牢房里被忽略的物理条件"
+      ],
+      "warning": "一九〇五年的经典短篇，谜面是「如何从死囚牢房脱身」。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：哈尔滨:,哈尔滨出版社:,2016（逃出十三号牢房／(美) 杰克·福翠尔著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2016"
+  },
+  {
+    "id": "westnew-012",
+    "title": "死亡与魔术师",
+    "originalTitle": "Death and the Conjuror",
+    "author": "汤姆·米德",
+    "authorEn": "Tom Mead",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "约瑟夫·斯佩克特系列",
+    "detective": "约瑟夫·斯佩克特",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "theater",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "historical-setting"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名精神病医生在自家的会客室里身亡，而门从内侧反锁、窗外没有落脚点。被请来帮忙的是一位退休魔术师，他判断现场的方式和别人不太一样。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 580,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37092926/",
+        "subjectId": "37092926",
+        "edition": "死亡与魔术师 2025",
+        "fetchedAt": "2026-09-22T11:25:34.288Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "喜欢黄金时代风格的读者"
+      ],
+      "watchFor": [
+        "会客室的窗与锁",
+        "来访者的名单",
+        "魔术师对「观众看哪里」的提示"
+      ],
+      "warning": "致敬黄金时代的密室长篇，背景设在二十世纪三十年代的伦敦。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海文化出版社 2025（馆藏题名「死亡与魔术师」／米德）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "westnew-013",
+    "title": "谋杀之轮",
+    "originalTitle": "The Murder Wheel",
+    "author": "汤姆·米德",
+    "authorEn": "Tom Mead",
+    "genre": "本格推理",
+    "firstPublished": "2023",
+    "series": "约瑟夫·斯佩克特系列",
+    "detective": "约瑟夫·斯佩克特",
+    "country": "英国",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "multiple-solutions",
+      "theater",
+      "red-herring",
+      "honkaku",
+      "historical-setting"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一名观众在游乐场的转轮装置上、众目睽睽之下身亡，而装置当时正在运转。退休魔术师斯佩克特要解释的是：在那样的条件下，动手的时机存在于哪一瞬间。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 394,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37092927/",
+        "subjectId": "37092927",
+        "edition": "谋杀之轮 2025",
+        "fetchedAt": "2026-09-22T11:25:37.751Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "约瑟夫·斯佩克特系列的读者",
+        "喜欢「众目睽睽下作案」谜面的读者"
+      ],
+      "watchFor": [
+        "装置的运转周期",
+        "观众各自能看到的角度",
+        "谁在案发前提议去玩这个"
+      ],
+      "warning": "本格长篇，密室与「当众作案」谜面，背景为二十世纪三十年代。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海文化出版社 2025（馆藏题名「谋杀之轮」／米德）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "gulik-001",
+    "title": "大唐狄公案",
+    "originalTitle": "Celebrated Cases of Judge Dee",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1949",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "historical-setting",
+      "concealment",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "唐代县令狄仁杰断案的故事。作者是荷兰外交官，按中国公案小说的体例来写，每桩案子都从堂上的一次问话开始，靠勘验与讯问一层层剥开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.9,
+        "count": 4377,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3124386/",
+        "subjectId": "3124386",
+        "edition": "大唐狄公案 2008",
+        "fetchedAt": "2026-09-22T11:25:41.358Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢中国古代公案题材的读者",
+        "对唐代社会细节感兴趣的读者"
+      ],
+      "watchFor": [
+        "堂上各人的供词差异",
+        "勘验记录里被略过的部分",
+        "狄公故意放出去的话"
+      ],
+      "warning": "历史推理，含刑讯与命案描写；作者以西方人身份摹写中国公案体例，笔法自成一路。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-63-west-audit.json#westaudit63-006"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    }
+  },
+  {
+    "id": "gulik-002",
+    "title": "黄金案",
+    "originalTitle": "The Chinese Gold Murders",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1959",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "historical-setting",
+      "gain",
+      "concealment",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "狄仁杰赴任途中遇到一桩前任县令失踪的旧事，而当地能说话的人都不愿多谈。他就任后第一件事不是升堂，而是把县衙的旧档翻了一遍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 4859,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30281429/",
+        "subjectId": "30281429",
+        "edition": "黄金案 2019",
+        "fetchedAt": "2026-09-22T11:25:49.196Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢地方官断案结构的读者"
+      ],
+      "watchFor": [
+        "前任留下的文书",
+        "当地几户人家的关系",
+        "谁在狄公到任前清理过东西"
+      ],
+      "warning": "历史推理，含命案与走私题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2019（黄金案／(荷) 高罗佩著 ROBERT VAN GULIK）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-15-world-mystery.json#world2-010"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "gulik-003",
+    "title": "湖滨案",
+    "originalTitle": "The Chinese Lake Murders",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1960",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "cruise-ship"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "湖边的县城里，一场宴席上死了人，而同一时期湖上也不太平。狄公把两件事并在一起看，因为他发现两边提到的是同一艘船。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 3171,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30457506/",
+        "subjectId": "30457506",
+        "edition": "湖滨案 2019",
+        "fetchedAt": "2026-09-22T11:25:54.908Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢水上与宴席场景的读者"
+      ],
+      "watchFor": [
+        "宴席上的座次",
+        "湖上船只的往来记录",
+        "同一艘船被两次提到的地方"
+      ],
+      "warning": "历史推理，含命案与走私题材。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2019（湖滨案／(荷) 高罗佩著 ROBERT VAN GULIK）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "gulik-004",
+    "title": "铜钟案",
+    "originalTitle": "The Chinese Bell Murders",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1958",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "legal-thriller"
+    ],
+    "safeSummary": "一座寺院里有一口据说很灵验的大钟，围绕它积压了多年的旧案。狄公到任后把这几桩悬着的案子一并翻出来，先从最不可能的那一桩入手。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 2756,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30457505/",
+        "subjectId": "30457505",
+        "edition": "铜钟案 2019",
+        "fetchedAt": "2026-09-22T11:26:00.665Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢多案并进的读者"
+      ],
+      "watchFor": [
+        "积案的共同点",
+        "寺院与县衙的关系",
+        "那口钟在案中的实际作用"
+      ],
+      "warning": "历史推理，含命案、性犯罪与刑讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gulik-005",
+    "title": "迷宫案",
+    "originalTitle": "The Chinese Maze Murders",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1956",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "mansion",
+      "cipher",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一位已故的官员把遗产的线索藏在一幅画里，而后人谁也读不出来。狄公接手这件事的同时，还要处理发生在同一座宅子里的另一桩案子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 2313,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30457508/",
+        "subjectId": "30457508",
+        "edition": "迷宫案 2019",
+        "fetchedAt": "2026-09-22T11:26:06.757Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢图谶与藏宝谜题的读者",
+        "大唐狄公案系列的读者"
+      ],
+      "watchFor": [
+        "那幅画上的细节",
+        "宅子里的实际路径",
+        "谁读懂了画却没说出来"
+      ],
+      "warning": "历史推理，含命案与宅邸机关描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gulik-006",
+    "title": "铁钉案",
+    "originalTitle": "The Chinese Nail Murders",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1961",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions",
+      "forensic",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "forensic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一具被匆匆下葬的遗体让狄公起了疑，他决定开棺勘验。在那个年代，这一步意味着要担下极大的干系，而验出来的东西又与所有人的说法都对不上。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.6,
+        "count": 2424,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30457504/",
+        "subjectId": "30457504",
+        "edition": "铁钉案 2019",
+        "fetchedAt": "2026-09-22T11:26:12.825Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "对古代勘验手段感兴趣的读者"
+      ],
+      "watchFor": [
+        "下葬的匆忙之处",
+        "勘验记录与口供的冲突",
+        "谁反对开棺"
+      ],
+      "warning": "历史推理，含开棺验尸与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "gulik-007",
+    "title": "广州案",
+    "originalTitle": "Murder in Canton",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1966",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "city",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "狄公被派往南方的通商大城处理一桩牵涉外商与本地官员的案子。他发现在这里，同一件事在衙门、商行和船上各有一套完全不同的说法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 1061,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523202/",
+        "subjectId": "35523202",
+        "edition": "广州案 2021",
+        "fetchedAt": "2026-09-22T11:26:16.836Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "对唐代对外贸易感兴趣的读者"
+      ],
+      "watchFor": [
+        "三套说法各自的立场",
+        "货物的流转记录",
+        "谁在两边都有关系"
+      ],
+      "warning": "历史推理，含命案、走私与政治阴谋。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,海南出版社:,2011（馆藏题名「大唐狄公案,广州案」／高罗佩著）。馆藏以「大唐狄公案,广州案」为完整题名，即《大唐狄公案》中的《广州案》一卷。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填，并经 `scripts/audit-edition-year.mjs` 逐条复核（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "gulik-008",
+    "title": "朝云观",
+    "originalTitle": "The Haunted Monastery",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "1961",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "mansion",
+      "locked-room",
+      "multiple-solutions",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "狄公一行因雨借宿在一座道观里，观中有一处不许外人进入的殿宇。当夜出了事，而他第二天做的第一件事是把观里的房屋逐间走了一遍。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 1748,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35033071/",
+        "subjectId": "35033071",
+        "edition": "朝云观 2020",
+        "fetchedAt": "2026-09-22T11:26:22.564Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案系列的读者",
+        "喜欢禁地与封闭场所谜面的读者"
+      ],
+      "watchFor": [
+        "道观的房屋布局",
+        "不许进入的那处",
+        "观中道士各自的差事"
+      ],
+      "warning": "历史推理，含命案与宗教场所描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2020（朝云观／(荷) 高罗佩著 ROBERT VAN GULIK）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-49-western-new.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  }
+]

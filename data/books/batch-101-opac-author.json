@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "opac101-001",
+    "title": "忌物堂诡谈",
+    "originalTitle": "",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "宫里由羽希",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "narrative-trick",
+      "fear",
+      "dark-atmosphere",
+      "curiosity"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "宫里由羽希被看不见的「沙行者」缠上，独自来到形同废墟般诡异冷清的遗佛寺求助。要厘清前因后果、解开诅咒，她得一个接一个地听下去——如同百物语一般。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "三津田信三的读者",
+        "怪谈与百物语结构的爱好者"
+      ],
+      "watchFor": [
+        "「沙行者」出现的规律",
+        "寺里那些夜谈的故事",
+        "几个故事之间的关联"
+      ],
+      "warning": "怪谈式推理长篇，氛围阴冷，含诅咒、失踪与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001081938**（江苏凤凰文艺出版社 2025.11，译者李雨萍）。**推理属性判据**：**学科主题「推理小说-日本-现代」**（与该馆对三津田信三其余各册的著录一致）。该馆**编目提要**述及主人公被「沙行者」缠上、赴遗佛寺求助并以百物语式夜谈推进——梗概由整理者据此自行重写。**题材判读来源说明**：本轮豆瓣改为返回 `HTTP 403 登录跳转页`，无法取内容简介，本条的书目、题材判据与梗概依据**全部来自馆藏著录**；评分待访问恢复后回填。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac101-002",
+    "title": "怪谈研究室",
+    "originalTitle": "",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "刀城言耶系列",
+    "detective": "瞳星爱",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "series-detective",
+      "red-herring",
+      "fear",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school",
+      "logic-school"
+    ],
+    "safeSummary": "全书五个推理故事，建立在刀城言耶系列之上。瞳星爱儿时听过一个传说：外婆家所在的小镇有一条被称为「亡者路」的沿海公路，傍晚会有「亡者」在上面摇摇晃晃地行走。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刀城言耶系列的读者",
+        "怪谈与推理结合的爱好者"
+      ],
+      "watchFor": [
+        "「亡者路」传说的细节",
+        "五个故事的共同背景",
+        "瞳星爱的调查方式"
+      ],
+      "warning": "推理短篇集（五个故事），怪谈氛围，含死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001044504**（北京日报出版社 2024.12，译者曹逸冰）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「全书共包含**五个推理故事**，建立在作者曾经创作的**刀城言耶系列**之上」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "opac101-003",
+    "title": "密室·自闭之物",
+    "originalTitle": "",
+    "author": "三津田信三",
+    "authorEn": "Mitsuda Shinzo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "red-herring",
+      "multiple-solutions",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "猪丸家突然出现一个谜一样的女子苇子；紧接着，猪丸家二楼的密室杀人案发生了——谜一样的「红箱子」，惊呆的被害者。全书收录四个短篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "三津田信三的读者",
+        "密室题材爱好者"
+      ],
+      "watchFor": [
+        "苇子的来历",
+        "二楼密室的出入条件",
+        "那只「红箱子」"
+      ],
+      "warning": "推理短篇集（四篇），含密室凶案与怪谈氛围描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000341052**（吉林出版集团有限责任公司 2013.02，译者张舟）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**开篇即「日本**推理小说**短篇集」，并述及猪丸家二楼的**密室**杀人案。梗概由整理者据此自行重写。**侦探字段留空**：提要未点明查案者。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "opac101-004",
+    "title": "名侦探原田亘",
+    "originalTitle": "",
+    "author": "白井智之",
+    "authorEn": "Shirai Tomoyuki",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "古城伦道、原田亘",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "narrative-trick",
+      "dual-role",
+      "red-herring",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "明治年间的「半脑推理天才」名侦探古城伦道，因被助手背叛过一次，决心此后再也不雇助手。机缘巧合之下，他来到现代，遇到了自己的崇拜者原田亘。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "白井智之的读者",
+        "设定系与元推理爱好者"
+      ],
+      "watchFor": [
+        "古城伦道为何不再雇助手",
+        "两人外表年龄相仿的缘由",
+        "「半脑」带来的能力与代价"
+      ],
+      "warning": "本格推理长篇，跨时代设定，含凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000908561**（人民文学出版社 2022，译者吕文开）。**推理属性判据**：**学科主题「侦探小说-日本-现代」**；该馆**编目提要**述及「明治年间的『半脑**推理**天才』名**侦探**古城伦道」来到现代。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "opac101-005",
+    "title": "明智恭介的疑案",
+    "originalTitle": "",
+    "author": "今村昌弘",
+    "authorEn": "Imamura Masahiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "明智恭介、叶村让",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "campus",
+      "red-herring",
+      "multiple-solutions",
+      "youth"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "五篇悬疑推理小说，时间倒回到明智恭介死亡之前。大学一年级的叶村让在明智恭介的招揽下加入了推理爱好者协会，两人一同承担起侦破当地案件的差事。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "今村昌弘的读者",
+        "校园推理的爱好者"
+      ],
+      "watchFor": [
+        "推理爱好者协会的活动",
+        "当地几桩小案的共同点",
+        "明智恭介的推理风格"
+      ],
+      "warning": "推理短篇集（五篇），含凶案与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001081660**（北京联合出版公司 2025.09，译者吕灵芝）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写「本书共收录了五篇**悬疑推理小说**……加入了**推理**爱好者协会」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac101-006",
+    "title": "犯人IA",
+    "originalTitle": "",
+    "author": "早坂吝",
+    "authorEn": "Hayasaka Rei",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "相以、以相",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "series-detective",
+      "narrative-trick",
+      "red-herring",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "人工智能领域的天才学者合尾创不幸被一场大火吞噬，他给儿子合尾辅留下了两个 AI——侦探「相以」与犯人「以相」。一个专职犯罪，一个破解真相，双胞胎 AI 姐妹通过对战不断成长。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "早坂吝的读者",
+        "设定系推理的爱好者"
+      ],
+      "watchFor": [
+        "两姐妹各自的设定边界",
+        "合尾创留下它们的用意",
+        "每一轮「对战」的规则"
+      ],
+      "warning": "设定系本格推理，人工智能题材，含纵火与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000957457**（新星出版社 2020.12，译者王皎娇）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**明写两个 AI「**侦探**相以与**犯人**以相」。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "opac101-007",
+    "title": "爱丽丝罪恶奇境",
+    "originalTitle": "",
+    "author": "早坂吝",
+    "authorEn": "Hayasaka Rei",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "爱丽丝",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "nursery-rhyme",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "十岁生日当天，爱丽丝跟着白兔加入了一场致命游戏。若想离开游戏中的「罪恶奇境」，她必须在二十四小时内破解五道难解谜题，第一道就是密室逃脱。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "早坂吝的读者",
+        "童话改写与解谜题材的爱好者"
+      ],
+      "watchFor": [
+        "五道谜题各自的规则",
+        "奇境里的时间限制",
+        "白兔引路的用意"
+      ],
+      "warning": "本格推理长篇，童话改写设定，含致命游戏与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000917194**（文汇出版社 2022.4，译者潘郁灵）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及爱丽丝须在二十四小时内破解五道谜题（第一道为**密室**逃脱）。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "opac101-008",
+    "title": "乐园是侦探不在的地方",
+    "originalTitle": "",
+    "author": "斜线堂有纪",
+    "authorEn": "Shasen-do Yuki",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "青岸焦",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "series-detective",
+      "legend-folklore",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "这是一个杀死两人及以上、杀人者便会被天使拖入地狱的世界。靠经营侦探事务所勉强度日的青岸焦，受想知道「天国是否存在」的大富豪常木王凯之邀，来到天使聚集的常世岛。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "斜线堂有纪的读者",
+        "设定系推理爱好者"
+      ],
+      "watchFor": [
+        "「天使拖入地狱」这条规则的边界",
+        "常世岛上的连续案件",
+        "常木王凯真正的目的"
+      ],
+      "warning": "设定系推理长篇，含连续凶案与死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000923532**（新星出版社 2022，译者林雅）。**推理属性判据**：**学科主题「推理小说-日本-现代」**；该馆**编目提要**述及主角经营**侦探**事务所、受邀请前往常世岛。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "opac101-009",
+    "title": "不做也没关系的作业",
+    "originalTitle": "",
+    "author": "结城真一郎",
+    "authorEn": "Yuki Shinichiro",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "数斗、内藤",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "red-herring",
+      "curiosity",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "五年级一班来了一位神秘的转学生。内藤同学长得可爱、头脑聪明、体育拔尖，唯独从不肯谈论自己的事。面对同桌数斗的屡屡试探，她提出了一个奇怪的条件。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "少年推理的读者",
+        "结城真一郎的读者"
+      ],
+      "watchFor": [
+        "内藤提出的条件",
+        "她不肯谈自己的原因",
+        "数斗试探的方式"
+      ],
+      "warning": "少年向推理中篇，题材温和，含谜题与轻微悬念。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001088347**（新星出版社 2026，译者史诗）。**推理属性判据**：**学科主题「儿童小说-推理小说-日本-现代」**——注意这本被著录为**儿童文学下的推理小说**（中图法 I313.84 儿童文学），是**少年向推理**而非成人向；题材仍是推理。该馆**编目提要**述及神秘转学生与「答出题目」的条件。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  },
+  {
+    "id": "opac101-010",
+    "title": "我来说出真相",
+    "originalTitle": "",
+    "author": "结城真一郎",
+    "authorEn": "Yuki Shinichiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "social-commentary",
+      "psychological-misdirection",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "以现代日本社会常见的议题为题，写不同于以往的新式动机与诡计。《惨者面谈》里，在家教中介兼职的大学生去一户想找家教的人家拜访，却发现这家的母亲行为诡异。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派短篇的读者",
+        "结城真一郎的读者"
+      ],
+      "watchFor": [
+        "每一篇的「议题」",
+        "叙述者隐瞒了什么",
+        "各篇里那句「真相」"
+      ],
+      "warning": "推理短篇集，社会题材，含凶案与阴暗人性描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000994931**（九州出版社 2023.9，译者烨伊）。**推理属性判据**：**学科主题「推理小说-小说集-日本-现代」**；该馆**编目提要**明写本书「描绘出不同于以往的新式**动机和诡计**」，并给出《惨者面谈》一篇的开头。梗概由整理者据此自行重写。**侦探字段留空**：短篇集各篇独立。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "opac101-011",
+    "title": "套娃之夜",
+    "originalTitle": "",
+    "author": "阿津川辰海",
+    "authorEn": "Atsukawa Tatsumi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "若槻晴海",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "narrative-trick",
+      "meta-fiction",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "收录《危险的赌博～私家侦探·若槻晴海～》《以「二〇二一年度大学入学考试」为题的推理小说》《套娃之夜》《六个激动的口罩人》四篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "阿津川辰海的读者",
+        "作中作与元推理的爱好者"
+      ],
+      "watchFor": [
+        "若槻晴海这位私家侦探的做法",
+        "「以考试为题」那一篇的写法",
+        "四篇之间层套的关系"
+      ],
+      "warning": "推理短篇集（四篇），含凶案与赌博描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001055973**（北京联合出版公司 2025.06，译者钱剑锋）。**推理属性判据**：该馆**编目提要**列出收录篇目，其中两篇的标题本身即明写「**私家侦探**·若槻晴海」与「以『二〇二一年度大学入学考试』为题的**推理小说**」。**诚实标注**：该条 opac **学科主题只著录「短篇小说-小说集-日本-现代」，未归入推理类**；本条判据依赖提要中的篇目名与作者身份（库内已有阿津川辰海六部，其中《苍海馆事件》馆藏主题词为「推理小说」）。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2025"
+  },
+  {
+    "id": "opac101-012",
+    "title": "无人机侦探",
+    "originalTitle": "",
+    "author": "早坂吝",
+    "authorEn": "Hayasaka Rei",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "飞鹰六骑",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "curiosity",
+      "city",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "主人公飞鹰六骑是个无业青年：身高一百三十公分，体重三十斤，从小便停止了发育。受赞助的他能在巨大无人机的帮助之下穿梭于城市上空，并借此查案。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "早坂吝的读者",
+        "科技设定题材的爱好者"
+      ],
+      "watchFor": [
+        "无人机能做到与做不到的事",
+        "飞鹰六骑的身体条件带来的限制",
+        "几起案件的共同点"
+      ],
+      "warning": "本格推理长篇，含凶案与科技设定描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0000888081**（人民文学出版社 2021.7，译者警部殿）。**推理属性判据**：书名即含「**侦探**」；该馆**编目提要**述及主人公借助巨大无人机穿梭城市上空查案（提要原文以「利用科技和各…」截断）。**诚实标注**：该条 opac **学科主题只著录「长篇小说-日本-现代」，未归入推理类**；本条判据依赖书名、提要情节与作者身份（早坂吝，库内已有五部，本批另收其《犯人 IA》《爱丽丝罪恶奇境》两部，馆藏主题词均为「推理小说」）。梗概由整理者据此自行重写。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "opac101-013",
+    "title": "我是异类 你是怪物",
+    "originalTitle": "",
+    "author": "白井智之",
+    "authorEn": "Shirai Tomoyuki",
+    "genre": "变格",
+    "firstPublished": "",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "fear",
+      "dark-atmosphere",
+      "multiple-solutions"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录《巨掌恶魔》《莫蒂利亚之手》《少女杀人事件》《天使与怪物》《曾经的怪物》五个短篇。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "白井智之的读者",
+        "怪奇设定系推理的爱好者"
+      ],
+      "watchFor": [
+        "各篇的怪异设定",
+        "五篇之间的联系",
+        "每篇结尾的落点"
+      ],
+      "warning": "推理短篇集（五篇），设定怪奇、氛围阴暗，含死亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自扬州市图书馆 OPAC **marc 0001094786**（江苏凤凰文艺出版社 2026.1，译者吕灵芝；版权页题名作「我是异类，你是怪物」）。**推理属性判据**：作者白井智之为库内已收七部作品的**本格推理**作家（《名侦探原田亘》《象首迷宫》《东京结合人间》等）；该馆**编目提要**列出五个短篇篇目，其中含《少女杀人事件》。**诚实标注**：该条 opac **学科主题只著录「短篇小说-小说集-日本-现代」，未归入推理类**——本条判据**偏弱**，依赖作者身份与此前作品的一致性。梗概由整理者据此自行重写。**侦探字段留空**：短篇集各篇独立。**题材判读来源说明**：豆瓣本轮返回 403，本条依据**全部来自馆藏著录**。 **年份字段拆分（2026-09，方案 C）**：本条的 `editionYear` 原先是填在 `firstPublished` 里的，而那是**所引中译本的出版年**、不是作品首次出版年。按用户裁决把年份字段拆成两个——`firstPublished` 记作品原作年（**查不到就留空，不冒填**）、`editionYear` 记本库所引版本的出版年。原作年待豆瓣或馆藏恢复后按原作名逐条查证补入。详见 docs/collection-backlog.md 第十一节。"
+    },
+    "provenance": {
+      "source": "batch-101-opac-author.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2026"
+  }
+]

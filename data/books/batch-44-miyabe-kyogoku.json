@@ -1,0 +1,931 @@
+[
+  {
+    "id": "miyabe2-001",
+    "title": "理由",
+    "originalTitle": "理由",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "社会派",
+    "firstPublished": "1998",
+    "series": "",
+    "detective": "无固定侦探（多视角报道式）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "city",
+      "concealment",
+      "dual-line",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一栋普通的公寓楼里，一户人家的四口人全部身亡。媒体很快给出了几种解释，但没有一种能同时说通所有细节。小说用大量当事人的证言把这件事一层层剥开。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 2820,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26639968/",
+        "subjectId": "26639968",
+        "edition": "理由 2020",
+        "fetchedAt": "2026-09-22T10:42:13.728Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢报道式多视角叙事的读者",
+        "关注家庭与债务议题的读者"
+      ],
+      "watchFor": [
+        "每家住户的说法差异",
+        "这户人家搬进来的时间",
+        "谁在采访中刻意回避"
+      ],
+      "warning": "社会派长篇，人物众多，以证言拼图方式推进。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "miyabe2-002",
+    "title": "寂寞猎人",
+    "originalTitle": "淋しい狩人",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "社会派",
+    "firstPublished": "1994",
+    "series": "",
+    "detective": "无固定侦探（多视角）",
+    "country": "日本",
+    "tags": [
+      "city",
+      "social-commentary",
+      "concealment",
+      "psychological-misdirection",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "几起案件各自看起来都不复杂，麻烦的是它们牵扯到的人：独居的老人、被辞退的职员、跟家里断了联系很多年的人。查案的人越往下走，越要先弄清楚这些人是怎么被落下的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 1051,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30421822/",
+        "subjectId": "30421822",
+        "edition": "寂寞猎人 2019",
+        "fetchedAt": "2026-09-22T10:42:17.102Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派短篇的读者",
+        "宫部美雪的读者"
+      ],
+      "watchFor": [
+        "每起案件当事人的生活处境",
+        "被所有人忽略的那一步",
+        "结尾处没有再追究的部分"
+      ],
+      "warning": "社会派短篇集，各篇独立，基调沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南昌 百花洲文艺出版社 2019（馆藏题名「寂寞猎人」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2019"
+  },
+  {
+    "id": "miyabe2-003",
+    "title": "龙眠",
+    "originalTitle": "龍は眠る",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1991",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "identity",
+      "concealment",
+      "dark-atmosphere",
+      "youth"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一个男孩有一种说不清的能力：他能在握住别人手的时候看到一些不该看到的东西。这件事他一直藏着，直到有人开始利用它。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2086,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3070843/",
+        "subjectId": "3070843",
+        "edition": "龙眠 2008",
+        "fetchedAt": "2026-09-22T10:42:20.733Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "能接受超能力设定的读者",
+        "宫部美雪早期作品的读者"
+      ],
+      "watchFor": [
+        "男孩的能力边界",
+        "谁知道这件事",
+        "叙述者与男孩的关系"
+      ],
+      "warning": "含超能力设定与儿童受虐题材，基调阴暗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "miyabe2-004",
+    "title": "鸠笛草",
+    "originalTitle": "鳩笛草",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1995",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，主角都是拥有某种特殊感知能力的人。他们并未因此过得更好，反而要先学会一件事：怎么在不被当成异类的前提下，和这个能力共处。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 263,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35982989/",
+        "subjectId": "35982989",
+        "edition": "鸠笛草 2022",
+        "fetchedAt": "2026-09-22T10:42:26.007Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪短篇的读者",
+        "能接受特殊设定与温情基调并存"
+      ],
+      "watchFor": [
+        "每篇主角的能力边界",
+        "他们选择隐瞒还是使用",
+        "结尾处那个没有解释的动作"
+      ],
+      "warning": "短篇集，各篇独立，含特殊能力设定，基调温和。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：成都 四川科学技术出版社 2022（馆藏题名「鸠笛草」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "miyabe2-005",
+    "title": "小暮写真馆",
+    "originalTitle": "小暮写眞館",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "青春推理",
+    "firstPublished": "2010",
+    "series": "",
+    "detective": "无固定侦探（少年视角）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "first-person",
+      "city",
+      "concealment",
+      "psychological-misdirection",
+      "historical-setting"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "一家人搬进了父亲盘下的旧写真馆，店里留下的底片和相册没人动过。少年开始冲洗这些旧照片，而照片上的人与这栋房子的过去一件件对上了。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 419,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20471652/",
+        "subjectId": "20471652",
+        "edition": "小暮写真馆 2013",
+        "fetchedAt": "2026-09-22T10:42:29.265Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢青春成长与旧物题材的读者",
+        "宫部美雪的读者"
+      ],
+      "watchFor": [
+        "照片上的年份与人物",
+        "店里没被清理掉的东西",
+        "谁还在打听这家店"
+      ],
+      "warning": "青春向，含家庭变动与怀旧题材，暴力程度低。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 中信出版社 2013（馆藏题名「小暮写真馆」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "kyogoku2-001",
+    "title": "涂佛之宴·宴之支度",
+    "originalTitle": "塗仏の宴 宴の支度",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1998",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "legend-folklore",
+      "concealment",
+      "series-detective",
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "meta-school"
+    ],
+    "safeSummary": "一群人先后从各自的日常里消失，又在别处以另一个身份出现。京极堂面对的不再是单起案件，而是一整套让人自愿走进去的说法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 3988,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5395153/",
+        "subjectId": "5395153",
+        "edition": "涂佛之宴·宴之支度（上） 2011",
+        "fetchedAt": "2026-09-22T10:42:34.518Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读完京极堂系列前作的读者",
+        "能接受超长篇与大量议论的读者"
+      ],
+      "watchFor": [
+        "失踪者原本的生活处境",
+        "那套说法是谁先提出的",
+        "几个人的新身份之间有无交集"
+      ],
+      "warning": "京极堂系列最长的一部（分上下卷），人物与议论极多，建议按顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2011（馆藏题名「涂佛之宴 宴之支度 下」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2011"
+  },
+  {
+    "id": "kyogoku2-002",
+    "title": "邪魅之雫",
+    "originalTitle": "邪魅の雫",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2006",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "psychological-misdirection",
+      "series-detective",
+      "dark-atmosphere",
+      "concealment",
+      "ensemble",
+      "red-herring"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "几起死亡现场都留下了同一种痕迹，警方倾向于把它们并案，而京极堂先质疑的正是这个判断：让人把它们看成同一件事的，究竟是人，还是那个说法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1561,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26435483/",
+        "subjectId": "26435483",
+        "edition": "邪魅之雫（上） 2016",
+        "fetchedAt": "2026-09-22T10:42:37.794Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极堂系列的读者",
+        "对并案判断本身感兴趣的读者"
+      ],
+      "watchFor": [
+        "几起现场的相同与不同",
+        "谁最先提出并案",
+        "毒物在书中的来源"
+      ],
+      "warning": "京极堂系列长篇，含毒杀与民俗议论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "kyogoku2-003",
+    "title": "今昔续百鬼：云",
+    "originalTitle": "今昔続百鬼 雲",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2001",
+    "series": "百鬼夜行系列",
+    "detective": "多田克己、京极夏彦（作者自身登场）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "first-person",
+      "meta-fiction",
+      "historical-setting",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "短篇集，各篇独立。作者本人与民俗研究者一同去各地走访怪谈的现场，把听到的传闻与当地的实际地形、旧记录逐条对照。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 845,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25897664/",
+        "subjectId": "25897664",
+        "edition": "今昔续百鬼：云 2014",
+        "fetchedAt": "2026-09-22T10:42:43.414Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "对日本民俗怪谈感兴趣的读者",
+        "喜欢纪实风怪谈的读者"
+      ],
+      "watchFor": [
+        "传闻版本之间的差异",
+        "当地地形与传闻的对应",
+        "旧文献里最早的那条记载"
+      ],
+      "warning": "怪谈随笔式短篇集，含民俗考据，基调阴翳但无血腥。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2014（馆藏题名「今昔续百鬼 云」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "kyogoku2-004",
+    "title": "百鬼夜行：阳",
+    "originalTitle": "百鬼夜行 陽",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "2001",
+    "series": "百鬼夜行系列",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "ensemble",
+      "meta-fiction",
+      "dark-atmosphere",
+      "first-person",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "meta-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，每篇以一种妖怪为题。写的是与京极堂系列主线相关的那些人的侧面：他们各自的来处，以及他们是怎么走到今天这一步的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 2316,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26834481/",
+        "subjectId": "26834481",
+        "edition": "百鬼夜行——阳 2017",
+        "fetchedAt": "2026-09-22T10:42:46.758Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极堂系列的老读者",
+        "想补配角前史的读者"
+      ],
+      "watchFor": [
+        "每篇主角在主线中的位置",
+        "妖怪名与人物的对应",
+        "时间线落在主线的哪一段"
+      ],
+      "warning": "短篇集，各篇独立但均与系列主线相关，建议读完系列长篇再读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2017（馆藏题名「百鬼夜行 阳」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "kyogoku2-005",
+    "title": "后巷说百物语",
+    "originalTitle": "後巷説百物語",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "历史推理",
+    "firstPublished": "1999",
+    "series": "巷说百物语系列",
+    "detective": "山冈百介、又市",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "legend-folklore",
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "江户末年的夜里，有人把一桩桩被说成妖怪作祟的事讲给听者。而每一桩到最后都会落到具体的人身上：谁做了什么，以及为什么要把这件事说成妖怪。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 1961,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25815415/",
+        "subjectId": "25815415",
+        "edition": "后巷说百物语 2014",
+        "fetchedAt": "2026-09-22T10:42:50.169Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户时代怪谈的读者",
+        "「巷说百物语」系列的读者"
+      ],
+      "watchFor": [
+        "每则故事里那个「妖怪」的对应物",
+        "讲述者与事件的关系",
+        "结尾处人物的去向"
+      ],
+      "warning": "时代怪谈短篇连作，含江户市井与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2014（馆藏题名「后巷说百物语」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  },
+  {
+    "id": "kyogoku2-006",
+    "title": "续巷说百物语",
+    "originalTitle": "続巷説百物語",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "历史推理",
+    "firstPublished": "2001",
+    "series": "巷说百物语系列",
+    "detective": "山冈百介、又市",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "legend-folklore",
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "延续前作，仍是一则则被说成怪谈的旧事。这一次讲故事的人开始被卷进去：他记录的那些事，慢慢指向了他自己不愿提的一段过去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 1529,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25841848/",
+        "subjectId": "25841848",
+        "edition": "续巷说百物语 2014",
+        "fetchedAt": "2026-09-22T10:42:53.572Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「巷说百物语」系列的读者",
+        "喜欢连作结构的读者"
+      ],
+      "watchFor": [
+        "记录者自己的往事",
+        "各则故事之间的隐藏线索",
+        "又市每次出面做的事"
+      ],
+      "warning": "时代怪谈短篇连作，建议按系列顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2014（馆藏题名「续巷说百物语」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-44-miyabe-kyogoku.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2014"
+  }
+]

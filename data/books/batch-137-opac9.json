@@ -1,0 +1,759 @@
+[
+  {
+    "id": "author137-001",
+    "title": "博物院的秘密",
+    "originalTitle": "",
+    "author": "孙了红",
+    "authorEn": "Sun Liaohong",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "孙了红侦探小说系列",
+    "detective": "鲁平",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "red-herring",
+      "city",
+      "identity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "本书共包含四部小说：《眼镜会》《血纸人》《博物院的秘密》《乌鸦之画》，均为民国时期侦探小说家孙了红的作品。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说的读者",
+        "孙了红的读者"
+      ],
+      "watchFor": [
+        "四篇各自的谜面",
+        "民国时期的城市细节"
+      ],
+      "warning": "民国侦探小说集，含命案描写；所收《血纸人》库内另有单篇条目。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：孙了红著，中国文史出版社 2021，丛编项「**孙了红侦探小说系列**」。**推理属性判据**：①**检索行主题词为「侦探小说 小说集 中国 现代 ; 中篇小说 小说集 中国 现代 ; 短篇小说 小说集 中国 现代」**（第①类，最硬）；②**中图分类号 `I246.7`**；③丛编项为作者本人的侦探小说系列；④馆藏提要列明四篇篇目。**补作者缺口**：作者库内已有《蓝色响尾蛇》《血纸人》《三十三号魔屋》3 部。**跨库交叉**：所收《血纸人》库内已有单篇条目，按 §18.3「同一作品的不同选本算不同书目」处理。**年份字段说明**：本书为**民国作品的整理本**，`firstPublished` 记整理本出版年 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-002",
+    "title": "不可能犯罪诊断书.1",
+    "originalTitle": "",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "series": "山姆·霍桑医生系列（短篇集）",
+    "detective": "萨姆·霍桑",
+    "country": "美国",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "series-detective",
+      "countryside"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "年轻的萨姆·霍桑医生来到诺斯蒙特镇执业，比患者更早登门的是此地接连出现的各种离奇悬案；他从一九二二年开始，记录下每起经手的案子。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "不可能犯罪题材的读者",
+        "短篇本格的读者"
+      ],
+      "watchFor": [
+        "每篇的「不可能」之处如何成立",
+        "小镇人物的日常往来"
+      ],
+      "warning": "本格推理短篇集，含命案描写，为山姆·霍桑医生系列第 1 卷。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：爱德华·霍克著，湖南文艺出版社 2023.02。**推理属性判据**：①**检索行主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**（第①类，最硬）；②**中图分类号 `I712.45`**；③馆藏提要写明「隐藏着诸多看似**不可能发生的罪案**」。**补系列缺口**：库内已有《不可能犯罪诊断书》3、4、大结局 6，本条补**第 1 卷**（作者写法沿用库内「爱德华·霍克」，系列名沿用库内写法）。**年份字段说明**：`editionYear` 记所引中译本 2023；`firstPublished` **留空**——馆藏「相关题名附注」只写「原文题名取自版权页」，未给出原题名。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "author137-003",
+    "title": "天罚者",
+    "originalTitle": "",
+    "author": "风雨如书",
+    "authorEn": "Fengyu Rushu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2023",
+    "series": "刑警手记",
+    "detective": "关风",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "林城接连发生失踪案，线索指向某个走私人体器官的组织；刑侦队队长决定寻求调查组帮助，组里有犯罪心理模拟师、记忆师与画像模拟师。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦题材的读者",
+        "团队办案结构的读者"
+      ],
+      "watchFor": [
+        "失踪者的共同特征",
+        "调查组各人专长的分工"
+      ],
+      "warning": "刑侦题材长篇，涉及人体器官走私与失踪案，题材沉重。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：风雨如书著，花城出版社 2023，丛编项「刑警手记」。**推理属性判据**：①**中图分类号为 `I247.56`**（最硬）；②**检索行主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**。**补作者缺口**：作者库内已有《还原犯罪现场》系列 3 部。**年份字段说明**：中文原创，`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-004",
+    "title": "帕洛玛别墅的秘密",
+    "originalTitle": "",
+    "author": "约翰·布德",
+    "authorEn": "John Bude",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "梅瑞狄斯",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "red-herring",
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一起假币诈骗案在里维埃拉曝光，梅瑞狄斯督察离开伦敦来到地中海协助调查；他的注意力很快被引到帕洛玛别墅——那里住着一位古怪的女主人和几位房客。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "大英图书馆经典系列的读者"
+      ],
+      "watchFor": [
+        "别墅里几位房客各自的隐情",
+        "假币案的流通路径"
+      ],
+      "warning": "本格推理长篇，含命案描写，为梅瑞狄斯督察系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经**按作者枚举**发现）：约翰·布德著，中国青年出版社 2019，丛编项「**大英图书馆·侦探小说黄金时代经典作品集**」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为**黄金时代侦探小说专门书系**。**补作者缺口**：作者库内已有《湖区疑案》《康沃尔海岸疑案》《切尔滕纳姆广场疑案》3 部，本轮**再补 3 部**。**年份字段说明**：`editionYear` 记所引中译本 2019；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-005",
+    "title": "维尔沃斯花园案",
+    "originalTitle": "",
+    "author": "约翰·布德",
+    "authorEn": "John Bude",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "梅瑞狄斯",
+    "country": "英国",
+    "tags": [
+      "closed-circle",
+      "legend-folklore",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "二十世纪四十年代的维尔沃斯是个前卫小镇，所有自由的灵魂都能在此找到归属；镇上信众最多的是由古怪的麦尔曼先生倡导的「奥教」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "小镇封闭社群悬疑的读者"
+      ],
+      "watchFor": [
+        "「奥教」信众之间的关系",
+        "小镇上不为人知的秘密"
+      ],
+      "warning": "本格推理长篇，含命案与新兴教派描写，为梅瑞狄斯督察系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：约翰·布德著，中国青年出版社 2019，丛编项「大英图书馆·侦探小说黄金时代经典作品集」。**推理属性判据**：①**检索行主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为黄金时代侦探小说专门书系。**年份字段说明**：`editionYear` 记所引中译本 2019；`firstPublished` **留空**（原题名与首版年未核实）。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-006",
+    "title": "萨塞克斯谜案",
+    "originalTitle": "The Sussex Downs Murder",
+    "author": "约翰·布德",
+    "authorEn": "John Bude",
+    "genre": "本格推理",
+    "firstPublished": "1936",
+    "editionYear": "2021",
+    "series": "大英图书馆·侦探小说黄金时代经典作品集",
+    "detective": "梅瑞狄斯",
+    "country": "英国",
+    "tags": [
+      "countryside",
+      "red-herring",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "约翰与威廉兄弟俩住在萨塞克斯丘陵的乔克兰农场；一天约翰的车在郊外被发现却不见人，罗瑟家族平静的田园生活从此结束。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "失踪案题材的读者"
+      ],
+      "watchFor": [
+        "弃车现场的位置",
+        "兄弟俩各自的说法"
+      ],
+      "warning": "本格推理长篇，含失踪与命案描写，为梅瑞狄斯督察系列长篇。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：约翰·布德著，中国青年出版社 2021，丛编项「大英图书馆·侦探小说黄金时代经典作品集」。**推理属性判据**：①**检索行主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.45`**；③丛编项为黄金时代侦探小说专门书系。**年份字段说明**：`firstPublished` 记原作年 1936（*The Sussex Downs Murder*，据提要「萨塞克斯丘陵的农场兄弟」与作者书目对应），`editionYear` 记所引中译本 2021。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-007",
+    "title": "100年，接了个龙",
+    "originalTitle": "",
+    "author": "华斯比 编",
+    "authors": [
+      "华斯比"
+    ],
+    "anthology": true,
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "本格推理",
+    "firstPublished": "2025",
+    "series": "谜托邦·文库本系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "multiple-solutions",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "国内首部侦探「集锦小说」作品集，收录民国时期众多名家携手创作的接龙侦探小说六篇：《匣中物》《念佛珠》《江南大侠》《胭脂印》《奇电》《怪手印》。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说的读者",
+        "接龙体这种特殊形式的读者"
+      ],
+      "watchFor": [
+        "每位作者接棒处的转折",
+        "六篇各自的收束方式"
+      ],
+      "warning": "民国侦探「接龙小说」合集，含命案描写；为**多位作家接力创作**的作品集。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：华斯比编，北京联合出版公司 2025，丛编项「谜托邦·文库本系列」。**推理属性判据**：①**检索行主题词为「侦探小说 小说集 中国 现代 ; 短篇小说 小说集 中国 现代」**（第①类，最硬）；②**中图分类号 `I246.7`**；③馆藏提要写明「国内首部侦探『集锦小说』作品集…**接龙侦探小说**六篇」并列明篇目。**多作者模型**：本书为**民国多位名家接力创作**，馆藏**只给编者、未列各篇作者**，故 `authors` 只登记编者华斯比、`author` 标签写「华斯比 编」——**不臆造作者名**；已标 `anthology`，界面上会显示「合集」徽章。**年份字段说明**：`firstPublished` 记 2025，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-008",
+    "title": "2023年中国悬疑推理小说精选",
+    "originalTitle": "",
+    "author": "华斯比 选编",
+    "authors": [
+      "华斯比"
+    ],
+    "anthology": true,
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "series": "2023中国年选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "收录 2023 年诸多具有代表性的悬疑推理小说，如《莫比乌斯庄园奇案》《保龄熊、水仙花少女与多米诺单车》《镜屋的秘密》等作品。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的风格跨度",
+        "年度创作风向的变化"
+      ],
+      "warning": "华语悬疑推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：华斯比选编，长江文艺出版社 2024，丛编项「2023中国年选系列」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③馆藏提要写明「收录了 2023 年诸多具有代表性的**悬疑推理小说**」。**多作者模型**：多位作家的年度选本，`authors` 只登记选编者、`author` 标签写「华斯比 选编」；已标 `anthology`。**年份字段说明**：`firstPublished` 记 2024，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-009",
+    "title": "2024年中国悬疑推理小说精选",
+    "originalTitle": "",
+    "author": "华斯比 选编",
+    "authors": [
+      "华斯比"
+    ],
+    "anthology": true,
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2025",
+    "series": "中国年选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "收录 2024 年具有代表性的华语悬疑推理短篇的年度选本。馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者与出版信息。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的风格跨度",
+        "与上一年度选本的对照"
+      ],
+      "warning": "华语悬疑推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：华斯比选编，长江文艺出版社 2025.01。**推理属性判据**：**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）。**如实标注**：本条**未逐条取详情复核**，判据取自**检索行主题词**（该馆检索结果行逐条带主题词分面）；**馆藏提要未取到**，`safeSummary` 只登记书目信息，**未编造篇目**。**多作者模型**：`authors` 只登记选编者，`author` 标签写「华斯比 选编」；已标 `anthology`。**年份字段说明**：`firstPublished` 记 2025，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "author137-010",
+    "title": "谜托邦.02：我的日常之谜",
+    "originalTitle": "",
+    "author": "华斯比 主编",
+    "authors": [
+      "华斯比"
+    ],
+    "anthology": true,
+    "authorEn": "Hua Sibi (ed.)",
+    "genre": "日常之谜",
+    "firstPublished": "2023",
+    "series": "谜托邦",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "cozy",
+      "multiple-solutions",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "收录《红漆之谜》《魔法少年的谎言》《西瓜和幽灵》《摩天轮与在摩天轮底下狂奔的男人》《偷外卖的贼》《尖叫之屋》《面包不是用来踩的》等推理小说。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的读者",
+        "华语原创短篇的读者"
+      ],
+      "watchFor": [
+        "生活化场景里的小谜团",
+        "各篇的轻松程度差异"
+      ],
+      "warning": "华语日常之谜短篇集，暴力程度较低，为**多位作家的合集**（华斯比主编）。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经按作者枚举发现）：主编华斯比，北京联合出版公司 2023，正题名「谜托邦.02,我的日常之谜」。**推理属性判据**：①**检索行主题词为「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.7`**；③馆藏提要列明所收篇目并标明为「推理小说」。**多作者模型**：多位作家的合集，`authors` 只登记主编、`author` 标签写「华斯比 主编」；已标 `anthology`。**补系列缺口**：库内已有《谜托邦.01》《谜托邦.03》，本条补**第 2 卷**，该系列馆藏可见三卷至此收齐。**年份字段说明**：`firstPublished` 记 2023，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-137-opac9.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "jpmod5-001",
+    "title": "方舟",
+    "originalTitle": "方舟",
+    "author": "夕木春央",
+    "authorEn": "Yuki Haruo",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "",
+    "detective": "无固定侦探（在场者视角）",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "locked-room",
+      "multiple-solutions",
+      "ensemble",
+      "red-herring",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一行人被困在一座正在进水的地下建筑里，出口只能容一个人出去。就在这段时间里，其中一人被杀。要从这里活着出去，就必须先弄清谁动的手——而两个问题的答案互相牵制。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 12662,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36832093/",
+        "subjectId": "36832093",
+        "edition": "方舟 2025",
+        "fetchedAt": "2026-09-22T05:11:00.499Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间与限时推理的读者",
+        "偏好「被迫共同推理」设定的读者"
+      ],
+      "watchFor": [
+        "水位与剩余时间的对应关系",
+        "每个人提出的方案对谁最有利",
+        "谁始终没有参与讨论"
+      ],
+      "warning": "封闭空间设定，氛围压抑，含溺毙与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：東京 講談社 2022.9（馆藏题名「方舟」／夕木春央）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "jpmod5-002",
+    "title": "镜之孤城",
+    "originalTitle": "かがみの孤城",
+    "author": "辻村深月",
+    "authorEn": "Tsujimura Mizuki",
+    "genre": "青春推理",
+    "firstPublished": "2017",
+    "series": "",
+    "detective": "无固定侦探（少女视角）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "ensemble",
+      "youth",
+      "unreliable-narrator",
+      "meta-fiction",
+      "concealment",
+      "campus"
+    ],
+    "school": [
+      "psychological-school",
+      "daily-mystery-school",
+      "meta-school"
+    ],
+    "safeSummary": "一个不去上学的女孩，房间里的镜子忽然发出光来，把她带进一座城堡。城堡里有六个同龄人和一只戴面具的狼，规则是：找到钥匙的人可以实现一个愿望。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 3211,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34907839/",
+        "subjectId": "34907839",
+        "edition": "镜之孤城 2020",
+        "fetchedAt": "2026-09-22T05:11:03.875Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢青春悬疑与群像成长的读者",
+        "读过辻村深月其他作品的读者"
+      ],
+      "watchFor": [
+        "六个人各自为什么来到这里",
+        "城堡规则里没有明说的那部分",
+        "现实时间与城堡时间的对应"
+      ],
+      "warning": "涉及校园霸凌与拒学题材，情感浓度较高。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：杭州 浙江文艺出版社 2020（馆藏题名「镜之孤城」／辻村深月）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "jpmod5-003",
+    "title": "再见，天使",
+    "originalTitle": "さよなら天使",
+    "author": "笠井洁",
+    "authorEn": "Kasai Kiyoshi",
+    "genre": "本格推理",
+    "firstPublished": "1979",
+    "series": "矢吹驱系列",
+    "detective": "矢吹驱",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "meta-fiction",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一名少女死在从内侧锁住的房间里，而现场条件让「有人进去过」这件事本身变得可疑。侦探矢吹驱在追查凶手的同时，也在追问一个更难的问题：这间密室是为了掩盖什么才被造出来的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 1343,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24879729/",
+        "subjectId": "24879729",
+        "edition": "再见，天使 2013",
+        "fetchedAt": "2026-09-22T05:11:07.755Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与侦探形象塑造并重的读者",
+        "对新本格起源期作品感兴趣的读者"
+      ],
+      "watchFor": [
+        "密室成立所依赖的那个前提",
+        "现场物件被移动的方向",
+        "侦探对「推理是什么」的追问"
+      ],
+      "warning": "一九七九年的新本格先驱作，含大量关于侦探小说的讨论。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「再见，天使」／笠井洁）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2013"
+  },
+  {
+    "id": "jpmod5-004",
+    "title": "检察方的罪人",
+    "originalTitle": "検察側の罪人",
+    "author": "雫井脩介",
+    "authorEn": "Shizukui Shusuke",
+    "genre": "社会派",
+    "firstPublished": "2013",
+    "series": "",
+    "detective": "无固定侦探（检察官与辩护律师双线）",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "obsession",
+      "social-commentary",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名资深检察官与他的后辈在追诉期限临近的一桩旧案上产生了分歧。上级坚持起诉，后辈却越查越觉得证据链的方向不对——而质疑自己的上司，代价可能比想象中大得多。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1894,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33413091/",
+        "subjectId": "33413091",
+        "edition": "检察方的罪人 2019",
+        "fetchedAt": "2026-09-22T05:11:11.469Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭与检察题材的读者",
+        "对追诉时效与证据规则议题感兴趣的读者"
+      ],
+      "watchFor": [
+        "起诉方向是谁定的",
+        "证据链中只有一环靠推断支撑",
+        "后辈提出质疑后被安排了什么工作"
+      ],
+      "warning": "以检察与审判流程为主线，重制度与人物的对抗。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2024.12（检察方的罪人／(日) 雫井脩介著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2024"
+  },
+  {
+    "id": "jpmod5-005",
+    "title": "恶人",
+    "originalTitle": "悪人",
+    "author": "吉田修一",
+    "authorEn": "Yoshida Shuichi",
+    "genre": "社会派",
+    "firstPublished": "2007",
+    "series": "",
+    "detective": "无固定侦探（加害者与被害者双线）",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "social-commentary",
+      "city",
+      "countryside",
+      "concealment",
+      "dark-atmosphere",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名女保险推销员被杀，嫌疑人随即消失。小说分别跟着逃亡的人和寻找他的人写下去，让读者在知道「是谁做的」之后，仍然要面对「为什么会走到这一步」。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 2053,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4231214/",
+        "subjectId": "4231214",
+        "edition": "恶人 2010",
+        "fetchedAt": "2026-09-22T05:11:17.173Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派与人物群像的读者",
+        "读过吉田修一其他作品的读者"
+      ],
+      "watchFor": [
+        "每个人物各自缺少的是什么",
+        "网络与熟人如何共同造出一个「恶人」",
+        "逃亡路线与两人关系的推进"
+      ],
+      "warning": "社会派作品，不含解谜要素，重人物处境与孤独感。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 文化艺术出版社 2010（馆藏题名「恶人」／吉田修一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2010"
+  },
+  {
+    "id": "jpmod5-006",
+    "title": "摇摆的心",
+    "originalTitle": "ユリゴコロ",
+    "author": "沼田真帆香留",
+    "authorEn": "Numata Mahokaru",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "series": "沼田真帆香留作品",
+    "detective": "无固定侦探（以家人留下的笔记为线索）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "diary-form",
+      "unreliable-narrator",
+      "psychological-misdirection",
+      "concealment",
+      "dark-atmosphere",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一个年轻人在整理家中旧物时翻出几本笔记，写笔记的人记录了自己一生中若干次无法解释的冲动。他一边读，一边开始怀疑这些文字与自己家庭的过去有什么关系。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 866,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27148311/",
+        "subjectId": "27148311",
+        "edition": "摇摆的心 2017",
+        "fetchedAt": "2026-09-22T05:11:22.698Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日记体与叙述性悬疑的读者",
+        "能接受阴暗题材的读者"
+      ],
+      "watchFor": [
+        "笔记里被跳过的时间段",
+        "写笔记的人对自身行为的解释是否一致",
+        "现实线中谁读到了这些笔记"
+      ],
+      "warning": "含暴力与心理异常描写，氛围阴暗，不适合未成年读者。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2017（摇摆的心／(日) 沼田真帆香留著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2017"
+  },
+  {
+    "id": "jpmod5-007",
+    "title": "罪之声",
+    "originalTitle": "罪の声",
+    "author": "盐田武士",
+    "authorEn": "Shiota Takeshi",
+    "genre": "社会派",
+    "firstPublished": "2016",
+    "series": "盐田武士作品",
+    "detective": "无固定侦探（记者与当事人双线）",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "historical-setting",
+      "social-commentary",
+      "silencing",
+      "concealment",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩多年前的勒索案始终没破，而当年被用来威胁的那盘录音带里，背景音有个孩子的声音。多年后，一个做裁缝的男人忽然意识到：那个孩子可能是自己。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 808,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35510666/",
+        "subjectId": "35510666",
+        "edition": "罪之声 2021",
+        "fetchedAt": "2026-09-22T05:12:17.617Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以旧案录音为线索的读者",
+        "对昭和年代案件与社会背景感兴趣的读者"
+      ],
+      "watchFor": [
+        "录音里除人声之外的声音",
+        "当年办案者的记录与后来的说法差异",
+        "当事人对自己童年的记忆边界"
+      ],
+      "warning": "跨年代社会派，重调查过程与当事人处境。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：郑州:,河南文艺出版社:,2021（罪之声／(日) 盐田武士著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmod5-008",
+    "title": "前男友的遗书",
+    "originalTitle": "元彼の遺言状",
+    "author": "新川帆立",
+    "authorEn": "Shinkawa Hotate",
+    "genre": "本格推理",
+    "firstPublished": "2020",
+    "series": "剑持丽子系列",
+    "detective": "剑持丽子",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "red-herring",
+      "city",
+      "series-detective",
+      "honkaku",
+      "multiple-solutions"
+    ],
+    "school": [
+      "legal-thriller",
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名律师接到前男友的死讯，遗书上写着把全部财产留给「杀了我的犯人」。要拿到这笔遗产，她得先找出那个犯人——而委托人自己也不确定这份遗书是不是认真的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 1600,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35599820/",
+        "subjectId": "35599820",
+        "edition": "前男友的遗书 2022",
+        "fetchedAt": "2026-09-22T05:11:32.532Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢律师视角与遗嘱谜题的读者",
+        "偏好轻快节奏本格的读者"
+      ],
+      "watchFor": [
+        "遗书的格式与措辞是否合规",
+        "死者生前最后几个月的财务变动",
+        "谁从「找不到犯人」这个状态里获益"
+      ],
+      "warning": "轻快风格的法庭 / 律师推理，含遗产与公司经营相关情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2022（前男友的遗书／(日) 新川帆立著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "jpmod5-009",
+    "title": "花食",
+    "originalTitle": "花まんま",
+    "author": "朱川湊人",
+    "authorEn": "Shukawa Minato",
+    "genre": "变格",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "youth",
+      "legend-folklore",
+      "dark-atmosphere",
+      "ensemble",
+      "countryside"
+    ],
+    "school": [
+      "bizarre-school",
+      "daily-mystery-school",
+      "psychological-school"
+    ],
+    "safeSummary": "短篇集，各篇独立，写的都是大阪老街区里普通人的日常。怪事从不以吓人的方式出现，而是嵌在一顿饭、一句方言、一个已经过世的亲人的习惯里。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 332,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2335278/",
+        "subjectId": "2335278",
+        "edition": "花食 2007.12.01",
+        "fetchedAt": "2026-09-22T05:11:35.926Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢怀旧市井氛围的读者",
+        "偏好温柔基调怪奇短篇的读者"
+      ],
+      "watchFor": [
+        "叙述者童年记忆里被略过的那部分",
+        "长辈反复提起的同一件旧事",
+        "结尾处视角的细微移动"
+      ],
+      "warning": "短篇集，各篇独立，基调怀旧中带怪奇，不属于本格解谜。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "jpmod5-010",
+    "title": "红莲馆杀人事件",
+    "originalTitle": "紅蓮館の殺人",
+    "author": "阿津川辰海",
+    "authorEn": "Atsukawa Tatsumi",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "红莲馆系列",
+    "detective": "葛城辉义",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "mansion",
+      "locked-space",
+      "honkaku",
+      "series-detective"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一座建在山中的馆舍被大火围住，外面进不来、里面出不去。就在这段时间里发生了命案，而在场者都清楚：火灭之前，凶手只可能是他们中的一个。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 2325,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35977853/",
+        "subjectId": "35977853",
+        "edition": "红莲馆杀人事件 2022",
+        "fetchedAt": "2026-09-22T05:11:39.350Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢暴风雪山庄变体的读者",
+        "读过阿津川辰海其他作品的读者"
+      ],
+      "watchFor": [
+        "火势蔓延的方向与可用通道",
+        "案发时每个人各自在哪一层",
+        "馆内建筑图与实际走通的路线是否一致"
+      ],
+      "warning": "封闭空间 + 火灾设定，氛围紧张，含火灾与伤亡描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2022.08（红莲馆杀人事件／(日) 阿津川辰海著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-18-jp-new-wave.json#jpnew-011"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2022"
+  },
+  {
+    "id": "jpmod5-011",
+    "title": "时空旅行者的沙漏",
+    "originalTitle": "時空旅行者の砂時計",
+    "author": "方丈贵惠",
+    "authorEn": "Hojo Yoshie",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "方丈贵惠作品",
+    "detective": "无固定侦探（以时空旅行者视角展开）",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "nonlinear",
+      "mansion",
+      "red-herring",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "主角被送回过去，任务是阻止一场发生在旧宅里的命案。麻烦在于：他知道结果，却不知道过程；而这座宅子里的人，每一个都还有理由让那件事照原样发生。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 8186,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35430467/",
+        "subjectId": "35430467",
+        "edition": "时空旅行者的沙漏 2021",
+        "fetchedAt": "2026-09-22T05:11:42.989Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系与本格结合的作品",
+        "对时间旅行规则严谨性在意的读者"
+      ],
+      "watchFor": [
+        "时间旅行设定的具体限制条件",
+        "旧宅里被改动过的物件位置",
+        "主角每次介入后其他人的反应变化"
+      ],
+      "warning": "设定系本格，需要接受时间旅行前提，重规则推演。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（时空旅行者的沙漏／(日) 方丈贵惠著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "editionYear": "2021"
+  },
+  {
+    "id": "jpmod5-012",
+    "title": "魔眼之匣谜案",
+    "originalTitle": "魔眼の匣の殺人",
+    "author": "今村昌弘",
+    "authorEn": "Imamura Masahiro",
+    "genre": "本格推理",
+    "firstPublished": "2019",
+    "series": "今村昌弘作品",
+    "detective": "剑崎比留子、叶村让",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "nursery-rhyme",
+      "mansion",
+      "countryside",
+      "locked-space",
+      "fear",
+      "honkaku",
+      "dark-atmosphere",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一行人因为交通中断被困在一处偏僻的疗养地，当地有位据说能预知未来的老人。预言里写明了会死几个人，而在场者很快发现：预言正在按顺序实现。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 6714,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35049753/",
+        "subjectId": "35049753",
+        "edition": "魔眼之匣谜案 2020",
+        "fetchedAt": "2026-09-22T05:11:46.682Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间与「预言」设定的读者",
+        "读过《尸人庄谜案》的读者"
+      ],
+      "watchFor": [
+        "预言原文的措辞与后来事实的差异",
+        "被困者各自的行动限制",
+        "谁知道预言的具体内容"
+      ],
+      "warning": "系列第二部，含特殊设定，建议先读《尸人庄谜案》。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 北京联合出版公司 2020（馆藏题名「魔眼之匣谜案」／今村昌弘）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-07-honkaku-more.json#honkaku2-018"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "jpmod5-013",
+    "title": "凶人馆谜案",
+    "originalTitle": "兇人邸の殺人",
+    "author": "今村昌弘",
+    "authorEn": "Imamura Masahiro",
+    "genre": "本格推理",
+    "firstPublished": "2021",
+    "series": "今村昌弘作品",
+    "detective": "剑崎比留子、叶村让",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "mansion",
+      "multiple-solutions",
+      "red-herring",
+      "series-detective",
+      "honkaku",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一行人进入一座早已废弃的宅邸调查，却发现宅子里还有一个不该存在的东西在活动。退路被切断后，他们既要弄清这里原本发生过什么，也要弄清此刻谁和他们在一起。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 5737,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36032438/",
+        "subjectId": "36032438",
+        "edition": "凶人馆谜案 2022",
+        "fetchedAt": "2026-09-22T05:11:50.027Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢特殊设定封闭空间的读者",
+        "读过今村昌弘前两作的读者"
+      ],
+      "watchFor": [
+        "宅邸的建筑结构与封锁方式",
+        "「那东西」出现的时间规律",
+        "宅邸过去那件事的记载"
+      ],
+      "warning": "系列第三部，含暴力与惊悚描写，建议按顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京联合出版公司:,2020.09（凶人馆谜案／(日) 今村昌弘著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-018"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2020"
+  },
+  {
+    "id": "jpmod5-014",
+    "title": "密室黄金时代的杀人事件",
+    "originalTitle": "密室黄金時代の殺人",
+    "author": "鸭崎暖炉",
+    "authorEn": "Kamozaki Danro",
+    "genre": "本格推理",
+    "firstPublished": "2022",
+    "series": "密室时代悬疑事件",
+    "detective": "无固定侦探（以在场者推理展开）",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "closed-circle",
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "locked-space",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "故事设在一个「密室杀人不能被判有罪」的规则之下，于是一桩桩密室案件接连出现，像是在测试这条规则的边界。全书要回答的是同一个问题：这些密室各自是怎么成立的。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 4269,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36184449/",
+        "subjectId": "36184449",
+        "edition": "密室黄金时代的杀人事件 2023",
+        "fetchedAt": "2026-09-22T05:11:53.191Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室诡计爱好者",
+        "喜欢把「规则」本身当作谜面的读者"
+      ],
+      "watchFor": [
+        "每间密室的构建方式差异",
+        "「密室无法定罪」这条规则被谁利用",
+        "建筑图纸与现场描述的出入"
+      ],
+      "warning": "密室题材连作，推理密度极高，属于典型的「诡计博览会」。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京日报出版社:,2023.03（密室黄金时代的杀人事件／(日)鸭崎暖炉著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-001"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2023"
+  },
+  {
+    "id": "jpmod5-015",
+    "title": "姑获鸟之夏",
+    "originalTitle": "姑獲鳥の夏",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "变格",
+    "firstPublished": "1994",
+    "series": "京极堂系列",
+    "detective": "中禅寺秋彦（京极堂）、关口巽",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "psychological-misdirection",
+      "red-herring",
+      "unreliable-narrator",
+      "mansion",
+      "city",
+      "obsession",
+      "concealment",
+      "dark-atmosphere",
+      "series-detective",
+      "legend-folklore"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一间密闭的房间里，丈夫消失、妻子被指怀胎二十个月。旧书店主兼驱邪师京极堂接手这件事，而他处理的第一件事不是找出凶手，而是拆掉当事人用来解释这一切的那套说法。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 27834,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3140801/",
+        "subjectId": "3140801",
+        "edition": "姑获鸟之夏 2008",
+        "fetchedAt": "2026-09-22T05:11:56.708Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民俗学与推理结合的读者",
+        "能接受大段议论的读者"
+      ],
+      "watchFor": [
+        "当事人叙述里前后矛盾之处",
+        "「常识」如何被用来遮蔽事实",
+        "关于记忆与认知的那些讨论"
+      ],
+      "warning": "京极堂系列第一部，含大量民俗与心理学议论，篇幅长、门槛高。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2008（馆藏题名「姑获鸟之夏」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-07-honkaku-more.json#honkaku2-001"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2008"
+  },
+  {
+    "id": "jpmod5-016",
+    "title": "向日葵不开的夏天",
+    "originalTitle": "向日葵の咲かない夏",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "series": "",
+    "detective": "无固定侦探（少年第一人称）",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "psychological-misdirection",
+      "first-person",
+      "unreliable-narrator",
+      "countryside",
+      "obsession",
+      "concealment",
+      "dark-atmosphere",
+      "youth"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "暑假里，一个男孩的班主任死了，而男孩坚称老师第二天又出现在他面前，只是变成了别的东西。大人们不信他，于是他决定自己把这件事弄清楚。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 10606,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3683898/",
+        "subjectId": "3683898",
+        "edition": "向日葵不开的夏天 2009",
+        "fetchedAt": "2026-09-22T05:12:00.272Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢少年视角与叙述性诡计的读者",
+        "读过道尾秀介其他作品的读者"
+      ],
+      "watchFor": [
+        "男孩讲述时使用的那些比喻",
+        "大人们的反应为何如此一致",
+        "夏天与向日葵在文中反复出现的位置"
+      ],
+      "warning": "少年视角下的阴暗题材，含虐待与死亡描写，读后不适感较强。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-07-honkaku-more.json#honkaku2-007"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    }
+  },
+  {
+    "id": "jpmod5-017",
+    "title": "羔羊的盛宴",
+    "originalTitle": "儚い羊たちの祝宴",
+    "author": "米泽穗信",
+    "authorEn": "Yonezawa Honobu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "series": "米泽穗信精选集",
+    "detective": "无固定侦探（短篇连作）",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "first-person",
+      "ensemble",
+      "diary-form",
+      "unreliable-narrator",
+      "mansion",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "daily-mystery-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "短篇连作，围绕一个古老家族的宅邸与它的读书会展开。每篇由不同的人讲述，讲的都是同一座宅子里的事，而每个人留给自己的那部分都没有写进去。",
+    "recommendationReason": "",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 3225,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34431939/",
+        "subjectId": "34431939",
+        "edition": "羔羊的盛宴 2020",
+        "fetchedAt": "2026-09-22T05:12:05.817Z",
+        "asOf": "2026-09"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇连作与家族题材的读者",
+        "读过米泽穗信「日常之谜」作品的读者"
+      ],
+      "watchFor": [
+        "同一个事件在不同篇里的说法差异",
+        "宅邸里谁掌握着叙事的主动权",
+        "每篇结尾处叙述者没有解释的那句话"
+      ],
+      "warning": "短篇连作，基调由日常转向阴暗，建议按顺序阅读。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2020（羔羊的盛宴／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
+    },
+    "provenance": {
+      "source": "batch-35-jp-modern-more.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-19-jp-masters.json#jpmas-004"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "editionYear": "2020"
+  }
+]
