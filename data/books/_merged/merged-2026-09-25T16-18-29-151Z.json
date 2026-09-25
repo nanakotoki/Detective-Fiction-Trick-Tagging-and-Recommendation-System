@@ -1,0 +1,17 @@
+[
+  {
+    "title": "柳园图",
+    "alternateTitles": [
+      "柳园图奇案"
+    ],
+    "author": "高罗佩",
+    "keep": "batch-50-gap-fill.json#gap50-010",
+    "drop": [
+      "batch-115-opac2.json#gap115-012（柳园图奇案）"
+    ],
+    "tagsBefore": 6,
+    "tagsAfter": 7,
+    "schoolAfter": 3,
+    "reason": "同书异名：上图著录作「柳园图奇案」，与本条原题 The Willow Pattern 同作"
+  }
+]

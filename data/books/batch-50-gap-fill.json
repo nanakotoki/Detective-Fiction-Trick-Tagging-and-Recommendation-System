@@ -760,11 +760,13 @@
       "multiple-solutions",
       "mansion",
       "red-herring",
-      "honkaku"
+      "honkaku",
+      "concealment"
     ],
     "school": [
       "logic-school",
-      "orthodox-school"
+      "orthodox-school",
+      "trick-school"
     ],
     "safeSummary": "狄公在京城任职期间遇到一桩发生在宅门里的案子，而案件与一种常见的瓷器纹样有牵连。他一边断案，一边要应付京城里比地方上复杂得多的人际关系。",
     "recommendationReason": "",
@@ -818,14 +820,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **合并记录（第 72 轮）**：本条目与 `batch-115-opac2.json#gap115-012`《柳园图奇案》为**同一部作品**——上图著录作「柳园图奇案／太原 北岳文艺出版社 2018」，与本条所引 *The Willow Pattern* 同作；该译名已登记进 `alternateTitles`，原条目已删除（见 `data/books/_merged/` 台账）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：太原:,北岳文艺出版社:,2018（馆藏题名「柳园图奇案」／高罗佩著）。馆藏题名作「柳园图奇案」（北岳文艺出版社 2018）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填，并经 `scripts/audit-edition-year.mjs` 逐条复核（2026-09）。"
     },
     "provenance": {
       "source": "batch-50-gap-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2018"
+    "editionYear": "2018",
+    "alternateTitles": [
+      "柳园图奇案"
+    ]
   },
   {
     "id": "gap50-011",

@@ -4,7 +4,7 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-25T15:51:09.107Z
+ * 生成时间：2026-09-25T16:18:29.438Z
  * 数据文件：172 个
  */
 
@@ -411,7 +411,7 @@ export const SEED_FILES = [
   { file: 'batch-113-higashino.json', group: "东野圭吾 · 按作者收全", data: batch113 },
   // 19 部
   { file: 'batch-114-ranpo-seicho.json', group: "其他", data: batch114 },
-  // 18 部
+  // 17 部
   { file: 'batch-115-opac2.json', group: "其他", data: batch115 },
   // 15 部
   { file: 'batch-116-opac2.json', group: "其他", data: batch116 },

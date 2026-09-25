@@ -91,6 +91,11 @@
     "shlib:triage": "node scripts/shlib-triage.mjs",
     "shlib:blurb": "node scripts/shlib-blurb.mjs",
     "backfill:edition2": "node scripts/backfill-edition-year2.mjs",
-    "backfill:edition2:apply": "node scripts/backfill-edition-year2.mjs --apply"
+    "backfill:edition2:apply": "node scripts/backfill-edition-year2.mjs --apply",
+    "shlib:blurb2": "node scripts/shlib-blurb2.mjs",
+    "make:batch": "node scripts/make-batch.mjs",
+    "suggest:tricks": "node scripts/suggest-trick-tags.mjs",
+    "apply:tricks": "node scripts/apply-trick-tags.mjs",
+    "apply:tricks:write": "node scripts/apply-trick-tags.mjs --apply"
   }
 }
