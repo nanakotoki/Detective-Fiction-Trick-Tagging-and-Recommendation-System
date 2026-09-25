@@ -1,0 +1,1836 @@
+[
+  {
+    "id": "shlib179-001",
+    "title": "自作聪明的杀手",
+    "originalTitle": "Smart-Aleck Kill",
+    "author": "雷蒙德·钱德勒",
+    "authorEn": "Raymond Chandler",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "钱德勒的短篇集之一：都市里的几桩案子，各自有各自的算计。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "钱德勒的读者",
+        "硬汉派短篇的读者"
+      ],
+      "watchFor": [
+        "叙述者的语气",
+        "各人心里的算盘"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：雷蒙德·钱德勒著，花城出版社 2015，丛编「钱德勒短篇侦探小说全集」（ISBN 978-7-5360-7301-2）。**判据**：①**学科主题词为「短篇小说 侦探小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**同书说明**：候选表里同作者的《恋人无情》《永别了，我的恋人》馆藏原作名均为 *Farewell My Lovely*（＝库内《再见，吾爱》）、《美丽的卡门》为 *The Big Sleep*（＝《长眠不醒》）、《波动的身》为 *The Lady in the Lake*（＝《湖底女人》）、《金币风暴》为 *The High Window*（＝《高窗》）——**六条全是同名异译，均不收**。本册原作名 *Smart-Aleck Kill*，库内无此集。**梗概说明**：馆藏 330 提要为**整丛书（25 篇短篇）的出版说明**，不含本册情节；梗概据题名与本册体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 记原作初版年（据馆藏给出的原作名核定）；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-002",
+    "title": "盗贼的乐园",
+    "originalTitle": "",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「布朗神父探案全集」的一册：收《格拉斯先生的缺席》《盗贼的乐园》《机器的错误》等篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布朗神父的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "每篇的「不可能」在哪里",
+        "布朗神父听人说话的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：G·K·切斯特顿著，时代文艺出版社 2014，丛编「布朗神父探案全集」（ISBN 978-7-5387-4377-7）。**判据**：①**学科主题词为「侦探小说 小说集 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**本册提要**（馆藏 330 字段原文）：「本书内容包括：格拉斯先生的缺席、盗贼的乐园、希尔施博士的决斗、通道里的男人、机器的错误、恺撒的头像、紫色假发、彭德拉根家的覆没、锣神、约翰·布尔努瓦的奇怪犯罪、布朗神父的童话。」**梗概说明**：以上为**篇目**，本库梗概**不写入任何案情与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**同书说明**：湖南文艺 2013 的《布朗神父的怀疑》《布朗神父的秘密》《布朗神父的丑闻》《布朗神父的天真》四册，馆藏原作名分别为 *The Incredulity / The Secret / The Scandal / The Innocence of Father Brown*，**恰好是库内已有五卷的重复**（《小村里的吸血鬼》《金十字架的诅咒》《梅鲁神山的红月亮》《布朗神父探案集》），故均不收；本册是**时代文艺 2014 全集的独立分卷**（馆藏另有「布朗神父探案全集」整套记录，分卷与整套并存），按**书**收录。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-003",
+    "title": "花园谜案",
+    "originalTitle": "",
+    "author": "G·K·切斯特顿",
+    "authorEn": "G. K. Chesterton",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "布朗神父系列",
+    "detective": "布朗神父",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「布朗神父探案全集」的一册：收《蓝宝石十字架》《花园谜案》《隐身人》等篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "布朗神父的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "每篇的「不可能」在哪里",
+        "布朗神父听人说话的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：G·K·切斯特顿著，时代文艺出版社 2014，丛编「布朗神父探案全集」（ISBN 978-7-5387-4376-0）。**判据**：①**学科主题词为「侦探小说 小说集 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**本册提要**（馆藏 330 字段原文）：「本书内容包括: 蓝宝石十字架、花园谜案、神秘的脚步声、飞星、隐身人、爵生死之谜、丧怪异的形状、萨拉丁亲王的罪孽、天主的锤子、太阳神的眼睛、断剑的启示、三件死亡凶器。」**梗概说明**：以上为**篇目**，本库梗概**不写入任何案情与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**同书说明**：湖南文艺 2013 的《布朗神父的怀疑》《布朗神父的秘密》《布朗神父的丑闻》《布朗神父的天真》四册，馆藏原作名分别为 *The Incredulity / The Secret / The Scandal / The Innocence of Father Brown*，**恰好是库内已有五卷的重复**（《小村里的吸血鬼》《金十字架的诅咒》《梅鲁神山的红月亮》《布朗神父探案集》），故均不收；本册是**时代文艺 2014 全集的独立分卷**（馆藏另有「布朗神父探案全集」整套记录，分卷与整套并存），按**书**收录。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-004",
+    "title": "怪兽男爵",
+    "originalTitle": "",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "1989",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "横沟正史的一册长篇：一位生理学家的野心越过了界线，此后出现了被称作「怪兽男爵」的东西。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横沟正史的读者",
+        "战前战后日本本格的读者"
+      ],
+      "watchFor": [
+        "「怪」从哪一处开始",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：横沟正史著，长虹出版公司 1989（ISBN 7-80063-004-8）。**判据**：①**学科主题词为「推理小说 日本 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。馆藏 330 提要**交代了设定**（大脑移植后被称作怪兽男爵）——**设定属于书封就会写的内容，不是解答**；本库梗概据此改写得更为克制。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1989。**系列归属**：馆藏未显示本册属金田一耕助系列，故 `series` 记「非系列」、`detective` 留空，不按作者其他作品推测。**同书说明**：候选《罪恶的拍球歌》＝「悪魔の手毬唄」＝库内《恶魔的彩球歌》，《金田一探案集 女王峰》＝库内《女王蜂》——均不收；《来自悬崖的呼叫》馆藏主题词作「**选集**」、丛编「世界探案经典」为多作者书系，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-005",
+    "title": "恶魔的宠儿",
+    "originalTitle": "",
+    "author": "横沟正史",
+    "authorEn": "Seishi Yokomizo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "red-herring",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "横沟正史的一册长篇：被叫作「恶魔的宠儿」的人，走到哪儿哪儿出事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横沟正史的读者",
+        "战前战后日本本格的读者"
+      ],
+      "watchFor": [
+        "「怪」从哪一处开始",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：横沟正史著，南海出版公司 2014，丛编「新经典文库/横沟正史作品」（ISBN 978-7-5442-6856-1）。**判据**：①**学科主题词为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**系列归属**：馆藏未显示本册属金田一耕助系列，故 `series` 记「非系列」、`detective` 留空，不按作者其他作品推测。**同书说明**：候选《罪恶的拍球歌》＝「悪魔の手毬唄」＝库内《恶魔的彩球歌》，《金田一探案集 女王峰》＝库内《女王蜂》——均不收；《来自悬崖的呼叫》馆藏主题词作「**选集**」、丛编「世界探案经典」为多作者书系，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-006",
+    "title": "酒吧悲情录",
+    "originalTitle": "Liberty Bar",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "麦格雷的一册中篇：一间酒吧里外的人与事，摊在一桩案子上。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2006，丛编「麦格雷探案集」（ISBN 978-7-5447-0165-5）。**判据**：①**学科主题词为「侦探小说 中篇小说 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2006。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-007",
+    "title": "她是谁杀的",
+    "originalTitle": "L'Ami d'enfance de Maigret",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "麦格雷的一册中篇：一位童年的朋友找上门来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2006，丛编「麦格雷探案集」（ISBN 978-7-5447-0161-7）。**判据**：①**学科主题词为「侦探小说 中篇小说 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2006。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-008",
+    "title": "麦格雷与夏尔先生",
+    "originalTitle": "",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "麦格雷的一册长篇：一位「夏尔先生」把案子送到了他面前。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2007，丛编「麦格雷探案集」（ISBN 978-7-5447-0162-4）。**判据**：①**学科主题词为「侦探小说 比利时 现代 ; 长篇小说 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**原作名说明**：馆藏 CNMARC **未给出并列题名**，本库不代拟原作名，`originalTitle` 留空。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2007。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-009",
+    "title": "天命号马夫",
+    "originalTitle": "",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "麦格雷的一册中篇：一匹叫「天命号」的马，和一个马夫。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2007，丛编「麦格雷探案集」（ISBN 978-7-5447-0167-9）。**判据**：①**学科主题词为「侦探小说 比利时 现代 ; 中篇小说 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**原作名说明**：馆藏 CNMARC **未给出并列题名**，本库不代拟原作名，`originalTitle` 留空。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2007。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-010",
+    "title": "十字街头之夜",
+    "originalTitle": "",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "麦格雷的一册中篇：一个十字路口的夜晚发生的事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2007，丛编「麦格雷探案集」（ISBN 978-7-5447-0164-8）。**判据**：①**学科主题词为「侦探小说 比利时 现代 ; 中篇小说 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**原作名说明**：馆藏 CNMARC **未给出并列题名**，本库不代拟原作名，`originalTitle` 留空。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2007。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-011",
+    "title": "麦格雷探案集",
+    "originalTitle": "Georges Simenon: oeuvres choisies",
+    "author": "乔治·西姆农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "麦格雷探案集",
+    "detective": "麦格雷",
+    "country": "比利时",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "西姆农的中篇选集，麦格雷经手的几桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "麦格雷探案集的读者",
+        "西姆农的读者"
+      ],
+      "watchFor": [
+        "麦格雷问话的方式",
+        "案子里的人情与处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：乔治·西姆农著，译林出版社 2011，丛编「麦格雷探案集」（ISBN 978-7-5447-1380-1）。**判据**：①**学科主题词为「侦探小说 小说集 比利时 现代 ; 中篇小说 小说集 比利时 现代」**；②**中图分类号 `I564.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**国别说明**：馆藏主题词作「**比利时**」，本库据此记 `country`（西姆农为比利时籍）。**同书说明**：候选《十三个谜 西姆农探案集》为**盲文版**（上海市盲童学校盲文出版社 1988），属特殊格式，不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-012",
+    "title": "西蒙·亚克的使命",
+    "originalTitle": "The Quests of Simon Ark",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列（短篇集）",
+    "detective": "西蒙·亚克",
+    "country": "美国",
+    "tags": [
+      "ensemble",
+      "locked-room",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍克的一册短篇集：西蒙·亚克经手的几桩「不可能」案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "爱德华·霍克的读者",
+        "短篇「不可能犯罪」的读者"
+      ],
+      "watchFor": [
+        "每篇的谜面设定",
+        "解答用到的那个细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：爱德华·霍克著，吉林出版集团有限责任公司 2009，丛编「古典推理文库」（ISBN 978-7-80762-887-3）。**判据**：①**学科主题词为「推理小说 小说集 美国 现代 ; 短篇小说 小说集 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**中图法说明**：本册分类号为 `I712.45`。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**主角归属**：本册题名即标出主角「西蒙·亚克」，据此填 `detective`。**标签依据说明**：`locked-room` 沿用本库对该作者既有 4 部（「山姆·霍桑医生」系列）的标注——霍克以短篇「不可能犯罪」为创作核心；**如实写明这是据作者整体风格而非本册提要**。**同书说明**：《老间谍俱乐部》（*The Old Spies Club*）按既定口径**纯间谍题材不收**。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-013",
+    "title": "铁血天使",
+    "originalTitle": "The Iron Angel",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "ensemble",
+      "locked-room",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍克的一册短篇集，各篇独立成案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "爱德华·霍克的读者",
+        "短篇「不可能犯罪」的读者"
+      ],
+      "watchFor": [
+        "每篇的谜面设定",
+        "解答用到的那个细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：爱德华·霍克著，吉林出版集团有限责任公司 2010，丛编「古典推理文库」（ISBN 978-7-5463-2883-6）。**判据**：①**学科主题词为「推理小说 小说集 美国 现代 ; 短篇小说 小说集 美国 现代」**；②**中图分类号 `I712.456`**；③**丛编为推理专门书系**。**中图法说明**：本册分类号为 `I712.456`（`.456` 推理复分号）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**主角归属**：馆藏未提供提要、题名也未标主角，故 `detective` **留空**。**标签依据说明**：`locked-room` 沿用本库对该作者既有 4 部（「山姆·霍桑医生」系列）的标注——霍克以短篇「不可能犯罪」为创作核心；**如实写明这是据作者整体风格而非本册提要**。**同书说明**：《老间谍俱乐部》（*The Old Spies Club*）按既定口径**纯间谍题材不收**。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-014",
+    "title": "斯托维尔开膛手",
+    "originalTitle": "The Ripper of Storyville",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "ensemble",
+      "locked-room",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍克的一册短篇集，故事发生在斯托维尔一带。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "爱德华·霍克的读者",
+        "短篇「不可能犯罪」的读者"
+      ],
+      "watchFor": [
+        "每篇的谜面设定",
+        "解答用到的那个细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：爱德华·霍克著，吉林出版集团有限责任公司 2009，丛编「古典推理文库」（ISBN 978-7-80762-885-9）。**判据**：①**学科主题词为「推理小说 小说集 美国 现代 ; 短篇小说 小说集 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**中图法说明**：本册分类号为 `I712.45`。 **著录瑕疵**：馆藏主题词把「美国」误作「日本 现代」，本库按作者与内容记为美国作品，并在此注明原著录。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**主角归属**：馆藏未提供提要、题名也未标主角，故 `detective` **留空**。**标签依据说明**：`locked-room` 沿用本库对该作者既有 4 部（「山姆·霍桑医生」系列）的标注——霍克以短篇「不可能犯罪」为创作核心；**如实写明这是据作者整体风格而非本册提要**。**同书说明**：《老间谍俱乐部》（*The Old Spies Club*）按既定口径**纯间谍题材不收**。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-015",
+    "title": "不要走远",
+    "originalTitle": "Stay Close",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：有人以为过去已经走远了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，哈尔滨出版社 2013（ISBN 978-7-5484-1274-8）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-016",
+    "title": "永恒的迷失",
+    "originalTitle": "Long Lost",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "米隆·波利塔系列",
+    "detective": "米隆·波利塔",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "米隆·波利塔系列的一册：一通来自海外的电话把他叫了出去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2012，丛编「米隆·波利塔系列/哈兰·科本悬疑推理作品」（ISBN 978-7-5534-0063-1）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏丛编写明「米隆·波利塔系列」，据此填 `series` 与 `detective`。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-017",
+    "title": "天堂的咒怨",
+    "originalTitle": "The Innocent",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：一桩旧案在多年后回过头来找人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2012，丛编「哈兰·科本悬疑推理作品」（ISBN 978-7-5534-0057-0）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-018",
+    "title": "死神的噩梦",
+    "originalTitle": "Darkest Fear",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "米隆·波利塔系列",
+    "detective": "米隆·波利塔",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "米隆·波利塔系列的一册：他忽然被告知自己有个孩子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2012，丛编「哈兰·科本悬疑推理作品/米隆·波利塔系列」（ISBN 978-7-5534-0061-7）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏丛编写明「米隆·波利塔系列」，且提要写明主角为「米隆」，据此填 `series` 与 `detective`。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-019",
+    "title": "地狱的阶梯",
+    "originalTitle": "Play Dead",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：一场意外之后，有人开始查它是不是意外。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2013，丛编「哈兰·科本悬疑推理作品」（ISBN 978-7-5534-0904-7）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-020",
+    "title": "圣母的假面",
+    "originalTitle": "Drop Shot",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：一桩体坛旧案被人重新提起。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2011（ISBN 978-7-5463-4435-5）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**（本册原作 *Drop Shot* 是否属米隆·波利塔系列，待有据再改）。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-021",
+    "title": "恶魔的吻别",
+    "originalTitle": "Tell No One",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：一个人守了多年的秘密，忽然守不住了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，吉林出版集团有限责任公司 2012，丛编「哈兰·科本悬疑推理作品」（ISBN 978-7-5534-0058-7）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-022",
+    "title": "生命中的危险缺憾",
+    "originalTitle": "Missing You",
+    "author": "哈兰·科本",
+    "authorEn": "Harlan Coben",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "科本的一册长篇：一个在网上遇见的人，来路不明。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "哈兰·科本的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "多年前那件事与现在的关联",
+        "叙述里被跳过的那段时间"
+      ],
+      "warning": "悬疑推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：哈兰·科本著，脸谱出版 2016，丛编「M小说」（ISBN 978-986-235-503-9）。**判据**：①**学科主题词为「推理小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2016。**系列归属**：馆藏未列丛编名，故记「非系列」、`detective` 留空——**不按作者其他作品推测**。**同书说明**：候选《天使的隐私》馆藏原作名为 *Deal Breaker*，**即库内已有的《篮框下的阴谋》**，故不收。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-023",
+    "title": "空洞的十字架",
+    "originalTitle": "虚ろな十字架",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "东野圭吾的一册长篇：一桩案子结了之后，留下的人还要接着过日子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "不同立场的人各自的道理",
+        "「罪与罚」在本作里的落点"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：东野圭吾著，春天出版国际文化有限公司 2014，丛编「春日文库」（ISBN 978-986-5706-48-7）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**版本说明**：本册为**台湾版**（春天出版），馆藏另有大陆版以《虚无的十字架》为名行世；本库按所引版本的题名收录。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-024",
+    "title": "人偶游戏",
+    "originalTitle": "ダイイング・アイ",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "东野圭吾的一册长篇：一个调酒师在下班途中遇袭，醒来后丢了一段记忆。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "悬疑向的读者"
+      ],
+      "watchFor": [
+        "他记不起来的那一段",
+        "身边人各自的态度"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：东野圭吾著，湖南文艺出版社 2025，丛编「东野圭吾·杰作精选」（ISBN 978-7-5726-2550-3）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**本册提要**（馆藏 330 字段）**含有大量泄底内容**（包括凶手视角与动机的说明）。本库梗概**只取「遇袭后失忆」这一条前提**，**不引用、不改写、不透露**提要其余部分。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib179-025",
+    "title": "十字屋的小丑",
+    "originalTitle": "十字屋敷のピエロ",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "red-herring",
+      "honkaku",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "东野圭吾早期的一册本格：一栋十字形的屋子，和屋里摆着的小丑。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "早期本格的读者"
+      ],
+      "watchFor": [
+        "屋子的形状与人的动线",
+        "「小丑」在文中的位置"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：东野圭吾著，皇冠文化出版有限公司 皇冠出版社(香港)有限公司 2014（ISBN 978-957-33-3096-7）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**。**同书说明**：候选《回廊亭杀人事件》＝「回廊亭殺人事件」＝库内《长长的回廊》、《劫持白银》＝「白銀ジャック」＝库内《白银杰克》、《再一个谎言》＝「嘘をもうひとつだけ」＝库内《只差一个谎言》——**三条均不收**；《梦回都灵》为花样滑冰随笔集，**不是推理小说**，不收；《湖边凶杀案》＝「レイクサイド」＝库内《湖畔》，亦不收。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-179-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
