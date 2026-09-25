@@ -93,6 +93,7 @@
     "backfill:edition2": "node scripts/backfill-edition-year2.mjs",
     "backfill:edition2:apply": "node scripts/backfill-edition-year2.mjs --apply",
     "shlib:blurb2": "node scripts/shlib-blurb2.mjs",
+    "shlib:orig": "node scripts/shlib-orig-scan.mjs",
     "make:batch": "node scripts/make-batch.mjs",
     "suggest:tricks": "node scripts/suggest-trick-tags.mjs",
     "apply:tricks": "node scripts/apply-trick-tags.mjs",
