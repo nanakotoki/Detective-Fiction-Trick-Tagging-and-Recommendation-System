@@ -96,6 +96,8 @@
     "make:batch": "node scripts/make-batch.mjs",
     "suggest:tricks": "node scripts/suggest-trick-tags.mjs",
     "apply:tricks": "node scripts/apply-trick-tags.mjs",
-    "apply:tricks:write": "node scripts/apply-trick-tags.mjs --apply"
+    "apply:tricks:write": "node scripts/apply-trick-tags.mjs --apply",
+    "register:aliases": "node scripts/register-aliases.mjs",
+    "register:aliases:apply": "node scripts/register-aliases.mjs --apply"
   }
 }
