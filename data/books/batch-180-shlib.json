@@ -1,0 +1,1835 @@
+[
+  {
+    "id": "shlib180-001",
+    "title": "护士学院杀人事件",
+    "originalTitle": "Shroud for a Nightingale",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：护士学院的示范课上当众出了人命，随后又有人死。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，文汇出版社 2017，丛编「读客外国小说文库」（ISBN 978-7-5496-2383-9）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**本册提要**（馆藏 330 字段）交代了「示范课上当众毒杀、次日又一人中毒身亡」等前提与「人人都在掩饰秘密」的格局，**梗概只取前提**，不写入任何侦破过程与结局。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2017。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-002",
+    "title": "秘密杀戮",
+    "originalTitle": "Cover Her Face",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一户人家的女佣死了，屋里人各有各的说法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10906-7）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-003",
+    "title": "非自然死亡",
+    "originalTitle": "Unnatural Causes",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一桩看上去「非自然」的死亡。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10905-0）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-004",
+    "title": "专业证人之死",
+    "originalTitle": "Death of an Expert Witness",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一名鉴定专家死了，他的专业成了案子的钥匙。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10907-4）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-005",
+    "title": "黑塔",
+    "originalTitle": "The Black Tower",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一所疗养机构里接连出事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10908-1）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-006",
+    "title": "原罪",
+    "originalTitle": "Original Sin",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一家出版社里出了命案，旧账被翻了出来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10911-1）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**提要处理**：馆藏 330 字段的提要**描述的是另一本书**（书中人物为「经侦民警马庆」「张文胜」等中文人名，与本册的英国背景完全不符），属**馆藏著录串号**。本库**不引用该提要**，并在 `verification.source` 里记明这处著录问题。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-007",
+    "title": "谋杀案陈列馆之谜",
+    "originalTitle": "The Murder Room",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一家博物馆的「谋杀案陈列室」成了案子的中心。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10716-2）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-008",
+    "title": "庄园诊所谜案",
+    "originalTitle": "The Private Patient",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一桩在私人诊所里了结的旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10910-4）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作属达格利什系列，与本库既有的《灯塔血案》同一处理（`series` 记「亚当·达格利什系列」、`detective` 记「亚当·达格利什」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-009",
+    "title": "头骨",
+    "originalTitle": "The Skull Beneath the Skin",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一位女侦探被请到岛上，为一场演出做安全评估。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "P. D. 詹姆斯的读者",
+        "英式古典推理的读者"
+      ],
+      "watchFor": [
+        "机构内部的人际关系",
+        "各人的说法对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：P. D. 詹姆斯著，内蒙古人民出版社 2011（ISBN 978-7-204-10717-9）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**系列归属**：本册原作 *The Skull Beneath the Skin* 属**科迪莉亚·格雷**系列（非达格利什），而库内尚无该系列条目，故 `series` 记「非系列」、`detective` 留空——**不把它并进达格利什系列**。**本册提要**（馆藏 330 字段）只列了章节名（「孤岛召唤、盛装彩排、血溅……」），不含情节。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**作者名统一说明**：库内本作者的条目曾出现两种写法（「P. D. 詹姆斯」4 条、「P.D.詹姆斯」1 条——《教堂里的谋杀》）。本轮把后者统一为「**P. D. 詹姆斯**」，避免同一位作者在作者页上被拆成两个人。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-010",
+    "title": "包青天",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：围绕包公断案的一桩大案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2013，丛编「中国古代大案探奇录」（ISBN 978-7-5162-0198-5）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-011",
+    "title": "明宫奇案",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：明代宫廷里的一桩奇案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2013，丛编「中国古代大案探奇录」（ISBN 978-7-5162-0269-2）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-012",
+    "title": "和氏璧",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：一块玉璧牵出的旧案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2012（ISBN 978-7-5162-0033-9）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-013",
+    "title": "斧声烛影",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：从「斧声烛影」那桩千古疑案写起。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2011（ISBN 978-7-80219-852-4）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2011；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-014",
+    "title": "柳如是 柳色独秀",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：柳如是与一件叫作「一捧雪」的旧物。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2014，丛编「中国古代大案探奇录」（ISBN 978-7-5162-0553-2）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**本册提要**（馆藏 330 字段）交代了柳如是的生平与「一捧雪」这件旧物，**梗概只取这一层**，不写入案件结果。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2014；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-015",
+    "title": "柳如是 如是我闻",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：柳如是的生平与南明旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2015（ISBN 978-7-5162-0617-1）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**本册提要**（馆藏 330 字段）为人物生平概述，不含案件情节。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2015；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-016",
+    "title": "大明惊变",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：明代中叶的一场大变故。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2016（ISBN 978-7-5162-1310-0）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2016；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-017",
+    "title": "甘露之变",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：唐代「甘露之变」前后的人和事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2018（ISBN 978-7-5162-1787-0）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2018；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-018",
+    "title": "竹林七贤",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "吴蔚的一册历史推理：魏晋之际那七个人的处境与选择。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吴蔚的读者",
+        "历史推理的读者"
+      ],
+      "watchFor": [
+        "史料与案情怎么咬合",
+        "人物的处境与选择"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：吴蔚著，中国民主法制出版社 2018（ISBN 978-7-5162-0986-8）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2018；`firstPublished` **留空**。**系列归属**：馆藏丛编与库内既有 12 部同为「中国古代大案探奇录」，据此归入同系列。**主角归属**：馆藏未提供提要、题名也未点出侦探，故 `detective` **留空**，不按同系列其他册推测（库内该系列分别有狄仁杰、张咏、宋慈三种主角）。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-019",
+    "title": "蔷薇的颜色",
+    "originalTitle": "",
+    "author": "鬼马星",
+    "authorEn": "Gui Ma Xing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "莫兰系列",
+    "detective": "莫兰、高竞",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「莫兰系列」的一册：一种颜色反复出现在案子相关的地方。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "鬼马星的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "人物之间的旧关系",
+        "叙述里被略过的那一段"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：鬼马星著，二十一世纪出版社 2013，丛编「莫兰系列」（ISBN 978-7-5391-8601-6）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**系列归属**：馆藏丛编作「莫兰系列」，据此填 `series` 与 `detective`（与库内既有三部同系列条目一致）。**署名说明**：馆藏责任者字段部分作本名「马雨默」，与笔名「鬼马星」为同一作者，本库按笔名归并。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-020",
+    "title": "黑背鱼之谜",
+    "originalTitle": "",
+    "author": "鬼马星",
+    "authorEn": "Gui Ma Xing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "鬼马星的一册长篇：一条黑背鱼牵出的谜。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "鬼马星的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "人物之间的旧关系",
+        "叙述里被略过的那一段"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：鬼马星著，二十一世纪出版社 2009，丛编「鬼马星作品」（ISBN 978-7-5391-4848-9）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2009；`firstPublished` **留空**。**系列归属**：馆藏未列丛编名，故记「非系列」，不代拟系列名。**署名说明**：馆藏责任者字段部分作本名「马雨默」，与笔名「鬼马星」为同一作者，本库按笔名归并。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-021",
+    "title": "宴无好宴",
+    "originalTitle": "",
+    "author": "鬼马星",
+    "authorEn": "Gui Ma Xing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "鬼马星的一册长篇：一场饭局之后，事情开始不对。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "鬼马星的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "人物之间的旧关系",
+        "叙述里被略过的那一段"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：鬼马星著，上海书店出版社 2009（ISBN 978-7-80678-925-4）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2009；`firstPublished` **留空**。**系列归属**：馆藏未列丛编名，故记「非系列」，不代拟系列名。**署名说明**：馆藏责任者字段部分作本名「马雨默」，与笔名「鬼马星」为同一作者，本库按笔名归并。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-022",
+    "title": "疯女",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1995",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "forensic-school"
+    ],
+    "safeSummary": "何家弘的一册长篇：一桩与「疯女」有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "何家弘的读者",
+        "法律与证据题材的读者"
+      ],
+      "watchFor": [
+        "证据链上的那一环",
+        "法律程序与事实之间的距离"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：何家弘著，群众出版社 1995，丛编「消闲系列丛书」（ISBN 7-5014-1351-7）。**判据**：①**学科主题词为「推理小说 中国 现代 ; 长篇小说 中国 现代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 1995；`firstPublished` **留空**。**主角归属**：馆藏未显示本册属洪律师（洪钧）系列，故 `detective` **留空**，不按作者其他作品推测。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-023",
+    "title": "豪门血案",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "forensic-school"
+    ],
+    "safeSummary": "何家弘的一册长篇：一桩出在豪门里的命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "何家弘的读者",
+        "法律与证据题材的读者"
+      ],
+      "watchFor": [
+        "证据链上的那一环",
+        "法律程序与事实之间的距离"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：何家弘著，大众文艺出版社 2009（ISBN 978-7-80171-280-6）。**判据**：①**学科主题词为「长篇小说 侦探小说 作品 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2009；`firstPublished` **留空**。**主角归属**：馆藏未显示本册属洪律师（洪钧）系列，故 `detective` **留空**，不按作者其他作品推测。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-024",
+    "title": "双血型人",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "洪律师探案集",
+    "detective": "洪钧",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "forensic-school"
+    ],
+    "safeSummary": "「洪律师探案集」的一册：一个血型对不上的人，成了案子的关键。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "何家弘的读者",
+        "法律与证据题材的读者"
+      ],
+      "watchFor": [
+        "证据链上的那一环",
+        "法律程序与事实之间的距离"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：何家弘著，大众文艺出版社 2003，丛编「洪律师探案集」（ISBN 7-80171-244-7）。**判据**：①**学科主题词为「长篇小说 侦探小说 作品 中国 当代」**；②**中图分类号 `I247.5`**；③**丛编为推理专门书系**。**中图法说明**：本册分类号作 `I247.5`（未落 `.56` 复分），但**学科主题词为「长篇小说 侦探小说 作品」**、且丛编为「洪律师探案集」——题材判据以主题词与丛编为准，本册仍按推理小说收录。 **同书说明**：中国人民大学出版社 2007 年的《人生情渊 双血型人》与本册**同作**（同一部作品的重版换题），本库只收一条，并把「人生情渊 双血型人」登记进 `alternateTitles`。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2003；`firstPublished` **留空**。**主角归属**：馆藏丛编为「洪律师探案集」，与库内既有的洪钧系列条目同系，据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib180-025",
+    "title": "人生黑洞：股市幕后的罪恶",
+    "originalTitle": "",
+    "author": "何家弘",
+    "authorEn": "He Jiahong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "forensic-school"
+    ],
+    "safeSummary": "何家弘的一册长篇：一桩案子伸进了股市幕后。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "何家弘的读者",
+        "法律与证据题材的读者"
+      ],
+      "watchFor": [
+        "证据链上的那一环",
+        "法律程序与事实之间的距离"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：何家弘著，中国人民大学出版社 2007，丛编「何家弘作品集」（ISBN 978-7-300-08058-1）。**判据**：①**学科主题词为「长篇小说 侦探小说 作品 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为推理专门书系**。 **同书说明**：同一套「人生××」重版书里，《人生怪圈 神秘的古画》＝库内已有的《古画之谜》、《人生狭路 黑蝙蝠·白蝙蝠》＝库内已有的《黑蝙蝠之谜》——**两条均不收**，并已把这两个重版题名登记为对应条目的别名。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2007；`firstPublished` **留空**。**主角归属**：馆藏未显示本册属洪律师（洪钧）系列，故 `detective` **留空**，不按作者其他作品推测。"
+    },
+    "provenance": {
+      "source": "batch-180-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
