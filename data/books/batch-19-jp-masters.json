@@ -764,7 +764,8 @@
       "alibi",
       "timetable",
       "honkaku",
-      "series-detective"
+      "series-detective",
+      "multiple-solutions"
     ],
     "school": [
       "logic-school",
@@ -823,7 +824,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **诡计类标签补充·作者/系列层面（第 76 轮）**：作者既有 19/22 部标有 `multiple-solutions`，故对未标的《马来铁道之谜》补标 multiple-solutions。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（马来铁道之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

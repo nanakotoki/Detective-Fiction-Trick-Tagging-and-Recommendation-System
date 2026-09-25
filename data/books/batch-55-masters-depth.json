@@ -17,7 +17,8 @@
       "series-detective",
       "red-herring",
       "cipher",
-      "identity"
+      "identity",
+      "multiple-solutions"
     ],
     "school": [
       "adventure-school",
@@ -76,7 +77,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充·作者/系列层面（第 76 轮）**：「波洛系列」20/21 部标有 `multiple-solutions`，故对未标的《四魔头》补标 multiple-solutions。"
     },
     "provenance": {
       "source": "batch-55-masters-depth.json",

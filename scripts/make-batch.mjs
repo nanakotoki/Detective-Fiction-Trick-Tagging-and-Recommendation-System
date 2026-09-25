@@ -46,6 +46,8 @@ const out = spec.books.map((b, n) => {
     author: b.author,
     // 合集/多作者条目要带 authors 数组（库内既有写法，前端与统计脚本都优先读它）
     ...(b.authors?.length ? { authors: b.authors } : {}),
+    // 同一部作品的其他中译名（同书异名核查的产物，必须落库，否则日后又会当成新书收一遍）
+    ...(b.alternateTitles?.length ? { alternateTitles: b.alternateTitles } : {}),
     authorEn: b.authorEn,
     genre: b.genre,
     firstPublished: b.firstPublished || '',

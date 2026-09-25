@@ -124,6 +124,37 @@ const REJECTED = [
   ['middepth56-015', '小生物语', 'dual-role', '命中处是「冒充大学生去大学社团报名」，是随笔里的玩笑，不是作品机制'],
   ['middepth56-015', '小生物语', 'locked-room', '命中处是「在水床上构思密室小说」，说的是写作，不是说本书有密室'],
   ['global-013', '雾之旗', 'locked-room', '命中处是「没有名侦探与不可能犯罪」——**否定句**，已给提取脚本加否定词护栏'],
+  ['伽利略系列·嫌疑人X的献身', '嫌疑人X的献身', 'multiple-solutions', '同系列 7/8 部有该标签，但**这一部恰恰是例外**——它的力道在别处，不靠多重解答，故不按系列比例硬套'],
+];
+
+/**
+ * **第二类依据：作者／系列层面的既有标注。**
+ *
+ * 逐条外部取证走不通时（豆瓣 403、日文维基在本机网络下不可达、馆藏提要多不写机制），
+ * 还有一类**可审计**的依据：**库内同一位作者、或同一套系列的既有标注高度一致**。
+ * 例如梅森探案系列的 26/27 部都标了 `multiple-solutions`——那正是该系列的结构
+ * （每部都在法庭上翻出另一套解答）；《少年侦探团》系列 6/7 部标了 `dual-role`——
+ * 怪盗二十面相每部都在易容。
+ *
+ * 取用规则（写死在这里，避免日后被当成「随便套比例」）：
+ *   ① 组内样本 ≥5 部，且该标签覆盖率 ≥85%；
+ *   ② 只取**有实义**的标签（`red-herring` 这类几乎人人皆有的不取，免得稀释权重）；
+ *   ③ 覆盖率**不是 100%** 时，逐条再看一眼——**例外的那一部往往正是不能标的**
+ *      （《嫌疑人X的献身》就是这么被剔除的，见 REJECTED）。
+ */
+const MARK2 = '**诡计类标签补充·作者/系列层面（第 76 轮）**';
+const PLAN2 = [
+  { id: null, title: '苍海馆事件', author: '阿津川辰海', tags: ['multiple-solutions'], basis: '作者既有 6/7 部标有 `multiple-solutions`' },
+  { id: null, title: '名侦探原田亘', author: '白井智之', tags: ['multiple-solutions'], basis: '作者既有 8/9 部标有 `multiple-solutions`' },
+  { id: null, title: '彩虹村的秘密', author: '有栖川有栖', tags: ['multiple-solutions'], basis: '作者既有 19/22 部标有 `multiple-solutions`' },
+  { id: null, title: '生首是闻', author: '法月纶太郎', tags: ['multiple-solutions'], basis: '作者既有 6/7 部标有 `multiple-solutions`' },
+  { id: null, title: '马来铁道之谜', author: '有栖川有栖', tags: ['multiple-solutions'], basis: '作者既有 19/22 部标有 `multiple-solutions`' },
+  { id: null, title: '幻坂', author: '有栖川有栖', tags: ['multiple-solutions'], basis: '作者既有 19/22 部标有 `multiple-solutions`' },
+  { id: null, title: '梅森探案集', author: '厄尔·斯坦利·加德纳', tags: ['multiple-solutions'], basis: '「梅森探案系列」26/26 部标有 `multiple-solutions`——法庭上翻出另一套解答正是该系列的固定结构' },
+  { id: null, title: '四魔头', author: '阿加莎·克里斯蒂', tags: ['multiple-solutions'], basis: '「波洛系列」20/21 部标有 `multiple-solutions`' },
+  { id: null, title: '妖怪博士', author: '江户川乱步', tags: ['cipher'], basis: '「少年侦探团系列」6/7 部标有 `cipher`' },
+  { id: null, title: '少年侦探团', author: '江户川乱步', tags: ['dual-role'], basis: '「少年侦探团系列」6/7 部标有 `dual-role`——二十面相每部都在易容' },
+  { id: null, title: '铁鼠之槛', author: '京极夏彦', tags: ['psychological-misdirection'], basis: '「京极堂系列」6/7 部标有 `psychological-misdirection`' },
 ];
 
 const files = readdirSync('data/books').filter((x) => x.endsWith('.json') && !x.startsWith('_'));
@@ -138,15 +169,21 @@ const files = readdirSync('data/books').filter((x) => x.endsWith('.json') && !x.
  */
 const store = new Map(); // 文件名 → 数组
 const where = new Map(); // id → 文件名
+const byTitle = new Map(); // 题名 → [文件名, 条目]
 for (const f of files) {
   const arr = JSON.parse(readFileSync(`data/books/${f}`, 'utf8'));
   store.set(f, arr);
-  for (const b of arr) where.set(b.id, f);
+  for (const b of arr) {
+    where.set(b.id, f);
+    if (!byTitle.has(b.title)) byTitle.set(b.title, []);
+    byTitle.get(b.title).push([f, b]);
+  }
 }
 
 let changed = 0;
 const touched = new Set();
 
+/** 第一类依据：逐条外部取证（PLAN） */
 for (const p of PLAN) {
   const file = where.get(p.id);
   if (!file) {
@@ -168,6 +205,30 @@ for (const p of PLAN) {
   changed += 1;
   touched.add(file);
   console.log(`✓ ${p.id} ${p.title} → +${add.join('、')}`);
+}
+
+/** 第二类依据：作者／系列层面的既有标注（PLAN2） */
+for (const p of PLAN2) {
+  const cands = (byTitle.get(p.title) || []).filter(([, b]) => b.author === p.author);
+  if (!cands.length) {
+    console.log(`✗ 找不到《${p.title}》/${p.author}`);
+    continue;
+  }
+  const [file, hit] = cands[0];
+  if (hit.verification?.source?.includes(MARK2)) {
+    console.log(`· 《${p.title}》已按作者/系列层面补过，跳过`);
+    continue;
+  }
+  const add = p.tags.filter((t) => !(hit.tags || []).includes(t));
+  if (!add.length) {
+    console.log(`· 《${p.title}》标签已齐，跳过`);
+    continue;
+  }
+  hit.tags = [...(hit.tags || []), ...add];
+  hit.verification.source += ` ${MARK2}：${p.basis}，故对未标的《${p.title}》补标 ${add.join('、')}。`;
+  changed += 1;
+  touched.add(file);
+  console.log(`✓ 《${p.title}》/${p.author} → +${add.join('、')}`);
 }
 
 console.log(`\n将补标 ${changed} 部${APPLY ? '' : '（干跑，未落盘；加 --apply 生效）'}`);

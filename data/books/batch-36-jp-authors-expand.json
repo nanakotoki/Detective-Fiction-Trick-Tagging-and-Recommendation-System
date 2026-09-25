@@ -306,7 +306,8 @@
       "honkaku",
       "dark-atmosphere",
       "series-detective",
-      "legend-folklore"
+      "legend-folklore",
+      "psychological-misdirection"
     ],
     "school": [
       "trick-school",
@@ -365,7 +366,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充·作者/系列层面（第 76 轮）**：「京极堂系列」6/7 部标有 `psychological-misdirection`，故对未标的《铁鼠之槛》补标 psychological-misdirection。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2009（馆藏题名「铁鼠之槛 下」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

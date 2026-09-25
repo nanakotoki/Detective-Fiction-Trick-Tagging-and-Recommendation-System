@@ -973,7 +973,8 @@
       "vanished-weapon",
       "concealment",
       "red-herring",
-      "identity"
+      "identity",
+      "multiple-solutions"
     ],
     "school": [
       "trick-school",
@@ -1024,7 +1025,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法大类枚举发现）：法月纶太郎著，漓江出版社 2015.05。**判据**：①**检索行主题词为「推理小说 长篇小说」**；②**中图分类 `I313.45`**；③提要写明「涉及凶案的隐秘」与「谁是凶手」这一解谜内核。**补作者缺口**：作者库内已有其作品。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法大类枚举发现）：法月纶太郎著，漓江出版社 2015.05。**判据**：①**检索行主题词为「推理小说 长篇小说」**；②**中图分类 `I313.45`**；③提要写明「涉及凶案的隐秘」与「谁是凶手」这一解谜内核。**补作者缺口**：作者库内已有其作品。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。 **诡计类标签补充·作者/系列层面（第 76 轮）**：作者既有 6/7 部标有 `multiple-solutions`，故对未标的《生首是闻》补标 multiple-solutions。"
     },
     "provenance": {
       "source": "batch-151-clc.json",

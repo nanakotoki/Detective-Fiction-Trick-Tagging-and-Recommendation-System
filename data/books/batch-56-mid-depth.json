@@ -354,7 +354,8 @@
       "first-person",
       "dark-atmosphere",
       "concealment",
-      "ensemble"
+      "ensemble",
+      "multiple-solutions"
     ],
     "school": [
       "bizarre-school",
@@ -407,7 +408,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充·作者/系列层面（第 76 轮）**：作者既有 19/22 部标有 `multiple-solutions`，故对未标的《幻坂》补标 multiple-solutions。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：東京 KADOKAWA 2016.1（馆藏题名「幻坂」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

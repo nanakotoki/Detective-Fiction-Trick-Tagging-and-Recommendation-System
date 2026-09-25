@@ -15,7 +15,8 @@
       "campus",
       "dual-role",
       "series-detective",
-      "youth"
+      "youth",
+      "cipher"
     ],
     "school": [
       "bizarre-school",
@@ -66,7 +67,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：江户川乱步著，天地出版社 2018。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏提要给出本册情节。**年份字段说明**：`firstPublished` 记 1936（原作年）；`editionYear` 记 2018。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：江户川乱步著，天地出版社 2018。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③馆藏提要给出本册情节。**年份字段说明**：`firstPublished` 记 1936（原作年）；`editionYear` 记 2018。 **诡计类标签补充·作者/系列层面（第 76 轮）**：「少年侦探团系列」6/7 部标有 `cipher`，故对未标的《妖怪博士》补标 cipher。"
     },
     "provenance": {
       "source": "batch-161-shlib.json",
