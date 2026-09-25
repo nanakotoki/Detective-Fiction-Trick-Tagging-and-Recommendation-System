@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "shlib177-001",
+    "title": "血色迷雾",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "historical-setting",
+      "dark-atmosphere",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍尔特的一册长篇：以伦敦那桩著名的旧案为底本写成。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "保罗·霍尔特的读者",
+        "密室与不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "「不可能」在哪里成立",
+        "解答给出的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：保罗·霍尔特著，吉林出版集团有限责任公司 2009，丛编「古典推理文库」（ISBN 978-7-80762-892-7）。**判据**：①**学科主题词为「推理小说 法国 现代 ; 长篇小说 法国 现代」**；②**中图分类号 `I565.45`**；③**丛编为推理专门书系**。馆藏提要注明本册**据伦敦「魔鬼杰克」案写成，并获 1988 年欧洲神秘小说金奖**——这是题材层面的信息，不含情节。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**标签依据说明**：`locked-room` **不是**从本册馆藏提要推出的（馆藏未提供提要），而是沿用本库对**这位作者**的既有处理——库内已有的 12 部霍尔特作品**全部**标了 `locked-room`（霍尔特以「不可能犯罪」为全部创作核心）。此处如实写明依据，便于日后区分「据作品判据」与「据作者整体风格」。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-002",
+    "title": "赫拉克勒斯十二宗疑案",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "ensemble",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍尔特的一册短篇连作：十二宗案子，按同一条线索排下来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "保罗·霍尔特的读者",
+        "密室与不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "「不可能」在哪里成立",
+        "解答给出的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：保罗·霍尔特著，吉林出版集团有限责任公司 2009，丛编「古典推理文库」（ISBN 978-7-5463-1645-1）。**判据**：①**学科主题词为「推理小说 法国 现代 ; 长篇小说 法国 现代」**；②**中图分类号 `I565.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**标签依据说明**：`locked-room` **不是**从本册馆藏提要推出的（馆藏未提供提要），而是沿用本库对**这位作者**的既有处理——库内已有的 12 部霍尔特作品**全部**标了 `locked-room`（霍尔特以「不可能犯罪」为全部创作核心）。此处如实写明依据，便于日后区分「据作品判据」与「据作者整体风格」。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-003",
+    "title": "混乱之王",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "psychological-misdirection",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍尔特的一册长篇：局面越是混乱，越看得出谁在安排。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "保罗·霍尔特的读者",
+        "密室与不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "「不可能」在哪里成立",
+        "解答给出的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：保罗·霍尔特著，吉林出版集团有限责任公司 2008，丛编「古典推理文库」（ISBN 978-7-80762-889-7）。**判据**：①**学科主题词为「推理小说 法国 现代 ; 长篇小说 法国 现代」**；②**中图分类号 `I565.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2008。**标签依据说明**：`locked-room` **不是**从本册馆藏提要推出的（馆藏未提供提要），而是沿用本库对**这位作者**的既有处理——库内已有的 12 部霍尔特作品**全部**标了 `locked-room`（霍尔特以「不可能犯罪」为全部创作核心）。此处如实写明依据，便于日后区分「据作品判据」与「据作者整体风格」。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-004",
+    "title": "犯罪七大奇迹",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "ensemble",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍尔特的一册长篇：七宗案子，各自「不可能」，摆在一起才看得懂。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "保罗·霍尔特的读者",
+        "密室与不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "「不可能」在哪里成立",
+        "解答给出的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：保罗·霍尔特著，吉林出版集团有限责任公司 2008，丛编「古典推理文库」（ISBN 978-7-80762-890-3）。**判据**：①**学科主题词为「推理小说 法国 现代 ; 长篇小说 法国 现代」**；②**中图分类号 `I565.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2008。**标签依据说明**：`locked-room` **不是**从本册馆藏提要推出的（馆藏未提供提要），而是沿用本库对**这位作者**的既有处理——库内已有的 12 部霍尔特作品**全部**标了 `locked-room`（霍尔特以「不可能犯罪」为全部创作核心）。此处如实写明依据，便于日后区分「据作品判据」与「据作者整体风格」。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-005",
+    "title": "画中疑云",
+    "originalTitle": "",
+    "author": "保罗·霍尔特",
+    "authorEn": "Paul Halter",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "霍尔特的一册长篇：一幅画里留着说不通的地方。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "保罗·霍尔特的读者",
+        "密室与不可能犯罪的读者"
+      ],
+      "watchFor": [
+        "「不可能」在哪里成立",
+        "解答给出的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：保罗·霍尔特著，新星出版社 2011，丛编「午夜文库·大师系列」（ISBN 978-7-5133-0305-7）。**判据**：①**学科主题词为「推理小说 法国 现代 ; 长篇小说 法国 现代」**；②**中图分类号 `I565.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**标签依据说明**：`locked-room` **不是**从本册馆藏提要推出的（馆藏未提供提要），而是沿用本库对**这位作者**的既有处理——库内已有的 12 部霍尔特作品**全部**标了 `locked-room`（霍尔特以「不可能犯罪」为全部创作核心）。此处如实写明依据，便于日后区分「据作品判据」与「据作者整体风格」。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-006",
+    "title": "翻过平城山的女人",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "日本优秀侦探小说",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "countryside",
+      "legend-folklore",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：一个女人翻过平城山，随后的事牵出一段旧案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，珠海出版社 2003，丛编「日本优秀侦探小说」（ISBN 7-80689-098-X）。**判据**：①**学科主题词为「侦探小说 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-007",
+    "title": "不等边三角形",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：三个人的关系像不等边三角形，长短各不相同。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，群众出版社 2013（ISBN 978-7-5014-4939-2）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：馆藏著录未给出丛编名，故 `series` 记「非系列」。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-008",
+    "title": "教室里的亡灵",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：事情从一间教室里的旧传闻开始。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，群众出版社 2013（ISBN 978-7-5014-4946-0）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：馆藏著录未给出丛编名，故 `series` 记「非系列」。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-009",
+    "title": "蓝色长廊之谜",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "日本优秀侦探小说丛书",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：一条蓝色的长廊，通向这户人家的旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，珠海出版社 2003，丛编「日本优秀侦探小说丛书」（ISBN 7-80607-997-1）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-010",
+    "title": "花儿无价",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "日本优秀侦探小说丛书",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "obsession",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册中篇集，各篇独立成案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，珠海出版社 2003，丛编「日本优秀侦探小说丛书」（ISBN 7-80607-996-3）。**判据**：①**学科主题词为「中篇小说 侦探小说 作品集 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-011",
+    "title": "沉睡的记忆",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "日本优秀侦探小说丛书",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：有人记不起该记起的事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，珠海出版社 2003，丛编「日本优秀侦探小说丛书」（ISBN 7-80689-000-9）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-012",
+    "title": "海市蜃楼",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "日本优秀侦探小说丛书",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "countryside",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：看得见却摸不着的东西，被人当了真。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，珠海出版社 2003，丛编「日本优秀侦探小说丛书」（ISBN 7-80607-999-8）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-013",
+    "title": "意大利幻想曲",
+    "originalTitle": "",
+    "author": "内田康夫",
+    "authorEn": "Yasuo Uchida",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "内田康夫推理系列",
+    "detective": "浅见光彦",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "countryside",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "内田康夫的一册长篇：一桩案子把人带到了意大利。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "内田康夫的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "地方风物与案子的关联",
+        "浅见光彦一路问到的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：内田康夫著，四川文艺出版社 2009，丛编「内田康夫推理系列」（ISBN 978-7-5411-2797-7）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**主角归属**：`detective` 记「浅见光彦」，与本库对该作者既有的 13 部处理一致（该系列为其代表作系）。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-014",
+    "title": "致命的三分钟",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本名家推理小说短篇精萃",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "passion",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "夏树静子的一册中短篇集，几桩案子各自独立。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，中国国际广播出版社 2000，丛编「日本名家推理小说短篇精萃」（ISBN 7-5078-1901-9）。**判据**：①**学科主题词为「推理小说 长篇小说 日本 现代 ; 推理小说 中篇小说 选集 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-015",
+    "title": "货运来的女人",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本名家推理小说短篇精萃",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "夏树静子的一册中短篇集，几桩案子各自独立。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，中国国际广播出版社 2000，丛编「日本名家推理小说短篇精萃」（ISBN 7-5078-1898-5）。**判据**：①**学科主题词为「推理小说 中篇小说 选集 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-016",
+    "title": "看不见的脸",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "女儿留言说去见网友，之后就没了消息；母亲一路找下去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，中国社会出版社 2009（ISBN 978-7-5087-2440-9）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。本册馆藏 330 提要写明「失踪案＋母亲寻找」这条前提，**梗概只取前提，不写入任何调查结果与结局**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-017",
+    "title": "逝去的影子",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "夏树静子的一册长篇：过去的人与事，影子还在。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，中国社会出版社 2009（ISBN 978-7-5087-2439-3）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-018",
+    "title": "青春的悬崖",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1996",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "passion"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "夏树静子的一册长篇：站在年轻时的那个坎上，往前一步就回不了头。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，群众出版社 1996，丛编「日本推理小说文库」（ISBN 7-5014-1395-9）。**判据**：①**学科主题词为「推理小说 现代 日本 ; 长篇小说 现代 日本」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1996。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-019",
+    "title": "天使在消失",
+    "originalTitle": "",
+    "author": "夏树静子",
+    "authorEn": "Shizuko Natsuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "译·推理",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "夏树静子的一册长篇：有人在一点点从原来的位置上消失。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏树静子的读者",
+        "女性视角犯罪小说的读者"
+      ],
+      "watchFor": [
+        "人物的处境与选择",
+        "叙述里没有明说的那一层"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：夏树静子著，译林出版社 2011，丛编「译·推理」（ISBN 978-7-5447-1764-9）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-020",
+    "title": "春季限定草莓挞事件",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "小市民系列",
+    "detective": "无固定侦探（两名高中生）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "「小市民」系列的一册：春天里的几件小事，被两个高中生看出了门道。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，新星出版社 2019，丛编「“小市民”系列」（ISBN 978-7-5133-3585-0）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2019。**系列归属**：馆藏丛编作「“小市民”系列」，据此归入 `小市民系列`。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-021",
+    "title": "夏季限定热带水果芭菲事件",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "小市民系列",
+    "detective": "无固定侦探（两名高中生）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "「小市民」系列的一册：夏天里的几桩日常谜题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，新星出版社 2019，丛编「“小市民”系列」（ISBN 978-7-5133-3635-2）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2019。**系列归属**：馆藏丛编作「“小市民”系列」，据此归入 `小市民系列`。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-022",
+    "title": "冬季限定夹心巧克力事件",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "小市民系列",
+    "detective": "无固定侦探（两名高中生）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "「小市民」系列的一册：一起肇事逃逸，和三年后另一场相似的车祸。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，长江文艺出版社 2025，丛编「米泽穗信作品」（ISBN 978-7-5702-4205-4）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列归属**：馆藏丛编作「米泽穗信作品」（未列系列名），但**馆藏提要写明主角为「少年小鸠和少女小佐内」**，故归入 `小市民系列`。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-023",
+    "title": "巴黎马卡龙之谜",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "小市民系列",
+    "detective": "无固定侦探（两名高中生）",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "「小市民」系列的一册：一桩与点心有关的日常谜题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，新星出版社 2021，丛编「“小市民”系列」（ISBN 978-7-5133-4559-0）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2021。**系列归属**：馆藏丛编作「“小市民”系列」，据此归入 `小市民系列`。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-024",
+    "title": "两人距离的概算",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "古典部系列",
+    "detective": "折木奉太郎",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "「古典部」系列的一册：新入社的人留下一句话，就不再来了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，百花洲文艺出版社 2014，丛编「“冰菓”系列」（ISBN 978-7-5500-0967-7）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**系列归属**：馆藏丛编作「“冰菓”系列」，本库按**人物系列**归入 `古典部系列`（库内既有的四部同系列条目即用此名），`detective` 记「折木奉太郎」——馆藏提要写明主角为奉太郎与古籍研究社。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib177-025",
+    "title": "追想五断章",
+    "originalTitle": "",
+    "author": "米泽穗信",
+    "authorEn": "Honobu Yonezawa",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "米泽穗信的一册长篇：五段追想拼在一起，才看得出当年的事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "米泽穗信的读者",
+        "日常之谜的读者"
+      ],
+      "watchFor": [
+        "看似无关的小事之间的关联",
+        "推理者收手的分寸"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」与库内题名双向比对）：米泽穗信著，译林出版社 2011，丛编「米泽穗信系列」（ISBN 978-7-5447-1545-4）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**系列归属**：馆藏丛编作「“小市民”系列」，据此归入 `小市民系列`。"
+    },
+    "provenance": {
+      "source": "batch-177-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
