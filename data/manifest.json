@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-25T16:28:51.778Z",
+  "generatedAt": "2026-09-25T16:35:41.819Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2531,
-    "dataFiles": 174,
+    "books": 2534,
+    "dataFiles": 175,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2531,
+    "withSafeSummary": 2534,
     "withPlatformRating": 1041
   },
   "tagDistribution": [
@@ -59,7 +59,7 @@
         {
           "id": "multiple-solutions",
           "label": "多重解答",
-          "books": 626
+          "books": 628
         },
         {
           "id": "psychological-misdirection",
@@ -69,12 +69,12 @@
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1186
+          "books": 1189
         },
         {
           "id": "swap-murder",
           "label": "交换杀人",
-          "books": 7
+          "books": 8
         },
         {
           "id": "nursery-rhyme",
@@ -84,7 +84,7 @@
         {
           "id": "cipher",
           "label": "暗号密码",
-          "books": 183
+          "books": 184
         },
         {
           "id": "dual-role",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 415
+          "books": 418
         },
         {
           "id": "diary-form",
@@ -272,7 +272,7 @@
         {
           "id": "honkaku",
           "label": "本格解谜",
-          "books": 492
+          "books": 493
         },
         {
           "id": "social-commentary",
@@ -344,12 +344,12 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 952
+          "books": 953
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1434
+          "books": 1437
         },
         {
           "id": "social-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2531
+    "checkedBooks": 2534
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

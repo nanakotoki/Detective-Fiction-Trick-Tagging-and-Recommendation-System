@@ -151,6 +151,23 @@ const externalAbsOf = (b) => {
   for (const n of names) {
     for (const e of ext.get(norm(n)) || []) if (authorOk(b.author, e.who)) out.push(e.abs);
   }
+  /**
+   * **包含匹配兜底**：库内题名与馆藏写法常差一个卷次数字或标点
+   * （库内《心理罪·画像》对上馆藏《心理罪 2 画像》，《柳园图》对上《柳园图奇案》），
+   * 只按完全相等取提要会白白丢掉证据。短边 ≥4 字时才做包含判断，仍然要求作者吻合。
+   */
+  if (!out.length) {
+    for (const [k, list] of ext) {
+      for (const n of names) {
+        const a = norm(n);
+        if (a.length < 4) continue;
+        const [short, long] = a.length <= k.length ? [a, k] : [k, a];
+        if (short.length >= 4 && long.includes(short)) {
+          for (const e of list) if (authorOk(b.author, e.who)) out.push(e.abs);
+        }
+      }
+    }
+  }
   return out;
 };
 

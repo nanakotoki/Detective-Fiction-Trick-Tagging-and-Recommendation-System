@@ -127,26 +127,33 @@ const REJECTED = [
 ];
 
 const files = readdirSync('data/books').filter((x) => x.endsWith('.json') && !x.startsWith('_'));
-const dirty = new Map();
+
+/**
+ * **一次性读入全部批次，最后统一写回。**
+ *
+ * 第一版是「每条计划各自去读文件、命中就记进 dirty」，结果同一批次被两条计划命中时，
+ * 后一条会用**从磁盘重读的旧数组**覆盖前一条的修改——`clc141-021`（打雪仗）与
+ * `clc141-038`（待我有罪时.2）同在 `batch-141-clc.json`，跑完只有前一条生效，
+ * 而脚本还照旧打印了两行 ✓。改成一次性读入后，这类覆盖不可能再发生。
+ */
+const store = new Map(); // 文件名 → 数组
+const where = new Map(); // id → 文件名
+for (const f of files) {
+  const arr = JSON.parse(readFileSync(`data/books/${f}`, 'utf8'));
+  store.set(f, arr);
+  for (const b of arr) where.set(b.id, f);
+}
+
 let changed = 0;
+const touched = new Set();
 
 for (const p of PLAN) {
-  let hit = null;
-  let file = null;
-  for (const f of files) {
-    const arr = JSON.parse(readFileSync(`data/books/${f}`, 'utf8'));
-    const i = arr.findIndex((b) => b.id === p.id);
-    if (i !== -1) {
-      hit = arr[i];
-      file = f;
-      if (!dirty.has(f)) dirty.set(f, arr);
-      break;
-    }
-  }
-  if (!hit) {
+  const file = where.get(p.id);
+  if (!file) {
     console.log(`✗ 找不到 ${p.id}（${p.title}）`);
     continue;
   }
+  const hit = store.get(file).find((b) => b.id === p.id);
   if (hit.verification?.source?.includes(MARK)) {
     console.log(`· ${p.id} ${p.title} 已补过，跳过`);
     continue;
@@ -159,6 +166,7 @@ for (const p of PLAN) {
   hit.tags = [...(hit.tags || []), ...add];
   hit.verification.source += ` ${MARK}：据${p.src}「${p.quote}」补标 ${add.join('、')}（${p.why}）。`;
   changed += 1;
+  touched.add(file);
   console.log(`✓ ${p.id} ${p.title} → +${add.join('、')}`);
 }
 
@@ -167,6 +175,6 @@ console.log(`已剔除的候选 ${REJECTED.length} 条：`);
 for (const [id, title, tag, why] of REJECTED) console.log(`  ✗ ${id} ${title} ${tag} —— ${why}`);
 
 if (APPLY && changed) {
-  for (const [f, arr] of dirty) writeFileSync(`data/books/${f}`, JSON.stringify(arr, null, 2) + '\n', 'utf8');
-  console.log(`\n已写入 ${dirty.size} 个数据文件`);
+  for (const f of touched) writeFileSync(`data/books/${f}`, JSON.stringify(store.get(f), null, 2) + '\n', 'utf8');
+  console.log(`\n已写入 ${touched.size} 个数据文件`);
 }

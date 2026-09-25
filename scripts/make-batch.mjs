@@ -44,6 +44,8 @@ const out = spec.books.map((b, n) => {
     title: b.title,
     originalTitle: b.originalTitle || '',
     author: b.author,
+    // 合集/多作者条目要带 authors 数组（库内既有写法，前端与统计脚本都优先读它）
+    ...(b.authors?.length ? { authors: b.authors } : {}),
     authorEn: b.authorEn,
     genre: b.genre,
     firstPublished: b.firstPublished || '',

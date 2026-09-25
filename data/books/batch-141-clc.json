@@ -2744,7 +2744,8 @@
       "series-detective",
       "identity",
       "concealment",
-      "ensemble"
+      "ensemble",
+      "swap-murder"
     ],
     "school": [
       "psychological-school",
@@ -2796,7 +2797,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：丁墨著，百花文艺出版社 2019。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2019，`editionYear` **留空**。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：丁墨著，百花文艺出版社 2019。**推理属性判据**：①**索书号／中图分类为 `I247.56`**；②**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**。**年份字段说明**：中文原创，`firstPublished` 记 2019，`editionYear` **留空**。 **诡计类标签补充（第 72 轮）**：据本库梗概「一起已结案的交换杀人案另有隐情」补标 swap-murder（原文直书「交换杀人案」）。"
     },
     "provenance": {
       "source": "batch-141-clc.json",

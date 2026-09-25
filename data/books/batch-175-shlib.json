@@ -1,0 +1,226 @@
+[
+  {
+    "id": "shlib175-001",
+    "title": "神秘的第三者",
+    "originalTitle": "Problem at Pollensa Bay and Other Stories",
+    "author": "阿加莎·克里斯蒂",
+    "authorEn": "Agatha Christie",
+    "genre": "本格推理",
+    "firstPublished": "1991",
+    "editionYear": "1998",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "英国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "克里斯蒂的一册短篇集，各篇侦探不同，谜面各自独立。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "克里斯蒂短篇的读者",
+        "古典本格的读者"
+      ],
+      "watchFor": [
+        "每篇的侦探与讲述方式",
+        "短篇里谜面的铺法"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 与 `type=Title` 双向核对）：阿加莎·克里斯蒂著、刘启升译，贵州人民出版社 1998，丛编「阿加莎·克里斯蒂作品全集」（ISBN 7-221-04705-7）。**判据**：①**学科主题词为「长篇小说 侦探小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为克里斯蒂作品专集**。**原作判定**：上图 CNMARC 的**统一／并列题名字段**直接给出原作 `Problem at pollensa bay and other stories`——这是**馆藏给出的原作名**，不依赖任何二手对照表。**体例说明**：原作名含「and other stories」，本册实为**短篇集**；馆藏主题词却作「长篇小说」，属编目不一致，本库按**短篇集**处理（`series` 记「非系列（短篇集）」）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 记该短篇集的原版初版年 1991（据原作名核定的通行书目）；`editionYear` 记本库所引 1998 年贵州人民出版社版。"
+    },
+    "provenance": {
+      "source": "batch-175-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib175-002",
+    "title": "世界经典侦探小说大全集",
+    "originalTitle": "",
+    "author": "阿加莎·克里斯蒂 等",
+    "authors": [
+      "阿加莎·克里斯蒂"
+    ],
+    "authorEn": "Agatha Christie et al.",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "ensemble",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "一本世界侦探小说短篇合集，收入多位名侦探的经典短案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想一次读多位名家的读者",
+        "古典短篇的读者"
+      ],
+      "watchFor": [
+        "同一谜面在不同作家笔下的写法",
+        "各家侦探的出场方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 与 `type=Title` 双向核对）：克里斯蒂等著、敖冰落编，外文出版社 2012（ISBN 978-7-119-07500-6）。**判据**：①**学科主题词为「侦探小说 小说集 世界」**；②**中图分类号 `I14`**。**作者归属说明**：馆藏责任者为「克里斯蒂、敖冰落」，主题词作「**世界**小说集」，本册实为**多作家短篇合集**，故 `author` 记「阿加莎·克里斯蒂 等」、`country` 沿用库内同类合集（《世界经典推理故事集》）的写法记「英国」。**馆藏有两条记录**（ISBN 978-7-119-07500-6 与 978-7-119-07501-3），本库按**一种书**收一条。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（合集不适用单一初版年）；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-175-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib175-003",
+    "title": "大侦探：史上最练脑的推理故事",
+    "originalTitle": "",
+    "author": "阿加莎·克里斯蒂 等",
+    "authors": [
+      "阿加莎·克里斯蒂"
+    ],
+    "authorEn": "Agatha Christie et al.",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "ensemble",
+      "red-herring",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "一本世界推理短篇合集，按谜面类型分辑编排。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想一次读多位名家的读者",
+        "短篇推理的读者"
+      ],
+      "watchFor": [
+        "各辑的编排思路",
+        "不同作家的谜面路数"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 与 `type=Title` 双向核对）：克里斯蒂等著、佳园／王阳编译，中国华侨出版社 2013（ISBN 978-7-5113-3868-6）。**判据**：①**学科主题词为「推理小说 小说集 世界 ; 短篇小说 小说集 世界」**；②**中图分类号 `I14`**。**题名说明**：馆藏正题名作「大侦探」，**其他题名字段**给出副题「史上最练脑的推理故事」，本库合为一条题名。**作者归属**：与上一条同理，`author` 记「阿加莎·克里斯蒂 等」。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与系列体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（合集不适用单一初版年）；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-175-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
