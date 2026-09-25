@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-25T16:19:29.213Z",
+  "generatedAt": "2026-09-25T16:25:14.397Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2481,
-    "dataFiles": 172,
+    "books": 2506,
+    "dataFiles": 173,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2481,
+    "withSafeSummary": 2506,
     "withPlatformRating": 1041
   },
   "tagDistribution": [
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 410
+          "books": 412
         },
         {
           "id": "diary-form",
@@ -153,7 +153,7 @@
         {
           "id": "mansion",
           "label": "洋馆",
-          "books": 197
+          "books": 202
         },
         {
           "id": "train",
@@ -173,12 +173,12 @@
         {
           "id": "countryside",
           "label": "乡村",
-          "books": 223
+          "books": 226
         },
         {
           "id": "city",
           "label": "都市",
-          "books": 735
+          "books": 739
         },
         {
           "id": "snowfield",
@@ -198,12 +198,12 @@
         {
           "id": "theater",
           "label": "剧场",
-          "books": 24
+          "books": 25
         },
         {
           "id": "historical-setting",
           "label": "时代背景",
-          "books": 326
+          "books": 329
         }
       ]
     },
@@ -220,12 +220,12 @@
         {
           "id": "gain",
           "label": "财杀",
-          "books": 118
+          "books": 119
         },
         {
           "id": "passion",
           "label": "情杀",
-          "books": 51
+          "books": 56
         },
         {
           "id": "silencing",
@@ -240,22 +240,22 @@
         {
           "id": "obsession",
           "label": "执念",
-          "books": 180
+          "books": 181
         },
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 332
+          "books": 335
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1249
+          "books": 1262
         },
         {
           "id": "fear",
           "label": "恐惧",
-          "books": 278
+          "books": 283
         },
         {
           "id": "curiosity",
@@ -292,12 +292,12 @@
         {
           "id": "cozy",
           "label": "日常之谜",
-          "books": 53
+          "books": 56
         },
         {
           "id": "youth",
           "label": "青春",
-          "books": 130
+          "books": 134
         },
         {
           "id": "meta-fiction",
@@ -307,12 +307,12 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1071
+          "books": 1092
         },
         {
           "id": "legend-folklore",
           "label": "民俗传说",
-          "books": 235
+          "books": 236
         },
         {
           "id": "forensic",
@@ -339,7 +339,7 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 698
+          "books": 701
         },
         {
           "id": "trick-school",
@@ -349,7 +349,7 @@
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1386
+          "books": 1411
         },
         {
           "id": "social-school",
@@ -394,7 +394,7 @@
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 164
+          "books": 186
         },
         {
           "id": "meta-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2481
+    "checkedBooks": 2506
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
