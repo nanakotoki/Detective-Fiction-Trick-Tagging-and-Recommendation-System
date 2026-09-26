@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "shlib183-001",
+    "title": "无人幸免",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "骆辛",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "一栋老旧小区里出了命案，天才神探骆辛接手调查。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，湖南文艺出版社 2022（ISBN 978-7-5726-0819-3）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了案件现场与被害人此前的行为，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2022；`firstPublished` **留空**。**主角归属**：馆藏提要写明主角为「罹患后天性学者症候群的天才神探**骆辛**」，据此填 `detective`。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-002",
+    "title": "推理演绎法",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "骆辛",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "identity",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "骆辛以「推理演绎法」配合刑警队办案，也在这个过程中重新面对自己。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，湖南文艺出版社 2021（ISBN 978-7-5404-9988-4）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了主角的身世与创伤，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2021；`firstPublished` **留空**。**主角归属**：馆藏提要写明主角为「罹患后天性学者症候群的天才神探**骆辛**」，据此填 `detective`。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-003",
+    "title": "犯罪心理档案 第一季",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "犯罪心理档案系列",
+    "detective": "韩印",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「犯罪心理档案」第一季：一桩陈年悬案重启，犯罪心理专家加入侦办。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，湖南文艺出版社 2026（ISBN 978-7-5726-2815-3）。**判据**：①**学科主题词为「长篇小说 中国 当代 ; 侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了案件的发现经过，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2026；`firstPublished` **留空**。**主角归属**：馆藏提要在《操纵之渊》一册写明「犯罪心理学专家**韩印**、法医顾菲菲、警员杜英雄、艾小美组成的重案小组」，本系列其余各册据此同记 `detective: 韩印`；**这是据同系列已点明的主角推定，非本册著录原文**。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-004",
+    "title": "犯罪心理档案 第三季 逐暗者",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "犯罪心理档案系列",
+    "detective": "韩印",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「犯罪心理档案」第三季，收《杀手之城》等四个故事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，贵州人民出版社 2020（ISBN 978-7-221-15790-4）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**主角归属**：馆藏提要在《操纵之渊》一册写明「犯罪心理学专家**韩印**、法医顾菲菲、警员杜英雄、艾小美组成的重案小组」，本系列其余各册据此同记 `detective: 韩印`；**这是据同系列已点明的主角推定，非本册著录原文**。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-005",
+    "title": "犯罪心理档案 操纵之渊",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "犯罪心理档案系列",
+    "detective": "韩印",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「犯罪心理档案」的一册：重案小组跨区域侦办几桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，湖南文艺出版社 2026（ISBN 978-7-5726-3041-5）。**判据**：①**学科主题词为「推理小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了小组的人员构成与办案方式，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2026；`firstPublished` **留空**。**主角归属**：馆藏提要在《操纵之渊》一册写明「犯罪心理学专家**韩印**、法医顾菲菲、警员杜英雄、艾小美组成的重案小组」，本系列其余各册据此同记 `detective: 韩印`；**这是据同系列已点明的主角推定，非本册著录原文**。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-006",
+    "title": "犯罪心理档案 讨血债",
+    "originalTitle": "",
+    "author": "刚雪印",
+    "authorEn": "Gang Xueyin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "犯罪心理档案系列",
+    "detective": "韩印",
+    "country": "中国",
+    "tags": [
+      "revenge",
+      "psychological-misdirection",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「犯罪心理档案」的一册：几个人各自揣着一笔旧账。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刚雪印的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证之间的相互印证",
+        "人物的处境与动机"
+      ],
+      "warning": "犯罪心理题材小说，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：刚雪印著，湖南文艺出版社 2026（ISBN 978-7-5726-3114-6）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了书中人物的内心独白，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2026；`firstPublished` **留空**。**主角归属**：馆藏提要在《操纵之渊》一册写明「犯罪心理学专家**韩印**、法医顾菲菲、警员杜英雄、艾小美组成的重案小组」，本系列其余各册据此同记 `detective: 韩印`；**这是据同系列已点明的主角推定，非本册著录原文**。**系列归属**：各册题名均含「犯罪心理档案」，据此归入同一系列（馆藏丛编字段为空）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-007",
+    "title": "大宅疑云",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Si Shui Wu Hen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "麦林悬疑",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "mansion",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "似水无痕的一册长篇：一座大宅里的人与事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "似水无痕的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "每个嫌疑人身上的那点「说不通」",
+        "案子与旧事的对应"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：似水无痕著，广西人民出版社 2013（ISBN 978-7-219-07964-5）。**判据**：①**学科主题词为「推理小说 中国 现代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为麦林悬疑**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**同书说明**：候选《疑云记》（文汇出版社 2010）与**库内已有的《疑云记：都市命案奇谈》**题名仅差副题，判为同书，**本批不收**（该条已在库内）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-008",
+    "title": "校园奇异侦探社",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Si Shui Wu Hen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "胆小鬼系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "campus",
+      "youth",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "似水无痕的一册长篇：校园里的一个侦探社，接下了不该接的委托。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "似水无痕的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "每个嫌疑人身上的那点「说不通」",
+        "案子与旧事的对应"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：似水无痕著，广西人民出版社 2011（ISBN 978-7-219-07241-7）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为胆小鬼系列**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2011；`firstPublished` **留空**。**同书说明**：候选《疑云记》（文汇出版社 2010）与**库内已有的《疑云记：都市命案奇谈》**题名仅差副题，判为同书，**本批不收**（该条已在库内）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-009",
+    "title": "诡案迷踪",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Si Shui Wu Hen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "似水无痕的一册长篇：一桩说不清的案子，线索越走越乱。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "似水无痕的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "每个嫌疑人身上的那点「说不通」",
+        "案子与旧事的对应"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：似水无痕著，广西人民出版社 2011（ISBN 978-7-219-07384-1）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2011；`firstPublished` **留空**。**同书说明**：候选《疑云记》（文汇出版社 2010）与**库内已有的《疑云记：都市命案奇谈》**题名仅差副题，判为同书，**本批不收**（该条已在库内）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-010",
+    "title": "推理女王的游戏",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Si Shui Wu Hen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "似水无痕的一册长篇：一场以推理为名的游戏。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "似水无痕的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "每个嫌疑人身上的那点「说不通」",
+        "案子与旧事的对应"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：似水无痕著，广西人民出版社 2012（ISBN 978-7-219-07542-5）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**同书说明**：候选《疑云记》（文汇出版社 2010）与**库内已有的《疑云记：都市命案奇谈》**题名仅差副题，判为同书，**本批不收**（该条已在库内）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-011",
+    "title": "嫌疑之索",
+    "originalTitle": "",
+    "author": "似水无痕",
+    "authorEn": "Si Shui Wu Hen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "red-herring",
+      "ensemble",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "似水无痕的一册长篇：案子照着多年前出版的一本推理小说发生。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "似水无痕的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "每个嫌疑人身上的那点「说不通」",
+        "案子与旧事的对应"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：似水无痕著，广西人民出版社 2014（ISBN 978-7-219-08664-3）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了案件与那本小说的对应关系，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2014；`firstPublished` **留空**。**同书说明**：候选《疑云记》（文汇出版社 2010）与**库内已有的《疑云记：都市命案奇谈》**题名仅差副题，判为同书，**本批不收**（该条已在库内）。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-012",
+    "title": "猎凶记 四宗诡异凶杀案",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "Yue Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "猎凶记系列",
+    "detective": "龙毅",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「猎凶记」系列的第一册：四宗各自诡异的凶杀案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岳勇的读者",
+        "刑侦题材推理的读者"
+      ],
+      "watchFor": [
+        "每个案子的切口",
+        "办案团队的推演过程"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岳勇著，中国友谊出版公司 2016（ISBN 978-7-5057-3762-4）。**判据**：①**学科主题词为「推理小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2016；`firstPublished` **留空**。**主角归属**：馆藏提要写明「以**龙毅**为首的警察团队」，本系列据此同记 `detective: 龙毅`。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-013",
+    "title": "猎凶记 2 黑暗绝杀",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "Yue Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "猎凶记系列",
+    "detective": "龙毅",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「猎凶记」系列的一册：四个相互独立又彼此关联的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岳勇的读者",
+        "刑侦题材推理的读者"
+      ],
+      "watchFor": [
+        "每个案子的切口",
+        "办案团队的推演过程"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岳勇著，中国友谊出版公司 2017（ISBN 978-7-5057-3950-5）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了办案团队的人员与办案方式，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2017；`firstPublished` **留空**。**主角归属**：馆藏提要写明「以**龙毅**为首的警察团队」，本系列据此同记 `detective: 龙毅`。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-014",
+    "title": "猎凶记 大结局",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "Yue Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "猎凶记系列",
+    "detective": "龙毅",
+    "country": "中国",
+    "tags": [
+      "silencing",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「猎凶记」系列的大结局：二十年前的一桩拐卖案，二十年后仍在追。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岳勇的读者",
+        "刑侦题材推理的读者"
+      ],
+      "watchFor": [
+        "每个案子的切口",
+        "办案团队的推演过程"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岳勇著，中国友谊出版公司 2018（ISBN 978-7-5057-4386-1）。**判据**：①**学科主题词为「推理小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了案件跨越二十年的格局，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2018；`firstPublished` **留空**。**主角归属**：馆藏提要写明「以**龙毅**为首的警察团队」，本系列据此同记 `detective: 龙毅`。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-015",
+    "title": "觅凶者 被交换的命运",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "Yue Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "swap-murder",
+      "revenge"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "三个互不相识、各自揣着心事的人凑到了一处。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岳勇的读者",
+        "刑侦题材推理的读者"
+      ],
+      "watchFor": [
+        "每个案子的切口",
+        "办案团队的推演过程"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岳勇著，中国工人出版社 2018（ISBN 978-7-5008-7041-8）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了三人的约定，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2018；`firstPublished` **留空**。**主角归属**：馆藏未提供本册提要、题名也未点出侦探，故 `detective` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-016",
+    "title": "命案十三宗",
+    "originalTitle": "",
+    "author": "岳勇",
+    "authorEn": "Yue Yong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "岳勇的一册长篇：十三桩案子的串接。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岳勇的读者",
+        "刑侦题材推理的读者"
+      ],
+      "watchFor": [
+        "每个案子的切口",
+        "办案团队的推演过程"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岳勇著，新世界出版社 2013（ISBN 978-7-5104-2166-2）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**主角归属**：馆藏未提供本册提要、题名也未点出侦探，故 `detective` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-017",
+    "title": "草莓之夜",
+    "originalTitle": "",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "誉田哲也的一册长篇：一桩命案把一名女刑警卷了进去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "誉田哲也的读者",
+        "日式警察小说的读者"
+      ],
+      "watchFor": [
+        "搜查一课的层级与分工",
+        "案件里被忽略的那句证词"
+      ],
+      "warning": "警察小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：誉田哲也著，圆神出版社有限公司 2013（ISBN 978-986-133-444-8）。**判据**：①**学科主题词为「侦探小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为当代文学**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**系列归属**：馆藏丛编未显示本册属哪个人物系列，故记「非系列」、`detective` 留空——**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-018",
+    "title": "感染游戏",
+    "originalTitle": "",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "誉田哲也的一册短篇集，各篇独立。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "誉田哲也的读者",
+        "日式警察小说的读者"
+      ],
+      "watchFor": [
+        "搜查一课的层级与分工",
+        "案件里被忽略的那句证词"
+      ],
+      "warning": "警察小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：誉田哲也著，现代出版社 2019（ISBN 978-7-5143-7498-8）。**判据**：①**学科主题词为「推理小说 小说集 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为现代推理馆**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2019；`firstPublished` **留空**。**系列归属**：馆藏丛编未显示本册属哪个人物系列，故记「非系列」、`detective` 留空——**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-019",
+    "title": "看不见的雨",
+    "originalTitle": "",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "誉田哲也的一册长篇：有些东西看不见，却一直在下。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "誉田哲也的读者",
+        "日式警察小说的读者"
+      ],
+      "watchFor": [
+        "搜查一课的层级与分工",
+        "案件里被忽略的那句证词"
+      ],
+      "warning": "警察小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：誉田哲也著，现代出版社 2019（ISBN 978-7-5143-7807-8）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2019；`firstPublished` **留空**。**系列归属**：馆藏丛编未显示本册属哪个人物系列，故记「非系列」、`detective` 留空——**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-020",
+    "title": "甜蜜的犯罪",
+    "originalTitle": "",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "鱼住久江系列",
+    "detective": "鱼住久江",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "誉田哲也的一册短篇集：女刑警鱼住久江经手的五个案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "誉田哲也的读者",
+        "日式警察小说的读者"
+      ],
+      "watchFor": [
+        "搜查一课的层级与分工",
+        "案件里被忽略的那句证词"
+      ],
+      "warning": "警察小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：誉田哲也著，重庆出版社 2016（ISBN 978-7-229-11292-9）。**判据**：①**学科主题词为「推理小说 小说集 日本 现代」**；②**中图分类号 `I313.45`**。**提要使用**：馆藏 330 提要写到了主角的处境与五个案子的篇名，**梗概只取案件的起点**，**不写入侦破过程、凶手身份与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2016；`firstPublished` **留空**。**主角归属**：馆藏提要写明本册「以**鱼住久江**为主要人物讲述了五个案子」，据此填 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-021",
+    "title": "蓝色面具",
+    "originalTitle": "",
+    "author": "誉田哲也",
+    "authorEn": "Tetsuya Honda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "誉田哲也的一册长篇：一张蓝色的面具下面是谁。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "誉田哲也的读者",
+        "日式警察小说的读者"
+      ],
+      "watchFor": [
+        "搜查一课的层级与分工",
+        "案件里被忽略的那句证词"
+      ],
+      "warning": "警察小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：誉田哲也著，现代出版社 2019（ISBN 978-7-5143-7497-1）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为现代推理馆**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2019；`firstPublished` **留空**。**系列归属**：馆藏丛编未显示本册属哪个人物系列，故记「非系列」、`detective` 留空——**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-022",
+    "title": "恶女的告白",
+    "originalTitle": "",
+    "author": "叶真中显",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "unreliable-narrator",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "叶真中显的一册长篇：一个被叫作「恶女」的人，讲了她自己的版本。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "叶真中显的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场",
+        "社会结构压在个人身上的那部分"
+      ],
+      "warning": "社会派推理小说，含命案与社会议题描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶真中显著，中国友谊出版公司 2024（ISBN 978-7-5057-5810-0）。**判据**：①**学科主题词为「推理小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2024；`firstPublished` **留空**。**系列归属**：馆藏丛编为空、且本作者作品多为独立长篇，故记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-023",
+    "title": "然后，化成海上的泡沫",
+    "originalTitle": "",
+    "author": "叶真中显",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "叶真中显的一册长篇：一个人从世上退场之后。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "叶真中显的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场",
+        "社会结构压在个人身上的那部分"
+      ],
+      "warning": "社会派推理小说，含命案与社会议题描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶真中显著，湖南文艺出版社 2025（ISBN 978-7-5726-2073-7）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列归属**：馆藏丛编为空、且本作者作品多为独立长篇，故记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-024",
+    "title": "咖喱的女神",
+    "originalTitle": "",
+    "author": "叶真中显",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "red-herring",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "叶真中显的一册短篇集，收六篇推理小说。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "叶真中显的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场",
+        "社会结构压在个人身上的那部分"
+      ],
+      "warning": "社会派推理小说，含命案与社会议题描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶真中显著，湖南文艺出版社 2025（ISBN 978-7-5726-2319-6）。**判据**：①**学科主题词为「短篇小说 小说集 日本 现代 ; 推理小说 小说集 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列归属**：馆藏丛编为空、且本作者作品多为独立长篇，故记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib183-025",
+    "title": "鼓动",
+    "originalTitle": "",
+    "author": "叶真中显",
+    "authorEn": "Nakayama Shichiri",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "psychological-misdirection",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "叶真中显的一册长篇：有什么东西一直在背后推动。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "叶真中显的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场",
+        "社会结构压在个人身上的那部分"
+      ],
+      "warning": "社会派推理小说，含命案与社会议题描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶真中显著，北京联合出版公司 2026（ISBN 978-7-5596-8655-8）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2026；`firstPublished` **留空**。**系列归属**：馆藏丛编为空、且本作者作品多为独立长篇，故记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-183-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
