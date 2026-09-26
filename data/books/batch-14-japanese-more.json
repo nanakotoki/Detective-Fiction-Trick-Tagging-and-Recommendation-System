@@ -1436,7 +1436,7 @@
     "originalTitle": "黒祠の島",
     "author": "小野不由美",
     "authorEn": "Fuyumi Ono",
-    "genre": "恐怖",
+    "genre": "变格",
     "firstPublished": "2001",
     "series": "非系列",
     "detective": "式部刚（调查事务所）",
@@ -1505,13 +1505,14 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **题材归口复核（第 96 轮）**：上图 MARC 主题词「推理小说 日本 现代」（吉林出版集团 2012）—— 编目方直标推理小说，故保留；原 genre「恐怖」与用户口径冲突，改归「变格」（怪奇·离岛祭祀向）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2012（馆藏题名「黑祠之岛」／小野不由美）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2012"
+    "editionYear": "2012",
+    "genreDetail": "怪奇推理（馆藏主题词：推理小说）"
   }
 ]

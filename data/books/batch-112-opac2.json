@@ -10,21 +10,59 @@
     "series": "非系列",
     "detective": "",
     "country": "英国",
-    "tags": ["countryside", "concealment", "ensemble"],
-    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "tags": [
+      "countryside",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
     "safeSummary": "浓雾里，斯塔克韦瑟的车冲进了沟里。他摸黑走到附近一户人家求助，却在客厅里撞见了一桩刚刚发生的命案，以及一个手里还握着枪的人。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["克里斯蒂剧作改编作品的读者", "喜欢单一现场多人证词的读者"],
-      "watchFor": ["斯塔克韦瑟进门后看到的顺序", "在场各人的证词出入", "雾中与宅子里时间的对照"],
+      "suitableFor": [
+        "克里斯蒂剧作改编作品的读者",
+        "喜欢单一现场多人证词的读者"
+      ],
+      "watchFor": [
+        "斯塔克韦瑟进门后看到的顺序",
+        "在场各人的证词出入",
+        "雾中与宅子里时间的对照"
+      ],
       "warning": "本格推理长篇，含枪击命案与现场对峙描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -48,21 +86,59 @@
     "series": "赫尔克里·波洛系列",
     "detective": "赫尔克里·波洛",
     "country": "英国",
-    "tags": ["mansion", "locked-space", "vanished-weapon"],
-    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "tags": [
+      "mansion",
+      "locked-space",
+      "vanished-weapon"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
     "safeSummary": "物理学家克劳德·阿莫里爵士研究出一个全新的方程式。他把几位客人请到家中，席间离开片刻，回来时人已死在锁着的房间里，而那份公式也不见了。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["波洛系列的读者", "喜欢室内单一现场谜案的读者"],
-      "watchFor": ["咖啡杯的取用与摆放", "几位客人离席的时间", "那份方程式的存放处"],
+      "suitableFor": [
+        "波洛系列的读者",
+        "喜欢室内单一现场谜案的读者"
+      ],
+      "watchFor": [
+        "咖啡杯的取用与摆放",
+        "几位客人离席的时间",
+        "那份方程式的存放处"
+      ],
       "warning": "本格推理长篇，含中毒命案与密室相关描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -86,21 +162,58 @@
     "series": "非系列",
     "detective": "",
     "country": "英国",
-    "tags": ["adventure", "spy-espionage", "city"],
-    "school": ["adventure-school", "spy-school"],
+    "tags": [
+      "adventure",
+      "spy-espionage",
+      "city"
+    ],
+    "school": [
+      "adventure-school",
+      "spy-school"
+    ],
     "safeSummary": "一班飞往日内瓦的航班因故无法抵达，形形色色的旅客被困在中转地。外交官斯塔福德在机场遇到一位求助的年轻女子，随后被卷进一桩远超预期的麻烦。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["克里斯蒂非系列作品的读者", "喜欢旅途舞台的读者"],
-      "watchFor": ["机场里各色旅客的来历", "那位女子的请求", "斯塔福德此行的差事"],
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢旅途舞台的读者"
+      ],
+      "watchFor": [
+        "机场里各色旅客的来历",
+        "那位女子的请求",
+        "斯塔福德此行的差事"
+      ],
       "warning": "冒险悬疑长篇，冷战后背景，含间谍组织与阴谋描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -124,21 +237,59 @@
     "series": "埃勒里·奎因短篇集",
     "detective": "埃勒里·奎因",
     "country": "美国",
-    "tags": ["cipher", "mansion", "locked-room"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "cipher",
+      "mansion",
+      "locked-room"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "奎因短篇集，收录《上帝之灯》《寻宝游戏》《空心的龙》《黑暗之屋》《泣血的画像》等篇目，各篇多为不可能的现场或难解的符号。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["奎因短篇的读者", "喜欢逻辑推演型短篇的读者"],
-      "watchFor": ["各篇中不合常理的物证", "叙述者列出的疑点清单", "篇末推理所依赖的那条线索"],
+      "suitableFor": [
+        "奎因短篇的读者",
+        "喜欢逻辑推演型短篇的读者"
+      ],
+      "watchFor": [
+        "各篇中不合常理的物证",
+        "叙述者列出的疑点清单",
+        "篇末推理所依赖的那条线索"
+      ],
       "warning": "本格推理短篇集，含命案、失踪与怪奇现场描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -162,21 +313,59 @@
     "series": "伯恩斯系列（短篇集）",
     "detective": "伯恩斯",
     "country": "法国",
-    "tags": ["locked-room", "legend-folklore", "psychological-misdirection"],
-    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
     "safeSummary": "保罗·霍尔特的短篇集：以伯恩斯为主人公的六个短篇，外加若干独立成篇的故事，案情多为看似无法实现的现场。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["不可能犯罪的爱好者", "法国古典本格的读者"],
-      "watchFor": ["各篇现场的不可能之处", "传说与怪谈在案中的作用", "伯恩斯提出的假设"],
+      "suitableFor": [
+        "不可能犯罪的爱好者",
+        "法国古典本格的读者"
+      ],
+      "watchFor": [
+        "各篇现场的不可能之处",
+        "传说与怪谈在案中的作用",
+        "伯恩斯提出的假设"
+      ],
       "warning": "本格推理短篇集，含密室、怪奇气氛与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -200,21 +389,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["city", "revenge", "adventure"],
-    "school": ["police-procedural", "trick-school", "adventure-school"],
+    "tags": [
+      "city",
+      "revenge",
+      "adventure"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school",
+      "adventure-school"
+    ],
     "safeSummary": "一个自认恶徒的男人为赶上医院的骨髓捐献手术，必须在时限内穿过整座城市；而沿途等着他的，是一连串与旧案有关的杀机。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["高野和明的读者", "喜欢逃跑与追击叙事的读者"],
-      "watchFor": ["主人公赶路的时间压力", "沿途各人的动机", "旧案卷宗里的名字"],
+      "suitableFor": [
+        "高野和明的读者",
+        "喜欢逃跑与追击叙事的读者"
+      ],
+      "watchFor": [
+        "主人公赶路的时间压力",
+        "沿途各人的动机",
+        "旧案卷宗里的名字"
+      ],
       "warning": "犯罪悬疑长篇，节奏紧张，含连环命案与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -238,21 +465,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["alibi", "silencing", "forensic"],
-    "school": ["social-school", "police-procedural", "logic-school"],
+    "tags": [
+      "alibi",
+      "silencing",
+      "forensic"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "logic-school"
+    ],
     "safeSummary": "一对老夫妇惨遭杀害，一切证据都指向树原亮，他却因车祸恰好丧失了案发前后数小时的记忆。死刑判决之下，两名调查者开始重新追查那几小时。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["社会派推理的读者", "关注死刑制度议题的读者"],
-      "watchFor": ["树原亮失忆的那几个小时", "现场遗留的物证", "两位调查者各自的目的"],
+      "suitableFor": [
+        "社会派推理的读者",
+        "关注死刑制度议题的读者"
+      ],
+      "watchFor": [
+        "树原亮失忆的那几个小时",
+        "现场遗留的物证",
+        "两位调查者各自的目的"
+      ],
       "warning": "社会派推理长篇，含命案、死刑与司法程序描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -276,21 +541,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["gain", "city", "social-commentary"],
-    "school": ["social-school", "psychological-school"],
+    "tags": [
+      "gain",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
     "safeSummary": "原口元子原是银行职员，不甘于那种单调的生活。她记下一本黑色皮革手册，随后带着从银行挪出的一大笔钱消失，转而在银座的夜色里开起了自己的店。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["松本清张的读者", "喜欢以把柄与交易推动的故事的读者"],
-      "watchFor": ["手册上记下的名字与数字", "元子与客人之间的往来", "银行方面的追查"],
+      "suitableFor": [
+        "松本清张的读者",
+        "喜欢以把柄与交易推动的故事的读者"
+      ],
+      "watchFor": [
+        "手册上记下的名字与数字",
+        "元子与客人之间的往来",
+        "银行方面的追查"
+      ],
       "warning": "社会派长篇，含挪用公款、要挟与风俗业描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -314,21 +616,59 @@
     "series": "林肯·莱姆系列",
     "detective": "林肯·莱姆",
     "country": "美国",
-    "tags": ["forensic", "city", "silencing"],
-    "school": ["police-procedural", "forensic-school", "trick-school"],
+    "tags": [
+      "forensic",
+      "city",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school",
+      "trick-school"
+    ],
     "safeSummary": "林肯·莱姆系列：一个新的嫌疑人正在行动，作案手段狡诈多变，蛰伏在阴暗潮湿的角落里布置现场。莱姆与搭档必须在下一处现场出现前读懂他的规律。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["林肯·莱姆系列的读者", "喜欢物证推理的读者"],
-      "watchFor": ["各处现场的布置规律", "留下的微量物证", "凶手选择目标的条件"],
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢物证推理的读者"
+      ],
+      "watchFor": [
+        "各处现场的布置规律",
+        "留下的微量物证",
+        "凶手选择目标的条件"
+      ],
       "warning": "犯罪悬疑长篇，含连环命案、现场鉴识与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -352,21 +692,59 @@
     "series": "匠千晓系列（短篇集）",
     "detective": "匠千晓",
     "country": "日本",
-    "tags": ["ensemble", "multiple-solutions", "cozy"],
-    "school": ["logic-school", "orthodox-school", "daily-mystery-school"],
+    "tags": [
+      "ensemble",
+      "multiple-solutions",
+      "cozy"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
     "safeSummary": "短篇集。通称「匠仔」的匠千晓、外号「漂撇学长」的边见右辅、外号「高千」的高濑千帆与昵称「小兔」的羽迫由起，四人凑在一起聊着聊着，就把身边的怪事聊成了谜题。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["匠千晓系列的读者", "喜欢日常之谜与闲聊式推理的读者"],
-      "watchFor": ["四人各自提出的解释", "被推翻的那一版推理", "话题里被一带而过的细节"],
+      "suitableFor": [
+        "匠千晓系列的读者",
+        "喜欢日常之谜与闲聊式推理的读者"
+      ],
+      "watchFor": [
+        "四人各自提出的解释",
+        "被推翻的那一版推理",
+        "话题里被一带而过的细节"
+      ],
       "warning": "本格推理短篇集，含命案与失踪描写，笔调轻松。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -390,21 +768,59 @@
     "series": "非系列",
     "detective": "",
     "country": "英国",
-    "tags": ["closed-circle", "snowfield", "locked-space"],
-    "school": ["trick-school", "orthodox-school", "psychological-school"],
+    "tags": [
+      "closed-circle",
+      "snowfield",
+      "locked-space"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "psychological-school"
+    ],
     "safeSummary": "法国境内的阿尔卑斯山上，五位昔日的滑雪比赛选手重聚于一处缆车站。风雪封山，旧日队友之间的旧账被一件件翻出来。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["暴风雪山庄模式的爱好者", "喜欢旧友重聚型悬疑的读者"],
-      "watchFor": ["缆车站与外界失联的时点", "五人各自隐瞒的往事", "山上留下的痕迹"],
+      "suitableFor": [
+        "暴风雪山庄模式的爱好者",
+        "喜欢旧友重聚型悬疑的读者"
+      ],
+      "watchFor": [
+        "缆车站与外界失联的时点",
+        "五人各自隐瞒的往事",
+        "山上留下的痕迹"
+      ],
       "warning": "犯罪悬疑长篇，封闭雪山舞台，含失踪、命案与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -428,21 +844,59 @@
     "series": "非系列",
     "detective": "",
     "country": "英国",
-    "tags": ["diary-form", "concealment", "countryside"],
-    "school": ["orthodox-school", "psychological-school", "logic-school"],
+    "tags": [
+      "diary-form",
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "logic-school"
+    ],
     "safeSummary": "克莱尔是一名高中教师，也是研究哥特小说作家 R.M. 霍兰德的专家。一本旧日记落到她手里，日记里写的事与她正在研究的作家对得上。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["喜欢文献与旧手稿线索的读者", "艾莉·格里菲斯的读者"],
-      "watchFor": ["日记的书写年代与笔迹", "作家作品与日记的对应处", "克莱尔同事们的说法"],
+      "suitableFor": [
+        "喜欢文献与旧手稿线索的读者",
+        "艾莉·格里菲斯的读者"
+      ],
+      "watchFor": [
+        "日记的书写年代与笔迹",
+        "作家作品与日记的对应处",
+        "克莱尔同事们的说法"
+      ],
       "warning": "犯罪悬疑长篇，含失踪、旧案与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -466,21 +920,59 @@
     "series": "非系列（短篇连作）",
     "detective": "茂次郎",
     "country": "日本",
-    "tags": ["historical-setting", "obsession", "concealment"],
-    "school": ["orthodox-school", "logic-school", "bizarre-school"],
+    "tags": [
+      "historical-setting",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "bizarre-school"
+    ],
     "safeSummary": "美人画画家茂次郎有一双特殊的识人眼力，他选中的作画对象都曾有过一段隐秘的经历。一位位客人坐下，各自的往事在画笔下慢慢浮出来。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["时代背景短篇连作的读者", "喜欢以人物往事为谜的读者"],
-      "watchFor": ["每位客人自述中的出入", "茂次郎作画时的观察", "各篇之间重复出现的街道与人"],
+      "suitableFor": [
+        "时代背景短篇连作的读者",
+        "喜欢以人物往事为谜的读者"
+      ],
+      "watchFor": [
+        "每位客人自述中的出入",
+        "茂次郎作画时的观察",
+        "各篇之间重复出现的街道与人"
+      ],
       "warning": "本格推理短篇连作，昭和背景，含命案与情感纠葛描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -504,21 +996,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["fear", "dark-atmosphere", "concealment"],
-    "school": ["psychological-school", "trick-school", "bizarre-school"],
+    "tags": [
+      "fear",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "bizarre-school"
+    ],
     "safeSummary": "一次在热带雨林的神秘科考活动，几名队员相继听到了一种诡异而恐怖的声音。在那之后，他们各自的人生开始偏离原来的轨道。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["贵志佑介的读者", "能接受阴郁与惊悚气氛的读者"],
-      "watchFor": ["声音出现的时机与地点", "队员回国后的变化", "科考队留下的记录"],
+      "suitableFor": [
+        "贵志佑介的读者",
+        "能接受阴郁与惊悚气氛的读者"
+      ],
+      "watchFor": [
+        "声音出现的时机与地点",
+        "队员回国后的变化",
+        "科考队留下的记录"
+      ],
       "warning": "犯罪悬疑长篇，气氛阴郁，含怪奇现象与死亡描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -542,21 +1072,59 @@
     "series": "非系列",
     "detective": "",
     "country": "法国",
-    "tags": ["legend-folklore", "mansion", "locked-room"],
-    "school": ["orthodox-school", "trick-school", "bizarre-school"],
+    "tags": [
+      "legend-folklore",
+      "mansion",
+      "locked-room"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
     "safeSummary": "偏远村庄里的克兰斯顿庄园流传着一个家族诅咒：据说海妖的叫声响起时，没听到声音的家族成员就会出事。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["不可能犯罪与传说题材的爱好者", "保罗·霍尔特的读者"],
-      "watchFor": ["诅咒传说的具体条文", "听到与没听到声音的人", "庄园里留存的家史记录"],
+      "suitableFor": [
+        "不可能犯罪与传说题材的爱好者",
+        "保罗·霍尔特的读者"
+      ],
+      "watchFor": [
+        "诅咒传说的具体条文",
+        "听到与没听到声音的人",
+        "庄园里留存的家史记录"
+      ],
       "warning": "本格推理长篇，含怪奇传说、家族死亡与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -580,21 +1148,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["unreliable-narrator", "concealment", "obsession"],
-    "school": ["psychological-school", "social-school"],
+    "tags": [
+      "unreliable-narrator",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
     "safeSummary": "一桩令人震惊、谜团重重的少女诱拐事件。小说以「我」——一位失踪作家的丈夫——的口吻叙述，他要弄清妻子那部未完成的作品里写的究竟是谁。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["心理悬疑的读者", "能接受沉重题材的读者"],
-      "watchFor": ["叙述者的立场与局限", "手稿里被删改的地方", "当事人多年后的说法"],
+      "suitableFor": [
+        "心理悬疑的读者",
+        "能接受沉重题材的读者"
+      ],
+      "watchFor": [
+        "叙述者的立场与局限",
+        "手稿里被删改的地方",
+        "当事人多年后的说法"
+      ],
       "warning": "犯罪悬疑长篇，含诱拐、长期拘禁与性暴力相关描写，题材沉重。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,

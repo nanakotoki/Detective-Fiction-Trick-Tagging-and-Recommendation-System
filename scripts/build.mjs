@@ -7,9 +7,10 @@
  *
  * 因此这里的职责是「发布前把关」：
  *   1. 运行知识库反剧透体检（check-data）
- *   2. 运行核心逻辑单元测试
- *   3. 生成 data/manifest.json（版本、统计、标签分布、构建时间）
- *   4. 给出部署说明与体积报告
+ *   2. 运行口径排除项回归（check-exclusions：纯恐怖、纯间谍不收）
+ *   3. 运行核心逻辑单元测试
+ *   4. 生成 data/manifest.json（版本、统计、标签分布、构建时间）
+ *   5. 给出部署说明与体积报告
  *
  * 用法：node scripts/build.mjs  或  npm run build
  */
@@ -106,8 +107,9 @@ async function main() {
   console.log(color('  推理小说诡计标签分析与推荐系统 —— 构建检查', C.bold));
   console.log(color('  ────────────────────────────────────────────', C.dim));
 
-  // 1. 五道质量门禁
+  // 1. 六道质量门禁
   const dataCheck = runStep('知识库反剧透体检', path.join(__dirname, 'check-data.mjs'));
+  const exclusions = runStep('口径排除项回归（纯恐怖／纯间谍不收）', path.join(__dirname, 'check-exclusions.mjs'));
   const tests = runStep('核心逻辑单元测试', path.join(__dirname, 'run-tests.mjs'));
   const frontend = runStep('前端模块图与语法检查', path.join(__dirname, 'check-frontend.mjs'));
   const views = runStep('视图层回归测试（真实执行前端视图）', path.join(__dirname, 'test-views.mjs'));
@@ -199,7 +201,7 @@ async function main() {
   console.log('  ② 带后端：node server/index.mjs  （推荐，作品可持久化共享）');
   console.log('');
 
-  if (!dataCheck.ok || !tests.ok || !frontend.ok || !views.ok || !serverTest.ok) {
+  if (!dataCheck.ok || !exclusions.ok || !tests.ok || !frontend.ok || !views.ok || !serverTest.ok) {
     console.log(color('  ✗ 构建检查未通过，请先修复上述问题', C.red + C.bold));
     console.log('');
     process.exit(1);

@@ -3,6 +3,11 @@
 本文档定义 `data/books/*.json` 中每部作品的字段规范。
 所有校验逻辑都在 [`scripts/check-data.mjs`](../scripts/check-data.mjs) 中实现，运行 `npm run check` 即可验证。
 
+题材口径另有一道闸门：`data/exclusions.json` 登记**不收**的作品（用户口径「纯恐怖、纯间谍不收」，
+判定依据是馆藏 CNMARC 的主题词／中图法），由
+[`scripts/check-exclusions.mjs`](../scripts/check-exclusions.mjs) 在每次 `npm run check`
+与 `npm run build` 时核对——**排除项一旦回流即构建失败**。
+
 ---
 
 ## 一、文件组织

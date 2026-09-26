@@ -1,74 +1,444 @@
 [
   {
-    "id": "ct157-001", "title": "死者 AI", "originalTitle": "", "author": "青稞", "authorEn": "Qing Ke",
-    "genre": "犯罪悬疑", "firstPublished": "2022", "series": "非系列", "detective": "", "country": "中国",
-    "tags": ["meta-fiction", "identity", "multiple-solutions", "concealment"], "school": ["trick-school", "meta-school"],
+    "id": "ct157-001",
+    "title": "死者 AI",
+    "originalTitle": "",
+    "author": "青稞",
+    "authorEn": "Qing Ke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "meta-fiction",
+      "identity",
+      "multiple-solutions",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
     "safeSummary": "以十篇短篇小说的形式讲述有关意识转移、人工智能、虚拟现实等多个悬疑推理故事；每篇的人物与故事各不相同，以科幻为核心，融入推理、悬疑、都市等多重要素。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["设定系推理的读者", "青稞的读者"], "watchFor": ["每篇的科幻设定如何成为谜面", "意识转移这一设定的规则"], "warning": "推理短篇集（十篇），含命案描写，**带科幻设定**（人工智能、克隆人、意识转移），已如实标注。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "设定系推理的读者",
+        "青稞的读者"
+      ],
+      "watchFor": [
+        "每篇的科幻设定如何成为谜面",
+        "意识转移这一设定的规则"
+      ],
+      "warning": "推理短篇集（十篇），含命案描写，**带科幻设定**（人工智能、克隆人、意识转移），已如实标注。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经**第二馆关键词枚举**发现，见 §54.2）：青稞著，北京联合出版公司 2022.3。**判据**：①**详情页主题词为「短篇小说 推理小说 小说集 中国 现代」**（第①类，最硬）；②**中图分类 `I247.7`**；③**馆藏提要写明「悬疑推理故事」并点出科幻要素**。**补作者缺口**：作者库内已有《钟塔杀人事件》《土楼杀人事件》等 5 部。**如实标注**：本书**以科幻为核心**，已在 `readingTips.warning` 与 `meta-school` 中写明。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经**第二馆关键词枚举**发现，见 §54.2）：青稞著，北京联合出版公司 2022.3。**判据**：①**详情页主题词为「短篇小说 推理小说 小说集 中国 现代」**（第①类，最硬）；②**中图分类 `I247.7`**；③**馆藏提要写明「悬疑推理故事」并点出科幻要素**。**补作者缺口**：作者库内已有《钟塔杀人事件》《土楼杀人事件》等 5 部。**如实标注**：本书**以科幻为核心**，已在 `readingTips.warning` 与 `meta-school` 中写明。**年份字段说明**：中文原创，`firstPublished` 记 2022，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   },
   {
-    "id": "ct157-002", "title": "神探华良.壹：嗜瞳", "originalTitle": "", "author": "陈东枪枪", "authorEn": "Chen Dong Qiang Qiang",
-    "genre": "历史推理", "firstPublished": "2019", "series": "神探华良系列", "detective": "华良", "country": "中国",
-    "tags": ["historical-setting", "series-detective", "concealment", "city"], "school": ["orthodox-school", "police-procedural"],
+    "id": "ct157-002",
+    "title": "神探华良.壹：嗜瞳",
+    "originalTitle": "",
+    "author": "陈东枪枪",
+    "authorEn": "Chen Dong Qiang Qiang",
+    "genre": "历史推理",
+    "firstPublished": "2019",
+    "series": "神探华良系列",
+    "detective": "华良",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
     "safeSummary": "雨夜的上海滩，法租界里接连发生凶杀案；「嗜眼狂魔」的传说搅得上海滩人心惶惶，他来去无踪——偏偏此时，上海滩神探华良介入了案件。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["民国上海滩题材的读者", "系列侦探小说的读者"], "watchFor": ["「嗜眼」这一作案特征", "法租界的势力关系"], "warning": "民国背景犯罪悬疑长篇，含凶杀与残损描写，为系列第一部。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国上海滩题材的读者",
+        "系列侦探小说的读者"
+      ],
+      "watchFor": [
+        "「嗜眼」这一作案特征",
+        "法租界的势力关系"
+      ],
+      "warning": "民国背景犯罪悬疑长篇，含凶杀与残损描写，为系列第一部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2019.2，正题名「神探华良壹嗜瞳」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**（第①类，最硬）；②**中图分类 `I247.56`**——**中国当代侦探／推理小说的专门分类号**；③馆藏提要写明「上海滩神探华良」与接连发生的凶杀案。**新作者**：库内此前**一部华良系列都没有**，本轮**一次补入 4 部**。**年份字段说明**：中文原创，`firstPublished` 记 2019，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2019.2，正题名「神探华良壹嗜瞳」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**（第①类，最硬）；②**中图分类 `I247.56`**——**中国当代侦探／推理小说的专门分类号**；③馆藏提要写明「上海滩神探华良」与接连发生的凶杀案。**新作者**：库内此前**一部华良系列都没有**，本轮**一次补入 4 部**。**年份字段说明**：中文原创，`firstPublished` 记 2019，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   },
   {
-    "id": "ct157-003", "title": "神探华良.伍：妖红", "originalTitle": "", "author": "陈东枪枪", "authorEn": "Chen Dong Qiang Qiang",
-    "genre": "历史推理", "firstPublished": "2021", "series": "神探华良系列", "detective": "华良", "country": "中国",
-    "tags": ["historical-setting", "series-detective", "dual-role", "concealment"], "school": ["orthodox-school", "police-procedural"],
+    "id": "ct157-003",
+    "title": "神探华良.伍：妖红",
+    "originalTitle": "",
+    "author": "陈东枪枪",
+    "authorEn": "Chen Dong Qiang Qiang",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "神探华良系列",
+    "detective": "华良",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "dual-role",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
     "safeSummary": "花城版原创侦探推理小说，由《娃娃》与《妖红》两个中篇组成：前者叙述一个身材不大的成年人冒充小孩犯罪的故事，后者讲的是身边人的犯罪事实。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["民国上海滩题材的读者", "中篇连作的读者"], "watchFor": ["冒充小孩这一手法的可行性", "「身边人」的作案动机"], "warning": "民国背景犯罪悬疑中篇连作，含命案描写，为系列第 5 部。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国上海滩题材的读者",
+        "中篇连作的读者"
+      ],
+      "watchFor": [
+        "冒充小孩这一手法的可行性",
+        "「身边人」的作案动机"
+      ],
+      "warning": "民国背景犯罪悬疑中篇连作，含命案描写，为系列第 5 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.7，正题名「神探华良伍妖红」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③**馆藏提要直接写明「花城版原创侦探推理小说『神探华良』的一种」**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.7，正题名「神探华良伍妖红」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③**馆藏提要直接写明「花城版原创侦探推理小说『神探华良』的一种」**。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   },
   {
-    "id": "ct157-004", "title": "神探华良.柒：双面", "originalTitle": "", "author": "陈东枪枪", "authorEn": "Chen Dong Qiang Qiang",
-    "genre": "历史推理", "firstPublished": "2021", "series": "神探华良系列", "detective": "华良", "country": "中国",
-    "tags": ["historical-setting", "series-detective", "dual-role", "spy-espionage"], "school": ["orthodox-school", "police-procedural"],
+    "id": "ct157-004",
+    "title": "神探华良.柒：双面",
+    "originalTitle": "",
+    "author": "陈东枪枪",
+    "authorEn": "Chen Dong Qiang Qiang",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "神探华良系列",
+    "detective": "华良",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "dual-role",
+      "spy-espionage"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
     "safeSummary": "由《野国》与《双面》两个故事组成：《野国》讲述从神秘的野国而来的杀手们潜入上海，目的是从一名掮客身上获取情报；华良等人一方面与杀手周旋，一方面解救并保护被牵连的人。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["民国上海滩题材的读者", "该系列的读者"], "watchFor": ["「野国」的来历", "掮客身上的情报"], "warning": "民国背景犯罪悬疑长篇，含杀手、暴力与命案描写，为系列第 7 部。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国上海滩题材的读者",
+        "该系列的读者"
+      ],
+      "watchFor": [
+        "「野国」的来历",
+        "掮客身上的情报"
+      ],
+      "warning": "民国背景犯罪悬疑长篇，含杀手、暴力与命案描写，为系列第 7 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.10，正题名「神探华良柒双面」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③提要写明两个中篇的情节梗概。**如实标注**：本书含**间谍／杀手**成分（《野国》一篇），但主线是华良等人对案件的查办与人员保护，**不属「纯间谍小说」**；已用 `spy-espionage` 标签如实标记。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.10，正题名「神探华良柒双面」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③提要写明两个中篇的情节梗概。**如实标注**：本书含**间谍／杀手**成分（《野国》一篇），但主线是华良等人对案件的查办与人员保护，**不属「纯间谍小说」**；已用 `spy-espionage` 标签如实标记。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   },
   {
-    "id": "ct157-005", "title": "神探华良.捌：无间", "originalTitle": "", "author": "陈东枪枪", "authorEn": "Chen Dong Qiang Qiang",
-    "genre": "历史推理", "firstPublished": "2021", "series": "神探华良系列", "detective": "华良", "country": "中国",
-    "tags": ["historical-setting", "series-detective", "concealment", "forensic"], "school": ["orthodox-school", "police-procedural"],
+    "id": "ct157-005",
+    "title": "神探华良.捌：无间",
+    "originalTitle": "",
+    "author": "陈东枪枪",
+    "authorEn": "Chen Dong Qiang Qiang",
+    "genre": "历史推理",
+    "firstPublished": "2021",
+    "series": "神探华良系列",
+    "detective": "华良",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "concealment",
+      "forensic"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
     "safeSummary": "由连环杀人案引出的间谍风波：上海滩接连发生几起凶残的命案，凶手由此得名「人屠」；华良与搭档、法医联手调查，发现联结几名死者的是同一辆电车。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["民国上海滩题材的读者", "连环案追凶的读者"], "watchFor": ["同一辆电车这一联结点", "几名死者的共同之处"], "warning": "民国背景犯罪悬疑长篇，含连环命案描写，为系列第 8 部。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国上海滩题材的读者",
+        "连环案追凶的读者"
+      ],
+      "watchFor": [
+        "同一辆电车这一联结点",
+        "几名死者的共同之处"
+      ],
+      "warning": "民国背景犯罪悬疑长篇，含连环命案描写，为系列第 8 部。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.10，正题名「神探华良捌无间」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③提要写明连环杀人案与「联结几名死者的是同一辆电车」这一线索。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：陈东枪枪著，花城出版社 2021.10，正题名「神探华良捌无间」。**判据**：①**详情页主题词为「侦探小说 中国 现代」**；②**中图分类 `I247.56`**；③提要写明连环杀人案与「联结几名死者的是同一辆电车」这一线索。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   },
   {
-    "id": "ct157-006", "title": "暗流：绿色尸体", "originalTitle": "", "author": "白士弘 编", "authors": ["白士弘"], "anthology": true, "authorEn": "Bai Shihong (ed.)",
-    "genre": "犯罪悬疑", "firstPublished": "2002", "series": "非系列", "detective": "", "country": "中国",
-    "tags": ["spy-espionage", "concealment", "ensemble", "historical-setting"], "school": ["police-procedural", "adventure-school"],
+    "id": "ct157-006",
+    "title": "暗流：绿色尸体",
+    "originalTitle": "",
+    "author": "白士弘 编",
+    "authors": [
+      "白士弘"
+    ],
+    "anthology": true,
+    "authorEn": "Bai Shihong (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2002",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "spy-espionage",
+      "concealment",
+      "ensemble",
+      "historical-setting"
+    ],
+    "school": [
+      "police-procedural",
+      "adventure-school"
+    ],
     "safeSummary": "中国当代侦探小说作品集。馆藏提要未提供篇目与情节，梗概暂缺，此处只登记题名、编者与出版信息。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["中国当代侦探短篇的读者", "反特题材的读者"], "watchFor": ["各篇的谜面", "与「梅花党」系列故事的呼应"], "warning": "中国当代侦探小说作品集，含潜伏与命案描写，为**多人作品的合集**；馆藏未提供篇目与提要。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中国当代侦探短篇的读者",
+        "反特题材的读者"
+      ],
+      "watchFor": [
+        "各篇的谜面",
+        "与「梅花党」系列故事的呼应"
+      ],
+      "warning": "中国当代侦探小说作品集，含潜伏与命案描写，为**多人作品的合集**；馆藏未提供篇目与提要。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：白士弘编，文化艺术出版社 2002.4，正题名「暗流绿色尸体」。**判据**：①**详情页主题词为「侦探小说 作品集 中国 当代」**（第①类，最硬）；②**中图分类 `I247.5`**（该馆未细分到 `.56`，判据以主题词为准）。**多作者模型**：馆藏著录的**责任者只有编者**，按 §34.2「只署编者则登记编者、标签写『某某 编』」处理——`authors` 只记白士弘，**不臆造执笔作者**；已标 `anthology`（界面显示「合集」徽章）。**交叉说明**：库内另有张宝瑞《绿色尸体》，**本条为白士弘编的作品集**（馆藏著录为「作品集」），与本条题名中的「绿色尸体」关系**未核实**，故不登记异名。**如实标注**：该条馆藏未提供篇目与提要，`safeSummary` **未编造情节**。**新编者**。**年份字段说明**：`firstPublished` 记 2002，`editionYear` **留空**。" },
-    "provenance": { "source": "batch-157-ctbu.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**重庆工商大学图书馆 OPAC**（经第二馆关键词枚举发现）：白士弘编，文化艺术出版社 2002.4，正题名「暗流绿色尸体」。**判据**：①**详情页主题词为「侦探小说 作品集 中国 当代」**（第①类，最硬）；②**中图分类 `I247.5`**（该馆未细分到 `.56`，判据以主题词为准）。**多作者模型**：馆藏著录的**责任者只有编者**，按 §34.2「只署编者则登记编者、标签写『某某 编』」处理——`authors` 只记白士弘，**不臆造执笔作者**；已标 `anthology`（界面显示「合集」徽章）。**交叉说明**：库内另有张宝瑞《绿色尸体》，**本条为白士弘编的作品集**（馆藏著录为「作品集」），与本条题名中的「绿色尸体」关系**未核实**，故不登记异名。**如实标注**：该条馆藏未提供篇目与提要，`safeSummary` **未编造情节**。**新编者**。**年份字段说明**：`firstPublished` 记 2002，`editionYear` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-157-ctbu.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   }
 ]

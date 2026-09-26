@@ -1,14 +1,76 @@
 [
   {
-    "id": "bd155-001", "title": "文豪野犬 DEAD APPLE", "originalTitle": "", "author": "岩畑宏", "authorEn": "Iwahata Hiroshi",
-    "genre": "犯罪悬疑", "firstPublished": "", "editionYear": "2020", "series": "文豪野犬系列", "detective": "", "country": "日本",
-    "tags": ["meta-fiction", "ensemble", "concealment", "dual-role"], "school": ["meta-school", "adventure-school"],
+    "id": "bd155-001",
+    "title": "文豪野犬 DEAD APPLE",
+    "originalTitle": "",
+    "author": "岩畑宏",
+    "authorEn": "Iwahata Hiroshi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "文豪野犬系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "concealment",
+      "dual-role"
+    ],
+    "school": [
+      "meta-school",
+      "adventure-school"
+    ],
     "safeSummary": "以文豪为原型角色的《文豪野犬》系列小说版。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
-    "ratings": { "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" }, "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" }, "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" } },
-    "readingTips": { "suitableFor": ["文豪野犬系列的读者", "以作家为原型的衍生作品读者"], "watchFor": ["以文豪为原型的角色设定", "与剧场版／正传的关系"], "warning": "犯罪悬疑长篇，含案件与武力冲突描写；为**漫画《文豪野犬》的衍生小说**，已如实标注。" },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "文豪野犬系列的读者",
+        "以作家为原型的衍生作品读者"
+      ],
+      "watchFor": [
+        "以文豪为原型的角色设定",
+        "与剧场版／正传的关系"
+      ],
+      "warning": "犯罪悬疑长篇，含案件与武力冲突描写；为**漫画《文豪野犬》的衍生小说**，已如实标注。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
-    "verification": { "verified": true, "verifiedAt": "2026-09", "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法大类枚举**发现，见 §50.2）：岩畑宏著，新星出版社 2020。**判据**：①**检索行主题词为「侦探小说 长篇小说」**（第①类，最硬）；②**中图分类 `I313.45`**。**补系列缺口**：库内已有该系列第 7 卷与外传，本条再补一部。**如实标注**：本书为**漫画《文豪野犬》的衍生小说**，已在 `readingTips.warning` 与 `meta-school` 中写明；该条馆藏未提供情节提要，`safeSummary` **未编造情节**。**新作者**。**年份字段说明**：`editionYear` 记 2020；`firstPublished` **留空**。" },
-    "provenance": { "source": "batch-155-clc.json", "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。" }
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经**中图法大类枚举**发现，见 §50.2）：岩畑宏著，新星出版社 2020。**判据**：①**检索行主题词为「侦探小说 长篇小说」**（第①类，最硬）；②**中图分类 `I313.45`**。**补系列缺口**：库内已有该系列第 7 卷与外传，本条再补一部。**如实标注**：本书为**漫画《文豪野犬》的衍生小说**，已在 `readingTips.warning` 与 `meta-school` 中写明；该条馆藏未提供情节提要，`safeSummary` **未编造情节**。**新作者**。**年份字段说明**：`editionYear` 记 2020；`firstPublished` **留空**。"
+    },
+    "provenance": {
+      "source": "batch-155-clc.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
   }
 ]

@@ -4,7 +4,7 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-26T13:44:42.109Z
+ * 生成时间：2026-09-26T13:50:38.346Z
  * 数据文件：195 个
  */
 
@@ -226,7 +226,7 @@ export const SEED_FILES = [
   { file: 'batch-09-social-more.json', group: "华语 · 社会派 · 犯罪（续）", data: batch09 },
   // 18 部
   { file: 'batch-10-golden-age.json', group: "欧美黄金时代 / 古典本格（续）", data: batch10 },
-  // 15 部
+  // 14 部
   { file: 'batch-11-modern-crime.json', group: "当代犯罪 · 心理惊悚 · 间谍", data: batch11 },
   // 17 部
   { file: 'batch-12-chinese-more.json', group: "华语推理（续）", data: batch12 },
@@ -242,7 +242,7 @@ export const SEED_FILES = [
   { file: 'batch-17-aosaki-yugo.json', group: "青崎有吾作品集", data: batch17 },
   // 24 部
   { file: 'batch-18-jp-new-wave.json', group: "日本新补作者 · 加贺美雅之 · 舞城王太郎等", data: batch18 },
-  // 27 部
+  // 25 部
   { file: 'batch-19-jp-masters.json', group: "日本推理名家补完", data: batch19 },
   // 23 部
   { file: 'batch-20-jp-classic.json', group: "日本古典推理 · 战前先驱与怪奇谱系", data: batch20 },
@@ -260,13 +260,13 @@ export const SEED_FILES = [
   { file: 'batch-26-jp-modern.json', group: "日本近现代推理 · 新作与新人", data: batch26 },
   // 19 部
   { file: 'batch-27-jp-modern-expand.json', group: "日本近现代推理 · 新作与新人", data: batch27 },
-  // 6 部
+  // 5 部
   { file: 'batch-28-western-classic2.json', group: "欧美古典推理 · 先驱与黄金时代", data: batch28 },
   // 3 部
   { file: 'batch-29-chinese-honkaku.json', group: "华语新本格 · 本土原创", data: batch29 },
   // 14 部
   { file: 'batch-30-shimada.json', group: "岛田庄司 · 御手洗洁与吉敷竹史系列", data: batch30 },
-  // 11 部
+  // 10 部
   { file: 'batch-31-nordic-forensic.json', group: "北欧冷案 · 法医鉴识 · 法庭与间谍", data: batch31 },
   // 6 部
   { file: 'batch-32-nordic-crime.json', group: "北欧犯罪 · 哈利·霍勒与千禧年系列", data: batch32 },
@@ -298,7 +298,7 @@ export const SEED_FILES = [
   { file: 'batch-45-mid-authors.json', group: "中等作者补完 · 按作者收全", data: batch45 },
   // 12 部
   { file: 'batch-46-chinese-new.json', group: "华语民国侦探与当代新作者", data: batch46 },
-  // 12 部
+  // 9 部
   { file: 'batch-47-chinese-contemporary.json', group: "华语当代 · 麦家 · 何家弘 · 陈渐等", data: batch47 },
   // 8 部
   { file: 'batch-48-jp-new.json', group: "日本新补作者 · 加贺美雅之 · 舞城王太郎等", data: batch48 },

@@ -10,21 +10,59 @@
     "series": "林肯·莱姆系列",
     "detective": "林肯·莱姆",
     "country": "美国",
-    "tags": ["forensic", "obsession", "city"],
-    "school": ["police-procedural", "forensic-school", "trick-school"],
+    "tags": [
+      "forensic",
+      "obsession",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school",
+      "trick-school"
+    ],
     "safeSummary": "纽约市再次出现连环杀手「承诺人」，专门杀害陷入爱河、即将步入婚姻的情侣。与此同时，地热钻探引发的异动也在城市里蔓延。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["林肯·莱姆系列的读者", "喜欢物证推理的读者"],
-      "watchFor": ["各处现场留下的雕刻痕迹", "被害情侣的共同点", "地热工程与案子的接点"],
+      "suitableFor": [
+        "林肯·莱姆系列的读者",
+        "喜欢物证推理的读者"
+      ],
+      "watchFor": [
+        "各处现场留下的雕刻痕迹",
+        "被害情侣的共同点",
+        "地热工程与案子的接点"
+      ],
       "warning": "犯罪悬疑长篇，含连环命案、现场鉴识与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -48,21 +86,59 @@
     "series": "非系列（短篇集）",
     "detective": "",
     "country": "日本",
-    "tags": ["ensemble", "meta-fiction", "youth"],
-    "school": ["adventure-school", "trick-school", "bizarre-school"],
+    "tags": [
+      "ensemble",
+      "meta-fiction",
+      "youth"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school",
+      "bizarre-school"
+    ],
     "safeSummary": "短篇集：新上任的大臣纠结于半年前的一场足球赛；普通推销员莫名收到告知未来的邮件，自认肩负改写未来的重任；无聊的大学生突然发现自己有一项没什么用的超能力。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伊坂幸太郎的读者", "喜欢短篇连作与巧合结构的读者"],
-      "watchFor": ["各篇人物之间的呼应", "「预告未来」的邮件", "看似无关的小事件"],
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢短篇连作与巧合结构的读者"
+      ],
+      "watchFor": [
+        "各篇人物之间的呼应",
+        "「预告未来」的邮件",
+        "看似无关的小事件"
+      ],
       "warning": "犯罪悬疑短篇集，含暴力与命案描写，笔调轻快。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -86,21 +162,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["countryside", "youth", "concealment"],
-    "school": ["social-school", "psychological-school", "orthodox-school"],
+    "tags": [
+      "countryside",
+      "youth",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
     "safeSummary": "少年广海生活的山村平淡无奇。虽然一年一度的摇滚音乐节就在家门口举办，但周围像他一样热爱音乐的人却只有当村长的老爸，村民们对走在身边的国际摇滚巨星熟视无睹。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["辻村深月的读者", "喜欢乡村封闭舞台的读者"],
-      "watchFor": ["音乐节期间村里的异样", "广海父亲的立场", "外来者与村民的隔阂"],
+      "suitableFor": [
+        "辻村深月的读者",
+        "喜欢乡村封闭舞台的读者"
+      ],
+      "watchFor": [
+        "音乐节期间村里的异样",
+        "广海父亲的立场",
+        "外来者与村民的隔阂"
+      ],
       "warning": "犯罪悬疑长篇，含命案与封闭乡村的人际压迫描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -124,21 +238,59 @@
     "series": "别姬小姐系列",
     "detective": "花村英子、别宫美津子",
     "country": "日本",
-    "tags": ["mansion", "historical-setting", "concealment"],
-    "school": ["orthodox-school", "logic-school", "daily-mystery-school"],
+    "tags": [
+      "mansion",
+      "historical-setting",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "daily-mystery-school"
+    ],
     "safeSummary": "年纪轻轻就成了仿佛手握经济界钥匙的重要人物的末黑野先生家新建了宅邸，邀请花村英子前去做客，别姬小姐也一同前往。宅邸的设计师是末黑野从小的朋友。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["别姬小姐系列的读者", "昭和背景日常之谜的读者"],
-      "watchFor": ["新宅的设计与结构", "设计师与主人的旧交", "英子与别姬小姐的观察"],
+      "suitableFor": [
+        "别姬小姐系列的读者",
+        "昭和背景日常之谜的读者"
+      ],
+      "watchFor": [
+        "新宅的设计与结构",
+        "设计师与主人的旧交",
+        "英子与别姬小姐的观察"
+      ],
       "warning": "本格推理长篇，昭和初期背景，含命案与旧事描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -162,21 +314,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["concealment", "silencing", "social-commentary"],
-    "school": ["social-school", "police-procedural", "psychological-school"],
+    "tags": [
+      "concealment",
+      "silencing",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "psychological-school"
+    ],
     "safeSummary": "「一切罪行由我犯下，所有案子的凶手都是我。」2017 年的东京与 1984 年的爱知交错重叠，对于多年前犯下的罪行，嫌疑人已供认不讳。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["东野圭吾的读者", "喜欢旧案与新案交错结构的读者"],
-      "watchFor": ["嫌疑人的供认内容", "1984 年那条线的当事人", "两起案子的接点"],
+      "suitableFor": [
+        "东野圭吾的读者",
+        "喜欢旧案与新案交错结构的读者"
+      ],
+      "watchFor": [
+        "嫌疑人的供认内容",
+        "1984 年那条线的当事人",
+        "两起案子的接点"
+      ],
       "warning": "社会派长篇，含命案、冤屈与家庭关系描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -200,21 +390,59 @@
     "series": "杉村系列（短篇集）",
     "detective": "杉村",
     "country": "日本",
-    "tags": ["ensemble", "social-commentary", "concealment"],
-    "school": ["social-school", "daily-mystery-school", "orthodox-school"],
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
     "safeSummary": "本书以私家侦探杉村的视角深入四个案件，探索人性幽微处。四个故事分别是《圣域》《希望庄》《沙男》《分身》。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["宫部美雪的读者", "喜欢以侦探视角连缀短篇的读者"],
-      "watchFor": ["四篇中委托人各自的处境", "杉村的调查方式", "案件背后的社会处境"],
+      "suitableFor": [
+        "宫部美雪的读者",
+        "喜欢以侦探视角连缀短篇的读者"
+      ],
+      "watchFor": [
+        "四篇中委托人各自的处境",
+        "杉村的调查方式",
+        "案件背后的社会处境"
+      ],
       "warning": "社会派短篇集，含命案与人性阴暗面描写，基调沉稳。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -238,21 +466,59 @@
     "series": "金田一探案集",
     "detective": "金田一耕助",
     "country": "日本",
-    "tags": ["locked-room", "concealment", "legend-folklore"],
-    "school": ["orthodox-school", "trick-school", "bizarre-school"],
+    "tags": [
+      "locked-room",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
     "safeSummary": "小说家松原浩三夜间散步时，偶然撞见一个从女巫宇贺神药子家中匆忙跑出的女子，还意外捡到了那女子留下的沾血手套。继而他发现女巫倒在自家密室之中。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["金田一探案集的读者", "喜欢密室与怪奇人物题材的读者"],
-      "watchFor": ["那只沾血手套", "女巫家中密室的构造", "夜里跑出的女子是谁"],
+      "suitableFor": [
+        "金田一探案集的读者",
+        "喜欢密室与怪奇人物题材的读者"
+      ],
+      "watchFor": [
+        "那只沾血手套",
+        "女巫家中密室的构造",
+        "夜里跑出的女子是谁"
+      ],
       "warning": "本格推理长篇，含密室命案与怪奇人物描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -276,21 +542,59 @@
     "series": "金田一探案集（中篇集）",
     "detective": "金田一耕助",
     "country": "日本",
-    "tags": ["closed-circle", "concealment", "nursery-rhyme"],
-    "school": ["orthodox-school", "trick-school", "logic-school"],
+    "tags": [
+      "closed-circle",
+      "concealment",
+      "nursery-rhyme"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
     "safeSummary": "中篇集，含《恶魔的圣诞节》《女怪》《迷雾山庄》三篇。金田一耕助出门前接到一通急切的电话，打电话的女子自称知晓一桩即将发生的凶案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["金田一探案集的读者", "喜欢短篇连作的读者"],
-      "watchFor": ["那通电话的来电者身份", "预告的凶案是否发生", "各篇中人物的旧事"],
+      "suitableFor": [
+        "金田一探案集的读者",
+        "喜欢短篇连作的读者"
+      ],
+      "watchFor": [
+        "那通电话的来电者身份",
+        "预告的凶案是否发生",
+        "各篇中人物的旧事"
+      ],
       "warning": "本格推理中篇集，含命案与怪奇气氛描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -314,21 +618,59 @@
     "series": "非系列（短篇集）",
     "detective": "",
     "country": "日本",
-    "tags": ["dark-atmosphere", "legend-folklore", "concealment"],
-    "school": ["bizarre-school", "trick-school", "orthodox-school"],
+    "tags": [
+      "dark-atmosphere",
+      "legend-folklore",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "orthodox-school"
+    ],
     "safeSummary": "横沟正史的经典小说集，包括《抽泣的死美人》《水獭》《当心情书》《漂亮手杖的故事》《不可夜读》《被附体的女人》《绘马》《灯塔》等篇。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["横沟正史短篇的读者", "喜欢怪奇短篇的读者"],
-      "watchFor": ["各篇中不祥的物件", "叙述者的立场", "篇末对前文的重新解释"],
+      "suitableFor": [
+        "横沟正史短篇的读者",
+        "喜欢怪奇短篇的读者"
+      ],
+      "watchFor": [
+        "各篇中不祥的物件",
+        "叙述者的立场",
+        "篇末对前文的重新解释"
+      ],
       "warning": "变格推理短篇集，含命案与怪奇气氛描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -352,21 +694,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["youth", "concealment", "obsession"],
-    "school": ["orthodox-school", "psychological-school", "social-school"],
+    "tags": [
+      "youth",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "social-school"
+    ],
     "safeSummary": "生父因经济犯罪出逃，越野遥随着温柔的继母、没有血缘关系的弟弟一同搬到了继母的家乡坂牧市。遥对新环境虽心怀不安，但很快就与同班同学琳花成了朋友。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["米泽穗信的读者", "喜欢青春与悬念交织的读者"],
-      "watchFor": ["遥对新家的感受", "继母与弟弟的言行", "坂牧市这个地方的旧事"],
+      "suitableFor": [
+        "米泽穗信的读者",
+        "喜欢青春与悬念交织的读者"
+      ],
+      "watchFor": [
+        "遥对新家的感受",
+        "继母与弟弟的言行",
+        "坂牧市这个地方的旧事"
+      ],
       "warning": "本格推理长篇，含家庭变故与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -390,21 +770,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["historical-setting", "closed-circle", "concealment"],
-    "school": ["orthodox-school", "logic-school", "social-school"],
+    "tags": [
+      "historical-setting",
+      "closed-circle",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
     "safeSummary": "天正六年冬，「本能寺之变」四年前。荒木村重背叛织田信长，固守在有冈城。织田军围城之下，有冈城内连续发生难以破解的棘手事件，军心动摇。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["历史推理的读者", "米泽穗信的读者"],
-      "watchFor": ["围城期间接连发生的怪事", "城内各方的立场", "村重的处境与选择"],
+      "suitableFor": [
+        "历史推理的读者",
+        "米泽穗信的读者"
+      ],
+      "watchFor": [
+        "围城期间接连发生的怪事",
+        "城内各方的立场",
+        "村重的处境与选择"
+      ],
       "warning": "历史推理长篇，战国背景，含围城、命案与战争描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -428,21 +846,59 @@
     "series": "杀手系列",
     "detective": "",
     "country": "日本",
-    "tags": ["ensemble", "revenge", "city"],
-    "school": ["hardboiled-school", "adventure-school", "trick-school"],
+    "tags": [
+      "ensemble",
+      "revenge",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school",
+      "trick-school"
+    ],
     "safeSummary": "深爱的妻子突遭车祸身亡，铃木潜入诈骗公司伺机为妻子报仇，不料仇人竟在自己眼前被人推入车道而亡。他决定找出这个神秘推手究竟是谁。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伊坂幸太郎的读者", "喜欢多线交汇叙事的读者"],
-      "watchFor": ["铃木的复仇对象", "推人者是谁", "各条线上人物的接点"],
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢多线交汇叙事的读者"
+      ],
+      "watchFor": [
+        "铃木的复仇对象",
+        "推人者是谁",
+        "各条线上人物的接点"
+      ],
       "warning": "犯罪悬疑长篇，含车祸、雇凶杀人与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -466,21 +922,59 @@
     "series": "杀手系列",
     "detective": "",
     "country": "日本",
-    "tags": ["train", "ensemble", "locked-space"],
-    "school": ["trick-school", "adventure-school", "hardboiled-school"],
+    "tags": [
+      "train",
+      "ensemble",
+      "locked-space"
+    ],
+    "school": [
+      "trick-school",
+      "adventure-school",
+      "hardboiled-school"
+    ],
     "safeSummary": "「我」说不定是业界最倒霉的杀手：偷拍能遇上连环枪击案，点餐会遭遇餐厅爆炸，就连排队结账也总选到最慢的那列。这次的任务明明应该很简单。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伊坂幸太郎的读者", "喜欢列车封闭舞台的读者"],
-      "watchFor": ["车厢里各人的身份", "那只行李箱的归属", "几拨杀手的任务目标"],
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢列车封闭舞台的读者"
+      ],
+      "watchFor": [
+        "车厢里各人的身份",
+        "那只行李箱的归属",
+        "几拨杀手的任务目标"
+      ],
       "warning": "犯罪悬疑长篇，列车封闭舞台，含雇凶杀人与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -504,21 +998,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["nonlinear", "ensemble", "revenge"],
-    "school": ["trick-school", "psychological-school", "adventure-school"],
+    "tags": [
+      "nonlinear",
+      "ensemble",
+      "revenge"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "adventure-school"
+    ],
     "safeSummary": "「如果是肚子饿而抢劫水果店的艺术家，或许还可以理直气壮一些，但我却是手持模型枪，守在书店外头把风。」两名留学生与一位邻居的日常，被两年前的一桩事牵住。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伊坂幸太郎的读者", "喜欢非线性双线结构的读者"],
-      "watchFor": ["两条时间线的对应", "河崎与多吉的来历", "那把模型枪的用途"],
+      "suitableFor": [
+        "伊坂幸太郎的读者",
+        "喜欢非线性双线结构的读者"
+      ],
+      "watchFor": [
+        "两条时间线的对应",
+        "河崎与多吉的来历",
+        "那把模型枪的用途"
+      ],
       "warning": "犯罪悬疑长篇，含宠物虐待、复仇与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -542,21 +1074,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["unreliable-narrator", "concealment", "psychological-misdirection"],
-    "school": ["psychological-school", "orthodox-school", "trick-school"],
+    "tags": [
+      "unreliable-narrator",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school",
+      "trick-school"
+    ],
     "safeSummary": "两个内心孤独的主人公，如何一步步建立起相信相赖的关系，并改变自己原先偏执隔绝的生活状态。而其中一人，正被当作一桩命案的嫌疑人。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["乙一的读者", "喜欢双视角心理线的读者"],
-      "watchFor": ["两个主人公各自的局限", "同一件事在两人眼中的差别", "窗外与屋内的动静"],
+      "suitableFor": [
+        "乙一的读者",
+        "喜欢双视角心理线的读者"
+      ],
+      "watchFor": [
+        "两个主人公各自的局限",
+        "同一件事在两人眼中的差别",
+        "窗外与屋内的动静"
+      ],
       "warning": "犯罪悬疑长篇，含命案、目击与心理压迫描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,

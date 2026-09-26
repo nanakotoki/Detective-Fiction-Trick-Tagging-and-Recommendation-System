@@ -11,21 +11,58 @@
     "series": "首席女法医系列",
     "detective": "凯·斯卡佩塔",
     "country": "美国",
-    "tags": ["forensic", "series-detective", "concealment", "city"],
-    "school": ["forensic-school", "police-procedural"],
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
     "safeSummary": "新年前一天，一名通讯社记者被发现陈尸于冰冷的河底；雪夜里还有不速之客潜入女法医斯卡佩塔的住处，割破车胎、留下一串脚印。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["法医鉴识题材的读者", "《首席女法医》系列的读者"],
-      "watchFor": ["死者为何出现在水里", "雪夜脚印与后续事件的关系"],
+      "suitableFor": [
+        "法医鉴识题材的读者",
+        "《首席女法医》系列的读者"
+      ],
+      "watchFor": [
+        "死者为何出现在水里",
+        "雪夜脚印与后续事件的关系"
+      ],
       "warning": "法医鉴识长篇，含尸检与暴力犯罪描写，为系列长篇之一。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -49,21 +86,58 @@
     "series": "麦格雷探长系列",
     "detective": "麦格雷",
     "country": "比利时",
-    "tags": ["city", "series-detective", "concealment", "dark-atmosphere"],
-    "school": ["police-procedural", "psychological-school"],
+    "tags": [
+      "city",
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
     "safeSummary": "雾气笼罩的港口城市里发生了一桩案子，麦格雷在当地查访；馆藏记录未提供提要文摘，此处只登记题名、著者与出版信息，梗概待补。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["麦格雷探长系列的读者", "偏好氛围与人物心理的读者"],
-      "watchFor": ["港口城市的人际网络", "麦格雷的查访顺序"],
+      "suitableFor": [
+        "麦格雷探长系列的读者",
+        "偏好氛围与人物心理的读者"
+      ],
+      "watchFor": [
+        "港口城市的人际网络",
+        "麦格雷的查访顺序"
+      ],
       "warning": "社会派侦探小说长篇，馆藏未提供内容提要，梗概暂缺。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -87,21 +161,58 @@
     "series": "大英图书馆·侦探小说黄金时代经典作品集",
     "detective": "梅瑞狄斯",
     "country": "英国",
-    "tags": ["countryside", "closed-circle", "red-herring", "series-detective"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "countryside",
+      "closed-circle",
+      "red-herring",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "三月的一个晚上，北部湖区一条偏僻道路附近，有农夫在修车厂的一辆车里发现了一具男尸；现场证据显示死者属于自杀，可事情并不这么简单。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["黄金时代本格的读者", "大英图书馆经典系列的读者"],
-      "watchFor": ["现场被布置成自杀的痕迹", "修车厂与周边村落的往来"],
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "大英图书馆经典系列的读者"
+      ],
+      "watchFor": [
+        "现场被布置成自杀的痕迹",
+        "修车厂与周边村落的往来"
+      ],
       "warning": "本格推理长篇，含命案与验尸描写，节奏偏细密。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -125,21 +236,58 @@
     "series": "大英图书馆·侦探小说黄金时代经典作品集",
     "detective": "梅瑞狄斯",
     "country": "英国",
-    "tags": ["countryside", "red-herring", "series-detective", "dark-atmosphere"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "countryside",
+      "red-herring",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "圣迈克尔崖边教区的牧师与医生每周一晚七点二十分见面，交流对最新侦探小说的看法；某个周一，一通电话打断了他们的固定约会。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["黄金时代本格的读者", "海岸小镇背景悬疑的读者"],
-      "watchFor": ["那通电话的来源", "两位老友各自的行动时间"],
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "海岸小镇背景悬疑的读者"
+      ],
+      "watchFor": [
+        "那通电话的来源",
+        "两位老友各自的行动时间"
+      ],
       "warning": "本格推理长篇，含命案描写，氛围偏阴郁。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -163,21 +311,59 @@
     "series": "大英图书馆·侦探小说黄金时代经典作品集",
     "detective": "梅瑞狄斯",
     "country": "英国",
-    "tags": ["closed-circle", "city", "ensemble", "series-detective", "red-herring"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "closed-circle",
+      "city",
+      "ensemble",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "摄政广场周围住着一群友善但个性迥异的住户，热忱和谐的表象之下暗流涌动；随着警方调查，嫌疑焦点在住户之间不断转移。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["黄金时代本格的读者", "封闭社区群像悬疑的读者"],
-      "watchFor": ["十栋住户各自的作息", "嫌疑人焦点转移的每一次依据"],
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "封闭社区群像悬疑的读者"
+      ],
+      "watchFor": [
+        "十栋住户各自的作息",
+        "嫌疑人焦点转移的每一次依据"
+      ],
       "warning": "本格推理长篇，含多起命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -201,21 +387,58 @@
     "series": "大英图书馆·侦探小说黄金时代经典作品集",
     "detective": "约瑟夫·弗伦奇",
     "country": "英国",
-    "tags": ["reverse-chronology", "alibi", "train", "dual-role"],
-    "school": ["trick-school", "orthodox-school"],
+    "tags": [
+      "reverse-chronology",
+      "alibi",
+      "train",
+      "dual-role"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
     "safeSummary": "一位富有的退休制造商在从克里登飞往巴黎的航班上被发现死在座位上；本书采用倒转结构，把谋划那一方也放进叙述里，一路写到案发之前。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["喜欢倒叙式犯罪小说的读者", "铁路与时刻表推理的读者"],
-      "watchFor": ["谋划者的行程安排", "航空与铁路时刻表上的空隙"],
+      "suitableFor": [
+        "喜欢倒叙式犯罪小说的读者",
+        "铁路与时刻表推理的读者"
+      ],
+      "watchFor": [
+        "谋划者的行程安排",
+        "航空与铁路时刻表上的空隙"
+      ],
       "warning": "本格推理长篇，采用凶手视角的倒转结构，含命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -239,21 +462,58 @@
     "series": "大英图书馆·侦探小说黄金时代经典作品集",
     "detective": "麦克唐纳",
     "country": "英国",
-    "tags": ["countryside", "red-herring", "concealment", "series-detective"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "countryside",
+      "red-herring",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "雷蒙德·费伦斯医生搬到北德文郡的米勒姆摩尔村行医，夫妇俩起初很喜欢这座山顶村子；村子的魅力慢慢褪去，底下的嫉妒、怨愤与恶意浮了上来。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["黄金时代本格的读者", "英伦乡村封闭社群悬疑的读者"],
-      "watchFor": ["村里心照不宣的那条规矩", "医生夫妇听到的闲话"],
+      "suitableFor": [
+        "黄金时代本格的读者",
+        "英伦乡村封闭社群悬疑的读者"
+      ],
+      "watchFor": [
+        "村里心照不宣的那条规矩",
+        "医生夫妇听到的闲话"
+      ],
       "warning": "本格推理长篇，含命案描写，乡村社群的恶意描写较多。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -277,21 +537,58 @@
     "series": "非系列",
     "detective": "",
     "country": "美国",
-    "tags": ["historical-setting", "dual-line", "identity", "spy-espionage"],
-    "school": ["adventure-school", "social-school"],
+    "tags": [
+      "historical-setting",
+      "dual-line",
+      "identity",
+      "spy-espionage"
+    ],
+    "school": [
+      "adventure-school",
+      "social-school"
+    ],
     "safeSummary": "一九四六年二月，格雷丝在纽约中央车站捡到一只行李箱，里面有十二个女孩的十二张照片；她们是二战时被派往法国的女特工，此后没能回国。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["二战背景悬疑的读者", "档案与照片推动调查的读者"],
-      "watchFor": ["十二张照片的拍摄时间", "官方失踪结论与实情的差距"],
+      "suitableFor": [
+        "二战背景悬疑的读者",
+        "档案与照片推动调查的读者"
+      ],
+      "watchFor": [
+        "十二张照片的拍摄时间",
+        "官方失踪结论与实情的差距"
+      ],
       "warning": "历史背景悬疑长篇，涉及战争、特工与失踪题材。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -315,21 +612,58 @@
     "series": "福尔摩斯归来探案集",
     "detective": "夏洛克·福尔摩斯",
     "country": "美国",
-    "tags": ["adventure", "historical-setting", "city", "ensemble"],
-    "school": ["adventure-school", "orthodox-school"],
+    "tags": [
+      "adventure",
+      "historical-setting",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
     "safeSummary": "本书描写福尔摩斯在东方历险的经过，试图填补柯南·道尔留下的空白——他在失踪的那三年里究竟去了哪里、做了什么。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["福尔摩斯仿作的读者", "东方背景冒险故事的读者"],
-      "watchFor": ["正典里那三年留下的空隙", "异国舞台的推理方式"],
+      "suitableFor": [
+        "福尔摩斯仿作的读者",
+        "东方背景冒险故事的读者"
+      ],
+      "watchFor": [
+        "正典里那三年留下的空隙",
+        "异国舞台的推理方式"
+      ],
       "warning": "福尔摩斯仿作长篇，含冒险与命案情节，为单一作者作品（非多人合集）。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -353,21 +687,58 @@
     "series": "译文新流行·侦探",
     "detective": "聚登",
     "country": "德国",
-    "tags": ["city", "concealment", "series-detective", "red-herring"],
-    "school": ["police-procedural", "psychological-school"],
+    "tags": [
+      "city",
+      "concealment",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
     "safeSummary": "正在休假的聚登警长接到女同事的求助电话：一名男子在警署纠缠，说他多次被人报失踪，如今自己回来了，请警方不要再找他；可警署销案时却没找到这桩失踪案的备案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["德系警探小说的读者", "以档案与记录为线索的读者"],
-      "watchFor": ["失踪备案为何查不到", "报案人反复出现的原因"],
+      "suitableFor": [
+        "德系警探小说的读者",
+        "以档案与记录为线索的读者"
+      ],
+      "watchFor": [
+        "失踪备案为何查不到",
+        "报案人反复出现的原因"
+      ],
       "warning": "侦探小说中篇，含失踪与身份疑云描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -391,21 +762,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["youth", "identity", "concealment", "dual-line"],
-    "school": ["social-school", "psychological-school"],
+    "tags": [
+      "youth",
+      "identity",
+      "concealment",
+      "dual-line"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
     "safeSummary": "随着网络上出现犯罪预告，新宿站发生了爆炸事件，嫌疑人是一名年仅十五岁的少年；追查少年犯罪的记者安藤，曾在被害者集会上遇到过这名孤独的少年。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["关注少年犯罪议题的读者", "社会派悬疑的读者"],
-      "watchFor": ["犯罪预告发布的时间", "记者与少年此前的交集"],
+      "suitableFor": [
+        "关注少年犯罪议题的读者",
+        "社会派悬疑的读者"
+      ],
+      "watchFor": [
+        "犯罪预告发布的时间",
+        "记者与少年此前的交集"
+      ],
       "warning": "社会派犯罪悬疑长篇，涉及爆炸事件、少年犯罪与被害者议题。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -429,21 +837,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["hardboiled", "city", "fear", "adventure"],
-    "school": ["hardboiled-school", "adventure-school"],
+    "tags": [
+      "hardboiled",
+      "city",
+      "fear",
+      "adventure"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school"
+    ],
     "safeSummary": "日本长篇推理小说的早期中译本（北岳文艺出版社 1993）。馆藏记录未提供提要文摘，梗概暂缺，此处只登记题名、著者与出版信息。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["冷硬派与动作小说的读者", "关注日本推理译介史的读者"],
-      "watchFor": ["一九九〇年代译本的语言习惯", "动作场面与推理线索的比例"],
+      "suitableFor": [
+        "冷硬派与动作小说的读者",
+        "关注日本推理译介史的读者"
+      ],
+      "watchFor": [
+        "一九九〇年代译本的语言习惯",
+        "动作场面与推理线索的比例"
+      ],
       "warning": "冷硬派长篇，含暴力与追杀情节，馆藏未提供内容提要。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,

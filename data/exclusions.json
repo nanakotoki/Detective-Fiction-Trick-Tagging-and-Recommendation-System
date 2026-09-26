@@ -1,0 +1,169 @@
+{
+  "format": "dftr-exclusions",
+  "version": 1,
+  "rule": "用户口径：**纯恐怖、纯间谍不收**（泛推理收）。判定以馆藏 CNMARC 主题词/中图法为准：主题词只有「间谍小说」「恐怖小说」或仅「长篇小说」→ 不收；主题词含「推理小说·侦探小说」→ 收。不确定的不收。此表由 scripts/check-exclusions.mjs 做回归检查。",
+  "titles": [
+    {
+      "title": "锅匠，裁缝，士兵，间谍",
+      "author": "约翰·勒卡雷",
+      "genre": "间谍小说",
+      "file": "batch-11-modern-crime.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词「间谍小说 英国 现代」（上海人民 2014 版）；情报机关抓内鬼的谍战，无侦探/推理主题词。与台账「勒卡雷＝公认纯间谍」同一判例。"
+    },
+    {
+      "title": "史迈利的人马",
+      "author": "约翰·勒卡雷",
+      "genre": "间谍小说",
+      "file": "batch-31-nordic-forensic.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词仅「长篇小说 英国 现代」；史迈利三部曲之二，纯谍战。"
+    },
+    {
+      "title": "沙岸之谜",
+      "author": "厄斯金·柴德斯",
+      "genre": "间谍小说",
+      "file": "batch-28-western-classic2.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词仅「长篇小说」（英国／爱尔兰），中图法 I561.45 / I562.45；本书是「入侵惊险小说」鼻祖，属间谍小说。"
+    },
+    {
+      "title": "风声",
+      "author": "麦家",
+      "genre": "间谍小说",
+      "file": "batch-47-chinese-contemporary.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词「间谍小说 中国 当代」（北京十月文艺 2018），中图法 I247.56；麦家为谍战小说代表作家。"
+    },
+    {
+      "title": "解密",
+      "author": "麦家",
+      "genre": "间谍小说",
+      "file": "batch-47-chinese-contemporary.json",
+      "removedAt": "2026-09-26",
+      "reason": "麦家谍战系列；馆藏主题词仅「长篇小说 中国 当代」（新世界 2011，中图法 I247.56），无侦探/推理主题词。"
+    },
+    {
+      "title": "暗算",
+      "author": "麦家",
+      "genre": "间谍小说",
+      "file": "batch-47-chinese-contemporary.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词「间谍小说 中国 当代」（人民文学 2023），中图法 I247.56。"
+    },
+    {
+      "title": "第十三种人格的恐怖",
+      "author": "贵志佑介",
+      "genre": "恐怖",
+      "file": "batch-19-jp-masters.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词「长篇小说 恐怖小说 日本 现代」（中国电影 2003）；ISOLA 属心理恐怖，非推理。"
+    },
+    {
+      "title": "夏天·烟火·我的尸体",
+      "author": "乙一",
+      "genre": "恐怖",
+      "file": "batch-19-jp-masters.json",
+      "removedAt": "2026-09-26",
+      "reason": "上图 MARC 主题词仅「长篇小说 日本 现代」、中图法 I313.45，三条著录（独步／当代世界／南海）均无推理·侦探主题词；该书通称恐怖小说。按「不能判断的不加」从严剔除。"
+    },
+    {
+      "title": "老间谍俱乐部",
+      "author": "爱德华·霍克",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】纯间谍题材（台账 §「《老间谍俱乐部》不收」）。"
+    },
+    {
+      "title": "幽灵街区",
+      "author": "米克·赫伦",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】丛编属「午夜文库·无间系列」＝间谍小说系列（流人系列）。"
+    },
+    {
+      "title": "柏林葬礼",
+      "author": "连·戴顿",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】同上，「无间系列」间谍小说。"
+    },
+    {
+      "title": "亡狮",
+      "author": "米克·赫伦",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】流人系列（Slough House）间谍小说。"
+    },
+    {
+      "title": "猛虎",
+      "author": "米克·赫伦",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】流人系列（Slough House）间谍小说。"
+    },
+    {
+      "title": "诺博士",
+      "author": "伊恩·弗莱明",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】007 系列属纯间谍／惊险，与该馆主题词「侦探小说」冲突时以内容为准。"
+    },
+    {
+      "title": "女王密使",
+      "author": "伊恩·弗莱明",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】同上，007 系列。"
+    },
+    {
+      "title": "原子弹指向伦敦",
+      "author": "",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】纯间谍（台账 §50.4 剔除）。"
+    },
+    {
+      "title": "蟹岛之谜",
+      "author": "",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】纯间谍（台账 §50.4 剔除）。"
+    },
+    {
+      "title": "诡异之夏",
+      "author": "丹·西蒙斯",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】恐怖小说。"
+    },
+    {
+      "title": "旋涡",
+      "author": "铃木光司",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】恐怖小说。"
+    },
+    {
+      "title": "豺狼的日子",
+      "author": "弗·福赛斯",
+      "genre": "",
+      "file": "",
+      "removedAt": "",
+      "reason": "【台账在案·从未入库】间谍惊悚。"
+    }
+  ],
+  "updatedAt": "2026-09-26",
+  "count": 20
+}

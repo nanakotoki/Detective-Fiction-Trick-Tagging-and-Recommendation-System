@@ -11,21 +11,58 @@
     "series": "金田一耕助系列",
     "detective": "金田一耕助",
     "country": "日本",
-    "tags": ["series-detective", "red-herring", "mansion", "dark-atmosphere"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "mansion",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "避暑胜地轻井泽发生离奇案件：一位电影明星有过四次婚姻，过去两年里每年都有一位前夫离奇身亡，其中一处的现场还留下了用火柴拼成的图案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["横沟正史的读者", "金田一耕助系列的读者"],
-      "watchFor": ["火柴拼图出现的位置", "几次婚姻留下的关系网"],
+      "suitableFor": [
+        "横沟正史的读者",
+        "金田一耕助系列的读者"
+      ],
+      "watchFor": [
+        "火柴拼图出现的位置",
+        "几次婚姻留下的关系网"
+      ],
       "warning": "本格推理长篇，含命案描写，氛围阴郁，为金田一耕助系列长篇。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -49,21 +86,58 @@
     "series": "金田一耕助系列",
     "detective": "金田一耕助",
     "country": "日本",
-    "tags": ["isolated-island", "series-detective", "red-herring", "legend-folklore"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "isolated-island",
+      "series-detective",
+      "red-herring",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "伊豆半岛南方海面的月琴岛上，一位绝色女子的身边不断涌现命案；金田一耕助登岛，从岛上人家的旧事与传言里一层层梳理。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["横沟正史的读者", "孤岛封闭舞台的读者"],
-      "watchFor": ["岛上人家的旧事与传言", "月琴岛与外界的往来船只"],
+      "suitableFor": [
+        "横沟正史的读者",
+        "孤岛封闭舞台的读者"
+      ],
+      "watchFor": [
+        "岛上人家的旧事与传言",
+        "月琴岛与外界的往来船只"
+      ],
       "warning": "本格推理长篇，含命案描写，为金田一耕助系列长篇。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -87,21 +161,57 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "red-herring", "fear"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "一位当红明星与一位富家千金相继被害，凶案现场每次都会留下红色的蝎子图案；不久同样的标记又出现在另一位富家女的肩上。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "战前变格派怪奇犯罪的读者"],
-      "watchFor": ["红蝎子标记出现的次序", "三名被害人之间的交集"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "战前变格派怪奇犯罪的读者"
+      ],
+      "watchFor": [
+        "红蝎子标记出现的次序",
+        "三名被害人之间的交集"
+      ],
       "warning": "变格派中篇，含命案与怪奇犯罪描写，气氛阴郁。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -125,21 +235,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "fear", "concealment", "red-herring"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "fear",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "两个年轻人同时爱上一位美丽的未亡人，为她展开生死决斗；数日后河里出现了其中一人的尸体，而未亡人亡夫的书房里又有人被害。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "战前变格派怪奇犯罪的读者"],
-      "watchFor": ["书房这一现场的出入路径", "管家在两次事件中的位置"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "战前变格派怪奇犯罪的读者"
+      ],
+      "watchFor": [
+        "书房这一现场的出入路径",
+        "管家在两次事件中的位置"
+      ],
       "warning": "变格派中篇，含命案与尸体失踪描写，气氛阴郁。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -163,21 +310,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "dual-role", "red-herring", "fear"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "dual-role",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "化名「黑天使」的女盗贼专偷珠宝文物；这一次她放出话来，要在名侦探的眼皮底下绑走宝石商的女儿，以此换取一颗名贵的宝石。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "怪盗与名侦探对决的读者"],
-      "watchFor": ["预告与得手之间的时间差", "宅邸戒备的安排与漏洞"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "怪盗与名侦探对决的读者"
+      ],
+      "watchFor": [
+        "预告与得手之间的时间差",
+        "宅邸戒备的安排与漏洞"
+      ],
       "warning": "变格派中篇，含绑架与盗窃描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -201,21 +385,57 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "red-herring", "psychological-misdirection"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "本书由《地狱丑角师》与《心理测试》两部分组成：前者写交通道口石膏像里的藏尸案，后者写一名清贫高才生所策划的谋财害命。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "喜欢心理博弈型犯罪的读者"],
-      "watchFor": ["丑角木偶邮包的出现次序", "《心理测试》里被反复问到的问题"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "喜欢心理博弈型犯罪的读者"
+      ],
+      "watchFor": [
+        "丑角木偶邮包的出现次序",
+        "《心理测试》里被反复问到的问题"
+      ],
       "warning": "变格派中篇选集，含藏尸与谋财害命描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -239,21 +459,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "legend-folklore", "dark-atmosphere", "concealment"],
-    "school": ["bizarre-school", "orthodox-school"],
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
     "safeSummary": "中学时代的几位密友因好奇心重、追求神秘而秘密结社；一场意外死亡为日后的生活埋下怨恨，长大成人后社团成员有人飞黄腾达，有人自缢于五重塔。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "旧友重聚型怪奇故事的读者"],
-      "watchFor": ["结社时立下的规矩", "成员各自的下落"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "旧友重聚型怪奇故事的读者"
+      ],
+      "watchFor": [
+        "结社时立下的规矩",
+        "成员各自的下落"
+      ],
       "warning": "变格派中篇，含自杀与命案描写，气氛阴郁。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -277,21 +534,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["mansion", "cipher", "series-detective", "concealment"],
-    "school": ["trick-school", "bizarre-school"],
+    "tags": [
+      "mansion",
+      "cipher",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school"
+    ],
     "safeSummary": "「钟塔别墅」既因原主人生前在此藏有巨额财富而令人垂涎，又因后继者为争夺这笔财富互相杀戮而让人却步；多年前那桩谋杀案的疑点仍未解开。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "密室与藏宝谜题的读者"],
-      "watchFor": ["钟塔密室的开法", "当年入狱者与案情的对应"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "密室与藏宝谜题的读者"
+      ],
+      "watchFor": [
+        "钟塔密室的开法",
+        "当年入狱者与案情的对应"
+      ],
       "warning": "变格派中篇，含命案与争夺遗产描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -315,21 +609,57 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "red-herring", "fear"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "本书为作者的中篇选集，含《绿衣人》《黑天使》《影男》三部分，均由名侦探明智小五郎查案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "短篇怪奇犯罪的读者"],
-      "watchFor": ["三篇里反复出现的伪装手法", "标题人物的身份"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "短篇怪奇犯罪的读者"
+      ],
+      "watchFor": [
+        "三篇里反复出现的伪装手法",
+        "标题人物的身份"
+      ],
       "warning": "变格派中篇选集，含命案与怪奇犯罪描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -353,21 +683,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "dual-role", "red-herring", "psychological-misdirection"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "dual-role",
+      "red-herring",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "本书为作者的中篇选集，含《魔术师》《地狱的面具》《人形豹》三部分，均由名侦探明智小五郎查案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "短篇怪奇犯罪的读者"],
-      "watchFor": ["三篇里反复出现的伪装手法", "标题人物的身份"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "短篇怪奇犯罪的读者"
+      ],
+      "watchFor": [
+        "三篇里反复出现的伪装手法",
+        "标题人物的身份"
+      ],
       "warning": "变格派中篇选集，含命案与怪奇犯罪描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -391,21 +758,58 @@
     "series": "明智小五郎系列",
     "detective": "明智小五郎",
     "country": "日本",
-    "tags": ["series-detective", "red-herring", "psychological-misdirection", "fear"],
-    "school": ["bizarre-school", "trick-school"],
+    "tags": [
+      "series-detective",
+      "red-herring",
+      "psychological-misdirection",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
     "safeSummary": "本书收录《三重旋涡》与《蜘蛛人》两部推理小说，均由名侦探明智小五郎查案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["江户川乱步的读者", "战前变格派怪奇犯罪的读者"],
-      "watchFor": ["两篇里反复出现的同一类布置", "标题所指的那处结构"],
+      "suitableFor": [
+        "江户川乱步的读者",
+        "战前变格派怪奇犯罪的读者"
+      ],
+      "watchFor": [
+        "两篇里反复出现的同一类布置",
+        "标题所指的那处结构"
+      ],
       "warning": "变格派中篇选集，含命案与怪奇犯罪描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -429,21 +833,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["identity", "concealment", "red-herring", "youth"],
-    "school": ["social-school", "orthodox-school"],
+    "tags": [
+      "identity",
+      "concealment",
+      "red-herring",
+      "youth"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
     "safeSummary": "妻子去世后，绯田独自把女儿抚养成人，女儿的天赋让她成为滑雪界最耀眼的新星；此时陌生人送来的一份血指纹，让他不得不重新面对一个旧问题。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["东野圭吾的读者", "亲子与身份题材的读者"],
-      "watchFor": ["血指纹的来源", "女儿成名之路上出现的陌生人"],
+      "suitableFor": [
+        "东野圭吾的读者",
+        "亲子与身份题材的读者"
+      ],
+      "watchFor": [
+        "血指纹的来源",
+        "女儿成名之路上出现的陌生人"
+      ],
       "warning": "社会派推理长篇，涉及亲子关系与身份议题，含命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -467,21 +908,58 @@
     "series": "天久鹰央的事件病历表",
     "detective": "识名爱衣",
     "country": "日本",
-    "tags": ["hospital", "series-detective", "psychological-misdirection", "forensic"],
-    "school": ["forensic-school", "orthodox-school"],
+    "tags": [
+      "hospital",
+      "series-detective",
+      "psychological-misdirection",
+      "forensic"
+    ],
+    "school": [
+      "forensic-school",
+      "orthodox-school"
+    ],
     "safeSummary": "医院收治了四名特发性嗜睡症候群患者，他们会陷入无止境的昏睡；四人同一天发病，地点都在东京西部，而与此同时连环杀人事件又出现了新的被害人。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["医学推理的读者", "知念实希人的读者"],
-      "watchFor": ["四名患者发病地点的分布", "昏睡与连环案件在时间上的重合"],
+      "suitableFor": [
+        "医学推理的读者",
+        "知念实希人的读者"
+      ],
+      "watchFor": [
+        "四名患者发病地点的分布",
+        "昏睡与连环案件在时间上的重合"
+      ],
       "warning": "医学背景本格推理长篇，含昏睡症、命案与医疗场面描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,

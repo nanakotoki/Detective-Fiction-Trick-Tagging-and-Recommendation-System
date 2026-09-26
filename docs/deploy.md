@@ -18,6 +18,7 @@
 
 ```bash
 node scripts/check-data.mjs          # 数据体检（泄底字段、字数、标签合法性）
+node scripts/check-exclusions.mjs    # 口径排除项回归（纯恐怖／纯间谍不收，读 data/exclusions.json）
 node scripts/find-duplicates.mjs --strict   # 重复条目闸门
 node scripts/build.mjs               # 生成 data/manifest.json 并做构建检查
 node scripts/check-frontend.mjs      # 前端模块图与清单同步

@@ -10,21 +10,59 @@
     "series": "非系列（短篇集）",
     "detective": "",
     "country": "日本",
-    "tags": ["dark-atmosphere", "fear", "meta-fiction"],
-    "school": ["bizarre-school", "trick-school", "psychological-school"],
+    "tags": [
+      "dark-atmosphere",
+      "fear",
+      "meta-fiction"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school",
+      "psychological-school"
+    ],
     "safeSummary": "绫辻行人作家生涯三十周年纪念作，惊悚推理短篇集，收录《红斗篷》《崩溃前夕》《洗礼》《脸色苍白的女人》《非人间》五篇。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["绫辻行人的读者", "能接受惊悚基调的短篇读者"],
-      "watchFor": ["各篇中现实与幻想的边界", "叙述者略过不提的部分", "篇末对前文的重新解释"],
+      "suitableFor": [
+        "绫辻行人的读者",
+        "能接受惊悚基调的短篇读者"
+      ],
+      "watchFor": [
+        "各篇中现实与幻想的边界",
+        "叙述者略过不提的部分",
+        "篇末对前文的重新解释"
+      ],
       "warning": "变格推理短篇集，含惊悚气氛与死亡描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -48,21 +86,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["psychological-misdirection", "unreliable-narrator", "obsession"],
-    "school": ["psychological-school", "trick-school", "orthodox-school"],
+    "tags": [
+      "psychological-misdirection",
+      "unreliable-narrator",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "orthodox-school"
+    ],
     "safeSummary": "小时候在夏日黄昏里见到的太阳格外巨大，颜色好似烂熟的柳橙与苹果缠绕交融。多年以后，主人公的记忆开始与眼前发生的事对不上。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["绫辻行人的读者", "喜欢记忆与认知题材的读者"],
-      "watchFor": ["主人公记忆中的画面", "叙述前后不一致之处", "身边人对往事的说法"],
+      "suitableFor": [
+        "绫辻行人的读者",
+        "喜欢记忆与认知题材的读者"
+      ],
+      "watchFor": [
+        "主人公记忆中的画面",
+        "叙述前后不一致之处",
+        "身边人对往事的说法"
+      ],
       "warning": "本格推理长篇，含命案与记忆错乱描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -86,21 +162,59 @@
     "series": "伯尼·罗登巴尔系列",
     "detective": "伯尼·罗登巴尔",
     "country": "美国",
-    "tags": ["city", "cipher", "cozy"],
-    "school": ["trick-school", "adventure-school", "orthodox-school"],
+    "tags": [
+      "city",
+      "cipher",
+      "cozy"
+    ],
+    "school": [
+      "trick-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
     "safeSummary": "书商伯尼很少离开曼哈顿，这回却为自己和情人莱蒂丝安排了一次浪漫的周末之旅。然而莱蒂丝告诉他，自己要结婚了。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伯尼系列的读者", "喜欢轻快笔调的窃案故事"],
-      "watchFor": ["伯尼此行的真正目的", "旧书与手稿的来路", "同行之间的规矩"],
+      "suitableFor": [
+        "伯尼系列的读者",
+        "喜欢轻快笔调的窃案故事"
+      ],
+      "watchFor": [
+        "伯尼此行的真正目的",
+        "旧书与手稿的来路",
+        "同行之间的规矩"
+      ],
       "warning": "犯罪悬疑长篇，含盗窃、命案与轻快笔调描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -124,21 +238,59 @@
     "series": "伯尼·罗登巴尔系列",
     "detective": "伯尼·罗登巴尔",
     "country": "美国",
-    "tags": ["city", "revenge", "cozy"],
-    "school": ["trick-school", "adventure-school", "orthodox-school"],
+    "tags": [
+      "city",
+      "revenge",
+      "cozy"
+    ],
+    "school": [
+      "trick-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
     "safeSummary": "伯尼·罗登巴尔风趣幽默，富于魅力和智慧，也忠于朋友。正因如此，他愿意为了替朋友复仇而两肋插刀。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["伯尼系列的读者", "喜欢以朋友义气推动的故事的读者"],
-      "watchFor": ["朋友出事的经过", "伯尼打算怎么动手", "同行与买家的态度"],
+      "suitableFor": [
+        "伯尼系列的读者",
+        "喜欢以朋友义气推动的故事的读者"
+      ],
+      "watchFor": [
+        "朋友出事的经过",
+        "伯尼打算怎么动手",
+        "同行与买家的态度"
+      ],
       "warning": "犯罪悬疑长篇，含盗窃、复仇与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -162,21 +314,59 @@
     "series": "马修·斯卡德系列",
     "detective": "马修·斯卡德",
     "country": "美国",
-    "tags": ["city", "obsession", "concealment"],
-    "school": ["hardboiled-school", "psychological-school", "police-procedural"],
+    "tags": [
+      "city",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school",
+      "police-procedural"
+    ],
     "safeSummary": "马修终于决定戒酒，他把斟满的酒杯搁在吧台上，走进了匿名戒酒会。在那里他遇到了儿时的同伴杰克——两人曾走在完全不同的道路上。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["马修·斯卡德系列的读者", "喜欢冷硬派心理线的读者"],
-      "watchFor": ["斯卡德戒酒的过程", "杰克这些年的经历", "旧友重逢后的事态"],
+      "suitableFor": [
+        "马修·斯卡德系列的读者",
+        "喜欢冷硬派心理线的读者"
+      ],
+      "watchFor": [
+        "斯卡德戒酒的过程",
+        "杰克这些年的经历",
+        "旧友重逢后的事态"
+      ],
       "warning": "犯罪悬疑长篇，含酗酒、命案与冷硬基调描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -200,21 +390,59 @@
     "series": "水浒猎人系列",
     "detective": "",
     "country": "中国",
-    "tags": ["historical-setting", "adventure", "concealment"],
-    "school": ["adventure-school", "trick-school", "orthodox-school"],
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school",
+      "orthodox-school"
+    ],
     "safeSummary": "北宋宣和二年重阳夜，梁山忠义堂内灯火通明，众好汉齐聚一堂。一首表达招安之意的词曲唱罢，堂上顿时剑拔弩张。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["华语历史推理的读者", "时晨的读者"],
-      "watchFor": ["那首词曲的措辞", "堂上各方的立场", "招安一事背后的推手"],
+      "suitableFor": [
+        "华语历史推理的读者",
+        "时晨的读者"
+      ],
+      "watchFor": [
+        "那首词曲的措辞",
+        "堂上各方的立场",
+        "招安一事背后的推手"
+      ],
       "warning": "历史推理长篇，北宋背景，含武打、阴谋与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -237,21 +465,59 @@
     "series": "非系列（短篇集）",
     "detective": "",
     "country": "日本",
-    "tags": ["social-commentary", "obsession", "city"],
-    "school": ["social-school", "psychological-school", "orthodox-school"],
+    "tags": [
+      "social-commentary",
+      "obsession",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
     "safeSummary": "森村诚一的短篇集：高度发达的物质生活让人们贪恋各种欲望，却把最基本的情感遗落在身旁——无论家族、职场还是社会，都因此生出裂隙。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["社会派推理的读者", "森村诚一的读者"],
-      "watchFor": ["各篇主人公的处境", "欲望与情感的拉扯", "案件背后的社会成因"],
+      "suitableFor": [
+        "社会派推理的读者",
+        "森村诚一的读者"
+      ],
+      "watchFor": [
+        "各篇主人公的处境",
+        "欲望与情感的拉扯",
+        "案件背后的社会成因"
+      ],
       "warning": "社会派短篇集，含命案与人性阴暗面描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -275,21 +541,59 @@
     "series": "福尔摩斯系列",
     "detective": "夏洛克·福尔摩斯",
     "country": "英国",
-    "tags": ["mansion", "concealment", "cipher"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "mansion",
+      "concealment",
+      "cipher"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "伯斯东庄园的主人道格拉斯惨遭杀害，死状极惨，头颅几乎被枪击得粉碎。现场留下的线索指向一个秘密会社的旧账。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["福尔摩斯系列的读者", "喜欢双线结构的读者"],
-      "watchFor": ["现场那把缺失的哑铃", "死者在美国的往事", "会社的暗号与规矩"],
+      "suitableFor": [
+        "福尔摩斯系列的读者",
+        "喜欢双线结构的读者"
+      ],
+      "watchFor": [
+        "现场那把缺失的哑铃",
+        "死者在美国的往事",
+        "会社的暗号与规矩"
+      ],
       "warning": "本格推理长篇，含枪击命案与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -313,21 +617,59 @@
     "series": "福尔摩斯系列（短篇集）",
     "detective": "夏洛克·福尔摩斯",
     "country": "英国",
-    "tags": ["cipher", "concealment", "spy-espionage"],
-    "school": ["orthodox-school", "logic-school", "adventure-school"],
+    "tags": [
+      "cipher",
+      "concealment",
+      "spy-espionage"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
     "safeSummary": "福尔摩斯的短篇集，收录《威斯特里亚寓所奇遇》《硬纸盒》《红圈会》《布鲁斯—帕廷顿计划》等篇，案情涉及奇遇、密码与谍报。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["福尔摩斯短篇的读者", "喜欢密码与谍报题材的读者"],
-      "watchFor": ["各篇中不合常理的物证", "来访者的说辞", "密码纸条的形式"],
+      "suitableFor": [
+        "福尔摩斯短篇的读者",
+        "喜欢密码与谍报题材的读者"
+      ],
+      "watchFor": [
+        "各篇中不合常理的物证",
+        "来访者的说辞",
+        "密码纸条的形式"
+      ],
       "warning": "本格推理短篇集，含命案、盗窃与谍报情节描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -351,21 +693,59 @@
     "series": "福尔摩斯系列（短篇集）",
     "detective": "夏洛克·福尔摩斯",
     "country": "英国",
-    "tags": ["cipher", "city", "concealment"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "cipher",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "福尔摩斯归来后的短篇集，包含《跳舞的小人》《孤身女骑者》《黑彼得》《三名学生》《橄榄球中卫队员的失踪》等篇。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["福尔摩斯短篇的读者", "喜欢密码类谜题的读者"],
-      "watchFor": ["《跳舞的小人》里符号的规律", "各篇委托人的说法", "现场被忽略的小物件"],
+      "suitableFor": [
+        "福尔摩斯短篇的读者",
+        "喜欢密码类谜题的读者"
+      ],
+      "watchFor": [
+        "《跳舞的小人》里符号的规律",
+        "各篇委托人的说法",
+        "现场被忽略的小物件"
+      ],
       "warning": "本格推理短篇集，含命案、失踪与暴力描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -389,21 +769,59 @@
     "series": "菲利普·马洛系列（中篇集）",
     "detective": "菲利普·马洛",
     "country": "美国",
-    "tags": ["city", "hardboiled", "gain"],
-    "school": ["hardboiled-school", "police-procedural", "trick-school"],
+    "tags": [
+      "city",
+      "hardboiled",
+      "gain"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural",
+      "trick-school"
+    ],
     "safeSummary": "本书收入《金鱼》《西班牙血盟》《红风》三个中篇，塑造了硬派私人侦探菲利普·马洛。他身处洛杉矶的僻街陋巷，接下的一桩桩委托都通向更深的麻烦。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["硬汉派的读者", "钱德勒中篇的读者"],
-      "watchFor": ["各篇委托人的真实目的", "马洛与警方的关系", "线索物件的来路"],
+      "suitableFor": [
+        "硬汉派的读者",
+        "钱德勒中篇的读者"
+      ],
+      "watchFor": [
+        "各篇委托人的真实目的",
+        "马洛与警方的关系",
+        "线索物件的来路"
+      ],
       "warning": "硬汉派中篇集，含枪击、命案与都市犯罪描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -427,21 +845,59 @@
     "series": "陶展文系列",
     "detective": "陶展文",
     "country": "日本",
-    "tags": ["gain", "identity", "city"],
-    "school": ["orthodox-school", "logic-school", "social-school"],
+    "tags": [
+      "gain",
+      "identity",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
     "safeSummary": "神户一栋大楼为打造「世界美味中心」而招商，印度宝石商人莱伊成为最大的金主，并举家搬至神户。陶展文等人受邀前去莱伊家中做客，而莱伊却外出了。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["陈舜臣的读者", "喜欢商界与身份题材的读者"],
-      "watchFor": ["莱伊一家的来历", "宝石生意的往来对象", "陶展文的观察"],
+      "suitableFor": [
+        "陈舜臣的读者",
+        "喜欢商界与身份题材的读者"
+      ],
+      "watchFor": [
+        "莱伊一家的来历",
+        "宝石生意的往来对象",
+        "陶展文的观察"
+      ],
       "warning": "本格推理长篇，含命案与商界纠纷描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -465,21 +921,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["concealment", "identity", "obsession"],
-    "school": ["orthodox-school", "logic-school", "social-school"],
+    "tags": [
+      "concealment",
+      "identity",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
     "safeSummary": "多年前祖父被杀成谜，如今与祖父之案相关的廖龙昇溺死别墅池塘，西野惨死卧室。而程纪铭万万没有想到，一次普通的晚宴醉酒，也成了亡命天涯的开端。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["陈舜臣的读者", "喜欢旧案牵连新案的读者"],
-      "watchFor": ["祖父旧案的记录", "两位死者的共同关系人", "晚宴当晚的经过"],
+      "suitableFor": [
+        "陈舜臣的读者",
+        "喜欢旧案牵连新案的读者"
+      ],
+      "watchFor": [
+        "祖父旧案的记录",
+        "两位死者的共同关系人",
+        "晚宴当晚的经过"
+      ],
       "warning": "本格推理长篇，含多起命案与逃亡描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -503,21 +997,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["historical-setting", "spy-espionage", "concealment"],
-    "school": ["orthodox-school", "logic-school", "adventure-school"],
+    "tags": [
+      "historical-setting",
+      "spy-espionage",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "adventure-school"
+    ],
     "safeSummary": "日俄战争前夕，日本间谍土井策太郎拜访「悠悠馆」主人文保泰，托其帮忙收买清政府重臣，以阻止清政府和俄国签署撤兵协议。然而就在他当天离开之后，文保泰死了。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["陈舜臣的读者", "喜欢清末民初背景的读者"],
-      "watchFor": ["悠悠馆的进出人员", "文保泰经手的人脉", "各方势力的角力"],
+      "suitableFor": [
+        "陈舜臣的读者",
+        "喜欢清末民初背景的读者"
+      ],
+      "watchFor": [
+        "悠悠馆的进出人员",
+        "文保泰经手的人脉",
+        "各方势力的角力"
+      ],
       "warning": "历史推理中篇，清末背景，含命案与谍报情节描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -541,21 +1073,59 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["concealment", "identity", "historical-setting"],
-    "school": ["orthodox-school", "logic-school", "social-school"],
+    "tags": [
+      "concealment",
+      "identity",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
     "safeSummary": "英日混血儿罗丝的母亲在她年幼时因意外死去。十三年后，她重返日本，想探寻母亲死亡的真相。在前往日本的船上，罗丝认识了游学归来的中垣照。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["陈舜臣的读者", "喜欢身世与旧案题材的读者"],
-      "watchFor": ["母亲当年「意外」的经过", "罗丝在船上结识的人", "遗物中的线索"],
+      "suitableFor": [
+        "陈舜臣的读者",
+        "喜欢身世与旧案题材的读者"
+      ],
+      "watchFor": [
+        "母亲当年「意外」的经过",
+        "罗丝在船上结识的人",
+        "遗物中的线索"
+      ],
       "warning": "本格推理长篇，含旧案、身世与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
