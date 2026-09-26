@@ -17,7 +17,7 @@
  * ⚠️ 本脚本**不生成**梗概、**不编造**评分：梗概必须由 spec 明确给出（无剧透），
  * 三个平台一律写「暂无数据」（豆瓣自 2026-09 起 403）。
  */
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 import path from 'node:path';
 
@@ -83,6 +83,24 @@ const seen = new Map();
 for (const b of out) {
   if (seen.has(b.title)) throw new Error(`批内重题名：${b.title}`);
   seen.set(b.title, 1);
+}
+
+/**
+ * 口径排除项（`data/exclusions.json`）：**生成前**就拦住，而不是等入库后再回头清。
+ *
+ * 起因（台账 §96）：勒卡雷《锅匠，裁缝，士兵，间谍》、麦家《风声》这类**纯间谍／纯恐怖**
+ * 条目，台账里早就写过「不收」，但后来从别的馆藏渠道批量收书时又被当成新候选收了进来。
+ * 根因是判据只写在中文段落里、机器读不到。现在结论落成数据文件，这里做生成前的一道拦截：
+ * 命中即**中止整批**，逼着人去核对是「判错了」还是「同名不同书」。
+ */
+if (existsSync('data/exclusions.json')) {
+  const ex = JSON.parse(readFileSync('data/exclusions.json', 'utf8'));
+  const banned = new Map((ex.titles || []).map((t) => [t.title, t]));
+  const hit = out.filter((b) => banned.has(b.title));
+  if (hit.length) {
+    for (const b of hit) console.error(`✗ 《${b.title}》（${b.author}）在排除表内：${banned.get(b.title).reason}`);
+    throw new Error(`本批有 ${hit.length} 部命中口径排除表（纯恐怖／纯间谍不收），已中止，未写盘`);
+  }
 }
 
 const dest = path.join('data', 'books', spec.file);
