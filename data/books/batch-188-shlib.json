@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "shlib188-001",
+    "title": "中央情报局疑案",
+    "originalTitle": "",
+    "author": "玛格丽特·杜鲁门",
+    "authorEn": "Margaret Truman",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "首都疑案系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "中央情报局里出的一桩命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛格丽特·杜鲁门的读者",
+        "政治背景犯罪小说的读者"
+      ],
+      "watchFor": [
+        "案发地点与权力结构的关系",
+        "各人的立场"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛格丽特·杜鲁门，九洲图书出版社 2000，丛编「美国侦探大师玛格丽特·杜鲁门疑案小说」（ISBN 7-80114-484-8）。**判据**：①**学科主题词为「侦探小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为美国侦探大师玛格丽特·杜鲁门疑案小说**。**同 ISBN 说明**：本册与同批的《水门疑案》《五角大楼疑案》《国会山疑案》**共用 ISBN `7-80114-484-8`**——四部是**各自独立的长篇**（分别以中央情报局、水门、五角大楼、国会山为背景），属**一套书共用套号**，与 §81.2 那种「一册书两条著录」不同，故**四册都收**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。**系列归属**：本库按作品体例归入 `首都疑案系列`（同一位作者以华盛顿各处为背景的系列长篇）；馆藏丛编名另记于判据中。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-002",
+    "title": "水门疑案",
+    "originalTitle": "",
+    "author": "玛格丽特·杜鲁门",
+    "authorEn": "Margaret Truman",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "首都疑案系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "水门一带出的一桩命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛格丽特·杜鲁门的读者",
+        "政治背景犯罪小说的读者"
+      ],
+      "watchFor": [
+        "案发地点与权力结构的关系",
+        "各人的立场"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛格丽特·杜鲁门，九洲图书出版社 2000，丛编「美国侦探大师玛格丽特·杜鲁门疑案小说」（ISBN 7-80114-484-8）。**判据**：①**学科主题词为「侦探小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为美国侦探大师玛格丽特·杜鲁门疑案小说**。**同 ISBN 说明**：本册与同批的《水门疑案》《五角大楼疑案》《国会山疑案》**共用 ISBN `7-80114-484-8`**——四部是**各自独立的长篇**（分别以中央情报局、水门、五角大楼、国会山为背景），属**一套书共用套号**，与 §81.2 那种「一册书两条著录」不同，故**四册都收**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。**系列归属**：本库按作品体例归入 `首都疑案系列`（同一位作者以华盛顿各处为背景的系列长篇）；馆藏丛编名另记于判据中。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-003",
+    "title": "五角大楼疑案",
+    "originalTitle": "",
+    "author": "玛格丽特·杜鲁门",
+    "authorEn": "Margaret Truman",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "首都疑案系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "五角大楼里出的一桩命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛格丽特·杜鲁门的读者",
+        "政治背景犯罪小说的读者"
+      ],
+      "watchFor": [
+        "案发地点与权力结构的关系",
+        "各人的立场"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛格丽特·杜鲁门，九洲图书出版社 2000，丛编「美国侦探大师玛格丽特·杜鲁门疑案小说」（ISBN 7-80114-484-8）。**判据**：①**学科主题词为「侦探小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为美国侦探大师玛格丽特·杜鲁门疑案小说**。**同 ISBN 说明**：本册与同批的《水门疑案》《五角大楼疑案》《国会山疑案》**共用 ISBN `7-80114-484-8`**——四部是**各自独立的长篇**（分别以中央情报局、水门、五角大楼、国会山为背景），属**一套书共用套号**，与 §81.2 那种「一册书两条著录」不同，故**四册都收**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。**系列归属**：本库按作品体例归入 `首都疑案系列`（同一位作者以华盛顿各处为背景的系列长篇）；馆藏丛编名另记于判据中。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-004",
+    "title": "国会山疑案",
+    "originalTitle": "",
+    "author": "玛格丽特·杜鲁门",
+    "authorEn": "Margaret Truman",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "首都疑案系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "legal-thriller"
+    ],
+    "safeSummary": "国会山上出的一桩命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛格丽特·杜鲁门的读者",
+        "政治背景犯罪小说的读者"
+      ],
+      "watchFor": [
+        "案发地点与权力结构的关系",
+        "各人的立场"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛格丽特·杜鲁门，九洲图书出版社 2000，丛编「美国侦探大师玛格丽特·杜鲁门疑案小说」（ISBN 7-80114-484-8）。**判据**：①**学科主题词为「侦探小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为美国侦探大师玛格丽特·杜鲁门疑案小说**。**同 ISBN 说明**：本册与同批的《水门疑案》《五角大楼疑案》《国会山疑案》**共用 ISBN `7-80114-484-8`**——四部是**各自独立的长篇**（分别以中央情报局、水门、五角大楼、国会山为背景），属**一套书共用套号**，与 §81.2 那种「一册书两条著录」不同，故**四册都收**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2000。**系列归属**：本库按作品体例归入 `首都疑案系列`（同一位作者以华盛顿各处为背景的系列长篇）；馆藏丛编名另记于判据中。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-005",
+    "title": "鸽房女尸案",
+    "originalTitle": "",
+    "author": "玛西亚·缪勒",
+    "authorEn": "Marcia Muller",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1997",
+    "series": "世界畅销书金库",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "orthodox-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "缪勒的一册长篇：一间鸽房里发现的女尸。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛西亚·缪勒的读者",
+        "女性私家侦探小说的读者"
+      ],
+      "watchFor": [
+        "调查者一路问到的那些人",
+        "案子里被忽略的细节"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛西亚·缪勒，上海文化出版社 1997，丛编「世界畅销书金库」（ISBN 7-80511-309-2）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为世界畅销书金库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1997。**作者名说明**：馆藏责任者写作「**马勒**」，与库内既有的「**玛西亚·缪勒**」为同一作家（另一种译名），本库按库内写法归并，`author` 记「玛西亚·缪勒」。**系列与主角**：馆藏未提供提要、亦未显示人物系列，故按丛编记 `series`、`detective` **留空**（与库内既有的《爱之祸》同一处理）。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-006",
+    "title": "图发湖的秘密",
+    "originalTitle": "",
+    "author": "玛西亚·缪勒",
+    "authorEn": "Marcia Muller",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1997",
+    "series": "世界畅销书金库",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "orthodox-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "缪勒的一册长篇：图发湖边的秘密。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛西亚·缪勒的读者",
+        "女性私家侦探小说的读者"
+      ],
+      "watchFor": [
+        "调查者一路问到的那些人",
+        "案子里被忽略的细节"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛西亚·缪勒，上海文化出版社 1997，丛编「世界畅销书金库」（ISBN 7-80511-933-3）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为世界畅销书金库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1997。**作者名说明**：馆藏责任者写作「**马勒**」，与库内既有的「**玛西亚·缪勒**」为同一作家（另一种译名），本库按库内写法归并，`author` 记「玛西亚·缪勒」。**系列与主角**：馆藏未提供提要、亦未显示人物系列，故按丛编记 `series`、`detective` **留空**（与库内既有的《爱之祸》同一处理）。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-007",
+    "title": "街头枪击案之谜",
+    "originalTitle": "",
+    "author": "玛西亚·缪勒",
+    "authorEn": "Marcia Muller",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1997",
+    "series": "世界畅销书金库",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "orthodox-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "缪勒的一册长篇：街头的一起枪击案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛西亚·缪勒的读者",
+        "女性私家侦探小说的读者"
+      ],
+      "watchFor": [
+        "调查者一路问到的那些人",
+        "案子里被忽略的细节"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛西亚·缪勒，上海文化出版社 1997，丛编「世界畅销书金库」（ISBN 7-80511-922-8）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为世界畅销书金库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1997。**作者名说明**：馆藏责任者写作「**马勒**」，与库内既有的「**玛西亚·缪勒**」为同一作家（另一种译名），本库按库内写法归并，`author` 记「玛西亚·缪勒」。**系列与主角**：馆藏未提供提要、亦未显示人物系列，故按丛编记 `series`、`detective` **留空**（与库内既有的《爱之祸》同一处理）。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-008",
+    "title": "阴影中的狼",
+    "originalTitle": "",
+    "author": "玛西亚·缪勒",
+    "authorEn": "Marcia Muller",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1997",
+    "series": "世界畅销书金库",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "orthodox-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "缪勒的一册长篇：有人躲在阴影里。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "玛西亚·缪勒的读者",
+        "女性私家侦探小说的读者"
+      ],
+      "watchFor": [
+        "调查者一路问到的那些人",
+        "案子里被忽略的细节"
+      ],
+      "warning": "犯罪小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：玛西亚·缪勒，上海文化出版社 1997，丛编「世界畅销书金库」（ISBN 7-80511-256-8）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为世界畅销书金库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 1997。**作者名说明**：馆藏责任者写作「**马勒**」，与库内既有的「**玛西亚·缪勒**」为同一作家（另一种译名），本库按库内写法归并，`author` 记「玛西亚·缪勒」。**系列与主角**：馆藏未提供提要、亦未显示人物系列，故按丛编记 `series`、`detective` **留空**（与库内既有的《爱之祸》同一处理）。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-009",
+    "title": "开棺疑云",
+    "originalTitle": "",
+    "author": "苏菲·汉娜",
+    "authorEn": "Sophie Hannah",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "赫尔克里·波洛系列（新作）",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "alibi",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一桩宅邸聚会上的遗嘱变故，引出波洛的新案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "苏菲·汉娜的读者",
+        "波洛续作的读者"
+      ],
+      "watchFor": [
+        "谁在代替谁说话",
+        "证词里对不上的那一句"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：苏菲·汉娜，新星出版社 2025，丛编「午夜文库」（ISBN 978-7-5133-6111-8）。**判据**：①**学科主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为午夜文库**。**提要使用**：馆藏 330 提要写到了遗嘱的变卦与两位不速之客，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列与主角**：本册是**经授权续写的波洛新案**，`detective` 记「赫尔克里·波洛」；`series` 沿用库内既有《字母袖扣谋杀案》的写法「赫尔克里·波洛系列（新作）」——**（新作）这个副题是刻意的**，用来把续作与克里斯蒂本人的作品区分开。**同书说明（未收项）**：候选《白罗再起 伦敦死亡聚会》（远流 2014）馆藏并列题名 `Monogram murders`，**即库内《字母袖扣谋杀案》**（同为 *The Monogram Murders*，台版用「白罗」、大陆版用「波洛」）——**不收**。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-010",
+    "title": "3/4谜案",
+    "originalTitle": "",
+    "author": "苏菲·汉娜",
+    "authorEn": "Sophie Hannah",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "赫尔克里·波洛系列（新作）",
+    "detective": "赫尔克里·波洛",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "alibi",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "有人以波洛的名义寄出指控信，而波洛本人并不知情。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "苏菲·汉娜的读者",
+        "波洛续作的读者"
+      ],
+      "watchFor": [
+        "谁在代替谁说话",
+        "证词里对不上的那一句"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：苏菲·汉娜，新星出版社 2025，丛编「午夜文库」（ISBN 978-7-5133-6110-1）。**判据**：①**学科主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为午夜文库**。**提要使用**：馆藏 330 提要写到了接连出现的冒名指控信，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列与主角**：本册是**经授权续写的波洛新案**，`detective` 记「赫尔克里·波洛」；`series` 沿用库内既有《字母袖扣谋杀案》的写法「赫尔克里·波洛系列（新作）」——**（新作）这个副题是刻意的**，用来把续作与克里斯蒂本人的作品区分开。**同书说明（未收项）**：候选《白罗再起 伦敦死亡聚会》（远流 2014）馆藏并列题名 `Monogram murders`，**即库内《字母袖扣谋杀案》**（同为 *The Monogram Murders*，台版用「白罗」、大陆版用「波洛」）——**不收**。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-011",
+    "title": "营救时分",
+    "originalTitle": "",
+    "author": "苏菲·汉娜",
+    "authorEn": "Sophie Hannah",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "汉娜的一册长篇（非波洛系列）：一起与孩子有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "苏菲·汉娜的读者",
+        "波洛续作的读者"
+      ],
+      "watchFor": [
+        "谁在代替谁说话",
+        "证词里对不上的那一句"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：苏菲·汉娜，中国华侨出版社 2013（ISBN 978-7-5113-3064-2）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：本册原作 *The Point of Rescue* **不属于波洛系列**，故记「非系列」、`detective` 留空。**同书说明（未收项）**：候选《白罗再起 伦敦死亡聚会》（远流 2014）馆藏并列题名 `Monogram murders`，**即库内《字母袖扣谋杀案》**（同为 *The Monogram Murders*，台版用「白罗」、大陆版用「波洛」）——**不收**。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-012",
+    "title": "解罪师 蝶变",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "解罪师系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「解罪师」系列的一册：一桩关于「变成另一个人」的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴西的读者",
+        "法医题材推理的读者"
+      ],
+      "watchFor": [
+        "尸检与物证给出的那一点",
+        "办案人的推断如何被修正"
+      ],
+      "warning": "法医题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴西，百花文艺出版社 2017（ISBN 978-7-5306-7151-1）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2017；`firstPublished` **留空**。**系列归属**：本册题名含系列名（「解罪师」／「女法医」），与库内既有的同系列条目（《解罪师：设计者》《法医档案》等）一致，据此归入。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-013",
+    "title": "解罪师 菊祭",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "解罪师系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「解罪师」系列的一册：一桩与祭奠有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴西的读者",
+        "法医题材推理的读者"
+      ],
+      "watchFor": [
+        "尸检与物证给出的那一点",
+        "办案人的推断如何被修正"
+      ],
+      "warning": "法医题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴西，百花文艺出版社 2017（ISBN 978-7-5306-7192-4）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2017；`firstPublished` **留空**。**系列归属**：本册题名含系列名（「解罪师」／「女法医」），与库内既有的同系列条目（《解罪师：设计者》《法医档案》等）一致，据此归入。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-014",
+    "title": "女法医之活体贩卖者",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "女法医系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「女法医」系列的一册：一桩与人体器官有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴西的读者",
+        "法医题材推理的读者"
+      ],
+      "watchFor": [
+        "尸检与物证给出的那一点",
+        "办案人的推断如何被修正"
+      ],
+      "warning": "法医题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴西，中国画报出版社 2012（ISBN 978-7-5146-0569-3）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**系列归属**：本册题名含系列名（「解罪师」／「女法医」），与库内既有的同系列条目（《解罪师：设计者》《法医档案》等）一致，据此归入。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-015",
+    "title": "女法医之骨头收藏家",
+    "originalTitle": "",
+    "author": "戴西",
+    "authorEn": "Dai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "女法医系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「女法医」系列的一册：一桩与骨骸收藏有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴西的读者",
+        "法医题材推理的读者"
+      ],
+      "watchFor": [
+        "尸检与物证给出的那一点",
+        "办案人的推断如何被修正"
+      ],
+      "warning": "法医题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴西，中国画报出版社 2012（ISBN 978-7-5146-0480-1）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**系列归属**：本册题名含系列名（「解罪师」／「女法医」），与库内既有的同系列条目（《解罪师：设计者》《法医档案》等）一致，据此归入。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-016",
+    "title": "神探陈汉雄 午夜枪声",
+    "originalTitle": "",
+    "author": "常大利",
+    "authorEn": "Chang Dali",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "神探陈汉雄系列",
+    "detective": "陈汉雄",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "小城一家公司的经理被杀，神探陈汉雄接手调查。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "常大利的读者",
+        "小城探案题材的读者"
+      ],
+      "watchFor": [
+        "办案人一路问到的那些人",
+        "案子里的那件旧物"
+      ],
+      "warning": "侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：常大利，天津人民出版社 2020（ISBN 978-7-201-15566-1）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了案子的起点与调查方向，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列与主角**：三册题名均含「神探陈汉雄」，据此归入同一系列并记 `detective: 陈汉雄`。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-017",
+    "title": "神探陈汉雄 红玫瑰之谜",
+    "originalTitle": "",
+    "author": "常大利",
+    "authorEn": "Chang Dali",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "神探陈汉雄系列",
+    "detective": "陈汉雄",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "九十年代末的北方小城：一束红玫瑰反复出现在案发现场。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "常大利的读者",
+        "小城探案题材的读者"
+      ],
+      "watchFor": [
+        "办案人一路问到的那些人",
+        "案子里的那件旧物"
+      ],
+      "warning": "侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：常大利，天津人民出版社 2020（ISBN 978-7-201-15565-4）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了红玫瑰与几起案子的关联，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列与主角**：三册题名均含「神探陈汉雄」，据此归入同一系列并记 `detective: 陈汉雄`。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-018",
+    "title": "神探陈汉雄 湖畔人影",
+    "originalTitle": "",
+    "author": "常大利",
+    "authorEn": "Chang Dali",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "神探陈汉雄系列",
+    "detective": "陈汉雄",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "有人在月光湖畔摄影时，无意中拍到了可疑的画面。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "常大利的读者",
+        "小城探案题材的读者"
+      ],
+      "watchFor": [
+        "办案人一路问到的那些人",
+        "案子里的那件旧物"
+      ],
+      "warning": "侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：常大利，天津人民出版社 2020（ISBN 978-7-201-15209-7）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了照片里的可疑之处，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列与主角**：三册题名均含「神探陈汉雄」，据此归入同一系列并记 `detective: 陈汉雄`。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-019",
+    "title": "暗夜下的墓葬",
+    "originalTitle": "",
+    "author": "常大利",
+    "authorEn": "Chang Dali",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "常大利的一册长篇：一座古墓被盗之后。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "常大利的读者",
+        "小城探案题材的读者"
+      ],
+      "watchFor": [
+        "办案人一路问到的那些人",
+        "案子里的那件旧物"
+      ],
+      "warning": "侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：常大利，广西人民出版社 2013（ISBN 978-7-219-08092-4）。**判据**：①**学科主题词为「长篇小说 侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了盗墓与随后的怪事，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2013；`firstPublished` **留空**。**系列归属**：本册不在「神探陈汉雄」系列内，记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-020",
+    "title": "死亡剧院",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯",
+    "authorEn": "Will Andrews",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「福尔摩斯探案续集」的一册，收《死亡剧院》等三篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯续作的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "续作者如何模仿原作的叙述口吻",
+        "每篇的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：威尔·安德鲁斯，群众出版社 2004，丛编「福尔摩斯探案续集」（ISBN 7-5014-3198-1）。**判据**：①**学科主题词为「侦探小说 作品集」**；②**中图分类号 `I561.45`**；③**丛编为福尔摩斯探案续集**。**本册提要**（馆藏 330 字段原文）：「本书收录了《死亡剧院》《恐怖马戏团》《魔术大师身亡之谜》3个故事。」**梗概说明**：以上为**篇目**，不含情节。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2004。**系列与主角**：本册是**福尔摩斯探案续集**（馆藏丛编名亦作此），`detective` 记「夏洛克·福尔摩斯」——与库内既有的三部同系列条目（《埃及剧院谋杀案》《吸血鬼凶杀案》《坦得里奇庄园谋杀案》）一致。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-021",
+    "title": "失去身份的人",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯",
+    "authorEn": "Will Andrews",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「福尔摩斯探案续集」的一册：一个失去身份的人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯续作的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "续作者如何模仿原作的叙述口吻",
+        "每篇的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：威尔·安德鲁斯，群众出版社 2004，丛编「福尔摩斯探案续集」（ISBN 7-5014-3202-3）。**判据**：①**学科主题词为「侦探小说 作品集 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为福尔摩斯探案续集**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2004。**系列与主角**：本册是**福尔摩斯探案续集**（馆藏丛编名亦作此），`detective` 记「夏洛克·福尔摩斯」——与库内既有的三部同系列条目（《埃及剧院谋杀案》《吸血鬼凶杀案》《坦得里奇庄园谋杀案》）一致。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-022",
+    "title": "冬至节谜案",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯",
+    "authorEn": "Will Andrews",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「福尔摩斯探案续集」的一册：冬至节前后的一桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯续作的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "续作者如何模仿原作的叙述口吻",
+        "每篇的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：威尔·安德鲁斯，群众出版社 2004，丛编「福尔摩斯探案续集」（ISBN 7-5014-3199-X）。**判据**：①**学科主题词为「侦探小说 作品集 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为福尔摩斯探案续集**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2004。**系列与主角**：本册是**福尔摩斯探案续集**（馆藏丛编名亦作此），`detective` 记「夏洛克·福尔摩斯」——与库内既有的三部同系列条目（《埃及剧院谋杀案》《吸血鬼凶杀案》《坦得里奇庄园谋杀案》）一致。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-023",
+    "title": "新福尔摩斯探案 第一季",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯",
+    "authorEn": "Will Andrews",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「新福尔摩斯探案」第一季：续写的福尔摩斯短案集。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯续作的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "续作者如何模仿原作的叙述口吻",
+        "每篇的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：威尔·安德鲁斯，九州出版社 2013（ISBN 978-7-5108-1882-0）。**判据**：①**学科主题词为「侦探小说 小说集 英国 现代」**；②**中图分类号 `I561.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列与主角**：本册是**福尔摩斯探案续集**（馆藏丛编名亦作此），`detective` 记「夏洛克·福尔摩斯」——与库内既有的三部同系列条目（《埃及剧院谋杀案》《吸血鬼凶杀案》《坦得里奇庄园谋杀案》）一致。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib188-024",
+    "title": "新福尔摩斯探案 第二季",
+    "originalTitle": "",
+    "author": "威尔·安德鲁斯",
+    "authorEn": "Will Andrews",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "福尔摩斯探案续集",
+    "detective": "夏洛克·福尔摩斯",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「新福尔摩斯探案」第二季：续写的福尔摩斯短案集。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福尔摩斯续作的读者",
+        "古典短篇本格的读者"
+      ],
+      "watchFor": [
+        "续作者如何模仿原作的叙述口吻",
+        "每篇的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：威尔·安德鲁斯，九州出版社 2013（ISBN 978-7-5108-1883-7）。**判据**：①**学科主题词为「侦探小说 小说集 英国 现代」**；②**中图分类号 `I561.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与体例整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列与主角**：本册是**福尔摩斯探案续集**（馆藏丛编名亦作此），`detective` 记「夏洛克·福尔摩斯」——与库内既有的三部同系列条目（《埃及剧院谋杀案》《吸血鬼凶杀案》《坦得里奇庄园谋杀案》）一致。"
+    },
+    "provenance": {
+      "source": "batch-188-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
