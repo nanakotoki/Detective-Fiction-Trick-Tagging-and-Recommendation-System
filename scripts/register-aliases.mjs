@@ -46,7 +46,12 @@ const PLAN = [
  * （《教堂里的谋杀》）。同一位作者被拆成两个名字，作者页与「按作者收全」的统计都会错。
  * 这类问题 `check-data.mjs` 不查（它只看单条的结构与泄底），只能靠人发现。
  */
-const RENAME_AUTHOR = [{ title: '教堂里的谋杀', from: 'P.D.詹姆斯', to: 'P. D. 詹姆斯' }];
+const RENAME_AUTHOR = [
+  { title: '教堂里的谋杀', from: 'P.D.詹姆斯', to: 'P. D. 詹姆斯' },
+  // 多萝西·塞耶斯在库内也是两种写法：多数作「多萝西·L·塞耶斯」（10 条），少数作「多萝西·塞耶斯」（2 条）
+  { title: '贝罗那俱乐部的不快事件', from: '多萝西·塞耶斯', to: '多萝西·L·塞耶斯' },
+  { title: '杀人广告', from: '多萝西·塞耶斯', to: '多萝西·L·塞耶斯' },
+];
 
 const APPLY = process.argv.includes('--apply');
 const files = readdirSync('data/books').filter((x) => x.endsWith('.json') && !x.startsWith('_'));

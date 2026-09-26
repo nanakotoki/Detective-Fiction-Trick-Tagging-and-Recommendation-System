@@ -1272,18 +1272,19 @@
     "detective": "彼得·温西爵爷",
     "country": "英国",
     "tags": [
+      "psychological-misdirection",
       "red-herring",
       "dual-role",
-      "psychological-misdirection",
-      "concealment",
-      "silencing",
       "city",
-      "series-detective",
-      "honkaku"
+      "silencing",
+      "concealment",
+      "honkaku",
+      "series-detective"
     ],
     "school": [
-      "orthodox-school",
-      "logic-school"
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
     ],
     "safeSummary": "广告公司的一名年轻撰稿人从楼梯上摔下身亡，公司里随后出现一位新同事，暗中查访这桩被当作意外的死亡。",
     "recommendationReason": "",
@@ -1291,14 +1292,7 @@
       "douban": {
         "score": null,
         "count": null,
-        "source": "豆瓣读书（待抓取）",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
+        "source": "豆瓣读书",
         "asOf": null,
         "summary": "暂无数据"
       },
@@ -1306,6 +1300,13 @@
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -1333,6 +1334,16 @@
       "verified": true,
       "verifiedAt": "2025-01",
       "source": "整理者据公开出版信息与先验知识整理"
+    },
+    "alternateTitles": [
+      "杀人广告"
+    ],
+    "provenance": {
+      "mergedFrom": [
+        "batch-120-facet.json#facet120-009"
+      ],
+      "mergedAt": "2026-09",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     }
   },
   {
