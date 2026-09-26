@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-26T14:43:10.520Z",
+  "generatedAt": "2026-09-26T14:50:05.151Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2943,
-    "dataFiles": 197,
+    "books": 2949,
+    "dataFiles": 198,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2943,
-    "withPlatformRating": 1039
+    "withSafeSummary": 2949,
+    "withPlatformRating": 1045
   },
   "tagDistribution": [
     {
@@ -39,7 +39,7 @@
         {
           "id": "timetable",
           "label": "时刻表诡计",
-          "books": 59
+          "books": 60
         },
         {
           "id": "faceless-corpse",
@@ -49,7 +49,7 @@
         {
           "id": "vanished-weapon",
           "label": "凶器消失",
-          "books": 32
+          "books": 33
         },
         {
           "id": "closed-circle",
@@ -64,12 +64,12 @@
         {
           "id": "psychological-misdirection",
           "label": "心理误导",
-          "books": 568
+          "books": 569
         },
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1272
+          "books": 1273
         },
         {
           "id": "swap-murder",
@@ -111,7 +111,7 @@
         {
           "id": "dual-line",
           "label": "双线",
-          "books": 141
+          "books": 142
         },
         {
           "id": "nonlinear",
@@ -158,7 +158,7 @@
         {
           "id": "train",
           "label": "列车",
-          "books": 44
+          "books": 45
         },
         {
           "id": "campus",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 869
+          "books": 872
         },
         {
           "id": "snowfield",
@@ -215,7 +215,7 @@
         {
           "id": "revenge",
           "label": "复仇",
-          "books": 118
+          "books": 119
         },
         {
           "id": "gain",
@@ -245,22 +245,22 @@
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 378
+          "books": 379
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1527
+          "books": 1531
         },
         {
           "id": "fear",
           "label": "恐惧",
-          "books": 338
+          "books": 339
         },
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 113
+          "books": 114
         }
       ]
     },
@@ -277,7 +277,7 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 301
+          "books": 302
         },
         {
           "id": "hardboiled",
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 517
+          "books": 518
         },
         {
           "id": "cozy",
@@ -307,7 +307,7 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1257
+          "books": 1261
         },
         {
           "id": "legend-folklore",
@@ -344,27 +344,27 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1006
+          "books": 1007
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1741
+          "books": 1743
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 520
+          "books": 523
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 643
+          "books": 647
         },
         {
           "id": "legal-thriller",
           "label": "法庭派",
-          "books": 121
+          "books": 122
         },
         {
           "id": "forensic-school",
@@ -379,7 +379,7 @@
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 705
+          "books": 706
         },
         {
           "id": "spy-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2943
+    "checkedBooks": 2949
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

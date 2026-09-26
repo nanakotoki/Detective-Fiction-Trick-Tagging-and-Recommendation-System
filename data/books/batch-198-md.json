@@ -1,0 +1,469 @@
+[
+  {
+    "id": "md198-001",
+    "title": "黑色笔记",
+    "originalTitle": "The Black Book",
+    "author": "伊恩·兰金",
+    "authorEn": "Ian Rankin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1993",
+    "editionYear": "2013",
+    "series": "雷布思探长系列",
+    "detective": "约翰·雷布思",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一名同事遭到残暴袭击，雷布思循线查下去，案子牵出一场饭店大火、一具无名尸体，以及同事留下的一本写满密码的黑色笔记。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.2。",
+        "score": 7.2,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/20472816/",
+        "subjectId": "20472816",
+        "edition": "黑色笔记 2013",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警探系列与城市阴郁氛围的读者",
+        "能接受旧案层层翻出的长篇"
+      ],
+      "watchFor": [
+        "线索细碎，靠笔记与旧案拼合",
+        "爱丁堡的城市质感是重要一环"
+      ],
+      "warning": "警察程序派犯罪长篇，含火场、无名尸与暴力袭击描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：兰金著，化学工业出版社 2013，ISBN 978-7-122-16268-7，345 页，丛编「金匕首文库·伊恩·兰金作品 002」，**学科主题词「侦探小说 英国 现代 ; 长篇小说 英国 现代」**，中图法 `I561.45`；`510` 并列题名 `Black book`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/20472816/`，2026-09 抓取，评分 7.2；梗概据该页出版方简介重写，只留「同事遇袭／饭店大火／无名尸／黑色笔记」，**凶手与结局不写**。**系列与主角**：`series`「雷布思探长系列」、`detective`「约翰·雷布思」沿用库内《黑与蓝》《死魂灵》的写法。**年份字段**：`firstPublished` 记原作年 1993（*The Black Book*），`editionYear` 记所引中译本 2013。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md198-002",
+    "title": "不可忘却的游戏",
+    "originalTitle": "Knots and Crosses",
+    "author": "伊恩·兰金",
+    "authorEn": "Ian Rankin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1987",
+    "editionYear": "2010",
+    "series": "雷布思探长系列",
+    "detective": "约翰·雷布思",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "city",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "爱丁堡接连有少女失踪遇害，警方找不到动机也找不到人。雷布思被调进专案组，同时开始收到寄给他本人的匿名信——绳结、火柴十字架，意思不明。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.6。",
+        "score": 6.6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4606343/",
+        "subjectId": "4606343",
+        "edition": "不可忘却的游戏 2010",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想从系列第一册读起的读者",
+        "喜欢警探心理线重于物证的读者"
+      ],
+      "watchFor": [
+        "雷布思的从军往事贯穿全书，是理解他的关键",
+        "案件推进与他的私人生活交织"
+      ],
+      "warning": "警察程序派犯罪长篇，含诱拐、杀害少女与心理创伤描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：兰金著，新星出版社 2010，ISBN 978-7-80225-901-0，229 页，丛编「午夜文库·伊恩·兰金作品系列」，**学科主题词「侦探小说 英国 现代 ; 长篇小说 英国 现代」**，中图法 `I561.45`；`510` 并列题名 `Knots and crosses`（**本系列的起点**）。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/4606343/`，2026-09 抓取，评分 6.6。⚠️ **该页简介把凶手、催眠揭底与结局都写了出来**，本库一律不采：梗概只取「少女接连失踪遇害＋寄给雷布思的匿名信」这一层谜面，**解法与真相一个字都没入库**（这正是本项目对出版方文案的一贯处理）。**年份字段**：`firstPublished` 记原作年 1987，`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md198-003",
+    "title": "任血流淌",
+    "originalTitle": "Let It Bleed",
+    "author": "伊恩·兰金",
+    "authorEn": "Ian Rankin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1995",
+    "editionYear": "2011",
+    "series": "雷布思探长系列",
+    "detective": "约翰·雷布思",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "dual-line",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "市长的女儿遭绑架，追捕中两名年轻绑匪跳海身亡；同时，一名刚出狱的人在区议员面前举枪自尽，议员随后也遇刺。雷布思发现这些事彼此相扣。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.3。",
+        "score": 7.3,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/5905977/",
+        "subjectId": "5905977",
+        "edition": "任血流淌 2011",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢多条线索汇成一条主线的读者",
+        "能接受体制与政治压力的题材"
+      ],
+      "watchFor": [
+        "由几桩看似无关的事并线推进",
+        "主角会被逼到必须在原则上做选择"
+      ],
+      "warning": "警察程序派犯罪长篇，含绑架、自杀与刺杀描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：兰金著，新星出版社 2011，ISBN 978-7-5133-0178-7，385 页，丛编「午夜文库·大师系列·伊恩·兰金作品系列」，**学科主题词「侦探小说 英国 现代 ; 长篇小说 英国 现代」**，中图法 `I561.45`；`510` 并列题名 `Let it bleed`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/5905977/`，2026-09 抓取，评分 7.3；梗概只写开头几件事的并置，**不写它们如何相扣**。**年份字段**：`firstPublished` 记原作年 1995，`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md198-004",
+    "title": "相对公正",
+    "originalTitle": "A Certain Justice",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "1997",
+    "editionYear": "2004",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "revenge",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "年轻的加里·阿希被控杀害姨母，辩护律师奥尔德里奇明知他有罪，仍以技巧让他脱身。数周后，这位女律师被发现死在自己的办公室里，仇家不止一个。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 8.1。",
+        "score": 8.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1162943/",
+        "subjectId": "1162943",
+        "edition": "相对公正 2004",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭与调查并重的读者",
+        "达格利什系列的追读者"
+      ],
+      "watchFor": [
+        "嫌疑人多且各有动机",
+        "前半在法庭与律师事务所，后半才转入侦查"
+      ],
+      "warning": "古典本格推理长篇，含凶案与尸体受辱描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：詹姆斯著，译林出版社 2004，ISBN 7-80657-643-6，474 页，丛编「当代外国流行小说名篇丛书」，**学科主题词「长篇小说 侦探小说 英国 现代」**，中图法 `I561.45`；`510` 并列题名 `A Certain Justice`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/1162943/`，2026-09 抓取，评分 8.1；梗概据该页简介重写，**不写凶手是谁**。**系列与主角**：沿用库内多数写法「达格利什系列／亚当·达格利什」（本册简介未点名达格利什，属**据同系列推定**）。**年份字段**：`firstPublished` 记原作年 1997，`editionYear` 记 2004。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md198-005",
+    "title": "谁?",
+    "originalTitle": "誰か",
+    "author": "宫部美雪",
+    "authorEn": "Miyuki Miyabe",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "杉村三郎系列",
+    "detective": "杉村三郎",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "某财团会长的私人司机被自行车撞死，肇事者逃逸。死者的小女儿要为此出书引起警方注意，大女儿却坚决反对、怀疑父亲是被人谋杀——而她们都在撒谎。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.6。",
+        "score": 6.6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/11621647/",
+        "subjectId": "11621647",
+        "edition": "谁? 2013",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家庭内部视角的社会派读者",
+        "杉村三郎系列的追读者"
+      ],
+      "watchFor": [
+        "悬念落在家庭成员的隐情上，不在诡计",
+        "节奏偏慢，重人物"
+      ],
+      "warning": "社会派推理长篇，含交通事故致死与家庭隐情描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：宫部美雪著、刘子倩译，南海出版公司 2013，ISBN 978-7-5442-6367-2，267 页，丛编「新经典文库·宫部美雪作品」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/11621647/`，2026-09 抓取，评分 6.6；梗概最后一句「其实，她们都撒了谎」是出版方简介原有的悬念句，**属谜面、不属解答**，故保留。**系列与主角**：库内已有同系列《无名之毒》《圣彼得的葬礼》（`series` 记「杉村三郎系列」、`detective` 记「杉村三郎」），本册沿用；原作名 `誰か` 为该系列首作，但**本册馆藏与豆瓣均未著录原作名**，`originalTitle` 与 `firstPublished` 因此留空（系列归属属**据同系列推定**）。**年份字段**：`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md198-006",
+    "title": "特快卧铺列车杀人案",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "1999",
+    "series": "",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "train",
+      "vanished-weapon",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "记者青木乘「隼」号夜行列车采访，睡醒后发现自己竟在同一间 7 号单间里、车却成了「富士」号——按时刻表，这一夜「隼」号根本没有停过站。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.5。",
+        "score": 7.5,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2027701/",
+        "subjectId": "2027701",
+        "edition": "特快卧铺列车杀人案 1999",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢列车时刻表诡计的读者",
+        "偏爱「不可能发生的位移」这类谜面的读者"
+      ],
+      "watchFor": [
+        "诡计建立在列车时刻表上，慢读时刻表更清楚",
+        "成书较早，笔法老派"
+      ],
+      "warning": "古典本格推理长篇，含命案与尸体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：西村京太郎著，群众出版社 1999，ISBN 7-5014-1893-4，301 页，丛编「日本推理小说文库」，**学科主题词「长篇小说 推理小说 日本 现代」**，中图法 `I313.45`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/2027701/`，2026-09 抓取，评分 7.5；梗概据该页出版方简介重写，只留「醒来时车次变了」这个谜面，**手法与凶手不写**。**不是同一部作品的核对**：库内另有《新寝台特急杀人事件》（原作名 `新寝台特急殺人事件`），与本册**题名不同、原作名多一个「新」字**，判为两部作品；本册原作名馆藏与豆瓣均未著录，故 `originalTitle` 留空。**主角**：十津川省三——库内该系列既有写法；本册简介未点名，属**据同系列推定**（西村「日本推理小说文库」诸册多为十津川系列）。**年份字段**：`firstPublished` 留空，`editionYear` 记 1999。"
+    },
+    "provenance": {
+      "source": "batch-198-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
