@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "shlib181-001",
+    "title": "扭曲的人性",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2002",
+    "series": "西村京太郎作品集·十津川探案集",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "series-detective",
+      "train"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "西村京太郎的一册作品集：几桩案子各自独立，人心各有各的拧法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "列车的班次与停靠",
+        "各人的行程对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：西村京太郎著，珠海出版社 2002，丛编「西村京太郎作品集/十津川探案集」（ISBN 7-80607-975-0）。**判据**：①**学科主题词为「侦探小说 作品集 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2002。**主角归属**：馆藏丛编作「十津川探案集」（本册所在书系），据此填 `detective`。**同书说明**：《特快卧铺列车杀人案》（群众 1999，馆藏无并列题名）与库内《蓝色卧铺列车杀人事件》**都可能对应「寝台特急殺人事件」**，判据不足，**本批不收**；《隐闭之踪》《蒙闭之旅》《默闭之域》馆藏提要明写为**三位作家的合集**，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-002",
+    "title": "消失的船员",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "西村京太郎作品集·十津川探案集",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "cruise-ship",
+      "concealment",
+      "series-detective",
+      "train"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "西村京太郎「海洋推理系列」的一册：一艘空无一人的船，与随后接连出事的人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "列车的班次与停靠",
+        "各人的行程对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：西村京太郎著，珠海出版社 2025，丛编「西村京太郎海洋推理系列」（ISBN 978-7-5387-7732-1）。**判据**：①**学科主题词为「推理小说 日本 现代 ; 长篇小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**提要使用**：馆藏 330 提要交代了「空无一人的船」这一前提与「案中案」的格局，**梗概只取前提**，不写入审理过程与结局。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**主角归属**：馆藏丛编作「十津川探案集」（本册所在书系），据此填 `detective`。**同书说明**：《特快卧铺列车杀人案》（群众 1999，馆藏无并列题名）与库内《蓝色卧铺列车杀人事件》**都可能对应「寝台特急殺人事件」**，判据不足，**本批不收**；《隐闭之踪》《蒙闭之旅》《默闭之域》馆藏提要明写为**三位作家的合集**，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-003",
+    "title": "死亡情链",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "西村京太郎作品集·十津川探案集",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "passion",
+      "series-detective",
+      "train"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "西村京太郎的一册长篇：案子里的人一环扣一环。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "列车的班次与停靠",
+        "各人的行程对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：西村京太郎著，珠海出版社 2004，丛编「西村京太郎作品集」（ISBN 7-80689-158-7）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2004。**主角归属**：馆藏丛编作「十津川探案集」（本册所在书系），据此填 `detective`。**同书说明**：《特快卧铺列车杀人案》（群众 1999，馆藏无并列题名）与库内《蓝色卧铺列车杀人事件》**都可能对应「寝台特急殺人事件」**，判据不足，**本批不收**；《隐闭之踪》《蒙闭之旅》《默闭之域》馆藏提要明写为**三位作家的合集**，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-004",
+    "title": "情感游戏",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "alternateTitles": [
+      "“情人”的挽歌"
+    ],
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "西村京太郎作品集·十津川探案集",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "passion",
+      "concealment",
+      "series-detective",
+      "train"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "西村京太郎的一册长篇：有人在感情上做局。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "列车的班次与停靠",
+        "各人的行程对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：西村京太郎著，珠海出版社 2003，丛编「西村京太郎作品集」（ISBN 7-80689-039-4）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**同 ISBN 说明**：本册与候选《“情人”的挽歌》（珠海 2003）**共用 ISBN `7-80689-039-4`**——那是一册书的两条著录，本库只收一条，并把《“情人”的挽歌》登记进 `alternateTitles`。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2003。**主角归属**：馆藏丛编作「十津川探案集」（本册所在书系），据此填 `detective`。**同书说明**：《特快卧铺列车杀人案》（群众 1999，馆藏无并列题名）与库内《蓝色卧铺列车杀人事件》**都可能对应「寝台特急殺人事件」**，判据不足，**本批不收**；《隐闭之踪》《蒙闭之旅》《默闭之域》馆藏提要明写为**三位作家的合集**，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-005",
+    "title": "棒球联赛中的凶案",
+    "originalTitle": "",
+    "author": "西村京太郎",
+    "alternateTitles": [
+      "火焰之碑"
+    ],
+    "authorEn": "Kyotaro Nishimura",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "西村京太郎作品集·十津川探案集",
+    "detective": "十津川省三",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "city",
+      "series-detective",
+      "train"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "西村京太郎的一册长篇：案子出在棒球联赛期间。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西村京太郎的读者",
+        "旅情推理的读者"
+      ],
+      "watchFor": [
+        "列车的班次与停靠",
+        "各人的行程对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：西村京太郎著，珠海出版社 2004，丛编「西村京太郎作品集」（ISBN 7-80689-159-5）。**判据**：①**学科主题词为「长篇小说 侦探小说 日本 现代」**；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**同 ISBN 说明**：本册与候选《火焰之碑》（珠海 2004）**共用 ISBN `7-80689-159-5`**——同为一册书的两条著录，本库只收一条，并把《火焰之碑》登记进 `alternateTitles`。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2004。**主角归属**：馆藏丛编作「十津川探案集」（本册所在书系），据此填 `detective`。**同书说明**：《特快卧铺列车杀人案》（群众 1999，馆藏无并列题名）与库内《蓝色卧铺列车杀人事件》**都可能对应「寝台特急殺人事件」**，判据不足，**本批不收**；《隐闭之踪》《蒙闭之旅》《默闭之域》馆藏提要明写为**三位作家的合集**，亦不收。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-006",
+    "title": "神秘河",
+    "originalTitle": "Mystic River",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "identity",
+      "silencing"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "勒翰的一册长篇：三个童年玩伴，长大后各自被那件事拴着。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，人民邮电出版社 2015（ISBN 978-7-5442-7734-1）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**原作名说明**：馆藏并列题名作 `Secret river`，**系馆藏笔误**（原作为 *Mystic River*）；本库按作品通行原名记 `originalTitle`，并在此注明原著录。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2015。**系列归属**：本册不在「帕特里克与安琪」系列内，记「非系列」。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-007",
+    "title": "夜行人生",
+    "originalTitle": "Live by Night",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "historical-setting",
+      "gain"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "勒翰的一册长篇：一个人选了那条不该走的路。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，读瘾出版 2014（ISBN 978-986-9031-78-3）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**系列归属**：本册不在「帕特里克与安琪」系列内，记「非系列」。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-008",
+    "title": "战前酒",
+    "originalTitle": "A Drink Before the War",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "帕特里克与安琪系列",
+    "detective": "帕特里克·肯奇、安琪·詹纳罗",
+    "country": "美国",
+    "tags": [
+      "city",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「帕特里克与安琪」系列的第一册：一桩找人的委托，越查越大。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，文化艺术出版社 2010，丛编「幽巡者书系」（ISBN 978-7-5039-4065-1）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**本册提要**（馆藏 330 字段）只说明本系列「以一男一女的侦探搭档为主角、以波士顿为背景」，不含情节。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列与主角归属**：据馆藏提要「一男一女的侦探搭档」及本五部的作品对应关系归为同一系列；**本库此前未收该系列**，系列名与主角译名以本次为准，并在台账中记录。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-009",
+    "title": "黑暗，带我走",
+    "originalTitle": "Darkness, Take My Hand",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "帕特里克与安琪系列",
+    "detective": "帕特里克·肯奇、安琪·詹纳罗",
+    "country": "美国",
+    "tags": [
+      "dark-atmosphere",
+      "revenge",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「帕特里克与安琪」系列的一册：旧日的一段经历回过头来找他。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，文化艺术出版社 2010，丛编「幽巡者书系」（ISBN 978-7-5039-4066-8）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列与主角归属**：据馆藏提要「一男一女的侦探搭档」及本五部的作品对应关系归为同一系列；**本库此前未收该系列**，系列名与主角译名以本次为准，并在台账中记录。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-010",
+    "title": "圣洁之罪",
+    "originalTitle": "Sacred",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "帕特里克与安琪系列",
+    "detective": "帕特里克·肯奇、安琪·詹纳罗",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "gain",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「帕特里克与安琪」系列的一册：一位富翁来找他们找女儿。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，北京日报出版社 2026，丛编「幽巡者书系」（ISBN 978-7-5477-4720-9）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**提要使用**：馆藏 330 提要交代了「被绑架」「富翁之女失踪」等前提，**梗概只取前提**，不写入调查过程与结局。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2026。**系列与主角归属**：据馆藏提要「一男一女的侦探搭档」及本五部的作品对应关系归为同一系列；**本库此前未收该系列**，系列名与主角译名以本次为准，并在台账中记录。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-011",
+    "title": "雨的祈祷",
+    "originalTitle": "Prayers for Rain",
+    "author": "丹尼斯·勒翰",
+    "authorEn": "Dennis Lehane",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "帕特里克与安琪系列",
+    "detective": "帕特里克·肯奇、安琪·詹纳罗",
+    "country": "美国",
+    "tags": [
+      "obsession",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「帕特里克与安琪」系列的一册：有人被一点点逼到绝境。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "丹尼斯·勒翰的读者",
+        "美式犯罪小说的读者"
+      ],
+      "watchFor": [
+        "多年前那件事留下的影响",
+        "两名侦探搭档的相处"
+      ],
+      "warning": "犯罪小说，含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：丹尼斯·勒翰著，文化艺术出版社 2010，丛编「幽巡者书系」（ISBN 978-7-5039-4425-3）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列与主角归属**：据馆藏提要「一男一女的侦探搭档」及本五部的作品对应关系归为同一系列；**本库此前未收该系列**，系列名与主角译名以本次为准，并在台账中记录。**同书说明**：候选《再见宝贝，再见》（文化艺术 2010，并列题名 `Gone, baby, gone`）与**库内《人间蒸发的女孩》（北京日报 2024，并列题名同为 `Gone, baby, gone`）为同一部作品**，故不收，登记别名。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-012",
+    "title": "明日花黄",
+    "originalTitle": "Dead Tomorrow",
+    "author": "彼得·詹姆斯",
+    "authorEn": "Peter James",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "gain",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：一桩器官移植背后的交易。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·詹姆斯的读者",
+        "英式警察程序小说的读者"
+      ],
+      "watchFor": [
+        "法医与鉴证给出的那一点",
+        "案子里时间上的缝隙"
+      ],
+      "warning": "警察程序小说，含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：彼得·詹姆斯著，新星出版社 2013（ISBN 978-7-5133-1049-9）。**判据**：①**学科主题词为「侦探小说 英国 现代」**；②**中图分类号 `I561.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2013。**系列归属**：馆藏丛编为空，故记「非系列」、`detective` 留空——**本册原作（*Dead Tomorrow*／*Dead Simple*）亦属罗伊·格雷斯系列，但馆藏无据，留待有据再改。**"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-013",
+    "title": "死亡陷阱",
+    "originalTitle": "Dead Simple",
+    "author": "彼得·詹姆斯",
+    "alternateTitles": [
+      "透过棺材呼吸"
+    ],
+    "authorEn": "Peter James",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "詹姆斯的一册长篇：单身派对之后，新郎不见了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·詹姆斯的读者",
+        "英式警察程序小说的读者"
+      ],
+      "watchFor": [
+        "法医与鉴证给出的那一点",
+        "案子里时间上的缝隙"
+      ],
+      "warning": "警察程序小说，含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：彼得·詹姆斯著，九州出版社 2008（ISBN 978-7-80195-787-0）。**判据**：①**学科主题词为「推理小说 英国 现代」**；②**中图分类号 `I561.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2008。**系列归属**：馆藏丛编为空，故记「非系列」、`detective` 留空——**本册原作（*Dead Tomorrow*／*Dead Simple*）亦属罗伊·格雷斯系列，但馆藏无据，留待有据再改。****同书说明**：候选《透过棺材呼吸》（九州 2010）馆藏并列题名同为 `Dead simple`，与本册**同作**，故只收本册（2008 年版），并把《透过棺材呼吸》登记进 `alternateTitles`。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-014",
+    "title": "半死不活",
+    "originalTitle": "Not Dead Enough",
+    "author": "彼得·詹姆斯",
+    "authorEn": "Peter James",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "罗伊·格雷斯警长系列",
+    "detective": "罗伊·格雷斯",
+    "country": "英国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "「罗伊·格雷斯警长系列」的一册：死者留下的说法，警方无法采信。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·詹姆斯的读者",
+        "英式警察程序小说的读者"
+      ],
+      "watchFor": [
+        "法医与鉴证给出的那一点",
+        "案子里时间上的缝隙"
+      ],
+      "warning": "警察程序小说，含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：彼得·詹姆斯著，群众出版社 2009，丛编「罗伊·格雷斯警长系列」（ISBN 978-7-5014-4383-3）。**判据**：①**学科主题词为「推理小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**系列归属**：馆藏丛编作「罗伊·格雷斯警长系列」，据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-015",
+    "title": "幽灵的脚步",
+    "originalTitle": "Dead Man’s Footsteps",
+    "author": "彼得·詹姆斯",
+    "authorEn": "Peter James",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "罗伊·格雷斯警长系列",
+    "detective": "罗伊·格雷斯",
+    "country": "英国",
+    "tags": [
+      "identity",
+      "forensic",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "「罗伊·格雷斯警长系列」的一册：两具在不同国家被发现的尸体，互换了身份。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·詹姆斯的读者",
+        "英式警察程序小说的读者"
+      ],
+      "watchFor": [
+        "法医与鉴证给出的那一点",
+        "案子里时间上的缝隙"
+      ],
+      "warning": "警察程序小说，含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：彼得·詹姆斯著，群众出版社 2010（ISBN 978-7-5014-4572-1）。**判据**：①**学科主题词为「推理小说 英国 现代」**；②**中图分类号 `I561.45`**。**提要使用**：馆藏 330 提要交代了「两具尸体互换了所在国家」这一奇怪格局，**梗概只取这一条前提**，不写入侦破过程与结局。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列归属**：馆藏丛编作「罗伊·格雷斯警长系列」（该册丛编为空，但**提要写明主角为「格雷斯警长」**），据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib181-016",
+    "title": "圣甲虫之谜",
+    "originalTitle": "Looking Good Dead",
+    "author": "彼得·詹姆斯",
+    "authorEn": "Peter James",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "罗伊·格雷斯警长系列",
+    "detective": "罗伊·格雷斯",
+    "country": "英国",
+    "tags": [
+      "concealment",
+      "fear",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "「罗伊·格雷斯警长系列」的一册：一段视频把普通人拖进案子里。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "彼得·詹姆斯的读者",
+        "英式警察程序小说的读者"
+      ],
+      "watchFor": [
+        "法医与鉴证给出的那一点",
+        "案子里时间上的缝隙"
+      ],
+      "warning": "警察程序小说，含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：彼得·詹姆斯著，群众出版社 2009，丛编「罗伊·格雷斯警长系列」（ISBN 978-7-5014-4381-9）。**判据**：①**学科主题词为「推理小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**系列归属**：馆藏丛编作「罗伊·格雷斯警长系列」，据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-181-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
