@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-26T15:11:42.265Z",
+  "generatedAt": "2026-09-26T15:39:55.441Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2954,
-    "dataFiles": 199,
+    "books": 2955,
+    "dataFiles": 200,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2954,
-    "withPlatformRating": 1050
+    "withSafeSummary": 2955,
+    "withPlatformRating": 1051
   },
   "tagDistribution": [
     {
@@ -203,7 +203,7 @@
         {
           "id": "historical-setting",
           "label": "时代背景",
-          "books": 362
+          "books": 363
         }
       ]
     },
@@ -250,7 +250,7 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1533
+          "books": 1534
         },
         {
           "id": "fear",
@@ -307,7 +307,7 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1265
+          "books": 1266
         },
         {
           "id": "legend-folklore",
@@ -339,7 +339,7 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 750
+          "books": 751
         },
         {
           "id": "trick-school",
@@ -349,7 +349,7 @@
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1746
+          "books": 1747
         },
         {
           "id": "social-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2954
+    "checkedBooks": 2955
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
