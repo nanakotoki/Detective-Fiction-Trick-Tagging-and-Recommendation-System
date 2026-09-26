@@ -1608,12 +1608,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 101 轮）**：候选《铁针谜案》（北岳文艺出版社 2018，ISBN 978-7-5378-5493-1，丛编「大唐狄公探案全译」）与库内本条同作（*The Chinese Nail Murders*）——「铁钉／铁针」是同一篇目的两种译法。"
     },
     "provenance": {
       "source": "batch-49-western-new.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "铁针谜案"
+    ]
   },
   {
     "id": "gulik-007",
