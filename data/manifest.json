@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-26T13:39:01.972Z",
+  "generatedAt": "2026-09-26T13:42:29.230Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2906,
-    "dataFiles": 193,
+    "books": 2922,
+    "dataFiles": 194,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2906,
+    "withSafeSummary": 2922,
     "withPlatformRating": 1041
   },
   "tagDistribution": [
@@ -24,7 +24,7 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 275
+          "books": 277
         },
         {
           "id": "alibi",
@@ -59,17 +59,17 @@
         {
           "id": "multiple-solutions",
           "label": "多重解答",
-          "books": 660
+          "books": 662
         },
         {
           "id": "psychological-misdirection",
           "label": "心理误导",
-          "books": 567
+          "books": 569
         },
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1268
+          "books": 1270
         },
         {
           "id": "swap-murder",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 511
+          "books": 513
         },
         {
           "id": "diary-form",
@@ -203,7 +203,7 @@
         {
           "id": "historical-setting",
           "label": "时代背景",
-          "books": 362
+          "books": 364
         }
       ]
     },
@@ -245,17 +245,17 @@
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 379
+          "books": 381
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1501
+          "books": 1515
         },
         {
           "id": "fear",
           "label": "恐惧",
-          "books": 335
+          "books": 337
         },
         {
           "id": "curiosity",
@@ -272,12 +272,12 @@
         {
           "id": "honkaku",
           "label": "本格解谜",
-          "books": 535
+          "books": 537
         },
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 299
+          "books": 301
         },
         {
           "id": "hardboiled",
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 519
+          "books": 521
         },
         {
           "id": "cozy",
@@ -302,12 +302,12 @@
         {
           "id": "meta-fiction",
           "label": "后设趣味",
-          "books": 220
+          "books": 222
         },
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1249
+          "books": 1251
         },
         {
           "id": "legend-folklore",
@@ -317,7 +317,7 @@
         {
           "id": "forensic",
           "label": "科学取证",
-          "books": 208
+          "books": 210
         },
         {
           "id": "spy-espionage",
@@ -339,27 +339,27 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 750
+          "books": 752
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 999
+          "books": 1001
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1716
+          "books": 1728
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 515
+          "books": 517
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 624
+          "books": 630
         },
         {
           "id": "legal-thriller",
@@ -379,7 +379,7 @@
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 698
+          "books": 704
         },
         {
           "id": "spy-school",
@@ -404,7 +404,7 @@
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 440
+          "books": 442
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2906
+    "checkedBooks": 2922
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
