@@ -1,0 +1,737 @@
+[
+  {
+    "id": "shlib196-001",
+    "title": "谋杀之心",
+    "originalTitle": "A Mind to Murder",
+    "author": "P. D. 詹姆斯",
+    "authorEn": "P. D. James",
+    "genre": "本格推理",
+    "firstPublished": "1963",
+    "editionYear": "2019",
+    "series": "达格利什系列",
+    "detective": "亚当·达格利什",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "hospital",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "斯蒂恩精神病诊所的行政官员被发现死在地下室。苏格兰场警探达格利什要在诊所的医护人员与病人之间，找出被平静表面盖住的那个动机。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古典本格与机构内群像的读者",
+        "达格利什系列的追读者"
+      ],
+      "watchFor": [
+        "线索散在诊所各人的日常里",
+        "苏格兰场的办案流程写得细"
+      ],
+      "warning": "古典本格推理长篇，背景为精神科诊所，含凶案与精神疾病描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：P. D. 詹姆斯著，上海文艺出版社 2019，ISBN 978-7-5321-6936-8，丛编「读客外国小说文库 148」，284 页；`510` 并列题名 `Mind to murder`。**推理属性判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**（最硬）；②**中图分类号 `I561.45`**；③丛编为推理专门书系。**系列与主角**：本册馆藏提要写明死者是「斯蒂恩精神病诊所的行政官员」、查案者是「苏格兰场**警探亚当·达格利什**」，故 `detective` 记「亚当·达格利什」；`series` 沿用库内多数写法「达格利什系列」（库内另有两条作「亚当·达格利什系列」，属既有笔误差异，另记台账）。**作者写法统一**：沿用库内既有的「P. D. 詹姆斯」（首字母后带空格），不另立写法。**梗概**由整理者据当当书店商品页（商品 12388599920）的出版方内容简介重写，只取谜面、不取解答，未入库原文。**年份字段**：`firstPublished` 记原作年 1963（*A Mind to Murder*，与作者书目通行著录一致），`editionYear` 记所引中译本 2019。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-002",
+    "title": "死魂灵",
+    "originalTitle": "Dead Souls",
+    "author": "伊恩·兰金",
+    "authorEn": "Ian Rankin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "1999",
+    "editionYear": "2012",
+    "series": "雷布思探长系列",
+    "detective": "约翰·雷布思",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "dual-line",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "好友殉职之后，雷布思同时面对几桩彼此牵连的事：同事跳崖、一桩旧案开审、老朋友的孩子出走，以及一个被引渡回爱丁堡的旧日凶手。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警探系列与城市氛围的读者",
+        "能接受多条线索并行的长篇"
+      ],
+      "watchFor": [
+        "多线并进，人名与旧案较多",
+        "爱丁堡的城市与阶层写得很实"
+      ],
+      "warning": "警察程序派犯罪长篇，含自杀、虐童案庭审与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：兰金著，新星出版社 2012，ISBN 978-7-5133-0563-1，丛编「午夜文库·大师系列·伊恩·兰金作品系列」，492 页；`510` 并列题名 `Dead souls`；主题词「侦探小说 英国 现代 ; 长篇小说 英国 现代」，中图法 `I561.45`。**系列与主角**：`series`「雷布思探长系列」、`detective`「约翰·雷布思」**沿用库内既有《黑与蓝》的写法**，以免同一系列被拆成两个名字。**梗概**由整理者据当当检索页出版方短简介（ISBN 9787513305631 命中）重写：只写同时压到主角身上的几件事，不含凶手身份与结局。**年份字段**：`firstPublished` 记原作年 1999（*Dead Souls*），`editionYear` 记所引中译本 2012。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-003",
+    "title": "这一夜，谁能安睡",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyuki Miyabe",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "",
+    "detective": "雅男、岛崎",
+    "country": "日本",
+    "tags": [
+      "gain",
+      "identity",
+      "concealment",
+      "youth",
+      "curiosity"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一位素不相识的人把五亿元遗赠给初中生雅男一家。巨款登门之后，媒体、邻居与陌生人接连而来，少年开始追查遗赠者与母亲的关系。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢少年视角与家庭题材的读者",
+        "偏爱社会派笔法的读者"
+      ],
+      "watchFor": [
+        "以少年视角展开，调查线较慢热",
+        "重点在家庭关系而非诡计"
+      ],
+      "warning": "社会派青春推理长篇，含遗产纠纷、家庭矛盾与跟踪骚扰描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：宫部美雪著、刘姿君译，四川文艺出版社 2019，ISBN 978-7-5411-5442-3，208 页，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`；台版为独步文化 2006（ISBN 978-986-6954-37-5，丛编「宫部美幸作品集 06」）。**诚实标注**：**馆藏未著录原作名**，故 `originalTitle` 与 `firstPublished` 均留空，不冒填。**主角**：`detective` 据本册出版方简介里出现的人名（少年**雅男**与**岛崎**）记入，属「据本册提要」，不是整理者推断。**梗概**由整理者据当当检索页出版方短简介（商品 12404239061）重写，只留遗赠与调查的起点，不写身世结论。**年份字段**：`editionYear` 记所引中译本 2019。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-004",
+    "title": "隐闭之踪",
+    "originalTitle": "",
+    "author": "西村京太郎 等",
+    "authors": [
+      "西村京太郎",
+      "夏树静子",
+      "阿部牧郎"
+    ],
+    "authorEn": "Kyotaro Nishimura; et al.",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "",
+    "detective": "无固定侦探（三位作者的短篇合集）",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "train",
+      "concealment"
+    ],
+    "school": [],
+    "safeSummary": "西村京太郎、夏树静子、阿部牧郎三位作家的推理短篇合集：同名篇写十津川警长在蜜月航班上卷入一桩新婚夫妇失踪案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想一次读到三位日本推理作家的读者",
+        "喜欢旅情推理的读者"
+      ],
+      "watchFor": [
+        "三位作者各一篇，风格与主角不统一",
+        "同名篇属十津川系列，其余两篇独立"
+      ],
+      "warning": "推理短篇合集（三篇），含失踪案与跨国阴谋背景的描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：西村京太郎著、徐明中译，文汇出版社 2014，ISBN 978-7-5496-1298-7，230 页，丛编「日本推理名家名作选萃」，主题词「推理小说 小说集 日本 现代」，中图法 `I313.45`。**体例（关键）**：馆藏 `330` 提要原文写明「本书精选了**三位日本推理小说大家**的名作，包括西村京太郎的《隐闭之踪》、夏树静子的《一言之祸》和阿部牧郎的《初夏，穿貂皮服的女人》」——故按合集体例登记：`author` 记「西村京太郎 等」、`authors` 列馆藏点名的三位，`detective` 记「无固定侦探（三位作者的短篇合集）」。**不冒填**：`originalTitle` 与 `firstPublished` 留空（合集各篇原作名与年份馆藏未著录）。**梗概**由整理者据馆藏提要（三篇作者与篇名）与当当检索页出版方短简介（商品 12401055340，写同名篇的蜜月航班失踪案）重写；**不把同名篇的情节说成整本书的情节**。**年份字段**：`editionYear` 记所引中译本 2014。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-005",
+    "title": "侦畸者",
+    "originalTitle": "",
+    "author": "叶遁",
+    "authorEn": "Ye Dun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "editionYear": "",
+    "series": "",
+    "detective": "宋河、秦烁、范小梵",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "江城接连发生手法畸形的凶案。刑警宋河与自称摇滚歌手的秦烁、实习女警范小梵组成小组，逐一查办这些难以归类的案件。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢刑警群像与心理分析的读者",
+        "偏爱案件单元推进的长篇"
+      ],
+      "watchFor": [
+        "以心理分析破案，物证比重较小",
+        "三人组之间的互动占不少篇幅"
+      ],
+      "warning": "犯罪悬疑长篇，含连环凶案与畸形犯罪的心理描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶遁著，海南出版社 2018，ISBN 978-7-5443-8231-1，278 页，**学科主题词「侦探小说 中国 当代」**，中图法 `I247.59`。**梗概**由整理者据当当检索页出版方短简介（商品 11958435232）重写：只交代连环锤杀案与三人组的成立，不写凶手是谁、也不写案件如何破解。**作者写法**：库内已有同作者《北平双探》（历史推理），本条沿用「叶遁」，`authorEn` 记拼音 `Ye Dun`（库内该条原先空缺，一并按其他中国作者的写法补上）。**年份字段**：中文原创，`firstPublished` 记所引版本的出版年 2018，按库内中文原创条目的惯例不再重复填 `editionYear`。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-006",
+    "title": "辽东轶闻手记",
+    "originalTitle": "",
+    "author": "叶遁",
+    "alternateTitles": [
+      "辽东轶闻手记：纸人割头颅",
+      "纸人割头颅"
+    ],
+    "authorEn": "Ye Dun",
+    "genre": "历史推理",
+    "firstPublished": "2013",
+    "editionYear": "",
+    "series": "",
+    "detective": "杜少谦",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "adventure",
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "民国年间，五个人从辑安前往安东，途中怪事不断；抵达后其中一位在旅馆里被割去头颅。杜少谦受托追查，线索牵向甲午旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢民国背景与旧案翻查的读者",
+        "偏爱怪谈氛围但要求有解谜的读者"
+      ],
+      "watchFor": [
+        "怪谈氛围浓，谜底落在历史旧事上",
+        "线索杂，人物较多"
+      ],
+      "warning": "民国背景推理长篇，含割头凶案、特务与怪谈式场面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：叶遁著，北方文艺出版社 2013，ISBN 978-7-5317-3122-1，257 页，**学科主题词「长篇小说 推理小说 中国 当代」**，中图法 `I247.56`；`517` 相关题名附注著录副题「**纸人割头颅**」——正题名按 CNMARC `200$a` 记「辽东轶闻手记」，副题进 `alternateTitles`，便于用副题也能搜到。**梗概**由整理者据当当检索页出版方短简介（当当题名作「辽东轶闻手记：纸人割头颅」，商品 12338919366）重写：只写出发、遇怪事与抵达后的凶案，谜底（甲午旧事与特务去向）**一律不写**。**年份字段**：中文原创，`firstPublished` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-007",
+    "title": "夏天，19岁的肖像",
+    "originalTitle": "夏、19歳の肖像",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "日本",
+    "tags": [
+      "first-person",
+      "curiosity",
+      "concealment",
+      "youth"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "一个因事故住院的青年用望远镜看着窗外那户人家。某个深夜，他似乎看见那家的女孩杀了自己的父亲。出院后，他开始跟着她。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想看岛田庄司非御手洗作品的读者",
+        "喜欢少年视角与悬疑氛围的读者"
+      ],
+      "watchFor": [
+        "不是本格解谜结构，重心在少年心事与观察",
+        "主角的判断未必可靠"
+      ],
+      "warning": "青春悬疑长篇，含疑似凶案、跟踪与情感描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：岛田庄司著、佟凡译，青岛出版社 2024，ISBN 978-7-5736-2341-6，192 页，丛编「青鲤文库」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`；原作名 `夏、19歳の肖像`。**诚实标注**：`firstPublished` 留空——馆藏与当当均未著录原作年，整理者不凭印象冒填。**梗概**由整理者据**馆藏 `330` 提要**（住院青年用望远镜观察、深夜似见女孩杀害父亲、出院后跟踪她）重写，只取谜面。**年份字段**：`editionYear` 记所引中译本 2024。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-008",
+    "title": "霓山",
+    "originalTitle": "",
+    "author": "赖继",
+    "authorEn": "Lai Ji",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2026",
+    "editionYear": "",
+    "series": "赖博士罪案系列",
+    "detective": "潘骁、季昌祺",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "identity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "刑警潘骁与犯罪画像师季昌祺联手侦办江城接连发生的离奇案件，靠心理画像锁定嫌疑人、在审讯中攻心，也一步步翻出自己的身世旧账。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪心理画像与审讯戏的读者",
+        "偏爱本土刑警长篇的读者"
+      ],
+      "watchFor": [
+        "以心理画像与审讯推进，物证线较薄",
+        "主角身世线贯穿全书"
+      ],
+      "warning": "犯罪悬疑长篇，含虐杀、抢枪等凶案与审讯描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：赖继著，四川文艺出版社 2026，ISBN 978-7-5411-7480-3，348 页，**丛编项为「赖博士罪案系列作品」**，学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」，中图法 `I247.56`。**系列与主角**：`series` 照录馆藏丛编「赖博士罪案系列」，`detective` 据本册提要写明的主角（刑警**潘骁**、犯罪画像师**季昌祺**）记入。**梗概**由整理者据馆藏 `330` 提要重写，只留人物与案件类型，**不写任何一案的结论**。**年份字段**：中文原创，`firstPublished` 记 2026；当当商品页（30015039）被 WAF 拦下，故本条的出版信息全部以上图著录为准。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-009",
+    "title": "意外的罪证",
+    "originalTitle": "",
+    "author": "冯世荣",
+    "authorEn": "Feng Shirong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2005",
+    "editionYear": "",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "「东方剑书系」侦探小说集，收入《密林追踪》《渡口伏击》《插翅难逃》《意外的罪证》等八篇，写办案人员追查罪证的过程。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇刑警故事的读者",
+        "想读本土老派侦探小说的读者"
+      ],
+      "watchFor": [
+        "八篇各自独立，主角不固定",
+        "写实笔法，重办案流程"
+      ],
+      "warning": "侦探小说短篇集，含追捕、伏击与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：冯世荣著，上海文艺出版社 2005，ISBN 7-5321-2822-9，208 页，丛编「东方剑书系」，**学科主题词「侦探小说 中国 现代」**，中图法 `I247.76`。**体例**：馆藏 `330` 提要列出篇目（《密林追踪》《渡口伏击》《插翅难逃》《沉重的追逐》《失重的荣誉》《陷阱斗智》《街头斗象》《意外的罪证》等），是**单一作者的短篇集**，故 `detective` 记「无固定侦探（短篇集，各篇独立）」。**梗概**由整理者据馆藏提要的篇目与题材重写，不编情节。**年份字段**：中文原创，`firstPublished` 记 2005。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib196-010",
+    "title": "智慧的较量",
+    "originalTitle": "",
+    "author": "冯世荣",
+    "authorEn": "Feng Shirong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2002",
+    "editionYear": "",
+    "series": "",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "city"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "「刑警的职责」侦探小说卷：以刑警办案为主线的短篇作品集，写现场取证与审讯中的较量。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢短篇刑警故事的读者"
+      ],
+      "watchFor": [
+        "短篇集，各篇独立",
+        "成书较早，笔法老派"
+      ],
+      "warning": "侦探小说短篇集，含办案与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：冯世荣著，珠海出版社 2002，ISBN 7-80607-927-0，246 页，丛编「**刑警的职责**侦探小说卷」，**学科主题词「侦探小说 作品集 中国 当代」**，中图法 `I247.7`。**诚实标注**：馆藏 `330` **无提要**，当当亦检索不到该书，因此**梗概只写到「体例与题材」这一层**（丛编名＋「作品集」主题词），不臆造任何情节。**年份字段**：中文原创，`firstPublished` 记 2002。"
+    },
+    "provenance": {
+      "source": "batch-196-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
