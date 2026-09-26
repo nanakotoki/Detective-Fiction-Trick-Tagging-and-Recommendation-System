@@ -59,7 +59,24 @@ const out = spec.books.map((b, n) => {
     school: b.school || [],
     safeSummary: b.safeSummary,
     ratings: {
-      douban: NO_DATA('豆瓣读书'),
+      /**
+       * 豆瓣评分：**只有 spec 显式给出、且带条目地址时才写**（2026-09 起走 `m.douban.com`
+       * 这条移动版渠道抓，见 `scripts/md-douban.mjs`）。没给就仍是「暂无数据」——
+       * 本脚本**不猜、不换算、不拿先验知识填**。
+       */
+      douban: b.douban?.score != null
+        ? {
+            summary: `豆瓣移动版条目页评分 ${b.douban.score}。`,
+            score: Number(b.douban.score),
+            count: b.douban.count != null && b.douban.count !== '' ? Number(String(b.douban.count).replace(/,/g, '')) : null,
+            scale: '10 分制',
+            source: '豆瓣读书（移动版条目页实时抓取）',
+            sourceUrl: b.douban.url || '',
+            subjectId: String(b.douban.url || '').match(/subject\/(\d+)/)?.[1] || '',
+            edition: `${b.title}${b.editionYear ? ` ${b.editionYear}` : ''}`,
+            fetchedAt: b.douban.fetchedAt || new Date().toISOString().slice(0, 10),
+          }
+        : NO_DATA('豆瓣读书'),
       hupu: NO_DATA('虎扑'),
       goodreads: NO_DATA('Goodreads'),
     },

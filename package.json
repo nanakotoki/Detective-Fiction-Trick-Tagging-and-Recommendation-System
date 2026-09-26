@@ -41,6 +41,7 @@
     "ratings:verify": "node scripts/verify-ratings.mjs",
     "ratings:apply": "node scripts/apply-ratings.mjs --apply",
     "ratings:recheck": "node scripts/recheck-missing.mjs",
+    "md:douban": "node scripts/md-douban.mjs",
     "audit:titles": "node scripts/audit-titles.mjs",
     "audit:duplicates": "node scripts/find-duplicates.mjs --strict",
     "audit:origtitle": "node scripts/origtitle-scan.mjs",

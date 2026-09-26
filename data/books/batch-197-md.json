@@ -1,0 +1,465 @@
+[
+  {
+    "id": "md197-001",
+    "title": "秘密背后",
+    "originalTitle": "",
+    "author": "贯越",
+    "authorEn": "Guan Yue",
+    "genre": "本格推理",
+    "firstPublished": "2011",
+    "editionYear": "",
+    "series": "",
+    "detective": "无固定侦探（第一人称）",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个年轻职员毫无征兆地死在完全封闭的房间内。此后宿舍楼里怪事接连不断，主人公顺着线索查下去，真相却越来越不像他以为的那样。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.1。",
+        "score": 7.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/5446514/",
+        "subjectId": "5446514",
+        "edition": "秘密背后",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢国产密室推理的读者",
+        "偏爱封闭空间与心理压迫感的读者"
+      ],
+      "watchFor": [
+        "以封闭空间与气氛推进",
+        "主人公的处境会越来越被动"
+      ],
+      "warning": "国产本格推理长篇，含密室命案与心理压迫描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：贯越著，珠海出版社 2011，ISBN 978-7-5453-0518-0，444 页，**学科主题词「推理小说 中国 现代 ; 长篇小说 中国 现代」**，中图法 `I247.56`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/5446514/`（桌面站自 2026-09 起 403，移动版可达），2026-09 抓取，评分 7.1；梗概据该页出版方简介重写，只留「封闭房间内的死亡＋此后的怪事」，**不写真相**。**同作者**：库内已有《密室之无可逃脱》，与本册同属国产密室系列，但为不同作品（题名、ISBN 均不同）。**年份字段**：中文原创，`firstPublished` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md197-002",
+    "title": "密室之别墅疑案",
+    "originalTitle": "",
+    "author": "贯越",
+    "authorEn": "Guan Yue",
+    "genre": "本格推理",
+    "firstPublished": "2008",
+    "editionYear": "",
+    "series": "",
+    "detective": "无固定侦探（警察介入侦查）",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "mansion",
+      "closed-circle",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "与外界隔绝的山顶别墅里，房门紧锁的房间中有人接连消失。留下的每个人似乎都藏着另一副面孔，警方介入后线索几度中断。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7。",
+        "score": 7,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3085924/",
+        "subjectId": "3085924",
+        "edition": "密室之别墅疑案",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「山庄＋密室」古典格局的读者",
+        "偏爱嫌疑人全都有嫌疑的读者"
+      ],
+      "watchFor": [
+        "嫌疑人多，人物关系要跟紧",
+        "诡计服务于封闭空间"
+      ],
+      "warning": "国产本格推理长篇，含失踪与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：贯越著，广西人民出版社 2008，ISBN 978-7-219-06122-0，252 页，**学科主题词「推理小说 长篇小说 中国 当代」**，中图法 `I247.56`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/3085924/`，2026-09 抓取，评分 7.0；该页出版方简介自称「国内第一部原创密室推理小说」，梗概只取「山顶别墅／密室／人相继消失／警方介入」这一层，**结局与手法不写**。**年份字段**：中文原创，`firstPublished` 记 2008。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md197-003",
+    "title": "墨吏",
+    "originalTitle": "",
+    "author": "胡玥",
+    "authorEn": "Hu Yue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2007",
+    "editionYear": "",
+    "series": "",
+    "detective": "无固定侦探（专案组）",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一起命案把专案组逼到尴尬的位置：作案的可能是自己人。查案的人一边与昔日的同学、战友共事，一边要在案卷与情面之间找出真凶。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.5。",
+        "score": 7.5,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2111489/",
+        "subjectId": "2111489",
+        "edition": "墨吏",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢公安题材与队伍内部视角的读者",
+        "偏爱社会派笔法的读者"
+      ],
+      "watchFor": [
+        "重心在人性与体制压力，不在诡计",
+        "笔调沉，含暴力描写"
+      ],
+      "warning": "公安题材犯罪长篇，含警察作案、暴力与人性阴暗面描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：胡玥著，长征出版社 2007，ISBN 978-7-80204-261-2，302 页，**学科主题词「侦探小说 中国 现代 ; 长篇小说 中国 现代」**，中图法 `I247.56`。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/2111489/`，2026-09 抓取，评分 7.5；梗概据该页出版方简介重写，只写「作案者可能是自己人」这一层困境。**同作者**：库内已有《大吃一惊》（胡玥），本册为另一部。**作者身份**：胡玥为检察系统出身的纪实／法制文学作者，馆藏主题词直标「侦探小说」。**年份字段**：中文原创，`firstPublished` 记 2007。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md197-004",
+    "title": "吸血鬼烹饪班",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "妙龄吸血鬼系列",
+    "detective": "神代艾丽佳、冯·库勒勒克",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "圣诞节前，少女在归家途中遇害，凶手被称作「圣诞老人」；滑雪场上有人被离奇冻死，雪地上留着传说中雪怪的脚印。半吸血鬼少女与她的吸血鬼父亲再度出面查案。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.1。",
+        "score": 7.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4189462/",
+        "subjectId": "4189462",
+        "edition": "吸血鬼烹饪班 2010",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢轻快基调＋系列侦探的读者",
+        "赤川次郎的老读者"
+      ],
+      "watchFor": [
+        "短篇连作，案件各自独立",
+        "基调轻松幽默，与沉重题材不同"
+      ],
+      "warning": "轻推理短篇连作，含命案与怪谈式传闻描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：赤川次郎著，南海出版公司 2010，ISBN 978-7-5442-4458-9，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`，丛编「新经典文库」。**评分与梗概来源**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/4189462/`，2026-09 抓取，评分 7.1；该页出版方简介点名主角「**半吸血鬼美少女神代艾丽佳**」与其父「**冯·库勒勒克**」，故 `detective` 据本册简介记入。**系列名依据**：馆藏丛编只作发行丛书「新经典文库」，**虚构系列名取自本系列的题名本身**（同系列另有《妙龄吸血鬼 3 死亡天使》等，馆藏逐卷著录），故 `series` 记「妙龄吸血鬼系列」并在此说明来源。**年份字段**：`firstPublished` 留空（馆藏与豆瓣移动版均未给出原作年），`editionYear` 记所引中译本 2010。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md197-005",
+    "title": "妙龄吸血鬼 3 死亡天使",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "妙龄吸血鬼系列",
+    "detective": "神代艾丽佳、冯·库勒勒克",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "curiosity",
+      "legend-folklore",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "小镇上要建一座化工厂，众人拼命护住的那个神秘盒子里到底装着什么；密林小屋又流传着「雷鸣之夜死人复活」的说法。半吸血鬼少女艾丽佳与父亲继续出面查案。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.8。",
+        "score": 6.8,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4226534/",
+        "subjectId": "4226534",
+        "edition": "妙龄吸血鬼 3 死亡天使 2010",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "跟着系列一路读下来的读者",
+        "喜欢怪谈＋轻推理的读者"
+      ],
+      "watchFor": [
+        "系列第三册，人物关系承接前作",
+        "短篇连作，基调轻快"
+      ],
+      "warning": "轻推理短篇连作，含命案与怪谈传说描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：赤川次郎著，南海出版公司 2010，ISBN 978-7-5442-4595-1，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`，丛编「新经典文库」。**评分与梗概来源**：**豆瓣移动版**条目页（题名作《妙龄吸血鬼3·死亡天使》）2026-09 抓取，评分 6.8；**该页未出现作者名**，属「题名完全吻合、作者未核」一档，**已按本书单册著录（上图有同题同社同年同 ISBN 的著录）双向核对**后才落库，此处如实记录这个过程。**卷次与同系列**：题名自带卷次「3」与卷名「死亡天使」，按 §82.1「带卷次号与卷名 → 逐卷收」处理；与同批《吸血鬼烹饪班》同属「妙龄吸血鬼系列」。**年份字段**：`firstPublished` 留空，`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md197-006",
+    "title": "幽闭之窗",
+    "originalTitle": "",
+    "author": "赤川次郎 等",
+    "authors": [
+      "西村京太郎",
+      "赤川次郎",
+      "高桥克彦"
+    ],
+    "authorEn": "Akagawa Jiro; et al.",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "",
+    "detective": "无固定侦探（三位作者的短篇合集）",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "mansion",
+      "concealment",
+      "revenge"
+    ],
+    "school": [],
+    "safeSummary": "西村京太郎、赤川次郎、高桥克彦三位作家的推理中篇合集。同名篇写一栋无人豪宅顶层的阁楼：那扇窗从里看不见人影，从外面也根本看不到它。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 5.6。",
+        "score": 5.6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/7055341/",
+        "subjectId": "7055341",
+        "edition": "幽闭之窗 2012",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想一次读到三位日本推理作家的读者"
+      ],
+      "watchFor": [
+        "三位作者各一篇，主角与风格不统一",
+        "同名篇的场景设定是最大看点"
+      ],
+      "warning": "推理中篇合集（三篇），含复仇、畸情与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：赤川次郎著，文汇出版社 2012，ISBN 978-7-5496-0391-6，**学科主题词「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**，中图法 `I313.45`。**体例（关键）**：**豆瓣移动版**条目页 `https://m.douban.com/book/subject/7055341/` 的简介原文写明「**《幽闭之窗》收录了日本著名的推理小说家西村京太郎、赤川次郎和高桥克彦三人的作品**」——故按合集体例登记：`author` 记「赤川次郎 等」，`authors` 列这三位，`detective` 记「无固定侦探」。⚠️ 该页标题与本书单册的题名相同，**上一批《妙龄吸血鬼 3》曾误引过这个地址**，此条已按题名＋出版社重新核对：本书（文汇 2012，推理中篇合集）与该页简介一致。**评分**：豆瓣移动版 5.6（同一条目页）。**梗概**只写「阁楼那扇窗看不见人」这一设定，不写各篇情节。**年份字段**：合集各篇原作名与年份馆藏未著录，`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-197-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
