@@ -1,4 +1,4 @@
-﻿/**
+/**
  * 近似重复检测（`find-near-dups`）
  * =================================
  * **为什么还需要它**：`find-duplicates.mjs` 靠**书名与原题名**精确比对，
@@ -94,10 +94,42 @@ for (const [, idxs] of byAuthor) {
 
       const reasons = [];
       if (bothNoOriginal && tSim >= 0.72) reasons.push(`书名相似 ${(tSim * 100).toFixed(0)}%`);
-      if (substantive && sSim >= 0.85) reasons.push(`实质简介相似 ${(sSim * 100).toFixed(0)}%`);
+      /**
+       * **「实质简介相似」要排除「同系列同年的分册」**（第 86 轮修）。
+       *
+       * 起因：batch-182 收了新世界出版社「希区柯克悬念故事集」8 册，
+       * 我给它们写的是**体例化的同一句梗概**（「……的一册：一辑悬念短篇」），
+       * 于是这 8 册两两之间都报「实质简介相似 100%」，一口气产生 28 对噪音，
+       * 把真正要看的候选淹了。
+       *
+       * 判据：两条**同作者 + 同系列（非空）+ 同年**，且**书名相似度很低**（<0.5），
+       * 那多半是一套书的不同卷次——**梗概雷同是我自己写作体例造成的**，不是重复条目的信号。
+       * 真正同书异名的两条，书名相似度通常不会这么低（或会命中下面那条「同系列同年」）。
+       */
+      const looksLikeSeriesVolumes = sameSeries && sameYear && tSim < 0.5;
+      if (substantive && sSim >= 0.85 && !looksLikeSeriesVolumes) {
+        reasons.push(`实质简介相似 ${(sSim * 100).toFixed(0)}%`);
+      }
       // 「同系列同年」单独出现时太吵（同一套书的不同卷次天然满足），
       // 只有与书名相似并用才作数
-      if (bothNoOriginal && sameSeries && sameYear && tSim >= 0.5) reasons.push(`同系列同年 ${yA}`);
+      if (bothNoOriginal && sameSeries && sameYear && tSim >= 0.5) {
+        /**
+         * **但「书名相似」要先去掉两条的公共前缀**（第 86 轮修）。
+         *
+         * 起因：「三色猫福尔摩斯」系列 6 册同年出版，题名都是
+         * 「三色猫福尔摩斯**××**谜案」——整串比出来的相似度轻松超过 0.5，
+         * 于是同一套书的不同卷次又被两两报成候选（这次刷掉了 42 对里的绝大部分）。
+         * 去掉公共前缀后只剩「密室谜案／校园谜案」，相似度落到 0.33，
+         * 这类噪音即消失；而真正同书异名（题名差异在**实词**上）仍会被「书名相似」那条规则抓住。
+         */
+        const stripCommonPrefix = (x, y) => {
+          let i = 0;
+          while (i < x.length && i < y.length && x[i] === y[i]) i += 1;
+          return i >= 3 ? [x.slice(i), y.slice(i)] : [x, y];
+        };
+        const [ra, rb] = stripCommonPrefix(norm(A.b.title), norm(B.b.title));
+        if (ra && rb && dice(bigrams(ra), bigrams(rb)) >= 0.5) reasons.push(`同系列同年 ${yA}`);
+      }
       if (!reasons.length) continue;
       flags.push({ A: A.b, B: B.b, tSim, sSim, reasons, bothNoOriginal, sameYear, sameSeries });
     }

@@ -51,6 +51,14 @@ const RENAME_AUTHOR = [
   // 多萝西·塞耶斯在库内也是两种写法：多数作「多萝西·L·塞耶斯」（10 条），少数作「多萝西·塞耶斯」（2 条）
   { title: '贝罗那俱乐部的不快事件', from: '多萝西·塞耶斯', to: '多萝西·L·塞耶斯' },
   { title: '杀人广告', from: '多萝西·塞耶斯', to: '多萝西·L·塞耶斯' },
+  /**
+   * 第 86 轮：`audit-author-names.mjs` 扫出的四组真异写（另有三组是「詹姆斯」这类共同片段造成的假阳性）。
+   * **归一后必须紧接着跑 `find-duplicates.mjs --strict`**——米尔恩那一组当场钓出了重复条目（见 §86.2）。
+   */
+  { title: '班森谋杀案', from: '范达因', to: 'S·S·范·达因' },
+  { title: '红屋之谜', from: 'A·A·米尔恩', to: 'A. A. 米尔恩' },
+  { title: '爱伦·坡短篇小说集', from: '爱伦·坡', to: '埃德加·爱伦·坡' },
+  { title: '31号纽因客栈迷案', from: '理查德·奥斯汀·弗里曼', to: 'R·奥斯汀·弗里曼' },
 ];
 
 const APPLY = process.argv.includes('--apply');

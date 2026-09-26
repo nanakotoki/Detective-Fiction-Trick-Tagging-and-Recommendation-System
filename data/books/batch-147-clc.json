@@ -449,7 +449,7 @@
   },
   {
     "id": "ns147-007",
-    "title": "狐狸不详",
+    "title": "狐狸不祥",
     "originalTitle": "",
     "author": "米涅·渥特丝",
     "authorEn": "Minette Walters",
@@ -514,12 +514,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：米涅·渥特丝著，上海人民出版社 2006，丛编项「**渥特丝罪案小说系列**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「本书是一部英国现代罪案小说」**；③丛编项为作者的罪案小说专门书系。**年份字段说明**：`editionYear` 记 2006；`firstPublished` **留空**。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：米涅·渥特丝著，上海人民出版社 2006，丛编项「**渥特丝罪案小说系列**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「本书是一部英国现代罪案小说」**；③丛编项为作者的罪案小说专门书系。**年份字段说明**：`editionYear` 记 2006；`firstPublished` **留空**。 **题名更正（第 86 轮）**：本条原题名作「狐狸不详」，与馆藏著录（上海人民出版社 2006 年，《狐狸不祥》，原作 *Fox Evil*）不符——「祥」误作「详」，属**同音错字**。已更正题名，旧写作登记进 `alternateTitles`。"
     },
     "provenance": {
       "source": "batch-147-clc.json",
       "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "狐狸不详"
+    ]
   },
   {
     "id": "ns147-008",
@@ -599,7 +602,7 @@
     "id": "ns147-010",
     "title": "31号纽因客栈迷案",
     "originalTitle": "",
-    "author": "理查德·奥斯汀·弗里曼",
+    "author": "R·奥斯汀·弗里曼",
     "authorEn": "R. Austin Freeman",
     "genre": "本格推理",
     "firstPublished": "",
@@ -663,7 +666,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：理查德·奥斯汀·弗里曼著，人民文学出版社 2018，丛编项「**世界经典推理文库**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「本书是一本长篇推理小说」**；③丛编项为**推理专门书系**。**年份字段说明**：`editionYear` 记 2018；`firstPublished` **留空**（原题名与首版年未核实）。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：理查德·奥斯汀·弗里曼著，人民文学出版社 2018，丛编项「**世界经典推理文库**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「本书是一本长篇推理小说」**；③丛编项为**推理专门书系**。**年份字段说明**：`editionYear` 记 2018；`firstPublished` **留空**（原题名与首版年未核实）。 **作者名归一（第 80 轮）**：本条原记作者为「理查德·奥斯汀·弗里曼」，与库内其余条目写法（「R·奥斯汀·弗里曼」）不一致，已统一；否则同一位作者会在作者页上被拆成两个人。"
     },
     "provenance": {
       "source": "batch-147-clc.json",
@@ -836,20 +839,25 @@
     "tags": [
       "mansion",
       "locked-space",
-      "red-herring"
+      "red-herring",
+      "multiple-solutions",
+      "alibi",
+      "curiosity"
     ],
     "school": [
       "orthodox-school",
-      "logic-school"
+      "logic-school",
+      "trick-school"
     ],
     "safeSummary": "本书讲述的推理故事深具福尔摩斯的色彩：精雕细琢的故事情节、环环相扣的推理过程，机智的对话中不时加入滑稽的元素。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
+        "score": 6.7,
+        "count": 463,
         "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "asOf": "2026-09",
+        "summary": "豆瓣评分 6.7（463 人评价，本库所引版本：《红屋之谜》2010）",
+        "sourceUrl": "https://book.douban.com/subject/4309423/"
       },
       "hupu": {
         "score": null,
@@ -887,12 +895,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：A. A. 米尔恩著，人民文学出版社 2017，丛编项「**世界经典推理文库**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「讲述的推理故事」「环环相扣的推理过程」「这部侦探小说精彩绝伦」**；③丛编项为推理专门书系。**年份字段说明**：`firstPublished` 记原作年 1922（*The Red House Mystery*），`editionYear` 记 2017。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I561.456*` 发现）：A. A. 米尔恩著，人民文学出版社 2017，丛编项「**世界经典推理文库**」。**判据**：①索书号／中图分类 `I561.456`；②**馆藏提要写明「讲述的推理故事」「环环相扣的推理过程」「这部侦探小说精彩绝伦」**；③丛编项为推理专门书系。**年份字段说明**：`firstPublished` 记原作年 1922（*The Red House Mystery*），`editionYear` 记 2017。 **合并记录（第 86 轮）**：本条目与 `batch-98-midnight-classic.json#midcls98-007`《红屋之谜》为**同一部作品**（*The Red House Mystery*，A. A. 米尔恩）。该译名已登记进 `alternateTitles`，原条目已删除（见 `data/books/_merged/` 台账）。**发现途径**：作者名异写扫描（「A·A·米尔恩」/「A. A. 米尔恩」）——题名不同、一侧原题为空、二元组相似度为 0，查重与近似查重两条闸门都看不见。 **评分补回（第 86 轮）**：本条与《红屋之谜》（原 midcls98-007）合并时，手写合并脚本**漏并了 `ratings`**，导致该书的豆瓣评分一度丢失；现从 `data/ratings-atlas.json`（独立于知识库的评分图谱）按原条目 id 取回并写回本条。"
     },
     "provenance": {
       "source": "batch-147-clc.json",
       "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "红屋之谜"
+    ]
   },
   {
     "id": "ns147-014",

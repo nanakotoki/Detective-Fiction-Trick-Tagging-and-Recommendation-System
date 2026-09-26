@@ -77,6 +77,7 @@
     "audit:tags": "node scripts/audit-tags.mjs",
     "audit:isbn": "node scripts/audit-isbn.mjs",
     "audit:isbn:strict": "node scripts/audit-isbn.mjs --strict",
+    "audit:author-names": "node scripts/audit-author-names.mjs",
     "audit:checklist": "node scripts/gen-tag-checklist.mjs",
     "ratings:update": "node scripts/refresh-ratings.mjs --merge && node scripts/verify-ratings.mjs && node scripts/apply-ratings.mjs --apply",
     "author:gaps": "node scripts/author-gaps.mjs",
