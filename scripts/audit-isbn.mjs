@@ -16,7 +16,7 @@
  *   node scripts/audit-isbn.mjs            # 报告，不修改任何数据
  *   node scripts/audit-isbn.mjs --strict   # 有校验失败时以非零码退出（可挂进 CI）
  */
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 
 const STRICT = process.argv.includes('--strict');
 
@@ -42,6 +42,8 @@ const FILES = readdirSync('data/books').filter((x) => x.endsWith('.json') && !x.
 const bad = [];
 const perBook = [];
 const byIsbn = new Map();
+/** 已标注为错误的号（上下文里有「更正／误植／不成立／已删除」）——交叉核对应把它们排除，否则会一直挂在那里 */
+const documentedIsbns = new Set();
 
 for (const f of FILES) {
   for (const b of JSON.parse(readFileSync(`data/books/${f}`, 'utf8'))) {
@@ -87,6 +89,7 @@ for (const f of FILES) {
       else found.push(d);
     }
     for (const d of documented) {
+      documentedIsbns.add(d);
       if (!byIsbn.has(d)) byIsbn.set(d, []);
       byIsbn.get(d).push(`${f}#${b.id}`);
     }
@@ -126,6 +129,40 @@ const shared = [...byIsbn.entries()].filter(([, v]) => v.length > 1);
 if (shared.length) {
   console.log(`\n  ! 同一个 ISBN 出现在多个条目上：${shared.length} 个（★ 优先看这些——可能是同书异名或套装共用号）`);
   for (const [d, v] of shared) console.log(`      ${d} → ${v.join(' ／ ')}`);
+}
+
+/**
+ * **交叉核对：证据串里的 ISBN 是否真的出现在馆藏扫描结果里**（第 90 轮加）。
+ *
+ * **为什么还要这一道**：`--strict` 只能查「校验位算不算得过」，而**编造的号有约 1/10 的概率
+ * 恰好算得过**；更要紧的是，我自己**四轮里第四次**凭号段「推」ISBN（凑佳苗《反转》、安德鲁斯三条、
+ * 加德纳四条……），每次都是事后才发现。校验位挡不住全部，所以再加一道**不依赖我记忆**的检查：
+ *
+ * 把每个 ISBN 拿去 `_dd/shlib-new.tsv` 与 `_dd/shlib-author*.tsv`（上海图书馆扫描结果，
+ * 列 9 = ISBN／列 13 = 提要）里找。**找不到的不一定是错的**（本库的 ISBN 也可能来自其他馆、
+ * 豆瓣或出版信息），故只作**提示**，不作失败。
+ */
+const scanIsbns = new Set();
+for (const p of ['_dd/shlib-new.tsv', '_dd/shlib-author.tsv', '_dd/shlib-author2.tsv']) {
+  if (!existsSync(p)) continue;
+  for (const line of readFileSync(p, 'utf8').split(/\r?\n/)) {
+    if (!line.trim()) continue;
+    for (const cell of line.split('\t')) {
+      const d = digits(cell);
+      if (d.length === 13 || d.length === 10) scanIsbns.add(d);
+    }
+  }
+}
+if (scanIsbns.size) {
+  const notInScan = [...byIsbn.keys()].filter((d) => !scanIsbns.has(d) && !documentedIsbns.has(d));
+  console.log(`\n  交叉核对（对照 ${scanIsbns.size} 个馆藏扫描 ISBN）：`);
+  if (!notInScan.length) {
+    console.log('  ✓ 证据串里的每个 ISBN 都能在对馆藏扫描结果里找到');
+  } else {
+    console.log(`  ! ${notInScan.length} 个 ISBN **未出现在对上图的扫描结果里**（不一定错——也可能取自其他馆或出版信息，但值得逐个回看）：`);
+    for (const d of notInScan.slice(0, 20)) console.log(`      ${d} → ${byIsbn.get(d).join(' ／ ')}`);
+    if (notInScan.length > 20) console.log(`      ……另有 ${notInScan.length - 20} 个`);
+  }
 }
 
 console.log('');
