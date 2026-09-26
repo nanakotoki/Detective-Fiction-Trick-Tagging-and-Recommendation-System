@@ -10,21 +10,59 @@
     "series": "赫尔克里·波洛系列",
     "detective": "赫尔克里·波洛",
     "country": "英国",
-    "tags": ["locked-space", "city", "red-herring"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "locked-space",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "一间摆满各式钟表的房间里躺着一具无名男尸，附近还有一位失魂落魄的年轻女郎和一位双目失明的老妇。波洛受托查访这条呈弯月形的奇特街道。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["波洛系列的读者", "喜欢以现场陈设为谜面的读者"],
-      "watchFor": ["房间里那些钟各自指示的时间", "弯月形街道上各户的作息", "失明老妇与年轻女郎的关系"],
+      "suitableFor": [
+        "波洛系列的读者",
+        "喜欢以现场陈设为谜面的读者"
+      ],
+      "watchFor": [
+        "房间里那些钟各自指示的时间",
+        "弯月形街道上各户的作息",
+        "失明老妇与年轻女郎的关系"
+      ],
       "warning": "本格推理长篇，含命案与身份不明尸体描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -48,21 +86,59 @@
     "series": "赫尔克里·波洛系列",
     "detective": "赫尔克里·波洛",
     "country": "英国",
-    "tags": ["countryside", "mansion", "passion"],
-    "school": ["orthodox-school", "logic-school", "legal-thriller"],
+    "tags": [
+      "countryside",
+      "mansion",
+      "passion"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "legal-thriller"
+    ],
     "safeSummary": "H庄园女主人韦尔曼太太的侄女埃莉诺与表哥罗迪本是青梅竹马，一封关于门房女儿的匿名信打乱了他们的生活。不久庄园里出了人命，埃莉诺被控谋杀。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["波洛系列的读者", "喜欢庄园人际与庭审攻防的读者"],
-      "watchFor": ["那封匿名信的措辞", "午餐当天的取用与经手", "庄园里各人对遗产的期待"],
+      "suitableFor": [
+        "波洛系列的读者",
+        "喜欢庄园人际与庭审攻防的读者"
+      ],
+      "watchFor": [
+        "那封匿名信的措辞",
+        "午餐当天的取用与经手",
+        "庄园里各人对遗产的期待"
+      ],
       "warning": "本格推理长篇，含命案与庭审、死刑判决相关描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -86,21 +162,59 @@
     "series": "汤米与塔彭丝系列",
     "detective": "汤米、塔彭丝",
     "country": "英国",
-    "tags": ["adventure", "spy-espionage", "countryside"],
-    "school": ["adventure-school", "spy-school", "orthodox-school"],
+    "tags": [
+      "adventure",
+      "spy-espionage",
+      "countryside"
+    ],
+    "school": [
+      "adventure-school",
+      "spy-school",
+      "orthodox-school"
+    ],
     "safeSummary": "二战期间，乔装成普通市民的纳粹分子从内部威胁着英国。情报机关起用被闲置已久的汤米和塔彭丝夫妇，要他们从海滨旅馆桑苏西的住客中找出代号 N 与 M 的两个人。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["汤米与塔彭丝系列的读者", "喜欢战时背景与身份猜谜的读者"],
-      "watchFor": ["旅馆住客各自的来历", "住客之间的往来与试探", "情报机关给的有限线索"],
+      "suitableFor": [
+        "汤米与塔彭丝系列的读者",
+        "喜欢战时背景与身份猜谜的读者"
+      ],
+      "watchFor": [
+        "旅馆住客各自的来历",
+        "住客之间的往来与试探",
+        "情报机关给的有限线索"
+      ],
       "warning": "冒险悬疑长篇，二战背景，含间谍组织对抗与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -124,26 +238,63 @@
     "series": "马普尔小姐系列",
     "detective": "简·马普尔",
     "country": "英国",
-    "tags": ["countryside", "mansion", "passion"],
-    "school": ["orthodox-school", "logic-school"],
+    "tags": [
+      "countryside",
+      "mansion",
+      "passion"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "影视圈风光无限的女明星玛丽娜搬进了马普尔小姐所在的乡村小镇，并举办盛大派对宴请镇上居民。席间谈笑风生的女主人突然望着虚空中的一点，表情仿佛凝固了一般。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["马普尔小姐系列的读者", "喜欢小镇社交场暗流的读者"],
-      "watchFor": ["玛丽娜在派对上望见的东西", "到场宾客的座次与走动", "女明星过往的经历"],
+      "suitableFor": [
+        "马普尔小姐系列的读者",
+        "喜欢小镇社交场暗流的读者"
+      ],
+      "watchFor": [
+        "玛丽娜在派对上望见的东西",
+        "到场宾客的座次与走动",
+        "女明星过往的经历"
+      ],
       "warning": "本格推理长篇，乡村小镇舞台，含命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（人民文学出版社 2007，ISBN 978-7-02-006109-9 系列；新星出版社 2014.10／2022.09，中图分类 I561.45／I561.456），丛编项为「阿加莎·克里斯蒂侦探推理系列」等。**推理属性判据**：①三条著录的**题名主题（学科主题词）均为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②人民文学那条的提要文摘直接写「本书是一本英国现代的**侦探小说**」；③新星两条的提要把谜面写在派对现场。**原作年**：1962 年，取自克里斯蒂作品年表；`editionYear` 记 2014。**同书异译核查**：库内无重复条目。梗概由整理者据馆藏提要文摘自行重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**三条著录（人民文学出版社 2007，（原引 ISBN 已删除，见下） 系列；新星出版社 2014.10／2022.09，中图分类 I561.45／I561.456），丛编项为「阿加莎·克里斯蒂侦探推理系列」等。**推理属性判据**：①三条著录的**题名主题（学科主题词）均为「侦探小说 英国 现代」**，属判据层级第①类（最硬）；②人民文学那条的提要文摘直接写「本书是一本英国现代的**侦探小说**」；③新星两条的提要把谜面写在派对现场。**原作年**：1962 年，取自克里斯蒂作品年表；`editionYear` 记 2014。**同书异译核查**：库内无重复条目。梗概由整理者据馆藏提要文摘自行重写。 **ISBN 更正（第 84 轮）**：本条原引 ISBN `978-7-02-006109-9` 经上图 `type=ISN` 反查，属**《谋杀启事》（人民文学出版社 2007）**，与本册并非同一本书，系**误植**，已删除该号。本条的判据（对外经贸大学图书馆 OPAC 三条著录）不受影响。"
     },
     "provenance": {
       "source": "batch-110-series.json",
@@ -162,21 +313,59 @@
     "series": "赫尔克里·波洛系列",
     "detective": "赫尔克里·波洛",
     "country": "英国",
-    "tags": ["city", "identity", "psychological-misdirection"],
-    "school": ["orthodox-school", "logic-school", "psychological-school"],
+    "tags": [
+      "city",
+      "identity",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "psychological-school"
+    ],
     "safeSummary": "三个年轻女郎在伦敦合租一套公寓：一位是冷静干练的秘书，一位在艺术圈里混事。第三位在波洛用早餐时冲进来，说自己是个杀人凶手，随后便消失不见了。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["波洛系列的读者", "喜欢以人物身份为谜面的读者"],
-      "watchFor": ["第三个女郎自述时用的措辞", "合租公寓里各人的作息", "她家人与旁人对她的说法"],
+      "suitableFor": [
+        "波洛系列的读者",
+        "喜欢以人物身份为谜面的读者"
+      ],
+      "watchFor": [
+        "第三个女郎自述时用的措辞",
+        "合租公寓里各人的作息",
+        "她家人与旁人对她的说法"
+      ],
       "warning": "本格推理长篇，含命案与精神状态的描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -200,21 +389,59 @@
     "series": "非系列",
     "detective": "",
     "country": "英国",
-    "tags": ["mansion", "concealment", "alibi"],
-    "school": ["orthodox-school", "logic-school", "psychological-school"],
+    "tags": [
+      "mansion",
+      "concealment",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "psychological-school"
+    ],
     "safeSummary": "卡尔加里博士傍晚造访住在艳阳角的阿盖尔一家，带来一个消息：当年因涉嫌谋杀母亲而被定罪、最终惨死狱中的小儿子杰克是冤枉的，他本人可以证实其不在场证明。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["克里斯蒂非系列作品的读者", "喜欢旧案翻案型故事的读者"],
-      "watchFor": ["案发当天宅子里各人的行踪", "家人对翻案消息的反应", "当年那根拨火棍与书房现场"],
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢旧案翻案型故事的读者"
+      ],
+      "watchFor": [
+        "案发当天宅子里各人的行踪",
+        "家人对翻案消息的反应",
+        "当年那根拨火棍与书房现场"
+      ],
       "warning": "本格推理长篇，含冤狱、旧案与家庭内部命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -238,21 +465,59 @@
     "series": "非系列",
     "detective": "马克·伊斯特布鲁克",
     "country": "英国",
-    "tags": ["countryside", "legend-folklore", "concealment"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "countryside",
+      "legend-folklore",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "一位年长牧师在听取女病人的临终忏悔后被杀，警方从他身上找到一张名单，名单上的人都已去世。线索指向一个叫灰马酒店的地方，那里的三个女人声称可以用魔法令人自然死亡。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["克里斯蒂非系列作品的读者", "喜欢「看似超自然实则解谜」的读者"],
-      "watchFor": ["名单上各人的死因", "灰马酒店里三个女人的说辞", "牧师临终听到的忏悔内容"],
+      "suitableFor": [
+        "克里斯蒂非系列作品的读者",
+        "喜欢「看似超自然实则解谜」的读者"
+      ],
+      "watchFor": [
+        "名单上各人的死因",
+        "灰马酒店里三个女人的说辞",
+        "牧师临终听到的忏悔内容"
+      ],
       "warning": "本格推理长篇，含命案、巫术传闻与疾病致死描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -276,21 +541,59 @@
     "series": "非系列（短篇集）",
     "detective": "",
     "country": "英国",
-    "tags": ["locked-room", "dark-atmosphere", "diary-form"],
-    "school": ["orthodox-school", "trick-school", "legal-thriller"],
+    "tags": [
+      "locked-room",
+      "dark-atmosphere",
+      "diary-form"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "legal-thriller"
+    ],
     "safeSummary": "短篇推理集，收录《死亡之犬》《红色信号》《第四个男人》《吉卜赛人》《灯》《无线电》《控方证人》等篇目，题材从庭审攻防到灵异传闻都有涉及。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["想读克里斯蒂中短篇的读者", "对庭审题材感兴趣的读者"],
-      "watchFor": ["同名篇里证人的证词与身份", "各篇中看似超自然的细节", "叙述者的立场"],
+      "suitableFor": [
+        "想读克里斯蒂中短篇的读者",
+        "对庭审题材感兴趣的读者"
+      ],
+      "watchFor": [
+        "同名篇里证人的证词与身份",
+        "各篇中看似超自然的细节",
+        "叙述者的立场"
+      ],
       "warning": "推理中短篇合集，含命案、庭审与灵异传闻描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -314,21 +617,59 @@
     "series": "赫尔克里·波洛系列（短篇集）",
     "detective": "赫尔克里·波洛",
     "country": "英国",
-    "tags": ["countryside", "snowfield", "gain"],
-    "school": ["orthodox-school", "logic-school", "trick-school"],
+    "tags": [
+      "countryside",
+      "snowfield",
+      "gain"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
     "safeSummary": "短篇集，以同名篇领衔：沉浸在圣诞气氛里的英国小村庄卷进一桩关系到国家安定的宝石丢失案，波洛到村里查宝石，却又遇上一件令人费解的杀人案。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["波洛短篇的读者", "喜欢冬季节日氛围推理的读者"],
-      "watchFor": ["宝石的去向与经手人", "村中宅子里各人的作息", "节日布置中被忽略的角落"],
+      "suitableFor": [
+        "波洛短篇的读者",
+        "喜欢冬季节日氛围推理的读者"
+      ],
+      "watchFor": [
+        "宝石的去向与经手人",
+        "村中宅子里各人的作息",
+        "节日布置中被忽略的角落"
+      ],
       "warning": "推理短篇集，含命案与盗窃描写，基调轻快。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -352,21 +693,58 @@
     "series": "非系列",
     "detective": "",
     "country": "日本",
-    "tags": ["city", "obsession", "psychological-misdirection"],
-    "school": ["psychological-school", "social-school"],
+    "tags": [
+      "city",
+      "obsession",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
     "safeSummary": "一起男童被害案搅得蓝出市人心惶惶。经历艰辛治疗才终于得子的保奈美抱紧年幼的孩子，立誓不惜任何代价保护她——她不允许这起命案威胁到自己的孩子。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["喜欢家庭心理悬疑的读者", "能接受沉重题材的读者"],
-      "watchFor": ["保奈美求子与育儿的经过", "几组叙述各自的时间点", "案发地与她日常路线的重合"],
+      "suitableFor": [
+        "喜欢家庭心理悬疑的读者",
+        "能接受沉重题材的读者"
+      ],
+      "watchFor": [
+        "保奈美求子与育儿的经过",
+        "几组叙述各自的时间点",
+        "案发地与她日常路线的重合"
+      ],
       "warning": "犯罪悬疑长篇，含幼童被害、不孕治疗与强烈母职压力描写，题材沉重。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -390,21 +768,59 @@
     "series": "黑星光系列（短篇集）",
     "detective": "黑星光",
     "country": "日本",
-    "tags": ["locked-room", "locked-space", "countryside"],
-    "school": ["trick-school", "orthodox-school", "logic-school"],
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "countryside"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
     "safeSummary": "三十八岁、单身、在乡下小警署任职的黑星光爱好读侦探小说，此生最大的梦想是遇到一起完美的密室不可能犯罪并干净利落地解决它。问题是，他一口气遇到了七个密室。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["密室诡计爱好者", "喜欢短篇连作的读者"],
-      "watchFor": ["七个现场各自的封闭条件", "黑星光的推理被推翻之处", "各篇之间重复出现的人与物"],
+      "suitableFor": [
+        "密室诡计爱好者",
+        "喜欢短篇连作的读者"
+      ],
+      "watchFor": [
+        "七个现场各自的封闭条件",
+        "黑星光的推理被推翻之处",
+        "各篇之间重复出现的人与物"
+      ],
       "warning": "本格推理短篇集，七起密室案件，含命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
@@ -428,21 +844,59 @@
     "series": "十津川警部系列",
     "detective": "十津川警部",
     "country": "日本",
-    "tags": ["isolated-island", "alibi", "closed-circle"],
-    "school": ["orthodox-school", "police-procedural", "logic-school"],
+    "tags": [
+      "isolated-island",
+      "alibi",
+      "closed-circle"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural",
+      "logic-school"
+    ],
     "safeSummary": "东京街头一起凶杀案，七名目击证人的证词让青年佐伯信夫入狱九年，不久他病死狱中。一年后，佐伯的父亲把七名证人带到一处孤岛，按当年的现场搭起街景，逐一验证证词的真伪。",
     "recommendationReason": "",
     "ratings": {
-      "douban": { "score": null, "count": null, "source": "豆瓣读书", "asOf": null, "summary": "暂无数据" },
-      "hupu": { "score": null, "count": null, "source": "虎扑", "asOf": null, "summary": "暂无数据" },
-      "goodreads": { "score": null, "count": null, "source": "Goodreads", "asOf": null, "summary": "暂无数据" }
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
     },
     "readingTips": {
-      "suitableFor": ["喜欢证词验证型推理的读者", "西村京太郎作品的读者"],
-      "watchFor": ["七份证词之间的出入", "孤岛上重建街景的布置", "随行刑警十津川的立场"],
+      "suitableFor": [
+        "喜欢证词验证型推理的读者",
+        "西村京太郎作品的读者"
+      ],
+      "watchFor": [
+        "七份证词之间的出入",
+        "孤岛上重建街景的布置",
+        "随行刑警十津川的立场"
+      ],
       "warning": "本格推理长篇，含冤狱、孤岛连续案件与命案描写。"
     },
-    "vault": { "culprit": "", "coreTrick": "", "ending": "", "notes": "" },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
     "origin": "seed",
     "verification": {
       "verified": true,
