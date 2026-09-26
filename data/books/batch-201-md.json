@@ -1,0 +1,309 @@
+[
+  {
+    "id": "md201-001",
+    "title": "黄昏杀人耳语",
+    "originalTitle": "黄昏の囁き",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "耳语系列",
+    "detective": "无固定侦探（翔二视角）",
+    "country": "日本",
+    "tags": [
+      "fear",
+      "dark-atmosphere",
+      "youth"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "哥哥离奇身亡，翔二匆忙返乡；「杀人耳语」接连被人说起，古怪的硬币与难辨男女的嗓音出现后，深夜密会的几个年轻人一一惨死。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.1。",
+        "score": 6.1,
+        "count": 616,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/6999115/",
+        "subjectId": "6999115",
+        "edition": "黄昏杀人耳语 2012",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "绫辻行人的读者",
+        "偏爱恐怖色彩的推理读者"
+      ],
+      "watchFor": [
+        "「耳语」与硬币等怪现象的来处",
+        "翔二对旧事的记忆如何被唤起"
+      ],
+      "warning": "恐怖色彩浓厚的推理长篇，含连续死亡与怪谈式描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「绫辻行人」）：绫辻行人著，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-4637-3，246 页，丛编「含章行文」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名与评分来源**：**豆瓣桌面版条目页** `https://book.douban.com/subject/6999115/`（2026-09 抓取，评分 6.1、616 人评价；译者王萃；丛书「七曜文库」；页数 256）的「原作名」一栏写明 `黄昏の囁き`。**梗概来源**：同页出版方简介给出的谜面（哥哥身亡、返乡、「杀人耳语」、古怪硬币、深夜密会的年轻人接连惨死），**梗概只取这一层，不写真相**。**系列判定**：同页社方简介写明作者继「馆」系列之后推出「**耳语**」系列；同社同年（吉林出版集团 2012）另有《绯色杀人耳语》《暗黑杀人耳语》同属该系列，故 `series` 记「耳语系列」（**这是据出版方文案的判断**；其中《暗黑杀人耳语》为库内旧条目，本轮一并把它的 `series` 由「非系列」改为「耳语系列」，见 §108）。**年份字段**：`firstPublished` 留空——馆藏未著录原版初刊年，豆瓣条目页也不给原作年，按 §103／§104 的规则**不推测**；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-201-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md201-002",
+    "title": "绯色杀人耳语",
+    "originalTitle": "",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "耳语系列",
+    "detective": "无固定侦探（凉子视角）",
+    "country": "日本",
+    "tags": [
+      "fear",
+      "dark-atmosphere",
+      "legend-folklore",
+      "campus"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "凉子转学不久，室友离奇自焚，同学说那是「魔女的诅咒」；此后同班少女接连惨死，而红色梦魇总在特定日子找上她。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.1。",
+        "score": 6.1,
+        "count": 694,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/10518846/",
+        "subjectId": "10518846",
+        "edition": "绯色杀人耳语 2012",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "绫辻行人的读者",
+        "偏爱校园怪谈的读者"
+      ],
+      "watchFor": [
+        "「魔女的诅咒」在校园里的流传",
+        "红色梦魇与惨死事件的先后"
+      ],
+      "warning": "恐怖色彩浓厚的推理长篇，含自焚、连续死亡与怪谈式描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「绫辻行人」）：绫辻行人著，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-8535-8，343 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/10518846/`（2026-09 抓取，评分 6.1、694 人评价；译者刘荣伟；丛书「七曜文库」）。**该页没有「原作名」一栏**，故 `originalTitle` **留空**，不照题名反推日文原题。**原作名的旁证（判断，未写入字段）**：上图按**题名**检索可查到日文原版 `緋色の囁き`（講談社 2017.12，ISBN 978-4061859999，471 页，著者綾辻行人），与本书题名逐字对应（緋色→绯色、囁き→耳语）、作者同一；但**没有一条著录把两者直接连起来**，所以只作旁证，不据此填写 `originalTitle`——**等日后取到原版书影或馆藏并列题名再回填**。**梗概来源**：豆瓣页出版方简介的谜面（转学、室友自焚、「魔女的诅咒」、同班少女接连惨死、红色梦魇），**梗概只取这一层，不写真相**。**系列判定**：与《黄昏杀人耳语》同社同年、同属「耳语」系列（依据为该页与《黄昏杀人耳语》条目页的社方简介），`series` 记「耳语系列」。**年份字段**：`firstPublished` 留空，`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-201-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md201-003",
+    "title": "尸体长发之谜",
+    "originalTitle": "",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "杀人方程式系列",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "新锐作家被杀后长发被人剪走；十年后旧友依约开启时间囊，死者的妹妹以姐姐的模样现身，随后也遭勒毙，长发同样不见了。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 7.8。",
+        "score": 7.8,
+        "count": 1311,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4753522/",
+        "subjectId": "4753522",
+        "edition": "尸体长发之谜 2010",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "绫辻行人的读者",
+        "喜欢新本格解谜的读者"
+      ],
+      "watchFor": [
+        "两桩命案里被剪走的长发",
+        "十年前时间囊里的约定"
+      ],
+      "warning": "新本格推理长篇，含命案与遗体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「绫辻行人」）：绫辻行人著，珠海出版社 2010，ISBN 978-7-5453-0359-9，299 页，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/4753522/`（2026-09 抓取，评分 7.8、1,311 人评价；译者曹宇；丛书「绫辻行人推理小说集」）。该页**没有「原作名」一栏**，故 `originalTitle` **留空**；上图按题名检索也没有对应的日文原版著录，**不凭题名反推原题**。**系列判定**：同页出版方简介写明「《尸体长发之谜》是『**杀人方程式**』系列的**第二部**」，故 `series` 记「杀人方程式系列」——这一条是**直接引证**，不是推测。**梗概来源**：同页简介给出的两桩命案的谜面（长发被剪走、十年后开启时间囊、妹妹以姐姐的模样现身后再遭勒毙），**梗概只取谜面，不写解法与凶手**。**年份字段**：`firstPublished` 留空（原版初刊年无著录），`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-201-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md201-004",
+    "title": "肢解尸体之谜",
+    "originalTitle": "",
+    "author": "绫辻行人",
+    "authorEn": "Yukito Ayatsuji",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "杀人方程式系列",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "gain",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "新兴教团的教祖卧轨身亡，两个月后她的丈夫又身首异处；教团的继承人、死者的独子，究竟是凶手、被害者，还是被人摆出来的道具。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣移动版条目页评分 6.6。",
+        "score": 6.6,
+        "count": 809,
+        "scale": "10 分制",
+        "source": "豆瓣读书（移动版条目页实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4772304/",
+        "subjectId": "4772304",
+        "edition": "肢解尸体之谜 2010",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "绫辻行人的读者",
+        "喜欢新本格解谜的读者"
+      ],
+      "watchFor": [
+        "教团内部的权位与利益",
+        "两具遗体的伤痕各自说明了什么"
+      ],
+      "warning": "新本格推理长篇，含命案与遗体描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「绫辻行人」）：绫辻行人著，珠海出版社 2010，ISBN 978-7-5453-0360-5，251 页，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/4772304/`（2026-09 抓取，评分 6.6、809 人评价；译者曹宇；丛书「绫辻行人推理小说集」）。该页**没有「原作名」一栏**，`originalTitle` 留空；上图按题名检索亦无对应日文原版著录。**系列判定（判断）**：本册与《尸体长发之谜》**同译者（曹宇）、同出版社、同月（2010 年 5 月）出版、同属『尸体…之谜』命名**，而后者条目页的简介明确写明它属「杀人方程式」系列第二部，故把本册一并记入「杀人方程式系列」。**这是判断而非直证**——若日后取到原版书影证实两者不是同一系列，改掉 `series` 即可。**梗概来源**：同页简介给出的谜面（教祖卧轨、其夫身首异处、继承人的三重身份疑问），**梗概只写谜面，不写真相**。**年份字段**：`firstPublished` 留空，`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-201-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

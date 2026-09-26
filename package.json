@@ -45,6 +45,7 @@
     "audit:titles": "node scripts/audit-titles.mjs",
     "audit:duplicates": "node scripts/find-duplicates.mjs --strict",
     "audit:origtitle": "node scripts/origtitle-scan.mjs",
+    "audit:origtitle-cross": "node scripts/origtitle-crosscheck.mjs",
     "fix:dups": "node scripts/merge-dups.mjs",
     "fix:dups:apply": "node scripts/merge-dups.mjs --apply",
     "audit:offline": "node scripts/audit-offline.mjs",

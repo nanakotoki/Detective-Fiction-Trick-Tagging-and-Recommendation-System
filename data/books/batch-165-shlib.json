@@ -66,12 +66,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出本册九篇篇名，与 *The Incredulity of Father Brown* 的篇目一致，据此认定原题名。**系列归并**：与库内《布朗神父探案集》(*The Innocence*)、《布朗神父的智慧》(*The Wisdom*) 同系列；**注意**：本馆另出《花园谜案》《盗贼的乐园》两册，实为上述两部的中译异名，**已核对后不收**。**年份字段说明**：`firstPublished` 记 1926；`editionYear` 记 2014。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出本册九篇篇名，与 *The Incredulity of Father Brown* 的篇目一致，据此认定原题名。**系列归并**：与库内《布朗神父探案集》(*The Innocence*)、《布朗神父的智慧》(*The Wisdom*) 同系列；**注意**：本馆另出《花园谜案》《盗贼的乐园》两册，实为上述两部的中译异名，**已核对后不收**。**年份字段说明**：`firstPublished` 记 1926；`editionYear` 记 2014。 **同书异名登记（第 108 轮）**：候选《布朗神父的怀疑》（湖南文艺出版社 2013，ISBN 978-7-5404-5898-0，丛编「布朗神父探案全集」）的**豆瓣条目页「原作名」为 `The Incredulity of Father Brown`**，馆藏 CNMARC 的 `200$d`／`510` 亦为 `The incredulity of Father Brown`——与库内本条原作名一致，故不另立条目。"
     },
     "provenance": {
       "source": "batch-165-shlib.json",
       "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "布朗神父的怀疑"
+    ]
   },
   {
     "id": "shlib165-002",
@@ -140,12 +143,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出八篇篇名，与 *The Secret of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1927；`editionYear` 记 2014。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出八篇篇名，与 *The Secret of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1927；`editionYear` 记 2014。 **同书异名登记（第 108 轮）**：候选《布朗神父的秘密》（湖南文艺出版社 2013，ISBN 978-7-5404-5899-7，同丛编）的**豆瓣「原作名」为 `The Secret of Father Brown`**，馆藏 `510` 为 `Secret of Father Brown`——与库内本条原作名一致，故不另立条目。"
     },
     "provenance": {
       "source": "batch-165-shlib.json",
       "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "布朗神父的秘密"
+    ]
   },
   {
     "id": "shlib165-003",
@@ -214,12 +220,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出十篇篇名，与 *The Scandal of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1935；`editionYear` 记 2014。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：G·K·切斯特顿著，时代文艺出版社 2014。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I561.45`**；③馆藏 CNMARC 提要列出十篇篇名，与 *The Scandal of Father Brown* 篇目一致。**年份字段说明**：`firstPublished` 记 1935；`editionYear` 记 2014。 **同书异名登记（第 108 轮）**：候选《布朗神父的丑闻》（湖南文艺出版社 2013，ISBN 978-7-5404-5900-0，同丛编）的**豆瓣「原作名」为 `The Scandal of Father Brown`**，馆藏 `510` 为 `Scandal of Father Brown`——与库内本条原作名一致，故不另立条目。"
     },
     "provenance": {
       "source": "batch-165-shlib.json",
       "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "布朗神父的丑闻"
+    ]
   },
   {
     "id": "shlib165-004",

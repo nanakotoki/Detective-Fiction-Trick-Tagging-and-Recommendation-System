@@ -72,14 +72,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 108 轮）**：候选《布朗神父的天真》（湖南文艺出版社 2013，ISBN 978-7-5404-5830-0，同丛编）的**豆瓣「原作名」为 `The Innocence of Father Brown`**，馆藏 `510` 为 `Innocence of Father Brown`——与库内本条原作名一致，故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2000（布朗神父探案集／(英) G.K.切斯特顿著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-25-western-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2000"
+    "editionYear": "2000",
+    "alternateTitles": [
+      "布朗神父的天真"
+    ]
   },
   {
     "id": "west3-002",
