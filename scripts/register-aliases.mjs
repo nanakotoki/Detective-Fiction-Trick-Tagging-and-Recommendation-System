@@ -7,6 +7,37 @@ import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
  * **统一／并列题名**字段定为 `Calamity town`，即**库内已有的《灾难之城》**，
  * 因此不再另收一条，而是把「凶镇」登记为别名——否则下一轮扫描还会把它当新书报上来。
  */
+/**
+ * **系列名归一**（第 87 轮）。
+ *
+ * 由 `scripts/audit-series-names.mjs` 扫出 24 组「去尾词后同干」的系列名。
+ * **不是全部都要合**——先分两类：
+ *   · **要合的**：同一系列被写成两种名字，差别只在尾词或同义尾词
+ *     （「大唐狄公案」/「大唐狄公案系列」；「霍桑探案集」/「霍桑探案系列」；「亚森·罗平探案集」/「亚森·罗平系列」）；
+ *   · **不动的**：带括号副题的写法是**刻意**的，括号里标的是「短篇集／中篇集／终章／全六部」
+ *     这类**体裁或批次信息**（如「赫尔克里·波洛系列（短篇集）」）。
+ *     还有「大唐悬疑录」这种**同一系列名下其实是两组不同主角**（裴玄静／狄仁杰、袁从英）
+ *     的情况——那是**该拆不该合**，留给日后处理。
+ */
+const RENAME_SERIES = [
+  { from: '大唐狄公案', to: '大唐狄公案系列' },
+  { from: '大唐悬疑录', to: '大唐悬疑录系列' },
+  { from: '霍桑探案集', to: '霍桑探案系列' },
+  { from: '亚森·罗平探案集', to: '亚森·罗平系列' },
+];
+
+/**
+ * **主角名归一**（第 87 轮）。同一个系列里同一个人物写成两种名字，会让「同系列」的聚合与展示出错。
+ * 只合**一个是另一个的前缀／明显同人**的情形，**不碰**「同一系列下的不同主角」。
+ */
+const RENAME_DETECTIVE = [
+  // 福尔摩斯两种音译并存（歇洛克／夏洛克），取多数写法
+  { from: '歇洛克·福尔摩斯', to: '夏洛克·福尔摩斯' },
+  // 括号里是补充说明，不是另一个人
+  { from: '菲利普·马洛（私家侦探）', to: '菲利普·马洛' },
+  { from: '霍桑（叙述者包朗）', to: '霍桑、包朗' },
+];
+
 const MARK = '**同书异名登记（第 76 轮）**';
 const PLAN = [
   {
@@ -114,7 +145,40 @@ for (const r of RENAME_AUTHOR) {
 }
 console.log(`将归一 ${renamed} 条作者名`);
 
-if (APPLY && (changed || renamed)) {
+/** 系列名归一 */
+let rs = 0;
+for (const r of RENAME_SERIES) {
+  for (const [f, arr] of store) {
+    for (const b of arr) {
+      if (b.series !== r.from) continue;
+      b.series = r.to;
+      b.verification.source +=
+        ` **系列名归一（第 87 轮）**：本条原记系列为「${r.from}」，与库内同一系列的多数写法（「${r.to}」）不一致，已统一；` +
+        '否则同一位侦探的作品会被算成两个系列。';
+      touched.add(f);
+      rs += 1;
+    }
+  }
+}
+console.log(`将归一 ${rs} 条系列名`);
+
+/** 主角名归一 */
+let rd = 0;
+for (const r of RENAME_DETECTIVE) {
+  for (const [f, arr] of store) {
+    for (const b of arr) {
+      if (b.detective !== r.from) continue;
+      b.detective = r.to;
+      b.verification.source +=
+        ` **主角名归一（第 87 轮）**：本条原记主角为「${r.from}」，与库内同一人物的多数写法（「${r.to}」）不一致，已统一。`;
+      touched.add(f);
+      rd += 1;
+    }
+  }
+}
+console.log(`将归一 ${rd} 条主角名`);
+
+if (APPLY && (changed || renamed || rs || rd)) {
   for (const f of touched) writeFileSync(`data/books/${f}`, JSON.stringify(store.get(f), null, 2) + '\n', 'utf8');
   console.log(`已写入 ${touched.size} 个文件`);
 }

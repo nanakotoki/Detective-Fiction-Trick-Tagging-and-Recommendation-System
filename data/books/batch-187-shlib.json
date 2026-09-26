@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "shlib187-001",
+    "title": "五条红鲱鱼",
+    "originalTitle": "",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "塞耶斯的一册长篇：五条线索，各自指向不同的人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "多萝西·塞耶斯的读者",
+        "黄金时代本格的读者"
+      ],
+      "watchFor": [
+        "线索指向的人为何各不相同",
+        "温西问话的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：多萝西·L·塞耶斯著，新星出版社 2010，丛编「午夜文库」（ISBN 978-7-80225-852-5）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为午夜文库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列与主角**：本册属「彼得·温西爵爷」系列，`detective` 记「彼得·温西」，与库内同系列条目一致。**同书说明（未收项）**：候选《证言疑云》（新星 2009）馆藏并列题名 `Clouds of witness`，**即库内《证人风云》**；《九曲丧钟》（群众 2006）**即库内《九九神咒》**（同为 *The Nine Tailors*）——两条均不收。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-002",
+    "title": "非常死亡",
+    "originalTitle": "",
+    "author": "多萝西·L·塞耶斯",
+    "authorEn": "Dorothy L. Sayers",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "彼得·温西爵爷系列",
+    "detective": "彼得·温西",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "red-herring",
+      "alibi"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "塞耶斯的一册长篇：一位老妇人去世后，给她看病的医生发现病人越来越少。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "多萝西·塞耶斯的读者",
+        "黄金时代本格的读者"
+      ],
+      "watchFor": [
+        "线索指向的人为何各不相同",
+        "温西问话的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：多萝西·L·塞耶斯著，群众出版社 2006，丛编「英国侦探小说女皇多萝西·利·塞耶斯系列」（ISBN 7-5014-3609-6）。**判据**：①**学科主题词为「侦探小说 英国 现代」**；②**中图分类号 `I561.456`**；③**丛编为英国侦探小说女皇多萝西·利·塞耶斯系列**。**提要使用**：馆藏 330 提要写到了老妇人之死与医生病人减少之间那点说不通，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2006。**系列与主角**：本册属「彼得·温西爵爷」系列，`detective` 记「彼得·温西」，与库内同系列条目一致。**同书说明（未收项）**：候选《证言疑云》（新星 2009）馆藏并列题名 `Clouds of witness`，**即库内《证人风云》**；《九曲丧钟》（群众 2006）**即库内《九九神咒》**（同为 *The Nine Tailors*）——两条均不收。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-003",
+    "title": "不能赢的辩护",
+    "originalTitle": "",
+    "author": "史蒂夫·卡瓦纳",
+    "authorEn": "Steve Cavanagh",
+    "genre": "法律惊悚",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "艾迪·弗林系列",
+    "detective": "艾迪·弗林",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一起看上去没有胜算的辩护。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "史蒂夫·卡瓦纳的读者",
+        "法庭推理的读者"
+      ],
+      "watchFor": [
+        "庭审上的攻防节拍",
+        "对手下一步会做什么"
+      ],
+      "warning": "法庭推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：史蒂夫·卡瓦纳著，北京日报出版社 2024，丛编「艾迪·弗林系列」（ISBN 978-7-5477-4795-7）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**；③**丛编为艾迪·弗林系列**。**提要使用**：馆藏 330 提要写到了开场的胁迫场面，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2024。**系列与主角**：本册属「艾迪·弗林」系列（《不能赢的辩护》的馆藏丛编即作「艾迪·弗林系列」，其余三册提要也点名主角为「艾迪·弗林」），故记 `series: 艾迪·弗林系列`、`detective: 艾迪·弗林`。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-004",
+    "title": "无辜的共犯",
+    "originalTitle": "",
+    "author": "史蒂夫·卡瓦纳",
+    "authorEn": "Steve Cavanagh",
+    "genre": "法律惊悚",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "艾迪·弗林系列",
+    "detective": "艾迪·弗林",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一名被指为连环杀手同谋的妻子，请来艾迪·弗林辩护。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "史蒂夫·卡瓦纳的读者",
+        "法庭推理的读者"
+      ],
+      "watchFor": [
+        "庭审上的攻防节拍",
+        "对手下一步会做什么"
+      ],
+      "warning": "法庭推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：史蒂夫·卡瓦纳著，百花文艺出版社 2025（ISBN 978-7-5306-9107-6）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**提要使用**：馆藏 330 提要写到了案情与被告的处境，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列与主角**：本册属「艾迪·弗林」系列（《不能赢的辩护》的馆藏丛编即作「艾迪·弗林系列」，其余三册提要也点名主角为「艾迪·弗林」），故记 `series: 艾迪·弗林系列`、`detective: 艾迪·弗林`。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-005",
+    "title": "魔鬼的代言人",
+    "originalTitle": "",
+    "author": "史蒂夫·卡瓦纳",
+    "authorEn": "Steve Cavanagh",
+    "genre": "法律惊悚",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "艾迪·弗林系列",
+    "detective": "艾迪·弗林",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一桩可能判死刑的案子，原辩护律师无故失踪。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "史蒂夫·卡瓦纳的读者",
+        "法庭推理的读者"
+      ],
+      "watchFor": [
+        "庭审上的攻防节拍",
+        "对手下一步会做什么"
+      ],
+      "warning": "法庭推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：史蒂夫·卡瓦纳著，百花文艺出版社 2025（ISBN 978-7-5306-9052-9）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**提要使用**：馆藏 330 提要写到了案情与律师失踪，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列与主角**：本册属「艾迪·弗林」系列（《不能赢的辩护》的馆藏丛编即作「艾迪·弗林系列」，其余三册提要也点名主角为「艾迪·弗林」），故记 `series: 艾迪·弗林系列`、`detective: 艾迪·弗林`。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-006",
+    "title": "失真",
+    "originalTitle": "",
+    "author": "史蒂夫·卡瓦纳",
+    "authorEn": "Steve Cavanagh",
+    "genre": "法律惊悚",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "艾迪·弗林系列",
+    "detective": "艾迪·弗林",
+    "country": "英国",
+    "tags": [
+      "series-detective",
+      "silencing",
+      "concealment"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "一场追悼会上的枪击，与一位已故作家的真实身份。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "史蒂夫·卡瓦纳的读者",
+        "法庭推理的读者"
+      ],
+      "watchFor": [
+        "庭审上的攻防节拍",
+        "对手下一步会做什么"
+      ],
+      "warning": "法庭推理小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：史蒂夫·卡瓦纳著，百花文艺出版社 2025（ISBN 978-7-5306-8997-4）。**判据**：①**学科主题词为「推理小说 英国 现代 ; 长篇小说 英国 现代」**；②**中图分类号 `I561.45`**。**提要使用**：馆藏 330 提要写到了追悼会与枪击的经过，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2025。**系列与主角**：本册属「艾迪·弗林」系列（《不能赢的辩护》的馆藏丛编即作「艾迪·弗林系列」，其余三册提要也点名主角为「艾迪·弗林」），故记 `series: 艾迪·弗林系列`、`detective: 艾迪·弗林`。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-007",
+    "title": "骆驼俱乐部",
+    "originalTitle": "",
+    "author": "戴维·鲍尔达奇",
+    "authorEn": "David Baldacci",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「骆驼俱乐部」的一册：几个各有本事的人凑在一起查一桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴维·鲍尔达奇的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "几条线索如何并到一起",
+        "人物之间的旧关系"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴维·鲍尔达奇著，群众出版社 2009（ISBN 978-7-5014-4321-5）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2009。**系列归属**：馆藏丛编为空、亦无提要可据，故记「非系列」、`detective` 留空，**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-008",
+    "title": "简单天才",
+    "originalTitle": "",
+    "author": "戴维·鲍尔达奇",
+    "authorEn": "David Baldacci",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "鲍尔达奇的一册长篇：一个被叫作「天才」的人，和一件简单不过的事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴维·鲍尔达奇的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "几条线索如何并到一起",
+        "人物之间的旧关系"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴维·鲍尔达奇著，国际文化出版公司 2010（ISBN 978-7-80173-887-5）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2010。**系列归属**：馆藏丛编为空、亦无提要可据，故记「非系列」、`detective` 留空，**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-009",
+    "title": "第六人",
+    "originalTitle": "",
+    "author": "戴维·鲍尔达奇",
+    "authorEn": "David Baldacci",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "鲍尔达奇的一册长篇：案子里的「第六个人」是谁。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴维·鲍尔达奇的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "几条线索如何并到一起",
+        "人物之间的旧关系"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴维·鲍尔达奇著，光明日报出版社 2012（ISBN 978-7-5112-1733-2）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏丛编为空、亦无提要可据，故记「非系列」、`detective` 留空，**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-010",
+    "title": "黑日堡垒",
+    "originalTitle": "",
+    "author": "戴维·鲍尔达奇",
+    "authorEn": "David Baldacci",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "鲍尔达奇的一册长篇：一处被叫作「黑日」的地方。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "戴维·鲍尔达奇的读者",
+        "美式悬疑的读者"
+      ],
+      "watchFor": [
+        "几条线索如何并到一起",
+        "人物之间的旧关系"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：戴维·鲍尔达奇著，哈尔滨出版社 2014（ISBN 978-7-5484-1733-0）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2014。**系列归属**：馆藏丛编为空、亦无提要可据，故记「非系列」、`detective` 留空，**不按作者的其他系列推测**。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-011",
+    "title": "致命约会",
+    "originalTitle": "",
+    "author": "约翰·卢兹",
+    "authorEn": "John Lutz",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "obsession",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "卢兹的一册长篇：一次约会之后出了命案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "约翰·卢兹的读者",
+        "追凶题材的读者"
+      ],
+      "watchFor": [
+        "凶手留下的痕迹",
+        "追查者的判断如何被带偏"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：约翰·卢兹著，九州出版社 2011，丛编「雅轩文库」（ISBN 978-7-5108-1098-5）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为雅轩文库**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2011。**系列归属**：馆藏丛编未显示人物系列，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-012",
+    "title": "剥皮者",
+    "originalTitle": "",
+    "author": "约翰·卢兹",
+    "authorEn": "John Lutz",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "obsession",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "卢兹的一册长篇：凶手留下的痕迹指向一种固定的手法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "约翰·卢兹的读者",
+        "追凶题材的读者"
+      ],
+      "watchFor": [
+        "凶手留下的痕迹",
+        "追查者的判断如何被带偏"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：约翰·卢兹著，九州出版社 2012（ISBN 978-7-5108-1429-7）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏丛编未显示人物系列，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-013",
+    "title": "X先生",
+    "originalTitle": "",
+    "author": "约翰·卢兹",
+    "authorEn": "John Lutz",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "concealment",
+      "obsession",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "卢兹的一册长篇：一个自称「X先生」的人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "约翰·卢兹的读者",
+        "追凶题材的读者"
+      ],
+      "watchFor": [
+        "凶手留下的痕迹",
+        "追查者的判断如何被带偏"
+      ],
+      "warning": "犯罪悬疑小说，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：约翰·卢兹著，九州出版社 2012（ISBN 978-7-5108-1428-0）。**判据**：①**学科主题词为「侦探小说 美国 现代 ; 长篇小说 美国 现代」**；②**中图分类号 `I712.45`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2012。**系列归属**：馆藏丛编未显示人物系列，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-014",
+    "title": "世界名家推理小说选",
+    "originalTitle": "",
+    "author": "约翰·卢兹 等",
+    "authors": [
+      "约翰·卢兹"
+    ],
+    "authorEn": "John Lutz et al.",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "ensemble",
+      "red-herring",
+      "city"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "一本世界推理短篇选集，收入多位名家的作品。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "想一次读多位名家的读者",
+        "短篇推理的读者"
+      ],
+      "watchFor": [
+        "各家的路数差异",
+        "选本的取向"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：约翰·卢兹等著，九州出版社 2011（ISBN 978-7-5108-0847-0）。**判据**：①**学科主题词为「推理小说 小说集 世界」**；②**中图分类号 `I14`**。**作者归属说明**：馆藏主题词作「**世界**小说集」，本册实为**多作家短篇合集**，故 `author` 记「约翰·卢兹 等」并带 `authors` 数组，与库内同类合集（《世界获奖推理小说选》等）一致。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（合集不适用单一初版年）；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib187-015",
+    "title": "小偷家族",
+    "originalTitle": "",
+    "author": "坂口安吾",
+    "authorEn": "Ango Sakaguchi",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "dark-atmosphere",
+      "concealment",
+      "honkaku"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "坂口安吾的一册短篇集，收其犯罪题材短篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "坂口安吾的读者",
+        "战前战后日本变格推理的读者"
+      ],
+      "watchFor": [
+        "战后日本的世相",
+        "叙述者的位置"
+      ],
+      "warning": "变格推理短篇集，氛围阴郁，含犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：坂口安吾著，浙江文艺出版社 2022（ISBN 978-7-5339-6663-8）。**判据**：①**学科主题词为「侦探小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**；②**中图分类号 `I313.45`**。**原作名说明**：馆藏 CNMARC 的并列题名作 `Sakaguchi ango tome of criminal profiles`（**编目者自拟的英文说明**，非原题），本库**不据此填 `originalTitle`**，留空。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2022。**同书说明（未收项）**：候选《非连续杀人事件》（群众 1999）＝库内《不连续杀人事件》；《明治开化安吾捕物**贴**》上下册（重庆 2015）＝库内《明治开化安吾捕物**帖**》上下——**馆藏把「帖」误作「贴」**，属同书，两条均不收。"
+    },
+    "provenance": {
+      "source": "batch-187-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
