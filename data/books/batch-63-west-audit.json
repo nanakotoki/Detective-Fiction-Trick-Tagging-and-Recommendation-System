@@ -175,7 +175,7 @@
     "genre": "本格推理",
     "firstPublished": "1942",
     "series": "马里尼系列",
-    "detective": "马里尼（The Great Merlini）",
+    "detective": "马里尼",
     "country": "美国",
     "tags": [
       "locked-room",
@@ -242,7 +242,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **主角名归一（第 87 轮）**：本条原记主角为「马里尼（The Great Merlini）」，与库内同一人物的多数写法（「马里尼」）不一致，已统一。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「无棺之尸」／劳森）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

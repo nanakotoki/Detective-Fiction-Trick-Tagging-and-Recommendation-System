@@ -677,8 +677,8 @@
     "authorEn": "Jo Nesbø",
     "genre": "犯罪悬疑",
     "firstPublished": "2007",
-    "series": "哈利·霍尔系列",
-    "detective": "哈利·霍尔",
+    "series": "哈利·霍勒警探系列",
+    "detective": "哈利·霍勒",
     "country": "挪威",
     "tags": [
       "red-herring",
@@ -743,7 +743,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验）",
+      "source": "整理者据公开出版信息整理（离线环境，评分未联网核验） **系列名归一（第 87 轮）**：本条原记系列为「哈利·霍尔系列」，与库内同一系列的多数写法（「哈利·霍勒警探系列」）不一致，已统一；否则同一位侦探的作品会被算成两个系列。 **主角名归一（第 87 轮）**：本条原记主角为「哈利·霍尔」，与库内同一人物的多数写法（「哈利·霍勒」）不一致，已统一。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2016（雪人／(挪威) 尤·奈斯博著 JO NESBO）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

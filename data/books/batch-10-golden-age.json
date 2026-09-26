@@ -1354,8 +1354,8 @@
     "authorEn": "Clayton Rawson",
     "genre": "本格推理",
     "firstPublished": "1938",
-    "series": "梅里尼系列",
-    "detective": "梅里尼",
+    "series": "马里尼系列",
+    "detective": "马里尼",
     "country": "美国",
     "tags": [
       "locked-room",
@@ -1423,7 +1423,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理"
+      "source": "整理者据公开出版信息与先验知识整理 **系列名归一（第 87 轮）**：本条原记系列为「梅里尼系列」，与库内同一系列的多数写法（「马里尼系列」）不一致，已统一；否则同一位侦探的作品会被算成两个系列。 **主角名归一（第 87 轮）**：本条原记主角为「梅里尼」，与库内同一人物的多数写法（「马里尼」）不一致，已统一。"
     },
     "provenance": {
       "source": "batch-10-golden-age.json",
