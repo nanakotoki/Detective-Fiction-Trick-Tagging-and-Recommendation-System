@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "shlib191-001",
+    "title": "起火点",
+    "originalTitle": "",
+    "author": "帕特里夏·康薇尔",
+    "authorEn": "Patricia Cornwell",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "首席女法医系列",
+    "detective": "凯·斯卡尔佩塔",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「首席女法医」系列的第九部：一处农庄起火，一个女人死在浴缸里。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首席女法医系列的读者",
+        "法医推理的读者"
+      ],
+      "watchFor": [
+        "现场勘验给出的那一点",
+        "凯的判断如何被修正"
+      ],
+      "warning": "法医推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：帕特里夏·康薇尔著，北京联合出版公司 2026（ISBN 978-7-5596-9131-6）。**判据**：①**学科主题词为「推理小说 美国 现代」**；②**中图分类号 `I712.45`**；③**丛编为首席女法医**。**提要使用**：馆藏 330 提要写到了火灾现场与浴缸中的死者，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**`firstPublished` 留空**（馆藏未提供原版初刊年，不做推测）；`editionYear` 记 2026。**系列与主角**：与库内既有的 15 部同记 `首席女法医系列` / `凯·斯卡尔佩塔`。**同书说明（§87.5 待办结清）**：本组候选《残骸线索》＝*All That Remains*＝**库内《首席女法医3》**、《肉体证据》＝*Body of Evidence*＝**库内《首席女法医2》**、《死因》＝*Cause of Death*＝**库内《首席女法医：死亡的理由》**——三条均为同作的台版译名，**不收**；本册原作 *Point of Origin* 库内无，收。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-002",
+    "title": "罪案调查科 罪终迷局",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Di Shui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "尸案调查科系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「尸案调查科」系列的一册：几桩案子各自的技术谜题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "九滴水的读者",
+        "技术流刑侦推理的读者"
+      ],
+      "watchFor": [
+        "痕迹检验给出的那一点",
+        "各案技术的差别"
+      ],
+      "warning": "刑侦题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：九滴水著，湖南文艺出版社 2025（ISBN 978-7-5726-2623-4）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为“尸案调查科”系列**。**提要使用**：馆藏 330 提要写到了各案的现场特征（摄像设备完好而轿车消失等），**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列归属**：馆藏丛编作「“尸案调查科”系列」，与库内既有的《尸案调查科》等 4 部同系，据此记 `series`；`detective` 留空（各册主角不一）。**同书说明（未收项）**：候选《罪案调查科 罪终迷局 终场》（2019 贵州人民出版社）与本批 2025 湖南文艺版**同作**，不收。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-003",
+    "title": "罪案调查科 罪终迷局 终场 The end",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Di Shui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "尸案调查科系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「尸案调查科」系列的终场，收《白色恋人》等三个案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "九滴水的读者",
+        "技术流刑侦推理的读者"
+      ],
+      "watchFor": [
+        "痕迹检验给出的那一点",
+        "各案技术的差别"
+      ],
+      "warning": "刑侦题材推理小说，含尸体与解剖描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：九滴水著，湖南文艺出版社 2025（ISBN 978-7-5726-2638-8）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**；③**丛编为“尸案调查科”系列**。**本册提要**（馆藏 330 字段原文）：「本书包含《白色恋人》《古树冤魂》和《盲山悲情》三个案件。」**梗概说明**：以上为**篇目**，不含情节。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列归属**：馆藏丛编作「“尸案调查科”系列」，与库内既有的《尸案调查科》等 4 部同系，据此记 `series`；`detective` 留空（各册主角不一）。**同书说明（未收项）**：候选《罪案调查科 罪终迷局 终场》（2019 贵州人民出版社）与本批 2025 湖南文艺版**同作**，不收。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-004",
+    "title": "心毒",
+    "originalTitle": "",
+    "author": "初禾",
+    "authorEn": "Chu He",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "心毒系列",
+    "detective": "花崇、柳至秦",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「心毒」系列的第一册：重案队长花崇与公安部来的「黑客」柳至秦搭档办案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "初禾的读者",
+        "双主角刑侦推理的读者"
+      ],
+      "watchFor": [
+        "两位主角分工的不同",
+        "各案背后的动机"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：初禾著，天津人民出版社 2020（ISBN 978-7-201-16097-9）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要交代了两位主角的来历与搭档关系，**梗概只取人物这一层**，不写入案件与结局。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列与主角**：题名与馆藏提要均指向同一组主角（「刑侦支队重案组队长**花崇**」「公安部精英『黑客』**柳至秦**」），故归入同一系列并填 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-005",
+    "title": "心毒 3 完结篇",
+    "originalTitle": "",
+    "author": "初禾",
+    "authorEn": "Chu He",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "心毒系列",
+    "detective": "花崇、柳至秦",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「心毒」系列的完结篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "初禾的读者",
+        "双主角刑侦推理的读者"
+      ],
+      "watchFor": [
+        "两位主角分工的不同",
+        "各案背后的动机"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：初禾著，江苏凤凰文艺出版社 2020（ISBN 978-7-5594-5175-0）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列与主角**：题名与馆藏提要均指向同一组主角（「刑侦支队重案组队长**花崇**」「公安部精英『黑客』**柳至秦**」），故归入同一系列并填 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-006",
+    "title": "心陨",
+    "originalTitle": "",
+    "author": "初禾",
+    "authorEn": "Chu He",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "心毒系列",
+    "detective": "花崇、柳至秦",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「心」系列的一册：两人被调至特别行动队后接手的第一案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "初禾的读者",
+        "双主角刑侦推理的读者"
+      ],
+      "watchFor": [
+        "两位主角分工的不同",
+        "各案背后的动机"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：初禾著，江苏凤凰文艺出版社 2021（ISBN 978-7-5594-5953-4）。**判据**：①**学科主题词为「侦探小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**本册提要**（馆藏 330 字段原文）：说明本册包含《孤花》《无垢》《虐爱》三个单元故事。**梗概说明**：以上为**篇目**，不含情节。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2021；`firstPublished` **留空**。**系列与主角**：题名与馆藏提要均指向同一组主角（「刑侦支队重案组队长**花崇**」「公安部精英『黑客』**柳至秦**」），故归入同一系列并填 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-007",
+    "title": "月光森林",
+    "originalTitle": "",
+    "author": "葵田谷",
+    "authorEn": "Kui Tian Gu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "葵田谷的一册长篇：一片森林里的旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "葵田谷的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "叙述里被略过的那一段",
+        "人物之间的旧关系"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：葵田谷著，北京联合出版公司 2019（ISBN 978-7-5596-3018-6）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2019；`firstPublished` **留空**。**系列归属**：馆藏丛编为空，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-008",
+    "title": "金色麦田",
+    "originalTitle": "",
+    "author": "葵田谷",
+    "authorEn": "Kui Tian Gu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "葵田谷的一册中篇集，各篇独立。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "葵田谷的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "叙述里被略过的那一段",
+        "人物之间的旧关系"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：葵田谷著，北京联合出版公司 2019（ISBN 978-7-5596-3137-4）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 中篇小说 小说集 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2019；`firstPublished` **留空**。**系列归属**：馆藏丛编为空，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-009",
+    "title": "看不见的蔷薇",
+    "originalTitle": "",
+    "author": "葵田谷",
+    "authorEn": "Kui Tian Gu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "葵田谷的一册长篇：一朵看不见的蔷薇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "葵田谷的读者",
+        "国产悬疑推理的读者"
+      ],
+      "watchFor": [
+        "叙述里被略过的那一段",
+        "人物之间的旧关系"
+      ],
+      "warning": "悬疑推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：葵田谷著，江苏凤凰文艺出版社 2020（ISBN 978-7-5594-5067-8）。**判据**：①**学科主题词为「推理小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2020；`firstPublished` **留空**。**系列归属**：馆藏丛编为空，故记「非系列」、`detective` 留空。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-010",
+    "title": "蓝裙子杀人事件",
+    "originalTitle": "",
+    "author": "艾西",
+    "authorEn": "Ai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "psychological-misdirection",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "艾西的一册长篇：一条蓝裙子牵出的杀人案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "艾西的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "心理侧写与物证的相互印证",
+        "人物的处境"
+      ],
+      "warning": "犯罪悬疑小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：艾西著，时代文艺出版社 2012（ISBN 978-7-5387-3988-6）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**同组未收说明**：候选《耳语娃娃》《面具馆》的馆藏责任者作「**艾西恩**」，与库内既有的「艾西」**是否同一人无从确证**，按「不能判断就不加」的口径**本批不收**。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-011",
+    "title": "生死守卫 交锋",
+    "originalTitle": "",
+    "author": "王文杰",
+    "authorEn": "Wang Wenjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "生死守卫系列",
+    "detective": "王守林",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "countryside",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "森林警察的一次搜救，在山里撞上了消失多年的盗猎队。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "王文杰的读者",
+        "森林警察与刑侦题材的读者"
+      ],
+      "watchFor": [
+        "搜查过程中的判断",
+        "人与动物两条线的交织"
+      ],
+      "warning": "刑侦题材推理小说，含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：王文杰著，辽宁人民出版社 2025（ISBN 978-7-205-11486-2）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要使用**：馆藏 330 提要写到了搜救途中遭遇盗猎队，**梗概只取起点**，**不写入侦破过程与结局**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列与主角**：两册题名均含「生死守卫」，**提要写明主角为森林警察「王守林」**，据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-012",
+    "title": "生死守卫 追狍",
+    "originalTitle": "",
+    "author": "王文杰",
+    "authorEn": "Wang Wenjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "生死守卫系列",
+    "detective": "王守林",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "countryside",
+      "series-detective"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「生死守卫」系列的一册：顺着线索继续追下去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "王文杰的读者",
+        "森林警察与刑侦题材的读者"
+      ],
+      "watchFor": [
+        "搜查过程中的判断",
+        "人与动物两条线的交织"
+      ],
+      "warning": "刑侦题材推理小说，含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：王文杰著，辽宁人民出版社 2025（ISBN 978-7-205-11485-5）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**提要处理**：馆藏 330 提要**把结局写了出来**（含主要人物的生死），**本库梗概不引用、不改写、不透露**，只到「继续追查」这一层。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2025；`firstPublished` **留空**。**系列与主角**：两册题名均含「生死守卫」，**提要写明主角为森林警察「王守林」**，据此填 `series` 与 `detective`。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-013",
+    "title": "异闻录 九重图阵",
+    "originalTitle": "",
+    "author": "王文杰",
+    "authorEn": "Wang Wenjie",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "countryside"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "王文杰的一册长篇：一桩与「九重图阵」有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "王文杰的读者",
+        "森林警察与刑侦题材的读者"
+      ],
+      "watchFor": [
+        "搜查过程中的判断",
+        "人与动物两条线的交织"
+      ],
+      "warning": "刑侦题材推理小说，含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：王文杰著，天津人民出版社 2018（ISBN 978-7-201-13541-0）。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2018；`firstPublished` **留空**。**系列归属**：馆藏丛编为空，故记「非系列」。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-014",
+    "title": "刑警手记之异案侦缉组",
+    "originalTitle": "",
+    "author": "风雨如书",
+    "authorEn": "Feng Yu Ru Shu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "刑警手记系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「刑警手记」系列的一册：一个专门办异案的侦缉组。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "风雨如书的读者",
+        "刑警题材推理的读者"
+      ],
+      "watchFor": [
+        "办案组的推演过程",
+        "各案的切口"
+      ],
+      "warning": "刑侦题材推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：风雨如书著，漓江出版社 2012（ISBN 978-7-5407-5996-4）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2012；`firstPublished` **留空**。**系列归属**：与库内既有的《刑警手记之异案现场》同记 `刑警手记系列`。**同组未收说明（两条）**：候选《绣娘怨》（哈尔滨 2018）的馆藏提要写明「本书是知名悬疑小说作家**成刚、夜先生、王雨辰、赖尔**的悬疑小说作品集」——**多作者合集**，馆藏责任者却挂在风雨如书名下，不收；候选《黄金咒》（哈尔滨 2012）的丛编为「诡故事·推理悬疑小说志」，与第 71 轮判定为多作者选集的那一套同系，判据不足，不收。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-015",
+    "title": "破云",
+    "originalTitle": "",
+    "author": "淮上",
+    "authorEn": "Huai Shang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "破云系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「破云」系列的第一册。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "淮上的读者",
+        "刑侦题材小说的读者"
+      ],
+      "watchFor": [
+        "案件与人物关系的推进",
+        "叙述里的双线"
+      ],
+      "warning": "刑侦题材小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：淮上著，广东旅游出版社 2023（ISBN 978-7-5570-2904-3）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2023；`firstPublished` **留空**。**系列归属**：按题名归入「破云」「吞海」两系列（库内已有《破云.Ⅱ》《破云：大结局》，本册是第一册）；《洄天》不在其中，记「非系列」。`detective` 留空（馆藏无提要、题名亦未点出侦探）。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-016",
+    "title": "吞海 大结局",
+    "originalTitle": "",
+    "author": "淮上",
+    "authorEn": "Huai Shang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "吞海系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「吞海」系列的大结局。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "淮上的读者",
+        "刑侦题材小说的读者"
+      ],
+      "watchFor": [
+        "案件与人物关系的推进",
+        "叙述里的双线"
+      ],
+      "warning": "刑侦题材小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：淮上著，广东旅游出版社 2023（ISBN 978-7-5570-3226-5）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2023；`firstPublished` **留空**。**系列归属**：按题名归入「破云」「吞海」两系列（库内已有《破云.Ⅱ》《破云：大结局》，本册是第一册）；《洄天》不在其中，记「非系列」。`detective` 留空（馆藏无提要、题名亦未点出侦探）。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "shlib191-017",
+    "title": "洄天",
+    "originalTitle": "",
+    "author": "淮上",
+    "authorEn": "Huai Shang",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "淮上的一册长篇：一桩沉在水下多年的旧事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "淮上的读者",
+        "刑侦题材小说的读者"
+      ],
+      "watchFor": [
+        "案件与人物关系的推进",
+        "叙述里的双线"
+      ],
+      "warning": "刑侦题材小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；同书异名以「统一／并列题名」字段定案）：淮上著，中信出版集团股份有限公司 2023（ISBN 978-7-5217-6285-3）。**判据**：①**学科主题词为「侦探小说 中国 当代」**；②**中图分类号 `I247.56`**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**。**年份字段说明**：**中文原创**：`editionYear` 记本库所引版本年 2023；`firstPublished` **留空**。**系列归属**：按题名归入「破云」「吞海」两系列（库内已有《破云.Ⅱ》《破云：大结局》，本册是第一册）；《洄天》不在其中，记「非系列」。`detective` 留空（馆藏无提要、题名亦未点出侦探）。"
+    },
+    "provenance": {
+      "source": "batch-191-shlib.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
