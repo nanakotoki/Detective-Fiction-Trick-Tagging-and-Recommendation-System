@@ -19,10 +19,12 @@
   "scripts": {
     "start": "node server/index.mjs",
     "dev": "node --watch server/index.mjs",
-    "check": "node scripts/gen-seed-manifest.mjs && node scripts/check-data.mjs && node scripts/check-exclusions.mjs && node scripts/find-duplicates.mjs --strict",
+    "check": "node scripts/gen-seed-manifest.mjs && node scripts/check-data.mjs && node scripts/check-exclusions.mjs && node scripts/check-not-collected.mjs && node scripts/find-duplicates.mjs --strict",
     "check:data": "node scripts/check-data.mjs",
     "check:strict": "node scripts/check-data.mjs --strict",
     "check:exclusions": "node scripts/check-exclusions.mjs",
+    "check:not-collected": "node scripts/check-not-collected.mjs",
+    "pool:left": "node scripts/pool-left.mjs",
     "check:frontend": "node scripts/check-frontend.mjs",
     "gen:seed": "node scripts/gen-seed-manifest.mjs",
     "coverage": "node scripts/coverage-report.mjs",

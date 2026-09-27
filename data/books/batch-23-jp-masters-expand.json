@@ -321,14 +321,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 121 轮）**：候选《蜘蛛人》（群众出版社 1999，ISBN 7-5014-2027-0；珠海出版社 2001 另有一条，ISBN 7-80607-757-X）与库内本条同作：「人／男」是同一个日文题名「蜘蛛男」的两种译法（本条 `originalTitle` 即 `蜘蛛男`）。§71.3 已判过一次。**属判断**——两册馆藏都没有原作名字段。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2016（蜘蛛男／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-23-jp-masters-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2016"
+    "editionYear": "2016",
+    "alternateTitles": [
+      "蜘蛛人"
+    ]
   },
   {
     "id": "jpmx-005",

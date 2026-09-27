@@ -637,14 +637,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 121 轮）**：候选《奇岩城》（人民文学出版社 2012，ISBN 978-7-02-009296-3，丛编「亚森·罗平探案全集」，馆藏主题词「侦探小说 法国 现代」）与库内本条同作（`L'Aiguille creuse`）：**「奇岩城」是这部作品早期通行的中译名、「空心岩柱」是后来的直译名**。**这是判断而非直证**——该册馆藏没有原作名字段，豆瓣条目页（`subject/24383697`，新世界出版社 2013）也没有。§71.3 已按同作异译判过一次。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 东方出版社 2013（馆藏题名「空心岩柱」／勒布朗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-25-western-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2013"
+    "editionYear": "2013",
+    "alternateTitles": [
+      "奇岩城"
+    ]
   },
   {
     "id": "west3-009",

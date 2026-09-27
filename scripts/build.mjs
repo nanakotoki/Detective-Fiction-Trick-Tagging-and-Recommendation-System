@@ -107,9 +107,15 @@ async function main() {
   console.log(color('  推理小说诡计标签分析与推荐系统 —— 构建检查', C.bold));
   console.log(color('  ────────────────────────────────────────────', C.dim));
 
-  // 1. 六道质量门禁
+  // 1. 七道质量门禁
   const dataCheck = runStep('知识库反剧透体检', path.join(__dirname, 'check-data.mjs'));
   const exclusions = runStep('口径排除项回归（纯恐怖／纯间谍不收）', path.join(__dirname, 'check-exclusions.mjs'));
+  /**
+   * 第 121 轮新增：`data/not-collected.json`（已分诊但不另立条目的候选）的反向把关——
+   * 台账里判过「不收／待核」的题名，一旦哪一轮又被收进库，这里就会失败。
+   * §116 的《帕诺拉马岛绮谭》正是这样被当成新书收进去的，靠这道门禁兜住。
+   */
+  const notCollected = runStep('已分诊候选 · 不收／待核不回流', path.join(__dirname, 'check-not-collected.mjs'));
   const tests = runStep('核心逻辑单元测试', path.join(__dirname, 'run-tests.mjs'));
   const frontend = runStep('前端模块图与语法检查', path.join(__dirname, 'check-frontend.mjs'));
   const views = runStep('视图层回归测试（真实执行前端视图）', path.join(__dirname, 'test-views.mjs'));
@@ -201,7 +207,7 @@ async function main() {
   console.log('  ② 带后端：node server/index.mjs  （推荐，作品可持久化共享）');
   console.log('');
 
-  if (!dataCheck.ok || !exclusions.ok || !tests.ok || !frontend.ok || !views.ok || !serverTest.ok) {
+  if (!dataCheck.ok || !exclusions.ok || !notCollected.ok || !tests.ok || !frontend.ok || !views.ok || !serverTest.ok) {
     console.log(color('  ✗ 构建检查未通过，请先修复上述问题', C.red + C.bold));
     console.log('');
     process.exit(1);
