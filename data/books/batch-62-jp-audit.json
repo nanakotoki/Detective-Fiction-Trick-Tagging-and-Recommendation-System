@@ -579,14 +579,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 122 轮）**：候选《东京空港杀人案》（群众出版社 1999，ISBN 7-5014-2047-5，丛编「日本推理小说文库」，358 页，叶荣鼎译）与库内本条同作：本条原作名即 `東京空港殺人事件`，两条**只差「案／事件」两字**（§116 的「只差一个字」同类）。本库按所引版本收一条，故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：成都 四川文艺出版社 2020（馆藏题名「东京空港杀人事件」／森村诚一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-62-jp-audit.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2020"
+    "editionYear": "2020",
+    "alternateTitles": [
+      "东京空港杀人案"
+    ]
   },
   {
     "id": "jpaudit62-008",

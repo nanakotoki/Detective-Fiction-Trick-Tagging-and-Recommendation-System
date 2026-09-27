@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-27T16:17:52.404Z",
+  "generatedAt": "2026-09-27T16:32:52.347Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2985,
-    "dataFiles": 206,
+    "books": 3004,
+    "dataFiles": 207,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2985,
-    "withPlatformRating": 2305
+    "withSafeSummary": 3004,
+    "withPlatformRating": 2314
   },
   "tagDistribution": [
     {
@@ -24,7 +24,7 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 280
+          "books": 281
         },
         {
           "id": "alibi",
@@ -54,7 +54,7 @@
         {
           "id": "closed-circle",
           "label": "暴风雪山庄",
-          "books": 238
+          "books": 239
         },
         {
           "id": "multiple-solutions",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 528
+          "books": 530
         },
         {
           "id": "diary-form",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 883
+          "books": 891
         },
         {
           "id": "snowfield",
@@ -215,7 +215,7 @@
         {
           "id": "revenge",
           "label": "复仇",
-          "books": 122
+          "books": 123
         },
         {
           "id": "gain",
@@ -225,7 +225,7 @@
         {
           "id": "passion",
           "label": "情杀",
-          "books": 64
+          "books": 65
         },
         {
           "id": "silencing",
@@ -245,12 +245,12 @@
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 379
+          "books": 380
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1539
+          "books": 1548
         },
         {
           "id": "fear",
@@ -277,17 +277,17 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 308
+          "books": 311
         },
         {
           "id": "hardboiled",
           "label": "硬汉风",
-          "books": 55
+          "books": 61
         },
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 526
+          "books": 527
         },
         {
           "id": "cozy",
@@ -344,22 +344,22 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1007
+          "books": 1008
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1765
+          "books": 1768
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 532
+          "books": 540
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 648
+          "books": 650
         },
         {
           "id": "legal-thriller",
@@ -374,12 +374,12 @@
         {
           "id": "hardboiled-school",
           "label": "硬汉派",
-          "books": 124
+          "books": 130
         },
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 711
+          "books": 717
         },
         {
           "id": "spy-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2985
+    "checkedBooks": 3004
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

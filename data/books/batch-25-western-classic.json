@@ -1139,12 +1139,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 122 轮）**：候选《螺旋楼梯》（群众出版社 2005，ISBN 7-5014-3409-3，丛编「世界侦探推理名著精选」，262 页，宋文译）与库内本条同作（`The Circular Staircase`）：「螺旋／旋转」是 *Circular* 的两种译法，豆瓣同书重庆出版社 2010 版条目页（`subject/4903186`）原作名亦作 `The Circular Staircase`；馆藏该册 `330` 提要写它「是侦探小说史上一部悬念小说……自她以后，悬念小说始成一派」，与本条同一部作品。故不另立条目。"
     },
     "provenance": {
       "source": "batch-25-western-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "螺旋楼梯"
+    ]
   },
   {
     "id": "west3-015",

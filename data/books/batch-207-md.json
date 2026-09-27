@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "md207-001",
+    "title": "新东方快车谋杀案",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "森村诚一长篇之一：以一趟列车上的命案为题，案子从车厢里的乘客关系查起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 119,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2025726/",
+        "subjectId": "2025726",
+        "edition": "新东方快车谋杀案 2000",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "车上各人的座位与行程",
+        "死者与乘客的关系"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：森村诚一著，群众出版社 2000，ISBN 7-5014-2283-4，265 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2025726/`（2026-09 抓取，评分 **6.6**、119 人评价），版本信息与馆藏著录一致。（豆瓣该条记出版年为 1988，与馆藏著录的 2000 年版不符；但**丛书（日本推理小说文库）、译者（王路芳）、页数（265）三项与馆藏逐一相同**，判为同一版次，年份差异系豆瓣著录问题。）"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-002",
+    "title": "残照",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：以「残照」为题的一桩案子，走的是他惯常的硬汉路线。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "主角查案的每一步代价",
+        "对手的来路"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2290-7，268 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-003",
+    "title": "秋霜",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：以「秋霜」为题的一桩案子，硬汉派的写法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "主角被卷进来的方式",
+        "各方的利害"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2243-5，269 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-004",
+    "title": "碑铭",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：一块「碑铭」牵出的旧事，硬汉派的写法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "碑上刻的是谁",
+        "旧事与眼下这桩案子的关系"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2242-7，245 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-005",
+    "title": "再见吧!荒野",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：一个人要从自己待惯了的地方抽身，而旧账不肯放过他。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1644108/",
+        "subjectId": "1644108",
+        "edition": "再见吧!荒野 2000",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "他为什么要走",
+        "跟上来的都是谁"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2241-9，307 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/1644108/`（2026-09 抓取，评分 **6.4**、13 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-006",
+    "title": "鸟影",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：以「鸟影」为题的一桩案子，硬汉派的写法。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "「鸟影」指的是什么",
+        "主角与各方的周旋"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2225-7，268 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-007",
+    "title": "默约",
+    "originalTitle": "",
+    "author": "北方谦三",
+    "authorEn": "Kenzo Kitakata",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "北方谦三长篇之一：几个人之间有一样说好了不说的东西，而它开始失效。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "北方谦三的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "谁先破了那个约",
+        "各人守约的代价"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：北方谦三著，群众出版社 2000，ISBN 7-5014-2224-9，287 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：北方谦三**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-008",
+    "title": "无面之神",
+    "originalTitle": "",
+    "author": "井泽元彦",
+    "authorEn": "Motohiko Izawa",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "井泽元彦长篇之一：一桩与「没有面孔的神」有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "井泽元彦的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "「无面」在书里指的是什么",
+        "调查一步步扩大的范围"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：井泽元彦著，群众出版社 2000，ISBN 7-5014-2233-8，304 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：井泽元彦**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：豆瓣有同书 **2023 年重庆出版社新版**（`subject/36077493`，7.7、63 人），但**所引版本是群众 2000 年版**——按「评分必须与所引版本同一条」的口径**不采用**，本册记「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-009",
+    "title": "大海獠牙",
+    "originalTitle": "",
+    "author": "水上勉",
+    "authorEn": "Tsutomu Minakami",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "1999",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "水上勉长篇之一：一桩发生在海边、与当地人营生纠缠在一起的案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 203,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2027698/",
+        "subjectId": "2027698",
+        "edition": "大海獠牙 1999",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "水上勉的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "当地人的说法为什么对不上",
+        "「獠牙」指的是谁"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：水上勉著，群众出版社 1999，ISBN 7-5014-1890-X，232 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1999。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2027698/`（2026-09 抓取，评分 **6.9**、203 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-010",
+    "title": "四万人的目击者",
+    "originalTitle": "",
+    "author": "有马赖义",
+    "authorEn": "Yoriyoshi Arima",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "1999",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "ensemble"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "有马赖义长篇之一：一起在众目睽睽之下发生的案子——「四万人的目击者」，却没有人说得清看见了什么。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6。",
+        "score": 6,
+        "count": 234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2027696/",
+        "subjectId": "2027696",
+        "edition": "四万人的目击者 1999",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "有马赖义的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "四万人各自看到的那一点",
+        "证词之间为什么拼不起来"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：有马赖义著，群众出版社 1999，ISBN 7-5014-1891-8，279 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：有马赖义**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1999。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2027696/`（2026-09 抓取，评分 **6**、234 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-011",
+    "title": "幸福的早餐",
+    "originalTitle": "",
+    "author": "乃南朝",
+    "authorEn": "Asa Nonami",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1998",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "乃南朝长篇之一：一桩从日常里长出来的案子（「幸福的早餐」是它的题眼）。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乃南朝的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "看似正常的关系里哪一处不对",
+        "各人的处境与动机"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：乃南朝著，群众出版社 1998，ISBN 7-5014-1683-4，270 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：乃南朝**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1998。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-012",
+    "title": "6月19日的新娘",
+    "originalTitle": "",
+    "author": "乃南朝",
+    "authorEn": "Asa Nonami",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1998",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "乃南朝长篇之一：一个女人从失忆中醒来，只记得 6 月 19 日有一个婚礼；她要先弄清自己是谁。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乃南朝的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "她记得的那一天",
+        "身边每个人对她的说法"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：乃南朝著，群众出版社 1998，ISBN 7-5014-1689-3，305 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：乃南朝**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1998。**评分来源**：豆瓣有同书的**上海译文版**（`subject/1061936`，251 页，译者艾菁，6.7、43 人），而本库所引是**群众 1998 年版**（305 页）——按「评分必须与所引版本同一条」的口径**不采用**，本册记「暂无数据」（该版评分在此注明，供读者核对）。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-013",
+    "title": "复仇的牙",
+    "originalTitle": "",
+    "author": "乃南朝",
+    "authorEn": "Asa Nonami",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1998",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "乃南朝长篇之一：以「复仇」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "乃南朝的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "复仇者的目标顺序",
+        "被复仇的人当年做了什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：乃南朝著，群众出版社 1998，ISBN 7-5014-1688-5，382 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：乃南朝**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1998。**评分来源**：豆瓣按题名检索**没有本册的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-014",
+    "title": "绝命情缘",
+    "originalTitle": "霧の鬼畜",
+    "author": "笹泽左保",
+    "authorEn": "Saho Sasazawa",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "1996",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "passion"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "笹泽左保长篇之一：一段关系走到绝处，案子从那里开始。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.7。",
+        "score": 5.7,
+        "count": 57,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2027749/",
+        "subjectId": "2027749",
+        "edition": "绝命情缘 1996",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "笹泽左保的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "两个人的关系是怎么走到这一步的",
+        "旁人各自知道多少"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：笹泽左保著，群众出版社 1996，ISBN 7-5014-1241-3，267 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `霧の鬼畜`，故 `originalTitle` 记此值。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 1996。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2027749/`（2026-09 抓取，评分 **5.7**、57 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-015",
+    "title": "V的悲剧",
+    "originalTitle": "",
+    "author": "阿刀田高",
+    "authorEn": "Takashi Atoda",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "日本推理小说文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "阿刀田高长篇之一：以一个字母 V 为题的案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 97,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1719361/",
+        "subjectId": "1719361",
+        "edition": "V的悲剧 2000",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "阿刀田高的读者",
+        "日本推理小说文库的读者"
+      ],
+      "watchFor": [
+        "「V」指的是什么",
+        "叙述里哪一处对不上"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 日本推理小说文库` 发现，见 §122）：阿刀田高著，群众出版社 2000，ISBN 7-5014-2230-3，277 页，丛编「**日本推理小说文库**」。**判据**：①**学科主题词为「长篇小说 推理小说 日本 现代」**（第①类，最硬）；②**中图分类号 `I313.45`**；③**丛编为推理专门书系**。**补作者缺口**：阿刀田高**库内原本一部都没有**，本批一次补入。**原作名**：馆藏**没有原作名字段**，`originalTitle` 留空（不做推测）。**体裁说明**：馆藏主题词只到「推理小说 日本 现代」这一层，`genre` 与 `school` 按作者一贯的写作路线标注（这一点如实写明，未把推断写成馆藏判据）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` **留空**（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2000。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/1719361/`（2026-09 抓取，评分 **6.5**、97 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-016",
+    "title": "租住在楼上的绅士",
+    "originalTitle": "",
+    "author": "朗蒂丝",
+    "authorEn": "Marie Belloc Lowndes",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "世界侦探推理名著精选",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "房东夫妇把楼上整层租给了一位出手爽快、白天在家读经、只在深夜或浓雾时出门的绅士；而城里那桩被称作「复仇者」的连环凶案，恰恰总在他出门之后又多一个被害人。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 78,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1488289/",
+        "subjectId": "1488289",
+        "edition": "租住在楼上的绅士 2006",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "朗蒂丝的读者",
+        "世界侦探推理名著精选的读者"
+      ],
+      "watchFor": [
+        "绅士出门的时机",
+        "房东夫妇各自注意到了什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 世界侦探推理名著精选` 发现，见 §122）：朗蒂丝著，群众出版社 2006，ISBN 7-5014-3565-0，193 页，丛编「世界侦探推理名著精选」。**判据**：①**学科主题词为「侦探小说 英国 现代 ; 长篇小说 英国 现代」**（第①类，最硬）；②**中图分类号 `I561.44`**；③丛编为侦探小说专门书系。**补作者缺口**：朗蒂丝（Marie Belloc Lowndes）**库内原本一部都没有**。**梗概来源（馆藏 `330` 提要）**：「班丁夫妇空房闲置已久……来了一位绅士。租下了班丁夫妇楼上的全部房间，租金给得爽快……绅士白天在家捧读《圣经》，偶尔会在深夜或浓雾时候出门。每次出门之后，都恰逢『复仇者』凶案发生。」——梗概**只写到这个前提**，提要后面关于凶案与房客关系的内容一律不入库。**年份字段说明**：`firstPublished` 留空；`editionYear` 记 2006。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/1488289/`（2026-09 抓取，评分 **6.5**、78 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-017",
+    "title": "背后一枪",
+    "originalTitle": "",
+    "author": "列昂诺夫",
+    "authorEn": "Leonov",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "世界侦探推理名著精选",
+    "detective": "",
+    "country": "俄罗斯",
+    "tags": [
+      "concealment",
+      "police-procedural"
+    ],
+    "school": [
+      "police-procedural"
+    ],
+    "safeSummary": "俄罗斯侦探小说：本册收两个中篇——一名男子在自家住宅里被人从背后开枪打死，现场像是分毫未动；另一篇里，骑师的尸体在马厩被发现，线索最后落在一匹赛马的蹄子上。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "列昂诺夫的读者",
+        "世界侦探推理名著精选的读者"
+      ],
+      "watchFor": [
+        "现场「什么都没动过」这一点",
+        "马厩与赛马场两边的人"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 世界侦探推理名著精选` 发现，见 §122）：列昂诺夫著，群众出版社 2005，ISBN 7-5014-3423-9，544 页，丛编「世界侦探推理名著精选」。**判据**：①**学科主题词为「长篇小说 侦探小说 俄罗斯 现代」**（第①类，最硬）；②**中图分类号 `I512.45`**；③丛编为侦探小说专门书系。**补作者缺口**：列昂诺夫**库内原本一部都没有**（库内俄罗斯作品仅 2 部）。**梗概来源（馆藏 `330` 提要）**：「本书包括两个中篇小说：《背后一枪》和《跑马场》。韦特罗夫是在自己的住宅里被射入后背的子弹打死的……住宅内似乎一切都原封未动；有人在单间马厩里找到了骑师洛吉诺夫的尸体……随后在一匹赛马的蹄子上发现了线索。」——梗概写到两个中篇的**谜面**为止，提要末句的真相不入库。**版本说明**：馆藏另有同书 **2001 年单篇版**（ISBN 7-5014-2549-3，249 页，丛编「当代俄罗斯著名侦探小说系列」）；本库按所引的 **2005 年两篇合卷本**收录。**年份字段说明**：`firstPublished` 留空；`editionYear` 记 2005。**评分来源**：豆瓣按题名命中的是**同书的 2011 年单篇版**（`subject/1090533`，群众出版社，243 页，另一译者）——与本库所引的 **2005 年两篇合卷本**（544 页）**不是同一版次**，按口径不采用，本册记「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-018",
+    "title": "希望你是人类",
+    "originalTitle": "",
+    "author": "雷钧",
+    "authorEn": "Lei Jun",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "黑猫文库",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "一种原因不明的怪病从偏僻村庄蔓延开来：被咬到的人也会发病。幸存者筑起沟垒抵挡外面，而堡垒内部接连出了案子——医生艾德华要同时弄清两件事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 1015,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35292719/",
+        "subjectId": "35292719",
+        "edition": "希望你是人类 2022",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷钧的读者",
+        "黑猫文库的读者"
+      ],
+      "watchFor": [
+        "感染扩散的路线",
+        "堡垒里各人的来历",
+        "「僵尸」这个说法是谁先提出来的"
+      ],
+      "warning": "本格推理长篇，含丧尸／感染暴发、撕咬与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 黑猫文库` 发现，见 §122）：雷钧著，人民文学出版社 2022，ISBN 978-7-02-016815-6，341 页，丛编「黑猫文库」。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.56`**；③丛编为推理专门书系。**题材说明**：本书含**丧尸／感染暴发**元素，题材上靠近恐怖；但馆藏判据（主题词「推理小说」＋中图法 I247.56）与出版方自述（「本格推理」，作者雷钧为岛田庄司推理小说奖得主）都指向推理，**且它不属于 data/exclusions.json 所列的「纯恐怖」情形**，故按推理收录，并在 `warning` 里如实写明含丧尸与感染描写。**梗概来源（馆藏 `330` 提要）**：提要写了怪病从偏僻村庄蔓延、感染者攻击他人、幸存者筑起沟垒、**堡垒内部也逐渐出现案件**——梗概**只写到这两条线并存**为止，不写任何一桩案子的结果。**标签说明**：只取可由提要直接读出的两条（`closed-circle` 封闭空间、`ensemble` 群像），**不据出版方文案加诡计类标签**（§105 的口径）。**年份字段说明**：`firstPublished` 留空（中文原创，馆藏未著录更早版本）；`editionYear` 记 2022。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35292719/`（2026-09 抓取，评分 **7.3**、1015 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md207-019",
+    "title": "密室小丑",
+    "originalTitle": "Joker in the locked room",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "黑猫文库",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "缉毒刑警盯梢的毒贩被人刺死在密室里；另一名毒贩死在贴满胶带的密室中；被关押在警局的毒枭身上突然起火——几桩案子各自上着锁。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6。",
+        "score": 6,
+        "count": 675,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/34822424/",
+        "subjectId": "34822424",
+        "edition": "密室小丑 2020",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "时晨的读者",
+        "黑猫文库的读者"
+      ],
+      "watchFor": [
+        "每处密室的「锁」是怎么成立的",
+        "几桩案子之间的共同点"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 黑猫文库` 发现，见 §122）：时晨著，人民文学出版社 2020，ISBN 978-7-02-015704-4，222 页，丛编「黑猫文库」。**判据**：①**学科主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）；②**中图分类号 `I247.56`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `Joker in the locked room`，故 `originalTitle` 记此值——**馆藏字段本身就写了「locked room」**，`locked-room` 标签据此而来（不是从书名推的）。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名与作者的一贯路线整理；**不引用出版方文案里的诡计清单**（§105 的口径）。**年份字段说明**：`firstPublished` 留空（中文原创，馆藏未著录更早版本）；`editionYear` 记 2020。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/34822424/`（2026-09 抓取，评分 **6**、675 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-207-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -35,6 +35,8 @@ const POOL = opt('--file', '_dd/shlib-new.tsv');
 const TOP = Number(opt('--top', '20'));
 const ONLY = opt('--author', '');
 const JSON_OUT = opt('--json', '');
+/** `--mystery`：只保留**硬判据**行（主题词含「推理」或「侦探」）——按丛编扫来的行里混着非推理书 */ 
+const MYSTERY = argv.includes('--mystery');
 
 if (!existsSync(POOL)) {
   console.error(`✗ 找不到候选池文件 ${POOL}（由 scripts/shlib-author-scan.mjs 生成）`);
@@ -68,16 +70,20 @@ const rows = readFileSync(POOL, 'utf8')
   .split(/\r?\n/)
   .filter(Boolean)
   .slice(1)
-  .map((l) => l.split('\t'));
+  .map((l) => l.split('\t'))
+  // 断点续跑的标记行要跳过（`shlib-author-scan` / `shlib-series-scan` 都会写 `__DONE__` 行）
+  .filter((c) => c[1] !== '__DONE__');
 
 const left = [];
-const dropped = { db: 0, excluded: 0, notCollected: 0 };
+const dropped = { db: 0, excluded: 0, notCollected: 0, notMystery: 0 };
 for (const c of rows) {
   const key = normText(c[1]);
   if (!key) continue;
   if (inDb.has(key)) { dropped.db += 1; continue; }
   if (excluded.has(key)) { dropped.excluded += 1; continue; }
   if (notCollected.has(key)) { dropped.notCollected += 1; continue; }
+  // 主题词是第 7 列；两个池（作者池／丛编池）在这一列上一致
+  if (MYSTERY && !/推理|侦探/.test(c[6] || '')) { dropped.notMystery += 1; continue; }
   left.push(c);
 }
 
@@ -90,7 +96,7 @@ const groups = [...byAuthor.entries()].sort((a, b) => b[1].length - a[1].length)
 
 console.log('');
 console.log(`  候选池 ${POOL}：${rows.length} 行`);
-console.log(`  已扣：库内题名／别名 ${dropped.db} 行 ｜ 口径排除项 ${dropped.excluded} 行 ｜ 已判不另立条目 ${dropped.notCollected} 行`);
+console.log(`  已扣：库内题名／别名 ${dropped.db} 行 ｜ 口径排除项 ${dropped.excluded} 行 ｜ 已判不另立条目 ${dropped.notCollected} 行${MYSTERY ? ` ｜ 非推理主题词 ${dropped.notMystery} 行` : ''}`);
 console.log(`  ────────────────────────────────────────────`);
 console.log(`  尚余 ${left.length} 条 / ${groups.length} 位作者`);
 console.log('');

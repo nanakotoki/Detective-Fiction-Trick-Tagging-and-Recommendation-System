@@ -208,6 +208,32 @@ export async function searchAuthorPage(name, { page = 1 } = {}) {
 }
 
 /**
+ * 按**丛编**检索一页（第 122 轮新开的渠道）。
+ *
+ * 为什么需要它：候选池是按**作者**枚举出来的（`type=Author`，§59），到第 121 轮已经见底
+ * （尚余 240 条、最大一组只有 4 条）。而出版丛书是另一条正交的轴——
+ * 「午夜文库」「日本推理小说文库」「大唐狄公案」这类**推理专门丛书**的卷次是有限集合，
+ * 逐卷对库就能看出缺口，而且**不限于库里已有的作者**。
+ *
+ * 探针结论（§122.1，`_dd/_probe-series122.mjs`）：
+ *   · `type=Series` **可用**（「午夜文库」命中 1120 条）；
+ *   · `type=Title` 拿丛编名当题名查 → 0 条（丛编不在题名索引里）；
+ *   · `filter[]=series:"…"` 同样可用（1119 条），与前者等价；
+ *   · `type=adv` / `type=AllFields` / `type=CallNumber` 都返回 0（不支持）。
+ */
+export async function searchSeriesPage(name, { page = 1 } = {}) {
+  const qs = [
+    `lookfor=${encodeURIComponent(name)}`,
+    'type=Series',
+    `limit=${PAGE_SIZE}`,
+    `page=${page}`,
+    ...FIELDS.map((f) => `field[]=${encodeURIComponent(f)}`),
+  ].join('&');
+  const j = await apiJSON(`/api/v1/search?${qs}`);
+  return { count: j.resultCount ?? 0, records: (j.records || []).map(normalizeRecord) };
+}
+
+/**
  * 枚举某位作者的全部作品（自动翻页）。
  * @param {string} name
  * @param {{max?:number, delay?:number, onPage?:(info:object)=>void}} opts
@@ -218,6 +244,27 @@ export async function scanAuthor(name, { max = 200, delay = 600, onPage } = {}) 
   for (let page = 1; out.length < max; page += 1) {
     if (page > 1) await sleep(delay);
     const r = await searchAuthorPage(name, { page });
+    if (page === 1) count = r.count;
+    if (!r.records.length) break;
+    out.push(...r.records);
+    onPage?.({ page, got: r.records.length, total: out.length, count });
+    if (r.records.length < PAGE_SIZE) break;
+    if (page * PAGE_SIZE >= count) break;
+  }
+  return { name, count, records: out.slice(0, max) };
+}
+
+/**
+ * 枚举某个丛编的全部馆藏（自动翻页）。与 `scanAuthor` 同一套分页与节流规则。
+ * @param {string} name 丛编名（可以只写主干，「午夜文库」会连「午夜文库. 原创系列」一起命中）
+ * @param {{max?:number, delay?:number, onPage?:(info:object)=>void}} opts
+ */
+export async function scanSeries(name, { max = 200, delay = 600, onPage } = {}) {
+  const out = [];
+  let count = 0;
+  for (let page = 1; out.length < max; page += 1) {
+    if (page > 1) await sleep(delay);
+    const r = await searchSeriesPage(name, { page });
     if (page === 1) count = r.count;
     if (!r.records.length) break;
     out.push(...r.records);

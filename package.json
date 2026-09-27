@@ -97,6 +97,7 @@
     "opac:authors:scan": "node scripts/opac-author-scan.mjs",
     "ctbu:scan": "node scripts/ctbu-keyword-scan.mjs",
     "shlib:scan": "node scripts/shlib-author-scan.mjs",
+    "shlib:series": "node scripts/shlib-series-scan.mjs",
     "shlib:diff": "node scripts/shlib-diff.mjs",
     "shlib:triage": "node scripts/shlib-triage.mjs",
     "shlib:blurb": "node scripts/shlib-blurb.mjs",
