@@ -48,6 +48,13 @@ const out = spec.books.map((b, n) => {
     ...(b.authors?.length ? { authors: b.authors } : {}),
     // 同一部作品的其他中译名（同书异名核查的产物，必须落库，否则日后又会当成新书收一遍）
     ...(b.alternateTitles?.length ? { alternateTitles: b.alternateTitles } : {}),
+    /**
+     * 多人合集标记（第 120 轮补）。此前 43 条 `anthology` 是**事后**用一次性脚本
+     * （`scripts/_mark-anthology.mjs`）打上去的，生成器不认这个字段——
+     * 于是每收一册年选／选集都得再补一次。现在 spec 里写 `anthology: true` 即可。
+     * `check-data` 会校验它是布尔值，且要求「标了合集必须有作者标签」。
+     */
+    ...(b.anthology ? { anthology: true } : {}),
     authorEn: b.authorEn,
     genre: b.genre,
     firstPublished: b.firstPublished || '',

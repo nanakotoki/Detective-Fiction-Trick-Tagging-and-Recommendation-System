@@ -1,0 +1,968 @@
+[
+  {
+    "id": "md206-001",
+    "title": "魔力",
+    "originalTitle": "",
+    "author": "程小青",
+    "authorEn": "Cheng Xiaoqing",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "1933",
+    "series": "霍桑探案汇刊",
+    "detective": "霍桑、包朗",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "「霍桑探案汇刊」之一册：以「魔力」为线索的一桩案子，霍桑与记录者包朗一同查访。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说的读者",
+        "程小青的读者"
+      ],
+      "watchFor": [
+        "案子里被称作「魔力」的那个东西",
+        "霍桑与包朗的分工"
+      ],
+      "warning": "民国时期的侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：程小青著，文华美术图书公司（上海）1933 年印行，145 页，丛编「**霍桑探案汇刊**」，**主题词「侦探小说 中国 现代」**，中图法 `I246.56`（民国旧籍，馆藏未著录 ISBN）。**判据**：①学科主题词「侦探小说 中国 现代」；②**1933 年民国原刊本**（本库已收的民国霍桑册子多为世界书局 1940 年代「霍桑探案袖珍丛刊」，本册属**另一个丛编**）；③丛编标明系霍桑探案专刊。**同书异名核查**：本册馆藏**没有原作名字段**，豆瓣按「魔力 程小青」检索亦无条目；与库内 19 部程小青条目（含《霍桑探案集（一）（二）》《血匕首》《夜半呼声》等）的题名逐一比对，**没有同题者**。**梗概说明**：馆藏 CNMARC **未提供本册提要**，梗概据题名整理，**不含具体情节**；也正因无提要，**不加任何诡计类标签**。**年份字段**：`firstPublished` 留空——霍桑探案多篇最早发表于更早的刊物，**本册并非必然是该篇的首次发表**，故不填；`editionYear` 记 1933。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-002",
+    "title": "弹之线路",
+    "originalTitle": "",
+    "author": "程小青",
+    "authorEn": "Cheng Xiaoqing",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "1933",
+    "series": "霍桑探案汇刊",
+    "detective": "霍桑、包朗",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "city",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "「霍桑探案汇刊」之一册：书名里的「弹之线路」是本案的关键词，霍桑与包朗一同查访。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "民国侦探小说的读者",
+        "程小青的读者"
+      ],
+      "watchFor": [
+        "「线路」二字在案子里指的是什么",
+        "当年上海的市井细节"
+      ],
+      "warning": "民国时期的侦探小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：程小青著，文华美术图书公司（上海）民国二十二年三月（1933.3）出版兼印行，**2 版**，148 页，丛编「**霍桑探案汇刊**」，**主题词「侦探小说 中国 现代」**，中图法 `I246.56`（民国旧籍，馆藏未著录 ISBN）。**判据**：①学科主题词「侦探小说 中国 现代」；②1933 年民国原刊本（与《魔力》同属「霍桑探案汇刊」）；③丛编标明系霍桑探案专刊。**同书异名核查**：馆藏无原作名字段，豆瓣无条目；与库内 19 部程小青条目题名逐一比对，**没有同题者**。**梗概说明**：馆藏未提供提要，梗概据题名整理，**不含具体情节**；不加诡计类标签。**年份字段**：`firstPublished` 留空（同《魔力》的理由）；`editionYear` 记 1933（馆藏著录的 2 版年）。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-003",
+    "title": "黑影地带",
+    "originalTitle": "",
+    "author": "松本清张",
+    "alternateTitles": [
+      "湖畔阴影"
+    ],
+    "authorEn": "Matsumoto Seicho",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一名年轻摄影师在飞机上遇到一位陌生女子，对方几次递来写着警告的字条。他想弄清这是怎么回事，却一步一步被卷进更大的事情里。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 100,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1429835/",
+        "subjectId": "1429835",
+        "edition": "黑影地带 2005",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "松本清张的读者"
+      ],
+      "watchFor": [
+        "那位女子反复警告的是什么",
+        "照片与底片里留下的东西",
+        "调查范围是怎么一步步扩大的"
+      ],
+      "warning": "社会派长篇，含命案与跟踪、威胁情节。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：松本清张著，四川文艺出版社 2005，ISBN 7-5411-2362-5，329 页，译者叶荣鼎，**主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.456`。**同书异名核查（本批最要紧的一条）**：池内同时有《湖畔阴影》（山东文艺 1986，译者曹大峰／金中）一条——豆瓣「同一作品的不同版本」页 `works/1013943` 把**两册列在同一作品下**（另有上海三联 2019、新雨《影之地帶》2007／2015／2022、日文原版《影の地帯》新潮社 1972），故**只收一册**，并把「湖畔阴影」登记进 `alternateTitles`，避免下一轮把它当新书再报一次。**原作名说明**：本条馆藏**没有原作名字段**；豆瓣 2019 年上海三联版的条目页（`subject/30482939`）原作名作 `影の地帯`。按「原作名只用来判重、落库仍以馆藏为准」的口径，`originalTitle` **留空**，此处注明备查。**梗概来源**：豆瓣条目页（2019 年三联版）的出版方文案给出「摄影师不断追寻、最终卷入神秘事件」的谜面，梗概**只写到谜面与人物处境**，不写结局。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/1429835/`（2026-09 抓取，评分 **6.9**、100 人评价）：该页版本信息（四川文艺出版社 2005-5，329 页，译者叶荣鼎）与馆藏著录一致（**同一条**）。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2005。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-004",
+    "title": "2011年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2012",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2011 年华语原创侦探推理类中短篇的年度精选；所收篇目包括《雨夜推理》《犯罪时间，请勿打扰》《虎皮鹦鹉破奇案》《三颗金纽扣》等。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.5。",
+        "score": 5.5,
+        "count": 21,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/10354480/",
+        "subjectId": "10354480",
+        "edition": "2011年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2012，ISBN 978-7-5354-5571-0，464 页，**主题词「侦探小说 小说集 中国 2011」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：豆瓣条目页的内容简介列出本册所收篇目：《雨夜推理》《犯罪时间，请勿打扰》《虎皮鹦鹉破奇案》《三颗金纽扣》《福星号》《风铃馆杀人事件》《雾锁四面山》《绝命线人》《我杀了我》《欲擒故纵》《愤怒的普罗米修斯》《心灵追捕》《凶手不在现场》《长州官银案》《别墅里的枪声》等。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2012（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/10354480/`（2026-09 抓取，评分 **5.5**、21 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-005",
+    "title": "2012年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2013",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2012 年华语原创侦探推理类中短篇的年度精选；馆藏提要列出《墙中的女人》《噬魂之城》《魅影凶室》《元青花窃案》《致命鬼火》《殊途同行》等篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 4.8。",
+        "score": 4.8,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/20505970/",
+        "subjectId": "20505970",
+        "edition": "2012年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2013，ISBN 978-7-5354-6238-1，439 页，**主题词「侦探小说 小说集 中国 2012」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：馆藏 `330` 提要列出本册所收篇目：「墙中的女人，噬魂之城，魅影凶室，元青花窃案，致命鬼火，殊途同行，鬼影迷踪，亡灵猩猩，13 楼的姐姐，猎猫者等」；馆藏丛编作「2012 年选系列丛书」。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2013（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/20505970/`（2026-09 抓取，评分 **4.8**、24 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-006",
+    "title": "2013年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2014",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2013 年华语原创侦探推理类中短篇的年度精选；馆藏提要列出《死亡玉钩》《婆媳案》《二次谋杀》《遗忘》《如果你是凶手》等篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/25817792/",
+        "subjectId": "25817792",
+        "edition": "2013年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2014，ISBN 978-7-5354-7106-2，457 页，**主题词「侦探小说 小说集 中国 2013」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：馆藏 `330` 提要列出本册所收篇目：「《死亡玉钩》、《婆媳案》、《二次谋杀》、《遗忘》、《如果你是凶手》等」；馆藏主题词另有「中篇小说 小说集 中国 2013」。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2014（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/25817792/`（2026-09 抓取，评分 **7**、13 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-007",
+    "title": "2014年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2015",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2014 年华语原创侦探推理类中短篇的年度精选：时间跨度从 2013 年 11 月到 2014 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《推理志》等。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/26298298/",
+        "subjectId": "26298298",
+        "edition": "2014年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2015，ISBN 978-7-5354-7766-8，446 页，**主题词「侦探小说 小说集 中国 当代」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：豆瓣条目页写明选稿口径：「对 2014 年中国（包含港澳台地区）各大期刊或媒体上公开发表的原创侦探推理类小说的年度精选，时间跨度从 2013 年 11 月到 2014 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《推理志》《中国故事》《上海故事》等」；馆藏丛编作「2014 年选系列丛书」。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2015（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/26298298/`（2026-09 抓取，评分 **6.8**、24 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-008",
+    "title": "2015年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2016",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2015 年华语原创侦探推理类中短篇的年度精选：时间跨度从 2014 年 11 月到 2015 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《最推理》等。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6。",
+        "score": 6,
+        "count": 29,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/26694444/",
+        "subjectId": "26694444",
+        "edition": "2015年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2016，ISBN 978-7-5354-8508-3，447 页，**主题词「侦探小说 小说集 中国 2015」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：豆瓣条目页写明选稿口径：「时间跨度从 2014 年 11 月到 2015 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《最推理》《推理志》等」。（豆瓣该页记 470 页，馆藏著录 447 页，为同一版次的著录差异。）**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2016（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/26694444/`（2026-09 抓取，评分 **6**、29 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-009",
+    "title": "2016年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2016 年华语原创侦探推理类中短篇的年度精选：时间跨度从 2015 年 11 月到 2016 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《推理志》等。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 27,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/26971383/",
+        "subjectId": "26971383",
+        "edition": "2016年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2017，ISBN 978-7-5354-9314-9，444 页，**主题词「侦探小说 小说集 中国 当代」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：豆瓣条目页写明选稿口径：「时间跨度从 2015 年 11 月到 2016 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《推理志》等」；馆藏丛编作「2016 年选系列丛书」。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2017（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/26971383/`（2026-09 抓取，评分 **6.6**、27 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-010",
+    "title": "2017年中国侦探推理小说精选",
+    "originalTitle": "",
+    "author": "韩璇 选编",
+    "authors": [
+      "韩璇"
+    ],
+    "anthology": true,
+    "authorEn": "Han Xuan (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2018",
+    "editionYear": "",
+    "series": "中国侦探推理小说精选系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2017 年华语原创侦探推理类中短篇的年度精选：时间跨度从 2016 年 10 月到 2017 年 11 月；馆藏提要列出《消失的兵符》《时间的缝隙》《代达罗斯的迷宫》等篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.3。",
+        "score": 5.3,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/27604689/",
+        "subjectId": "27604689",
+        "edition": "2017年中国侦探推理小说精选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语侦探推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：韩璇选编，长江文艺出版社 2018，ISBN 978-7-5702-0065-8，413 页，**主题词「侦探小说 小说集 中国 当代」**（部分年份另有「短篇小说 小说集」），中图法 `I247.7`。**体例**：馆藏 `330` 提要列出本册所收篇目：「《消失的兵符》、《时间的缝隙》、《代达罗斯的迷宫》等」；豆瓣条目页写明「时间跨度从 2016 年 10 月到 2017 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》《最推理》《推理志》《今古传奇》《四川文学》等」。**多作者模型**：本册为**多位作家的合集**，`authors` 只登记选编者、`author` 标签写「韩璇 选编」，已标 `anthology`（与库内已收的 2018／2019／2020 三册同一写法）。**系列补齐**：长江文艺「中国侦探推理小说精选」年度系列库内已有 2018／2019／2020 三册，本批**一次补齐 2011–2017 七册**（2012 年第 1 辑为中国盲文出版社的**盲文版**，按体例不收）。**年份字段**：`firstPublished` 记 2018（年度选本按**出版年**记，与库内已收三册同一写法——选本本身是该年编成的书）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/27604689/`（2026-09 抓取，评分 **5.3**、28 人评价），该页版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-011",
+    "title": "2010中国推理文学年选",
+    "originalTitle": "",
+    "author": "李文 主编",
+    "authors": [
+      "李文"
+    ],
+    "anthology": true,
+    "authorEn": "Li Wen (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2011",
+    "editionYear": "",
+    "series": "中国推理文学年选",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "对 2010 年华语原创推理类中短篇的年度精选；豆瓣条目页列出《东方列车连续杀人事件》《盲点》《无常鬼》《未来探案之劫波》《心理医生》《计划》《双头蛇》等篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.2。",
+        "score": 6.2,
+        "count": 19,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/5957590/",
+        "subjectId": "5957590",
+        "edition": "2010中国推理文学年选",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "年度选本的读者"
+      ],
+      "watchFor": [
+        "各篇的取材来源",
+        "年度创作风向"
+      ],
+      "warning": "华语推理年度选本，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：李文主编（馆藏责任者项另列「最推理」），武汉出版社 2011，ISBN 978-7-5430-5665-7，399 页，**主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**，中图法 `I247.7`。**体例**：豆瓣条目页 `subject/5957590` 列出本册所收篇目（《东方列车连续杀人事件》《盲点》《无常鬼》《未来探案之劫波》《心理医生》《计划》《双头蛇》等），可确认是多位作者的中短篇合集。**多作者模型**：`authors` 只登记主编、`author` 标签写「李文 主编」，已标 `anthology`。**与库内《中国年度作品：2015 推理小说》的关系**：同一编者（李文）编的另一种年度选本（现代出版社），两册**不是同一系列**，各自独立收录。**年份字段**：`firstPublished` 记 2011（年度选本按出版年记）；`editionYear` 留空。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/5957590/`（2026-09 抓取，评分 **6.2**、19 人评价），版本信息与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md206-012",
+    "title": "伏杀",
+    "originalTitle": "",
+    "author": "李文 主编",
+    "authors": [
+      "李文"
+    ],
+    "alternateTitles": [
+      "伏杀 最推理·珍藏本"
+    ],
+    "anthology": true,
+    "authorEn": "Li Wen (ed.)",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2008",
+    "editionYear": "",
+    "series": "最推理珍藏本",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "《最推理》杂志的精选合集（「珍藏本」），收录《另一个世界》《度祥、秘笈与我的尸体》《西格蒙德的伊底》《杀手与琴盒》《逆密室谋杀案》《冰雪中的密室杀人》等篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 33,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3376672/",
+        "subjectId": "3376672",
+        "edition": "伏杀",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "华语原创短篇的读者",
+        "《最推理》读者的合集版"
+      ],
+      "watchFor": [
+        "各篇的谜面设计",
+        "编者取舍的偏好"
+      ],
+      "warning": "华语推理小说合集，含命案描写，为**多位作家的合集**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：李文主编，珠海出版社 2008，ISBN 978-7-5453-0139-7，345 页，**主题词「推理小说 小说集 中国 现代 ; 短篇小说 小说集 中国 现代」**，中图法 `I247.7`。**体例**：豆瓣条目页 `subject/3376672` 的目录与前言写明本册是**《最推理》杂志的「珍藏本」**（从该刊各辑里精选成书），目录含《另一个世界》《度祥、秘笈与我的尸体》《西格蒙德的伊底》《杀手与琴盒》《死在天堂附近》《逆密室谋杀案》《冰雪中的密室杀人》《伏杀》等篇——据此按**多人合集**处理。**多作者模型**：`authors` 只登记主编、`author` 标签写「李文 主编」，已标 `anthology`；馆藏题名只作《伏杀》，故把池内那一行的写法「伏杀 最推理·珍藏本」登记为别名。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3376672/`（2026-09 抓取，评分 **6.8**、33 人评价），版本信息（珠海出版社 2008 年 12 月，345 页）与馆藏著录一致。**年份字段**：`firstPublished` 记 2008；`editionYear` 留空。"
+    },
+    "provenance": {
+      "source": "batch-206-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
