@@ -667,12 +667,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 119 轮）**：候选《金币风暴》（群众出版社 2005，ISBN 7-5014-3411-5）的**上图 CNMARC 并列题名字段为 `The High Windows`**，与库内本条原作名 `The High Window` 只差一个字母——**馆藏把 Window 著录成了复数**，人眼核对后认定为同一部作品（§116 的 *bule train*、*Elephant can remember* 是同类拼写错漏）。故不另立条目。"
     },
     "provenance": {
       "source": "batch-61-western-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "金币风暴"
+    ]
   },
   {
     "id": "wfill61-009",
@@ -750,12 +753,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 119 轮）**：候选《波动的身》（群众出版社 2005，ISBN 7-5014-3413-1）的**上图 CNMARC 并列题名字段为 `The Lady in the Lake`**，与库内本条原作名一致（豆瓣该条没有原作名一栏，故以馆藏为准）。同一部作品，故不另立条目。"
     },
     "provenance": {
       "source": "batch-61-western-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "波动的身"
+    ]
   },
   {
     "id": "wfill61-010",

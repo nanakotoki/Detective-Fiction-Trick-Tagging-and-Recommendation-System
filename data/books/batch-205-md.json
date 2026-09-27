@@ -1,0 +1,453 @@
+[
+  {
+    "id": "md205-001",
+    "title": "幻的墓",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "日本推理大师长篇佳作丛书",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "youth"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "森村诚一长篇之一：三个年轻人的父辈之死系于同一批人，他们结成联盟，向认定的仇人一步步动手。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.1。",
+        "score": 6.1,
+        "count": 49,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/33476163/",
+        "subjectId": "33476163",
+        "edition": "幻的墓 2019",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "三个年轻人各自的手段",
+        "「仇人」是怎么被认定的"
+      ],
+      "warning": "社会派推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 按作者枚举）：森村诚一著，海峡文艺出版社 2019，ISBN 978-7-5550-1894-0（该丛书共用 ISBN 978-7-5550-2207-7），247 页，译者施元辉，丛编「日本推理大师长篇佳作丛书」，**主题词「推理小说 日本 现代」**，中图法 `I313.45`。**梗概来源（馆藏 `330` 提要）**：「为报杀父之仇，三个年轻人结成联盟，施展种种手段，搞垮公司，干掉了一个又一个仇人。在复仇的目的就要达到的时刻，他们发现了真相。青春、生命在复仇中付之东流。」——梗概**只写到「结盟复仇」这一层**，提要末句「他们发现了真相」的内容一律不入库。**同书异名核查**：豆瓣「同一作品的不同版本」页 `works/1014768` 收录本作 5 个版本（文化艺术 1990《虚幻的坟墓》／百花文艺 1988《阴阳复仇记》／文化艺术 1988《仇恨的证明》／海峡文艺 2019《幻的墓》＋日文原版），**库内一部都没有**，故按新书收录。**原作名说明**：本条馆藏**没有原作名字段**；豆瓣条目页（`subject/33476163`，2019-7 海峡文艺出版社，译者施元辉）的「原作名」作 `幻の墓`。按「原作名只用来判重、落库仍以馆藏为准」的口径，`originalTitle` **留空**，此处注明备查。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年，不做推测）；`editionYear` 记 2019。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md205-002",
+    "title": "黑の十字架",
+    "originalTitle": "Black cross",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "social-commentary"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "森村诚一长篇之一：书名里的「十字架」是书中人物各自背着的东西。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "各人各自认下的「罪」",
+        "时间跨度里的人事变化"
+      ],
+      "warning": "社会派推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 按作者枚举）：森村诚一著，中国社会出版社 2009，ISBN 978-7-5087-2446-1，266 页，译者杨军，**主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`，**并列题名（510）`Black cross`**。**同书异名核查**：库内《人间的十字架》（群众 1999）是**另一部作品**（豆瓣「人间的十字架」条目 `subject/2027659` 只有这一个版本，且译者、页数均不同），二者不合并；本条与同系列已收的《死亡座席》《死亡接力》《致命相似》（同为中国社会出版社 2009 年杨军等译）同属一批。**梗概说明**：馆藏 CNMARC **未提供本册提要**，豆瓣**没有对应条目**，梗概据题名整理，**不含具体情节**。**评分说明**：豆瓣按题名检索（含繁体／日文写法）**均无本册条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md205-003",
+    "title": "腐蚀花园",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "森村诚一侦探推理小说集",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "森村诚一作品之一：以「腐蚀花园」为线索的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.1。",
+        "score": 7.1,
+        "count": 151,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1215059/",
+        "subjectId": "1215059",
+        "edition": "腐蚀花园 2003",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "各人的处境与动机",
+        "时间跨度里的人事变化"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 按作者枚举）：森村诚一著，珠海出版社 2003，ISBN 7-80689-087-4，254 页，译者叶特灵，丛编「**森村诚一侦探推理小说集**」，**主题词「侦探小说 日本 现代」**，中图法 `I313.45`。**系列体例**：该丛编共 6 册（ISBN 尾号 …087-4／088-2／089-0／090-4／091-2／092-0），其中《魔痕》《玻璃密室》《杀人的债权》《杀人的花客》**库内已有**，本册与《复仇》是同系列剩下的两册，故按同一体例收录（`series` 沿用丛书名，标签与流派与已收四册保持一致）。**同书异名核查**：库内《腐蚀的构造》（群众 1999，原作名 `腐蝕の構造`）是**另一部作品**——豆瓣「腐蚀的构造」的「同一作品的不同版本」页 `works/1017537` 只有 3 个版本（群众 1999／吉林人民 1982《腐蚀》／日文原版），**不含本册**；豆瓣「腐蚀花园」条目 `subject/1215059` 也没有别的版本页。**梗概说明**：馆藏 CNMARC **未提供本册提要**，豆瓣条目页无内容简介，梗概据题名与系列体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空；`editionYear` 记 2003。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md205-004",
+    "title": "复仇",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "森村诚一侦探推理小说集",
+    "detective": "无固定侦探",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "森村诚一作品之一：以「复仇」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "各人的处境与动机",
+        "时间跨度里的人事变化"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，`type=Author` 按作者枚举）：森村诚一著，珠海出版社 2003，ISBN 7-80689-090-4，225 页，译者章吾一、马玉敏，丛编「**森村诚一侦探推理小说集**」，**主题词「侦探小说 日本 现代」**，中图法 `I313.45`。**与台账 §71.3 的关系**：本条候选当年曾被挂起，原因是「按题名取提要」的旧聚合脚本把森村的《复仇》与赤川次郎的同名书**串了台**（两条提要长度值完全相同）。本轮**不再走提要渠道**，判据全部取自上图 CNMARC 本身（丛编／主题词／译者／ISBN，与同系列已收四册同一批著录），故该串台问题不再影响本条。**梗概说明**：馆藏 CNMARC **未提供本册提要**，豆瓣**没有对应条目**（按 ISBN 与「复仇 森村诚一」检索均无结果），梗概据题名与系列体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空；`editionYear` 记 2003。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md205-005",
+    "title": "假面之夜",
+    "originalTitle": "Masquerade night",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2017",
+    "editionYear": "2018",
+    "series": "假面系列",
+    "detective": "新田浩介、山岸尚美",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "「假面系列」长篇：一名单身女子在家中遇害，警方随后收到一封告密信，信上说凶手会在东京一家大饭店的跨年晚会上现身。刑警新田再次以饭店员工的身份进去，和前台尚美一起，在零点到来之前把人找出来。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.1。",
+        "score": 7.1,
+        "count": 5012,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/30206396/",
+        "subjectId": "30206396",
+        "edition": "假面之夜 2018",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「假面」系列的读者",
+        "喜欢饭店／卧底题材的读者"
+      ],
+      "watchFor": [
+        "跨年晚会上各色住客的来意",
+        "饭店员工的动线与排班",
+        "那封告密信为什么要寄给警方"
+      ],
+      "warning": "犯罪悬疑长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：东野圭吾著，南海出版公司 2018，ISBN 978-7-5442-9282-5，409 页，译者李倩、黄少安，**并列题名（510）`Masquerade night`**，中图法 `I313.45`。**判据（本条的馆藏主题词偏弱，故写明取证链）**：所引 2018 年南海版的主题词只有「长篇小说 日本 现代」，**没有「推理小说」**；因此另取三项佐证：①同书**三采文化 2018 年版**（ISBN 978-957-658-078-9，译者陈系美）馆藏主题词作「**推理小说 日本 现代**」；②同书**《假面系列小说》**（天津人民出版社 2021，三册合装，ISBN 978-7-201-80611-2 等）馆藏主题词作「**推理小说 小说集 日本 现代 ; 长篇小说 小说集 日本 现代**」，其 `330` 提要写明收录《假面之夜》《假面饭店》《假面前夜》三部；③库内已有同系列四部（《假面饭店》《假面前夜》《假面山庄》《假面游戏》），本册是该系列第三部、库内独缺的一册。**为什么单独收**：《假面系列小说》本身是**三册合装**，按「套装不另立条目」的口径不收；但它收的第三册库内没有，故按**单册版**（南海 2018）补收——与 §110「一个系列按卷补齐」同一做法。**梗概来源（馆藏 `330` 提要）**：「年轻女性惨遭杀害横尸家中，一通匿名举报热线，一封来历不明的告密信。假面舞会上，凶手能否现身，告密者目的何在。疑点重重的住客，扑朔迷离的真相，他和她将如何抽丝剥茧，揭开『假面』。」——梗概**只写到谜面与人物处境**，不写结局与真凶。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/30206396/`（2026-09 抓取，评分 **7.1**、5,012 人评价）：该页版本信息（南海出版公司 2018-6，译者李倩／黄少安）与馆藏著录一致。**年份字段**：`firstPublished` 记 **2017**（豆瓣「同一作品的不同版本」页 `works/1090245` 收录日文原版《マスカレード・ナイト》集英社 2017-9-15）；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md205-006",
+    "title": "觉醒者们",
+    "originalTitle": "",
+    "author": "东野圭吾",
+    "alternateTitles": [
+      "謊言裡的魔術師"
+    ],
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "2024",
+    "editionYear": "2025",
+    "series": "",
+    "detective": "无固定侦探（单元故事，多位女性视角）",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "ensemble",
+      "city"
+    ],
+    "school": [
+      "psychological-school"
+    ],
+    "safeSummary": "「ブラック・ショーマン」系列：几个各自困在局里的女性先后走进一家叫「TRAP HAND」的酒吧——这家店的主人看事情的方式，和别人不太一样。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.3。",
+        "score": 6.3,
+        "count": 1541,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/37268346/",
+        "subjectId": "37268346",
+        "edition": "觉醒者们 2025",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾后期作品的读者",
+        "喜欢单元式解谜的读者"
+      ],
+      "watchFor": [
+        "每位来客没说出口的那件事",
+        "店主问问题的方式",
+        "几段故事之间的人物关系"
+      ],
+      "warning": "犯罪悬疑长篇（单元式），含命案与家庭冲突描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：东野圭吾著，南海出版公司 2025，ISBN 978-7-5735-1131-7，279 页，译者朱文曦，丛编「新经典文库」，**主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**同书异名核查**：豆瓣条目页（`subject/37268346`）**原作名为 `ブラック・ショーマンと覚醒する女たち`**，与库内《无名之町》的原作名 `ブラック・ショーマンと名もなき町の殺人` 同属「ブラック・ショーマン」系列，但**是另一部作品**（库内没有本册），故按新书收录；豆瓣「同一作品的不同版本」页 `works/1174952` 另收**繁体版《謊言裡的魔術師》**（皇冠 2024-7-29，译者王蕴洁）与日文原版、泰文版——繁体版的题名与本册**毫无字面重合**，已登记进 `alternateTitles`，免得下一轮它再从候选池里冒出来。**体例说明**：出版社文案自述为「5 女主悬疑，单元故事解谜」，舞台是酒吧「TRAP HAND」——梗概**只写到舞台与体例层面**，各单元的情节与结局一律不入库；标签也只取「系列侦探／群像／都市」这三条可由体例直接读出的。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/37268346/`（2026-09 抓取，评分 **6.3**、1,541 人评价）：该页版本信息（南海出版公司 2025-5，译者朱文曦，288 页）与馆藏著录（279 页）为同一版次。**年份字段**：`firstPublished` 记 **2024**（豆瓣「同一作品的不同版本」页 `works/1174952` 收录日文原版《ブラック・ショーマンと覚醒する女たち》光文社 2024-1-24）；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-205-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -847,14 +847,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 119 轮）**：候选《再一个谎言》（独步文化 2014，ISBN 978-986-6043-81-9，丛编「东野圭吾作品集」）的豆瓣条目页（`subject/25831985`）**原作名为 `嘘をもうひとつだけ`**，与库内本条原作名一致——同一部作品的繁体版译名。故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2019（只差一个谎言／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-54-higashino-shimada.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2019"
+    "editionYear": "2019",
+    "alternateTitles": [
+      "再一个谎言"
+    ]
   },
   {
     "id": "hs54-011",

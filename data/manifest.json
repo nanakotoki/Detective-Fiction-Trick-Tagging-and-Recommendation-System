@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-27T15:14:22.406Z",
+  "generatedAt": "2026-09-27T15:52:01.302Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2967,
-    "dataFiles": 204,
+    "books": 2973,
+    "dataFiles": 205,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2967,
-    "withPlatformRating": 2291
+    "withSafeSummary": 2973,
+    "withPlatformRating": 2295
   },
   "tagDistribution": [
     {
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 517
+          "books": 519
         },
         {
           "id": "diary-form",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 878
+          "books": 880
         },
         {
           "id": "snowfield",
@@ -215,7 +215,7 @@
         {
           "id": "revenge",
           "label": "复仇",
-          "books": 120
+          "books": 122
         },
         {
           "id": "gain",
@@ -250,7 +250,7 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1537
+          "books": 1538
         },
         {
           "id": "fear",
@@ -277,7 +277,7 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 304
+          "books": 307
         },
         {
           "id": "hardboiled",
@@ -297,7 +297,7 @@
         {
           "id": "youth",
           "label": "青春",
-          "books": 153
+          "books": 154
         },
         {
           "id": "meta-fiction",
@@ -307,7 +307,7 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1269
+          "books": 1271
         },
         {
           "id": "legend-folklore",
@@ -349,17 +349,17 @@
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1752
+          "books": 1754
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 527
+          "books": 531
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 647
+          "books": 648
         },
         {
           "id": "legal-thriller",
@@ -379,7 +379,7 @@
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 708
+          "books": 710
         },
         {
           "id": "spy-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2967
+    "checkedBooks": 2973
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
