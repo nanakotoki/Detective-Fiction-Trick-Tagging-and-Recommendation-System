@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-27T14:08:36.775Z",
+  "generatedAt": "2026-09-27T14:14:49.271Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2964,
+    "books": 2963,
     "dataFiles": 203,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2964,
+    "withSafeSummary": 2963,
     "withPlatformRating": 2290
   },
   "tagDistribution": [
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 118
+          "books": 117
         }
       ]
     },
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 525
+          "books": 524
         },
         {
           "id": "cozy",
@@ -404,7 +404,7 @@
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 444
+          "books": 443
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2964
+    "checkedBooks": 2963
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

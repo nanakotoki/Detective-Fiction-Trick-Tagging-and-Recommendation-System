@@ -245,14 +245,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对"
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 116 轮）**：候选《罗杰·艾克罗伊德谋杀案》（贵州人民出版社 1998，ISBN 7-221-04731-6）的**上图 CNMARC 原作名字段为 `The murder of Roger Ackroyd`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-03-western-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
-      "罗杰·爱克罗伊德谋杀案"
+      "罗杰·爱克罗伊德谋杀案",
+      "罗杰·艾克罗伊德谋杀案"
     ]
   },
   {

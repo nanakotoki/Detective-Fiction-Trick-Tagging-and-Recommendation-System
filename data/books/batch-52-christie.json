@@ -243,12 +243,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《牌中牌》（贵州人民出版社 1998，ISBN 7-221-04692-1）的**上图 CNMARC 原作名字段为 `Cards on the table`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-52-christie.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "牌中牌"
+    ]
   },
   {
     "id": "christie2-004",
@@ -669,7 +672,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《古宅谜踪》（贵州人民出版社 1998，ISBN 7-221-04462-7）的**上图 CNMARC 原作名字段为 `Dead man's folly`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2023（弄假成真／(英) 阿加莎·克里斯蒂著 AGATHA CHRISTIE）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -677,7 +680,8 @@
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
-      "死人的殿堂"
+      "死人的殿堂",
+      "古宅谜踪"
     ],
     "editionYear": "2023"
   },
@@ -758,12 +762,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《旧罪的阴影》（贵州人民出版社 1998，ISBN 7-221-04683-2）的**上图 CNMARC 原作名字段为 `Elephant can remember`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-52-christie.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "旧罪的阴影"
+    ]
   },
   {
     "id": "christie2-010",
@@ -1010,12 +1017,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《庄园迷案》（贵州人民出版社 1998，ISBN 7-221-04698-0）的**上图 CNMARC 原作名字段为 `They do it with mirrors`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-52-christie.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "庄园迷案"
+    ]
   },
   {
     "id": "christie2-013",
@@ -1276,7 +1286,8 @@
     "title": "零时",
     "originalTitle": "Towards Zero",
     "alternateTitles": [
-      "零点"
+      "零点",
+      "走向决定性的时刻"
     ],
     "author": "阿加莎·克里斯蒂",
     "authorEn": "Agatha Christie",
@@ -1350,7 +1361,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《走向决定性的时刻》（贵州人民出版社 1998，ISBN 7-221-04460-0）的**上图 CNMARC 原作名字段为 `Towards zero`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2008（零时／(英) 阿加莎·克里斯蒂著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1521,12 +1532,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《目的地不明》（贵州人民出版社 1998，ISBN 7-221-04475-9）的**上图 CNMARC 原作名字段为 `Destination unknown`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-52-christie.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "目的地不明"
+    ]
   },
   {
     "id": "christie2-019",

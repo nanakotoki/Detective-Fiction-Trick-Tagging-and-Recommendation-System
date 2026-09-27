@@ -1762,14 +1762,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 116 轮）**：候选《帕诺拉马岛绮谭》（独步文化 2017，ISBN 978-986-5651-96-1，301 页，丛编「江户川乱步作品集 06」）与库内本条**同作**：本条 `originalTitle` 为 `パノラマ島綺譚`，而「绮谭／奇谈」正是「綺譚」的两种中译写法（该条曾误作新书收入 batch-203，被 `find-duplicates --strict` 拦下后撤回），故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「帕诺拉马岛奇谈」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-20-jp-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2012"
+    "editionYear": "2012",
+    "alternateTitles": [
+      "帕诺拉马岛绮谭"
+    ]
   },
   {
     "id": "jpcls-023",

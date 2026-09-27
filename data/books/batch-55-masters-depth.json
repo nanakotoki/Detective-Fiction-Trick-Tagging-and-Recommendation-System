@@ -244,12 +244,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《蓝色特快上的秘密》（贵州人民出版社 1998，ISBN 7-221-04474-0）的**上图 CNMARC 原作名字段为 `The mystery of the bule train`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-55-masters-depth.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "蓝色特快上的秘密"
+    ]
   },
   {
     "id": "md55-004",
@@ -340,7 +343,8 @@
     "originalTitle": "The Secret of Chimneys",
     "alternateTitles": [
       "烟囱别墅之谜",
-      "烟囱宅之谜"
+      "烟囱宅之谜",
+      "名苑猎凶"
     ],
     "author": "阿加莎·克里斯蒂",
     "authorEn": "Agatha Christie",
@@ -409,7 +413,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《名苑猎凶》（贵州人民出版社 1998，ISBN 7-221-04716-2）的**上图 CNMARC 原作名字段为 `The secret of chimneys`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-55-masters-depth.json",
@@ -491,12 +495,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 116 轮）**：候选《马普尔小姐探案》（贵州人民出版社 1998，ISBN 7-221-04710-3）的**上图 CNMARC 原作名字段为 `Miss Marple's final cases`**，与库内本条原作名一致（仅大小写／拼写略有差异，人眼核对过）——同一部作品的旧译名，故不另立条目。"
     },
     "provenance": {
       "source": "batch-55-masters-depth.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "马普尔小姐探案"
+    ]
   },
   {
     "id": "md55-007",
