@@ -1,0 +1,155 @@
+[
+  {
+    "id": "md202-001",
+    "title": "断案集",
+    "originalTitle": "Judge Dee at Work",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "高罗佩「大唐狄公案」的短篇集（八篇）：狄公在蓬莱、汉源、蒲阳、兰坊任上经手的案子，各从一桩命案或失踪案入手。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.9。",
+        "score": 7.9,
+        "count": 19,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/38228855/",
+        "subjectId": "38228855",
+        "edition": "断案集 2026",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "短篇公案故事的读者"
+      ],
+      "watchFor": [
+        "八篇各自的时间与任地",
+        "狄公问案与勘验的次序"
+      ],
+      "warning": "历史推理短篇集，唐代背景，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「高罗佩」）：高罗佩著、张凌译，上海译文出版社有限公司 2026，ISBN 978-7-5807-0200-5，357 页，丛编「大唐狄公案」第 **14** 卷，**`200$d` 与 `510` 均为 `Judge Dee at work`**，主题词「侦探小说 小说集 荷兰 现代 ; 短篇小说 小说集 荷兰 现代」，中图法 `I563.45`。**体例（馆藏 `330` 原文）**：「本书包括八个短篇。《五祥云》《公文案》《雨中客》讲述公元663年，狄公任蓬莱县令时，分别破获贺夫人自尽案、苏把总被害案、当铺掌柜被杀案；《莲池案》……《两乞丐》《夺命剑》……《太子棺》……《除夕案》……」——梗概**只取到谜面层面**（谁在哪一任上经手哪一类案子），**不写任何一篇的结论**。**版本选择（关键）**：豆瓣上同名的还有一个 **2020 年上海译文版**（ISBN 978-7-5327-8356-4，449 页，评分 7.7、1,127 人评价），但据上图该册 `330`——「《断案集》包括《猴与虎》与《断案集》两部作品」——那是**两部作品合装的一册**；本库另收《晨猴·暮虎》一条（见下），故这里取 **2026 年文库本单册**（`510` 只对应 `Judge Dee at work`），避免同一部作品在一册里被重复计两次。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/38228855/`（2026-09 抓取）：原作名 `Judge Dee at Work`、译者张凌、ISBN 9787580702005、2026-4 出版，与馆藏著录互相印证；评分 **7.9，但只有 19 人评价**——**样本偏少**，报告页会照例标注，读者以量级参考即可。**与库内《太子棺奇案》的关系**：`batch-174` 那册（北岳 2018）的馆藏 `330` 明写收有《太子棺奇案》等八篇，与本册八篇中「《太子棺》」一篇**有重叠可能**；两册是**不同的版本、不同的编选**，本库**按书收录**，重叠如实注明、两条并存（与《太子棺奇案》↔《红阁跛丐》同一处理）。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年，按 §103／§104 的规则不推测）；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-202-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md202-002",
+    "title": "晨猴·暮虎",
+    "originalTitle": "The Monkey and the Tiger",
+    "author": "高罗佩",
+    "authorEn": "Robert van Gulik",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "大唐狄公案系列",
+    "detective": "狄仁杰",
+    "country": "荷兰",
+    "tags": [
+      "historical-setting",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "高罗佩「大唐狄公案」中的两个中篇——《晨之猿》与《暮之虎》，两篇各是一桩由狄公经手的案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 64,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/27623350/",
+        "subjectId": "27623350",
+        "edition": "晨猴·暮虎 2018",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大唐狄公案的读者",
+        "想把两个中篇一次读完的读者"
+      ],
+      "watchFor": [
+        "两篇各自的时间与任地",
+        "两篇之间并无情节关联"
+      ],
+      "warning": "历史推理中篇两则，唐代背景，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举「高罗佩」）：高罗佩著、徐裴译，北岳文艺出版社 2018，单册号 ISBN 978-7-5378-5468-9（另一条著录用的是整套「大唐狄公探案全译」的套号 978-7-5378-5582-2，18+121 页），**`200$d` 与 `510` 均为 `The monkey and the tiger`**，主题词「侦探小说 荷兰 现代」，中图法 `I563.45`。**篇目来源（说明为什么不写情节）**：本册两条馆藏著录**都没有 `330` 提要**；套号那一条的 `330` 写的是《断指奇案》《还魂奇案》两篇，与 `510` 的 `The monkey and the tiger` **对不上**（编目串了另一册的提要），故**不采用**。可靠的篇目依据来自**同社丛书的另一册**：上海译文 2020 年版《断案集》（ISBN 978-7-5327-8356-4）的馆藏 `330` 写明「《猴与虎》包括《晨之猿》《暮之虎》两个中篇」。**梗概说明**：豆瓣条目页（`https://book.douban.com/subject/27623350/`）的出版方文案是**系列宣传语**（讲高罗佩的创作背景与译本特色），**不含本篇情节**——因此梗概只写到**篇名与体例**层面，不代拟案情；这是刻意的，不是漏写。**评分来源**：同上豆瓣条目页，2026-09 抓取，评分 **7.3（64 人评价）**——样本偏少，报告页会照例标注；该页的原作名 `The Monkey and the Tiger`、译者徐裴、ISBN 9787537854689 与馆藏著录互相印证。**年份字段**：`firstPublished` 留空（无原版初刊年著录）；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-202-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
