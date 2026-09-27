@@ -53,6 +53,42 @@ const PLAN = [
     quote: '一起已结案的交换杀人案另有隐情',
     why: '原文直书「交换杀人案」',
   },
+  /**
+   * 第 111 轮补的三条：出自「出版方简介」这条渠道的**扩样**（样本 14 → 55 条）。
+   *
+   * 这一轮把简介里的句子分成两类，只收前一类：
+   *   · **讲案情的**（「要求引渡某位密室杀人案的嫌疑人」）——在描述故事里发生的事，可作依据；
+   *   · **讲卖点的**（「国内第一部原创密室推理小说」）——在描述书的市场定位，一律剔除。
+   * 扩样后 51 条核对通过的简介里只有 8 条含诡计类关键词，其中多数还是卖点式说法——
+   * 这印证了 §105 的结论：这条渠道**只能用来发现待核对象**，所以本轮只补了下面三条有案情原文的。
+   */
+  {
+    id: 'shlib192-013',
+    title: '海贼岛事件',
+    tags: ['locked-room'],
+    round: 111,
+    src: '豆瓣条目页出版方简介',
+    quote: '要求引渡某位密室杀人案的嫌疑人',
+    why: '简介在讲案情时点明这是一桩「密室杀人案」，属谜面层面而非卖点措辞',
+  },
+  {
+    id: 'md198-001',
+    title: '黑色笔记',
+    tags: ['cipher'],
+    round: 111,
+    src: '豆瓣条目页出版方简介',
+    quote: '烧焦饭店里的无名尸、脑袋塞进烤箱的受害者、遇袭警官身上的黑色笔记中的密码……似乎隐藏着许多不为人知的秘密',
+    why: '简介点明「黑色笔记中的密码」是案件拼图的一环，属谜面层面的暗号密码',
+  },
+  {
+    id: 'wk118-004',
+    title: '玻璃天',
+    tags: ['cipher'],
+    round: 111,
+    src: '豆瓣条目页出版方简介',
+    quote: '以三部短篇小说构成：描绘人性恶意的《梦幻桥》、破解失踪者遗留密码的《想夫恋》以及标题作《玻璃天》',
+    why: '简介写明其中一篇以「破解失踪者遗留密码」为主线；标签属全书层面，故在证据里点明只对应其中一篇',
+  },
   {
     id: 'shlib166-005',
     title: '开往巴黎的杀人列车',
@@ -191,7 +227,9 @@ for (const p of PLAN) {
     continue;
   }
   const hit = store.get(file).find((b) => b.id === p.id);
-  if (hit.verification?.source?.includes(MARK)) {
+  /** 条目可以自带 `round`（第 111 轮补的三条就是），标记里写对轮次，免得日后复核时张冠李戴 */
+  const mark = p.round ? `**诡计类标签补充（第 ${p.round} 轮）**` : MARK;
+  if (hit.verification?.source?.includes(mark)) {
     console.log(`· ${p.id} ${p.title} 已补过，跳过`);
     continue;
   }
@@ -201,7 +239,7 @@ for (const p of PLAN) {
     continue;
   }
   hit.tags = [...(hit.tags || []), ...add];
-  hit.verification.source += ` ${MARK}：据${p.src}「${p.quote}」补标 ${add.join('、')}（${p.why}）。`;
+  hit.verification.source += ` ${mark}：据${p.src}「${p.quote}」补标 ${add.join('、')}（${p.why}）。`;
   changed += 1;
   touched.add(file);
   console.log(`✓ ${p.id} ${p.title} → +${add.join('、')}`);

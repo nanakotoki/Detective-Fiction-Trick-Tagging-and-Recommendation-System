@@ -100,6 +100,15 @@ function parseArgs(argv) {
      * 某类条目的索引，或有新的检索写法要试），默认跳过。
      */
     skipKnownMisses: argv.includes('--skip-known-misses') || !argv.includes('--retry-misses'),
+    /**
+     * 分段落盘（第 111 轮）：每抓 N 部就把（合并后的）图谱写一次盘。
+     *
+     * 起因：图谱原本**只在整批跑完时写一次**。而候选队列的「硬尾巴」上，
+     * 一本未命中要试 8 个关键词、耗时近两分钟——400 部的一批可能跑几个小时，
+     * 中途被打断（手动停、网络断、机器休眠）就**整批白跑**。
+     * 长批次请带上这个开关（例如 `--checkpoint 50`）。
+     */
+    checkpoint: Math.max(0, Number(value('--checkpoint', 0)) || 0),
     /** 允许用本轮结果整体替换图谱（默认下，记录数变少会被拦下） */
     rebuild: argv.includes('--rebuild'),
     quiet: argv.includes('--quiet'),
@@ -725,12 +734,73 @@ async function main() {
 
   // **必须在写文件之前**读取既有图谱，否则合并模式会读到刚写好的内容而丢掉旧记录
   const existingRecords = args.merge ? await readExistingAtlas() : [];
+  const existingMisses = await readExistingMisses();
   if (args.merge) {
     console.log(`  合并模式：已读取既有图谱 ${existingRecords.length} 条记录`);
     console.log('');
   }
 
+  /** 本轮已探测过的书目 id（命中与未命中都算），用于合并时判断「旧未命中原因还要不要带过来」 */
+  const probedIds = new Set();
+  /**
+   * 把「本轮结果 + 图谱既有记录」合并成即将落盘的两份清单。
+   * 分段落盘与最终落盘**共用这一份逻辑**，避免两处实现分叉。
+   */
+  const buildMerged = () => {
+    let mergedRecords = records;
+    if (args.merge) {
+      const fresh = new Set(records.map((r) => `${r.id}::${r.platform}`));
+      mergedRecords = [...existingRecords.filter((r) => !fresh.has(`${r.id}::${r.platform}`)), ...records].sort((a, b) =>
+        String(a.id).localeCompare(String(b.id)),
+      );
+    }
+    let mergedMisses = misses;
+    if (args.merge) {
+      const covered = new Set(mergedRecords.filter((r) => r?.sourceUrl).map((r) => r.bookId ?? r.id));
+      const carried = existingMisses
+        .filter((m) => m?.id && !probedIds.has(m.id) && !covered.has(m.id))
+        .map((m) => ({ book: { id: m.id, title: m.title }, reason: m.reason }));
+      mergedMisses = [...misses, ...carried];
+    }
+    return { mergedRecords, mergedMisses };
+  };
+
+  /** 落盘（最终一次与分段各一次，内容结构完全相同） */
+  const writeAtlasFile = async (mergedRecords, mergedMisses, partial) => {
+    const payload = {
+      format: 'dftr-ratings-atlas',
+      version: 1,
+      platform: 'douban',
+      scale: '10 分制',
+      generatedAt: new Date().toISOString(),
+      elapsedSeconds: Math.round((Date.now() - startedAt) / 1000),
+      requestCount,
+      note:
+        '本文件为**实时抓取**的豆瓣公开评分与评价人数，每条记录都带 sourceUrl 与 fetchedAt，可逐条追溯。' +
+        '仅读取评分与评价人数，未抓取任何书评正文，避免引入剧透。' +
+        (partial ? '（本次为**分段落盘**的中间结果：本批尚未跑完，可安全中断后继续。）' : ''),
+      recordCount: mergedRecords.length,
+      missCount: mergedMisses.length,
+      records: mergedRecords,
+      misses: mergedMisses.map((m) => ({ id: m.book.id, title: m.book.title, reason: m.reason })),
+    };
+    await fs.mkdir(path.dirname(ATLAS), { recursive: true });
+    await fs.writeFile(ATLAS, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
+  };
+
   for (const [index, book] of books.entries()) {
+    // 分段落盘：每 N 部写一次，中途被打断也只丢最后不足 N 部
+    if (args.checkpoint && index > 0 && index % args.checkpoint === 0) {
+      const { mergedRecords, mergedMisses } = buildMerged();
+      await writeAtlasFile(mergedRecords, mergedMisses, true);
+      console.log(
+        color(
+          `  ⏸ 分段落盘：已处理 ${index} 部（命中 ${records.length}、未命中 ${misses.length}），图谱现有 ${mergedRecords.length} 条`,
+          C.dim,
+        ),
+      );
+    }
+    probedIds.add(book.id);
     const label = `[${String(index + 1).padStart(3)}/${String(books.length)}]`;
     process.stdout.write(`  ${label} 《${book.title}》 `);
 
@@ -931,26 +1001,9 @@ async function main() {
     });
   }
 
-  /* ---------------- 合并模式：保留既有记录 ---------------- */
-  let merged = records;
-  let keptFromPrevious = 0;
-  if (args.merge) {
-    const fresh = new Set(records.map((r) => `${r.id}::${r.platform}`));
-    const kept = existingRecords.filter((r) => !fresh.has(`${r.id}::${r.platform}`));
-    keptFromPrevious = kept.length;
-    merged = [...kept, ...records].sort((a, b) => String(a.id).localeCompare(String(b.id)));
-  }
-
-  /* ---------------- 合并模式：保留未被本轮探测的未命中原因 ---------------- */
-  let mergedMisses = misses;
-  if (args.merge) {
-    const probed = new Set(books.map((b) => b.id));
-    const covered = new Set(merged.filter((r) => r?.sourceUrl).map((r) => r.bookId ?? r.id));
-    const carried = (await readExistingMisses())
-      .filter((m) => m?.id && !probed.has(m.id) && !covered.has(m.id))
-      .map((m) => ({ book: { id: m.id, title: m.title }, reason: m.reason }));
-    mergedMisses = [...misses, ...carried];
-  }
+  /* ---------------- 合并模式：保留既有记录与未命中原因 ---------------- */
+  const { mergedRecords: merged, mergedMisses } = buildMerged();
+  const keptFromPrevious = merged.length - records.length;
 
   /* ---------------- 写入前的兜底闸门 ---------------- */
   // 即使调用方忘了 --merge，也不允许一次抓取把图谱「改小」。
@@ -975,25 +1028,7 @@ async function main() {
   }
 
   /* ---------------- 写出图谱 ---------------- */
-  const payload = {
-    format: 'dftr-ratings-atlas',
-    version: 1,
-    platform: 'douban',
-    scale: '10 分制',
-    generatedAt: new Date().toISOString(),
-    elapsedSeconds: Math.round((Date.now() - startedAt) / 1000),
-    requestCount,
-    note:
-      '本文件为**实时抓取**的豆瓣公开评分与评价人数，每条记录都带 sourceUrl 与 fetchedAt，可逐条追溯。' +
-      '仅读取评分与评价人数，未抓取任何书评正文，避免引入剧透。',
-    recordCount: merged.length,
-    missCount: mergedMisses.length,
-    records: merged,
-    misses: mergedMisses.map((m) => ({ id: m.book.id, title: m.book.title, reason: m.reason })),
-  };
-
-  await fs.mkdir(path.dirname(ATLAS), { recursive: true });
-  await fs.writeFile(ATLAS, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
+  await writeAtlasFile(merged, mergedMisses, false);
 
   /* ---------------- 汇总 ---------------- */
   console.log('');
