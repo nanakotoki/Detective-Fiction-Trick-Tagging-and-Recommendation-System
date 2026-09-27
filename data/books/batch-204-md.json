@@ -1,0 +1,298 @@
+[
+  {
+    "id": "md204-001",
+    "title": "智齿",
+    "originalTitle": "",
+    "author": "雷米",
+    "authorEn": "Lei Mi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "无固定侦探",
+    "country": "中国",
+    "tags": [
+      "city",
+      "dark-atmosphere",
+      "silencing"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "雷米的中短篇集：馆藏提要列出《焦阳》《智齿》《影子的灰烬》《成为汪允平》《光荣街的秘密》《酒窝》等篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷米的读者",
+        "读中短篇悬疑的读者"
+      ],
+      "watchFor": [
+        "各篇独立，主角不统一",
+        "同名篇《智齿》与另一部长篇同名，别混"
+      ],
+      "warning": "犯罪悬疑中短篇集，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：雷米著，重庆出版社 2022，ISBN 978-7-229-16682-3，278 页，主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」，中图法 `I247.7`。**体例（馆藏 `330` 原文）**：「本书收录了《焦阳》《智齿》《影子的灰烬》《成为汪允平》《光荣街的秘密》《酒窝》等中短篇推理小说作品。」——梗概只写到**篇名与体例**层面（本册各篇的案情馆藏未展开）。**评分来源**：**豆瓣按题名检索命中的是郑渊洁的同名长篇《智齿》**（学苑出版社 2001）——**同名异书，不采用**；本册在豆瓣没有对应条目，故三个平台一律「暂无数据」。**年份字段**：`firstPublished` 留空（中短篇集，且馆藏未著录各篇初刊年）；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-204-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md204-002",
+    "title": "影子的灰烬",
+    "originalTitle": "",
+    "author": "雷米 等",
+    "authors": [
+      "雷米",
+      "轩弦"
+    ],
+    "authorEn": "Lei Mi; Xuan Xian",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "诡故事·推理悬疑小说志",
+    "detective": "无固定侦探",
+    "country": "中国",
+    "tags": [
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "「诡故事·推理悬疑小说志」中的一册，由雷米与轩弦两位作者的作品组成的推理悬疑集。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷米或轩弦的读者"
+      ],
+      "watchFor": [
+        "两位作者合册，各篇独立",
+        "馆藏未列篇目"
+      ],
+      "warning": "推理悬疑小说集，含命案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：哈尔滨出版社 2018，ISBN 978-7-5484-4220-2，161 页，丛编「诡故事·推理悬疑小说志」，主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」。**体例（关键）**：同书 2012 年版（ISBN 978-7-5484-1134-5）的馆藏**责任者项写作「雷米轩弦」**，豆瓣该版条目页也写作「雷米 / 轩弦 **编著**」——故按**合册**处理：`author` 记「雷米 等」、`authors` 列这两位，`series` 沿用 2018 年版的丛编名。**馆藏未列篇目**，梗概只到体例层面。**评分来源**：豆瓣有同书 **2012 年版**条目（`subject/20282694`，评分 6.4、57 人），但**所引版本是 2018 年版**——按「评分必须与所引版本同一条」的口径**不采用**，本册记「暂无数据」（该版评分已在此注明，读者可自行核对）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-204-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md204-003",
+    "title": "除恶",
+    "originalTitle": "",
+    "author": "雷米",
+    "authorEn": "Lei Mi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列",
+    "detective": "胡文明（前缉毒警）",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "revenge",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "因队友之死引咎辞职的前缉毒警，三年后又被那桩旧案拖回局中；另一条线上，为救女儿而卷入罪案的银行职员也在做选择。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 532,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/37564966/",
+        "subjectId": "37564966",
+        "edition": "除恶 2026",
+        "fetchedAt": "2026-09-26"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷米的读者",
+        "喜欢社会派悬疑的读者"
+      ],
+      "watchFor": [
+        "双线叙事，两条线各有主角",
+        "同名剧集的原著"
+      ],
+      "warning": "社会派悬疑长篇，含毒品、凶案与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：雷米著，重庆出版社 2026，ISBN 978-7-229-21302-2，532 页，主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」，中图法 `I247.56`。**梗概来源（馆藏 `330` 提要）**：「……讲述了因一次意外事故引咎辞职的前缉毒警胡文明破茧重生的故事。全书采用双线叙述模式：一条线讲述胡文明因队友之死辞职后开了一家小超市，却依旧热血难凉……另一条线讲述银行职员程恳为救治生病的女儿，与意外卷入罪案的女孩小鱼之间冲突与妥协的故事。」——梗概**只写到两条线的开局与人物处境**，**不写结局与真凶**（提要末句给出的结局一律不入库）。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/37564966/`（2026-09 抓取，评分 **6.6**、532 人评价）：该页版本信息（重庆出版社 2026-3，ISBN 9787229213022，536 页）与馆藏著录互相印证（同一 ISBN，仅连字符写法不同）。**年份字段**：`firstPublished` 留空（馆藏未著录初版年；本条所引即 2026 年版）；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-204-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md204-004",
+    "title": "人鱼",
+    "originalTitle": "",
+    "author": "雷米",
+    "authorEn": "Lei Mi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列",
+    "detective": "无固定侦探（双线视角）",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "youth",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一个不被期待的女孩在校园霸凌与家庭的取舍之间消失，遁入城市地下；另一条线上，暴雨中浮出的无名女尸把刑警引向连环案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "雷米的读者",
+        "关注女性处境题材的读者"
+      ],
+      "watchFor": [
+        "双线叙事：女孩的线与刑警的线",
+        "同名网剧的原著"
+      ],
+      "warning": "社会派悬疑长篇，含校园霸凌、性犯罪与凶案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按 **ISBN** 检索）：雷米著，重庆出版社 2026，ISBN 978-7-229-22826-2，399 页，主题词「推理小说 中国 当代」，中图法 `I247.56`。**梗概来源（馆藏 `330` 提要）**：「本书是网剧《人鱼》的原著小说，讲述了一个不被期待的女孩坠入深渊后意外重生的命运寓言。全书采用双线叙事结构：一条线讲述高二女生苏琳在遭受校园霸凌后……心死之下遁入下水道……另一条线围绕暴雨中浮出水面的无名女尸展开，刑警在追查中一步步逼近连环奸杀案的真凶……」——梗概**只写到两条线的开局**，**不写结局与凶手**（提要末句的真相不入库）。**评分来源**：豆瓣条目页 `https://book.douban.com/subject/35433059/` 是**2021 年北京联合出版公司原版**（评分 7.0、4,324 人），而本条所引为 **2026 年重庆出版社**版——按「评分必须与所引版本同一条」的口径**不采用**，本册记「暂无数据」（原版评分在此注明，供读者参考）。**年份字段**：`firstPublished` 留空（馆藏未著录；本条所引即 2026 年版）；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-204-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

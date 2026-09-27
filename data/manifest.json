@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-27T14:17:53.769Z",
+  "generatedAt": "2026-09-27T15:14:22.406Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 2963,
-    "dataFiles": 203,
+    "books": 2967,
+    "dataFiles": 204,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 2963,
-    "withPlatformRating": 2290
+    "withSafeSummary": 2967,
+    "withPlatformRating": 2291
   },
   "tagDistribution": [
     {
@@ -111,7 +111,7 @@
         {
           "id": "dual-line",
           "label": "双线",
-          "books": 142
+          "books": 144
         },
         {
           "id": "nonlinear",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 874
+          "books": 878
         },
         {
           "id": "snowfield",
@@ -215,7 +215,7 @@
         {
           "id": "revenge",
           "label": "复仇",
-          "books": 119
+          "books": 120
         },
         {
           "id": "gain",
@@ -230,7 +230,7 @@
         {
           "id": "silencing",
           "label": "灭口",
-          "books": 87
+          "books": 88
         },
         {
           "id": "vigilante",
@@ -277,7 +277,7 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 302
+          "books": 304
         },
         {
           "id": "hardboiled",
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 524
+          "books": 526
         },
         {
           "id": "cozy",
@@ -297,7 +297,7 @@
         {
           "id": "youth",
           "label": "青春",
-          "books": 152
+          "books": 153
         },
         {
           "id": "meta-fiction",
@@ -354,7 +354,7 @@
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 523
+          "books": 527
         },
         {
           "id": "police-procedural",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 2963
+    "checkedBooks": 2967
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
