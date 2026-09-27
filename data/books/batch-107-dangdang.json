@@ -27,11 +27,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 217,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1260263/",
+        "subjectId": "1260263",
+        "edition": "彩虹村的秘密 2005年3月1日",
+        "fetchedAt": "2026-09-26T16:06:21.510Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -105,11 +110,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 479,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36892743/",
+        "subjectId": "36892743",
+        "edition": "柏林黄昏 2024",
+        "fetchedAt": "2026-09-26T16:06:25.346Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,

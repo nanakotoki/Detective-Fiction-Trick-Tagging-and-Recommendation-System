@@ -24,11 +24,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 3989,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26926528/",
+        "subjectId": "26926528",
+        "edition": "名侦探的守则 2017",
+        "fetchedAt": "2026-09-26T16:10:32.282Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -71,7 +76,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2017"
   },
@@ -100,11 +105,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 11549,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191594/",
+        "subjectId": "4191594",
+        "edition": "绑架游戏 2010",
+        "fetchedAt": "2026-09-26T16:10:36.132Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -147,7 +157,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2011"
   },
@@ -176,11 +186,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 3316,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19964966/",
+        "subjectId": "19964966",
+        "edition": "侦探俱乐部 2013",
+        "fetchedAt": "2026-09-26T16:10:44.819Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -223,7 +238,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2013"
   },
@@ -252,11 +267,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 31961,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3615061/",
+        "subjectId": "3615061",
+        "edition": "宿命 2009",
+        "fetchedAt": "2026-09-26T16:10:48.776Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -299,7 +319,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025"
   },
@@ -328,11 +348,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 10603,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30317423/",
+        "subjectId": "30317423",
+        "edition": "我杀了他 2019",
+        "fetchedAt": "2026-09-26T16:10:56.206Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -375,7 +400,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2019"
   },
@@ -403,11 +428,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 11789,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5416915/",
+        "subjectId": "5416915",
+        "edition": "杀人之门 2011",
+        "fetchedAt": "2026-09-26T16:11:00.130Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -450,7 +480,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2011"
   },
@@ -480,11 +510,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 2809,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27181607/",
+        "subjectId": "27181607",
+        "edition": "白马山庄谜案 2018",
+        "fetchedAt": "2026-09-26T16:11:09.855Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -527,7 +562,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025",
     "alternateTitles": [
@@ -559,11 +594,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 5743,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/23010385/",
+        "subjectId": "23010385",
+        "edition": "空中杀人现场 2013",
+        "fetchedAt": "2026-09-26T16:11:13.728Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -606,7 +646,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2019"
   },
@@ -635,11 +675,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 4540,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6314045/",
+        "subjectId": "6314045",
+        "edition": "以眨眼干杯 2011",
+        "fetchedAt": "2026-09-26T16:11:22.055Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -682,7 +727,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2023",
     "alternateTitles": [
@@ -714,11 +759,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 2517,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36561834/",
+        "subjectId": "36561834",
+        "edition": "假面游戏 2024",
+        "fetchedAt": "2026-09-26T16:11:26.049Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -761,7 +811,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2024"
   },
@@ -790,11 +840,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 8028,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35039915/",
+        "subjectId": "35039915",
+        "edition": "长长的回廊 2020",
+        "fetchedAt": "2026-09-26T16:11:30.009Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -837,7 +892,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2020"
   },
@@ -866,11 +921,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 6317,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27125950/",
+        "subjectId": "27125950",
+        "edition": "第十年的情人节 2017",
+        "fetchedAt": "2026-09-26T16:11:34.036Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -913,7 +973,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2017"
   },
@@ -942,11 +1002,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 570,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37129003/",
+        "subjectId": "37129003",
+        "edition": "沉睡美人 2025",
+        "fetchedAt": "2026-09-26T16:11:37.637Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -989,7 +1054,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025"
   },
@@ -1018,11 +1083,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1267,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37143179/",
+        "subjectId": "37143179",
+        "edition": "祈愿女神 2025",
+        "fetchedAt": "2026-09-26T16:11:41.404Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1065,7 +1135,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025"
   },
@@ -1093,11 +1163,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 4354,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37348704/",
+        "subjectId": "37348704",
+        "edition": "架空犯 2025",
+        "fetchedAt": "2026-09-26T16:11:45.198Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1140,7 +1215,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025"
   },
@@ -1169,11 +1244,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 7607,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36987849/",
+        "subjectId": "36987849",
+        "edition": "你杀了谁 2025",
+        "fetchedAt": "2026-09-26T16:11:49.053Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1216,7 +1296,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2025"
   },
@@ -1245,11 +1325,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 706,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26378462/",
+        "subjectId": "26378462",
+        "edition": "白银杰克 2015",
+        "fetchedAt": "2026-09-26T16:11:52.984Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1292,7 +1377,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2017",
     "alternateTitles": [
@@ -1324,11 +1409,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 4067,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27037149/",
+        "subjectId": "27037149",
+        "edition": "造彩虹的人 2017",
+        "fetchedAt": "2026-09-26T16:11:59.060Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1371,7 +1461,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2017"
   },
@@ -1400,11 +1490,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 5066,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4903189/",
+        "subjectId": "4903189",
+        "edition": "怪人们 2010",
+        "fetchedAt": "2026-09-26T16:12:02.672Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1447,7 +1542,7 @@
     },
     "provenance": {
       "source": "batch-113-higashino.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "editionYear": "2015"
   }

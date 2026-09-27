@@ -25,11 +25,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1827,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30464974/",
+        "subjectId": "30464974",
+        "edition": "再见了，忍老师 2019",
+        "fetchedAt": "2026-09-26T16:32:16.179Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -71,7 +76,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -100,11 +105,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 19068,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27178063/",
+        "subjectId": "27178063",
+        "edition": "黎明之街 2018",
+        "fetchedAt": "2026-09-26T16:32:20.082Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -146,7 +156,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -176,11 +186,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 7440,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35791376/",
+        "subjectId": "35791376",
+        "edition": "透明的螺旋 2022",
+        "fetchedAt": "2026-09-26T16:32:23.966Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -222,7 +237,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -251,11 +266,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 384,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25717661/",
+        "subjectId": "25717661",
+        "edition": "写乐·闭锁之国的幻影 2013",
+        "fetchedAt": "2026-09-26T16:32:27.688Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -297,7 +317,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -326,11 +346,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 1714,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30457014/",
+        "subjectId": "30457014",
+        "edition": "屋顶上的小丑 2019",
+        "fetchedAt": "2026-09-26T16:32:31.339Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -372,7 +397,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -400,11 +425,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 855,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27120452/",
+        "subjectId": "27120452",
+        "edition": "最后的晚餐 2017",
+        "fetchedAt": "2026-09-26T16:32:34.899Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -446,7 +476,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -476,11 +506,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 258,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36622836/",
+        "subjectId": "36622836",
+        "edition": "军舰消失之谜 2024",
+        "fetchedAt": "2026-09-26T16:32:38.644Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -522,7 +557,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -551,11 +586,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 1197,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26534897/",
+        "subjectId": "26534897",
+        "edition": "百器徒然袋——风 2016",
+        "fetchedAt": "2026-09-26T16:32:42.501Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -597,7 +637,7 @@
     },
     "provenance": {
       "source": "batch-129-opac5jp2.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

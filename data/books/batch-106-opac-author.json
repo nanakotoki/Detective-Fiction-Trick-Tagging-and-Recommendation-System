@@ -26,11 +26,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 4362,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35094679/",
+        "subjectId": "35094679",
+        "edition": "失踪假日 2020",
+        "fetchedAt": "2026-09-26T16:06:07.326Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -104,11 +109,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 2086,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36661179/",
+        "subjectId": "36661179",
+        "edition": "女佣异闻 2024",
+        "fetchedAt": "2026-09-26T16:06:13.341Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,

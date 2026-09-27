@@ -60,17 +60,21 @@ const out = spec.books.map((b, n) => {
     safeSummary: b.safeSummary,
     ratings: {
       /**
-       * 豆瓣评分：**只有 spec 显式给出、且带条目地址时才写**（2026-09 起走 `m.douban.com`
-       * 这条移动版渠道抓，见 `scripts/md-douban.mjs`）。没给就仍是「暂无数据」——
+       * 豆瓣评分：**只有 spec 显式给出、且带条目地址时才写**。没给就仍是「暂无数据」——
        * 本脚本**不猜、不换算、不拿先验知识填**。
+       *
+       * 来源写法**与 `apply-ratings.mjs` 统一为「豆瓣读书（实时抓取）」**（第 109 轮）：
+       * 2026-09 桌面站 403 期间这里写的是「（移动版条目页实时抓取）」，桌面站恢复后
+       * 同一个意思出现了两种写法，统计里会被拆成两栏。渠道细节由 `sourceUrl` 负责，
+       * 不写在 `source` 里。发现旧的同义写法用 `scripts/unify-rating-source.mjs` 归一。
        */
       douban: b.douban?.score != null
         ? {
-            summary: `豆瓣移动版条目页评分 ${b.douban.score}。`,
+            summary: `豆瓣条目页评分 ${b.douban.score}。`,
             score: Number(b.douban.score),
             count: b.douban.count != null && b.douban.count !== '' ? Number(String(b.douban.count).replace(/,/g, '')) : null,
             scale: '10 分制',
-            source: '豆瓣读书（移动版条目页实时抓取）',
+            source: '豆瓣读书（实时抓取）',
             sourceUrl: b.douban.url || '',
             subjectId: String(b.douban.url || '').match(/subject\/(\d+)/)?.[1] || '',
             edition: `${b.title}${b.editionYear ? ` ${b.editionYear}` : ''}`,

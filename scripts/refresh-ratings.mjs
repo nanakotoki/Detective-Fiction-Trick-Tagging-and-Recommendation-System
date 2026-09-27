@@ -18,6 +18,16 @@
  *   node scripts/refresh-ratings.mjs --candidates 5     每本书多比较几个版本
  *   node scripts/refresh-ratings.mjs --delay 800        调整请求间隔
  *
+ * 增量补抓（新批次入库后用这条，不必重跑全库）：
+ *   node scripts/refresh-ratings.mjs --missing --merge [--limit N]
+ *     · `--missing` 只抓图谱里没有可追溯来源（`sourceUrl`）的书；
+ *     · 其中**已知未命中**（图谱 `misses` 里记过的：检索无结果、只有外文原版条目、
+ *       条目暂无评分…）**默认跳过**——它们的原因是内容层面的，重试每本要试 8 个关键词，
+ *       实测比命中一本慢十倍以上。要重试请显式加 `--retry-misses`（第 109 轮）。
+ *
+ * ⚠️ 定向抓取（`--book` / `--limit`）会自动进入合并模式：只更新本次抓到的条目，
+ *    图谱其余记录保持不变（否则一次补抓会把图谱改成几条，属于静默的数据丢失）。
+ *
  * 合规说明：
  *   - 只读取评分(score)与评价人数(count)这类客观数值，**不抓取书评正文**，避免引入剧透
  *   - 默认 1.2 秒/次的请求间隔，单本最多抓 3 个候选版本，避免给豆瓣造成压力
@@ -77,6 +87,19 @@ function parseArgs(argv) {
     merge: argv.includes('--merge'),
     /** 只抓图谱里还没有可追溯来源的书（新增批次后增量补抓，不必重跑全库） */
     missing: argv.includes('--missing'),
+    /**
+     * 连**已知未命中**的书也跳过（第 109 轮）。
+     *
+     * 起因：`--missing` 的判据是「图谱里没有 sourceUrl」，而上一轮记下的未命中
+     * （`misses`：检索无结果、只有外文原版条目、条目暂无评分…）**同样没有 sourceUrl**，
+     * 于是每轮补抓都会把它们从头再试一遍。这些书的未命中原因是**内容层面**的
+     * （豆瓣确实没有中文版条目），不是网络层面的，重试只是白花请求时间——
+     * 实测一本未命中要试 8 个关键词，比一本命中慢十倍以上。
+     *
+     * 所以给一个开关：**要重试已知未命中时显式传 `--retry-misses`**（例如豆瓣恢复了
+     * 某类条目的索引，或有新的检索写法要试），默认跳过。
+     */
+    skipKnownMisses: argv.includes('--skip-known-misses') || !argv.includes('--retry-misses'),
     /** 允许用本轮结果整体替换图谱（默认下，记录数变少会被拦下） */
     rebuild: argv.includes('--rebuild'),
     quiet: argv.includes('--quiet'),
@@ -668,6 +691,22 @@ async function main() {
     const atlas = await readExistingAtlas();
     const covered = new Set(atlas.filter((r) => r?.sourceUrl).map((r) => r.bookId ?? r.id));
     books = books.filter((b) => !covered.has(b.id));
+    /**
+     * 再扣掉「已知未命中」：它们的 `misses` 原因都是内容层面的
+     * （检索无结果／只有外文原版条目／条目暂无评分），重试只是白花请求。
+     * 要重试就显式传 `--retry-misses`。
+     */
+    if (args.skipKnownMisses) {
+      const known = new Set((await readExistingMisses()).map((m) => m.id));
+      const before = books.length;
+      books = books.filter((b) => !known.has(b.id));
+      if (before !== books.length) {
+        console.log(
+          `  ⓘ 已跳过图谱里记过的未命中 ${before - books.length} 部（原因都是内容层面的：豆瓣没有中文版条目等）；` +
+            '要重试请加 --retry-misses',
+        );
+      }
+    }
   }
   if (args.limit) books = books.slice(0, args.limit);
 
