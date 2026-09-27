@@ -318,11 +318,16 @@
     "safeSummary": "犯罪小说作家诺拉过着深居简出的生活，偶然收到一封婚前女子单身派对的邀请函，女主角是她失联十年的曾经最好的朋友；四十八小时后她在病床上醒来。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 50,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27063476/",
+        "subjectId": "27063476",
+        "edition": "暗无边际 2017",
+        "fetchedAt": "2026-09-27T12:07:52.584Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -364,7 +369,7 @@
     },
     "provenance": {
       "source": "batch-145-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -391,11 +396,16 @@
     "safeSummary": "「我每天都要看上百条的新闻，有些与我有关，大多数则与我无关。这两则新闻原本和我一点关系没有，如今却有了关联。」故事由此一点点展开。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 6299,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1854753/",
+        "subjectId": "1854753",
+        "edition": "返祖 2006",
+        "fetchedAt": "2026-09-27T12:07:57.718Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -437,7 +447,7 @@
     },
     "provenance": {
       "source": "batch-145-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -464,11 +474,16 @@
     "safeSummary": "书中讲述的每一个故事都会介绍一个引渡人：他们原本都是在世上犯过错的人，因「老板」的出现而成了为其服务的员工。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 52,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26874569/",
+        "subjectId": "26874569",
+        "edition": "灵魂引渡人 2016",
+        "fetchedAt": "2026-09-27T12:08:00.969Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -510,7 +525,7 @@
     },
     "provenance": {
       "source": "batch-145-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

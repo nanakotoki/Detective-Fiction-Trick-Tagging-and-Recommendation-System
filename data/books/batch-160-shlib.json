@@ -28,11 +28,16 @@
     "safeSummary": "瑞典布伦运河里捞出一具无名女尸，身上没有任何可供辨认的物件；马丁·贝克与同事把搜索范围一路扩大，从一条河查到另一个大陆。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 93,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38197328/",
+        "subjectId": "38197328",
+        "edition": "罗丝安娜 2026",
+        "fetchedAt": "2026-09-27T12:30:44.978Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -74,7 +79,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -106,11 +111,16 @@
     "safeSummary": "斯德哥尔摩的夏天，公园一带接连发生杀害孩童的案件，同时城里又有一连串行凶抢劫；贝克带队从极有限的线索入手。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 503,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2077843/",
+        "subjectId": "2077843",
+        "edition": "阳台上的男子 2007",
+        "fetchedAt": "2026-09-27T12:30:51.788Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -152,7 +162,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -184,11 +194,16 @@
     "safeSummary": "斯德哥尔摩一辆公交车遭到扫射，九名乘客无人生还，其中一名是警察；贝克却知道，这名下属本不该出现在那辆车上。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 1184,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2077835/",
+        "subjectId": "2077835",
+        "edition": "大笑的警察 2007",
+        "fetchedAt": "2026-09-27T12:30:57.473Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -230,7 +245,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -262,11 +277,16 @@
     "safeSummary": "一名从马尔默来的生意人在饭店遇害，他名下那些体面的公司背后另有生意；贝克一行顺着钱与人的关系查下去。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 355,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2077838/",
+        "subjectId": "2077838",
+        "edition": "萨伏大饭店 2007",
+        "fetchedAt": "2026-09-27T12:31:00.956Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -308,7 +328,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -340,11 +360,16 @@
     "safeSummary": "一名高级警官在医院病床上被杀，随后街头又响起枪声；贝克奉命追查这名专挑警察下手的人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 409,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2077839/",
+        "subjectId": "2077839",
+        "edition": "坏坯子 2007",
+        "fetchedAt": "2026-09-27T12:31:06.651Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -386,7 +411,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -418,11 +443,16 @@
     "safeSummary": "一次拦车临检演变成枪战，一名警察殉职，被全瑞典通缉的年轻人一路逃亡；他偷来的那辆车，意外牵出另一桩案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 328,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2077840/",
+        "subjectId": "2077840",
+        "edition": "弑警犯 2007",
+        "fetchedAt": "2026-09-27T12:31:12.092Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -464,7 +494,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -570,11 +600,16 @@
     "safeSummary": "罗马剧院里，一名观众死在座位上，死因是急性中毒；散场前大门就已封锁，而他头上的礼帽不见了。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 3304,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25853082/",
+        "subjectId": "25853082",
+        "edition": "罗马帽子之谜 2014",
+        "fetchedAt": "2026-09-27T12:31:27.470Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -616,7 +651,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -644,11 +679,16 @@
     "safeSummary": "百货商场橱窗的展区里出现一具女尸——死者是商场老板的妻子，而这栋大楼在夜间已经完全封闭。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 2789,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3112705/",
+        "subjectId": "3112705",
+        "edition": "法国粉末之谜 2008",
+        "fetchedAt": "2026-09-27T12:31:31.293Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -690,7 +730,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -718,11 +758,16 @@
     "safeSummary": "埃勒里到西班牙岬角避暑，先救出一名被捆绑的女子；再回到别墅时，露台上多了一具只搭着黑色披肩的尸体。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1766,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26579777/",
+        "subjectId": "26579777",
+        "edition": "西班牙披肩之谜 2015",
+        "fetchedAt": "2026-09-27T12:31:37.163Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -764,7 +809,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -792,11 +837,16 @@
     "safeSummary": "广场的四角立着四座宅子，富翁的四个侄辈各住一座，谁离开就等于放弃继承；富翁死后，四个人接连被杀。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 699,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3347989/",
+        "subjectId": "3347989",
+        "edition": "另一方玩家 2009",
+        "fetchedAt": "2026-09-27T12:31:42.977Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -838,7 +888,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -866,11 +916,16 @@
     "safeSummary": "玛莎继承了百万家产，丈夫是位侦探小说家，这桩婚姻并不像外人看到的那样；她开始收到用红色墨水的打字机打出的信。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 389,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25767899/",
+        "subjectId": "25767899",
+        "edition": "红信 2013",
+        "fetchedAt": "2026-09-27T12:31:48.440Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -912,7 +967,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -939,11 +994,16 @@
     "safeSummary": "奎因在 1939 至 1948 年间为广播剧写下的短篇谜案选集：故事往往在揭晓前戛然而止，请听众自行推理。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 345,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26881713/",
+        "subjectId": "26881713",
+        "edition": "幸存者游戏 2016",
+        "fetchedAt": "2026-09-27T12:31:51.967Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -985,7 +1045,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1013,11 +1073,16 @@
     "safeSummary": "奎因的短篇实验集：临终遗言、现场演绎、奎因调查局、猜谜俱乐部与历史探案，五个部分各显一种推理路数。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 363,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36715185/",
+        "subjectId": "36715185",
+        "edition": "死前留言 2025",
+        "fetchedAt": "2026-09-27T12:31:57.472Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1059,7 +1124,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1087,11 +1152,16 @@
     "safeSummary": "忘却侦探今日子要在一天之内处理若干难题：被钢琴砸中的现场、封闭的地下室，以及密室逃脱游戏里交来的一桩委托。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 102,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27140548/",
+        "subjectId": "27140548",
+        "edition": "掟上今日子的家計簿 2017",
+        "fetchedAt": "2026-09-27T12:32:01.028Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1133,7 +1203,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1160,11 +1230,16 @@
     "safeSummary": "青年隐馆厄介因自己的「冤罪体质」被记者采访，随后竟收到对方的求婚；今日子受托查明这场婚事背后的用意。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 65,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35517176/",
+        "subjectId": "35517176",
+        "edition": "掟上今日子的婚姻届 2021",
+        "fetchedAt": "2026-09-27T12:32:08.076Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1206,7 +1281,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1233,11 +1308,16 @@
     "safeSummary": "怪盗淑女预告要去取走埃菲尔铁塔，今日子为此前往巴黎；途中偶遇厄介，连她手臂上的备忘录也出了问题。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 96,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27665166/",
+        "subjectId": "27665166",
+        "edition": "掟上今日子的旅行記 2018",
+        "fetchedAt": "2026-09-27T12:32:12.913Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1279,7 +1359,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1306,11 +1386,16 @@
     "safeSummary": "池塘里发现一具女尸，凶手与动机都已查清，唯独「为什么要把人沉在这座一米半深的池塘里」无人能答。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 109,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523754/",
+        "subjectId": "35523754",
+        "edition": "掟上今日子的辞职信 2021",
+        "fetchedAt": "2026-09-27T12:32:19.349Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1352,7 +1437,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1379,11 +1464,16 @@
     "safeSummary": "「掟上今日子在我手上」——事务所唯一的员工接到恐吓电话，对方索要十亿日元，似乎并不只是为了钱。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 82,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35603884/",
+        "subjectId": "35603884",
+        "edition": "掟上今日子的色卡本 2021",
+        "fetchedAt": "2026-09-27T12:32:24.057Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1425,7 +1515,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1452,11 +1542,16 @@
     "safeSummary": "今日子因涉嫌抢劫杀人被捕：现场是密室，她躺在死者身边、手握凶器——而她已经不记得当时发生了什么。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 82,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35599754/",
+        "subjectId": "35599754",
+        "edition": "掟上今日子的内封面 2021",
+        "fetchedAt": "2026-09-27T12:32:29.054Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1498,7 +1593,7 @@
     },
     "provenance": {
       "source": "batch-160-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

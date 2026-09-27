@@ -27,11 +27,16 @@
     "safeSummary": "由悬疑推理文学书评人华斯比选编的年度选本，收录 2025 年诸多具有代表性的悬疑推理小说，如《福尔摩斯打字机》《鸳鸯蝴蝶探案集》《穿越时空的凶器》等作品。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 141,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37867104/",
+        "subjectId": "37867104",
+        "edition": "2025年中国悬疑推理小说精选 2026",
+        "fetchedAt": "2026-09-27T12:26:58.617Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -73,7 +78,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -104,11 +109,16 @@
     "safeSummary": "对 2020 年华语原创侦探推理类小说的年度精选，时间跨度从 2019 年 10 月到 2020 年 11 月，所选媒体包括《啄木鸟》《推理》《推理世界》等。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35280158/",
+        "subjectId": "35280158",
+        "edition": "2020年中国侦探推理小说精选 2021",
+        "fetchedAt": "2026-09-27T12:27:03.077Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -150,7 +160,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -181,11 +191,16 @@
     "safeSummary": "对 2019 年华语原创侦探推理类小说的年度精选，时间跨度从 2018 年 10 月到 2019 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》等。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 35,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34908140/",
+        "subjectId": "34908140",
+        "edition": "2019年中国侦探推理小说精选 2020",
+        "fetchedAt": "2026-09-27T12:27:07.629Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -227,7 +242,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -258,11 +273,16 @@
     "safeSummary": "对 2018 年华语原创中短篇侦探推理类小说的年度精选，时间跨度从 2017 年 10 月到 2018 年 11 月，所选刊物包括《啄木鸟》《岁月·推理》《推理世界》等。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.1,
+        "count": 32,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30410349/",
+        "subjectId": "30410349",
+        "edition": "2018年中国侦探推理小说精选 2019",
+        "fetchedAt": "2026-09-27T12:27:12.196Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -304,7 +324,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -487,11 +507,16 @@
     "safeSummary": "一部反思西班牙社会现状的推理文学：在教皇为圣家堂举行祝圣仪式前几天，一具燃烧的尸体出现在米拉之家的外墙上；警方陷入死胡同时，因纪律问题被免职的督察被复职。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 54,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37674058/",
+        "subjectId": "37674058",
+        "edition": "巴塞罗那谋杀案 2026",
+        "fetchedAt": "2026-09-27T12:27:29.013Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -533,7 +558,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -565,11 +590,16 @@
     "safeSummary": "对八个著名谋杀案（包括「开膛手杰克案」「丽奇·伯登案」「林德伯格绑架案」「黑色大丽花」等）进行分析的作品，并对罪犯的心理展开了全面剖析。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 627,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33447941/",
+        "subjectId": "33447941",
+        "edition": "顶级悬案 2019",
+        "fetchedAt": "2026-09-27T12:27:33.652Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -611,7 +641,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -639,11 +669,16 @@
     "safeSummary": "战争时期，大国间的尔虞我诈连最上层的贵族也被牵扯其中：一个本该死去的贵族小姐竟然又重新出现在大家面前，一件看起来扑朔迷离的交通事故引出更为神秘的组织。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 17,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30332849/",
+        "subjectId": "30332849",
+        "edition": "女神探希娃09：分身诡计 2018",
+        "fetchedAt": "2026-09-27T12:27:36.950Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -685,7 +720,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -786,11 +821,16 @@
     "safeSummary": "原本是刑事部搜查二课第二把交椅的主人公在二〇〇三年春天明升暗降，被调派到警务部担任公关主任；与此同时，因为高层人事争斗，警察厅长官为了昭和六十四年那桩案子而奔走。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 1195,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30312373/",
+        "subjectId": "30312373",
+        "edition": "昭和六十四年绑架案 2020",
+        "fetchedAt": "2026-09-27T12:27:46.661Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -832,7 +872,7 @@
     },
     "provenance": {
       "source": "batch-156-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

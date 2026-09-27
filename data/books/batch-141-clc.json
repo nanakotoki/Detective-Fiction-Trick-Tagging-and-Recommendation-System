@@ -24,11 +24,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 65,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35714038/",
+        "subjectId": "35714038",
+        "edition": "隐匿的世界 2022",
+        "fetchedAt": "2026-09-27T11:55:59.946Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -70,7 +75,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -99,11 +104,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 668,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35386810/",
+        "subjectId": "35386810",
+        "edition": "白泽先生志怪谭 2021",
+        "fetchedAt": "2026-09-27T11:56:05.088Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -145,7 +155,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -173,11 +183,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 116,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35271707/",
+        "subjectId": "35271707",
+        "edition": "孤独实验室 2021",
+        "fetchedAt": "2026-09-27T11:56:09.793Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -219,7 +234,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -246,11 +261,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2935,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35383701/",
+        "subjectId": "35383701",
+        "edition": "无形之刃 2021",
+        "fetchedAt": "2026-09-27T11:56:14.506Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -292,7 +312,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -393,11 +413,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 100,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35645171/",
+        "subjectId": "35645171",
+        "edition": "时间森林：寻找金苗 2021",
+        "fetchedAt": "2026-09-27T11:56:22.975Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -439,7 +464,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -466,11 +491,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 654,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35942059/",
+        "subjectId": "35942059",
+        "edition": "侯大利刑侦笔记8 2022",
+        "fetchedAt": "2026-09-27T11:56:27.836Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -512,7 +542,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -614,11 +644,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 477,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35736426/",
+        "subjectId": "35736426",
+        "edition": "画语戮 2022",
+        "fetchedAt": "2026-09-27T11:56:35.562Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -660,7 +695,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -688,11 +723,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 46,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35761918/",
+        "subjectId": "35761918",
+        "edition": "当罪恶在摇篮中 2022",
+        "fetchedAt": "2026-09-27T11:56:39.013Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -734,7 +774,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -762,11 +802,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 187,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35761870/",
+        "subjectId": "35761870",
+        "edition": "百妖捕物帐 2022",
+        "fetchedAt": "2026-09-27T11:56:43.655Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -808,7 +853,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -836,11 +881,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 8828,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35923191/",
+        "subjectId": "35923191",
+        "edition": "鱼猎 2022",
+        "fetchedAt": "2026-09-27T11:56:48.212Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -882,7 +932,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -910,11 +960,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 596,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34900446/",
+        "subjectId": "34900446",
+        "edition": "必须犯规的游戏.2 2019",
+        "fetchedAt": "2026-09-27T11:56:53.393Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -956,7 +1011,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -984,11 +1039,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 515,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34901058/",
+        "subjectId": "34901058",
+        "edition": "必须犯规的游戏.3",
+        "fetchedAt": "2026-09-27T11:56:58.268Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1030,7 +1090,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1058,11 +1118,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 486,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34933158/",
+        "subjectId": "34933158",
+        "edition": "必须犯规的游戏4 2020",
+        "fetchedAt": "2026-09-27T11:57:03.101Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1104,7 +1169,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1280,11 +1345,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 300,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35674134/",
+        "subjectId": "35674134",
+        "edition": "心狂 2022",
+        "fetchedAt": "2026-09-27T11:57:19.414Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1326,7 +1396,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1354,11 +1424,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.1,
+        "count": 53,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35726248/",
+        "subjectId": "35726248",
+        "edition": "错探者 2022",
+        "fetchedAt": "2026-09-27T11:57:24.720Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1400,7 +1475,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1502,11 +1577,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35653410/",
+        "subjectId": "35653410",
+        "edition": "打雪仗 2021",
+        "fetchedAt": "2026-09-27T11:57:33.759Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1548,7 +1628,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1723,11 +1803,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 82,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35644367/",
+        "subjectId": "35644367",
+        "edition": "逆空追凶 2021",
+        "fetchedAt": "2026-09-27T11:57:49.067Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1769,7 +1854,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1795,11 +1880,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 23,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35740069/",
+        "subjectId": "35740069",
+        "edition": "生死营救24小时 2021",
+        "fetchedAt": "2026-09-27T11:57:53.508Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1841,7 +1931,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1869,11 +1959,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 1051,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35578935/",
+        "subjectId": "35578935",
+        "edition": "非常疑犯 2021",
+        "fetchedAt": "2026-09-27T11:57:58.112Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1915,7 +2010,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1943,11 +2038,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 372,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35272712/",
+        "subjectId": "35272712",
+        "edition": "反骗案中案 2 2021",
+        "fetchedAt": "2026-09-27T11:58:03.384Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1989,7 +2089,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2017,11 +2117,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 355,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35486187/",
+        "subjectId": "35486187",
+        "edition": "反骗案中案 3 2021",
+        "fetchedAt": "2026-09-27T11:58:06.559Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2063,7 +2168,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2091,11 +2196,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.5,
+        "count": 81,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35246301/",
+        "subjectId": "35246301",
+        "edition": "罪念 2020",
+        "fetchedAt": "2026-09-27T11:58:09.775Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2137,7 +2247,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2165,11 +2275,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 141,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35503781/",
+        "subjectId": "35503781",
+        "edition": "潜梦追凶笔记 2021",
+        "fetchedAt": "2026-09-27T11:58:14.445Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2211,7 +2326,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2238,11 +2353,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.2,
+        "count": 30503,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34467283/",
+        "subjectId": "34467283",
+        "edition": "破云 2019",
+        "fetchedAt": "2026-09-27T11:58:19.133Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2284,7 +2404,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2311,11 +2431,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 68,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36368069/",
+        "subjectId": "36368069",
+        "edition": "破云.大结局（新版） 2023",
+        "fetchedAt": "2026-09-27T11:58:22.381Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2357,7 +2482,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2385,11 +2510,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 738,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35450761/",
+        "subjectId": "35450761",
+        "edition": "全世界都在等我们 2021",
+        "fetchedAt": "2026-09-27T11:58:26.996Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2431,7 +2561,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2459,11 +2589,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 581,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35519441/",
+        "subjectId": "35519441",
+        "edition": "预测死亡的兔子 2021",
+        "fetchedAt": "2026-09-27T11:58:30.800Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2505,7 +2640,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2532,11 +2667,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 264,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35241567/",
+        "subjectId": "35241567",
+        "edition": "三叉戟之纵横四海 2020",
+        "fetchedAt": "2026-09-27T11:58:36.162Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2578,7 +2718,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2680,11 +2820,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 1785,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33461333/",
+        "subjectId": "33461333",
+        "edition": "待我有罪时",
+        "fetchedAt": "2026-09-27T11:58:44.602Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2726,7 +2871,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2755,11 +2900,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 88,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34879445/",
+        "subjectId": "34879445",
+        "edition": "待我有罪时2 2019",
+        "fetchedAt": "2026-09-27T11:58:47.930Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2801,7 +2951,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2829,11 +2979,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 87,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34879450/",
+        "subjectId": "34879450",
+        "edition": "待我有罪时：大结局 2019",
+        "fetchedAt": "2026-09-27T11:58:52.478Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2875,7 +3030,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2902,11 +3057,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 4.5,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36242815/",
+        "subjectId": "36242815",
+        "edition": "蝉影 2023",
+        "fetchedAt": "2026-09-27T11:58:56.947Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2948,7 +3108,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -3053,11 +3213,16 @@
     "recommendationReason": "",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 6265,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36218542/",
+        "subjectId": "36218542",
+        "edition": "狂飙 2023",
+        "fetchedAt": "2026-09-27T11:59:06.359Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -3099,7 +3264,7 @@
     },
     "provenance": {
       "source": "batch-141-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -23,11 +23,16 @@
     "safeSummary": "以十篇短篇小说的形式讲述有关意识转移、人工智能、虚拟现实等多个悬疑推理故事；每篇的人物与故事各不相同，以科幻为核心，融入推理、悬疑、都市等多重要素。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 162,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35710720/",
+        "subjectId": "35710720",
+        "edition": "死者AI 2022",
+        "fetchedAt": "2026-09-27T12:27:57.809Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-157-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

@@ -93,11 +93,16 @@
     "safeSummary": "下班高峰、车流拥挤的高架桥上，一个男子突然猝死在车内；表面看起来是自杀无疑，但警察始终觉得事有蹊跷，不懈追查下发现了案件骇人听闻的背景。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 415,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34809659/",
+        "subjectId": "34809659",
+        "edition": "尾气 2021",
+        "fetchedAt": "2026-09-27T12:15:01.821Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -139,7 +144,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -164,11 +169,16 @@
     "safeSummary": "系列中卷：主人公前往美国完成自己命中注定的任务——恢复公司大业；到美国后惊愕地发现所有关键人物接连死去，自己更被陷害入狱，在狱中接连遭遇一系列神秘事件。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 2295,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3885433/",
+        "subjectId": "3885433",
+        "edition": "人间（中卷） 2009",
+        "fetchedAt": "2026-09-27T12:15:05.287Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -210,7 +220,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -236,11 +246,16 @@
     "safeSummary": "陷入抑郁的心理师在游轮上再次遭遇对手；强悍的对手来袭，归来的恋人已是他人妻。心理师之间的试探、解离性迷游症下的失常，接连出现。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 188,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26836538/",
+        "subjectId": "26836538",
+        "edition": "心理大师：模仿者 2016",
+        "fetchedAt": "2026-09-27T12:15:08.682Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -282,7 +297,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -313,11 +328,16 @@
     "safeSummary": "年度悬疑小说选本，收录《真实的生活》《杯之壁障》《铁锈新鲜》《蝌蚪》《虚构的灰》《雪中追忆》《无辜的囚徒》《切齿梳》《第二方向》《空车》《窥光》《唯有死亡可以被原谅》等篇。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 51,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36330615/",
+        "subjectId": "36330615",
+        "edition": "2022中国年度悬疑小说 2023",
+        "fetchedAt": "2026-09-27T12:15:13.310Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -359,7 +379,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -385,11 +405,16 @@
     "safeSummary": "古代旅行悬疑小说：讲述中国旅行鼻祖徐霞客的旅行机密，还原他作为古代旅行家、探险家，擅长游法游术、身负各类求生用具、精于探寻山势水脉本来面貌的一面。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 378,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34858521/",
+        "subjectId": "34858521",
+        "edition": "徐霞客山河异志 2020",
+        "fetchedAt": "2026-09-27T12:15:17.969Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -431,7 +456,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -457,11 +482,16 @@
     "safeSummary": "古代旅行悬疑小说第二部，分「会聚篇」「离散篇」两篇，共含「旱骨桩」「探花郎」「群英会」「撒手锏」等八章。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 150,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35065617/",
+        "subjectId": "35065617",
+        "edition": "徐霞客山河异志2：大明暗卫 2020",
+        "fetchedAt": "2026-09-27T12:15:23.410Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -503,7 +533,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -529,11 +559,16 @@
     "safeSummary": "以徐霞客的历史记载为基础进行虚构创作的旅行悬疑小说第四部，全书八章：夺宫变、亡命徒、裹尸还、委鬼立、礼乐崩、九千岁、惊天爆、江湖远。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 81,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35065620/",
+        "subjectId": "35065620",
+        "edition": "徐霞客山河异志4：江湖路远 2021",
+        "fetchedAt": "2026-09-27T12:15:27.779Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -575,7 +610,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -600,11 +635,16 @@
     "safeSummary": "当红明星在配合案件调查时神态有异，秉持着不放过任何一丝线索的信念，主人公决定追查下去；他背后的故事渐渐浮现在重案队众人眼前。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 118,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35911756/",
+        "subjectId": "35911756",
+        "edition": "心狂.大结局 2022",
+        "fetchedAt": "2026-09-27T12:15:32.257Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -646,7 +686,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -672,11 +712,16 @@
     "safeSummary": "北宋宣和二年重阳夜，梁山忠义堂内众好汉齐聚；一首表达招安之意的词曲唱罢，顿时让众人剑拔弩张，梁山好汉的出路问题成了上下最大的悬念和机密。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 215,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30362715/",
+        "subjectId": "30362715",
+        "edition": "水浒猎人4 2020",
+        "fetchedAt": "2026-09-27T12:15:37.040Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -718,7 +763,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -815,11 +860,16 @@
     "safeSummary": "一位不得志的颓废女演员，某天一个女孩不请自来成了她的室友；她渐渐发现，这个貌似热情的女孩正偷偷把触角伸向她不为人知的过往——母亲的出轨、意外的车祸、父亲的死亡。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 456,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34984112/",
+        "subjectId": "34984112",
+        "edition": "风暴来的那一天 2020",
+        "fetchedAt": "2026-09-27T12:15:44.336Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -861,7 +911,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -887,11 +937,16 @@
     "safeSummary": "双胞胎弟弟去世后，哥哥在他人鼓动下与弟弟互换身份，让自己从世人眼中「消失」；通过商业运作，他的画作从无人问津到被炒上天价，而越来越多的人入局，谎言也越滚越大。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 309,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36249413/",
+        "subjectId": "36249413",
+        "edition": "一个死后成名的画家又回来了 2023",
+        "fetchedAt": "2026-09-27T12:15:47.428Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -933,7 +988,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -959,11 +1014,16 @@
     "safeSummary": "女主角因一条匿名短信意外发现埋藏多年的秘密，一张保单揭开了尘封许久的过往；多年前的那起事件又重新出现在众人面前，行文层层剥茧，一点点展露二十年前那起事件的幕后真相。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 100,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36754871/",
+        "subjectId": "36754871",
+        "edition": "虞美人不开的夏天 2024",
+        "fetchedAt": "2026-09-27T12:15:50.668Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1005,7 +1065,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1101,11 +1161,16 @@
     "safeSummary": "以悬疑手法描述大汉盛世时期的朝野全图：从天子近臣「绣衣使者」的角度，对当时的异族、外戚、功臣、豪强，边防与内政等做了多方位的展现。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 73,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36361898/",
+        "subjectId": "36361898",
+        "edition": "大汉绣衣使：无庸夫人 2023",
+        "fetchedAt": "2026-09-27T12:16:00.261Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1147,7 +1212,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1173,11 +1238,16 @@
     "safeSummary": "围绕伦敦甲骨拍卖会的强烈诱惑，老千们依次登场，意外事件接连发生；惊人的真相伴随着一个个陷阱的浮现与一次次人性的考验。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 41,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35178384/",
+        "subjectId": "35178384",
+        "edition": "秘密实验：甲骨碎 2021",
+        "fetchedAt": "2026-09-27T12:16:05.024Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1219,7 +1289,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1319,11 +1389,16 @@
     "safeSummary": "本书含两个故事：《恐怖的魔王》讲本已在一周前死去的女儿突然打来电话，让父亲送赎金给绑匪并接她回家；送赎金时，他发现与另一具尸体重叠的女儿尸体上刻着「恶魔王」字样。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 49,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26841258/",
+        "subjectId": "26841258",
+        "edition": "恐怖的魔王·黑手 2016",
+        "fetchedAt": "2026-09-27T12:16:16.436Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1365,7 +1440,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1393,11 +1468,16 @@
     "safeSummary": "本书由《暗黑星》和《二钱铜币》两部小说集组成：《暗黑星》讲儿子遇刺受伤、妻子和小女儿遭害身亡、陌生男子死于家中，连负责侦破此案的大侦探也遭枪击住进了医院。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 72,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26841244/",
+        "subjectId": "26841244",
+        "edition": "暗黑星·二钱铜币 2016",
+        "fetchedAt": "2026-09-27T12:16:20.925Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1439,7 +1519,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1467,11 +1547,16 @@
     "safeSummary": "深更半夜的浅草公园、打烊闭店后的和服商场，侏儒的身影总是幽灵般出没在黑暗中；伴随他出现的还有残断的人的肢体——这些残肢从哪里来，被害人又是谁？",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 73,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26841267/",
+        "subjectId": "26841267",
+        "edition": "侏儒法师 2016",
+        "fetchedAt": "2026-09-27T12:16:25.629Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1513,7 +1598,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1621,11 +1706,16 @@
     "safeSummary": "一名中学男生坠楼摔成重伤，他的母亲坚信儿子在校受到了欺负、是被其他男孩推下楼的；家长与校方意见不一致，母亲通过他人找到了那位讨厌小屁孩和学校的律师。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 214,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26698661/",
+        "subjectId": "26698661",
+        "edition": "胜者即是正义 特别篇 2016",
+        "fetchedAt": "2026-09-27T12:16:37.212Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1667,7 +1757,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1695,11 +1785,16 @@
     "safeSummary": "长野县发生雪山遇险事故，度假到此的主人公立即投入救援，可现场空无人影，她反倒被一场雪崩掩埋；好不容易回到之前入住的酒店，所有工作人员竟无一人认识她，且个个都声称她没来过。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 52,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26286209/",
+        "subjectId": "26286209",
+        "edition": "少女魔术师 2015",
+        "fetchedAt": "2026-09-27T12:16:40.526Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1741,7 +1836,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1769,11 +1864,16 @@
     "safeSummary": "本格推理长篇：以一座奇特的建筑为舞台，围绕「二重身」这一设定展开的密室与身份谜题。馆藏提要未提供情节内容，梗概暂缺。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 757,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1034416/",
+        "subjectId": "1034416",
+        "edition": "二重身宫 2004",
+        "fetchedAt": "2026-09-27T12:16:47.598Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1815,7 +1915,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2065,11 +2165,16 @@
     "safeSummary": "以考古学家的笔记与书信构成的知识悬疑小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 193,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1444176/",
+        "subjectId": "1444176",
+        "edition": "埃及考古学家 2005",
+        "fetchedAt": "2026-09-27T12:17:14.407Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2111,7 +2216,7 @@
     },
     "provenance": {
       "source": "batch-149-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

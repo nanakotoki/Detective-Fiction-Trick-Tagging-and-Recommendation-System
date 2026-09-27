@@ -23,11 +23,16 @@
     "safeSummary": "美国现代长篇推理小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 245,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2984070/",
+        "subjectId": "2984070",
+        "edition": "惊悚时分 2007",
+        "fetchedAt": "2026-09-27T12:17:19.262Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-150-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -168,11 +173,16 @@
     "safeSummary": "长篇小说：故事从一段车内的对话切入——「快点开，乔。玛丽·安又犯脾气了，所以我想在十点之前回到家」，说话的是奥兰治县第一区的区长。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 55,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2025746/",
+        "subjectId": "2025746",
+        "edition": "沉默的乔 2007",
+        "fetchedAt": "2026-09-27T12:17:29.276Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -214,7 +224,7 @@
     },
     "provenance": {
       "source": "batch-150-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +252,16 @@
     "safeSummary": "神秘悬疑小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 20,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2299915/",
+        "subjectId": "2299915",
+        "edition": "坟墓里的陌生人 1998/12",
+        "fetchedAt": "2026-09-27T12:17:33.935Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +303,7 @@
     },
     "provenance": {
       "source": "batch-150-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -316,11 +331,16 @@
     "safeSummary": "国际商业信贷银行洗钱案在二十世纪九十年代曾被称为「美国史上最骇人听闻的一桩洗钱案」，也是「世界金融史上最大的诈骗案」；美国特工伪装成富有的商人，精心布下重重诱饵，暗中调查贩毒卡特尔洗钱案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26979594/",
+        "subjectId": "26979594",
+        "edition": "黑金卧底—走进银行洗钱案的幕后 2016",
+        "fetchedAt": "2026-09-27T12:17:38.214Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -362,7 +382,7 @@
     },
     "provenance": {
       "source": "batch-150-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -28,11 +28,16 @@
     "safeSummary": "由江户川乱步编选的世界经典「诡诞猎奇」短篇小说集，收录六部作品，如《两瓶调味品》《十五个杀人者》《黄色蛞蝓》等。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 27,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37436528/",
+        "subjectId": "37436528",
+        "edition": "推理之神：诡异罪恶园 2025",
+        "fetchedAt": "2026-09-27T12:28:35.690Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -74,7 +79,7 @@
     },
     "provenance": {
       "source": "batch-158-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -173,11 +178,16 @@
     "safeSummary": "少年八木泽顺和当刑警的父亲无意间得知了下町街一起案件的传闻；与此同时，一封封匿名信寄到了警局和家里，信中详细告知了受害者的信息，警方的调查因此受到影响。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 769,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35129142/",
+        "subjectId": "35129142",
+        "edition": "刑警之子 2020",
+        "fetchedAt": "2026-09-27T12:28:44.323Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -219,7 +229,7 @@
     },
     "provenance": {
       "source": "batch-158-ctbu.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

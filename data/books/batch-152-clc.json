@@ -23,11 +23,16 @@
     "safeSummary": "「诱饵搜查官」系列第一部，以「触觉」为题。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 501,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892808/",
+        "subjectId": "26892808",
+        "edition": "诱饵搜查官 1 · 触觉 2016",
+        "fetchedAt": "2026-09-27T12:19:36.083Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "「诱饵搜查官」系列第二部，以「视觉」为题。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 340,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892938/",
+        "subjectId": "26892938",
+        "edition": "诱饵搜查官 2 ·视觉 2016",
+        "fetchedAt": "2026-09-27T12:19:39.628Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -170,11 +180,16 @@
     "safeSummary": "「诱饵搜查官」系列第三部，以「听觉」为题。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 281,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892937/",
+        "subjectId": "26892937",
+        "edition": "诱饵搜查官 3 ·听觉 2016",
+        "fetchedAt": "2026-09-27T12:19:43.275Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -216,7 +231,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -243,11 +258,16 @@
     "safeSummary": "「诱饵搜查官」系列第四部，以「嗅觉」为题。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.6,
+        "count": 254,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892936/",
+        "subjectId": "26892936",
+        "edition": "诱饵搜查官 4 · 嗅觉 2016",
+        "fetchedAt": "2026-09-27T12:19:46.823Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -289,7 +309,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -316,11 +336,16 @@
     "safeSummary": "「诱饵搜查官」系列第五部，以「味觉」为题。馆藏提要未提供情节内容，梗缺暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.6,
+        "count": 243,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26892939/",
+        "subjectId": "26892939",
+        "edition": "诱饵搜查官5·味觉 2016",
+        "fetchedAt": "2026-09-27T12:19:50.260Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -362,7 +387,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -390,11 +415,16 @@
     "safeSummary": "历史背景下的侦探小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 393,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35802295/",
+        "subjectId": "35802295",
+        "edition": "天堂之音，魔鬼之名 2022",
+        "fetchedAt": "2026-09-27T12:19:53.764Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -436,7 +466,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -464,11 +494,16 @@
     "safeSummary": "历史推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 230,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35693841/",
+        "subjectId": "35693841",
+        "edition": "死之泉 2022",
+        "fetchedAt": "2026-09-27T12:19:57.252Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -510,7 +545,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -537,11 +572,16 @@
     "safeSummary": "推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 57,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36190369/",
+        "subjectId": "36190369",
+        "edition": "帝王雷欧的冒险 2023",
+        "fetchedAt": "2026-09-27T12:20:00.568Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -583,7 +623,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -611,11 +651,16 @@
     "safeSummary": "以两位推理作家为原型角色展开的外传小说。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 326,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33404935/",
+        "subjectId": "33404935",
+        "edition": "文豪野犬外传 2019",
+        "fetchedAt": "2026-09-27T12:20:05.450Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -657,7 +702,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -762,11 +807,16 @@
     "safeSummary": "以专利代理师为主角的推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 63,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36242794/",
+        "subjectId": "36242794",
+        "edition": "王牌代理师·大凤未来 2023",
+        "fetchedAt": "2026-09-27T12:20:14.116Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -808,7 +858,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -836,11 +886,16 @@
     "safeSummary": "以日本民间故事为底本改写的推理短篇集。馆藏提要未提供篇目与情节，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 2124,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36504668/",
+        "subjectId": "36504668",
+        "edition": "很久很久以前，在某一个地方，果然...... 2023",
+        "fetchedAt": "2026-09-27T12:20:18.767Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -882,7 +937,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -910,11 +965,16 @@
     "safeSummary": "西尾维新「人间」系列长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 138,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36453363/",
+        "subjectId": "36453363",
+        "edition": "糸首浪漫派 2023",
+        "fetchedAt": "2026-09-27T12:20:22.207Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -956,7 +1016,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -984,11 +1044,16 @@
     "safeSummary": "西尾维新「人间」系列长篇下卷。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 81,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36512990/",
+        "subjectId": "36512990",
+        "edition": "绝妙逻辑（下） 2024",
+        "fetchedAt": "2026-09-27T12:20:29.003Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1030,7 +1095,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1058,11 +1123,16 @@
     "safeSummary": "西尾维新「戏言」系列长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 99,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36453362/",
+        "subjectId": "36453362",
+        "edition": "悬梁高校 2023",
+        "fetchedAt": "2026-09-27T12:20:33.851Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1104,7 +1174,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1132,11 +1202,16 @@
     "safeSummary": "以「怪屋」的平面图为线索的本格推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 14103,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36407256/",
+        "subjectId": "36407256",
+        "edition": "怪屋谜案 2023",
+        "fetchedAt": "2026-09-27T12:20:38.811Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1178,7 +1253,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1206,11 +1281,16 @@
     "safeSummary": "以叙述结构为核心的中篇推理。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 5861,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36075911/",
+        "subjectId": "36075911",
+        "edition": "德尔塔的悲剧 2022",
+        "fetchedAt": "2026-09-27T12:20:44.678Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1252,7 +1332,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1280,11 +1360,16 @@
     "safeSummary": "本格推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 433,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37135265/",
+        "subjectId": "37135265",
+        "edition": "破碎的杀意 2025",
+        "fetchedAt": "2026-09-27T12:20:48.271Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1326,7 +1411,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1354,11 +1439,16 @@
     "safeSummary": "奇幻设定下的本格推理长篇，为「炼金术师」系列之一。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 973,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35998643/",
+        "subjectId": "35998643",
+        "edition": "炼金术师的消失 2022",
+        "fetchedAt": "2026-09-27T12:20:51.711Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1400,7 +1490,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1428,11 +1518,16 @@
     "safeSummary": "以家族与动机为核心的本格推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 879,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36036847/",
+        "subjectId": "36036847",
+        "edition": "欺瞒的动机 2023",
+        "fetchedAt": "2026-09-27T12:20:55.214Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1474,7 +1569,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1501,11 +1596,16 @@
     "safeSummary": "以「身份」为核心议题的推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 637,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36488645/",
+        "subjectId": "36488645",
+        "edition": "真实身份 2023",
+        "fetchedAt": "2026-09-27T12:20:58.766Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1547,7 +1647,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1575,11 +1675,16 @@
     "safeSummary": "奇幻设定下的推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 255,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35947028/",
+        "subjectId": "35947028",
+        "edition": "杀龙事件 2022",
+        "fetchedAt": "2026-09-27T12:21:02.150Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1621,7 +1726,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1649,11 +1754,16 @@
     "safeSummary": "心理悬疑长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 453,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36688945/",
+        "subjectId": "36688945",
+        "edition": "老蜂 2024",
+        "fetchedAt": "2026-09-27T12:21:05.817Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1695,7 +1805,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1723,11 +1833,16 @@
     "safeSummary": "以「同一人被杀两次」为核心谜题的本格推理。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 512,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36939346/",
+        "subjectId": "36939346",
+        "edition": "二度遭到杀害的她 2024",
+        "fetchedAt": "2026-09-27T12:21:09.535Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1769,7 +1884,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1797,11 +1912,16 @@
     "safeSummary": "以东京二十三个区为舞台的推理短篇连作。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 479,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34996431/",
+        "subjectId": "34996431",
+        "edition": "东京二十三区女子 2020",
+        "fetchedAt": "2026-09-27T12:21:13.344Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1843,7 +1963,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1871,11 +1991,16 @@
     "safeSummary": "推理短篇集。馆藏提要未提供篇目与情节，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 351,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37271270/",
+        "subjectId": "37271270",
+        "edition": "归来的蝉 2025",
+        "fetchedAt": "2026-09-27T12:21:17.898Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1917,7 +2042,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1945,11 +2070,16 @@
     "safeSummary": "以城堡为舞台的古典推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 4.7,
+        "count": 38,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27177533/",
+        "subjectId": "27177533",
+        "edition": "斯卡海文城堡 2018",
+        "fetchedAt": "2026-09-27T12:21:21.259Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1991,7 +2121,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2019,11 +2149,16 @@
     "safeSummary": "古典密室推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 72,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34951385/",
+        "subjectId": "34951385",
+        "edition": "银色鱼鳞谜案 2020",
+        "fetchedAt": "2026-09-27T12:21:25.898Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2065,7 +2200,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2092,11 +2227,16 @@
     "safeSummary": "「科莫兰·斯特莱克」系列长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者、丛编与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 332,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34802895/",
+        "subjectId": "34802895",
+        "edition": "致命的白色 2021",
+        "fetchedAt": "2026-09-27T12:21:30.801Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2138,7 +2278,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2166,11 +2306,16 @@
     "safeSummary": "以牛津为舞台的黄金时代推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.3,
+        "count": 68,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34662087/",
+        "subjectId": "34662087",
+        "edition": "牛津谜案 2019",
+        "fetchedAt": "2026-09-27T12:21:34.127Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2212,7 +2357,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2240,11 +2385,16 @@
     "safeSummary": "以牙齿这一物证为线索的侦探短篇集。馆藏提要未提供篇目与情节，梗概暂缺，此处只登记题名、著者与出版信息。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 36,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34799544/",
+        "subjectId": "34799544",
+        "edition": "以齿为证",
+        "fetchedAt": "2026-09-27T12:21:38.895Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2286,7 +2436,7 @@
     },
     "provenance": {
       "source": "batch-152-clc.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]
