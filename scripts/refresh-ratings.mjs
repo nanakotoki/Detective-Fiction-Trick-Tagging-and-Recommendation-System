@@ -109,6 +109,13 @@ function parseArgs(argv) {
      * 长批次请带上这个开关（例如 `--checkpoint 50`）。
      */
     checkpoint: Math.max(0, Number(value('--checkpoint', 0)) || 0),
+    /**
+     * 时间预算（分钟．第 111 轮）：到点就**在下一个分段落盘处正常收尾**（合并、写盘、打汇总），
+     * 不是把进程杀掉。用途是「队列尾部的切片推进」——剩下的候选多是豆瓣没有中文条目的书，
+     * 一本未命中要试 8 个关键词、近两分钟，整批跑完可能要好几个小时；
+     * 带上 `--time-budget 20 --checkpoint 10` 就能每次只啃二十分钟，进度照常落盘。
+     */
+    timeBudgetMs: Math.max(0, Number(value('--time-budget', 0)) || 0) * 60 * 1000,
     /** 允许用本轮结果整体替换图谱（默认下，记录数变少会被拦下） */
     rebuild: argv.includes('--rebuild'),
     quiet: argv.includes('--quiet'),
@@ -694,6 +701,8 @@ async function main() {
   console.log('');
 
   let books = await loadBooks();
+  /** 是否因时间预算提前收尾（汇总里要说清楚，免得把「没跑完」看成「全都没命中」） */
+  let stoppedEarly = false;
   if (args.bookId) books = books.filter((b) => b.id === args.bookId);
   // 只补抓「还没有可追溯实时记录」的书——新增批次后不必重抓全库
   if (args.missing) {
@@ -789,6 +798,18 @@ async function main() {
   };
 
   for (const [index, book] of books.entries()) {
+    // 时间预算：到点就正常收尾（下面的合并与写盘照常执行），已有的结果一条不丢
+    if (args.timeBudgetMs && Date.now() - startedAt > args.timeBudgetMs) {
+      console.log(
+        color(
+          `\n  ⏱ 到达时间预算（${Math.round(args.timeBudgetMs / 60000)} 分钟）：处理了 ${index} / ${books.length} 部，` +
+            '现在正常收尾并写盘；下次再跑会从剩下的接着来。',
+          C.dim,
+        ),
+      );
+      stoppedEarly = true;
+      break;
+    }
     // 分段落盘：每 N 部写一次，中途被打断也只丢最后不足 N 部
     if (args.checkpoint && index > 0 && index % args.checkpoint === 0) {
       const { mergedRecords, mergedMisses } = buildMerged();
@@ -1035,6 +1056,11 @@ async function main() {
   console.log(color('  ────────────────────────────────────────────', C.dim));
   console.log(`  抓取成功   ${color(String(records.length), C.green + C.bold)} / ${books.length} 部`);
   console.log(`  抓取失败   ${misses.length ? color(String(misses.length), C.yellow) : '0'} 部`);
+  if (stoppedEarly) {
+    console.log(
+      color('  时间预算   到点收尾：本批**未跑完**，未处理的条目下次会重新排队（不计入上面的失败数）', C.dim),
+    );
+  }
   if (args.merge) console.log(`  合并模式   保留图谱中已有的 ${keptFromPrevious} 条，图谱现共 ${merged.length} 条`);
   console.log(`  网络请求   ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)} 秒`);
 

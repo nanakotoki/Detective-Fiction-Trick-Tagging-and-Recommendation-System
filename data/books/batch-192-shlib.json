@@ -23,11 +23,16 @@
     "safeSummary": "斜线堂有纪的一册长篇：一位小说家之死。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 421,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35190914/",
+        "subjectId": "35190914",
+        "edition": "杀死小说家 2020",
+        "fetchedAt": "2026-09-27T13:40:47.252Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "斜线堂有纪的一册长篇：一个看上去毫无恶意的人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.5,
+        "count": 30,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37501532/",
+        "subjectId": "37501532",
+        "edition": "貌若天使的欺诈师 2025",
+        "fetchedAt": "2026-09-27T13:40:50.514Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -170,11 +180,16 @@
     "safeSummary": "乾胡桃的一册长篇：一段感情的收场。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 891,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26876999/",
+        "subjectId": "26876999",
+        "edition": "爱的告别式 2016",
+        "fetchedAt": "2026-09-27T13:40:57.771Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -216,7 +231,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -244,11 +259,16 @@
     "safeSummary": "乾胡桃的一册长篇：同一段感情像是又来了一遍。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 261,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35315151/",
+        "subjectId": "35315151",
+        "edition": "爱的轮回式 2021",
+        "fetchedAt": "2026-09-27T13:41:03.502Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -290,7 +310,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -317,11 +337,16 @@
     "safeSummary": "一册把视野放到人类这个物种上的长篇。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 6708,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36136689/",
+        "subjectId": "36136689",
+        "edition": "人类灭绝 2023",
+        "fetchedAt": "2026-09-27T13:41:06.897Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -363,7 +388,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -390,11 +415,16 @@
     "safeSummary": "高野和明的一册长篇：一桩与「K」和「N」有关的悲剧。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 1030,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36197707/",
+        "subjectId": "36197707",
+        "edition": "K和N的悲剧 2023",
+        "fetchedAt": "2026-09-27T13:41:10.480Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -436,7 +466,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -464,11 +494,16 @@
     "safeSummary": "雫井脩介的一册长篇：一墙之隔的那家人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 7705,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36351178/",
+        "subjectId": "36351178",
+        "edition": "邻居 2023",
+        "fetchedAt": "2026-09-27T13:41:13.937Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -510,7 +545,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -538,11 +573,16 @@
     "safeSummary": "雫井脩介的一册长篇：一团看不清的迷雾。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 466,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36743034/",
+        "subjectId": "36743034",
+        "edition": "拨开迷雾 2024",
+        "fetchedAt": "2026-09-27T13:41:17.601Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -584,7 +624,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -612,11 +652,16 @@
     "safeSummary": "秋吉理香子的一册长篇：一群女学生之间的那件事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1307,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/32567077/",
+        "subjectId": "32567077",
+        "edition": "暗黑女子 2020",
+        "fetchedAt": "2026-09-27T13:41:21.635Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -658,7 +703,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -686,11 +731,16 @@
     "safeSummary": "秋吉理香子的一册长篇：放学之后，本该死去的人回来了。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 536,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34820179/",
+        "subjectId": "34820179",
+        "edition": "亡者在放学后归来 2020",
+        "fetchedAt": "2026-09-27T13:41:25.241Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -732,7 +782,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -760,11 +810,16 @@
     "safeSummary": "藤原伊织的一册长篇：一场祭典前后的事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 693,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6966299/",
+        "subjectId": "6966299",
+        "edition": "向日葵的祭典 2011",
+        "fetchedAt": "2026-09-27T13:41:28.843Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -806,7 +861,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -834,11 +889,16 @@
     "safeSummary": "藤原伊织的一册长篇：一位侦探的冒险。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 93,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26416796/",
+        "subjectId": "26416796",
+        "edition": "长脚蚊白须的冒险 2015",
+        "fetchedAt": "2026-09-27T13:41:32.182Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -880,7 +940,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -909,11 +969,16 @@
     "safeSummary": "上远野浩平的一册长篇：一座海贼岛上的事件。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 242,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36654764/",
+        "subjectId": "36654764",
+        "edition": "海贼岛事件 2024",
+        "fetchedAt": "2026-09-27T13:41:36.703Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -955,7 +1020,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -983,11 +1048,16 @@
     "safeSummary": "上远野浩平的一册长篇：一座城的名字叫紫骸。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 176,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36330636/",
+        "subjectId": "36330636",
+        "edition": "紫骸城事件 2023",
+        "fetchedAt": "2026-09-27T13:41:40.255Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1029,7 +1099,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1057,11 +1127,16 @@
     "safeSummary": "贝客邦的一册长篇：冬至前夜出的事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 547,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35933757/",
+        "subjectId": "35933757",
+        "edition": "冬至前夜 2022",
+        "fetchedAt": "2026-09-27T13:41:46.659Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1103,7 +1178,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1131,11 +1206,16 @@
     "safeSummary": "贝客邦的一册长篇：一只白鸟坠进密林。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 2411,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35947034/",
+        "subjectId": "35947034",
+        "edition": "白鸟坠入密林 2022",
+        "fetchedAt": "2026-09-27T13:41:50.275Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1177,7 +1257,7 @@
     },
     "provenance": {
       "source": "batch-192-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

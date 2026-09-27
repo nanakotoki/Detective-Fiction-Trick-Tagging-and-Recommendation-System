@@ -23,11 +23,16 @@
     "safeSummary": "慢三的一册长篇：一个写出来的凶手。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 109,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37049527/",
+        "subjectId": "37049527",
+        "edition": "虚构凶手 2024",
+        "fetchedAt": "2026-09-27T13:41:54.036Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "慢三的一册长篇：一道像狐狸一样的光。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 47,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37327530/",
+        "subjectId": "37327530",
+        "edition": "狐之光 2026",
+        "fetchedAt": "2026-09-27T13:41:58.567Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -169,11 +179,16 @@
     "safeSummary": "陆春吾的一册长篇：金子迷人，也害人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 355,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37059621/",
+        "subjectId": "37059621",
+        "edition": "迷人的金子 2024",
+        "fetchedAt": "2026-09-27T13:42:03.197Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -215,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +257,16 @@
     "safeSummary": "「重构真相」系列的一册：有人借「神」的名义做事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 152,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37872620/",
+        "subjectId": "37872620",
+        "edition": "下神 2026",
+        "fetchedAt": "2026-09-27T13:42:06.398Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +308,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -315,11 +335,16 @@
     "safeSummary": "陈猛的一册长篇：有人潜进别人的梦里。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 176,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34813426/",
+        "subjectId": "34813426",
+        "edition": "潜梦者 2019",
+        "fetchedAt": "2026-09-27T13:42:11.017Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -361,7 +386,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -388,11 +413,16 @@
     "safeSummary": "陈猛的一册长篇：被当成草芥的人留下的那根刺。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 325,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37244456/",
+        "subjectId": "37244456",
+        "edition": "草芥之刺 2025",
+        "fetchedAt": "2026-09-27T13:42:15.706Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -434,7 +464,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -461,11 +491,16 @@
     "safeSummary": "马拓的一册长篇：帮着做这件事的人，算不算凶手。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 212,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37109331/",
+        "subjectId": "37109331",
+        "edition": "帮凶 2024",
+        "fetchedAt": "2026-09-27T13:42:19.025Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -507,7 +542,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -534,11 +569,16 @@
     "safeSummary": "马拓的一册长篇：两位不太一样的侦探。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 122,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27126782/",
+        "subjectId": "27126782",
+        "edition": "神经双探 2017",
+        "fetchedAt": "2026-09-27T13:42:22.582Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -580,7 +620,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -680,11 +720,16 @@
     "safeSummary": "舒中民的一册长篇：在网络里查案的人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 60,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35094235/",
+        "subjectId": "35094235",
+        "edition": "网探 2020",
+        "fetchedAt": "2026-09-27T13:42:31.691Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -726,7 +771,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -753,11 +798,16 @@
     "safeSummary": "暗布烧的一册长篇：一桩关于「隐形解体」的传说。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 84,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26951533/",
+        "subjectId": "26951533",
+        "edition": "隐形解体的传说 2017",
+        "fetchedAt": "2026-09-27T13:42:36.241Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -799,7 +849,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1045,11 +1095,16 @@
     "safeSummary": "既晴的一册长篇：地下道里的事，别进去看。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 159,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1737155/",
+        "subjectId": "1737155",
+        "edition": "别进地下道 2006",
+        "fetchedAt": "2026-09-27T13:42:57.753Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1091,7 +1146,7 @@
     },
     "provenance": {
       "source": "batch-193-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

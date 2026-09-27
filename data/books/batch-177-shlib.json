@@ -98,11 +98,16 @@
     "safeSummary": "霍尔特的一册短篇连作：十二宗案子，按同一条线索排下来。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 433,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191455/",
+        "subjectId": "4191455",
+        "edition": "赫拉克勒斯十二宗疑案 2009",
+        "fetchedAt": "2026-09-27T13:14:42.830Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -144,7 +149,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -171,11 +176,16 @@
     "safeSummary": "霍尔特的一册长篇：局面越是混乱，越看得出谁在安排。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 438,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3293610/",
+        "subjectId": "3293610",
+        "edition": "混乱之王 2008",
+        "fetchedAt": "2026-09-27T13:14:46.537Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -217,7 +227,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -245,11 +255,16 @@
     "safeSummary": "霍尔特的一册长篇：七宗案子，各自「不可能」，摆在一起才看得懂。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 795,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3293608/",
+        "subjectId": "3293608",
+        "edition": "犯罪七大奇迹 2008",
+        "fetchedAt": "2026-09-27T13:14:50.156Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -291,7 +306,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -318,11 +333,16 @@
     "safeSummary": "霍尔特的一册长篇：一幅画里留着说不通的地方。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 672,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6524158/",
+        "subjectId": "6524158",
+        "edition": "画中疑云 2011",
+        "fetchedAt": "2026-09-27T13:14:53.471Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -364,7 +384,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -391,11 +411,16 @@
     "safeSummary": "内田康夫的一册长篇：一个女人翻过平城山，随后的事牵出一段旧案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 99,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1287974/",
+        "subjectId": "1287974",
+        "edition": "翻过平城山的女人 2003",
+        "fetchedAt": "2026-09-27T13:14:56.763Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -437,7 +462,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -464,11 +489,16 @@
     "safeSummary": "内田康夫的一册长篇：三个人的关系像不等边三角形，长短各不相同。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 108,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6991361/",
+        "subjectId": "6991361",
+        "edition": "不等边三角形 2013",
+        "fetchedAt": "2026-09-27T13:15:01.393Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -510,7 +540,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -537,11 +567,16 @@
     "safeSummary": "内田康夫的一册长篇：事情从一间教室里的旧传闻开始。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 89,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6991362/",
+        "subjectId": "6991362",
+        "edition": "教室里的亡灵 2013",
+        "fetchedAt": "2026-09-27T13:15:05.993Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -583,7 +618,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -610,11 +645,16 @@
     "safeSummary": "内田康夫的一册长篇：一条蓝色的长廊，通向这户人家的旧事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 122,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1287655/",
+        "subjectId": "1287655",
+        "edition": "蓝色长廊之谜 2003",
+        "fetchedAt": "2026-09-27T13:15:10.718Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -656,7 +696,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -683,11 +723,16 @@
     "safeSummary": "内田康夫的一册中篇集，各篇独立成案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 130,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1287860/",
+        "subjectId": "1287860",
+        "edition": "花儿无价 2003",
+        "fetchedAt": "2026-09-27T13:15:15.424Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -729,7 +774,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -902,11 +947,16 @@
     "safeSummary": "内田康夫的一册长篇：一桩案子把人带到了意大利。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 98,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3726678/",
+        "subjectId": "3726678",
+        "edition": "意大利幻想曲 2009",
+        "fetchedAt": "2026-09-27T13:15:30.091Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -948,7 +998,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -974,11 +1024,16 @@
     "safeSummary": "夏树静子的一册中短篇集，几桩案子各自独立。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 155,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1006766/",
+        "subjectId": "1006766",
+        "edition": "致命的三分钟 2000",
+        "fetchedAt": "2026-09-27T13:15:36.475Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1020,7 +1075,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1046,11 +1101,16 @@
     "safeSummary": "夏树静子的一册中短篇集，几桩案子各自独立。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 154,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1005553/",
+        "subjectId": "1005553",
+        "edition": "货运来的女人 2000",
+        "fetchedAt": "2026-09-27T13:15:41.039Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1092,7 +1152,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1190,11 +1250,16 @@
     "safeSummary": "夏树静子的一册长篇：过去的人与事，影子还在。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 99,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3628628/",
+        "subjectId": "3628628",
+        "edition": "逝去的影子 2009",
+        "fetchedAt": "2026-09-27T13:15:50.968Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1236,7 +1301,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1262,11 +1327,16 @@
     "safeSummary": "夏树静子的一册长篇：站在年轻时的那个坎上，往前一步就回不了头。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 61,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2027748/",
+        "subjectId": "2027748",
+        "edition": "青春的悬崖 1996",
+        "fetchedAt": "2026-09-27T13:15:55.532Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1308,7 +1378,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1334,11 +1404,16 @@
     "safeSummary": "夏树静子的一册长篇：有人在一点点从原来的位置上消失。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 872,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6151652/",
+        "subjectId": "6151652",
+        "edition": "天使在消失 2011",
+        "fetchedAt": "2026-09-27T13:16:00.415Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1380,7 +1455,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1407,11 +1482,16 @@
     "safeSummary": "「小市民」系列的一册：春天里的几件小事，被两个高中生看出了门道。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 1689,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33458157/",
+        "subjectId": "33458157",
+        "edition": "春季限定草莓挞事件 2019",
+        "fetchedAt": "2026-09-27T13:16:04.162Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1453,7 +1533,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1480,11 +1560,16 @@
     "safeSummary": "「小市民」系列的一册：夏天里的几桩日常谜题。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1279,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34782535/",
+        "subjectId": "34782535",
+        "edition": "夏季限定热带水果芭菲事件 2019",
+        "fetchedAt": "2026-09-27T13:16:08.021Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1526,7 +1611,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1553,11 +1638,16 @@
     "safeSummary": "「小市民」系列的一册：一起肇事逃逸，和三年后另一场相似的车祸。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 180,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37667254/",
+        "subjectId": "37667254",
+        "edition": "冬季限定夹心巧克力事件 2025",
+        "fetchedAt": "2026-09-27T13:16:11.614Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1599,7 +1689,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1626,11 +1716,16 @@
     "safeSummary": "「小市民」系列的一册：一桩与点心有关的日常谜题。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 866,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35503445/",
+        "subjectId": "35503445",
+        "edition": "巴黎马卡龙之谜 2021",
+        "fetchedAt": "2026-09-27T13:16:16.759Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1672,7 +1767,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1699,11 +1794,16 @@
     "safeSummary": "「古典部」系列的一册：新入社的人留下一句话，就不再来了。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 2878,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25885612/",
+        "subjectId": "25885612",
+        "edition": "两人距离的概算 2014",
+        "fetchedAt": "2026-09-27T13:16:20.519Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1745,7 +1845,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1772,11 +1872,16 @@
     "safeSummary": "米泽穗信的一册长篇：五段追想拼在一起，才看得出当年的事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1489,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5395176/",
+        "subjectId": "5395176",
+        "edition": "追想五断章 2011",
+        "fetchedAt": "2026-09-27T13:16:26.430Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1818,7 +1923,7 @@
     },
     "provenance": {
       "source": "batch-177-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

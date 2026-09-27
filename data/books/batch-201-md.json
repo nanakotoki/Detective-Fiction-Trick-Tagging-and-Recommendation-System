@@ -28,10 +28,11 @@
         "count": 616,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/6999115/",
+        "sourceUrl": "https://book.douban.com/subject/6999115/",
         "subjectId": "6999115",
         "edition": "黄昏杀人耳语 2012",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:47:34.198Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -73,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-201-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -106,10 +107,11 @@
         "count": 694,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/10518846/",
+        "sourceUrl": "https://book.douban.com/subject/10518846/",
         "subjectId": "10518846",
         "edition": "绯色杀人耳语 2012",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:47:37.688Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -151,7 +153,7 @@
     },
     "provenance": {
       "source": "batch-201-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -179,13 +181,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.8。",
         "score": 7.8,
-        "count": 1311,
+        "count": 1312,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4753522/",
+        "sourceUrl": "https://book.douban.com/subject/4753522/",
         "subjectId": "4753522",
-        "edition": "尸体长发之谜 2010",
-        "fetchedAt": "2026-09-26"
+        "edition": "尸体长发之谜 2010年5月",
+        "fetchedAt": "2026-09-27T13:47:41.076Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -227,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-201-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -258,10 +261,11 @@
         "count": 809,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4772304/",
+        "sourceUrl": "https://book.douban.com/subject/4772304/",
         "subjectId": "4772304",
-        "edition": "肢解尸体之谜 2010",
-        "fetchedAt": "2026-09-26"
+        "edition": "肢解尸体之谜 2010年5月",
+        "fetchedAt": "2026-09-27T13:47:44.726Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -303,7 +307,7 @@
     },
     "provenance": {
       "source": "batch-201-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

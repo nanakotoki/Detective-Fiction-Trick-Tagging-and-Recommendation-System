@@ -23,11 +23,16 @@
     "safeSummary": "一栋老旧小区里出了命案，天才神探骆辛接手调查。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 239,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36096817/",
+        "subjectId": "36096817",
+        "edition": "无人幸免 2022",
+        "fetchedAt": "2026-09-27T13:26:35.777Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "骆辛以「推理演绎法」配合刑警队办案，也在这个过程中重新面对自己。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35283391/",
+        "subjectId": "35283391",
+        "edition": "推理演绎法 2021",
+        "fetchedAt": "2026-09-27T13:26:39.175Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -168,11 +178,16 @@
     "safeSummary": "「犯罪心理档案」第一季：一桩陈年悬案重启，犯罪心理专家加入侦办。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 30,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/38232945/",
+        "subjectId": "38232945",
+        "edition": "犯罪心理档案第一季 2026",
+        "fetchedAt": "2026-09-27T13:26:42.392Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -214,7 +229,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -458,11 +473,16 @@
     "safeSummary": "似水无痕的一册长篇：一座大宅里的人与事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 16,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19899033/",
+        "subjectId": "19899033",
+        "edition": "大宅疑云 2012",
+        "fetchedAt": "2026-09-27T13:27:00.659Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -504,7 +524,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -531,11 +551,16 @@
     "safeSummary": "似水无痕的一册长篇：校园里的一个侦探社，接下了不该接的委托。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 21,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6002864/",
+        "subjectId": "6002864",
+        "edition": "校园奇异侦探社 2011",
+        "fetchedAt": "2026-09-27T13:27:05.224Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -577,7 +602,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -676,11 +701,16 @@
     "safeSummary": "似水无痕的一册长篇：一场以推理为名的游戏。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 4.8,
+        "count": 44,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6847742/",
+        "subjectId": "6847742",
+        "edition": "推理女王的游戏 2012",
+        "fetchedAt": "2026-09-27T13:27:13.854Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -722,7 +752,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -749,11 +779,16 @@
     "safeSummary": "似水无痕的一册长篇：案子照着多年前出版的一本推理小说发生。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.1,
+        "count": 12,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25902278/",
+        "subjectId": "25902278",
+        "edition": "嫌疑之索 2014",
+        "fetchedAt": "2026-09-27T13:27:18.337Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -795,7 +830,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -966,11 +1001,16 @@
     "safeSummary": "「猎凶记」系列的大结局：二十年前的一桩拐卖案，二十年后仍在追。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 79,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30316320/",
+        "subjectId": "30316320",
+        "edition": "猎凶记大结局 2018",
+        "fetchedAt": "2026-09-27T13:27:33.096Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1012,7 +1052,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1038,11 +1078,16 @@
     "safeSummary": "三个互不相识、各自揣着心事的人凑到了一处。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 34,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30411890/",
+        "subjectId": "30411890",
+        "edition": "觅凶者：被交换的命运 2018",
+        "fetchedAt": "2026-09-27T13:27:37.469Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1084,7 +1129,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1252,11 +1297,16 @@
     "safeSummary": "誉田哲也的一册短篇集，各篇独立。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 143,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30379359/",
+        "subjectId": "30379359",
+        "edition": "感染游戏 2019",
+        "fetchedAt": "2026-09-27T13:27:51.560Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1298,7 +1348,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1324,11 +1374,16 @@
     "safeSummary": "誉田哲也的一册长篇：有些东西看不见，却一直在下。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 107,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33658578/",
+        "subjectId": "33658578",
+        "edition": "看不见的雨 2019",
+        "fetchedAt": "2026-09-27T13:27:56.532Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1370,7 +1425,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1396,11 +1451,16 @@
     "safeSummary": "誉田哲也的一册短篇集：女刑警鱼住久江经手的五个案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 63,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26816346/",
+        "subjectId": "26816346",
+        "edition": "甜蜜的犯罪 2016",
+        "fetchedAt": "2026-09-27T13:28:01.246Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1442,7 +1502,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1468,11 +1528,16 @@
     "safeSummary": "誉田哲也的一册长篇：一张蓝色的面具下面是谁。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 81,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30379360/",
+        "subjectId": "30379360",
+        "edition": "蓝色面具 2019",
+        "fetchedAt": "2026-09-27T13:28:06.237Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1514,7 +1579,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1541,11 +1606,16 @@
     "safeSummary": "叶真中显的一册长篇：一个被叫作「恶女」的人，讲了她自己的版本。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.4,
+        "count": 46606,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36743030/",
+        "subjectId": "36743030",
+        "edition": "恶女的告白 2024",
+        "fetchedAt": "2026-09-27T13:28:11.098Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1587,7 +1657,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1613,11 +1683,16 @@
     "safeSummary": "叶真中显的一册长篇：一个人从世上退场之后。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 4067,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37059622/",
+        "subjectId": "37059622",
+        "edition": "然后，化成海上的泡沫 2025",
+        "fetchedAt": "2026-09-27T13:28:14.637Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1659,7 +1734,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1686,11 +1761,16 @@
     "safeSummary": "叶真中显的一册短篇集，收六篇推理小说。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 2451,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37275113/",
+        "subjectId": "37275113",
+        "edition": "咖喱的女神 2025",
+        "fetchedAt": "2026-09-27T13:28:17.851Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1732,7 +1812,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1759,11 +1839,16 @@
     "safeSummary": "叶真中显的一册长篇：有什么东西一直在背后推动。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1924,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37437772/",
+        "subjectId": "37437772",
+        "edition": "鼓动 2026",
+        "fetchedAt": "2026-09-27T13:28:21.317Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1805,7 +1890,7 @@
     },
     "provenance": {
       "source": "batch-183-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -105,13 +105,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.6。",
         "score": 6.6,
-        "count": null,
+        "count": 229,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4606343/",
+        "sourceUrl": "https://book.douban.com/subject/4606343/",
         "subjectId": "4606343",
-        "edition": "不可忘却的游戏 2010",
-        "fetchedAt": "2026-09-26"
+        "edition": "不可忘却的游戏 2010年4月",
+        "fetchedAt": "2026-09-27T13:46:44.420Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -153,7 +154,7 @@
     },
     "provenance": {
       "source": "batch-198-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -183,13 +184,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.3。",
         "score": 7.3,
-        "count": null,
+        "count": 171,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/5905977/",
+        "sourceUrl": "https://book.douban.com/subject/5905977/",
         "subjectId": "5905977",
         "edition": "任血流淌 2011",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:46:48.166Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -231,7 +233,7 @@
     },
     "provenance": {
       "source": "batch-198-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -261,13 +263,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 8.1。",
         "score": 8.1,
-        "count": null,
+        "count": 32,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1162943/",
+        "sourceUrl": "https://book.douban.com/subject/1162943/",
         "subjectId": "1162943",
         "edition": "相对公正 2004",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:46:52.680Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -309,7 +312,7 @@
     },
     "provenance": {
       "source": "batch-198-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -338,13 +341,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.6。",
         "score": 6.6,
-        "count": null,
+        "count": 709,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/11621647/",
+        "sourceUrl": "https://book.douban.com/subject/11621647/",
         "subjectId": "11621647",
         "edition": "谁? 2013",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:46:57.571Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -386,7 +390,7 @@
     },
     "provenance": {
       "source": "batch-198-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -416,13 +420,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.5。",
         "score": 7.5,
-        "count": null,
+        "count": 104,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2027701/",
+        "sourceUrl": "https://book.douban.com/subject/2027701/",
         "subjectId": "2027701",
         "edition": "特快卧铺列车杀人案 1999",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:47:01.392Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -464,7 +469,7 @@
     },
     "provenance": {
       "source": "batch-198-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

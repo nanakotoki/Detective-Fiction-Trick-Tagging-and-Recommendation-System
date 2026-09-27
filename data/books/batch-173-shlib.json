@@ -96,11 +96,16 @@
     "safeSummary": "拉特家的老宅里住着几房人，各人有各人的打算。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 11,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30391598/",
+        "subjectId": "30391598",
+        "edition": "女神探希娃11：拉特老宅 2018",
+        "fetchedAt": "2026-09-27T13:08:48.389Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +147,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -169,11 +174,16 @@
     "safeSummary": "一个人揣着心事独自来回，越想越不安。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 15,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30216598/",
+        "subjectId": "30216598",
+        "edition": "女神探希娃. 惴惴独行 2018",
+        "fetchedAt": "2026-09-27T13:08:52.895Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -215,7 +225,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +252,16 @@
     "safeSummary": "有人戴着面具见人，面具底下是另一副打算。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.3,
+        "count": 39,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30216595/",
+        "subjectId": "30216595",
+        "edition": "女神探希娃. 灰色面具 2018",
+        "fetchedAt": "2026-09-27T13:08:57.256Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +303,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -315,11 +330,16 @@
     "safeSummary": "一件沾血的外套，把几家人的旧事连到一起。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 18,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30339234/",
+        "subjectId": "30339234",
+        "edition": "染血的外套/女神探希娃 2018",
+        "fetchedAt": "2026-09-27T13:09:01.750Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -361,7 +381,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -388,11 +408,16 @@
     "safeSummary": "海边那件旧事过了这些年还是被人提起。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33456744/",
+        "subjectId": "33456744",
+        "edition": "海边旧事 2019",
+        "fetchedAt": "2026-09-27T13:09:06.092Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -434,7 +459,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -461,11 +486,16 @@
     "safeSummary": "怡水别墅里出了人命，屋里人各有各的说法。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 23,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30340119/",
+        "subjectId": "30340119",
+        "edition": "怡水别墅谋杀案 2018",
+        "fetchedAt": "2026-09-27T13:09:10.545Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -507,7 +537,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -534,11 +564,16 @@
     "safeSummary": "一个人撒了谎，为了圆它又撒了第二个。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 12,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33456746/",
+        "subjectId": "33456746",
+        "edition": "谎中谎 2019",
+        "fetchedAt": "2026-09-27T13:09:14.826Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -580,7 +615,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -680,11 +715,16 @@
     "safeSummary": "格兰奇庄园出了命案，庄园上下的关系比看上去复杂。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 23,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30391602/",
+        "subjectId": "30391602",
+        "edition": "女神探希娃12：格兰奇庄园谋杀案 2018",
+        "fetchedAt": "2026-09-27T13:09:23.641Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -726,7 +766,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -753,11 +793,16 @@
     "safeSummary": "命案出在教堂，那天来的人各有各的理由。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 25,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30332863/",
+        "subjectId": "30332863",
+        "edition": "教堂谋杀案 2018",
+        "fetchedAt": "2026-09-27T13:09:28.036Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -799,7 +844,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -826,11 +871,16 @@
     "safeSummary": "两个重婚的人，把几桩关系缠在一起。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30339236/",
+        "subjectId": "30339236",
+        "edition": "《两个重婚者》（女神探希娃13） 2018",
+        "fetchedAt": "2026-09-27T13:09:32.441Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -872,7 +922,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -899,11 +949,16 @@
     "safeSummary": "夜里有人去访那座古宅，去做什么各说不一。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30386521/",
+        "subjectId": "30386521",
+        "edition": "女神探希娃06：夜访古宅 2018",
+        "fetchedAt": "2026-09-27T13:09:36.861Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -945,7 +1000,7 @@
     },
     "provenance": {
       "source": "batch-173-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

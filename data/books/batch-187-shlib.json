@@ -24,11 +24,16 @@
     "safeSummary": "塞耶斯的一册长篇：五条线索，各自指向不同的人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 376,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4191498/",
+        "subjectId": "4191498",
+        "edition": "五条红鲱鱼 2010",
+        "fetchedAt": "2026-09-27T13:33:03.549Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -70,7 +75,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -98,11 +103,16 @@
     "safeSummary": "塞耶斯的一册长篇：一位老妇人去世后，给她看病的医生发现病人越来越少。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 76,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1466145/",
+        "subjectId": "1466145",
+        "edition": "非常死亡 2006",
+        "fetchedAt": "2026-09-27T13:33:08.894Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -144,7 +154,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -171,11 +181,16 @@
     "safeSummary": "一起看上去没有胜算的辩护。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 1476,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36707933/",
+        "subjectId": "36707933",
+        "edition": "不能赢的辩护 2024",
+        "fetchedAt": "2026-09-27T13:33:13.940Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -217,7 +232,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -244,11 +259,16 @@
     "safeSummary": "一名被指为连环杀手同谋的妻子，请来艾迪·弗林辩护。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.9,
+        "count": 479,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37309345/",
+        "subjectId": "37309345",
+        "edition": "无辜的共犯 2025",
+        "fetchedAt": "2026-09-27T13:33:17.453Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -290,7 +310,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -317,11 +337,16 @@
     "safeSummary": "一桩可能判死刑的案子，原辩护律师无故失踪。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 581,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37215013/",
+        "subjectId": "37215013",
+        "edition": "魔鬼的代言人 2025",
+        "fetchedAt": "2026-09-27T13:33:20.922Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -363,7 +388,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -390,11 +415,16 @@
     "safeSummary": "一场追悼会上的枪击，与一位已故作家的真实身份。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.6,
+        "count": 213,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37136204/",
+        "subjectId": "37136204",
+        "edition": "失真 2025",
+        "fetchedAt": "2026-09-27T13:33:24.337Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -436,7 +466,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -464,11 +494,16 @@
     "safeSummary": "「骆驼俱乐部」的一册：几个各有本事的人凑在一起查一桩案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 53,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3437443/",
+        "subjectId": "3437443",
+        "edition": "骆驼俱乐部 2009",
+        "fetchedAt": "2026-09-27T13:33:27.903Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -510,7 +545,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -538,11 +573,16 @@
     "safeSummary": "鲍尔达奇的一册长篇：一个被叫作「天才」的人，和一件简单不过的事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 85,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4720124/",
+        "subjectId": "4720124",
+        "edition": "简单天才 2010年3月",
+        "fetchedAt": "2026-09-27T13:33:34.207Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -584,7 +624,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -686,11 +726,16 @@
     "safeSummary": "鲍尔达奇的一册长篇：一处被叫作「黑日」的地方。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 47,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25984473/",
+        "subjectId": "25984473",
+        "edition": "黑日堡垒 2014",
+        "fetchedAt": "2026-09-27T13:33:43.838Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -732,7 +777,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -834,11 +879,16 @@
     "safeSummary": "卢兹的一册长篇：凶手留下的痕迹指向一种固定的手法。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 32,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10758304/",
+        "subjectId": "10758304",
+        "edition": "剥皮者 2012",
+        "fetchedAt": "2026-09-27T13:33:54.740Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -880,7 +930,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -983,11 +1033,16 @@
     "safeSummary": "一本世界推理短篇选集，收入多位名家的作品。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 17,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5977441/",
+        "subjectId": "5977441",
+        "edition": "世界名家推理小说选 2011",
+        "fetchedAt": "2026-09-27T13:34:04.298Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1029,7 +1084,7 @@
     },
     "provenance": {
       "source": "batch-187-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

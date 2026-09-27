@@ -23,11 +23,16 @@
     "safeSummary": "丁柚井的一册长篇：一个人以为的「完全幸福」。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 115,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37447238/",
+        "subjectId": "37447238",
+        "edition": "完全的幸福 2026",
+        "fetchedAt": "2026-09-27T13:43:07.554Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "丁柚井的一册长篇：一桩恶事的来处。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 489,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37260606/",
+        "subjectId": "37260606",
+        "edition": "恶种起源 2025",
+        "fetchedAt": "2026-09-27T13:43:12.544Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -169,11 +179,16 @@
     "safeSummary": "卡瑞西的一册长篇：一栋藏着幽灵的房子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 369,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36480779/",
+        "subjectId": "36480779",
+        "edition": "藏着幽灵的家 2023",
+        "fetchedAt": "2026-09-27T13:43:16.152Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -215,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +257,16 @@
     "safeSummary": "卡瑞西的一册长篇：一个记不起事的地方。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 151,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37378926/",
+        "subjectId": "37378926",
+        "edition": "失忆之家 2025",
+        "fetchedAt": "2026-09-27T13:43:19.379Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +308,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -386,11 +406,16 @@
     "safeSummary": "曼凯尔的一册长篇：一桩案子把人带到里加。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1144970/",
+        "subjectId": "1144970",
+        "edition": "里加的狗 2004",
+        "fetchedAt": "2026-09-27T13:43:30.596Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -432,7 +457,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -459,11 +484,16 @@
     "safeSummary": "诺克斯的一册长篇：一具尸体出现在筒仓里。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 157,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5043450/",
+        "subjectId": "5043450",
+        "edition": "筒仓陈尸 2010",
+        "fetchedAt": "2026-09-27T13:43:35.724Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -505,7 +535,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -532,11 +562,16 @@
     "safeSummary": "诺克斯的一册长篇：水闸边的足印。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 165,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3179396/",
+        "subjectId": "3179396",
+        "edition": "闸边足印 2008",
+        "fetchedAt": "2026-09-27T13:43:40.793Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -578,7 +613,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -605,11 +640,16 @@
     "safeSummary": "「尼禄·沃尔夫系列」的一册：凶器或线索与书有关。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 325,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4240487/",
+        "subjectId": "4240487",
+        "edition": "被书谋杀 2010",
+        "fetchedAt": "2026-09-27T13:43:45.678Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -651,7 +691,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -678,11 +718,16 @@
     "safeSummary": "「尼禄·沃尔夫系列」的一册：门铃响过之后。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 206,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5038499/",
+        "subjectId": "5038499",
+        "edition": "门铃响起 2010",
+        "fetchedAt": "2026-09-27T13:43:49.184Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -724,7 +769,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -750,11 +795,16 @@
     "safeSummary": "诺伊豪斯的一册长篇：一个不受欢迎的女人死了。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 54,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24851814/",
+        "subjectId": "24851814",
+        "edition": "不受欢迎的女人 2013",
+        "fetchedAt": "2026-09-27T13:43:52.875Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -796,7 +846,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -822,11 +872,16 @@
     "safeSummary": "诺伊豪斯的一册长篇：一桩留下深伤口的旧案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 61,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24851816/",
+        "subjectId": "24851816",
+        "edition": "深深的伤口 2013",
+        "fetchedAt": "2026-09-27T13:43:57.478Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -868,7 +923,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -894,11 +949,16 @@
     "safeSummary": "奥默的一册长篇：有人想让某个人永远留下。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 37,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35167981/",
+        "subjectId": "35167981",
+        "edition": "永远留在我身边 2020",
+        "fetchedAt": "2026-09-27T13:44:02.527Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -940,7 +1000,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -966,11 +1026,16 @@
     "safeSummary": "奥默的一册长篇：一桩以「纯洁」为名的案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 22,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36401961/",
+        "subjectId": "36401961",
+        "edition": "纯洁之血 2023",
+        "fetchedAt": "2026-09-27T13:44:07.295Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1012,7 +1077,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1039,11 +1104,16 @@
     "safeSummary": "高桥克彦的一册长篇：一桩围绕浮世绘画师写乐的案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 327,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20497539/",
+        "subjectId": "20497539",
+        "edition": "写乐杀人事件 2013",
+        "fetchedAt": "2026-09-27T13:44:12.242Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1085,7 +1155,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1112,11 +1182,16 @@
     "safeSummary": "高桥克彦的一册长篇：与浮世绘画家喜多川歌麿的赝品有关。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 90,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26416968/",
+        "subjectId": "26416968",
+        "edition": "歌麿杀赝事件 2015",
+        "fetchedAt": "2026-09-27T13:44:16.025Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1158,7 +1233,7 @@
     },
     "provenance": {
       "source": "batch-194-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

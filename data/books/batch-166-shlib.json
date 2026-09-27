@@ -1818,11 +1818,16 @@
     "safeSummary": "夏树静子短篇集之一：以电缆车为舞台的案件，「通向绞刑架」这一说法指向某人被逼到的处境。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.1,
+        "count": 100,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1607160/",
+        "subjectId": "1607160",
+        "edition": "通向绞刑架的电缆车 2000",
+        "fetchedAt": "2026-09-27T12:49:29.880Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1864,7 +1869,7 @@
     },
     "provenance": {
       "source": "batch-166-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1892,11 +1897,16 @@
     "safeSummary": "斯卡德过上了安稳日子，犯罪率在降、股票在涨；但纽约街头忽然又变得和过去一样危险。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.3,
+        "count": 1234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3215515/",
+        "subjectId": "3215515",
+        "edition": "每个人都死了 2008",
+        "fetchedAt": "2026-09-27T12:49:32.789Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1938,7 +1948,7 @@
     },
     "provenance": {
       "source": "batch-166-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

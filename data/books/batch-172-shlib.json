@@ -23,11 +23,16 @@
     "safeSummary": "一栋被叫作「凶宅」的老屋，和搬进去之后接连不安的人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 21,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30332839/",
+        "subjectId": "30332839",
+        "edition": "凶宅梦魇/女神探希娃 2018",
+        "fetchedAt": "2026-09-27T13:06:45.162Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "新婚的喜事里渗进杀意，希娃受託走进这户人家。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.9,
+        "count": 27,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30212812/",
+        "subjectId": "30212812",
+        "edition": "女神探希娃：新婚杀机 2018",
+        "fetchedAt": "2026-09-27T13:06:49.601Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -169,11 +179,16 @@
     "safeSummary": "一柄象牙匕首，把一桩旧事重新带回人前。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 18,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30424057/",
+        "subjectId": "30424057",
+        "edition": "女神探希娃18：象牙匕首 2019",
+        "fetchedAt": "2026-09-27T13:06:54.172Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -215,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +257,16 @@
     "safeSummary": "遗嘱改动之后，家里人人的处境都变了。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30394230/",
+        "subjectId": "30394230",
+        "edition": "女神探希娃02：遗嘱之更 2018",
+        "fetchedAt": "2026-09-27T13:06:58.685Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +308,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -315,11 +335,16 @@
     "safeSummary": "一个人不见了，留下的说法彼此矛盾。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 13,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33456749/",
+        "subjectId": "33456749",
+        "edition": "失踪迷雾 2019",
+        "fetchedAt": "2026-09-27T13:07:03.104Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -361,7 +386,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -388,11 +413,16 @@
     "safeSummary": "一条披肩烧起来，把旧账和新怨一并翻出。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 21,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30391609/",
+        "subjectId": "30391609",
+        "edition": "女神探希娃05：燃烧的披肩 2018",
+        "fetchedAt": "2026-09-27T13:07:07.695Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -434,7 +464,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -461,11 +491,16 @@
     "safeSummary": "一位绿眼睛少女的身世牵着几桩旧案，罗平循着她的来路往回查。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 35,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10452252/",
+        "subjectId": "10452252",
+        "edition": "碧眼少女 2012",
+        "fetchedAt": "2026-09-27T13:07:12.236Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -507,7 +542,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -533,11 +568,16 @@
     "safeSummary": "一枚炮弹片牵出的旧案：战时的身世、仇怨与冒名，都从这一片铁开始。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 29,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6967437/",
+        "subjectId": "6967437",
+        "edition": "一颗炮弹片 2011",
+        "fetchedAt": "2026-09-27T13:07:16.807Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -579,7 +619,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -679,11 +719,16 @@
     "safeSummary": "罗平自己的几件案子由他讲出来：换了名字、换了身份的那些回合。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 26,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6109440/",
+        "subjectId": "6109440",
+        "edition": "亚森·罗平的秘密 2011",
+        "fetchedAt": "2026-09-27T13:07:29.983Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -725,7 +770,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -824,11 +869,16 @@
     "safeSummary": "狄公在一座寺院的旧事里查案，佛门清静地底下另有账目。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 1062,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523200/",
+        "subjectId": "35523200",
+        "edition": "紫云寺 2021",
+        "fetchedAt": "2026-09-27T13:07:41.536Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -870,7 +920,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "紫云寺奇案"
@@ -899,11 +949,16 @@
     "safeSummary": "狄公任蒲阳县令时的一桩中秋案：节前两日之内出了命案，他独自查访。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 984,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523204/",
+        "subjectId": "35523204",
+        "edition": "中秋案 2021",
+        "fetchedAt": "2026-09-27T13:07:46.660Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -945,7 +1000,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "黑狐奇案"
@@ -975,11 +1030,16 @@
     "safeSummary": "狄公任蒲阳县令时接连经手三桩事：项链失窃、有人被害、有人失踪。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 962,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35523203/",
+        "subjectId": "35523203",
+        "edition": "项链案 2021",
+        "fetchedAt": "2026-09-27T13:07:52.351Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1021,7 +1081,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "项链·葫芦"
@@ -1050,11 +1110,16 @@
     "safeSummary": "中国电影出版社旧版「大唐狄公全传」中的一册，狄公案故事合集。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.7,
+        "count": 33,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2314478/",
+        "subjectId": "2314478",
+        "edition": "大唐狄公全传·三·红阁跛丐 1993",
+        "fetchedAt": "2026-09-27T13:07:57.801Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1096,7 +1161,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1123,11 +1188,16 @@
     "safeSummary": "森村诚一长篇之一：有人在圈子里被推着走，越走越出不来。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 228,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2027640/",
+        "subjectId": "2027640",
+        "edition": "恶魔的圈内 1999",
+        "fetchedAt": "2026-09-27T13:08:02.602Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1169,7 +1239,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1196,11 +1266,16 @@
     "safeSummary": "森村诚一长篇之一：有人把自己背上的东西当成十字架，一直背下去。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 77,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2027659/",
+        "subjectId": "2027659",
+        "edition": "人间的十字架 1999",
+        "fetchedAt": "2026-09-27T13:08:05.783Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1242,7 +1317,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1268,11 +1343,16 @@
     "safeSummary": "森村诚一作品之一：透明的「密室」里，该看见的都看见了，说不通的还是说不通。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 268,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1486151/",
+        "subjectId": "1486151",
+        "edition": "玻璃密室 2003",
+        "fetchedAt": "2026-09-27T13:08:10.647Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1314,7 +1394,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1341,11 +1421,16 @@
     "safeSummary": "森村诚一长篇之一：有人朝着看得见却摸不着的东西一直追。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 71,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2301593/",
+        "subjectId": "2301593",
+        "edition": "彩虹梦 1995",
+        "fetchedAt": "2026-09-27T13:08:14.010Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1387,7 +1472,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1560,11 +1645,16 @@
     "safeSummary": "三色猫福尔摩斯系列的一册：一把提琴牵出的谜案，片山兄妹照旧被卷进去。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 77,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26585305/",
+        "subjectId": "26585305",
+        "edition": "三色猫福尔摩斯提琴谜案 2015",
+        "fetchedAt": "2026-09-27T13:08:27.009Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1606,7 +1696,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1634,11 +1724,16 @@
     "safeSummary": "绫辻行人的短篇集：几个「猜凶手」式的故事，写法本身就是题目的一部分。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.5,
+        "count": 4155,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2242430/",
+        "subjectId": "2242430",
+        "edition": "咚咚吊桥坠落 2007",
+        "fetchedAt": "2026-09-27T13:08:31.572Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1680,7 +1775,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1707,11 +1802,16 @@
     "safeSummary": "绫辻行人的一册长篇：旧宅里的事被一代代低声说下去。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 579,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10518845/",
+        "subjectId": "10518845",
+        "edition": "暗黑杀人耳语 2012",
+        "fetchedAt": "2026-09-27T13:08:37.166Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1753,7 +1853,7 @@
     },
     "provenance": {
       "source": "batch-172-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

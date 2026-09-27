@@ -25,13 +25,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.1。",
         "score": 7.1,
-        "count": null,
+        "count": 35,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/5446514/",
+        "sourceUrl": "https://book.douban.com/subject/5446514/",
         "subjectId": "5446514",
-        "edition": "秘密背后",
-        "fetchedAt": "2026-09-26"
+        "edition": "秘密背后 2011",
+        "fetchedAt": "2026-09-27T13:46:05.346Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -73,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -103,13 +104,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7。",
         "score": 7,
-        "count": null,
+        "count": 67,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3085924/",
+        "sourceUrl": "https://book.douban.com/subject/3085924/",
         "subjectId": "3085924",
-        "edition": "密室之别墅疑案",
-        "fetchedAt": "2026-09-26"
+        "edition": "密室之别墅疑案 2008",
+        "fetchedAt": "2026-09-27T13:46:12.762Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -151,7 +153,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -179,13 +181,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.5。",
         "score": 7.5,
-        "count": null,
+        "count": 30,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2111489/",
+        "sourceUrl": "https://book.douban.com/subject/2111489/",
         "subjectId": "2111489",
-        "edition": "墨吏",
-        "fetchedAt": "2026-09-26"
+        "edition": "墨吏 2007",
+        "fetchedAt": "2026-09-27T13:46:17.197Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -227,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -255,13 +258,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.1。",
         "score": 7.1,
-        "count": null,
+        "count": 100,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4189462/",
+        "sourceUrl": "https://book.douban.com/subject/4189462/",
         "subjectId": "4189462",
-        "edition": "吸血鬼烹饪班 2010",
-        "fetchedAt": "2026-09-26"
+        "edition": "妙龄吸血鬼2·吸血鬼烹饪班 2009",
+        "fetchedAt": "2026-09-27T13:46:21.865Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -303,7 +307,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -332,13 +336,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.8。",
         "score": 6.8,
-        "count": null,
+        "count": 71,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4226534/",
+        "sourceUrl": "https://book.douban.com/subject/4226534/",
         "subjectId": "4226534",
-        "edition": "妙龄吸血鬼 3 死亡天使 2010",
-        "fetchedAt": "2026-09-26"
+        "edition": "妙龄吸血鬼3·死亡天使 2010",
+        "fetchedAt": "2026-09-27T13:46:26.317Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -380,7 +385,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -412,13 +417,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 5.6。",
         "score": 5.6,
-        "count": null,
+        "count": 38,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/7055341/",
+        "sourceUrl": "https://book.douban.com/subject/7055341/",
         "subjectId": "7055341",
         "edition": "幽闭之窗 2012",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-27T13:46:30.744Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -459,7 +465,7 @@
     },
     "provenance": {
       "source": "batch-197-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

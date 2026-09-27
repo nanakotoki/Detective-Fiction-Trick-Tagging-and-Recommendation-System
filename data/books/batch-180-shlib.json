@@ -24,11 +24,16 @@
     "safeSummary": "詹姆斯的一册长篇：护士学院的示范课上当众出了人命，随后又有人死。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 654,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27194481/",
+        "subjectId": "27194481",
+        "edition": "护士学院杀人事件 2017",
+        "fetchedAt": "2026-09-27T13:20:58.727Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -70,7 +75,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "夜莺的尸衣"
@@ -101,11 +106,16 @@
     "safeSummary": "詹姆斯的一册长篇：一户人家的女佣死了，屋里人各有各的说法。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 21,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6859181/",
+        "subjectId": "6859181",
+        "edition": "秘密杀戮 2011",
+        "fetchedAt": "2026-09-27T13:21:02.312Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -147,7 +157,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -175,11 +185,16 @@
     "safeSummary": "詹姆斯的一册长篇：一桩看上去「非自然」的死亡。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.5,
+        "count": 67,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30391540/",
+        "subjectId": "30391540",
+        "edition": "Unnatural Causes 2018",
+        "fetchedAt": "2026-09-27T13:21:10.158Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -221,7 +236,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -471,11 +486,16 @@
     "safeSummary": "詹姆斯的一册长篇：一家博物馆的「谋杀案陈列室」成了案子的中心。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.8,
+        "count": 17,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5336243/",
+        "subjectId": "5336243",
+        "edition": "谋杀案陈列馆之谜 2011",
+        "fetchedAt": "2026-09-27T13:21:39.763Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -517,7 +537,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -764,11 +784,16 @@
     "safeSummary": "吴蔚的一册历史推理：明代宫廷里的一桩奇案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 108,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/23060064/",
+        "subjectId": "23060064",
+        "edition": "明宫奇案 2013",
+        "fetchedAt": "2026-09-27T13:22:01.172Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -810,7 +835,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -837,11 +862,16 @@
     "safeSummary": "吴蔚的一册历史推理：一块玉璧牵出的旧案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 91,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10733226/",
+        "subjectId": "10733226",
+        "edition": "和氏璧 2012",
+        "fetchedAt": "2026-09-27T13:22:05.844Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -883,7 +913,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -910,11 +940,16 @@
     "safeSummary": "吴蔚的一册历史推理：从「斧声烛影」那桩千古疑案写起。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 129,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6526398/",
+        "subjectId": "6526398",
+        "edition": "斧声烛影 2011",
+        "fetchedAt": "2026-09-27T13:22:10.711Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -956,7 +991,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -983,11 +1018,16 @@
     "safeSummary": "吴蔚的一册历史推理：柳如是与一件叫作「一捧雪」的旧物。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 55,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25951914/",
+        "subjectId": "25951914",
+        "edition": "柳如是：柳色独秀 2014",
+        "fetchedAt": "2026-09-27T13:22:15.501Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1029,7 +1069,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1056,11 +1096,16 @@
     "safeSummary": "吴蔚的一册历史推理：柳如是的生平与南明旧事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 27,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26265047/",
+        "subjectId": "26265047",
+        "edition": "柳如是：如是我闻 2014",
+        "fetchedAt": "2026-09-27T13:22:19.981Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1102,7 +1147,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1129,11 +1174,16 @@
     "safeSummary": "吴蔚的一册历史推理：明代中叶的一场大变故。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 30,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26895114/",
+        "subjectId": "26895114",
+        "edition": "大明惊变 2016",
+        "fetchedAt": "2026-09-27T13:22:24.501Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1175,7 +1225,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1202,11 +1252,16 @@
     "safeSummary": "吴蔚的一册历史推理：唐代「甘露之变」前后的人和事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 29,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30210260/",
+        "subjectId": "30210260",
+        "edition": "甘露之变 2018",
+        "fetchedAt": "2026-09-27T13:22:28.897Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1248,7 +1303,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1348,11 +1403,16 @@
     "safeSummary": "「莫兰系列」的一册：一种颜色反复出现在案子相关的地方。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 79,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24868860/",
+        "subjectId": "24868860",
+        "edition": "蔷薇的颜色 2013",
+        "fetchedAt": "2026-09-27T13:22:38.743Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1394,7 +1454,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1421,11 +1481,16 @@
     "safeSummary": "鬼马星的一册长篇：一条黑背鱼牵出的谜。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 432,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4002618/",
+        "subjectId": "4002618",
+        "edition": "黑背鱼之谜 2009",
+        "fetchedAt": "2026-09-27T13:22:43.352Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1467,7 +1532,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1494,11 +1559,16 @@
     "safeSummary": "鬼马星的一册长篇：一场饭局之后，事情开始不对。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 787,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3326990/",
+        "subjectId": "3326990",
+        "edition": "宴无好宴 2008",
+        "fetchedAt": "2026-09-27T13:22:47.041Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1540,7 +1610,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1713,11 +1783,16 @@
     "safeSummary": "「洪律师探案集」的一册：一个血型对不上的人，成了案子的关键。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 10,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1106441/",
+        "subjectId": "1106441",
+        "edition": "双血型人 2003",
+        "fetchedAt": "2026-09-27T13:23:01.630Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1759,7 +1834,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1786,11 +1861,16 @@
     "safeSummary": "何家弘的一册长篇：一桩案子伸进了股市幕后。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 17,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2161818/",
+        "subjectId": "2161818",
+        "edition": "人生黑洞 2007",
+        "fetchedAt": "2026-09-27T13:23:06.165Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1832,7 +1912,7 @@
     },
     "provenance": {
       "source": "batch-180-shlib.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]
