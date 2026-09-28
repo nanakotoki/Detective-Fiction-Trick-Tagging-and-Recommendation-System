@@ -833,14 +833,18 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 137 轮）**：池内该行是**台版繁体题名 + 分卷**（獨步文化「日本推理大師經典」），实即库内本条；上下卷两条一并登记。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 作家出版社 2010（馆藏题名「兽之道」／松本清张）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-55-masters-depth.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2010"
+    "editionYear": "2010",
+    "alternateTitles": [
+      "獸之道（上）",
+      "獸之道（下）"
+    ]
   },
   {
     "id": "md55-011",

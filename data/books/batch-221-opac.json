@@ -1,0 +1,238 @@
+[
+  {
+    "id": "opac137-001",
+    "title": "魔神的游戏",
+    "originalTitle": "魔神の遊戯",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "legend-folklore",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一册以「魔神」传说起头的御手洗洁长篇：古老的说法、封闭的地形，与一桩按传说方式发生的命案叠在一起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 1115,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11503107/",
+        "subjectId": "11503107",
+        "edition": "魔神的游戏 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "御手洗洁系列的读者",
+        "岛田庄司的读者"
+      ],
+      "watchFor": [
+        "传说里的「魔神」是怎样被复现的",
+        "御手洗介入的时机"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**豆瓣丛书页**渠道发现）：岛田庄司著，林新生译，新星出版社 2012，ISBN 978-7-5133-0788-8，353 页，丛编「**午夜文库/岛田庄司作品集**」，**学科主题词「长篇小说 日本 现代」**（无「推理小说」字样），中图法 `I313.45`。**原作名**：豆瓣同版条目 `subject/11503107`（新星出版社 2012-9，ISBN 9787513307888 —— 与馆藏同一号）给出 `魔神の遊戯`。**评分**：**6.7**、1115 人评价（2026-09 抓取）。**判据**：丛编为岛田庄司作品的推理专门书系 + 库内已有其御手洗洁系列多部（写法沿用）+ 条目页谜面清楚。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：馆藏未提供提要，按题名与系列层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-221-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac137-002",
+    "title": "利比达寓言",
+    "originalTitle": "リベルタスの寓話",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "historical-setting",
+      "series-detective",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "中世纪城市的马口铁人偶「利比达」成了杀案的引子：纷争不断的小镇里，负责案件的少尉只能向远在瑞典的御手洗洁求助。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 524,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26849857/",
+        "subjectId": "26849857",
+        "edition": "利比达寓言 2016",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "御手洗洁系列的读者",
+        "岛田庄司的读者"
+      ],
+      "watchFor": [
+        "「利比达」这个说法在当地意味着什么",
+        "案件为什么查不出真凶"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：岛田庄司著，沈舒悦译，新星出版社 2016，ISBN 978-7-5133-2246-1，326 页，丛编「**午夜文库·大师系列**」，**学科主题词「长篇小说 日本 现代」**，中图法 `I313.45`；**馆藏提要写明「利比达杀人案」与「向远在瑞典的名侦探御手洗洁求助」**。**原作名**：豆瓣同版条目 `subject/26849857`（ISBN 9787513322461 —— 与馆藏同一号）给出 `リベルタスの寓話`。**评分**：**6.8**、524 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。**梗概**：据**馆藏提要**重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-221-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac137-003",
+    "title": "进进堂，世界一周",
+    "originalTitle": "進々堂世界一周 追憶のカシュガル",
+    "author": "岛田庄司",
+    "authorEn": "Shimada Soji",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "御手洗洁系列",
+    "detective": "御手洗洁",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "series-detective",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一位想考京都大学的青年在「进进堂」咖啡馆结识了御手洗洁；游历过世界的御手洗就这样讲起了各地的人与谜团。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.3。",
+        "score": 6.3,
+        "count": 463,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26755285/",
+        "subjectId": "26755285",
+        "edition": "进进堂，世界一周 2016",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "御手洗洁系列的读者",
+        "日常闲谈式推理的读者"
+      ],
+      "watchFor": [
+        "御手洗讲到的那些地方",
+        "每个小谜团落脚的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：岛田庄司著，杜海怀译，新星出版社 2016，ISBN 978-7-5133-2075-7，255 页，丛编「**午夜文库·大师系列**」，**学科主题词「长篇小说 日本 现代」**，中图法 `I313.45`；**馆藏提要写明舞台是「进进堂」咖啡馆与御手洗洁的讲述**（属该系列的日常闲谈一路，故 `genre` 记「日常之谜」）。**原作名**：豆瓣同版条目 `subject/26755285`（ISBN 9787513320757 —— 与馆藏同一号）给出 `進々堂世界一周　追憶のカシュガル`。**评分**：**6.3**、463 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。**梗概**：据**馆藏提要**重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-221-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
