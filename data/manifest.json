@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T13:30:44.773Z",
+  "generatedAt": "2026-09-28T14:10:54.991Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3242,
-    "dataFiles": 225,
+    "books": 3243,
+    "dataFiles": 226,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3242,
+    "withSafeSummary": 3243,
     "withPlatformRating": 2489
   },
   "tagDistribution": [
@@ -250,12 +250,12 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1651
+          "books": 1652
         },
         {
           "id": "fear",
           "label": "恐惧",
-          "books": 391
+          "books": 392
         },
         {
           "id": "curiosity",
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 562
+          "books": 563
         },
         {
           "id": "cozy",
@@ -312,7 +312,7 @@
         {
           "id": "legend-folklore",
           "label": "民俗传说",
-          "books": 280
+          "books": 281
         },
         {
           "id": "forensic",
@@ -349,7 +349,7 @@
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1952
+          "books": 1953
         },
         {
           "id": "social-school",
@@ -379,7 +379,7 @@
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 782
+          "books": 783
         },
         {
           "id": "spy-school",
@@ -404,7 +404,7 @@
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 477
+          "books": 478
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3242
+    "checkedBooks": 3243
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

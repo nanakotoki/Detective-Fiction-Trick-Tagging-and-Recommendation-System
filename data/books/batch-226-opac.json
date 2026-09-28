@@ -1,0 +1,77 @@
+[
+  {
+    "id": "opac144-001",
+    "title": "赫眼",
+    "originalTitle": "",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "legend-folklore",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "三津田信三的短篇集（吉林「七曜文库」）：馆藏主题词为「长篇小说 日本 现代」，梗概按题名与作者层面撰写，不涉及具体情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "三津田信三的读者",
+        "怪谈与变格交界的读者"
+      ],
+      "watchFor": [
+        "「赫眼」这个说法在每篇里的所指",
+        "叙述者的位置"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**豆瓣丛书页**渠道发现）：三津田信三著，曹逸冰译，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-0120-1，235 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**判据（②档三条齐）**：①丛编「七曜文库」中的推理专门书系；②**库内已有该作者 20 部**（《首无作祟之物》《如山魔嗤笑之物》《如幽女怨怼之物》等，写法沿用）；③同一丛编里本批已按同一判据收过《唯一正确的时钟》《堪忍箱》等。主题词的差别如实记录。**原作名**：馆藏并列题名为空，本轮**豆瓣条目页开始返回登录跳转**（详见台账 §144），未能取到原作名与评分，故 `originalTitle` 留空、评分标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与作者层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-226-opac.json",
+      "ratingsNote": "本批条目在豆瓣未检索到可比对的同版条目，三个平台一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
