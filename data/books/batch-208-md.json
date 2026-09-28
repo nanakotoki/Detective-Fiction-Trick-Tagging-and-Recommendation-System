@@ -1,0 +1,2296 @@
+[
+  {
+    "id": "md208-001",
+    "title": "至死不渝",
+    "originalTitle": "The Death Do Us Part",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：一桩与「至死不渝」这句誓词有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "誓词里被谁当了真",
+        "各人的时间与行踪"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-5228-2，馆藏 `215` 作「15, 266 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Death Do Us Part`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2011 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-002",
+    "title": "火焰，燃烧吧！",
+    "originalTitle": "Fire, Burn!",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：一名伦敦警官乘车时，时间从 1950 年跳到了 1829 年的摄政时期末——案子要在那个年代里查。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 271,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/5387464/",
+        "subjectId": "5387464",
+        "edition": "火焰，燃烧吧！ 2010",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "他为什么落在 1829 年",
+        "两个时代的同一桩案子"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2010，ISBN 978-7-5463-4439-3，馆藏 `215` 作「15, 360 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Fire, Burn!`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2010 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/5387464/`（2026-09 抓取，评分 **7**、271 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-003",
+    "title": "新门新娘",
+    "originalTitle": "The Bride of Newgate",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：故事从新门监狱里的一场婚礼开始。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 220,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/24744379/",
+        "subjectId": "24744379",
+        "edition": "新门新娘 2013",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "这场婚礼的两个人各自图什么",
+        "监狱外的旧账"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-2082-0，馆藏 `215` 作「15, 380 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Bride of Newgate`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2013 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/24744379/`（2026-09 抓取，评分 **6.5**、220 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-004",
+    "title": "第三颗子弹",
+    "originalTitle": "The Third Bullet",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：以「第三颗子弹」为线索的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8。",
+        "score": 8,
+        "count": 471,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/24316423/",
+        "subjectId": "24316423",
+        "edition": "第三颗子弹 2013",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "现场一共响了几枪",
+        "那颗多余的子弹从哪来"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-1782-0，馆藏 `215` 作「310 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Third Bullet`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2013 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/24316423/`（2026-09 抓取，评分 **8**、471 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-005",
+    "title": "福尔摩斯的功绩",
+    "originalTitle": "The Exploits of Sherlock Holmes",
+    "author": "约翰·迪克森·卡尔",
+    "authors": [
+      "约翰·迪克森·卡尔",
+      "阿德里安·柯南·道尔"
+    ],
+    "authorEn": "John Dickson Carr; Adrian Conan Doyle",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔与柯南·道尔之子合写的福尔摩斯仿作集：把「未公开的案件」逐一补写出来。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": 476,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4625993/",
+        "subjectId": "4625993",
+        "edition": "福尔摩斯的功绩 2010",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "每个案子在正典里的那一句提及",
+        "仿作与正典笔法的差别"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2010，ISBN 978-7-5463-2613-9，馆藏 `215` 作「16, 341 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Exploits of Sherlock Holmes`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**责任者说明**：馆藏责任者项第二位著录作「柯南·道尔」，实为柯南·道尔之子**阿德里安·柯南·道尔**（本册英文原版 *The Exploits of Sherlock Holmes* 的合著者）；为避免与库内「阿瑟·柯南·道尔」混为一人，此处按实际合著者登记，并在此写明馆藏的原始著录。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2010 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/4625993/`（2026-09 抓取，评分 **7.5**、476 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-006",
+    "title": "唤醒死者",
+    "originalTitle": "To Wake the Dead",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：一桩要把已经「睡下」的人重新叫醒的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "谁被当成了死者",
+        "死者最后出现的地方"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-4763-9，馆藏 `215` 作「15, 265 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `To Wake the Dead`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2011 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-007",
+    "title": "逆转死局",
+    "originalTitle": "Death Turns the Tables",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：一桩眼看已经定局的案子，在最后关头被翻了过来。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 739,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2378207/",
+        "subjectId": "2378207",
+        "edition": "逆转死局 2007",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "判决之前还剩下什么可查",
+        "翻案的那一件物证"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2007，ISBN 978-7-80762-464-6，馆藏 `215` 作「210 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Death Turns the Tables`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2007 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2378207/`（2026-09 抓取，评分 **6.8**、739 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-008",
+    "title": "沉睡的人面狮身",
+    "originalTitle": "The Sleeping Sphinx",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：以「沉睡的人面狮身」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 590,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/2378199/",
+        "subjectId": "2378199",
+        "edition": "沉睡的人面狮身 2007",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "「沉睡」指的是谁",
+        "旧案与眼下这桩的关系"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2007，ISBN 978-7-80762-461-5，馆藏 `215` 作「273 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Sleeping Sphinx`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2007 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/2378199/`（2026-09 抓取，评分 **6.9**、590 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-009",
+    "title": "破解奇迹之人",
+    "originalTitle": "The Men Who Explained Miracles",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的短篇合集：收录他笔下几位侦探破解「看似奇迹」的案件。馆藏提要给出的谜面是——一间没人住的公寓里收音机响个不停，第二天屋里发现了一具尸体。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 200,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/25940204/",
+        "subjectId": "25940204",
+        "edition": "破解奇迹之人 2014",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "每篇里「奇迹」是怎么被拆掉的",
+        "几位侦探各自的办法"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2014，ISBN 978-7-5534-4814-5，馆藏 `215` 作「215 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Men Who Explained Miracles`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2014 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/25940204/`（2026-09 抓取，评分 **6.6**、200 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-010",
+    "title": "我的前妻们",
+    "originalTitle": "My Late Wives",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：围绕一位男士的几任前妻展开的案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 623,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3293575/",
+        "subjectId": "3293575",
+        "edition": "我的前妻们 2008",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "几位前妻各自的去向",
+        "她们之间的共同点"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2008，ISBN 978-7-80762-905-4，馆藏 `215` 作「11, 339 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `My Late Wives`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2008 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3293575/`（2026-09 抓取，评分 **7**、623 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-011",
+    "title": "失颤之人",
+    "originalTitle": "The Man Who Could Not Shudder",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：一个「从不会发抖的人」成了这桩案子的关键。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.6。",
+        "score": 7.6,
+        "count": 586,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4845560/",
+        "subjectId": "4845560",
+        "edition": "失颤之人 2010",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "他从不动声色的原因",
+        "屋里那件东西为什么会动"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2010，ISBN 978-7-5463-3038-9，馆藏 `215` 作「16, 287 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Man Who Could Not Shudder`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2010 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/4845560/`（2026-09 抓取，评分 **7.6**、586 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-012",
+    "title": "爬虫类馆杀人事件",
+    "originalTitle": "He Wouldn't Kill Patience",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：案子发生在一座爬虫类馆里。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 673,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3667352/",
+        "subjectId": "3667352",
+        "edition": "爬虫类馆杀人事件 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "馆里的动物与饲养员",
+        "命案与「Patience」的关系"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0220-1，馆藏 `215` 作「11, 302 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `He Wouldn't Kill Patience`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3667352/`（2026-09 抓取，评分 **7**、673 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-013",
+    "title": "红寡妇血案",
+    "originalTitle": "The Red Widow Murders",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：以「红寡妇」为名的一处地方，又出了一桩命案。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 491,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3666853/",
+        "subjectId": "3666853",
+        "edition": "红寡妇血案 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "「红寡妇」这个名字的来历",
+        "以前那几桩是怎么了结的"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0221-8，馆藏 `215` 作「314 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Red Widow Murders`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3666853/`（2026-09 抓取，评分 **7.3**、491 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-014",
+    "title": "五盒之谜",
+    "originalTitle": "Death in Five Boxes",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：五只盒子里的东西决定了这桩案子的走向。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 571,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3510277/",
+        "subjectId": "3510277",
+        "edition": "五盒之谜 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "五只盒子分别是谁的",
+        "少掉的那一样"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2009，ISBN 978-7-80762-903-0，馆藏 `215` 作「14, 324 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Death in Five Boxes`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3510277/`（2026-09 抓取，评分 **7.3**、571 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-015",
+    "title": "独角兽谋杀案",
+    "originalTitle": "The Unicorn Murders",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：以「独角兽」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": 777,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3510278/",
+        "subjectId": "3510278",
+        "edition": "独角兽谋杀案 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "「独角兽」指的是什么",
+        "同行的人各自的身份"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2009，ISBN 978-7-80762-904-7，馆藏 `215` 作「311 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Unicorn Murders`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3510278/`（2026-09 抓取，评分 **7.5**、777 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-016",
+    "title": "九因谋杀成十",
+    "originalTitle": "Nine - and Death Makes Ten",
+    "author": "约翰·迪克森·卡尔",
+    "authorEn": "John Dickson Carr",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "卡尔的长篇之一：九加一桩命案等于十——书名里的这个算式就是它的谜面。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": 632,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/4845553/",
+        "subjectId": "4845553",
+        "edition": "九因谋杀成十 2010",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "约翰·迪克森·卡尔的读者"
+      ],
+      "watchFor": [
+        "九个人为什么正好是九个",
+        "多出来的那一个"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：约翰·迪克森·卡尔著，吉林出版集团有限责任公司 2010，ISBN 978-7-5463-3037-2，馆藏 `215` 作「272 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Nine - and Death Makes Ten`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2010 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/4845553/`（2026-09 抓取，评分 **7.4**、632 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-017",
+    "title": "寓所之骤死",
+    "originalTitle": "Suddenly at His Residence",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的长篇之一：一个人在自己的寓所里猝然死去。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 255,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3666866/",
+        "subjectId": "3666866",
+        "edition": "寓所之骤死 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "宅子里各人的时间线",
+        "死者生前那句话的意思"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0233-1，馆藏 `215` 作「13, 270 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Suddenly at His Residence`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3666866/`（2026-09 抓取，评分 **7.3**、255 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-018",
+    "title": "晕头转向",
+    "originalTitle": "Heads You Lose",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的长篇之一：书名取自抛硬币的赌法——正面你输，而这桩案子也是一场赌。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "谁在赌、赌什么",
+        "两次说法为什么不一样"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0234-8，馆藏 `215` 作「16, 235 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Heads You Lose`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-019",
+    "title": "绝技",
+    "originalTitle": "Tour de Force",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的长篇之一：一桩发生在旅途中的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "同行旅客各自的目的地",
+        "行程表上对不上的那一段"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0235-5，馆藏 `215` 作「300 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Tour de Force`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-020",
+    "title": "耶洗别之死",
+    "originalTitle": "Death of Jezebel",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的长篇之一：以「耶洗别」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": 685,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3666868/",
+        "subjectId": "3666868",
+        "edition": "耶洗别之死 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "台上台下的位置关系",
+        "那句台词的用意"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0231-7，馆藏 `215` 作「236 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Death of Jezebel`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3666868/`（2026-09 抓取，评分 **7.4**、685 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-021",
+    "title": "不速之客的自助餐",
+    "originalTitle": "Buffet for Unwelcome Guests",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的一册短篇集：写的是「不受欢迎的客人」登门之后发生的事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "每位来客为什么不受欢迎",
+        "主人留客的理由"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0230-0，馆藏 `215` 作「413 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Buffet for Unwelcome Guests`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-022",
+    "title": "绿色危机",
+    "originalTitle": "Green for Danger",
+    "author": "克里斯蒂安娜·布兰德",
+    "authorEn": "Christianna Brand",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "布兰德的长篇之一：案子发生在一所战时医院里。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.7。",
+        "score": 7.7,
+        "count": 630,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3615030/",
+        "subjectId": "3615030",
+        "edition": "绿色危机 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克里斯蒂安娜·布兰德的读者"
+      ],
+      "watchFor": [
+        "手术室里的排班",
+        "谁在什么时候进过那间屋"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克里斯蒂安娜·布兰德著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0232-4，馆藏 `215` 作「291 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I561.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Green for Danger`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3615030/`（2026-09 抓取，评分 **7.7**、630 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-023",
+    "title": "独行女",
+    "originalTitle": "She Walks Alone",
+    "author": "海伦·麦克洛伊",
+    "authorEn": "Helen McCloy",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "麦克洛伊的长篇之一：一个独自行动的女人卷进了一桩案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "海伦·麦克洛伊的读者"
+      ],
+      "watchFor": [
+        "她为什么不肯找人帮忙",
+        "谁在跟着她"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：海伦·麦克洛伊著，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-4895-7，馆藏 `215` 作「305 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `She Walks Alone`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2011 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-024",
+    "title": "犹在镜中",
+    "originalTitle": "Through a Glass, Darkly",
+    "author": "海伦·麦克洛伊",
+    "authorEn": "Helen McCloy",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "麦克洛伊的长篇之一：一桩看上去清楚、细看却处处对不上的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "海伦·麦克洛伊的读者"
+      ],
+      "watchFor": [
+        "最初的结论是怎么来的",
+        "镜子那一头的人是谁"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：海伦·麦克洛伊著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0954-5，馆藏 `215` 作「12, 248 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Through a Glass, Darkly`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-025",
+    "title": "分足先生",
+    "originalTitle": "Mr Splitfoot",
+    "author": "海伦·麦克洛伊",
+    "authorEn": "Helen McCloy",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "麦克洛伊的长篇之一：以「分足先生」为题的案子——那是民间故事里给魔鬼起的名字。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 268,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3807126/",
+        "subjectId": "3807126",
+        "edition": "分足先生 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "海伦·麦克洛伊的读者"
+      ],
+      "watchFor": [
+        "「分足」这个说法从哪来",
+        "夜里那段脚步声"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：海伦·麦克洛伊著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0498-4，馆藏 `215` 作「12, 264 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Mr Splitfoot`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3807126/`（2026-09 抓取，评分 **6.7**、268 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-026",
+    "title": "死亡之舞",
+    "originalTitle": "Dance of Death",
+    "author": "海伦·麦克洛伊",
+    "authorEn": "Helen McCloy",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "麦克洛伊的长篇之一：一桩与「死亡之舞」有关的案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "海伦·麦克洛伊的读者"
+      ],
+      "watchFor": [
+        "那支曲子出现的场合",
+        "跟着节奏发生的事"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：海伦·麦克洛伊著，吉林出版集团有限责任公司 2009，ISBN 978-7-5463-0499-1，馆藏 `215` 作「12, 297 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Dance of Death`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-027",
+    "title": "幸运儿",
+    "originalTitle": "The Lucky Stiff",
+    "author": "克雷格·莱斯",
+    "authorEn": "Craig Rice",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "莱斯的长篇之一：一具尸体被人叫作「幸运儿」——她的推理小说里常有的那种玩笑。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克雷格·莱斯的读者"
+      ],
+      "watchFor": [
+        "谁把这具尸体说成幸运的",
+        "几个当事人各自的算盘"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克雷格·莱斯著，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-5808-6，馆藏 `215` 作「302 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Lucky Stiff`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2011 年。**评分来源**：豆瓣按题名检索**没有本册（吉林版）的条目**，故三个平台一律「暂无数据」，不拿别的版本或别的作品的分来填。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-028",
+    "title": "愤怒审判",
+    "originalTitle": "Trial by Fury",
+    "author": "克雷格·莱斯",
+    "authorEn": "Craig Rice",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "莱斯的长篇之一：一桩先被舆论审过一遍的案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.2。",
+        "score": 7.2,
+        "count": 73,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/6540674/",
+        "subjectId": "6540674",
+        "edition": "愤怒审判 2011",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "克雷格·莱斯的读者"
+      ],
+      "watchFor": [
+        "舆论认定的凶手",
+        "法庭之外查到的部分"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：克雷格·莱斯著，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-5807-9，馆藏 `215` 作「338 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Trial by Fury`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2011 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/6540674/`（2026-09 抓取，评分 **7.2**、73 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-029",
+    "title": "地狱之缘",
+    "originalTitle": "Rim of the Pit",
+    "author": "塔伯特",
+    "authorEn": "Hake Talbot",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "塔伯特的长篇之一：传说与命案搅在一起，看上去不像人力所能为。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 612,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3170264/",
+        "subjectId": "3170264",
+        "edition": "地狱之缘 2008",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "塔伯特的读者"
+      ],
+      "watchFor": [
+        "当地人讲的那个传说",
+        "雪地上留下的痕迹"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：塔伯特著，吉林出版集团有限责任公司 2008，ISBN 978-7-80762-516-2，馆藏 `215` 作「302 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Rim of the Pit`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**著录说明**：馆藏责任者项作「塔伯特」（Hake Talbot 的中译著录）；作者名按馆藏著录登记，`authorEn` 用其本名。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2008 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3170264/`（2026-09 抓取，评分 **6.8**、612 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-030",
+    "title": "刽子手的杂役",
+    "originalTitle": "Hangman's Handyman",
+    "author": "塔伯特",
+    "authorEn": "Hake Talbot",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "塔伯特的长篇之一：以「刽子手的杂役」为题的一桩案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.1。",
+        "score": 7.1,
+        "count": 350,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3170267/",
+        "subjectId": "3170267",
+        "edition": "刽子手的杂役 2008",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "塔伯特的读者"
+      ],
+      "watchFor": [
+        "那间屋子里的东西为什么会动",
+        "各人的说法差在哪里"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：塔伯特著，吉林出版集团有限责任公司 2008，ISBN 978-7-80762-517-9，馆藏 `215` 作「342 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `Hangman's Handyman`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2008 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3170267/`（2026-09 抓取，评分 **7.1**、350 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md208-031",
+    "title": "红色右手",
+    "originalTitle": "The Red Right Hand",
+    "author": "罗杰斯",
+    "authorEn": "Joel Townsley Rogers",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "罗杰斯的长篇之一：一只「红色的右手」是这桩案子里最难解释的东西。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8。",
+        "score": 8,
+        "count": 874,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/3345182/",
+        "subjectId": "3345182",
+        "edition": "红色右手 2009",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "黄金时代古典推理的读者",
+        "罗杰斯的读者"
+      ],
+      "watchFor": [
+        "那只手出现的位置",
+        "讲述者自己记得的部分"
+      ],
+      "warning": "古典推理长篇，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `node scripts/shlib-series-scan.mjs --series 古典推理文库` 发现，见 §124）：罗杰斯著，吉林出版集团有限责任公司 2009，ISBN 978-7-80762-894-1，馆藏 `215` 作「221 页」，丛编「**古典推理文库**」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I712.45`**；③**丛编为推理专门书系**。**原作名**：馆藏并列题名字段给出 `The Red Right Hand`，故 `originalTitle` 记此值（该丛编的著录普遍带这个字段，这正是本轮能一次定案三十余条的原因）。**著录说明**：馆藏责任者项作「罗杰斯」（Joel Townsley Rogers 的中译著录）；作者名按馆藏著录登记，`authorEn` 用其本名。**体裁与流派**：`genre`／`school`／`tags` 按**丛编性质**标注（「古典推理文库」是黄金时代本格的专门书系），**不是**据某一册的提要；馆藏主题词只到「推理小说 英国／美国 现代」这一层。**系列与主角留空**：馆藏与豆瓣都未著录系列归属（菲尔博士／梅利维尔爵士等），`detective` 与 `series` **一律留空**——不据印象填。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛编体例整理，**不含具体情节**。**年份字段说明**：`firstPublished` 留空；`editionYear` 记所引中译本的 2009 年。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/3345182/`（2026-09 抓取，评分 **8**、874 人评价）：该页版本信息（吉林出版集团／古典推理文库，译者与页数与馆藏一致）与馆藏著录为**同一版次**。"
+    },
+    "provenance": {
+      "source": "batch-208-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

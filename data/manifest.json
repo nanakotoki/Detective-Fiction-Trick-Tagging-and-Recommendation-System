@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T03:28:42.650Z",
+  "generatedAt": "2026-09-28T04:45:22.435Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3004,
-    "dataFiles": 207,
+    "books": 3035,
+    "dataFiles": 208,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3004,
-    "withPlatformRating": 2314
+    "withSafeSummary": 3035,
+    "withPlatformRating": 2336
   },
   "tagDistribution": [
     {
@@ -203,7 +203,7 @@
         {
           "id": "historical-setting",
           "label": "时代背景",
-          "books": 367
+          "books": 368
         }
       ]
     },
@@ -272,7 +272,7 @@
         {
           "id": "honkaku",
           "label": "本格解谜",
-          "books": 540
+          "books": 571
         },
         {
           "id": "social-commentary",
@@ -344,12 +344,12 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1008
+          "books": 1039
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1768
+          "books": 1799
         },
         {
           "id": "social-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3004
+    "checkedBooks": 3035
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
