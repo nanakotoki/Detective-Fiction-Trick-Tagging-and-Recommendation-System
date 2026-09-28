@@ -1,0 +1,317 @@
+[
+  {
+    "id": "opac136-001",
+    "title": "恐怖分子的洋伞",
+    "originalTitle": "テロリストのパラソル",
+    "author": "藤原伊织",
+    "authorEn": "Fujiwara Iori",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "hardboiled-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "爆炸案的死者名单里，赫然有二十二年前不辞而别的女友与远赴重洋的好友；他成了头号通缉犯，只能一边躲一边查。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 1006,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36075910/",
+        "subjectId": "36075910",
+        "edition": "恐怖分子的洋伞 2022",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬派犯罪小说的读者",
+        "藤原伊织的读者"
+      ],
+      "watchFor": [
+        "二十二年前那段往事",
+        "闯入他生活的那些陌生人"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**豆瓣丛书页**渠道发现并复核）：藤原伊织著，黄悦生译，北京日报出版社 2022，ISBN 978-7-5477-4383-6，273 页，丛编「**读客悬疑文库**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`（同馆另有吉林出版集团 2012 年版，ISBN 978-7-5463-6854-2，340 页，同作）。**原作名**：豆瓣同版条目 `subject/36075910`（北京日报出版社 2022-11，ISBN 9787547743836 —— 与馆藏一致）给出 `テロリストのパラソル`。**评分**：**7.0**、1006 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-220-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac136-002",
+    "title": "失控的玩具",
+    "originalTitle": "乱れからくり",
+    "author": "泡坂妻夫",
+    "authorEn": "Awasa Tsumao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "curiosity",
+      "mansion"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一册以「机关人偶（からくり）」为核心的本格长篇：作者泡坂妻夫本人就是魔术与机关的研究者，谜面与机关互为表里。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 1566,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6985661/",
+        "subjectId": "6985661",
+        "edition": "失控的玩具 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格解谜的读者",
+        "泡坂妻夫的读者"
+      ],
+      "watchFor": [
+        "人偶的动作原理",
+        "机关停下来的那一刻"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：泡坂妻夫著，曹逸冰译，吉林出版集团有限责任公司 2013，ISBN 978-7-5463-7484-0，268 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（**注意：馆藏主题词没有「推理小说」字样**），中图法 `I313.45`。**推理属性判据**：①丛编「七曜文库」中的推理专门书系；②豆瓣同版条目 `subject/6985661`（吉林出版集团 2013-4，ISBN 9787546374840 —— 与馆藏同一号）给出原作名 `乱れからくり`，7.3 分、1566 人评价；③作者泡坂妻夫是**魔术研究者出身**的本格作家（库内已有其《亚爱一郎的狼狈》《奇术侦探曾我佳城》等 6 部）。三条合并为判据，主题词的差别如实记录。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与作品层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-220-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac136-003",
+    "title": "模拟密室",
+    "originalTitle": "模倣密室 黒星警部と七つの密室",
+    "author": "折原一",
+    "authorEn": "Hajime Orihara",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "黑星光系列",
+    "detective": "黑星光",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "multiple-solutions",
+      "series-detective",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "黑星警部与七个密室：每一篇都是一次「模拟」出来的密室——折原一式的小机关短篇集。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 805,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6249673/",
+        "subjectId": "6249673",
+        "edition": "模拟密室 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室短篇的读者",
+        "折原一的读者"
+      ],
+      "watchFor": [
+        "「模拟」这两个字怎么落实",
+        "每个密室的成立条件"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：折原一著，李雨潭译，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-5222-0，325 页，丛编「**七曜文库**」，**学科主题词「短篇小说 小说集 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**推理属性判据**：①七曜文库中的推理专门书系；②豆瓣同版条目 `subject/6249673`（吉林出版集团 2011-6，ISBN 9787546352220 —— 与馆藏同一号）给出原作名 `模倣密室 黒星警部と七つの密室`，6.7 分、805 人评价；③库内已有同系列的《七口棺材》（`series` 记「黑星光系列」、主角黑星光），本册即该系列的另一册。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与系列层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-220-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac136-004",
+    "title": "愚人之毒",
+    "originalTitle": "愚人の毒",
+    "author": "小酒井不木",
+    "authorEn": "Kozakai Fumoki",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "concealment",
+      "curiosity",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "战前「变格派」作家小酒井不木的一册（吉林「七曜文库」）：馆藏主题词为「长篇小说 日本 现代」，梗概按题名与体裁层面撰写，不涉及具体情节。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 325,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11604616/",
+        "subjectId": "11604616",
+        "edition": "愚人之毒 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前变格派的读者",
+        "犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "「毒」这个题眼落在谁身上",
+        "叙述里的偏执"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：小酒井不木著，曹捷平译，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-0387-8，252 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**推理属性判据**：①七曜文库中的推理专门书系；②豆瓣同版条目 `subject/11604616`（吉林出版集团 2013-2，ISBN 9787553403878 —— 与馆藏同一号）给出原作名 `愚人の毒`，6.7 分、325 人评价；③作者小酒井不木是**日本战前「变格派」的代表作家之一**（以犯罪研究与怪奇短篇知名），本条 `genre` 据此记「变格」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与体裁层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-220-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
