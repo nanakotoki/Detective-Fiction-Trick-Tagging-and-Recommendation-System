@@ -1,0 +1,297 @@
+[
+  {
+    "id": "md211-001",
+    "title": "黑暗之刺",
+    "originalTitle": "A Stab in the Dark",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "斯卡德接下的一桩旧案：九年前那起连环案已经有人认罪伏法，可凶手留下的细节对不上——他要把九年前那一夜重新走一遍。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": 1607,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/1986381/",
+        "subjectId": "1986381",
+        "edition": "黑暗之刺 2007",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "劳伦斯·布洛克的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "当年那份供词里的细节",
+        "九年之间各人的变化"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series …` 发现，见 §127）：劳伦斯·布洛克著，2007，ISBN 978-7-80225-228-8，馆藏 `215` 作「209 页」，丛编「马修·斯卡德系列」，**学科主题词含「推理小说」**（第①类，最硬），中图法 `I712.45`。**原作名**：馆藏并列题名字段给出 `A Stab in the Dark`，故 `originalTitle` 记此值。**著录说明**：同书另有两个版本（新星 2010 年 2 版、四川人民 2018）；本条按池内两行共同指向的新星 2007 年版收录，`editionYear` 记 2007。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2007。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/1986381/`（2026-09 抓取，评分 **7.5**、1607 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-211-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md211-002",
+    "title": "女人的勋章",
+    "originalTitle": "",
+    "author": "山崎丰子",
+    "authorEn": "Toyoko Yamasaki",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "日本推理大师长篇佳作丛书",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "大阪一家老呢绒批发店的独女，父母双亡后靠一间小小的缝纫训练班起家，一步步做成有名的服装设计师——直到她被身边的欲望与算计拖到绝路上。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "山崎丰子的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "她每一步是被谁推着走的",
+        "「勋章」在她眼里到底是什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series …` 发现，见 §127）：山崎丰子著，2020，ISBN 978-7-5550-2149-0，馆藏 `215` 作「542 页」，丛编「日本推理大师长篇佳作丛书」，**学科主题词含「推理小说」**（第①类，最硬），中图法 `I313.45`。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的情节已**重写到不泄底**为止——只写人物处境与谜面，不写结局。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2020。**评分来源**：豆瓣按题名检索没有本册（或本版）的条目，故三个平台一律「暂无数据」，不拿别的版本的分来填。"
+    },
+    "provenance": {
+      "source": "batch-211-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md211-003",
+    "title": "丑闻家族",
+    "originalTitle": "",
+    "author": "夏堀正元",
+    "authorEn": "Natsuhori Masamoto",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "日本推理大师长篇佳作丛书",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "social-school"
+    ],
+    "safeSummary": "一个日本传统艺术流派内部的丑闻：外衣华丽，里面是倾轧与算计，案子就长在这层关系里。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 4.7。",
+        "score": 4.7,
+        "count": 25,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/34933709/",
+        "subjectId": "34933709",
+        "edition": "丑闻家族 2020",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "夏堀正元的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "流派内部的师承与派系",
+        "谁在替谁遮掩"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series …` 发现，见 §127）：夏堀正元著，2020，ISBN 978-7-5550-2150-6，馆藏 `215` 作「156 页」，丛编「日本推理大师长篇佳作丛书」，**学科主题词含「推理小说」**（第①类，最硬），中图法 `I313.45`。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的情节已**重写到不泄底**为止——只写人物处境与谜面，不写结局。**著录说明**：作者西文名按常见读法记 `Natsuhori Masamoto`；馆藏与豆瓣都没给出读音，如有出入以原版著录为准。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2020。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/34933709/`（2026-09 抓取，评分 **4.7**、25 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-211-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md211-004",
+    "title": "三角案件",
+    "originalTitle": "",
+    "author": "大冈升平",
+    "authorEn": "Shohei Ooka",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "日本推理大师长篇佳作丛书",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "黄昏的郊外山岭上，一个年轻人手里握着滴血的刀，一名女子横尸野外——是谋杀还是自杀，司法部门围绕这桩三角案件反复取证、调查与审讯。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大冈升平的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "现场那件凶器的归属",
+        "几次审讯里说法变动的部分"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series …` 发现，见 §127）：大冈升平著，2019，ISBN 978-7-5550-1896-4，馆藏 `215` 作「373 页」，丛编「日本推理大师长篇佳作丛书」，**学科主题词含「推理小说」**（第①类，最硬），中图法 `I313.45`。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的情节已**重写到不泄底**为止——只写人物处境与谜面，不写结局。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2019。**评分来源**：豆瓣按题名检索没有本册（或本版）的条目，故三个平台一律「暂无数据」，不拿别的版本的分来填。"
+    },
+    "provenance": {
+      "source": "batch-211-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T05:01:35.927Z",
+  "generatedAt": "2026-09-28T05:12:28.126Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3054,
-    "dataFiles": 210,
+    "books": 3058,
+    "dataFiles": 211,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3054,
-    "withPlatformRating": 2350
+    "withSafeSummary": 3058,
+    "withPlatformRating": 2352
   },
   "tagDistribution": [
     {
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 893
+          "books": 894
         },
         {
           "id": "snowfield",
@@ -240,7 +240,7 @@
         {
           "id": "obsession",
           "label": "执念",
-          "books": 202
+          "books": 203
         },
         {
           "id": "identity",
@@ -250,7 +250,7 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1548
+          "books": 1550
         },
         {
           "id": "fear",
@@ -277,12 +277,12 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 311
+          "books": 314
         },
         {
           "id": "hardboiled",
           "label": "硬汉风",
-          "books": 61
+          "books": 62
         },
         {
           "id": "dark-atmosphere",
@@ -354,12 +354,12 @@
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 540
+          "books": 543
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 650
+          "books": 652
         },
         {
           "id": "legal-thriller",
@@ -374,12 +374,12 @@
         {
           "id": "hardboiled-school",
           "label": "硬汉派",
-          "books": 130
+          "books": 131
         },
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 717
+          "books": 718
         },
         {
           "id": "spy-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3054
+    "checkedBooks": 3058
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
