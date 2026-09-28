@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T11:12:44.988Z",
+  "generatedAt": "2026-09-28T11:28:24.698Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3123,
-    "dataFiles": 214,
+    "books": 3143,
+    "dataFiles": 215,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3123,
-    "withPlatformRating": 2411
+    "withSafeSummary": 3143,
+    "withPlatformRating": 2429
   },
   "tagDistribution": [
     {
@@ -24,17 +24,17 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 288
+          "books": 289
         },
         {
           "id": "alibi",
           "label": "不在场证明",
-          "books": 98
+          "books": 99
         },
         {
           "id": "narrative-trick",
           "label": "叙述性诡计",
-          "books": 104
+          "books": 105
         },
         {
           "id": "timetable",
@@ -44,7 +44,7 @@
         {
           "id": "faceless-corpse",
           "label": "无面尸",
-          "books": 49
+          "books": 51
         },
         {
           "id": "vanished-weapon",
@@ -59,17 +59,17 @@
         {
           "id": "multiple-solutions",
           "label": "多重解答",
-          "books": 684
+          "books": 688
         },
         {
           "id": "psychological-misdirection",
           "label": "心理误导",
-          "books": 580
+          "books": 585
         },
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1311
+          "books": 1318
         },
         {
           "id": "swap-murder",
@@ -111,7 +111,7 @@
         {
           "id": "dual-line",
           "label": "双线",
-          "books": 148
+          "books": 149
         },
         {
           "id": "nonlinear",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 536
+          "books": 538
         },
         {
           "id": "diary-form",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 918
+          "books": 931
         },
         {
           "id": "snowfield",
@@ -225,7 +225,7 @@
         {
           "id": "passion",
           "label": "情杀",
-          "books": 67
+          "books": 69
         },
         {
           "id": "silencing",
@@ -240,7 +240,7 @@
         {
           "id": "obsession",
           "label": "执念",
-          "books": 216
+          "books": 219
         },
         {
           "id": "identity",
@@ -250,17 +250,17 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1586
+          "books": 1592
         },
         {
           "id": "fear",
           "label": "恐惧",
-          "books": 357
+          "books": 361
         },
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 128
+          "books": 134
         }
       ]
     },
@@ -277,22 +277,22 @@
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 319
+          "books": 322
         },
         {
           "id": "hardboiled",
           "label": "硬汉风",
-          "books": 65
+          "books": 66
         },
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 544
+          "books": 547
         },
         {
           "id": "cozy",
           "label": "日常之谜",
-          "books": 58
+          "books": 60
         },
         {
           "id": "youth",
@@ -302,17 +302,17 @@
         {
           "id": "meta-fiction",
           "label": "后设趣味",
-          "books": 238
+          "books": 240
         },
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1289
+          "books": 1294
         },
         {
           "id": "legend-folklore",
           "label": "民俗传说",
-          "books": 266
+          "books": 268
         },
         {
           "id": "forensic",
@@ -327,7 +327,7 @@
         {
           "id": "adventure",
           "label": "冒险",
-          "books": 131
+          "books": 132
         }
       ]
     },
@@ -339,27 +339,27 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 767
+          "books": 771
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1077
+          "books": 1083
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1862
+          "books": 1874
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 558
+          "books": 562
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 667
+          "books": 672
         },
         {
           "id": "legal-thriller",
@@ -374,12 +374,12 @@
         {
           "id": "hardboiled-school",
           "label": "硬汉派",
-          "books": 134
+          "books": 135
         },
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 743
+          "books": 750
         },
         {
           "id": "spy-school",
@@ -389,22 +389,22 @@
         {
           "id": "adventure-school",
           "label": "冒险派",
-          "books": 198
+          "books": 199
         },
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 209
+          "books": 212
         },
         {
           "id": "meta-school",
           "label": "后设派",
-          "books": 212
+          "books": 214
         },
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 455
+          "books": 459
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3123
+    "checkedBooks": 3143
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

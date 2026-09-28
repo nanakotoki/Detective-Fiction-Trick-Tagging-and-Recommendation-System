@@ -1002,14 +1002,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 131 轮）**：候选（山东文艺出版社 2000，于近江译，**2 册 603 页**，丛编「日本最新获奖推理小说」，ISBN 7-5329-1805-X）与库内本条同作：豆瓣条目页原作名作 `OUT（アウト）`，库内本条的 `originalTitle` 即 `OUT`；「越界」是该作的中译名之一（上海文艺 2018 年版题《OUT：越界》，与库内本条同 ISBN 系列的另一次出版）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：台北 麦田出版 2012（馆藏题名「OUT」／桐野夏生）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-09-social-more.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2012"
+    "editionYear": "2012",
+    "alternateTitles": [
+      "越界"
+    ]
   },
   {
     "id": "social2-013",

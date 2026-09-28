@@ -1,0 +1,1561 @@
+[
+  {
+    "id": "opac131-001",
+    "title": "死神广播",
+    "originalTitle": "死体の汁を啜れ",
+    "author": "白井智之",
+    "authorEn": "Tomoyuki Shirai",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "multiple-solutions",
+      "dark-atmosphere",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "牟黑市接连出现怪异的尸体：长着猪脸的、被抽干血的、胃里塞满食物的……四个身份迥异的人被卷进同一串案子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.1。",
+        "score": 7.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36988547/",
+        "subjectId": "36988547",
+        "edition": "死神广播 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格与怪奇解谜的读者",
+        "白井智之的读者"
+      ],
+      "watchFor": [
+        "每具尸体「不该出现」的那一点",
+        "四个人各自知道的碎片"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**作者池**发现）：白井智之著，佳辰译，江苏凤凰文艺出版社 2024，ISBN 978-7-5594-8807-7，307 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页给出 `死体の汁を啜れ`（ISBN 与馆藏一致，**同一版**）。**评分**：**7.1**（2026-09 抓取）。**同作者**：库内已有《名侦探的献祭》《无人逝去》等 9 部，写法沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-002",
+    "title": "朝雾",
+    "originalTitle": "朝霧",
+    "author": "北村薰",
+    "authorEn": "Kitamura Kaoru",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "圆紫大师系列",
+    "detective": "圆紫大师",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "meta-fiction",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "北村薰「圆紫大师」系列的新译一册：馆藏提要称本册围绕芥川龙之介的一篇短篇与一句旧闻展开，做的是「书志学」式的推敲。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.7。",
+        "score": 7.7,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37411512/",
+        "subjectId": "37411512",
+        "edition": "朝雾 2025",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常推理的读者",
+        "北村薰的读者"
+      ],
+      "watchFor": [
+        "那句关于「传接球」的旧闻",
+        "论文里被忽略的一处出处"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：北村薰著，刘子倩译，贵州人民出版社 2025，ISBN 978-7-221-18973-8，222 页，丛编「**北村薰日常推理代表作系列**」，**学科主题词「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目给出 `朝霧`（ISBN 与馆藏一致）。**评分**：**7.7**（2026-09 抓取）。**著录分歧（如实记录）**：馆藏提要称本书是「圆紫大师与我」系列**第四本**、围绕《六之宫公主》展开，而豆瓣同版条目给出的原作名是 `朝霧`，库内亦已另有一条《六之宫公主》（`mid-021`，原作名 `六の宮の姫君`）——两说只能有一说为准，本条按**原作名 `朝霧`** 收作独立一册，并在梗概里点明「据馆藏提要」，留待篇目比对复核。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-003",
+    "title": "十五层地狱",
+    "originalTitle": "十五階の地獄",
+    "author": "笹泽左保",
+    "authorEn": "Sasazawa Saho",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "passion",
+      "red-herring",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一桩不能对丈夫说出口的旧事，把三重子拖进无休止的勒索；当勒索者死在饭店房间里，她成了最说不清的那个人。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.6。",
+        "score": 5.6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6114853/",
+        "subjectId": "6114853",
+        "edition": "十五层地狱 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派与本格交界的读者",
+        "笹泽左保的读者"
+      ],
+      "watchFor": [
+        "她与勒索者之间那段旧事",
+        "饭店房间里留下的痕迹"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：笹泽左保著，杨军译，九州出版社 2011，ISBN 978-7-5108-0919-4，272 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目（ISBN 一致）给出 `十五階の地獄`。**评分**：**5.6**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：据豆瓣条目页内容简介重写，**删去其中涉及性暴力的具体描写**，只保留「旧事—勒索—命案」这条谜面链，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-004",
+    "title": "命运的模型",
+    "originalTitle": "数奇にして模型",
+    "author": "森博嗣",
+    "authorEn": "Mori Hiroshi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "S&M 系列",
+    "detective": "犀川创平、西之园萌绘",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "faceless-corpse",
+      "multiple-solutions",
+      "series-detective"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "模型交换会上发现了女模特的尸体：头被砍断、房间是密室，密室里还躺着另一起案件的嫌疑人——而两案发生在同一时段。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6920281/",
+        "subjectId": "6920281",
+        "edition": "命运的模型 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "S&M 系列的读者",
+        "密室解谜的爱好者"
+      ],
+      "watchFor": [
+        "两案「同一时段」这个条件",
+        "密室里的那个人是怎么进去的"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：森博嗣著，胡锦超译，江苏文艺出版社 2011，ISBN 978-7-5399-4894-2，**2 册（476 页）**，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`（同一部作品分装两册，按一条著录）。**原作名**：豆瓣同版条目给出 `数奇にして模型`。**评分**：**6.9**（2026-09 抓取）。**系列与主角**：库内《冰冷密室与博士们》《不会笑的数学家》等条目的 `series` 作「S&M 系列」、主角作「犀川创平、西之园萌绘」，本条沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：据豆瓣条目页简介重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-005",
+    "title": "安乐侦探",
+    "originalTitle": "安楽探偵",
+    "author": "小林泰三",
+    "authorEn": "Kobayashi Yasumi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "cozy",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "一位连门都不愿出的懒散侦探，与助理在房间里听着委托人讲述，就把一桩桩谜案拆开——黑色幽默贯穿全书。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35904206/",
+        "subjectId": "35904206",
+        "edition": "安乐侦探 2022",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "安乐椅侦探的读者",
+        "小林泰三的读者"
+      ],
+      "watchFor": [
+        "侦探为什么不肯出门",
+        "每个委托里被讲述者略过的那部分"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：小林泰三著，曹逸冰译，湖南文艺出版社 2022，ISBN 978-7-5726-0736-3，243 页，**学科主题词「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，中图法 `I313.45`；馆藏并列题名作 `Lazy detective`。**原作名**：豆瓣同版条目给出 `安楽探偵`（ISBN 一致，**同一版**），本条取日文原题（馆藏那串英文是译名而非原题）。**评分**：**6.4**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-006",
+    "title": "神乐坂怪谈",
+    "originalTitle": "火のないところに煙は",
+    "author": "芦泽央",
+    "authorEn": "Hisao Ashizawa",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "dark-atmosphere",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "神乐坂的五个怪谈：看似各自独立，读到最后却奇妙地串在一起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37700000/",
+        "subjectId": "37700000",
+        "edition": "神乐坂怪谈 2026",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "怪谈与连作短篇的读者",
+        "芦泽央的读者"
+      ],
+      "watchFor": [
+        "五篇之间重复出现的人与地",
+        "「没有火的地方却有烟」这一句"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：芦泽央著，朝雨译，江苏凤凰文艺出版社 2026，ISBN 978-7-5808-0250-7，219 页，**学科主题词「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目给出 `火のないところに煙は`（ISBN 一致）。**评分**：**6.9**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记馆藏所引 2026。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-007",
+    "title": "持续破产的女人",
+    "originalTitle": "倒産続きの彼女",
+    "author": "新川帆立",
+    "authorEn": "Shinkawa Hotate",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "剑持丽子系列",
+    "detective": "剑持丽子",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「害多家公司接连破产的女人」被内部投诉：她满身奢侈品、在社交网站晒着不合身份的生活——是侵占，还是另有隐情。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.1。",
+        "score": 7.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36347474/",
+        "subjectId": "36347474",
+        "edition": "持续破产的女人 2023",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "律师推理的读者",
+        "新川帆立的读者"
+      ],
+      "watchFor": [
+        "她的钱从哪来",
+        "公司那间被用来劝退员工的房间"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：新川帆立著，王丹译，北京联合出版公司 2023，ISBN 978-7-5596-6738-0，274 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目给出 `倒産続きの彼女`。**评分**：**7.1**（2026-09 抓取）。**系列与主角**：库内已有《前男友的遗书》（`series` 作「剑持丽子系列」、主角剑持丽子），本条沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。**梗概**：据豆瓣条目页简介重写，止于「随后卷入一桩桩意想不到的事件」，不揭真相。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-008",
+    "title": "不如去死",
+    "originalTitle": "死ねばいいのに",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "亚佐美在公寓里被杀。粗鲁的健也挨个去找她的上司、邻居、情人、母亲与警察谈话，而每个人都说了一半。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20379212/",
+        "subjectId": "20379212",
+        "edition": "不如去死 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极夏彦的读者",
+        "多视角叙事的读者"
+      ],
+      "watchFor": [
+        "六个人各自回避的那件事",
+        "健也为什么非问不可"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：京极夏彦著，朱胤帅译，中信出版社 2013，ISBN 978-7-5086-3671-9，281 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目给出 `死ねばいいのに`。**评分**：**6.9**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：据豆瓣条目页简介重写，删去「不可告人的秘密、巨大的阴谋」一类结局暗示，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-009",
+    "title": "以“我”为名的变奏曲",
+    "originalTitle": "私という名の変奏曲",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "psychological-misdirection",
+      "passion"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "名模死在独居的公寓里，却有七个人分别承认自己才是唯一的凶手。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24859813/",
+        "subjectId": "24859813",
+        "edition": "以“我”为名的变奏曲 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "多重解答的爱好者"
+      ],
+      "watchFor": [
+        "七份自白各自的动机",
+        "哪一份与现场对得上"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：连城三纪彦著，林新生译，新星出版社 2013，ISBN 978-7-5133-1294-3，285 页，丛编「**午夜文库/日系佳作**」，**学科主题词「侦探小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣同版条目给出 `私という名の変奏曲`。**评分**：**6.8**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：据豆瓣条目页简介重写，止于「七位嫌疑人各自承认」，不揭真凶。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-010",
+    "title": "葛洛根的最后一夜",
+    "originalTitle": "The Last Night at Grogan's",
+    "author": "劳伦斯·布洛克",
+    "authorEn": "Lawrence Block",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "马修·斯卡德系列",
+    "detective": "马修·斯卡德",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "series-detective",
+      "obsession"
+    ],
+    "school": [
+      "hardboiled-school"
+    ],
+    "safeSummary": "布洛克以马修·斯卡德为主角的十一篇：从还挂着警徽的年代，到没有执照的那些年，像一组写给这个角色的挽歌。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34832746/",
+        "subjectId": "34832746",
+        "edition": "葛洛根的最后一夜 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "斯卡德系列的读者",
+        "硬汉派的读者"
+      ],
+      "watchFor": [
+        "《梦幻泡影》里他还在警局的时候",
+        "《窗外》那桩坠楼案"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：布洛克著，易萃雯、皮建军译，四川人民出版社 2019，ISBN 978-7-220-11276-8，265 页，**学科主题词「侦探小说 美国 现代」**，中图法 `I712.45`；**馆藏提要写明本册收录「以马修·斯卡德为主角的十一个故事」并列出其中两篇的谜面**。**原作名**：豆瓣同版条目给出 `the Last Night at Grogan&#39;s`（即 *The Last Night at Grogan’s*）。**评分**：**7.8**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-011",
+    "title": "灵魂漫长而黑暗的茶点时间",
+    "originalTitle": "The Long Dark Tea-Time of the Soul",
+    "author": "道格拉斯·亚当斯",
+    "authorEn": "Douglas Adams",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "全能侦探社系列",
+    "detective": "德克·简特利",
+    "country": "英国",
+    "tags": [
+      "adventure",
+      "curiosity",
+      "city",
+      "legend-folklore"
+    ],
+    "school": [
+      "adventure-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "《全能侦探社》系列第二部：机场登记台在一团火焰里炸掉、检票女郎失踪，德克的客户则被割下头放在唱机上。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.7。",
+        "score": 7.7,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33403407/",
+        "subjectId": "33403407",
+        "edition": "灵魂漫长而黑暗的茶点时间 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "幽默推理的读者",
+        "亚当斯的读者"
+      ],
+      "watchFor": [
+        "德克那套「整体论」怎么办案",
+        "机场那团火焰的来路"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：亚当斯著，姚向辉译，湖南文艺出版社 2019，ISBN 978-7-5404-9345-5，266 页，**学科主题词「侦探小说 英国 现代」**，中图法 `I561.45`；**并列题名给出 `The long dark tea-time of the soul`**；馆藏提要写明是「幽默侦探小说《全能侦探社》系列的第二部」。**评分**：豆瓣同版条目 **7.7**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-012",
+    "title": "廷达里郊游",
+    "originalTitle": "La gita a Tindari",
+    "author": "安德烈亚·卡米莱里",
+    "authorEn": "Andrea Camilleri",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "蒙塔尔巴诺探长系列",
+    "detective": "蒙塔尔巴诺",
+    "country": "意大利",
+    "tags": [
+      "series-detective",
+      "city",
+      "concealment",
+      "social-commentary"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "一对老夫妻郊游后失踪，同幢公寓楼里的年轻男子被谋杀；蒙塔尔巴诺顺着这两件事走进了黑手党的内部纠纷。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26930511/",
+        "subjectId": "26930511",
+        "edition": "廷达里郊游 2017",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "警察小说的读者",
+        "卡米莱里的读者"
+      ],
+      "watchFor": [
+        "两件事之间那幢公寓楼",
+        "老夫妻郊游的路线"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：卡米莱里著，谷倩兮译，人民文学出版社 2017，ISBN 978-7-02-011766-6，256 页，**学科主题词「推理小说 意大利 现代 ; 长篇小说 意大利 现代」**，中图法 `I546.456`；**并列题名给出 `Gita a tindari`**。**原作名**：豆瓣同版条目给出 `La gita a Tindari`。**评分**：**6.8**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-013",
+    "title": "幻影女子",
+    "originalTitle": "Phantom Lady",
+    "author": "康奈尔·伍尔里奇",
+    "authorEn": "Cornell Woolrich",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "alibi",
+      "psychological-misdirection",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "他被指控杀了妻子，唯一能为他作证的是那晚同行的女子——可当晚所有目击者都发誓，没见过这样一个人。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34429348/",
+        "subjectId": "34429348",
+        "edition": "幻影女子 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "不在场证明题材的读者",
+        "黑色悬疑的读者"
+      ],
+      "watchFor": [
+        "那顶橘黄色帽子",
+        "证人为什么全都否认"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：伍尔里奇著，许言译，长江出版社 2019，ISBN 978-7-5492-6502-2，277 页，丛编「**不可思议名家系列**」，**学科主题词「推理小说 美国 现代」**，中图法 `I247.57`（**馆藏此处的中图法著录为 `I247.57`（中国小说），与本册的美国作者不符**——照实记录，不改动，`country` 以作者与主题词为准记「美国」）；**并列题名给出 `Phantom lady`**。**评分**：豆瓣同版条目 **7.5**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据豆瓣条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-014",
+    "title": "碎裂",
+    "originalTitle": "Shatter",
+    "author": "迈克尔·罗伯森",
+    "authorEn": "Michael Robotham",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "约瑟夫·奥洛克林系列",
+    "detective": "约瑟夫·奥洛克林",
+    "country": "澳大利亚",
+    "tags": [
+      "psychological-misdirection",
+      "dual-line",
+      "fear",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一个现役情报人员坚信妻女并没有死，用电话与话术逼着妻子的好友们就范；患帕金森症的临床心理学家偶然卷入。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34826933/",
+        "subjectId": "34826933",
+        "edition": "碎裂 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "罗伯森的读者"
+      ],
+      "watchFor": [
+        "他电话里那套话术",
+        "医生自己的病与判断"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：罗伯森著，车家媛、鲁锡华译，湖南文艺出版社 2019，ISBN 978-7-5404-9408-7，505 页，**学科主题词「推理小说 澳大利亚 现代」**，中图法 `I611.45`；**并列题名给出 `Shatter`**。**评分**：豆瓣同版条目 **7.4**（2026-09 抓取）。**主角**：馆藏提要写明临床心理学家约瑟夫·奥洛克林协助警方。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，**删去提要中的全部犯案过程与结局**，只留双方对峙的谜面。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-015",
+    "title": "圣诞彩蛋谜案",
+    "originalTitle": "The Christmas Egg",
+    "author": "玛丽·凯利",
+    "authorEn": "Mary Kelly",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "南丁格尔总督察",
+    "country": "英国",
+    "tags": [
+      "red-herring",
+      "city",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "police-procedural"
+    ],
+    "safeSummary": "圣诞节前的伦敦：一位流亡公主死在上锁的公寓里，本该装满珠宝的行李箱被洗劫一空。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6。",
+        "score": 6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36933170/",
+        "subjectId": "36933170",
+        "edition": "圣诞彩蛋谜案 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典推理的读者",
+        "圣诞背景谜案的读者"
+      ],
+      "watchFor": [
+        "空箱子原来的内容",
+        "战时流亡这条线"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：凯利著，李文婕译，中国青年出版社 2024，ISBN 978-7-5153-7420-8，259 页，**学科主题词「侦探小说 英国 现代 ; 长篇小说 英国 现代」**，中图法 `I561.45`；**并列题名给出 `Christmas egg: a seasonal mystery`**。**评分**：豆瓣同版条目 **6.0**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-016",
+    "title": "必须找到阿历克斯",
+    "originalTitle": "Alex",
+    "author": "皮耶尔·勒迈特",
+    "authorEn": "Pierre Lemaitre",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "法国",
+    "tags": [
+      "red-herring",
+      "fear",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "巴黎街头，一名年轻女子被绑架；警方查不到她的任何消息，而随后接连发生的谋杀让「必须找到她」成了唯一的路。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30241130/",
+        "subjectId": "30241130",
+        "edition": "必须找到阿历克斯 2018",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "犯罪悬疑的读者",
+        "勒迈特的读者"
+      ],
+      "watchFor": [
+        "为什么查不到她的消息",
+        "绑架与后续谋杀的关系"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：勒迈特著，金袆译，文汇出版社 2018，ISBN 978-7-5496-2410-2，405 页，丛编「**读客外国小说文库**」，**学科主题词「推理小说 法国 现代 ; 长篇小说 法国 现代」**，中图法 `I565.456`；**并列题名给出 `Lex ; Alex`**。**评分**：豆瓣同版条目 **7.4**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-017",
+    "title": "我不服",
+    "originalTitle": "",
+    "author": "紫金陈",
+    "authorEn": "Zi Jinchen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "narrative-trick",
+      "red-herring",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "trick-school",
+      "social-school",
+      "meta-school"
+    ],
+    "safeSummary": "一个外卖员与一个坐拥数千万粉丝的大主播：被偷走的骨灰盒成了勒索的筹码，各方的命运从此咬合在一起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37396745/",
+        "subjectId": "37396745",
+        "edition": "我不服 2026",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑的读者",
+        "紫金陈的读者"
+      ],
+      "watchFor": [
+        "骨灰盒这个筹码",
+        "两个人各自的处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：紫金陈著，湖南文艺出版社 2026，ISBN 978-7-5726-2966-2，271 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`。**体裁判据**：**馆藏提要直接写明「作者采用了叙述性诡计的设计手法，多重反转」**，故标签含 `narrative-trick`、流派含 `meta-school`（这是本书层面的判据，不是靠作者名声推的）。**评分**：豆瓣同版条目 **6.7**（2026-09 抓取）。**年份字段**：中文原创，`firstPublished` 留空；`editionYear` 记 2026。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-018",
+    "title": "撸撸姐的超本格事件簿",
+    "originalTitle": "",
+    "author": "陆烨华",
+    "authorEn": "Lu Yehua",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列（短篇集）",
+    "detective": "撸撸姐",
+    "country": "中国",
+    "tags": [
+      "curiosity",
+      "cozy",
+      "meta-fiction",
+      "city"
+    ],
+    "school": [
+      "trick-school",
+      "daily-mystery-school",
+      "meta-school"
+    ],
+    "safeSummary": "一位连家门都不出的侦探与她的助手：委托人得先怀着一个谜团，才找得到她——还得能听懂冷笑话。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30238369/",
+        "subjectId": "30238369",
+        "edition": "撸撸姐的超本格事件簿 2018",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产本格短篇的读者",
+        "陆烨华的读者"
+      ],
+      "watchFor": [
+        "委托人是怎么找上门的",
+        "每篇里那个「超本格」的机关"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：陆烨华著，新星出版社 2018，ISBN 978-7-5133-3007-7，275 页，**学科主题词「推理小说 中国 当代」**，中图法 `I247.56`；**馆藏提要写明「撸撸姐连家门都不出，就能破解疑案」**。**评分**：豆瓣同版条目 **6.4**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-019",
+    "title": "罪之断章",
+    "originalTitle": "",
+    "author": "时晨",
+    "authorEn": "Shi Chen",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "名侦探肖晨系列",
+    "detective": "肖晨",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "curiosity"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「名侦探肖晨」系列第一弹：你以为看清了事件的全貌，其实那只是「断章」而已。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产本格的读者",
+        "逻辑流的读者"
+      ],
+      "watchFor": [
+        "「全貌」这个错觉是怎么造成的",
+        "每一章断在哪里"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：时晨著，广西人民出版社 2011，ISBN 978-7-219-07305-6，242 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`。**系列与主角**：豆瓣条目页简介写明本册是「**名侦探肖晨系列第一弹**」、作者「向逻辑之神埃勒里·奎因致敬」，据此记系列与主角。**评分**：豆瓣同版条目 **6.6**（2026-09 抓取）。**同作者**：库内已有《黑曜馆事件》《镜狱岛事件》等 18 部。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：据豆瓣条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac131-020",
+    "title": "无悔追踪",
+    "originalTitle": "",
+    "author": "张策",
+    "authorEn": "Zhang Ce",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "无字系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "police-procedural",
+      "obsession",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "张策「无字系列」的侦探小说集（公安前沿作家侦探文学作品系列）：馆藏未提供提要，梗概按系列层面撰写，不涉及具体情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "公安题材的读者",
+        "张策的读者"
+      ],
+      "watchFor": [
+        "每一篇里办案人各自的坚持",
+        "案件与年代的关系"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：张策著，中国人民公安大学出版社 2007，ISBN 978-7-81109-759-7，283 页，丛编「**公安前沿作家侦探文学作品系列**」，**学科主题词「侦探小说 短篇小说 小说集 中国 当代」**，中图法 `I247.7`；**并列题名给出「张策『无字系列』侦探小说集」**，故 `series` 记「无字系列」。**同馆另有两笔**：线装书局 2013 年版（ISBN 978-7-5120-1040-6，330 页，「侦探小说 小说集」）与群众出版社 1996 年**多人选集**（ISBN 7-5014-1439-4，主要责任者陈源斌，主题词作「中篇小说 选集」）——后一条是合集、不是本作，不并条。**评分**：豆瓣该作条目只索引到 2013 年版（ISBN 不同），按同版口径**不采用**，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2007。**梗概**：馆藏未提供提要，按**系列层面**撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-215-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
