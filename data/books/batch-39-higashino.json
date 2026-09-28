@@ -1250,14 +1250,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 150 轮）**：皇冠文化台版用的是全称《假面山庄杀人事件》，库内本条（原作 `仮面山荘殺人事件`）取了简称。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京十月文艺出版社:,2018（假面山庄／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-39-higashino.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2018"
+    "editionYear": "2018",
+    "alternateTitles": [
+      "假面山庄杀人事件"
+    ]
   },
   {
     "id": "higashino-016",
@@ -1335,12 +1338,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 150 轮）**：南海出版公司 2016 的「新修珍藏版」，与库内本条同作；池内两行（两个豆瓣条目 id 569、570 号段）都是它。"
     },
     "provenance": {
       "source": "batch-39-higashino.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "假面饭店 新修珍藏版"
+    ]
   },
   {
     "id": "higashino-017",

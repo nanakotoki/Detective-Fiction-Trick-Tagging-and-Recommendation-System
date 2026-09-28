@@ -1250,14 +1250,18 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Reito Nikaido」，与库内同一作者（二阶堂黎人）的多数写法「Nikaido Reito」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Reito Nikaido」，与库内同一作者（二阶堂黎人）的多数写法「Nikaido Reito」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。 **同书异名登记（第 150 轮）**：《人狼城の恐怖》四部曲的第一部，新星「午夜文库·日系佳作」版；库内本条即该作（原作 `人狼城の恐怖`）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「恐怖的人狼城 人狼的魅惑」／二阶堂黎人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2012"
+    "editionYear": "2012",
+    "alternateTitles": [
+      "恐怖的人狼城 银狼古堡的异变",
+      "恐怖的人狼城 青狼古堡的幻影"
+    ]
   },
   {
     "id": "jpmas-021",

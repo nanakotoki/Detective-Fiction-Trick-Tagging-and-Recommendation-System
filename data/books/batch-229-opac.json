@@ -1,0 +1,958 @@
+[
+  {
+    "id": "opac150-001",
+    "title": "镜子的背面",
+    "originalTitle": "",
+    "author": "篠田节子",
+    "authorEn": "Shinoda Setsuko",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "identity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "篠田节子的长篇（中国工人出版社 2023）：收容弱势女性的庇护所失火，创办人葬身火海，可警方说那具遗体不是她。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "篠田节子的读者",
+        "喜欢社会派长篇的读者"
+      ],
+      "watchFor": [
+        "那具遗体究竟是谁",
+        "庇护所里每个人不愿说的过去"
+      ],
+      "warning": "社会派长篇；含火灾与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按学科主题检索**：`type=Subject`「推理小说 日本 现代」）：**筱**田节子著，中国工人出版社 2023，ISBN 978-7-5008-8255-8，557 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书是一部社会派推理小说……收容社会弱势女性的庇护所『新艾格尼丝之家』发生了火灾。创办者小野尚子为了拯救其他住民，不幸葬身火海。然而警方检查后认为那具尸体并不是尚子……文字工作者山崎知佳开始追查事件真相」——谜面即由此而来，**梗概只取这一层**。**作者写法统一**：上图著录作「**筱**田节子」，而库内已有一条该作者的条目（`batch-100-midnight-jp.json`《假想者的仪式》，原作 `仮想儀礼`，`authorEn` 记 `Shinoda Setsuko`）用的是「**篠**田节子」——按「同一位作者在库内只有一种写法」的既定口径，本条沿用**篠田节子**，并把上图著录用字记在这里备查。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-002",
+    "title": "她的恐吓",
+    "originalTitle": "",
+    "author": "藤田宜永",
+    "authorEn": "Fujita Yoshinaga",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "gain",
+      "city",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "藤田宜永的长篇（江苏凤凰文艺出版社 2021）：台风夜，一个求职无门的女大学生路过一栋公寓，那晚那里死了人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢犯罪悬疑的读者",
+        "藤田宜永的读者"
+      ],
+      "watchFor": [
+        "那一夜的台风把什么盖住了",
+        "两千万元是怎么进到她手里的"
+      ],
+      "warning": "犯罪悬疑长篇；含命案与敲诈描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：藤田宜永著，江苏凤凰文艺出版社 2021，ISBN 978-7-5594-5466-9，288 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「家境贫寒的女大学生圭子，以成为出版社编辑为目标……一场大型台风袭击了东京。那晚，圭子路过的公寓发生了命案……因为敲诈公司老板，圭子一夜之间获得了 2000 万日元。」梗概只取这一层。**新作者**：库内无藤田宜永的作品；`authorEn` 按日文读音记 `Fujita Yoshinaga`（库内无先例，属整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-003",
+    "title": "模型之家追凶谜案",
+    "originalTitle": "",
+    "author": "歌田年",
+    "authorEn": "Utada Minoru",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "渡部圭（纸张鉴定事务所）",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "歌田年的出道作（湖南文艺出版社 2021，获「这本推理小说了不起！」大奖）：找上门的女子只带来一张塑料模型的照片。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢以物证为线索的推理的读者",
+        "喜欢日常之谜的读者"
+      ],
+      "watchFor": [
+        "模型上那些字母的位置",
+        "每一座模型对应的人生"
+      ],
+      "warning": "推理长篇；含失踪与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：歌田年著，湖南文艺出版社 2021，ISBN 978-7-5726-0323-5，243 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「在新宿经营纸张鉴定事务所的渡部圭……接待了误以为是侦探所而来到这里的女子米良杏璃，唯一的线索是一张塑料模型的照片……曲野晴子慕名而来，她的妹妹英令奈三个月前不知所终，房间里留下一个立体模型，模型上写有不同的字母……却意外发现藏在模型背后的杀人案件。」**另一条判据**：馆藏 **314 责任者附注**写明「《模型之家追凶谜案》是作者的第一部小说，**荣获 2019 年日本第 18 回『这本推理小说了不起！』大奖**」。**新作者**：库内无该作者；`authorEn` 记 `Utada Minoru`（整理者按日文读音转写，库内无先例、也无外源佐证——**这一点如实写明**，日后取到日文原版著录再校）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-004",
+    "title": "奇岩馆事件",
+    "originalTitle": "",
+    "author": "高野结史",
+    "authorEn": "Takano Yuji",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "locked-room",
+      "closed-circle"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "高野结史的长篇（北京日报出版社 2025）：一份日薪很高的工作，条件是独自在一座歪斜的孤岛洋房里待三天。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛与密室题材的读者",
+        "喜欢本格游戏的读者"
+      ],
+      "watchFor": [
+        "那些与经典推理小说相仿的事件",
+        "「侦探」到底是谁"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：高野结史著，北京日报出版社 2025，ISBN 978-7-5477-5161-9，234 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「靠着日薪过活的青年佐藤得到了一份奇怪的工作，他被带到一座矗立在孤岛上的歪斜洋房『奇岩馆』，只要在那里待三天就能得到丰厚的报酬。然而，神秘的纸条、找不到凶手的密室、与外界的联系被切断，一连串与经典悬疑小说相仿的奇怪事件接连发生……而当他知晓，这是为了『侦探』而举办的沉浸式推理游戏——但所有谋杀都是真实的。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Takano Yuji`（整理者转写，库内无先例）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-005",
+    "title": "间谍静静执起琴弓",
+    "originalTitle": "",
+    "author": "安坛美绪",
+    "authorEn": "Andan Mio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "obsession",
+      "identity",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "安坛美绪的长篇（江苏凤凰文艺出版社 2025）：为一场十亿日元的官司，他被派去音乐教室卧底学琴。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢卧底题材的读者",
+        "喜欢音乐背景故事的读者"
+      ],
+      "watchFor": [
+        "他录下的那些证据",
+        "童年那场让他怕琴的意外"
+      ],
+      "warning": "犯罪悬疑长篇；含诉讼与跟踪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：安坛美绪著，江苏凤凰文艺出版社 2025，ISBN 978-7-5594-9351-4，266 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「橘树就职于全日本音乐著作权联盟，因工作被派往三笠音乐教室卧底，搜集侵权证据。童年意外使他惧琴，可面对十亿官司只能潜入……但他暗中录下证据，当全著联决定提告，橘树陷入两难。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Andan Mio`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-006",
+    "title": "不在场证明谜案",
+    "originalTitle": "",
+    "author": "辻堂梦",
+    "authorEn": "Tsujido Yume",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "辻堂梦的长篇（贵州人民出版社 2024）：监控、DNA、目击者、手上的伤，全都指向同一个嫌疑人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢不在场证明题材的读者",
+        "喜欢法庭／冤案线索的读者"
+      ],
+      "watchFor": [
+        "四样证据各自的那一处「太齐了」",
+        "谁有办法让别人替自己留下痕迹"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：辻堂梦著，贵州人民出版社 2024，ISBN 978-7-221-18465-8，326 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「涩谷高级住宅区的一栋豪华别墅内，六十多岁的富豪被害，数千万日元被劫。不久后……桐谷雅树因涉嫌故意杀人被警方逮捕。大卖场的摄像头拍下了『桐谷雅树』本人购买凶器的清晰图像；从犯罪现场提取的 DNA 检测结果与他的完全吻合……一切都表明是桐谷雅树犯下了罪行。」——**谜面就是这四重证据本身**，梗概到此为止、不写解答。**新作者**：库内无该作者；`authorEn` 记 `Tsujido Yume`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-007",
+    "title": "所有人都死了的天国",
+    "originalTitle": "",
+    "author": "五条纪夫",
+    "authorEn": "Gojo Norio",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "dark-atmosphere",
+      "concealment",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "五条纪夫的长篇（中国友谊出版公司 2025）：六个在现世已死的人，在一座天国宅邸里醒来，谁都不记得自己是怎么死的。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系推理的读者",
+        "喜欢封闭空间的读者"
+      ],
+      "watchFor": [
+        "每天早上送到的那份报纸",
+        "六个人各自记不起来的那一段"
+      ],
+      "warning": "设定系推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：五条纪夫著，中国友谊出版公司 2025，ISBN 978-7-5057-6059-2，251 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「我肯定被杀了。但是，这里是哪里呢……根据每天早上从看不到身影的送货人那里收到的不可思议的报纸得知，现世里已经惨死的 6 人，在失去记忆的状态下，回到了这个天堂宅邸。我是谁，为什么被谁杀了，我们想知道真相。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Gojo Norio`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-008",
+    "title": "幻觉侦探",
+    "originalTitle": "",
+    "author": "小西雅晖",
+    "authorEn": "Konishi Masaki",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "祖父（安乐椅侦探）",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小西雅晖的长篇（国际文化出版公司 2024）：患路易体痴呆症的祖父，坐在家里解孙女带来的难题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢安乐椅侦探的读者",
+        "喜欢日常之谜的读者"
+      ],
+      "watchFor": [
+        "祖父「看见蓝色老虎」这件事",
+        "他答对时用的是哪一段记忆"
+      ],
+      "warning": "日常之谜长篇；含命案设定，笔调克制。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：小西雅晖著，国际文化出版公司 2024，ISBN 978-7-5125-1563-5，290 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「患有老年痴呆症的祖父化身安乐椅侦探，挑战孙女带来的各种『不可能犯罪难题』……由于祖父患上的是『路易体痴呆症』……似乎也出现了『能够看见蓝色老虎』的幻视以及记忆障碍等症状。一次小枫向祖父提出了一个小谜题，祖父给出了答案。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Konishi Masaki`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-009",
+    "title": "共感觉",
+    "originalTitle": "",
+    "author": "天祢凉",
+    "authorEn": "Teni Ryo",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "音宫美夜系列",
+    "detective": "音宫美夜",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "trick-school"
+    ],
+    "safeSummary": "天祢凉的出道作（台海出版社「千本樱文库」2020，第 43 届梅菲斯特奖）：能看见声音轨迹的侦探，追查连环焚尸案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系侦探的读者",
+        "喜欢梅菲斯特奖系作品的读者"
+      ],
+      "watchFor": [
+        "她「看见」的声音长什么样",
+        "每一起焚尸案选的地方"
+      ],
+      "warning": "推理长篇；含杀人焚尸描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：天祢凉著，台海出版社 2020，ISBN 978-7-5168-2585-3，321 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「星守市连续发生了多起杀人焚尸事件。学生天弥山紫郎的妹妹惨遭杀害……他遇到了银发侦探音宫美夜。侦探音宫美夜声称自己能够看到声音的轨迹，利用这项能力就能找出犯人。」**另一条判据**：馆藏 **314 责任者附注**写明「2010 年，《共感觉》**斩获第 43 届梅菲斯特奖**，随即出道成为作家」，并提到「侦探『音宫美夜』系列」——本条的 `series`／`detective` 即据此填写。**新作者**：库内无该作者；`authorEn` 记 `Teni Ryo`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-010",
+    "title": "文豪A时代错误的推理",
+    "originalTitle": "",
+    "author": "森晶麿",
+    "authorEn": "Mori Masamaro",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "芥川龙之介",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "historical-setting",
+      "curiosity"
+    ],
+    "school": [
+      "meta-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "森晶麿的长篇（新星出版社 2019）：本该已经自尽的芥川龙之介，在罗生门下醒了过来，眼前是一场发生在现代东京的惨剧。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢文豪题材的读者",
+        "喜欢设定系推理的读者"
+      ],
+      "watchFor": [
+        "他对现代器械的手足无措",
+        "「罗生门事件」这个名字意味着什么"
+      ],
+      "warning": "设定系推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：森晶麿著，新星出版社 2019，ISBN 978-7-5133-3728-1，219 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本应自杀身亡的芥川龙之介在罗生门下醒了过来。他在那里看到了在日本首都发生的如地狱绘般的惨剧——一个女人的死……为了阻止『罗生门事件』，恢复自己的名誉，拯救那个女人，龙之介在现代东京复活了……文豪侦探在陌生的 21 世纪展开奇妙的推理。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Mori Masamaro`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-011",
+    "title": "你的谜题由我作答 1",
+    "originalTitle": "",
+    "author": "纸城境介",
+    "authorEn": "Kamishiro Kyosuke",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "明神凛音系列",
+    "detective": "明神凛音",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "campus",
+      "youth",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "纸城境介的校园推理第一册（上海文化出版社「说苑」2025）：能瞬间看破真相的少女，自己却说不清推理过程。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢校园推理的读者",
+        "喜欢侦探搭档关系的读者"
+      ],
+      "watchFor": [
+        "凛音为什么躲在心理咨询室",
+        "透矢替她补上的那几段逻辑"
+      ],
+      "warning": "校园推理；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：纸城境介著，上海文化出版社 2025，ISBN 978-7-5535-3174-8，231 页，丛编「**说苑**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「明神凛音常躲在心理咨询室，是能瞬间看破真相的天才，再复杂案件都能精准找犯人，可她的推理在潜意识中进行，自身无法解释。伊吕波透矢梦想当律师，奉『无罪推定』为信条，却为升学违信条接委托——推理『她的推理』。」**系列与主角**：书名带「1」，馆藏 **314 责任者附注**说明作者以轻小说新人奖出道；`series`／`detective` 按库内既例（以侦探名作系列名）记「明神凛音系列／明神凛音」。**新作者**：库内无该作者；`authorEn` 记 `Kamishiro Kyosuke`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-012",
+    "title": "不可以 消失的尸体",
+    "originalTitle": "",
+    "author": "道尾秀介",
+    "authorEn": "Michio Shusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列（短篇连作）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "multiple-solutions",
+      "red-herring",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "道尾秀介《不可以》的续作（中国友谊出版公司 2023）：四个各自独立、又彼此咬合的短篇，「体验型」推理第二弹。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《不可以》的读者",
+        "喜欢短篇连作的读者"
+      ],
+      "watchFor": [
+        "四篇之间那些对得上的名字与地点",
+        "每一篇结尾留给你看的那一格"
+      ],
+      "warning": "短篇连作；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：道尾秀介著，中国友谊出版公司 2023，ISBN 978-7-5057-5724-0，296 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**与库内既有条目的关系（关键）**：馆藏 **330 提要**开门见山写着「本书是日本推理作家道尾秀介的畅销小说**《不可以》续作**，主打『体验型』推理小说的**第 2 弹**，包含 4 个相互独立又互相关联的短篇故事」——库内已有前作《不可以》（四川文艺出版社 2021，`genre` 记犯罪悬疑），故本条是**另一部作品**、不是异名，单独立条；四篇的题名（《不可向明神瀑布祈祷》等）与提要一并见于著录，梗概只取这一层。**作者先例**：库内已有道尾秀介 **18 部**。**原作名**：豆瓣不可达，`originalTitle` 留空。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  },
+  {
+    "id": "opac150-013",
+    "title": "震度0",
+    "originalTitle": "",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "ensemble",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "横山秀夫的长篇（译林出版社 2011）：一场地震之后，县警内部先晃起来的那一部分，馆藏提要未提供，梗概不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横山秀夫的读者",
+        "喜欢警察内部题材的读者"
+      ],
+      "watchFor": [
+        "地震那一夜谁不在位子上",
+        "组织里那些说不出口的默契"
+      ],
+      "warning": "警察题材长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：横山秀夫著，译林出版社 2011，ISBN 978-7-5447-2006-9，368 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），**中图法 `I313.456`**（该馆对「日本推理小说」另给尾号 `.6` 的细分——与库内多数日本推理的 `I313.45` 略有不同，如实记录）。**据②档的补充判据**：**库内已有该作者 12 部**（《半落》《第三时效》《动机》《追诉时效倒计时》《看守眼》等，`school` 一贯记 `police-procedural`），本册同为县警题材。**梗概说明**：馆藏 **未提供 330 提要**（该条只有主题词与分类），故梗概按题名与作者层面撰写、不涉及情节——与 §226《赫眼》的处理一致。**原作名**：馆藏并列题名为空，豆瓣不可达，`originalTitle` 留空。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-229-opac.json",
+      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+    }
+  }
+]

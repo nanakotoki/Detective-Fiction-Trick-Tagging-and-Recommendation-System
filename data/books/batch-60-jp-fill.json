@@ -764,14 +764,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 150 轮）**：同上（新星「午夜文库」分两部；库内本条原作 `魔術王事件`）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「魔术王事件 第二部」／二阶堂黎人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-60-jp-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2011"
+    "editionYear": "2011",
+    "alternateTitles": [
+      "魔术王事件 第二部"
+    ]
   },
   {
     "id": "jpfill60-010",
