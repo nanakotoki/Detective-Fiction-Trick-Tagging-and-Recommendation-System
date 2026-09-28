@@ -910,14 +910,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 152 轮）**：化学工业出版社 2013「金匕首文库」把 `探偵ガリレオ` 译作《神探伽利略》（ISBN 978-7-122-15384-5，264 页），库内本条即该作；同池的《神探伽利略 2 预知梦》同理。**注意**：库内《禁断的魔术》另有别名「神探伽利略.8：禁忌魔术」，「神探伽利略」这个书名在两家出版社手里指的不是同一部作品。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2019（侦探伽利略／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-39-higashino.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2019"
+    "editionYear": "2019",
+    "alternateTitles": [
+      "神探伽利略"
+    ]
   },
   {
     "id": "higashino-012",
@@ -995,14 +998,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 152 轮）**：同上（化学工业 2013 版，ISBN 978-7-122-16789-7，221 页；库内本条原作 `予知夢`）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2019（预知梦／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-39-higashino.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2019"
+    "editionYear": "2019",
+    "alternateTitles": [
+      "神探伽利略 2 预知梦"
+    ]
   },
   {
     "id": "higashino-013",
