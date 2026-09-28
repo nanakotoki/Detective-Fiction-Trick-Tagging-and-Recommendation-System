@@ -1324,7 +1324,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 128 轮）**：上图 CNMARC 并列题名字段给出 `Red harvest`（新星出版社 2013，孙蓓雯译，210 页，ISBN 978-7-5133-0675-1，丛编「午夜文库/达希尔·哈米特作品集」），与库内本条（原题 `Red Harvest`）**同作换译名**，故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2001（血腥的收获／(美) 达希尔·哈米特著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1337,7 +1337,9 @@
       "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
     "alternateTitles": [
-      "红色收获"
+      "红色收获",
+      "血色收获",
+      "血色收割"
     ],
     "editionYear": "2001"
   },

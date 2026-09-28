@@ -390,26 +390,30 @@
   {
     "id": "bd153-006",
     "title": "丧钟九鸣",
-    "originalTitle": "",
+    "originalTitle": "The Nine Tailors",
     "author": "多萝西·L·塞耶斯",
     "authorEn": "Dorothy L. Sayers",
     "genre": "本格推理",
-    "firstPublished": "",
+    "firstPublished": "1934",
     "editionYear": "2015",
-    "series": "非系列",
+    "series": "彼得·温西爵爷系列",
     "detective": "彼得·温西",
     "country": "英国",
     "tags": [
       "countryside",
       "nursery-rhyme",
       "red-herring",
-      "series-detective"
+      "series-detective",
+      "timetable",
+      "cipher",
+      "legend-folklore",
+      "honkaku"
     ],
     "school": [
       "orthodox-school",
       "logic-school"
     ],
-    "safeSummary": "推理长篇。馆藏提要未提供情节内容，梗概暂缺，此处只登记题名、著者与出版信息。",
+    "safeSummary": "新年夜教堂鸣钟之后，村中墓园被挖开，出现一具身份不明的尸体；钟声传统与旧日传闻交织成谜。",
     "ratings": {
       "douban": {
         "summary": "暂无数据",
@@ -447,7 +451,7 @@
         "钟声与死亡的对应",
         "村庄里各人的关系"
       ],
-      "warning": "本格推理长篇，含命案描写；馆藏未提供情节提要，梗概暂缺。"
+      "warning": "本格推理长篇，含命案描写。"
     },
     "vault": {
       "culprit": "",
@@ -459,12 +463,16 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法大类枚举发现）：多萝西·L.塞耶斯著，上海译文出版社 2015.01。**判据**：①**检索行主题词为「长篇小说 推理小说」**；②**中图分类 `I561.45`**。**如实标注**：该条馆藏未提供情节提要。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法大类枚举发现）：多萝西·L.塞耶斯著，上海译文出版社 2015.01。**判据**：①**检索行主题词为「长篇小说 推理小说」**；②**中图分类 `I561.45`**。**如实标注**：该条馆藏未提供情节提要。**年份字段说明**：`editionYear` 记 2015；`firstPublished` **留空**。 **同书异名合并（第 128 轮）**：本次把库内另一条目《九九神咒》（id modern-006，原题栏记 The Nine Tailors，初刊年 1934，豆瓣 2008 年版条目 https://book.douban.com/subject/3277266/ 7.1 分／424 人）并入本条——据**上海图书馆 OPAC**：《九曲丧钟》有两笔馆藏（群众出版社 2006，王为平、米佳译，354 页，ISBN 7-5014-3607-X，**并列题名 The Nine Tailors**，提要写明「新年夜…挖开坟墓时却发现躺着一具男尸」；重庆大学出版社 2012，何静译，318 页，ISBN 978-7-5624-6591-1，并列题名 Nine taylors），与被并入条目的原题**同作**，即塞耶斯 1934 年的 *The Nine Tailors*——三个中译名（九九神咒／九曲丧钟／丧钟九鸣）指同一部作品，故合并为一条并全部登记为**又名**。**评分不改**：主条目仍取与所引版本（上海译文 2015）同一条目的 7.2 分／148 人；被并入条目的 2008 年版评分 7.1／424 仅记于此备查。**初刊年**：沿用被并入条目的 1934。"
     },
     "provenance": {
       "source": "batch-153-clc.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "九九神咒",
+      "九曲丧钟"
+    ]
   },
   {
     "id": "bd153-007",

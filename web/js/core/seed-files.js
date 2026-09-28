@@ -4,8 +4,8 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-28T05:10:22.773Z
- * 数据文件：211 个
+ * 生成时间：2026-09-28T10:39:06.707Z
+ * 数据文件：212 个
  */
 
 import batch01 from '../../../data/books/batch-01-honkaku.json' with { type: 'json' };
@@ -219,6 +219,7 @@ import batch208 from '../../../data/books/batch-208-md.json' with { type: 'json'
 import batch209 from '../../../data/books/batch-209-md.json' with { type: 'json' };
 import batch210 from '../../../data/books/batch-210-md.json' with { type: 'json' };
 import batch211 from '../../../data/books/batch-211-md.json' with { type: 'json' };
+import batch212 from '../../../data/books/batch-212-opac.json' with { type: 'json' };
 
 /** 全部种子数据文件 */
 export const SEED_FILES = [
@@ -232,7 +233,7 @@ export const SEED_FILES = [
   { file: 'batch-04-social-hardboiled.json', group: "社会派 / 硬汉派", data: batch04 },
   // 12 部
   { file: 'batch-05-chinese-asian.json', group: "华语与亚洲推理", data: batch05 },
-  // 12 部
+  // 11 部
   { file: 'batch-06-modern-specialty.json', group: "当代欧美 / 特殊设定", data: batch06 },
   // 14 部
   { file: 'batch-07-honkaku-more.json', group: "日本本格 / 新本格（续）", data: batch07 },
@@ -644,4 +645,6 @@ export const SEED_FILES = [
   { file: 'batch-210-md.json', group: "其他", data: batch210 },
   // 4 部
   { file: 'batch-211-md.json', group: "其他", data: batch211 },
+  // 25 部
+  { file: 'batch-212-opac.json', group: "其他", data: batch212 },
 ];

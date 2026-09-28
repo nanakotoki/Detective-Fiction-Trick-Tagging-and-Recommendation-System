@@ -1085,12 +1085,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 128 轮）**：豆瓣条目页 `https://book.douban.com/subject/35218329/`（文化发展出版社 2020-12，胡环译，479 页，ISBN 9787514231267，丛编「千本樱文库」）**原作名给出 `碆霊の如き祀るもの`**，与库内本条原题一致；「祭祀／供祭」是同一日语词的两种译法，故不另立条目。"
     },
     "provenance": {
       "source": "batch-22-jp-honkaku-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "如碆灵供祭之物"
+    ]
   },
   {
     "id": "jphk-015",

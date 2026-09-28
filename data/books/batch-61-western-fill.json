@@ -1175,12 +1175,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 128 轮）**：上图 CNMARC 并列题名字段给出 `Clouds of witness`（新星出版社 2009，孙永华译，287 页，ISBN 978-7-80225-682-8，丛编「午夜文库」），与库内本条（原题 `Clouds of Witness`）同作——**注意**：另一部塞耶斯作品 *The Documents in the Case* 常被译作相近的名字，本条判据是馆藏并列题名，不是题名相似。"
     },
     "provenance": {
       "source": "batch-61-western-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "证言疑云"
+    ]
   },
   {
     "id": "wfill61-015",

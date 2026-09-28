@@ -101,7 +101,20 @@ const out = spec.books.map((b, n) => {
     verification: { verified: true, verifiedAt: '2026-09', source: b.evidence },
     provenance: {
       source: spec.file,
-      ratingsNote: '豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。',
+      /**
+       * 评分说明**按实际抓取情况生成**（第 128 轮改）。
+       *
+       * 原文写死「豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」」——
+       * 那是 §110–§127 期间的事实，但 §128 实测豆瓣桌面站与 `j/subject_suggest`
+       * **均已恢复 200**（含 `rating_num`），继续写这句话就变成了**不实陈述**。
+       * 现在：本批只要有任一条取到实时评分，就写实时口径；一条都没有才写「暂无数据」口径，
+       * 并允许 spec 用 `ratingsNote` 覆盖。
+       */
+      ratingsNote:
+        spec.ratingsNote ||
+        (spec.books.some((x) => x.douban?.score != null)
+          ? '豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。'
+          : '本批条目在豆瓣未检索到可比对的同版条目，三个平台一律标注「暂无数据」，系统不编造评分。'),
     },
   };
 });

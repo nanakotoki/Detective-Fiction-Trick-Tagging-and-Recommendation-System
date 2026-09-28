@@ -54,6 +54,17 @@ async function main() {
   let multiAuthor = 0;
   /** 标了 `anthology`（多人合集，界面上打醒目徽章）的条目数 */
   let anthology = 0;
+  /**
+   * 作者 → 国籍 → 该国籍下的条目 id（第 128 轮新增校验用）。
+   *
+   * 起因：§127 收入的《黑暗之刺》（劳伦斯·布洛克）把 `country` 写成了「日本」——
+   * 这类错**页面上完全看不出来**（国籍只在筛选/统计里安静地算错），
+   * 而它又是唯一一处「**同一作者两个国籍**」的地方：库内布洛克另有 27 部都写着「美国」。
+   * 所以判据不必外求：**同一作者的 country 必须唯一**，多值即至少有一处写错。
+   * 用 `authors` 里的每一位署名作者都要过这一关（多作者条目不参与推断，
+   * 只有**单作者条目**才登记国籍，避免把「奎因+霍克」这类合作条目的国籍算到两人头上）。
+   */
+  const authorCountry = new Map();
 
   let files;
   try {
@@ -145,6 +156,22 @@ async function main() {
         infos.push(`${where}: author 含多位作者但未显式给 authors 数组，归一化时会自动拆分为 ${splitAuthors(authorLabel).join(' / ')}`);
       }
       if (Array.isArray(item?.authors) && item.authors.length > 1) multiAuthor += 1;
+
+      // ---- 国籍登记（同一作者只能有一个国籍，见文件上方 authorCountry 注释）----
+      {
+        const c = String(item?.country ?? '').trim();
+        const names = Array.isArray(item?.authors) && item.authors.length
+          ? item.authors.map((a) => String(a).trim()).filter(Boolean)
+          : splitAuthors(authorLabel);
+        // 合作条目（署名作者 ≥2）不参与：国籍属于「作者」，两人合写时无从归属
+        if (c && names.length === 1) {
+          const key = names[0];
+          if (!authorCountry.has(key)) authorCountry.set(key, new Map());
+          const m = authorCountry.get(key);
+          if (!m.has(c)) m.set(c, []);
+          m.get(c).push(where);
+        }
+      }
 
       // ---- 多人合集标记（纯展示：界面上的醒目徽章） ----
       if (item?.anthology !== undefined && typeof item.anthology !== 'boolean') {
@@ -333,6 +360,22 @@ async function main() {
         allBooks.push(normalized);
       }
     });
+  }
+
+  /* ---------------- 作者国籍一致性 ---------------- */
+  // 「同一作者只能有一个国籍」——这是**不需要任何外部数据**就能判的错，
+  // 因此定为 error 而不是 warning。多国籍（如合著者分属两国）请把该条的 `authors`
+  // 写成数组，本项即不再归属到单一作者名下。
+  for (const [author, m] of authorCountry) {
+    if (m.size < 2) continue;
+    const detail = [...m.entries()]
+      .sort((a, b) => b[1].length - a[1].length)
+      .map(([c, list]) => `${c} ${list.length} 部（${list.slice(0, 3).join('、')}${list.length > 3 ? ' 等' : ''}）`)
+      .join('；');
+    errors.push(
+      `作者「${author}」在库内有 ${m.size} 个不同国籍 —— ${detail}。` +
+        `同一作者的 country 必须唯一，请修正写错的那一条（少数的通常是笔误）。`
+    );
   }
 
   /* ---------------- 又名与书名交叉核对 ---------------- */
