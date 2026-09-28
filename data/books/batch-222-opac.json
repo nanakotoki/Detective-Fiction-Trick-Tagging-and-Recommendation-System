@@ -1,0 +1,316 @@
+[
+  {
+    "id": "opac138-001",
+    "title": "唯一正确的时钟",
+    "originalTitle": "しらみつぶしの時計",
+    "author": "法月纶太郎",
+    "authorEn": "Norizuki Rintaro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列（短篇集）",
+    "detective": "法月纶太郎",
+    "country": "日本",
+    "tags": [
+      "timetable",
+      "multiple-solutions",
+      "locked-room",
+      "curiosity"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "法月纶太郎的短篇集：把时间表、数目与「逐一排查」这些笨办法用到极致，反而逼近了唯一解。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 640,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6048827/",
+        "subjectId": "6048827",
+        "edition": "唯一正确的时钟 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格短篇的读者",
+        "法月纶太郎的读者"
+      ],
+      "watchFor": [
+        "「逐一排查」这种笨办法的用法",
+        "每一篇里被排除掉的可能"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**豆瓣丛书页**渠道发现）：法月纶太郎著，张剑译，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-4894-0，347 页，丛编「**七曜文库**」，**学科主题词「短篇小说 小说集 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**原作名与评分**：豆瓣同版条目 `subject/6048827`（吉林出版集团 2011-5，ISBN 9787546348940 —— 与馆藏同一号）给出 `しらみつぶしの時計`、**6.6** 分／640 人评价；**库内已有该作者 7 部**（《一的悲剧》《二的悲剧》《犯罪十二宫Ⅰ》等），写法沿用。三条判据（丛编 + 条目页 + 库内先例）齐，故收；主题词的差别如实记录。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与体裁层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-222-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac138-002",
+    "title": "日本杀人事件",
+    "originalTitle": "日本殺人事件",
+    "author": "山口雅也",
+    "authorEn": "Yamaguchi Masaya",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "meta-fiction",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "山口雅也的一册长篇：把「日本式」的种种套进推理的框架里，读法本身就带着玩笑意味。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": 280,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11577425/",
+        "subjectId": "11577425",
+        "edition": "日本杀人事件 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格与后设趣味的读者",
+        "山口雅也的读者"
+      ],
+      "watchFor": [
+        "「日本式」这三个字怎么被用成机关",
+        "叙述里那些自我指涉的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：山口雅也著，果露怡译，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-0056-3，248 页，丛编「**七曜文库**」，**学科主题词「侦探小说 日本 现代 ; 长篇小说 日本 现代」**——**第 ① 档**（主题词直接给「侦探小说」），中图法 `I313.45`（同馆另有同年另一笔记录，ISBN 978-7-5534-0150-8，251 页，同作，本条按池内指向的版本著录）。**原作名与评分**：豆瓣同版条目 `subject/11577425`（吉林出版集团 2013-6，ISBN 9787553401508）给出 `日本殺人事件`、**6.4** 分／280 人评价；库内已有该系列的《续·日本杀人事件》，本条补前作。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与体裁层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-222-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac138-003",
+    "title": "堪忍箱",
+    "originalTitle": "堪忍箱",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "curiosity",
+      "legend-folklore",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "宫部美雪的江户短篇集：「堪忍箱」里收着的多半不是秘密，而是当事人不肯说出口的那点事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 556,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6249671/",
+        "subjectId": "6249671",
+        "edition": "堪忍箱 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "江户市井短篇的读者"
+      ],
+      "watchFor": [
+        "箱子里到底装了什么",
+        "各篇里人物忍住的那些话"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：宫部美幸（库内统一作「宫部美雪」）著，曹逸冰译，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-5223-7，179 页，丛编「**七曜文库**」，**学科主题词「短篇小说 小说集 日本 现代」**（无「推理小说」字样），中图法 `I313.45`。**原作名与评分**：豆瓣同版条目 `subject/6249671`（吉林出版集团 2011-12，ISBN 9787546352237 —— 与馆藏同一号）给出 `堪忍箱`、**6.7** 分／556 人评价；库内已有该作者 20 余部（含《幻色江户历》《本所七怪谈》等江户题材），写法沿用。三条判据齐，故收。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与体裁层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-222-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac138-004",
+    "title": "扮鬼脸",
+    "originalTitle": "あかんべえ",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "legend-folklore",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "江户市井的一册长篇：那些看似神怪的事，背后多半是人的算计与不肯说破的旧账。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8。",
+        "score": 8,
+        "count": 731,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10618121/",
+        "subjectId": "10618121",
+        "edition": "扮鬼脸 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "江户题材推理的读者"
+      ],
+      "watchFor": [
+        "「鬼脸」这个动作在书里出现的地方",
+        "各家人的旧账"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：宫部美幸（库内统一作「宫部美雪」）著，茂吕美耶译，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-9351-3，420 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（无「推理小说」字样），中图法 `I313.45`。**原作名与评分**：豆瓣同版条目 `subject/10618121`（吉林出版集团 2012-7，ISBN 9787546393513 —— 与馆藏同一号）给出 `あかんべえ`、**8.0** 分／731 人评价；库内已有该作者同类江户题材多种。三条判据齐，故收（`genre` 记「历史推理」，与库内《幻色江户历》等条目的处理一致）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：馆藏未提供提要，按题名与题材层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-222-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

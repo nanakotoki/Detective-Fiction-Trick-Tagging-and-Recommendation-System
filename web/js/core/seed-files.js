@@ -4,8 +4,8 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-28T12:30:24.779Z
- * 数据文件：221 个
+ * 生成时间：2026-09-28T12:59:04.908Z
+ * 数据文件：222 个
  */
 
 import batch01 from '../../../data/books/batch-01-honkaku.json' with { type: 'json' };
@@ -229,6 +229,7 @@ import batch218 from '../../../data/books/batch-218-opac.json' with { type: 'jso
 import batch219 from '../../../data/books/batch-219-opac.json' with { type: 'json' };
 import batch220 from '../../../data/books/batch-220-opac.json' with { type: 'json' };
 import batch221 from '../../../data/books/batch-221-opac.json' with { type: 'json' };
+import batch222 from '../../../data/books/batch-222-opac.json' with { type: 'json' };
 
 /** 全部种子数据文件 */
 export const SEED_FILES = [
@@ -674,4 +675,6 @@ export const SEED_FILES = [
   { file: 'batch-220-opac.json', group: "其他", data: batch220 },
   // 3 部
   { file: 'batch-221-opac.json', group: "其他", data: batch221 },
+  // 4 部
+  { file: 'batch-222-opac.json', group: "其他", data: batch222 },
 ];
