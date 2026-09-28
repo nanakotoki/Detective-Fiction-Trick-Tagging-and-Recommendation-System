@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "opac134-001",
+    "title": "黑书",
+    "originalTitle": "Kara Kitap",
+    "author": "奥尔罕·帕慕克",
+    "authorEn": "Orhan Pamuk",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "土耳其",
+    "tags": [
+      "city",
+      "identity",
+      "meta-fiction",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "meta-school"
+    ],
+    "safeSummary": "卡利普在伊斯坦布尔的街巷里寻找失踪的妻子与她专栏作家的旧情人；奇数章是他的寻觅，偶数章是那些专栏文章。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.2。",
+        "score": 8.2,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36942545/",
+        "subjectId": "36942545",
+        "edition": "黑书 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "帕慕克的读者",
+        "文学性悬疑的读者"
+      ],
+      "watchFor": [
+        "专栏文章与寻觅两条线的呼应",
+        "「黑书」这个意象出现的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：帕慕克著，李佳姗译，上海人民出版社 2024，ISBN 978-7-208-18570-8，494 页，**学科主题词「侦探小说 土耳其 现代」**，中图法 `I374.45`（同馆另有 2007 年版，ISBN 978-7-208-06904-6，主题词作「长篇小说 土耳其 现代」）。**原作名**：**并列题名给出 `Kara kitap`**，故 `originalTitle` 记此值。**评分**：豆瓣同版条目 **8.2**（2026-09 抓取）。**体裁说明**：条目页与馆藏主题词都把它放在「侦探小说」名下（小说以寻找为主线），本条沿用馆藏口径记「犯罪悬疑」，不另立「文学」类。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-002",
+    "title": "人狮",
+    "originalTitle": "",
+    "author": "白冷",
+    "authorEn": "Bai Leng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "马亭",
+    "country": "中国",
+    "tags": [
+      "train",
+      "curiosity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "靠替人办事为生的马亭接下一桩保镖生意，南下的列车上被乘警信任、卷进一起凶案的侦破。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑的读者",
+        "列车题材的读者"
+      ],
+      "watchFor": [
+        "他观察到的那些蛛丝马迹",
+        "嫌疑人的过往"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：白冷著，中国财富出版社 2014，ISBN 978-7-5047-5188-1，201 页，**学科主题词「长篇小说 侦探小说 中国 当代」**，中图法 `I247.56`；馆藏提要写明主角、列车与「靠观察力与推理指向一个人」这一层。**评分**：豆瓣该作条目只索引到**另一版** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2014。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-003",
+    "title": "乐园",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "obsession",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "宫部美雪的一册长篇（新星出版社 2013）：以「乐园」为名的追寻，落到的是社会与家庭各自的裂缝。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "社会派推理的读者"
+      ],
+      "watchFor": [
+        "「乐园」这个词在书里的所指",
+        "几条人物线各自的处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：宫部美雪著，新星出版社 2013，ISBN 978-7-5133-0953-0，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`（馆藏责任者写作「宫部美幸」，库内统一作「宫部美雪」；**本条的著录字段取自池内那一行**——本轮按题名复查时该记录未再出现在前 20 条命中里，故页数与译者暂缺，如实记录）。**评分**：豆瓣该作条目只索引到**另一版** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏（池内行）未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-004",
+    "title": "催眠 完整版",
+    "originalTitle": "",
+    "author": "松冈圭祐",
+    "authorEn": "Matsuoka Keisuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "松冈圭祐的成名作（「完整版」）：一切从一次被操纵的记忆开始——「看见」与「真的发生」被拆开了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "松冈圭祐的读者"
+      ],
+      "watchFor": [
+        "哪些记忆被动过",
+        "暗示是在什么时候埋下的"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：松冈圭祐著，邹东来译，上海译文出版社 2017，ISBN 978-7-5327-7272-8，411 页，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**原作名**：馆藏并列题名为空，豆瓣检索亦未返回本版条目 → `originalTitle` 留空、评分标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。**梗概**：馆藏未提供提要，按题名与体裁层面撰写并如实标注（不虚构具体情节）。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-005",
+    "title": "赴宴",
+    "originalTitle": "",
+    "author": "贯越",
+    "authorEn": "Guan Yue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "concealment",
+      "red-herring",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一册以「赴宴」为题的长篇：一场请客，来的人各怀心事，散席时有人没能走出去。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑的读者"
+      ],
+      "watchFor": [
+        "宴席上各人的位置",
+        "谁在等一个时机"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：贯越著，广西人民出版社 2010，ISBN 978-7-219-06782-6，236 页，**学科主题词「推理小说 中国 现代 ; 长篇小说 中国 现代」**，中图法 `I247.56`。**评分**：豆瓣该作条目只索引到**另一版** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-006",
+    "title": "稻草人",
+    "originalTitle": "",
+    "author": "金凌云",
+    "authorEn": "Jin Lingyun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "countryside",
+      "fear",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一册以「稻草人」为题的长篇：田里站着的那一个，是吓鸟的，还是给活人看的。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑的读者"
+      ],
+      "watchFor": [
+        "稻草人出现的位置",
+        "村里人各自的说法"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：金凌云著，台海出版社 2022，ISBN 978-7-5168-3414-5，273 页，**学科主题词「推理小说 中国 当代」**，中图法 `I247.56`。**评分**：豆瓣该作条目只索引到**另一版** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-007",
+    "title": "涂鸦",
+    "originalTitle": "Graffiti",
+    "author": "金鹏",
+    "authorEn": "Jin Peng",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "curiosity",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一册以「涂鸦」为题的长篇：墙上的字与画，是谁写给谁看的。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑的读者"
+      ],
+      "watchFor": [
+        "涂鸦出现的时间与地点",
+        "谁认得那些记号"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：金鹏著，台海出版社 2018，ISBN 978-7-5168-1792-6，264 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名给出 `Graffiti`**。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-008",
+    "title": "第二本能",
+    "originalTitle": "",
+    "author": "昆金",
+    "authorEn": "Kun Jin",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "concealment",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一册围绕「第二本能」的长篇：当直觉与证据冲突时，相信哪一个都会付代价。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.6。",
+        "score": 7.6,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4062305/",
+        "subjectId": "4062305",
+        "edition": "第二本能 2009",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "昆金的读者"
+      ],
+      "watchFor": [
+        "直觉第一次出错的地方",
+        "证据链上缺的那一环"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：昆金著，中国文联出版社 2009，ISBN 978-7-5059-6382-5，276 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`。**评分**：豆瓣同版条目 **7.6**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-009",
+    "title": "假面杀机",
+    "originalTitle": "",
+    "author": "林斯谚",
+    "authorEn": "Lin Siyan",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "curiosity",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "台湾推理作家林斯谚的长篇（要有光「要推理」书系）：以「假面」为题的谜面，走的是本格解谜一路。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格推理的读者",
+        "华文推理的读者"
+      ],
+      "watchFor": [
+        "「假面」在案子里指什么",
+        "每一步推论的落点"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：林斯谚著，要有光（台北）2013，ISBN 978-986-89128-6-1，262 页，丛编「**要推理**」，**学科主题词「长篇小说 推理小说 中国 当代」**，中图法 `I247.56`；**并列题名给出「林斯谚长篇推理小说」**。**版本说明**：台版（繁体），与 §132 的三条同例照收。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与丛编层面撰写并如实标注。 **同书异名登记（第 134 轮）**：池内该行把正题名与并列题名（「林斯谚长篇推理小说」）连写——**上图 API 把并列题名接在正题名之后**的产物，实即本库第 134 轮已收的《假面杀机》（`batch-218-opac.json#opac134-009`，要有光 2013，ISBN 978-986-89128-6-1）。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "假面杀机 林斯谚长篇推理小说"
+    ]
+  },
+  {
+    "id": "opac134-010",
+    "title": "罪恶有终",
+    "originalTitle": "",
+    "author": "刘忱",
+    "authorEn": "Liu Chen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "silencing",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "二十五年前一场「托孤」埋下的旧案，在当事人出狱后重新翻起：无头男尸、被「闭嘴」的女证人，线索一路往上走。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑侦长篇的读者"
+      ],
+      "watchFor": [
+        "当年那桩案子的知情者",
+        "「无头男尸案」里缺失的部分"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：刘忱著，辽宁人民出版社 2023，ISBN 978-7-205-10722-2，**2 册（497 页）**，**学科主题词「侦探小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`（同一部作品分装两册，按一条著录）。**评分**：豆瓣两次检索未返回本版条目 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，删去提要里「破获…摧毁…」的结局段，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-011",
+    "title": "法医异闻录",
+    "originalTitle": "",
+    "author": "陆玩",
+    "authorEn": "Lu Wan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "陆玩",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "multiple-solutions",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "logic-school"
+    ],
+    "safeSummary": "法医陆玩与他的刑侦小组经手的六宗案子：冻死、溺亡、煤气中毒、刺杀、焚尸——几乎每一桩都「滴水不漏」。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "技术流刑侦的读者",
+        "法医题材的读者"
+      ],
+      "watchFor": [
+        "每一案的技术疑点",
+        "现场勘查给出的方向"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：陆玩著，台海出版社 2024，ISBN 978-7-5168-3861-7，260 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；馆藏提要写明主角、小组与六宗案件的类型。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-012",
+    "title": "看守所医生",
+    "originalTitle": "Detention House Doctor",
+    "author": "米可",
+    "authorEn": "Mi Ke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一册以看守所医生为主角的长篇：他每天面对的人，都比外面的人更急于说点什么。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35929628/",
+        "subjectId": "35929628",
+        "edition": "看守所医生 2022",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑侦题材的读者",
+        "米可的读者"
+      ],
+      "watchFor": [
+        "在押人员各自的说法",
+        "医生自己的判断依据"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：米可著，北京联合出版公司 2022，ISBN 978-7-5596-5743-5，269 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名给出 `Detention house doctor`**。**评分**：豆瓣同版条目 **6.5**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-013",
+    "title": "一级悬念",
+    "originalTitle": "",
+    "author": "牛占龙",
+    "authorEn": "Niu Zhanlong",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "identity",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一串连环凶杀案背后是多起「偷换人生」引发的悲剧：一案未平一案又起，侦查与反侦查反复拉锯。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "刑侦长篇的读者"
+      ],
+      "watchFor": [
+        "「偷换人生」这条线",
+        "每一次行动为什么会被对方预知"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：牛占龙著，作家出版社 2025，ISBN 978-7-5212-3362-9，346 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；馆藏提要写明「偷换人生」与「法官警察杜秋」这条线。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-014",
+    "title": "真相在她指尖",
+    "originalTitle": "",
+    "author": "火罐大公举",
+    "authorEn": "Huoguan Dagongju",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "刘依依",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "女法医刘依依与刑警队长周东篱并肩追凶；她自己那段尘封的创伤记忆，也在办案过程中被掀开。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者"
+      ],
+      "watchFor": [
+        "她自己的那段记忆",
+        "鉴定给出的每一次判断"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：火罐大公举著，金城出版社／西苑出版社 2025，ISBN 978-7-5155-2573-0，259 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；馆藏提要写明主角与刑警搭档。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac134-015",
+    "title": "奇物志",
+    "originalTitle": "",
+    "author": "青稞 等",
+    "authors": [
+      "眠眠",
+      "青稞",
+      "广思",
+      "皇帝陛下的玉米"
+    ],
+    "anthology": true,
+    "authorEn": "Qingke et al.",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "curiosity",
+      "multiple-solutions",
+      "legend-folklore",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "四位作者的四篇「奇物」推理：《消失的视线》《一只水晶鞋》《穿越时空的凶器》《朱公案之魔盅凶咒》。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.1。",
+        "score": 6.1,
+        "count": null,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37112177/",
+        "subjectId": "37112177",
+        "edition": "奇物志 2025",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "短篇解谜的读者",
+        "华文推理的读者"
+      ],
+      "watchFor": [
+        "每篇里那件「奇物」的用法",
+        "各篇各自的谜面"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：**责任者项署眠眠、青稞、广思、皇帝陛下的玉米四人**，北京联合出版公司 2025，ISBN 978-7-5596-8051-8，214 页，**学科主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**，中图法 `I247.7`；**馆藏提要列出四篇篇名**（《消失的视线》《一只水晶鞋》《穿越时空的凶器》《朱公案之魔盅凶咒》）。**体例**：**多人合集**，按库内既有写法记 `anthology: true` 并列出 `authors`（展示标签取「青稞 等」，与库内「克拉克·霍华德 等」同例）。**评分**：豆瓣同版条目 **6.1**（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。**梗概**：据**馆藏提要**（篇名）重写。"
+    },
+    "provenance": {
+      "source": "batch-218-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
