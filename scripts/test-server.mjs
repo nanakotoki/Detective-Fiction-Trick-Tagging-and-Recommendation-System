@@ -140,6 +140,64 @@ async function main() {
     const exportRes = await req('GET', '/api/export');
     check('GET /api/export 导出知识库', exportRes.status === 200 && Array.isArray(exportRes.json.books));
 
+    /* ---------- 种子知识库热加载（第 147 轮） ---------- */
+    // 这组测试对应一个真实故障：整理知识库时往 data/books/ 添了批次文件，
+    // 服务端还拿着启动时的快照，页面上显示 2954 部（实际已 3243 部）——
+    // 看起来像丢了 289 本书。这里验证「手动 reload」与「目录监听」两条路都真的生效。
+    console.log('');
+    console.log(color('  [种子知识库热加载]', C.dim));
+    const reload1 = await req('POST', '/api/reload');
+    check(
+      'POST /api/reload 返回条数与磁盘一致',
+      reload1.status === 200 && reload1.json.ok === true && reload1.json.seedCount === list.length,
+      `seedCount=${reload1.json?.seedCount} / books=${list.length}`,
+    );
+
+    const probeId = 'reload-probe-001';
+    const probeFile = path.join(ROOT, 'data', 'books', 'batch-999-reload-probe.json');
+    try {
+      fs.writeFileSync(
+        probeFile,
+        JSON.stringify(
+          [
+            {
+              id: probeId,
+              title: '热加载探针（测试用，不应出现在正式数据里）',
+              author: '测试',
+              genre: '本格推理',
+              safeSummary: '这是 scripts/test-server.mjs 写入的临时条目，用于验证数据目录热加载，测试结束即删除。',
+              tags: ['locked-room'],
+              ratings: {},
+            },
+          ],
+          null,
+          2,
+        ),
+        'utf8',
+      );
+      // 先验「目录监听」：不调 reload，等 watch 自己发现（防抖 300ms，给足 3 秒）
+      let seen = false;
+      for (let i = 0; i < 15 && !seen; i += 1) {
+        await new Promise((r) => setTimeout(r, 200));
+        const probe = await req('GET', '/api/books');
+        seen = (probe.json?.books ?? []).some((b) => b.id === probeId);
+      }
+      check('写入 data/books 后，服务端自动重载（fs.watch）', seen, seen ? '已自动出现' : '3 秒内未出现');
+    } finally {
+      try {
+        fs.unlinkSync(probeFile);
+      } catch {
+        /* 已删除 */
+      }
+      await req('POST', '/api/reload');
+    }
+    const afterCleanup = await req('GET', '/api/books');
+    check(
+      '删掉探针文件后，条目也随之消失（不做增量合并）',
+      !(afterCleanup.json?.books ?? []).some((b) => b.id === probeId),
+      `现 ${afterCleanup.json?.books?.length} 部`,
+    );
+
     /* ---------- 保险库隔离 ---------- */
     console.log('');
     console.log(color('  [反剧透：保险库隔离]', C.dim));

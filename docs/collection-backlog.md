@@ -11210,3 +11210,64 @@ test-core / views / server    117 + 151 + 46 = 314 项全通过
   ③七曜文库 ③ 档（含主题词作「恐怖小说」的《废园杀人事件》）；
   ④「待核」再审窗口（108 条）；
   ⑤`--retry-misses`、《八大奇案》校验位。
+
+---
+
+## 147. 修一个会让数据「看起来丢了」的故障：种子知识库热加载（第 147 轮）
+
+### 147.1 现象：数据 3243 部，页面只显示 2954 部
+
+用户刷新页面发现数字对不上。查下来不是数据问题，是**服务端拿着启动时的快照**：
+
+```js
+let seedBooks = [];                                  // 启动时读一次
+async function getAllBooks({ fresh = false }) {
+  if (mergedCache && !fresh) return mergedCache;      // 之后只失效「用户数据」的合并缓存
+}
+```
+
+`invalidateCache()` 只在**通过 API 写书**时被调用；而整理知识库的方式是**往 `data/books/` 添批次文件**
+（§119 起十几轮都是这么干的）——服务端察觉不到。运行中的进程启动于 9/26 23:00，此后库里长了 289 部，
+它一部都不知道。**表现就是「刷新后少了 289 本书」**，很容易被当成数据损坏。
+
+### 147.2 两条刷新路径（都补上了）
+
+1. **自动**：`fs.watch(BOOKS_DIR)` 监听数据目录，文件一变（含改名、删除）就重读，带 **300ms 防抖**
+   （一次 `git checkout` 会触发很多事件，不防抖会连读十几次）；
+2. **手动**：`POST /api/reload`，返回 `{seedCount, bookCount, files, loadedAt}`，便于脚本与测试核对。
+
+重读是**整体替换** `seedBooks` 再清缓存，**不做增量合并**——批次文件之间会互相改名、合并
+（`merge-dups`）甚至删除，增量合并会留下幽灵条目。这条也写进了测试：**删掉探针文件后条目必须随之消失**。
+
+### 147.3 测试当场抓到一个真错
+
+新加的三项测试里，`fs.watch` 那项一开始是**红的**：「写入 data/books 后，服务端自动重载（fs.watch）」
+3 秒内未出现。原因很具体：
+
+```js
+import fs from 'node:fs/promises';   // ← 这个 fs 上没有 watch
+...
+try { fs.watch(BOOKS_DIR, schedule); } catch (e) { console.warn('无法监听…'); }   // TypeError 被吞掉
+```
+
+**`fs.watch` 只存在于回调式 `node:fs`，`fs.promises` 上没有这个函数**——于是 `TypeError` 被兜底 catch 吞了，
+表现为「监听没生效，但也不报错」。改成 `import { watch as watchDir } from 'node:fs'` 后转绿。
+后端 E2E 从 **46 项增到 49 项**。
+
+### 147.4 闸门与测试
+
+```
+check-data / find-duplicates --strict / check-exclusions / check-not-collected / fix-tags --check
+build（七道门禁）     全绿
+test-core / views / server    117 + 151 + 49 = 317 项全通过
+```
+
+服务端已重启（作业 `pwsh-306`，`http://127.0.0.1:8787`）：`GET /api/books` → **3243 部**；
+`POST /api/reload` → `{ok:true, seedCount:3243, bookCount:3243, files:226}`。
+
+### 147.5 现状与下一步
+
+- 全库 **3243 部 / 226 个数据文件**；作者 **776 位**；日本 **1402 部**；豆瓣实时评分 **2487 部**；
+  `not-collected.json` 累计 **623 条**（不收 515／待核 108）；**新池 91 条**；
+- 下一步：①新池剩下 91 条（东野块余量／七曜文库 ③ 档／2025–26 新书）；
+  ②七曜文库 ③ 档；③「待核」再审窗口（108 条）；④`--retry-misses`、《八大奇案》校验位。

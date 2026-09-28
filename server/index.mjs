@@ -12,6 +12,10 @@
 
 import http from 'node:http';
 import fs from 'node:fs/promises';
+// `node:fs` 的同步侧：**`fs.watch` 只在回调式 fs 上有，promises 版没有**——
+// 第 147 轮第一次写热加载时就是用 `fs.watch`（= `fs.promises.watch`，不存在）触发了 TypeError，
+// 被兜底 catch 吞掉，表现为「监听没生效但也不报错」。测试当场抓到了这一点。
+import { watch as watchDir } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -137,6 +141,63 @@ async function getAllBooks({ fresh = false } = {}) {
 
 function invalidateCache() {
   mergedCache = null;
+}
+
+/* ------------------------------------------------------------------ */
+/* 种子知识库的热加载（第 147 轮）                                     */
+/* ------------------------------------------------------------------ */
+/**
+ * 起因：`seedBooks` 只在启动时读一次，而**整理知识库是「往 `data/books/` 里添批次文件」**——
+ * 外部加书服务器察觉不到。于是出现过这样的事：数据已经 3243 部，
+ * 页面上还是 2954 部，**看起来像丢了 289 本书**（其实是服务端拿着启动时的快照）。
+ *
+ * 现在两条路都能刷新：
+ *   ① **自动**：`fs.watch(BOOKS_DIR)` 监听数据目录，文件一变（含改名、删除）就重读，
+ *      带 300ms 防抖（一次 `git checkout` 会触发很多事件，不防抖会连读十几次）；
+ *   ② **手动**：`POST /api/reload`，返回条数与文件数，便于脚本与测试核对。
+ *
+ * 重读是**整体替换** `seedBooks` 再清缓存，不做增量合并——批次文件之间可能互相改名、
+ * 合并（`merge-dups`）甚至删除，增量合并会留下幽灵条目。
+ */
+let seedMeta = { loadedAt: null, files: 0, books: 0 };
+let reloading = null;
+
+async function reloadSeed({ reason = 'manual' } = {}) {
+  if (reloading) return reloading;
+  reloading = (async () => {
+    const books = await loadSeed();
+    seedBooks = books;
+    invalidateCache();
+    const files = (await fs.readdir(BOOKS_DIR).catch(() => [])).filter((f) => f.endsWith('.json')).length;
+    seedMeta = { loadedAt: new Date().toISOString(), files, books: books.length };
+    console.log(`[seed] 重新载入（${reason}）：${books.length} 部 / ${files} 个文件`);
+    return seedMeta;
+  })();
+  try {
+    return await reloading;
+  } finally {
+    reloading = null;
+  }
+}
+
+function startSeedWatcher() {
+  let timer = null;
+  const schedule = (eventType, filename) => {
+    if (filename && !String(filename).endsWith('.json')) return;
+    if (timer) clearTimeout(timer);
+    timer = setTimeout(() => {
+      timer = null;
+      reloadSeed({ reason: `watch:${eventType} ${filename ?? ''}`.trim() }).catch((error) =>
+        console.warn(`[seed] 自动重载失败：${error.message}`),
+      );
+    }, 300);
+  };
+  try {
+    watchDir(BOOKS_DIR, schedule);
+    console.log(`[seed] 已监听 ${BOOKS_DIR}（数据目录变动会自动重载）`);
+  } catch (error) {
+    console.warn(`[seed] 无法监听数据目录（${error.message}）——仍可用 POST /api/reload 手动刷新`);
+  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -266,6 +327,21 @@ async function handleApi(req, res, url) {
       tagCount: TAGS.length,
       mode: 'api',
       uptimeSeconds: Math.round(process.uptime()),
+    });
+    return true;
+  }
+
+  // POST /api/reload —— 手动重读 data/books（第 147 轮加）
+  // 用途：整理知识库时往数据目录添批次文件，不想等 watch 或想立刻确认时调一次。
+  if (segments[0] === 'reload' && segments.length === 1 && method === 'POST') {
+    const meta = await reloadSeed({ reason: 'POST /api/reload' });
+    const books = await getAllBooks({ fresh: true });
+    sendJSON(res, 200, {
+      ok: true,
+      seedCount: meta.books,
+      bookCount: books.length,
+      files: meta.files,
+      loadedAt: meta.loadedAt,
     });
     return true;
   }
@@ -533,6 +609,8 @@ const server = http.createServer(async (req, res) => {
 
 async function main() {
   seedBooks = await loadSeed();
+  // 数据目录热加载：整理知识库时往 data/books/ 添批次文件，服务端会自动重读（第 147 轮）
+  startSeedWatcher();
   await metaStore.update((m) => ({ ...(m ?? {}), version: 1, seededAt: m?.seededAt ?? new Date().toISOString(), seedCount: seedBooks.length }));
 
   server.listen(PORT, HOST, () => {
