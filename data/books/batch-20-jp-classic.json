@@ -311,14 +311,18 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Juran Hisao」，与库内同一作者（久生十兰）的多数写法「Hisao Juran」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Juran Hisao」，与库内同一作者（久生十兰）的多数写法「Hisao Juran」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。 **同书异名登记（第 154 轮）**：重庆出版社 2015 版把 `顎十郎捕物帳` 分上下两册著录；库内本条即该作（同年版），属**分卷著录**。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：重庆:,重庆出版社:,2015（颚十郎捕物帐／(日) 久生十兰著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-20-jp-classic.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2015"
+    "editionYear": "2015",
+    "alternateTitles": [
+      "颚十郎捕物帐 上册",
+      "颚十郎捕物帐 下册"
+    ]
   },
   {
     "id": "jpcls-005",

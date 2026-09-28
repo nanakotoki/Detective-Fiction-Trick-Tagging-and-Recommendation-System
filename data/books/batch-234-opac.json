@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "opac154-001",
+    "title": "柏林1888",
+    "originalTitle": "",
+    "author": "海渡英祐",
+    "authorEn": "Kaito Eiyu",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "海渡英祐的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢历史背景推理的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "一八八八年的柏林街头",
+        "那桩案子与后来史事的关系"
+      ],
+      "warning": "历史推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按学科主题检索**）：海渡英祐著，时代文艺出版社 2001，ISBN 7-5387-1536-3，247 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：①主题词直接含「推理小说」；②丛编是**江户川乱步奖专门丛书**（该奖是日本推理新人奖）。**一处如实标注**：该套书**多册共用同一个 ISBN**（本册与《白色长廊下》《虚线的恶意》《五十万年的死角》同用 `7-5387-1536-3`；《阿基米德借刀杀人》《别告诉左手》《莫札特不唱摇篮曲》同用 `7-5387-1535-5`），是套书号而**不是单册号**——照著录写出，不做推改。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Kaito Eiyu`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-002",
+    "title": "阿基米德借刀杀人",
+    "originalTitle": "",
+    "author": "小峰元",
+    "authorEn": "Komine Gen",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "curiosity",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "小峰元的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢本格推理的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "「借刀」这个说法在案子里指谁",
+        "那把「刀」是从哪来的"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：小峰元著，时代文艺出版社 2001，ISBN 7-5387-1535-5，276 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书（ISBN 为**套书号**，同套另两册见《别告诉左手》《莫札特不唱摇篮曲》）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Komine Gen`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-003",
+    "title": "白色长廊下",
+    "originalTitle": "",
+    "author": "川田弥一郎",
+    "authorEn": "Kawada Yaichiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "concealment",
+      "hospital"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "川田弥一郎的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢本格推理的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "那条长廊通向哪里",
+        "「白色」在这本书里指什么"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：川田弥一郎著，时代文艺出版社 2001，ISBN 7-5387-1536-3（**套书号**，同套另三册见《柏林1888》等），300 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Kawada Yaichiro`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-004",
+    "title": "虚线的恶意",
+    "originalTitle": "",
+    "author": "野泽尚",
+    "authorEn": "Nozawa Hisashi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "silencing",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "野泽尚的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派悬疑的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "「虚线」把什么隔开了",
+        "谁在替谁说话"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：野泽尚著，时代文艺出版社 2001，ISBN 7-5387-1536-3（**套书号**），300 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Nozawa Hisashi`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-005",
+    "title": "别告诉左手",
+    "originalTitle": "",
+    "author": "渡边容子",
+    "authorEn": "Watanabe Yoko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "dark-atmosphere",
+      "identity"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "渡边容子的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢心理向推理的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "「左手」知道什么",
+        "为什么不能告诉它"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：渡边容子著，时代文艺出版社 2001，ISBN 7-5387-1535-5（**套书号**），272 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Watanabe Yoko`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-006",
+    "title": "莫札特不唱摇篮曲",
+    "originalTitle": "",
+    "author": "森雅裕",
+    "authorEn": "Mori Masahiro",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "curiosity",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "森雅裕的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢音乐题材推理的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "莫札特那几首曲子的顺序",
+        "谁在替作曲家说话"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：森雅裕著，时代文艺出版社 2001，ISBN 7-5387-1535-5（**套书号**），266 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Mori Masahiro`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-007",
+    "title": "五十万年的死角",
+    "originalTitle": "",
+    "author": "伴野朗",
+    "authorEn": "Tomo Ryo",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "historical-setting",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "伴野朗的长篇（时代文艺出版社「江户川乱步文学奖精选」2001）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢考古与冒险题材的读者",
+        "江户川乱步奖作品的读者"
+      ],
+      "watchFor": [
+        "「五十万年」这个数字指什么",
+        "那件东西为什么非藏不可"
+      ],
+      "warning": "冒险悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：伴野朗著，时代文艺出版社 2001，ISBN 7-5387-1536-3（**套书号**），270 页，丛编「**江户川乱步文学奖精选**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为江户川乱步奖专门丛书；`genre` 记冒险悬疑（作者以考古／历史冒险题材见长，本条按丛书与作者层面归类，**馆藏无提要**故不作更细的体裁判断）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Tomo Ryo`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-008",
+    "title": "代号D机关 第一部",
+    "originalTitle": "",
+    "author": "柳广司",
+    "authorEn": "Yanagi Koji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "D机关系列",
+    "detective": "结城中校",
+    "country": "日本",
+    "tags": [
+      "spy-espionage",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school"
+    ],
+    "safeSummary": "「D机关」系列第一册（新星出版社 2013）：馆藏提要列出《幽灵》《鲁宾逊》《魔都》《XX》等五篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢谍战题材的读者",
+        "喜欢连作短篇的读者"
+      ],
+      "watchFor": [
+        "「不许杀人、不许自杀」这条社训",
+        "每一篇里谁在演谁"
+      ],
+      "warning": "谍战题材短篇集；含谍报与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：柳广司著，新星出版社 2013，ISBN 978-7-5133-0880-9，195 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书收录了《幽灵》、《鲁宾逊》、《魔都》、《XX》等五篇小说作品。」**这是一条边界案，判据写清楚**：本系列的题材是**间谍**，而库内口径是「**纯间谍不收、泛推理收**」（`data/exclusions.json` 里勒卡雷诸种即按此排除）。收的理由有两条：①上图**学科主题词作「推理小说」**，不是「间谍小说」；②该系列获**日本推理作家协会奖**（馆藏第三部提要另述其谍战设定）。**`genre` 记「冒险悬疑」而非「间谍小说」**——受控词表里的「间谍小说」「恐怖」两种流派属口径排除范围，`check-exclusions` 会拦（见该脚本注释），故以冒险悬疑归类，题材实情写在这里。**系列与主角**：`series` 记「D机关系列」、主角记结城中校（据第三部提要「在『魔王』结城中校的主持下……成立了间谍培训学校『D机关』」）。**新作者**：库内无该作者；`authorEn` 记 `Yanagi Koji`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-009",
+    "title": "代号D机关 第二部",
+    "originalTitle": "",
+    "author": "柳广司",
+    "authorEn": "Yanagi Koji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "D机关系列",
+    "detective": "结城中校",
+    "country": "日本",
+    "tags": [
+      "spy-espionage",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school"
+    ],
+    "safeSummary": "「D机关」系列第二册（新星出版社 2013）：馆藏提要列出《Double joker》《蝇王》《印度支那大作战》等五篇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过第一部的读者",
+        "喜欢谍战题材的读者"
+      ],
+      "watchFor": [
+        "每一篇里那个被派出去的人",
+        "「Double」指的是哪一对"
+      ],
+      "warning": "谍战题材短篇集；含谍报与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：柳广司著，新星出版社 2013，ISBN 978-7-5133-0879-3，204 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书收录了《Double joker》、《蝇王》、《印度支那大作战》、《棺柩》、《黑鸟》五篇小说。」**判据同第一部**（题材为间谍，但主题词作「推理小说」、系列获日本推理作家协会奖，按「纯间谍不收、泛推理收」的口径收；`genre` 记冒险悬疑的理由见第一部）。**系列归属**：`series` 记「D机关系列」、主角记结城中校，与第一部一致。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-010",
+    "title": "代号D机关 第三部",
+    "originalTitle": "",
+    "author": "柳广司",
+    "alternateTitles": [
+      "D机关 Ⅲ"
+    ],
+    "authorEn": "Yanagi Koji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "D机关系列",
+    "detective": "结城中校",
+    "country": "日本",
+    "tags": [
+      "spy-espionage",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "spy-school",
+      "adventure-school"
+    ],
+    "safeSummary": "「D机关」系列第三册（新星出版社「午夜文库·日系佳作」2015）：馆藏提要讲述结城中校创办的间谍培训学校与它的成绩单。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过前两部的读者",
+        "喜欢谍战题材的读者"
+      ],
+      "watchFor": [
+        "「不许杀人、不许自杀」这条社训怎么被守住的",
+        "结城的那套手法"
+      ],
+      "warning": "谍战题材长篇；含谍报与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：柳广司著，新星出版社 2015，ISBN 978-7-5133-1753-5，206 页，丛编「**午夜文库 $i日系佳作**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「在『魔王』结城中校的主持下，日本陆军内部成立了间谍培训学校『D机关』。在这里，所有成员都被灌输了与武士精神相悖的最高原则：不许杀人，不许自杀！……结城以他魔术师般的高超手段，交出了令人瞠目结舌的谍战成绩单。」**判据同第一部**（间谍题材但主题词作「推理小说」、系列获日本推理作家协会奖；`genre` 记冒险悬疑的理由见第一部）。**同书异名**：台版（独步文化 2014，ISBN 978-986-6043-91-8）的书名作《D机关 Ⅲ》，已登记为本条的又名。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-011",
+    "title": "怪屋谜案 2",
+    "originalTitle": "",
+    "author": "雨穴",
+    "authorEn": "Ukeya",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "cipher",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "雨穴的「平面图推理」第二册（台海出版社 2025）：一桩少年杀害家人的案子之后，那栋房子的户型开始被人反复端详。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《怪屋谜案》的读者",
+        "喜欢看图解谜的读者"
+      ],
+      "watchFor": [
+        "没有房门的卧室",
+        "吃饭时飘来臭味的那间客厅"
+      ],
+      "warning": "推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：雨穴著，台海出版社 2025，ISBN 978-7-5168-4109-9，346 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「静冈市内发生一起十六岁少年杀害家人的案件，随后，一个可怕的传闻不胫而走：那家房子的户型有问题……没有房门的卧室、容易发生争吵的出入口、吃饭时有臭味飘来的客厅，在毫无隐私的空间中长大的问题少年。」梗概只取这一层。**系列归属**：库内已有该作者 2 部（《怪屋谜案》《怪画谜案》，后者原作 `変な絵`；`school` 含 `trick-school`），本册是《怪屋谜案》的续作。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-012",
+    "title": "完全无罪",
+    "originalTitle": "",
+    "author": "大门刚明",
+    "authorEn": "Daimon Takeaki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "千纱（辩护律师）",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "silencing",
+      "revenge"
+    ],
+    "school": [
+      "legal-thriller",
+      "orthodox-school"
+    ],
+    "safeSummary": "大门刚明的长篇（江苏凤凰文艺出版社 2025）：二十一年前认罪的犯人，如今由一位刚打赢翻案官司的新手律师接手再审。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法庭与再审题材的读者",
+        "喜欢社会派悬疑的读者"
+      ],
+      "watchFor": [
+        "当年认罪的那句话是怎么来的",
+        "逃跑的那个女孩为什么回来"
+      ],
+      "warning": "犯罪悬疑长篇；含命案与冤案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：大门刚明著，江苏凤凰文艺出版社 2025，ISBN 978-7-5594-9719-2，268 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「二十一年前，一个女孩死亡，一个女孩失踪，一个女孩逃跑。犯人平山曾亲口认罪……新手律师千纱刚打完一场漂亮的翻案辩护，就立即接下了这份难如登天的再审委托。当年的刑警有森义男一口咬定平山就是真凶……二十一年后，逃跑的女孩再度闯入怪物之家。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Daimon Takeaki`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-013",
+    "title": "葬礼组曲",
+    "originalTitle": "",
+    "author": "天祢凉",
+    "authorEn": "Teni Ryo",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "北条紫苑（殡葬公司社长）",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "ensemble",
+      "curiosity",
+      "concealment"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "天祢凉的连作短篇集（台海出版社「千本樱文库」2024）：一家殡葬公司替逝者家属解开遗留下来的「谜团」。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《共感觉》的读者",
+        "喜欢殡葬题材日常之谜的读者"
+      ],
+      "watchFor": [
+        "那位父亲留下的奇怪遗言",
+        "坚决不用火葬的那户人家"
+      ],
+      "warning": "连作短篇；含死亡与殡葬描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：天祢凉著，台海出版社 2024，ISBN 978-7-5168-3849-5，302 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「在『直葬』的即时火葬已成为常态的日本社会，只有 S 县还保留着举办葬礼的传统。S 县的北条殡葬公司由年轻的女社长北条紫苑经营……他们在举办葬礼时会考虑到逝者家属的感受，解开逝者留下的『谜团』……留下奇怪遗言的父亲、坚决不用火葬的遗属、从太平间突然消失的儿子。」梗概只取这一层；`detective` 据提要所记的社长填写。**作者先例**：库内已有该作者 1 部（《共感觉》，`opac150-009`；`series` 记「音宫美夜系列」），本册是另一部作品，故 `series` 记非系列。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-014",
+    "title": "向阳处的谎言",
+    "originalTitle": "",
+    "author": "长冈弘树",
+    "authorEn": "Nagaoka Hiroki",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "长冈弘树的短篇集（台湾时报文化「蓝小说」2015）：五个短篇都从日常小事切进去，看人性最想遮住的那一处。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "长冈弘树的读者",
+        "喜欢日常之谜短篇的读者"
+      ],
+      "watchFor": [
+        "阿兹海默症老人怎么遮掩那件不见的东西",
+        "撞到人之后那对母子的默契"
+      ],
+      "warning": "短篇集，各篇独立；含命案与事故描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：长冈弘树著，时报文化出版企业股份有限公司 2015，ISBN 978-957-13-6220-5，271 页，丛编「**蓝小说**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「全书包含五个短篇，一律是透过日常生活事件刺探人性弱点……首篇描写患有阿兹海默症的老人，面对媳妇托寄的物品不翼而飞时，想尽办法遮掩事实的不堪；次篇描写母亲开车快到家时却撞到人，未成年儿子与母亲密谋如何脱罪。」梗概只取这一层。**作者先例**：库内已有该作者 1 部（《教场》，`opac151-008`，台版同为时报文化「蓝小说」）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-015",
+    "title": "无可救药的青春",
+    "originalTitle": "",
+    "author": "栗本薰",
+    "authorEn": "Kurimoto Kaoru",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "campus",
+      "first-person",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "栗本薰的长篇（新星出版社「午夜文库·江户川乱步奖杰作选」2013）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "栗本薰的读者",
+        "喜欢青春推理的读者"
+      ],
+      "watchFor": [
+        "「无可救药」这四个字落在谁身上",
+        "叙述者站在什么位置"
+      ],
+      "warning": "青春推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：栗本薰著，新星出版社 2013，ISBN 978-7-5133-1212-7，239 页，丛编「**午夜文库 $i江户川乱步奖杰作选**」，**学科主题词「推理小说 日本 现代」**（**①档**），**中图法 `I313.456`**（该馆给日本推理另设的尾号）。**判据**：①主题词直接含「推理小说」；②丛编是**江户川乱步奖杰作选**（推理专门丛书）。**作者先例**：库内已有该作者 1 部（《弦之圣域》，原作 `絃の聖域`）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac154-016",
+    "title": "孤独的歌声",
+    "originalTitle": "",
+    "author": "天童荒太",
+    "authorEn": "Tendo Arata",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "identity",
+      "city"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "天童荒太的长篇（群众出版社 2005）：一个从出生起就背着母亲那场执念的人，一步步走上了犯罪的路。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "天童荒太的读者",
+        "喜欢犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "母亲当年那场等待",
+        "他每一次「变得神情恍惚」之前发生了什么"
+      ],
+      "warning": "犯罪心理长篇；含自杀与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：天童荒太著，群众出版社 2005，ISBN 7-5014-3396-8，241 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书获**第 6 届日本推理小说悬念大奖**优秀作品奖。隆司的母亲是个第三者……她盼望儿子的出生能唤起那个有妇之夫的同情……母亲也因为承受不住心理的压力而自杀了。从此隆司变得神情恍惚，走上了犯罪的道路。」——**获奖记录照提要写出**，梗概只取这一层。**作者先例**：库内已有该作者 5 部（《永远的仔》系列、《爱的病理》）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2005。"
+    },
+    "provenance": {
+      "source": "batch-234-opac.json",
+      "ratingsNote": "本批十六册里七册是 2001 年的老译本（豆瓣上多半没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  }
+]

@@ -420,14 +420,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 154 轮）**：人民文学出版社 2019 版把副题也写进了书名（ISBN 978-7-02-015108-0，237 页，提要：「共收入 6 个故事……都跟交通安全有关」）；库内本条即该作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2019（天使之耳／(日) 东野圭吾著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-58-higashino-christie.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2019"
+    "editionYear": "2019",
+    "alternateTitles": [
+      "天使之耳 交通警察之夜"
+    ]
   },
   {
     "id": "hg57-006",
