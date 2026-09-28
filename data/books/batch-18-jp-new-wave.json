@@ -1717,14 +1717,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 135 轮）**：同上（七曜文库该行题名作「凶鸟·忌讳之物」，原题 `凶鳥の如き忌むもの`）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：广州:,花城出版社:,2023（如凶鸟忌讳之物／(日) 三津田信三著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-18-jp-new-wave.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2023"
+    "editionYear": "2023",
+    "alternateTitles": [
+      "凶鸟·忌讳之物"
+    ]
   },
   {
     "id": "jpnew-024",
@@ -1802,14 +1805,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 135 轮）**：豆瓣丛书页（七曜文库，id=6857）该行的题名作「山魔·嗤笑之物」，与库内本条同作（原题 `山魔の如き嗤うもの`）；「如××之物」与「××之物」是同一部作品在两家出版社的题名写法，故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2024（馆藏题名「如山魔嗤笑之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-18-jp-new-wave.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2024"
+    "editionYear": "2024",
+    "alternateTitles": [
+      "山魔·嗤笑之物"
+    ]
   },
   {
     "id": "jpnew-027",

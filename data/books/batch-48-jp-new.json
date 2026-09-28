@@ -245,14 +245,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 135 轮）**：豆瓣丛书页（午夜文库·日系佳作，id=9988）该行的题名带**卷次后缀**「（上、下）」，题名比对扣不掉它，**是新池里第一批被 `find-duplicates --strict` 拦下的条目**（报「原书名相同：ディスコ探偵水曜日」，指出库内 `batch-48-jp-new.json#jpadd-003` 已在）。登记为又名，并提醒：**带卷次后缀的题名要按正题名归一后再比**。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「迪斯科侦探星期三」／舞城王太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-48-jp-new.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2012"
+    "editionYear": "2012",
+    "alternateTitles": [
+      "迪斯科侦探星期三（上、下）"
+    ]
   },
   {
     "id": "jpadd-004",

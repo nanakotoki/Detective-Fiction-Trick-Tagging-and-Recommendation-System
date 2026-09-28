@@ -1,0 +1,160 @@
+[
+  {
+    "id": "opac135-001",
+    "title": "画布下的乐园",
+    "originalTitle": "楽園のカンヴァス",
+    "author": "原田舞叶",
+    "authorEn": "Maha Harada",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "cipher",
+      "curiosity",
+      "concealment",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "两位素不相识的美术界人士被一封邀请函叫到巴塞尔，为争夺一幅名画：七天、一本古书、每天一章——七天后各自判断这幅画的真伪。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 481,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26430273/",
+        "subjectId": "26430273",
+        "edition": "画布下的乐园 2015",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "美术题材推理的读者",
+        "原田舞叶的读者"
+      ],
+      "watchFor": [
+        "古书里关于画家的记载",
+        "两人各自隐瞒的部分"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：原田舞叶著，张晶译，新星出版社 2015，ISBN 978-7-5133-1823-5，287 页，丛编「**午夜文库·日系佳作**」，**学科主题词「长篇小说 日本 现代」**（**注意：馆藏主题词没有「推理小说」字样**），中图法 `I313.45`。**推理属性判据**：①丛编「**午夜文库·日系佳作**」是**推理专门书系**；②豆瓣条目页 `subject/26430273`（ISBN 9787513318235 —— 与馆藏一致）的简介写明本书是「一桩以名画真伪为赌注的解谜」（七天读一本古书、判断画作真伪），**谜面结构清楚**——两条合并作为判据，并在本条如实记下主题词的差别。**评分**：**7.3**、481 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。**梗概**：据条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-219-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac135-002",
+    "title": "暗幕下的格尔尼卡",
+    "originalTitle": "暗幕のゲルニカ",
+    "author": "原田舞叶",
+    "authorEn": "Maha Harada",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "curiosity",
+      "city",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "meta-school"
+    ],
+    "safeSummary": "纽约的策展人想把《格尔尼卡》借到 MoMA 展出，谈判期间这幅名画却被人悄悄遮了起来——只懂艺术的她决定查下去。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 218,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33462944/",
+        "subjectId": "33462944",
+        "edition": "暗幕下的格尔尼卡 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "美术题材推理的读者",
+        "原田舞叶的读者"
+      ],
+      "watchFor": [
+        "名画被遮起来的时机",
+        "谈判桌上各方的诉求"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：原田舞叶著，吕灵芝译，新星出版社 2019，ISBN 978-7-5133-3589-8，334 页，丛编「**午夜文库·日系佳作**」，**学科主题词「长篇小说 日本 现代」**（同样没有「推理小说」字样），中图法 `I313.45`；**馆藏提要写明「这幅名画被人默默遮了起来…只懂艺术的瑶子决定一探究竟」**——谜面即由此起。**原作名**：豆瓣同版条目 `subject/33462944`（ISBN 9787513335898 —— 与馆藏一致）给出 `暗幕のゲルニカ`。**评分**：**6.8**、218 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据**馆藏提要**重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-219-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
