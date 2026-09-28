@@ -1,0 +1,587 @@
+[
+  {
+    "id": "opac151b-001",
+    "title": "代号12",
+    "originalTitle": "",
+    "author": "福井晴敏",
+    "authorEn": "Fukui Harutoshi",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "adventure",
+      "youth",
+      "concealment"
+    ],
+    "school": [
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "福井晴敏的长篇（山东文艺出版社「日本最新获奖推理小说」2000）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "福井晴敏的读者",
+        "喜欢冒险悬疑的读者"
+      ],
+      "watchFor": [
+        "「12」这个代号指的是什么",
+        "少年们被推着走的那条路"
+      ],
+      "warning": "冒险悬疑长篇；含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按学科主题检索**）：福井晴敏著，山东文艺出版社 2000，ISBN 7-5329-1800-9，335 页，丛编「**日本最新获奖推理小说**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：①主题词直接含「推理小说」；②丛编是**推理专门丛书**（该书系即山东文艺当年批量引进的获奖推理作品）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**新作者**：库内无该作者；`authorEn` 记 `Fukui Harutoshi`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-002",
+    "title": "无底深渊",
+    "originalTitle": "",
+    "author": "池井户润",
+    "authorEn": "Ikeido Jun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "池井户润的长篇（山东文艺出版社「日本最新获奖推理小说」2000）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "池井户润的读者",
+        "喜欢经济犯罪题材的读者"
+      ],
+      "watchFor": [
+        "那道「无底」的界线在哪里",
+        "谁先松了手"
+      ],
+      "warning": "犯罪悬疑长篇；含经济犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：池井户润著，山东文艺出版社 2000，ISBN 7-5329-1799-1，321 页，丛编「**日本最新获奖推理小说**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋属推理专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者（他后来以经济小说知名，本册是其早期获奖作）；`authorEn` 记 `Ikeido Jun`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-003",
+    "title": "完全犯罪使者",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "森村诚一的长篇（群众出版社「日本推理小说文件」2000）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "喜欢社会派的读者"
+      ],
+      "watchFor": [
+        "「完全犯罪」这四个字在书里怎么被拆开",
+        "谁替谁背了那件事"
+      ],
+      "warning": "社会派长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：森村诚一著，群众出版社 2000，ISBN 7-5014-2286-9，248 页，丛编「**日本推理小说文件**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋属推理专门丛书。**判据（②档的补充）**：**库内已有该作者 46 部**（《人性的证明》《野性的证明》等，`genre` 记社会派）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-004",
+    "title": "夺取",
+    "originalTitle": "",
+    "author": "真保裕一",
+    "authorEn": "Shinpo Yuichi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2000",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "gain",
+      "ensemble",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "adventure-school"
+    ],
+    "safeSummary": "真保裕一的长篇（山东文艺出版社「日本最新获奖推理小说」2000，上下两册）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "真保裕一的读者",
+        "喜欢大场面犯罪题材的读者"
+      ],
+      "watchFor": [
+        "计划里那几个人的分工",
+        "哪一步是临时改的"
+      ],
+      "warning": "犯罪悬疑长篇；含犯罪与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：真保裕一著，山东文艺出版社 2000，ISBN 7-5329-1801-7，**2 册（725 页）**，丛编「**日本最新获奖推理小说**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋属推理专门丛书。**合并说明**：馆藏为两册一套，按库内既例**合并为一条**。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Shinpo Yuichi`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2000。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-005",
+    "title": "脑人",
+    "originalTitle": "",
+    "author": "首藤瓜於",
+    "authorEn": "Shudo Maruo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "首藤瓜於的长篇（山东文艺出版社「日本最新获奖推理小说」2003）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "首藤瓜於的读者",
+        "喜欢心理向犯罪题材的读者"
+      ],
+      "watchFor": [
+        "这个人的「不痛」意味着什么",
+        "他为什么照着别人的话去做"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：首藤瓜於著，山东文艺出版社 2003，ISBN 7-5329-2142-5，256 页，丛编「**日本最新获奖推理小说**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋属推理专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Shudo Maruo`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2003。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-006",
+    "title": "恐怖的夏夜",
+    "originalTitle": "",
+    "author": "赤井三寻",
+    "authorEn": "Akai Mikazu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "赤井三寻的长篇（北岳文艺出版社「日本推理小说新经典系列」2004）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日系犯罪悬疑的读者",
+        "赤井三寻的读者"
+      ],
+      "watchFor": [
+        "那个夏夜里谁在场",
+        "案子和几年后的另一件事怎么接上"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：赤井三寻著，北岳文艺出版社 2004，ISBN 7-5378-2520-3，257 页，丛编「**日本推理小说新经典系列**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为推理专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Akai Mikazu`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2004。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-007",
+    "title": "制造暴力",
+    "originalTitle": "",
+    "author": "不知火京介",
+    "authorEn": "Shiranui Kyosuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "vigilante",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "hardboiled-school"
+    ],
+    "safeSummary": "不知火京介的长篇（北岳文艺出版社「日本推理小说新经典系列」2004）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢硬派犯罪题材的读者",
+        "不知火京介的读者"
+      ],
+      "watchFor": [
+        "暴力是怎么被一步步做出来的",
+        "谁在提供那套说法"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：不知火京介著，北岳文艺出版社 2004，ISBN 7-5378-2521-1，257 页，丛编「**日本推理小说新经典系列**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为推理专门丛书。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Shiranui Kyosuke`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2004。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  },
+  {
+    "id": "opac151b-008",
+    "title": "巴提斯塔的荣光",
+    "originalTitle": "",
+    "author": "海堂尊",
+    "authorEn": "Kaito Takeru",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hospital",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "海堂尊的长篇（上海人民出版社 2009）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "海堂尊的读者",
+        "喜欢医疗题材悬疑的读者"
+      ],
+      "watchFor": [
+        "手术台上的那几十分钟",
+        "团队里谁的位置最稳"
+      ],
+      "warning": "医疗题材悬疑长篇；含手术场面与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：海堂尊著，上海人民出版社 2009，ISBN 978-7-208-08379-0，292 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁判据**：主题词直接含「推理小说」（该册的丛编项为空，故只此一条硬判据＋作者身份旁证：海堂尊以本作出道并获日本推理小说新人奖体系内奖项——**这一点是本库未取到著录佐证的旁证，不作为判据写入，只在此说明**）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**新作者**：库内无该作者；`authorEn` 记 `Kaito Takeru`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-231-opac.json",
+      "ratingsNote": "本批八册均为 1988–2009 年的旧译本，豆瓣条目页本轮仍返回「登录跳转」（且部分册次在豆瓣上就没有独立条目），故原作名一律留空、评分一律标「暂无数据」；虎扑与 Goodreads 同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记。"
+    }
+  }
+]

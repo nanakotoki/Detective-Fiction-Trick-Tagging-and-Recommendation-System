@@ -1,0 +1,810 @@
+[
+  {
+    "id": "opac151-001",
+    "title": "古书堂事件手帖 4 栞子与两张面具",
+    "originalTitle": "",
+    "author": "三上延",
+    "authorEn": "Mikami En",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "古书堂事件手帖系列",
+    "detective": "篠川栞子",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "cozy",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "古书堂系列第四册（湖南美术出版社 2014）：一份关于旧书的委托，把两人带到镰仓的雪下，那里锁着一只金库。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古书堂系列的读者",
+        "喜欢旧书与解谜题材的读者"
+      ],
+      "watchFor": [
+        "金库上的谜题与乱步作品的关系",
+        "女店主与母亲之间那场较量"
+      ],
+      "warning": "日常之谜长篇；无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：三上延著，湖南美术出版社 2014，ISBN 978-7-5356-6782-3，264 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「文现里亚古书堂的美女店主与青年店员……接到了关于旧书的特殊咨询，于是二人启程前往位于镰仓的雪下……稀世侦探、推理小说作家江户川乱步庞大的作品集……委托者希望二人能够打开某人留下的精巧金库……解谜的过程，不知不觉中变成了美丽的女店主与她的母亲之间智慧的较量。」梗概只取这一层。**系列归属**：库内已有《古书堂事件手帖》1–3（`series` 记「古书堂事件手帖系列」、主角记篠川栞子／栞子），本册是系列第四册，写法沿用。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-002",
+    "title": "鲁邦的女儿",
+    "originalTitle": "",
+    "author": "横关大",
+    "authorEn": "Yokoseki Dai",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "identity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "横关大的长篇（台海出版社「千本樱文库」2020）：小偷家族的长女与警察家族的长男相爱，而两人都不知道对方的身份。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢身份错位题材的读者",
+        "喜欢轻快笔调的读者"
+      ],
+      "watchFor": [
+        "河边的遗体为什么被毁了脸",
+        "两个家庭各自守着的那条线"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：横关大著，台海出版社 2020，ISBN 978-7-5168-2587-7，348 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「小偷家族的长女三云华与警察家族的长男樱庭和马，在互不知身份的情况下双双坠入爱河。某日，在荒川的河边发现了三云华祖父的遗体，而且脸部遭到破坏……恋爱与谜案的背后，似乎还藏着不为人知的真相。」梗概只取这一层。**作者写法**：上图该条著录作「横关**木**」（形近误录），库内无该作者的其他条目；按作者本名记「横关大」。**新作者**：`authorEn` 记 `Yokoseki Dai`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-003",
+    "title": "巴比伦 Ⅱ 死亡",
+    "originalTitle": "",
+    "author": "野崎惑",
+    "authorEn": "Nozaki Mado",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "巴比伦系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku",
+      "social-commentary",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「巴比伦」系列第二册（台海出版社「千本樱文库」2021）：一条「痛苦解除条例」颁布之后，自杀成了必须回答的问题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《巴比伦 Ⅰ 女人》的读者",
+        "喜欢设定系与社会派交界的读者"
+      ],
+      "watchFor": [
+        "条例通过前后人心的位移",
+        "握着密钥的那个「恶女」"
+      ],
+      "warning": "设定系推理长篇；含自杀与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：野崎惑著，台海出版社 2021，ISBN 978-7-5168-2670-6，244 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「新域域长斋开化宣布颁布『痛苦解除条例』后，发生了冲击性的大事件……东京地方检察厅特搜部检察官正崎善……成立了特别搜查小组……自杀究竟是犯罪，还是救赎。」**系列归属**：库内已有《巴比伦 Ⅰ 女人》《巴比伦 Ⅲ 终结》（`series` 记「巴比伦系列」、genre 本格推理），本册是系列第二册，写法沿用。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-004",
+    "title": "推理时钟",
+    "originalTitle": "",
+    "author": "贵志祐介",
+    "authorEn": "Kishi Yusuke",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "榎本系列",
+    "detective": "榎本径",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "locked-room",
+      "multiple-solutions",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "贵志祐介的防盗侦探短篇集（新星出版社 2019）：事务所、美术馆、深山别墅、海上橡皮艇，四起不可能犯罪。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室与不可能犯罪的读者",
+        "榎本系列的读者"
+      ],
+      "watchFor": [
+        "每一处的「进不去也出不来」是怎么成立的",
+        "榎本对锁与监控的那点执念"
+      ],
+      "warning": "本格推理短篇集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：贵志祐介著，新星出版社 2019，ISBN 978-7-5133-3551-5，314 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书为贵志祐介的推理短篇小说集，共分为四个短篇，主要描写了侦探榎本与犯罪者的头脑战。密不透风的事务所，处处设有监控的美术馆，荒山僻野里的私人别墅，汪洋大海上的橡皮艇——四起不可能犯罪的背后是隐藏至深的真相。」——`series`／`detective` 即据提要所记的「侦探榎本」填写（库内同作者此前无条目）。**新作者**：库内无贵志祐介的作品（`data/exclusions.json` 里另有一册《第十三种人格的恐怖》因「心理恐怖、非推理」不收，与本册无关）；`authorEn` 记 `Kishi Yusuke`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-005",
+    "title": "幻霙",
+    "originalTitle": "",
+    "author": "斉木香津",
+    "authorEn": "Saiki Kotsu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "identity",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "斉木香津的长篇（现代出版社 2016）：一个雨雪交加的夜里，主人公被一个陌生女子指认为杀人凶犯。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢被冤枉者视角的读者",
+        "喜欢紧凑悬疑的读者"
+      ],
+      "watchFor": [
+        "那个陌生女子为什么指认他",
+        "雨与雪同时落下的那一夜"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：斉木香津著，现代出版社 2016，ISBN 978-7-5143-6279-4，202 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），**中图法 `I313.456`**（该馆给日本推理另设的尾号）。馆藏 **330 提要**：「这是一部推理小说作品，是斉木香津继畅销小说《冻花》之后又一力作。在一个雨和雪一起纷飞的夜晚，主人公被一个陌生女子指认为杀人凶犯……是束手就擒，还是奋力抗争？」——梗概只取这一层。**同一册的另一条著录**：上图另有 2017 年的同 ISBN 记录（同书同年再版著录），**不另立条目**。**新作者**：库内无该作者；`authorEn` 记 `Saiki Kotsu`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-006",
+    "title": "柠檬与杀人狂",
+    "originalTitle": "",
+    "author": "桑垣爱夕",
+    "authorEn": "Kuwagaki Aya",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "桑垣爱夕的长篇（广东旅游出版社 2025）：妹妹成了被害人，又被怀疑是为骗保而杀人，姐姐要替她把嫌疑洗掉。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢家庭悬疑的读者",
+        "喜欢双胞胎设定的读者"
+      ],
+      "watchFor": [
+        "十年前父亲那桩案子留下的东西",
+        "姐姐查到的每一件事都在替谁说话"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：桑垣爱夕著，广东旅游出版社 2025，ISBN 978-7-5570-3448-1，253 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「十年前，经营西餐店的父亲被过路魔杀害，母亲也失踪了。双胞胎姐妹各自被不同亲戚收养……数年后，妹妹妃奈的遗体被发现……原本应该是受害者的妃奈，却被怀疑生前为了骗取保险金而杀人。相信妹妹清白的姐姐美樱……开始了行动。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Kuwagaki Aya`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-007",
+    "title": "向森林许愿",
+    "originalTitle": "",
+    "author": "乾路加",
+    "authorEn": "Inui Roka",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "countryside",
+      "curiosity",
+      "legend-folklore"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "乾路加的长篇（武汉大学出版社 2017）：四个在失落时走进同一片森林的人，遇到同一个看管森林的青年。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢治愈系推理的读者",
+        "喜欢短篇连作结构的读者"
+      ],
+      "watchFor": [
+        "森林看守人对每个人说的那句话",
+        "森林本身的秘密什么时候揭开"
+      ],
+      "warning": "治愈系推理长篇；基调安静。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：乾路加著，武汉大学出版社 2017，ISBN 978-7-307-19218-8，313 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），**中图法 `I313.456`**。馆藏 **330 提要**：「本书是一本治愈系推理小说……儿子拒绝上学的母亲，找不到满意工作进而对社会产生不满的女子，余命不多却坚持想看某个瞬间的青年、被公司开除的中年男子，会在失落的时候不约而同地走进一片神秘的森林……最后，揭晓了森林与森林看守人不为人知的秘密。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Inui Roka`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-008",
+    "title": "教场",
+    "originalTitle": "",
+    "author": "长冈弘树",
+    "authorEn": "Nagaoka Hiroki",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "police-procedural"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "长冈弘树的警察学校短篇集（台湾时报文化 2014）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "长冈弘树的读者",
+        "喜欢警察题材短篇的读者"
+      ],
+      "watchFor": [
+        "每一期学员各自的来处",
+        "教官那句不动声色的评语"
+      ],
+      "warning": "警察题材短篇集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：长冈弘树著，时报文化出版企业股份有限公司 2014，ISBN 978-957-13-6139-0，255 页，丛编「**蓝小说**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**梗概说明**：馆藏 **未提供 330 提要**（该条只有主题词与分类），故梗概按题名与作者层面撰写、不涉及情节——与 §226《赫眼》的处理一致。**台版的著录说明**：本册为台版，**上图有该版著录**（与 §142 那三部「两馆均无著录、只能以豆瓣条目页为书目来源」的台版不同），故书目字段取自上图 CNMARC。**新作者**：库内无该作者；`authorEn` 记 `Nagaoka Hiroki`（整理者转写）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-009",
+    "title": "人质卡农",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "宫部美雪的短篇集（台湾独步文化「宫部美幸作品集」2021）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "喜欢短篇悬疑的读者"
+      ],
+      "watchFor": [
+        "每一篇里那个被扣住的人",
+        "结尾处视角的移动"
+      ],
+      "warning": "短篇集，各篇独立；含犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：宫部美幸（库内统一作「宫部美雪」）著，独步文化 2021，ISBN 978-957-9447-99-7，293 页，丛编「**宫部美幸作品集**」，**学科主题词「长篇小说 日本 现代 ; 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**判据（②档的补充）**：**库内已有该作者 25 部**，全部按推理判据收进（《模仿犯》《火车》《所罗门的伪证》《幻色江户历》等）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**台版说明**：本册为台版，**上图有该版著录**，书目即取自该著录。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-010",
+    "title": "猎捕史奈克",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "revenge",
+      "dark-atmosphere",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "宫部美雪的长篇（台湾独步文化「宫部美幸作品集」2017）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "喜欢追捕题材的读者"
+      ],
+      "watchFor": [
+        "谁在追、谁被追",
+        "那把枪最后落在谁手上"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：宫部美幸（库内统一作「宫部美雪」）著，独步文化 2017，ISBN 978-986-5651-94-7，315 页，丛编「**宫部美幸作品集**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**判据（②档的补充）**：库内已有该作者 25 部，皆按推理判据收进。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**台版说明**：台版，上图有该版著录，书目取自著录。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  },
+  {
+    "id": "opac151-011",
+    "title": "悲叹之门",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "authorEn": "Miyabe Miyuki",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "city",
+      "legend-folklore",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "social-school"
+    ],
+    "safeSummary": "宫部美雪的长篇（台湾独步「宫部美幸作品集」2016，上下两册）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "喜欢现代怪谈气味的读者"
+      ],
+      "watchFor": [
+        "都市里那些「听说过」的传闻",
+        "几个人各自的入口"
+      ],
+      "warning": "长篇；含命案与怪谈色彩描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：宫部美幸（库内统一作「宫部美雪」）著，家庭传媒城邦分公司发行 2016，**2 册**（ISBN 978-986-5651-75-6／978-986-5651-76-3／978-986-5651-77-0），丛编「**宫部美幸作品集**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**合并说明**：馆藏按上下册著录，按库内既例**合并为一条**。**判据（②档的补充）**：库内已有该作者 25 部，皆按推理判据收进。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-230-opac.json",
+      "ratingsNote": "本批十一册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已逐条注明）。"
+    }
+  }
+]

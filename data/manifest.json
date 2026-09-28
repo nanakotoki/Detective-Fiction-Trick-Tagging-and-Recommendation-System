@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T15:16:35.086Z",
+  "generatedAt": "2026-09-28T15:22:22.315Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3268,
-    "dataFiles": 229,
+    "books": 3287,
+    "dataFiles": 231,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3268,
+    "withSafeSummary": 3287,
     "withPlatformRating": 2489
   },
   "tagDistribution": [
@@ -24,7 +24,7 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 296
+          "books": 297
         },
         {
           "id": "alibi",
@@ -59,12 +59,12 @@
         {
           "id": "multiple-solutions",
           "label": "多重解答",
-          "books": 710
+          "books": 711
         },
         {
           "id": "psychological-misdirection",
           "label": "心理误导",
-          "books": 593
+          "books": 594
         },
         {
           "id": "red-herring",
@@ -89,7 +89,7 @@
         {
           "id": "dual-role",
           "label": "一人二角",
-          "books": 143
+          "books": 144
         }
       ]
     },
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 558
+          "books": 563
         },
         {
           "id": "diary-form",
@@ -168,17 +168,17 @@
         {
           "id": "hospital",
           "label": "医院",
-          "books": 24
+          "books": 25
         },
         {
           "id": "countryside",
           "label": "乡村",
-          "books": 258
+          "books": 259
         },
         {
           "id": "city",
           "label": "都市",
-          "books": 978
+          "books": 985
         },
         {
           "id": "snowfield",
@@ -215,12 +215,12 @@
         {
           "id": "revenge",
           "label": "复仇",
-          "books": 129
+          "books": 130
         },
         {
           "id": "gain",
           "label": "财杀",
-          "books": 132
+          "books": 133
         },
         {
           "id": "passion",
@@ -235,22 +235,22 @@
         {
           "id": "vigilante",
           "label": "替天行道",
-          "books": 15
+          "books": 16
         },
         {
           "id": "obsession",
           "label": "执念",
-          "books": 233
+          "books": 236
         },
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 395
+          "books": 398
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1670
+          "books": 1681
         },
         {
           "id": "fear",
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 170
+          "books": 172
         }
       ]
     },
@@ -272,12 +272,12 @@
         {
           "id": "honkaku",
           "label": "本格解谜",
-          "books": 593
+          "books": 595
         },
         {
           "id": "social-commentary",
           "label": "社会议题",
-          "books": 340
+          "books": 345
         },
         {
           "id": "hardboiled",
@@ -287,17 +287,17 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 570
+          "books": 578
         },
         {
           "id": "cozy",
           "label": "日常之谜",
-          "books": 61
+          "books": 62
         },
         {
           "id": "youth",
           "label": "青春",
-          "books": 161
+          "books": 162
         },
         {
           "id": "meta-fiction",
@@ -307,12 +307,12 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1317
+          "books": 1319
         },
         {
           "id": "legend-folklore",
           "label": "民俗传说",
-          "books": 283
+          "books": 285
         },
         {
           "id": "forensic",
@@ -327,7 +327,7 @@
         {
           "id": "adventure",
           "label": "冒险",
-          "books": 133
+          "books": 134
         }
       ]
     },
@@ -339,27 +339,27 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 796
+          "books": 797
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1107
+          "books": 1109
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1969
+          "books": 1982
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 592
+          "books": 602
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 698
+          "books": 699
         },
         {
           "id": "legal-thriller",
@@ -374,12 +374,12 @@
         {
           "id": "hardboiled-school",
           "label": "硬汉派",
-          "books": 141
+          "books": 142
         },
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 785
+          "books": 790
         },
         {
           "id": "spy-school",
@@ -389,12 +389,12 @@
         {
           "id": "adventure-school",
           "label": "冒险派",
-          "books": 203
+          "books": 205
         },
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 219
+          "books": 221
         },
         {
           "id": "meta-school",
@@ -404,7 +404,7 @@
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 483
+          "books": 484
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3268
+    "checkedBooks": 3287
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
