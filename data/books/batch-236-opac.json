@@ -1,0 +1,1468 @@
+[
+  {
+    "id": "opac156-001",
+    "title": "独家报道之卵",
+    "originalTitle": "",
+    "author": "大崎梢",
+    "authorEn": "Osaki Kozue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "city",
+      "social-commentary"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "大崎梢的长篇（盖亚文化「悦读·日本小说」2021，台版）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢新闻／报道题材悬疑的读者",
+        "大崎梢的读者"
+      ],
+      "watchFor": [
+        "这篇报道是谁放出来的",
+        "「卵」这个比喻落在谁身上"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：大崎梢著，盖亚文化有限公司 2021，ISBN 978-986-319-583-2，318 页，丛编「**悦读·日本小说**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者；`authorEn` 记 `Osaki Kozue`（整理者转写）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-002",
+    "title": "死亡归来 日本推理小说",
+    "originalTitle": "",
+    "author": "大薮春彦",
+    "authorEn": "Oyabu Haruhiko",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "1992",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city",
+      "adventure"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school"
+    ],
+    "safeSummary": "大薮春彦的长篇（北京师范大学出版社 1992）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "大薮春彦的读者",
+        "喜欢硬汉派动作题材的读者"
+      ],
+      "watchFor": [
+        "「归来」的那个人带回了什么",
+        "这一册里的追杀是从哪里开始的"
+      ],
+      "warning": "硬汉派长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：大薮春彦著，北京师范大学出版社 1992，ISBN 7-303-01860-3，246 页，**学科主题词「推理小说 日本 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**作者先例**：库内已有《野兽追杀》（`genre` 记硬汉派、`school` 记 `hardboiled-school`＋`adventure-school`），本册写法沿用。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 1992。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-003",
+    "title": "密室迷踪",
+    "originalTitle": "",
+    "author": "斋藤荣",
+    "authorEn": "Saito Sakae",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "1988",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "honkaku",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "斋藤荣的长篇（广西人民出版社 1988）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室题材的读者",
+        "收藏八十年代译本的老读者"
+      ],
+      "watchFor": [
+        "那间密室是怎么成立的",
+        "叙述者站在门里还是门外"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：斋藤荣著，广西人民出版社 1988，ISBN 7-219-00840-6，212 页，**学科主题词「推理小说 日本 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。`genre` 记本格推理是依**题名中的「密室」**与该作者的题材取向（**馆藏无提要**，故只作体裁层面判断）。**新作者**：库内无该作者；`authorEn` 记 `Saito Sakae`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 1988。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-004",
+    "title": "春太&千夏推理系列 3 空想管风琴",
+    "originalTitle": "",
+    "author": "初野晴",
+    "authorEn": "Hatsuno Sei",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "春太&千夏推理系列",
+    "detective": "穗村千夏、上条春太",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "campus",
+      "youth",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「春太&千夏」系列第三册（中国电影出版社 2017）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢校园推理的读者"
+      ],
+      "watchFor": [
+        "「空想」与「管风琴」这两样怎么接上",
+        "两人的分工"
+      ],
+      "warning": "校园推理；无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：初野晴著，中国电影出版社 2017，ISBN 978-7-106-04803-7，219 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**系列归属**：`series`／`detective` 据书名所记的系列与两位主角填写；**一处如实标注**：库内**尚无该系列第 1、2 册**，本册是系列第三册——先按现有著录收下，缺口记在台账 §156.3。**新作者**：库内无该作者；`authorEn` 记 `Hatsuno Sei`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-005",
+    "title": "浅草有色不良少年团",
+    "originalTitle": "",
+    "author": "祐光正",
+    "authorEn": "Yuki Mitsumasa",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "ensemble",
+      "vigilante"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "祐光正的长篇（上海译文出版社 2012）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢下町舞台与群像故事的读者",
+        "喜欢青春犯罪题材的读者"
+      ],
+      "watchFor": [
+        "「有色」这两个字指什么",
+        "这几个人为什么凑在一起"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：祐光正著，上海译文出版社 2012，ISBN 978-7-5327-5904-0，333 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者；`authorEn` 记 `Yuki Mitsumasa`（整理者转写）。**梗概说明**：馆藏无 330 提要，`genre` 只作体裁层面判断（犯罪悬疑），梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-006",
+    "title": "无尽渴望",
+    "originalTitle": "",
+    "author": "深町秋生",
+    "authorEn": "Fukamachi Akio",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "dark-atmosphere",
+      "first-person",
+      "city"
+    ],
+    "school": [
+      "hardboiled-school",
+      "psychological-school"
+    ],
+    "safeSummary": "深町秋生的长篇（百花洲文艺出版社「99畅销文库」2015）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢复仇题材犯罪小说的读者",
+        "喜欢第一人称硬派叙事的读者"
+      ],
+      "watchFor": [
+        "「渴望」的对象是什么",
+        "叙述者走到哪一步才停下"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：深町秋生著，百花洲文艺出版社 2015，ISBN 978-7-5500-1128-1，328 页，丛编「**99畅销文库**」，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者；`authorEn` 记 `Fukamachi Akio`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-007",
+    "title": "不公平的月",
+    "originalTitle": "",
+    "author": "秦建日子",
+    "authorEn": "Hata Takehiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural"
+    ],
+    "safeSummary": "秦建日子的长篇（南京大学出版社 2010）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢警察／司法题材的读者",
+        "秦建日子的读者"
+      ],
+      "watchFor": [
+        "「不公平」这三个字落在谁身上",
+        "那一轮月亮出现时谁在场"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：秦建日子著，南京大学出版社 2010，ISBN 978-7-305-07029-7，231 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者（同批另收《推理小说》《公义之死》两册，作者的罗马字转写三册统一）；`authorEn` 记 `Hata Takehiko`。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-008",
+    "title": "推理小说",
+    "originalTitle": "",
+    "author": "秦建日子",
+    "authorEn": "Hata Takehiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "秦建日子的长篇（南京大学出版社 2010）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「以推理小说为题」的元叙事的读者",
+        "秦建日子的读者"
+      ],
+      "watchFor": [
+        "书名为什么要叫《推理小说》",
+        "写书的人与查案的人是不是同一批"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：秦建日子著，南京大学出版社 2010，ISBN 978-7-305-07026-6，235 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**`genre` 与 `tags` 的说明**：书名即《推理小说》，`tags` 里的 `meta-fiction` 是**依书名所作的体裁层面判断**（馆藏无提要，**不据此推断情节**）。**新作者**：库内无该作者（与同批两册同作者）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-009",
+    "title": "公义之死",
+    "originalTitle": "",
+    "author": "秦建日子",
+    "authorEn": "Hata Takehiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "silencing",
+      "legal-thriller"
+    ],
+    "school": [
+      "legal-thriller",
+      "social-school"
+    ],
+    "safeSummary": "秦建日子的长篇（南京大学出版社 2011）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢司法题材的读者",
+        "秦建日子的读者"
+      ],
+      "watchFor": [
+        "「公义」在哪一步失效",
+        "谁替死者说话"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：秦建日子著，南京大学出版社 2011，ISBN 978-7-305-08069-2，246 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者（与同批两册同作者）。**梗概说明**：馆藏无 330 提要，`school` 里的 `legal-thriller` 系依作者以刑侦／司法题材见长所作的判断，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-010",
+    "title": "我们都是孤独的",
+    "originalTitle": "",
+    "author": "贵志祐介",
+    "authorEn": "Kishi Yusuke",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "贵志祐介的长篇（西泠印社出版社 2025）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "贵志祐介的读者",
+        "喜欢心理向犯罪题材的读者"
+      ],
+      "watchFor": [
+        "「孤独」是处境还是借口",
+        "叙述者与自己对话的方式"
+      ],
+      "warning": "犯罪悬疑长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：贵志祐介著，西泠印社出版社 2025，ISBN 978-7-5508-4016-4，279 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**作者先例**：库内已有该作者 1 部（《推理时钟》，`opac151-004`，`genre` 记本格推理；`data/exclusions.json` 里另有一册《第十三种人格的恐怖》因「心理恐怖、非推理」不收，与本册无关）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-011",
+    "title": "完全恋爱",
+    "originalTitle": "",
+    "author": "牧萨次",
+    "authorEn": "Maki Saji",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "obsession",
+      "identity",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "牧萨次的长篇（朝华出版社 2012）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢恋爱与谜案交叠的读者",
+        "牧萨次的读者"
+      ],
+      "watchFor": [
+        "「完全」这个修饰指的是谁的标准",
+        "两个人各自隐瞒的那件事"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：牧萨次著，朝华出版社 2012，ISBN 978-7-5054-3259-8，282 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者；`authorEn` 记 `Maki Saji`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-012",
+    "title": "妙龄吸血鬼 8 我的男友是吸血鬼",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Jiro Akagawa",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "妙龄吸血鬼系列",
+    "detective": "神代艾丽佳、冯·库勒勒克",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "legend-folklore",
+      "curiosity",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "「妙龄吸血鬼」系列第八册（南海出版公司「新经典文库」2011）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "赤川次郎的读者"
+      ],
+      "watchFor": [
+        "这一册里「男友」的身份",
+        "艾丽佳怎么处理这件事"
+      ],
+      "warning": "系列长篇；含命案描写，基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：赤川次郎著，南海出版公司 2011，ISBN 978-7-5442-5043-6，237 页，丛编「**新经典文库**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**系列归属与补缺**：库内已有该系列第 3–7 册（`series` 记「妙龄吸血鬼系列」、主角记神代艾丽佳与冯·库勒勒克、`genre` 多记本格推理），**本册补上第 8 册**；`genre`／`detective`／`school` 沿用既例。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-013",
+    "title": "八月的马科斯",
+    "originalTitle": "",
+    "author": "新野刚志",
+    "authorEn": "Niino Takeshi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2002",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "youth",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "新野刚志的长篇（山东文艺出版社「日本最新获奖推理小说」2002）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢青春犯罪题材的读者",
+        "收藏这套老译本的读者"
+      ],
+      "watchFor": [
+        "「马科斯」这个名字的来处",
+        "八月那件事之后各人去了哪里"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：新野刚志著，山东文艺出版社 2002，ISBN 7-5329-2019-4，294 页，丛编「**日本最新获奖推理小说**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁双证**：主题词含「推理小说」＋丛编为推理专门丛书（与 §154 所收《代号12》等同属一套）。**新作者**：库内无该作者；`authorEn` 记 `Niino Takeshi`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2002。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-014",
+    "title": "深水长眠",
+    "originalTitle": "",
+    "author": "白河三兔",
+    "authorEn": "Shirakawa Mito",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "白河三兔的长篇（湖南人民出版社「梅菲斯特奖获奖精品」2012）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢梅菲斯特奖系作品的读者",
+        "喜欢心理向变格的读者"
+      ],
+      "watchFor": [
+        "「长眠」的人是谁",
+        "水这个意象在书里出现几次"
+      ],
+      "warning": "变格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：白河三兔著，湖南人民出版社 2012，ISBN 978-7-5438-8718-3，235 页，丛编「**梅菲斯特奖获奖精品**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁依据**：丛编为梅菲斯特奖专门丛书；库内同丛编来源的《共感觉》（`opac150-009`，同奖）`genre` 记变格，本条**沿用该既例**。**新作者**：库内无该作者；`authorEn` 记 `Shirakawa Mito`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-015",
+    "title": "玫瑰de谜案",
+    "originalTitle": "",
+    "author": "吉村达也",
+    "authorEn": "Yoshimura Tatsuya",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2002",
+    "series": "吉村达也悬念推理小说集",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "concealment",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "吉村达也的悬念推理小说集（珠海出版社 2002）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吉村达也的读者",
+        "喜欢短篇悬念的读者"
+      ],
+      "watchFor": [
+        "玫瑰出现的那个场合",
+        "每篇结尾那一下"
+      ],
+      "warning": "悬念推理小说集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：吉村达也著，珠海出版社 2002，ISBN 7-80607-904-1，236 页，丛编「**吉村达也悬念推理小说集**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**一处如实标注**：该丛编的另一册《悬念大师De邀请信》**与本册共用同一个 ISBN**（`7-80607-904-1`），是**套书号**而**不是单册号**——照著录写出，不做推改。**新作者**：库内无该作者；`authorEn` 记 `Yoshimura Tatsuya`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2002。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-016",
+    "title": "悬念大师De邀请信",
+    "originalTitle": "",
+    "author": "吉村达也",
+    "authorEn": "Yoshimura Tatsuya",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2002",
+    "series": "吉村达也悬念推理小说集",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "concealment",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "吉村达也的悬念推理小说集（珠海出版社 2002）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "吉村达也的读者",
+        "喜欢「邀请函」式设定的读者"
+      ],
+      "watchFor": [
+        "那封邀请信是谁寄的",
+        "被请去的都是些什么人"
+      ],
+      "warning": "悬念推理小说集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：吉村达也著，珠海出版社 2002，**ISBN 7-80607-904-1（与《玫瑰de谜案》共用的套书号）**，228 页，丛编「**吉村达也悬念推理小说集**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者（与《玫瑰de谜案》同作者，`authorEn` 统一记 `Yoshimura Tatsuya`）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2002。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-017",
+    "title": "捕虫歌",
+    "originalTitle": "",
+    "author": "赤星香一郎",
+    "authorEn": "Akahoshi Koichiro",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "赤星香一郎的长篇（湖南人民出版社「梅菲斯特奖获奖精品」2012）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢梅菲斯特奖系作品的读者",
+        "喜欢民俗气味的变格的读者"
+      ],
+      "watchFor": [
+        "那首歌是谁在唱",
+        "被「捕」的是什么"
+      ],
+      "warning": "变格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：赤星香一郎著，湖南人民出版社 2012，ISBN 978-7-5438-8719-0，235 页，丛编「**梅菲斯特奖获奖精品**」，**学科主题词「长篇小说 推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**体裁依据**：同《深水长眠》——丛编为梅菲斯特奖专门丛书，`genre` 沿用库内同奖既例记变格。**新作者**：库内无该作者；`authorEn` 记 `Akahoshi Koichiro`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-018",
+    "title": "阎魔堂沙罗的推理奇谭",
+    "originalTitle": "",
+    "author": "木元哉多",
+    "authorEn": "Kimoto Kanata",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "阎魔堂沙罗系列",
+    "detective": "阎魔堂沙罗",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "closed-circle",
+      "curiosity",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "木元哉多的短篇集（台海出版社 2020）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "木元哉多的读者",
+        "喜欢「给一次机会」式设定的读者"
+      ],
+      "watchFor": [
+        "沙罗给出的那个条件",
+        "每一篇里被问住的那个人"
+      ],
+      "warning": "推理短篇集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：木元哉多著，台海出版社 2020，ISBN 978-7-5168-2564-8，294 页，**学科主题词「推理小说 小说集 日本 现代」**（**①档**），中图法 `I313.45`。**作者先例与系列**：库内已有该作者 2 部（《点与线的推理游戏》《星期五的神隐儿》，`genre` 皆记本格推理、`school` 记 `orthodox-school`＋`trick-school`）；`series`／`detective` 据书名所记的「阎魔堂沙罗」填写。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-019",
+    "title": "偶然听到的话",
+    "originalTitle": "",
+    "author": "长冈弘树",
+    "authorEn": "Nagaoka Hiroki",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "psychological-misdirection"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "police-procedural"
+    ],
+    "safeSummary": "长冈弘树的短篇集（台湾时报文化「蓝小说」2015）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "长冈弘树的读者",
+        "喜欢日常之谜短篇的读者"
+      ],
+      "watchFor": [
+        "那句话是谁说的、说给谁听",
+        "听见的人为什么记了那么久"
+      ],
+      "warning": "短篇集，各篇独立；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：长冈弘树著，时报文化出版企业股份有限公司 2015，ISBN 978-957-13-6219-9，205 页，丛编「**蓝小说**」，**学科主题词「推理小说 小说集 日本 现代 ; 短篇小说 小说集 日本 现代」**（**①档**），中图法 `I313.45`。**作者先例**：库内已有该作者 2 部（《教场》`opac151-008`、《向阳处的谎言`opac154-014`，同属时报文化「蓝小说」台版），本条 `genre`／`school` 沿用《向阳处的谎言》的既例。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac156-020",
+    "title": "狐者异",
+    "originalTitle": "",
+    "author": "畠中惠",
+    "authorEn": "Hatakenaka Megumi",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "娑婆气系列",
+    "detective": "一太郎",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "legend-folklore",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "畠中惠的「娑婆气」系列一册（南海出版公司「新经典文库」2011）：馆藏提要列出六篇，其中一篇与书名同题。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢江户题材与妖怪故事的读者",
+        "畠中惠的读者"
+      ],
+      "watchFor": [
+        "六篇里各自的那桩怪事",
+        "一太郎身边那几位「看不见的」同伴"
+      ],
+      "warning": "江户题材短篇集；含妖怪与命案描写，基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：畠中惠著，南海出版公司 2011，ISBN 978-7-5442-5001-6，321 页，丛编「**娑婆气/新经典文库**」，**学科主题词「推理小说 作品集 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书收录了《狐者异》、《包装纸》、《移动的影子》、《烟花巷》、《多余的鸣家》和《箱根旅行记》六篇推理小说。」——**篇目照著录抄录**，梗概不涉情节。`series` 记「娑婆气系列」、`detective` 记一太郎系据丛编名与该系列的主角设定填写；**一处如实标注**：库内**尚无该系列其它册**，本册是其中一本（缺口记在台账 §156.3）。**新作者**：库内无该作者；`authorEn` 记 `Hatakenaka Megumi`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-236-opac.json",
+      "ratingsNote": "本批二十册里大半是 1988–2012 年的旧译本（豆瓣上多数没有独立条目），其余各册的豆瓣条目页本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  }
+]

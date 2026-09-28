@@ -21,6 +21,10 @@
  *   node scripts/near-dup-scan.mjs                  # 全库自查（同一位作者的书名两两比对）
  *   node scripts/near-dup-scan.mjs --pool _dd/x.tsv [--col 1] [--author-col 2]
  *                                                   # 候选池 vs 库内（池内题名在第 1 列，作者在第 2 列）
+ *   node scripts/near-dup-scan.mjs --since data/books/batch-236-opac.json
+ *                                                   # **只扫某个批次文件里新收的册次**（本轮新增，§155 待办②）：
+ *                                                   # 把它们逐条与**库内其它条目**比一遍，看看有没有
+ *                                                   # 「刚收的这一册其实库里早有另一个译名」
  *   node scripts/near-dup-scan.mjs --min 0.62       # 调整阈值（默认 0.62）
  */
 import { readFileSync, readdirSync } from 'node:fs';
@@ -33,6 +37,7 @@ const arg = (k, d) => {
 };
 const MIN = Number(arg('--min', '0.62'));
 const POOL = arg('--pool', '');
+const SINCE = arg('--since', '');
 const COL = Number(arg('--col', '1')) - 1;
 const ACOL = Number(arg('--author-col', '2')) - 1;
 
@@ -75,7 +80,23 @@ for (const f of files) {
 console.log(`全库 ${books.length} 部（${files.length} 个文件），阈值 ${MIN}`);
 
 const hits = [];
-if (POOL) {
+if (SINCE) {
+  /**
+   * `--since <批次文件>`：把**该文件里的册次**逐条与**其它文件里的条目**比。
+   * 用来在收完一轮之后自查「刚收的这册，库里是不是早有另一个译名／另一种写法」——
+   * 这正是 §155 那五组（万能鉴定士Q … Vol.N）该被自动拦下的场景。
+   */
+  const fresh = JSON.parse(readFileSync(SINCE, 'utf8'));
+  for (const b of fresh) {
+    for (const other of books) {
+      if (other._file === SINCE.replace(/^data\/books\//, '')) continue;
+      if (!sameAuthor(b.author, other.author)) continue;
+      const s = sim(b.title, other.title);
+      if (s >= MIN) hits.push({ s, poolTitle: b.title, poolAuthor: b.author, title: other.title, author: other.author, file: other._file });
+    }
+  }
+  console.log(`批次 ${SINCE}：${fresh.length} 册 → 与库内其它条目命中 ${hits.length} 组`);
+} else if (POOL) {
   const rows = readFileSync(POOL, 'utf8').split(/\r?\n/).filter(Boolean).map((l) => l.split('\t'));
   const head = rows[0];
   const body = /题名|title/.test(head[COL] || '') ? rows.slice(1) : rows;
