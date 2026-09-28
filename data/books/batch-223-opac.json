@@ -1,0 +1,239 @@
+[
+  {
+    "id": "opac141-001",
+    "title": "小异邦人",
+    "originalTitle": "小さな異邦人",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "narrative-trick",
+      "passion",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "连城三纪彦的八篇短篇（《指环》《无人车站》《直到兰花凋零》《冬蔷薇》《风的误算》《白雨》《直到尽头》《小异邦人》）。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": 1538,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35703286/",
+        "subjectId": "35703286",
+        "edition": "小异邦人 2022",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "短篇推理的读者"
+      ],
+      "watchFor": [
+        "每篇里「谁在讲」的位置",
+        "结尾那处反转落在谁身上"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经**豆瓣丛书页**渠道发现）：连城三纪彦著，吕灵芝译，北京时代华文书局 2022，ISBN 978-7-5699-4492-1，**学科主题词「短篇小说 小说集 日本 现代」**，中图法 `I313.45`；**馆藏提要直接列出八篇篇名**，梗概即据此。**原作名与评分**：豆瓣同版条目 `subject/35703286`（ISBN 9787569944921 —— 与馆藏同一号）给出 `小さな異邦人`、**7.4** 分／1538 人评价。**库内已有该作者 10 部**（《一朵桔梗花》《鼠之夜》《宵待草夜情》等），写法沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-223-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac141-002",
+    "title": "拿破仑狂",
+    "originalTitle": "ナポレオン狂",
+    "author": "阿刀田高",
+    "authorEn": "Atoda Takashi",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "阿刀田高作品集",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "psychological-misdirection",
+      "curiosity",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "阿刀田高的短篇集（直木奖获奖作）：日常的壳子底下藏着说不通的东西，读到最后总有一处让人背脊发凉。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.4。",
+        "score": 8.4,
+        "count": 1548,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/21690242/",
+        "subjectId": "21690242",
+        "edition": "拿破仑狂 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "短篇怪奇与推理交界的读者",
+        "阿刀田高的读者"
+      ],
+      "watchFor": [
+        "每一篇里「日常」裂开的那条缝",
+        "叙述者自己的位置"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：阿刀田高著，吴鸿春译，上海译文出版社 2013，ISBN 978-7-5327-6088-6，231 页，**学科主题词「短篇小说 小说集 日本 现代」**，中图法 `I313.45`。**原作名与评分**：豆瓣同版条目 `subject/21690242`（上海译文出版社 2013-5，ISBN 9787532760886 —— 与馆藏同一号，丛编「阿刀田高作品集」）给出 `ナポレオン狂`、**8.4** 分／1548 人评价。**体裁判据**：阿刀田高的短篇以「日常中的怪」著称，库内已有其同类作品，本条 `genre` 记「变格」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与作者风格层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-223-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac141-003",
+    "title": "百舌呐喊的夜晚",
+    "originalTitle": "百舌の叫ぶ夜",
+    "author": "逢坂刚",
+    "authorEn": "Osaka Go",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "百舌系列",
+    "detective": "百舌",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment",
+      "series-detective"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一册以职业杀手「百舌」为主角的硬派长篇：追的人与被追的人，都按各自的规矩行事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 1407,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6719708/",
+        "subjectId": "6719708",
+        "edition": "百舌呐喊的夜晚 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬派犯罪小说的读者",
+        "逢坂刚的读者"
+      ],
+      "watchFor": [
+        "「百舌」这个代号的来路",
+        "几条追捕线各自的规矩"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；经豆瓣丛书页渠道发现）：逢坂刚著，薛军译，新星出版社 2011，ISBN 978-7-5133-0343-9，281 页，**学科主题词「长篇小说 日本 当代」**，中图法 `I313.45`。**原作名与评分**：豆瓣同版条目 `subject/6719708`（新星出版社 2011-7，ISBN 9787513303439 —— 与馆藏同一号；丛编「午夜文库·日系佳作：逢坂刚作品」）给出 `百舌の叫ぶ夜`、**7.8** 分／1407 人评价。**判据**：丛编为推理专门书系 + 条目页给出系列与主角 + 库内无该作者作品（本条为其入库首部）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与系列层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-223-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
