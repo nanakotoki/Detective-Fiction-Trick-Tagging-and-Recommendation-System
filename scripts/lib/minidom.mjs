@@ -85,6 +85,8 @@ export class Element {
     this._listeners = new Map();
     this._innerHTML = '';
     this._value = '';
+    /** 是否用 `el.value = x` 显式设过（决定 value 走属性还是走标签默认值，见下面的 getter） */
+    this._valueSet = false;
     this._checked = false;
     this.classList = new ClassList(this);
     this.dataset = new Proxy(
@@ -261,10 +263,22 @@ export class Element {
 
   /* ---------- 表单 ---------- */
 
+  /**
+   * `value` 的属性语义（第 123 轮修）。
+   *
+   * HTML 里 `value="…"` 属性只是**默认值**（defaultValue）：一旦用 `el.value = x`
+   * 显式设过，此后读到的就是设进去的那个值，**哪怕设成空串**。
+   *
+   * 旧写法 `this._value || this.attributes.value` 把空串当成「没设过」，
+   * 于是 `input.value = ''` 之后 `input.value` 又变回标签上的默认值——
+   * 「清空搜索框」在测试里等于没清。真实浏览器不是这样，这个偏差会**掩盖真 bug**：
+   * 知识库的「刷新之后搜索框里总有旧关键词」就是被它挡在测试之外的。
+   */
   get value() {
-    return this._value || this.attributes.value || '';
+    return this._valueSet ? this._value : this.attributes.value || '';
   }
   set value(v) {
+    this._valueSet = true;
     this._value = String(v ?? '');
   }
   get checked() {
@@ -667,9 +681,29 @@ export function installDom(options = {}) {
     Object.defineProperty(globalThis, name, { value, configurable: true, writable: true });
   };
 
+  /**
+   * `history` 桩（第 123 轮补）。
+   *
+   * 知识库视图的 `syncUrl()` 用 `history.replaceState` 把筛选写回地址栏——
+   * **不加历史记录、也不触发 `hashchange`**（浏览器语义如此，正因如此才不会
+   * 「敲一个字整页重绘一次」）。桩必须照这个语义来：只改 `location.hash`，
+   * 不派发事件；否则测试里的行为与真机不一致，测了等于没测。
+   */
+  win.history = {
+    replaceState(_state, _title, url) {
+      if (typeof url === 'string' && url.includes('#')) win.location.hash = url.slice(url.indexOf('#'));
+    },
+    pushState(_state, _title, url) {
+      if (typeof url === 'string' && url.includes('#')) win.location.hash = url.slice(url.indexOf('#'));
+    },
+    back() {},
+    forward() {},
+  };
+
   define('document', doc);
   define('window', win);
   define('location', win.location);
+  define('history', win.history);
   define('navigator', { clipboard: { writeText: async () => {} } });
   define('localStorage', win.localStorage);
   define('MutationObserver', class {

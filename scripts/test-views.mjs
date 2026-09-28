@@ -543,6 +543,45 @@ await openLibrarySearch('阿加莎·克里斯蒂');
   );
 }
 
+/* ---- 搜索框与 URL 的一致性（第 123 轮修的真实反馈）----
+   反馈原话：「每次刷新之后，知识库的搜索框都是佩尔」。
+   根因有两条，测试各盯一条：
+     ① 只在「点排序按钮」时写 URL，改完搜索词却不写——于是 URL 里留着一个过期的
+        `q`，读者清掉搜索框、点「清空筛选」之后，一刷新又被 `route.params` 填回来；
+     ② 浏览器的表单状态恢复也会把上一次在这个框里输入过的词填回来，故搜索框必须
+        `autocomplete="off"`。
+   这里用「改完筛选 → 再派发一次 hashchange（等价于刷新后的重新路由）」
+   来复现：如果 URL 没同步干净，重新路由就会把旧关键词装回输入框。 */
+{
+  await openLibrarySearch('佩尔');
+  const box = dom.document.querySelector('#lib-search');
+  check('带 q 打开知识库时搜索框回填该词', box.value === '佩尔', box.value || '（空）');
+  check('搜索框禁用浏览器自动填充', box.getAttribute('autocomplete') === 'off', box.getAttribute('autocomplete') ?? '（无该属性）');
+
+  // ① 清空搜索框：URL 里的 q 必须一起消失
+  box.value = '';
+  box.dispatchEvent({ type: 'input' });
+  await dom.settle(120);
+  check('清空搜索框后 URL 不再带 q', !/q=/.test(dom.window.location.hash), dom.window.location.hash);
+
+  // ② 点「清空筛选」：URL 必须整个清干净，且重新路由后搜索框仍是空的
+  await openLibrarySearch('佩尔');
+  dom.document.querySelector('#lib-reset').click();
+  await dom.settle(120);
+  check('「清空筛选」后 URL 里没有任何筛选参数', dom.window.location.hash === '#/library', dom.window.location.hash);
+
+  dom.window.dispatchEvent({ type: 'hashchange' }); // 等价于刷新后的重新路由
+  await dom.settle(220);
+  const after = dom.document.querySelector('#lib-search');
+  check('重新路由（刷新）后搜索框不再出现旧关键词', (after?.value ?? '') === '', after?.value || '（空）');
+
+  // ③ 输入关键词后 URL 也要立刻跟上（否则下一次刷新会退回上一个词）
+  after.value = '密室';
+  after.dispatchEvent({ type: 'input' });
+  await dom.settle(120);
+  check('输入关键词后 URL 同步为当前词', /q=%E5%AF%86%E5%AE%A4|q=密室/.test(dom.window.location.hash), dom.window.location.hash);
+}
+
 await openLibrarySorted('rating');
 const totalCount = resultCount();let cards = readCards();
 check('按评分排名时渲染出卡片', cards.length > 0, `${cards.length} 张`);

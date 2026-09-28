@@ -128,7 +128,19 @@ export async function render(ctx) {
 
     <div class="card tight mb-4">
       <div class="search-bar" style="margin-bottom:var(--space-3)">
-        <input type="search" id="lib-search" placeholder="搜索书名、作者、系列、梗概或标签…" value="${state.keyword}" />
+        ${/*
+          搜索框：`autocomplete="off"` 是必要的——浏览器会自作主张地把上一次
+          在这个框里输入过的词在整页刷新后填回来，于是「刷新之后搜索框里总有
+          一个我没输的词」这种反馈会一直出现（真机上遇到过）。
+          真正的状态来源是 URL 里的 `q`，由 syncUrl 负责同步。
+        */ ''}
+        <input
+          type="search"
+          id="lib-search"
+          autocomplete="off"
+          placeholder="搜索书名、作者、系列、梗概或标签…"
+          value="${state.keyword}"
+        />
         <button type="button" class="btn btn-sm" id="lib-reset">清空筛选</button>
       </div>
 
@@ -247,6 +259,15 @@ export async function render(ctx) {
    * 任何一次路由重渲染（hashchange、敏感模式切换）都会用
    * `route.params` 重新初始化 state，把用户的排序/筛选悄悄抹掉。
    * 顺带的好处是排序结果可以直接分享、收藏。
+   *
+   * ⚠️ **必须用 `history.replaceState`**（第 123 轮修）：
+   *   · 直接写 `location.hash` 会触发 `hashchange` → 整个视图重绘一次，
+   *     搜索框每敲一个字就重绘一次会丢焦点；
+   *   · 更要紧的是**只在「点排序按钮」时写 URL、改完搜索词却不写**，
+   *     URL 里就会留着一个过期的 `q`：读者清了搜索框或点「清空筛选」，
+   *     URL 仍旧写着旧词，一刷新搜索框又被填回那个词
+   *     （真实反馈：「每次刷新之后知识库的搜索框都是佩尔」）。
+   *     所以现在**每个改变筛选的动作都同步 URL**，两边不再可能不一致。
    */
   function syncUrl() {
     const params = new URLSearchParams();
@@ -257,7 +278,13 @@ export async function render(ctx) {
     if (state.sort && state.sort !== DEFAULT_SORT) params.set('sort', state.sort);
     const query = params.toString();
     const next = `#/library${query ? `?${query}` : ''}`;
-    if (location.hash !== next) location.hash = next;
+    if (location.hash === next) return;
+    // replaceState 只改地址栏、不加历史记录，也不触发 hashchange（因此不会重绘）
+    if (typeof history !== 'undefined' && typeof history.replaceState === 'function') {
+      history.replaceState(null, '', next);
+    } else {
+      location.hash = next;
+    }
   }
 
   /** 渲染标签筛选器 */
@@ -442,6 +469,8 @@ export async function render(ctx) {
     state.keyword = searchEl.value;
     state.page = 1;
     renderResults();
+    // 改完立刻同步 URL：否则清了搜索框而 URL 里还留着旧词，一刷新又被填回来
+    syncUrl();
   });
   // 排序按钮组：点击即切换，同步选中态并写回 URL
   on(sortEl, 'click', (event) => {
@@ -459,6 +488,7 @@ export async function render(ctx) {
     state.genre = genreEl.value;
     state.page = 1;
     renderResults();
+    syncUrl();
   });
 
   /**
@@ -480,6 +510,7 @@ export async function render(ctx) {
     state.origin = originEl.value;
     state.page = 1;
     renderResults();
+    syncUrl();
   });
   on(qs('#lib-tags'), 'click', (event) => {
     const id = event.target.closest('[data-tag]')?.dataset.tag;
@@ -488,6 +519,7 @@ export async function render(ctx) {
     state.page = 1;
     renderTagFilter();
     renderResults();
+    syncUrl();
   });
   on(qs('#lib-reset'), 'click', () => {
     state.keyword = '';
@@ -503,6 +535,8 @@ export async function render(ctx) {
     syncSortChips();
     renderTagFilter();
     renderResults();
+    // 关键：URL 也要一起清干净，否则刷新之后这些筛选会被 route.params 装回来
+    syncUrl();
   });
   on(resultsEl, 'click', (event) => {
     if (event.target.closest('#lib-more')) {
