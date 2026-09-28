@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T13:19:39.769Z",
+  "generatedAt": "2026-09-28T13:22:35.434Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3228,
-    "dataFiles": 223,
+    "books": 3231,
+    "dataFiles": 224,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3228,
-    "withPlatformRating": 2475
+    "withSafeSummary": 3231,
+    "withPlatformRating": 2478
   },
   "tagDistribution": [
     {
@@ -34,7 +34,7 @@
         {
           "id": "narrative-trick",
           "label": "叙述性诡计",
-          "books": 106
+          "books": 107
         },
         {
           "id": "timetable",
@@ -44,7 +44,7 @@
         {
           "id": "faceless-corpse",
           "label": "无面尸",
-          "books": 51
+          "books": 52
         },
         {
           "id": "vanished-weapon",
@@ -59,7 +59,7 @@
         {
           "id": "multiple-solutions",
           "label": "多重解答",
-          "books": 707
+          "books": 708
         },
         {
           "id": "psychological-misdirection",
@@ -69,7 +69,7 @@
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1343
+          "books": 1344
         },
         {
           "id": "swap-murder",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 548
+          "books": 549
         },
         {
           "id": "diary-form",
@@ -153,7 +153,7 @@
         {
           "id": "mansion",
           "label": "洋馆",
-          "books": 225
+          "books": 226
         },
         {
           "id": "train",
@@ -225,7 +225,7 @@
         {
           "id": "passion",
           "label": "情杀",
-          "books": 73
+          "books": 74
         },
         {
           "id": "silencing",
@@ -240,17 +240,17 @@
         {
           "id": "obsession",
           "label": "执念",
-          "books": 224
+          "books": 225
         },
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 392
+          "books": 393
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1646
+          "books": 1648
         },
         {
           "id": "fear",
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 158
+          "books": 159
         }
       ]
     },
@@ -339,22 +339,22 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 790
+          "books": 792
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1100
+          "books": 1102
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 1939
+          "books": 1942
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 579
+          "books": 580
         },
         {
           "id": "police-procedural",
@@ -379,7 +379,7 @@
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 778
+          "books": 779
         },
         {
           "id": "spy-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3228
+    "checkedBooks": 3231
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

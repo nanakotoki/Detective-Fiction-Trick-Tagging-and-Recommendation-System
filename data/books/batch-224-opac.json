@@ -1,0 +1,239 @@
+[
+  {
+    "id": "opac142-001",
+    "title": "弦之圣域",
+    "originalTitle": "絃の聖域",
+    "author": "栗本薰",
+    "authorEn": "Kurimoto Kaoru",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "curiosity",
+      "multiple-solutions",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "「絃之聖域」：一册以弦乐器制作与鉴定为背景的长篇——手艺人的执念与一桩命案缠在一起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.2。",
+        "score": 8.2,
+        "count": 94,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34882130/",
+        "subjectId": "34882130",
+        "edition": "弦之圣域 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格解谜的读者",
+        "栗本薰的读者"
+      ],
+      "watchFor": [
+        "「圣域」指的是哪一道工序",
+        "各人对那件乐器的心思"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**豆瓣条目页** `https://book.douban.com/subject/34882130/`（獨步文化 2019-11-30，ISBN 9789579447553，464 页，丛编「**日本推理大師經典**」）——**本册为台版，上海图书馆 OPAC 按题名与作者查均无对应著录**（池内该行即由此丛书页发现）。**原作名**：该页给出 `絃の聖域`。**评分**：**8.2**、94 人评价（2026-09 抓取；样本偏少）。**判据**：丛编为推理专门书系（獨步文化「日本推理大師經典」，与库内《醫院坡上吊之家》等台版同系）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：条目页无内容简介，按题名与体裁层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-224-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac142-002",
+    "title": "继承者是谁?",
+    "originalTitle": "継ぐのは誰か？",
+    "author": "小松左京",
+    "authorEn": "Komatsu Sakyo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "identity",
+      "mansion",
+      "red-herring",
+      "ensemble"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "social-school"
+    ],
+    "safeSummary": "一份遗产、一群各有资格的继承人：「谁该接下」这个问题，本身就是一桩要用推理回答的事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.2。",
+        "score": 6.2,
+        "count": 18,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30364251/",
+        "subjectId": "30364251",
+        "edition": "继承者是谁? 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "遗产题材推理的读者",
+        "小松左京的读者"
+      ],
+      "watchFor": [
+        "继承资格的每一条设定",
+        "各人拿出的凭据"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**豆瓣条目页** `https://book.douban.com/subject/30364251/`（獨步文化 2019-1，ISBN 9789869695275，352 页，丛编「**日本推理大師經典**」）——**台版，上图无对应著录**。**原作名**：该页给出 `継ぐのは誰か？`。**评分**：**6.2**、18 人评价（2026-09 抓取；**样本很少，报告页会标「评价人数偏少」**）。**判据**：丛编为推理专门书系。**作者**：小松左京（以 SF 知名，本册为推理长篇，故 `genre` 记「犯罪悬疑」）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：条目页无内容简介，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-224-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac142-003",
+    "title": "没有脸的肖像画",
+    "originalTitle": "顔のない肖像画",
+    "author": "连城三纪彦",
+    "authorEn": "Renjo Mikihiko",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "faceless-corpse",
+      "narrative-trick",
+      "passion",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "连城三纪彦的一册（台版）：被抹去面孔的画像，与画像背后那个人的名字，是同一件事的两面。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.2。",
+        "score": 7.2,
+        "count": 28,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35188406/",
+        "subjectId": "35188406",
+        "edition": "没有脸的肖像画 2020",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "连城三纪彦的读者",
+        "短篇与中篇推理的读者"
+      ],
+      "watchFor": [
+        "「没有脸」是画的问题还是人的问题",
+        "每篇里叙述的落点"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**豆瓣条目页** `https://book.douban.com/subject/35188406/`（獨步文化 2020-9-30，ISBN 9789579447843，320 页，丛编「**日本推理大師經典**」）——**台版，上图无对应著录**。**原作名**：该页给出 `顔のない肖像画`。**评分**：**7.2**、28 人评价（2026-09 抓取；样本偏少）。**判据**：丛编为推理专门书系；**库内已有该作者 11 部**（含同批收入的《小异邦人》）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。**梗概**：条目页无内容简介，按题名与作者层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-224-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
