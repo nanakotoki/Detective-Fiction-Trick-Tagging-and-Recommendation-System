@@ -4,7 +4,7 @@
     "title": "蔷薇犯罪事件",
     "originalTitle": "",
     "author": "鬼马星",
-    "authorEn": "",
+    "authorEn": "Gui Ma Xing",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "莫兰系列",
@@ -74,7 +74,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「（空）」，与库内同一作者（鬼马星）的多数写法「Gui Ma Xing」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-51-thin-authors.json",
@@ -86,7 +86,7 @@
     "title": "木锡镇",
     "originalTitle": "",
     "author": "鬼马星",
-    "authorEn": "",
+    "authorEn": "Gui Ma Xing",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "莫兰系列",
@@ -156,7 +156,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「（空）」，与库内同一作者（鬼马星）的多数写法「Gui Ma Xing」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-51-thin-authors.json",
@@ -415,7 +415,7 @@
     "title": "幽灵列车",
     "originalTitle": "幽霊列車",
     "author": "赤川次郎",
-    "authorEn": "Akagawa Jiro",
+    "authorEn": "Jiro Akagawa",
     "genre": "本格推理",
     "firstPublished": "1976",
     "series": "",
@@ -487,7 +487,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Akagawa Jiro」，与库内同一作者（赤川次郎）的多数写法「Jiro Akagawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,现代出版社:,2015（幽灵列车／(日) 赤川次郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -501,7 +501,7 @@
     "title": "三毛猫追踪",
     "originalTitle": "三毛猫ホームズの追跡",
     "author": "赤川次郎",
-    "authorEn": "Akagawa Jiro",
+    "authorEn": "Jiro Akagawa",
     "genre": "本格推理",
     "firstPublished": "1980",
     "series": "三毛猫福尔摩斯系列",
@@ -568,7 +568,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Akagawa Jiro」，与库内同一作者（赤川次郎）的多数写法「Jiro Akagawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-51-thin-authors.json",
@@ -666,7 +666,7 @@
     "title": "红楼梦杀人事件",
     "originalTitle": "紅楼夢殺人事件",
     "author": "芦边拓",
-    "authorEn": "Ashibe Toru",
+    "authorEn": "Taku Ashibe",
     "genre": "本格推理",
     "firstPublished": "2004",
     "series": "",
@@ -738,7 +738,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Ashibe Toru」，与库内同一作者（芦边拓）的多数写法「Taku Ashibe」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 2008（馆藏题名「红楼梦杀人事件」／芦边拓）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -752,7 +752,7 @@
     "title": "密室之门",
     "originalTitle": "密室の扉",
     "author": "清凉院流水",
-    "authorEn": "Suzumiya Seiryu",
+    "authorEn": "Rui Seiryoin",
     "genre": "本格推理",
     "firstPublished": "2002",
     "series": "JDC 系列",
@@ -823,7 +823,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Suzumiya Seiryu」，与库内同一作者（清凉院流水）的多数写法「Rui Seiryoin」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长沙 湖南人民出版社 2012（馆藏题名「密室之门」／清凉院流水）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1004,7 +1004,7 @@
     "title": "泪香迷宫",
     "originalTitle": "涙香迷宮",
     "author": "竹本健治",
-    "authorEn": "Takemoto Kenji",
+    "authorEn": "Kenji Takemoto",
     "genre": "本格推理",
     "firstPublished": "2015",
     "series": "",
@@ -1076,7 +1076,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Takemoto Kenji」，与库内同一作者（竹本健治）的多数写法「Kenji Takemoto」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-51-thin-authors.json",

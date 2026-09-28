@@ -1004,7 +1004,7 @@
     "title": "乱步侦探作品集1",
     "originalTitle": "",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "本格推理",
     "firstPublished": "2002",
     "series": "乱步侦探作品集",
@@ -1074,7 +1074,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 1」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1088,7 +1088,7 @@
     "title": "乱步侦探作品集4",
     "originalTitle": "",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "2002",
     "series": "乱步侦探作品集",
@@ -1158,7 +1158,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：珠海 珠海出版社 2002（馆藏题名「乱步侦探作品集 4」／江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1255,7 +1255,7 @@
     "title": "消失的断章",
     "originalTitle": "消えた断章",
     "author": "深木章子",
-    "authorEn": "Miki Akiko",
+    "authorEn": "Akiko Fukagi",
     "genre": "本格推理",
     "firstPublished": "2023",
     "series": "",
@@ -1327,7 +1327,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Miki Akiko」，与库内同一作者（深木章子）的多数写法「Akiko Fukagi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 台海出版社 2023（馆藏题名「消失的断章」／深木章子）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

@@ -239,7 +239,7 @@
     "title": "少女的复仇",
     "originalTitle": "",
     "author": "誉田哲也",
-    "authorEn": "Honda Tetsuya",
+    "authorEn": "Tetsuya Honda",
     "genre": "犯罪悬疑",
     "firstPublished": "",
     "editionYear": "2017",
@@ -306,7 +306,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I313.456*` 发现）：誉田哲也著，现代出版社 2017。**判据**：①索书号／中图分类 `I313.456`——**日本侦探／推理小说的专门分类号**；②馆藏提要写明「日本著名作家的**长篇推理小说**……一经推出在日本引起巨大反响，后改编成电视剧」。**补作者缺口**：作者库内已有《武士道十六岁》。**年份字段说明**：`editionYear` 记所引中译本 2017；`firstPublished` **留空**（原题名与首版年未核实）。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举 `I313.456*` 发现）：誉田哲也著，现代出版社 2017。**判据**：①索书号／中图分类 `I313.456`——**日本侦探／推理小说的专门分类号**；②馆藏提要写明「日本著名作家的**长篇推理小说**……一经推出在日本引起巨大反响，后改编成电视剧」。**补作者缺口**：作者库内已有《武士道十六岁》。**年份字段说明**：`editionYear` 记所引中译本 2017；`firstPublished` **留空**（原题名与首版年未核实）。 **authorEn 归一（第 143 轮）**：本条原记「Honda Tetsuya」，与库内同一作者（誉田哲也）的多数写法「Tetsuya Honda」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-144-clc.json",
@@ -318,7 +318,7 @@
     "title": "神苦乐岛",
     "originalTitle": "",
     "author": "内田康夫",
-    "authorEn": "Uchida Yasuo",
+    "authorEn": "Yasuo Uchida",
     "genre": "本格推理",
     "firstPublished": "",
     "editionYear": "2013",
@@ -386,7 +386,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**新作者**，本轮**一次补入其 3 部**。**如实标注**：全书提要仅一句体裁说明、**未给情节**，故 `safeSummary` 只登记书目信息，**未编造情节**。**年份字段说明**：`editionYear` 记所引中译本 2013；`firstPublished` **留空**。 **诡计类标签补充（第 72 轮）**：据本库阅读提示「岛上与外界隔绝的环境」补标 closed-circle（孤岛断绝交通，是典型的封闭空间格局）。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**新作者**，本轮**一次补入其 3 部**。**如实标注**：全书提要仅一句体裁说明、**未给情节**，故 `safeSummary` 只登记书目信息，**未编造情节**。**年份字段说明**：`editionYear` 记所引中译本 2013；`firstPublished` **留空**。 **诡计类标签补充（第 72 轮）**：据本库阅读提示「岛上与外界隔绝的环境」补标 closed-circle（孤岛断绝交通，是典型的封闭空间格局）。 **authorEn 归一（第 143 轮）**：本条原记「Uchida Yasuo」，与库内同一作者（内田康夫）的多数写法「Yasuo Uchida」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-144-clc.json",
@@ -398,7 +398,7 @@
     "title": "平家传说事件",
     "originalTitle": "",
     "author": "内田康夫",
-    "authorEn": "Uchida Yasuo",
+    "authorEn": "Yasuo Uchida",
     "genre": "本格推理",
     "firstPublished": "",
     "editionYear": "2013",
@@ -465,7 +465,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**如实标注**：提要仅一句体裁说明，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2013；`firstPublished` **留空**。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**如实标注**：提要仅一句体裁说明，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2013；`firstPublished` **留空**。 **authorEn 归一（第 143 轮）**：本条原记「Uchida Yasuo」，与库内同一作者（内田康夫）的多数写法「Yasuo Uchida」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-144-clc.json",
@@ -477,7 +477,7 @@
     "title": "风中的樱香",
     "originalTitle": "",
     "author": "内田康夫",
-    "authorEn": "Uchida Yasuo",
+    "authorEn": "Yasuo Uchida",
     "genre": "本格推理",
     "firstPublished": "",
     "editionYear": "2013",
@@ -544,7 +544,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**如实标注**：提要仅一句体裁说明，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2013；`firstPublished` **留空**。"
+      "source": "书目取自**对外经贸大学图书馆 OPAC**（经中图法整类枚举发现）：内田康夫著，群众出版社 2013。**判据**：①索书号／中图分类 `I313.456`；②馆藏提要写明「本书为日本现代**侦探推理小说**」。**如实标注**：提要仅一句体裁说明，`safeSummary` **未编造情节**。**年份字段说明**：`editionYear` 记 2013；`firstPublished` **留空**。 **authorEn 归一（第 143 轮）**：本条原记「Uchida Yasuo」，与库内同一作者（内田康夫）的多数写法「Yasuo Uchida」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-144-clc.json",

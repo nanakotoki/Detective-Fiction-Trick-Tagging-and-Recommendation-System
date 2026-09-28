@@ -4,7 +4,7 @@
     "title": "心理测验",
     "originalTitle": "心理試験",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "本格推理",
     "firstPublished": "1925",
     "series": "",
@@ -74,7 +74,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -86,7 +86,7 @@
     "title": "镜子地狱",
     "originalTitle": "鏡地獄",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "1926",
     "series": "",
@@ -156,7 +156,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：西安:,陕西人民出版社:,2023（镜子地狱／(日) 江户川乱步）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -170,7 +170,7 @@
     "title": "黄金面具",
     "originalTitle": "黄金仮面",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "冒险悬疑",
     "firstPublished": "",
     "series": "少年侦探团系列",
@@ -241,7 +241,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空 **同书异名登记（第 121 轮）**：候选《金色面具》（群众出版社 1999，ISBN 7-5014-2046-7）与库内本条同作：「金色／黄金」是「黄金仮面」的两种译法（本条 `originalTitle` 即 `黄金仮面`）。§71.3 已判过一次。**属判断**。"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空 **同书异名登记（第 121 轮）**：候选《金色面具》（群众出版社 1999，ISBN 7-5014-2046-7）与库内本条同作：「金色／黄金」是「黄金仮面」的两种译法（本条 `originalTitle` 即 `黄金仮面`）。§71.3 已判过一次。**属判断**。 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -256,7 +256,7 @@
     "title": "地狱的滑稽大师",
     "originalTitle": "地獄の道化師",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "1926",
     "series": "",
@@ -326,7 +326,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -338,7 +338,7 @@
     "title": "幽灵塔",
     "originalTitle": "幽霊塔",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "冒险悬疑",
     "firstPublished": "1937",
     "series": "",
@@ -409,7 +409,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -421,7 +421,7 @@
     "title": "青铜魔人",
     "originalTitle": "青銅の魔人",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "冒险悬疑",
     "firstPublished": "",
     "series": "少年侦探团系列",
@@ -492,7 +492,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对；原版首次出版年份未能核实，故留空 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -504,7 +504,7 @@
     "title": "女妖",
     "originalTitle": "女妖",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "1926",
     "series": "",
@@ -576,7 +576,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充（第 72 轮）**：据上图编目提要「后是村越在密闭的房间中被枪杀……所有人都有完美的不在场证明」补标 alibi、locked-room（密闭房间＋全员不在场证明，两个机制都由提要写明）。"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **诡计类标签补充（第 72 轮）**：据上图编目提要「后是村越在密闭的房间中被枪杀……所有人都有完美的不在场证明」补标 alibi、locked-room（密闭房间＋全员不在场证明，两个机制都由提要写明）。 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-40-edogawa.json",
@@ -588,7 +588,7 @@
     "title": "恐怖三角馆",
     "originalTitle": "三角館の恐怖",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "本格推理",
     "firstPublished": "1926",
     "series": "明智小五郎系列",
@@ -660,7 +660,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2016.01（恐怖三角馆／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -674,7 +674,7 @@
     "title": "影男",
     "originalTitle": "影男",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "冒险悬疑",
     "firstPublished": "1955",
     "series": "",
@@ -745,7 +745,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：济南:,山东画报出版社:,2022.03（影男／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

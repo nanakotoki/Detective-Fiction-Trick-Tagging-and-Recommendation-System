@@ -4,7 +4,7 @@
     "title": "死了七次的男人",
     "originalTitle": "七回死んだ男",
     "author": "西泽保彦",
-    "authorEn": "Yasuhiko Nishizawa",
+    "authorEn": "Nishizawa Yasuhiko",
     "genre": "本格推理",
     "firstPublished": "1995",
     "series": "",
@@ -72,7 +72,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yasuhiko Nishizawa」，与库内同一作者（西泽保彦）的多数写法「Nishizawa Yasuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2017（死了七次的男人／(日) 西泽保彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -86,7 +86,7 @@
     "title": "神的逻辑，人的魔法",
     "originalTitle": "神のロジック 人間のマジック",
     "author": "西泽保彦",
-    "authorEn": "Yasuhiko Nishizawa",
+    "authorEn": "Nishizawa Yasuhiko",
     "genre": "本格推理",
     "firstPublished": "2003",
     "series": "",
@@ -156,7 +156,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yasuhiko Nishizawa」，与库内同一作者（西泽保彦）的多数写法「Nishizawa Yasuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2010（馆藏题名「神的逻辑，人的魔法」／西泽保彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -170,7 +170,7 @@
     "title": "她死去的那一晚",
     "originalTitle": "彼女が死んだ夜",
     "author": "西泽保彦",
-    "authorEn": "Yasuhiko Nishizawa",
+    "authorEn": "Nishizawa Yasuhiko",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "",
@@ -238,7 +238,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yasuhiko Nishizawa」，与库内同一作者（西泽保彦）的多数写法「Nishizawa Yasuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-18-jp-new-wave.json",
@@ -250,7 +250,7 @@
     "title": "完美无缺的名侦探",
     "originalTitle": "完全無欠の名探偵",
     "author": "西泽保彦",
-    "authorEn": "Yasuhiko Nishizawa",
+    "authorEn": "Nishizawa Yasuhiko",
     "genre": "本格推理",
     "firstPublished": "1993",
     "series": "",
@@ -319,7 +319,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yasuhiko Nishizawa」，与库内同一作者（西泽保彦）的多数写法「Nishizawa Yasuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「完美无缺的名侦探」／西泽保彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -333,7 +333,7 @@
     "title": "少女",
     "originalTitle": "少女",
     "author": "凑佳苗",
-    "authorEn": "Kanae Minato",
+    "authorEn": "Minato Kanae",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "",
@@ -401,7 +401,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kanae Minato」，与库内同一作者（凑佳苗）的多数写法「Minato Kanae」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-18-jp-new-wave.json",
@@ -413,7 +413,7 @@
     "title": "往复书简",
     "originalTitle": "往復書簡",
     "author": "凑佳苗",
-    "authorEn": "Kanae Minato",
+    "authorEn": "Minato Kanae",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "",
@@ -480,7 +480,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kanae Minato」，与库内同一作者（凑佳苗）的多数写法「Minato Kanae」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 中信出版社 2011（馆藏题名「往复书简」／凑佳苗）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -494,7 +494,7 @@
     "title": "连续“杀人鬼”青蛙男",
     "originalTitle": "連続殺人鬼カエル男",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "",
@@ -562,7 +562,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：广州:,花城出版社:,2022.09（连续“杀人鬼”青蛙男／中山七里著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -576,7 +576,7 @@
     "title": "再见了，德彪西",
     "originalTitle": "さよならドビュッシー",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "",
@@ -643,7 +643,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2011（馆藏题名「再见了，德彪西」／中山七里）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -657,7 +657,7 @@
     "title": "赎罪奏鸣曲",
     "originalTitle": "贖罪の奏鳴曲",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "犯罪悬疑",
     "firstPublished": "2010",
     "series": "御子柴礼司系列",
@@ -725,7 +725,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-18-jp-new-wave.json",
@@ -737,7 +737,7 @@
     "title": "星咏师的记忆",
     "originalTitle": "星詠師の記憶",
     "author": "阿津川辰海",
-    "authorEn": "Tatsumi Atsukawa",
+    "authorEn": "Atsukawa Tatsumi",
     "genre": "本格推理",
     "firstPublished": "2019",
     "series": "",
@@ -805,7 +805,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tatsumi Atsukawa」，与库内同一作者（阿津川辰海）的多数写法「Atsukawa Tatsumi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 2024（馆藏题名「星咏师的记忆」／阿津川辰海）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -819,7 +819,7 @@
     "title": "透明人潜入密室",
     "originalTitle": "透明人間は密室に潜む",
     "author": "阿津川辰海",
-    "authorEn": "Tatsumi Atsukawa",
+    "authorEn": "Atsukawa Tatsumi",
     "genre": "本格推理",
     "firstPublished": "2019",
     "series": "",
@@ -888,7 +888,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tatsumi Atsukawa」，与库内同一作者（阿津川辰海）的多数写法「Atsukawa Tatsumi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京联合出版公司:,2022（透明人潜入密室／(日) 阿津川辰海著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1822,7 +1822,7 @@
     "title": "无止境的杀人",
     "originalTitle": "",
     "author": "宫部美雪",
-    "authorEn": "Miyuki Miyabe",
+    "authorEn": "Miyabe Miyuki",
     "genre": "社会派",
     "firstPublished": "",
     "series": "",
@@ -1891,7 +1891,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Miyuki Miyabe」，与库内同一作者（宫部美雪）的多数写法「Miyabe Miyuki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2013（馆藏题名「无止境的杀人」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

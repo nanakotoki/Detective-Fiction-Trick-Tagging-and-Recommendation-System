@@ -560,7 +560,7 @@
     "title": "隐身的复仇者",
     "originalTitle": "",
     "author": "芦边拓",
-    "authorEn": "Ashibe Taku",
+    "authorEn": "Taku Ashibe",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "非系列（中篇集）",
@@ -628,7 +628,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：芦边拓，海峡文艺出版社 2021（福州）。**推理属性判据**：**题名主题为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明两个故事「各自成章又隐秘交错」。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：芦边拓，海峡文艺出版社 2021（福州）。**推理属性判据**：**题名主题为「推理小说 小说集 日本 现代 ; 中篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明两个故事「各自成章又隐秘交错」。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2021。 **authorEn 归一（第 143 轮）**：本条原记「Ashibe Taku」，与库内同一作者（芦边拓）的多数写法「Taku Ashibe」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-119-opac2.json",
@@ -803,7 +803,7 @@
     "title": "推理竞技场",
     "originalTitle": "",
     "author": "深水黎一郎",
-    "authorEn": "Fukami Reiichiro",
+    "authorEn": "Reiichiro Fukami",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "非系列",
@@ -871,7 +871,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：深水黎一郎，新星出版社 2019。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明猜凶手节目的规则。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2019。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：深水黎一郎，新星出版社 2019。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明猜凶手节目的规则。**补作者缺口**：作者库内已有 2 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2019。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Fukami Reiichiro」，与库内同一作者（深水黎一郎）的多数写法「Reiichiro Fukami」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-119-opac2.json",
@@ -1045,7 +1045,7 @@
     "title": "原生之蔓",
     "originalTitle": "",
     "author": "葵田谷",
-    "authorEn": "Kuita Ya",
+    "authorEn": "Kui Tian Gu",
     "genre": "犯罪悬疑",
     "firstPublished": "2021",
     "series": "非系列",
@@ -1113,7 +1113,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：葵田谷，北京联合出版公司 2021。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明保姆失踪与目击者「心怀鬼胎」。**补作者缺口**：作者库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：葵田谷，北京联合出版公司 2021。**推理属性判据**：**题名主题为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类）；馆藏提要写明保姆失踪与目击者「心怀鬼胎」。**补作者缺口**：作者库内已有 1 部。**年份字段说明**：中文原创，`firstPublished` 记 2021，`editionYear` **留空**。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Kuita Ya」，与库内同一作者（葵田谷）的多数写法「Kui Tian Gu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-119-opac2.json",
@@ -2007,7 +2007,7 @@
     "title": "慈雨",
     "originalTitle": "",
     "author": "柚月裕子",
-    "authorEn": "Yuzuki Yuko",
+    "authorEn": "Yuko Yuzuki",
     "genre": "社会派",
     "firstPublished": "",
     "series": "非系列",
@@ -2075,7 +2075,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：柚月裕子，北京联合出版公司 2023。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明退休警官与十六年前旧案的呼应。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：柚月裕子，北京联合出版公司 2023。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 长篇小说 日本 现代」**（第①类）；馆藏提要写明退休警官与十六年前旧案的呼应。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2023。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Yuzuki Yuko」，与库内同一作者（柚月裕子）的多数写法「Yuko Yuzuki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-119-opac2.json",
@@ -2088,7 +2088,7 @@
     "title": "不要阻挡我",
     "originalTitle": "",
     "author": "真梨幸子",
-    "authorEn": "Mari Yukiko",
+    "authorEn": "Yukiko Mari",
     "genre": "犯罪悬疑",
     "firstPublished": "",
     "series": "非系列（短篇集）",
@@ -2156,7 +2156,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：真梨幸子，台海出版社 2022。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明六人聚会与各自的困境。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：真梨幸子，台海出版社 2022。**推理属性判据**：**题名主题为「推理小说 日本 现代 ; 短篇小说 小说集 日本 现代」**（第①类）；馆藏提要写明六人聚会与各自的困境。**补作者缺口**：作者库内已有 1 部。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2022。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Mari Yukiko」，与库内同一作者（真梨幸子）的多数写法「Yukiko Mari」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-119-opac2.json",

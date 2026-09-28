@@ -675,7 +675,7 @@
     "title": "满愿",
     "originalTitle": "満願",
     "author": "米泽穗信",
-    "authorEn": "Yonezawa Honobu",
+    "authorEn": "Honobu Yonezawa",
     "genre": "犯罪悬疑",
     "firstPublished": "2014",
     "series": "",
@@ -746,7 +746,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Yonezawa Honobu」，与库内同一作者（米泽穗信）的多数写法「Honobu Yonezawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2020（满愿／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -760,7 +760,7 @@
     "title": "书与钥匙的季节",
     "originalTitle": "本と鍵の季節",
     "author": "米泽穗信",
-    "authorEn": "Yonezawa Honobu",
+    "authorEn": "Honobu Yonezawa",
     "genre": "日常之谜",
     "firstPublished": "2018",
     "series": "",
@@ -829,7 +829,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Yonezawa Honobu」，与库内同一作者（米泽穗信）的多数写法「Honobu Yonezawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2022（书与钥匙的季节／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

@@ -167,7 +167,7 @@
     "title": "被录音的诱拐",
     "originalTitle": "録音された誘拐",
     "author": "阿津川辰海",
-    "authorEn": "Tatsumi Atsukawa",
+    "authorEn": "Atsukawa Tatsumi",
     "genre": "本格推理",
     "firstPublished": "2022",
     "series": "",
@@ -232,7 +232,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tatsumi Atsukawa」，与库内同一作者（阿津川辰海）的多数写法「Atsukawa Tatsumi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -554,7 +554,7 @@
     "title": "长屋杀人",
     "originalTitle": "長い家の殺人",
     "author": "歌野晶午",
-    "authorEn": "Sho Inoue",
+    "authorEn": "Utano Shogo",
     "genre": "本格推理",
     "firstPublished": "1988",
     "series": "",
@@ -624,7 +624,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Sho Inoue」，与库内同一作者（歌野晶午）的多数写法「Utano Shogo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -793,7 +793,7 @@
     "title": "开膛手杰克的告白",
     "originalTitle": "切り裂きジャックの告白",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "犯罪悬疑",
     "firstPublished": "2013",
     "series": "犬養隼人系列",
@@ -860,7 +860,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -872,7 +872,7 @@
     "title": "静奶奶与需护理侦探",
     "originalTitle": "静おばあちゃんと要介護探偵",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "日常之谜",
     "firstPublished": "2018",
     "series": "静奶奶系列",
@@ -935,7 +935,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -947,7 +947,7 @@
     "title": "月光游戏",
     "originalTitle": "月光ゲーム",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "1989",
     "series": "江神二郎系列",
@@ -1018,7 +1018,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2011（馆藏题名「月光游戏」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1032,7 +1032,7 @@
     "title": "瑞典馆之谜",
     "originalTitle": "スウェーデン館の謎",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "1995",
     "series": "火村英生系列",
@@ -1103,7 +1103,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（瑞典馆之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1117,7 +1117,7 @@
     "title": "巴西蝶之谜",
     "originalTitle": "ブラジル蝶の謎",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "1999",
     "series": "火村英生系列",
@@ -1181,7 +1181,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理 **又名补充**：上海译文出版社 2015.8 版（译者林敏生）题名作《巴西蝴蝶之谜》，馆藏 marc 0000306741 著录为「国名系列第三弹」，原作名同为 ブラジル蝶の謎，是同一部作品的另一种中译名，故记为「又名」而不另立条目。 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「上海译文出版社 2015.8」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+      "source": "整理者据公开出版信息整理 **又名补充**：上海译文出版社 2015.8 版（译者林敏生）题名作《巴西蝴蝶之谜》，馆藏 marc 0000306741 著录为「国名系列第三弹」，原作名同为 ブラジル蝶の謎，是同一部作品的另一种中译名，故记为「又名」而不另立条目。 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「上海译文出版社 2015.8」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -1275,7 +1275,7 @@
     "title": "鬼之跫音",
     "originalTitle": "鬼の跫音",
     "author": "道尾秀介",
-    "authorEn": "Shusuke Michio",
+    "authorEn": "Michio Shusuke",
     "genre": "犯罪悬疑",
     "firstPublished": "2009",
     "series": "",
@@ -1338,7 +1338,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shusuke Michio」，与库内同一作者（道尾秀介）的多数写法「Michio Shusuke」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",
@@ -1350,7 +1350,7 @@
     "title": "月之恋人",
     "originalTitle": "月の恋人",
     "author": "道尾秀介",
-    "authorEn": "Shusuke Michio",
+    "authorEn": "Michio Shusuke",
     "genre": "犯罪悬疑",
     "firstPublished": "2010",
     "series": "",
@@ -1417,7 +1417,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shusuke Michio」，与库内同一作者（道尾秀介）的多数写法「Michio Shusuke」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-27-jp-modern-expand.json",

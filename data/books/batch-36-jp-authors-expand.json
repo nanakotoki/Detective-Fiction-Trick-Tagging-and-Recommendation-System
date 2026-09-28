@@ -643,7 +643,7 @@
     "title": "人间椅子",
     "originalTitle": "人間椅子",
     "author": "江户川乱步",
-    "authorEn": "Edogawa Rampo",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "1925",
     "series": "",
@@ -713,7 +713,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Edogawa Rampo」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长春:,时代文艺出版社:,2023（人间椅子／(日) 江户川乱步著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1349,7 +1349,7 @@
     "title": "六个说谎的大学生",
     "originalTitle": "六人の嘘つきな大学生",
     "author": "浅仓秋成",
-    "authorEn": "Asakura Akinari",
+    "authorEn": "Akinari Asakura",
     "genre": "本格推理",
     "firstPublished": "2021",
     "series": "",
@@ -1421,7 +1421,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Asakura Akinari」，与库内同一作者（浅仓秋成）的多数写法「Akinari Asakura」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：成都:,四川文艺出版社:,2023.04（六个说谎的大学生／(日) 浅仓秋成著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

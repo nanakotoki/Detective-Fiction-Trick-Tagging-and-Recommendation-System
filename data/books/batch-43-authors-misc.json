@@ -1191,7 +1191,7 @@
     "title": "荫桔梗",
     "originalTitle": "蔭桔梗",
     "author": "泡坂妻夫",
-    "authorEn": "Awasa Tsumao",
+    "authorEn": "Awasaka Tsumao",
     "genre": "本格推理",
     "firstPublished": "1990",
     "series": "",
@@ -1262,7 +1262,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Awasa Tsumao」，与库内同一作者（泡坂妻夫）的多数写法「Awasaka Tsumao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「荫桔梗」／泡坂妻夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1276,7 +1276,7 @@
     "title": "奇术侦探曾我佳城",
     "originalTitle": "奇術探偵曾我佳城",
     "author": "泡坂妻夫",
-    "authorEn": "Awasa Tsumao",
+    "authorEn": "Awasaka Tsumao",
     "genre": "本格推理",
     "firstPublished": "1985",
     "series": "曾我佳城系列",
@@ -1347,7 +1347,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Awasa Tsumao」，与库内同一作者（泡坂妻夫）的多数写法「Awasaka Tsumao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「奇术侦探曾我佳城 戏之卷」／泡坂妻夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1361,7 +1361,7 @@
     "title": "亚爱一郎的逃亡",
     "originalTitle": "亞愛一郎的逃亡",
     "author": "泡坂妻夫",
-    "authorEn": "Awasa Tsumao",
+    "authorEn": "Awasaka Tsumao",
     "genre": "本格推理",
     "firstPublished": "1979",
     "series": "亚爱一郎系列",
@@ -1432,7 +1432,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Awasa Tsumao」，与库内同一作者（泡坂妻夫）的多数写法「Awasaka Tsumao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-43-authors-misc.json",

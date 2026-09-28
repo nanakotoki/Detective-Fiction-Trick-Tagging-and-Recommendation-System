@@ -1447,7 +1447,7 @@
     "title": "陆桥谋杀案",
     "originalTitle": "The Viaduct Murder",
     "author": "罗纳德·诺克斯",
-    "authorEn": "Ronald A. Knox",
+    "authorEn": "Ronald Knox",
     "genre": "本格推理",
     "firstPublished": "1925",
     "series": "",
@@ -1518,7 +1518,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Ronald A. Knox」，与库内同一作者（罗纳德·诺克斯）的多数写法「Ronald Knox」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2008（馆藏题名「陆桥谋杀案」／诺克斯）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

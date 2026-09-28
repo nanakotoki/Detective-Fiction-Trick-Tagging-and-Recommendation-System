@@ -4,7 +4,7 @@
     "title": "推理要在晚餐后.1",
     "originalTitle": "",
     "author": "东川笃哉",
-    "authorEn": "Higashikawa Tokuya",
+    "authorEn": "Higashigawa Tokuya",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "推理要在晚餐后系列",
@@ -72,7 +72,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「长篇小说 推理小说」**（第①类，最硬）；②馆藏提要文摘写明「一对大少爷与千金小姐的刑警搭档，调查命案现场时也毫不意外总是往错误方向推理」。**补作者缺口**：作者东川笃哉库内已有 2 部（本轮新增其三册）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「长篇小说 推理小说」**（第①类，最硬）；②馆藏提要文摘写明「一对大少爷与千金小姐的刑警搭档，调查命案现场时也毫不意外总是往错误方向推理」。**补作者缺口**：作者东川笃哉库内已有 2 部（本轮新增其三册）。**年份字段拆分（方案 C）**：`firstPublished`（日文原作年）**留空不冒填**；`editionYear` 记 2017。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Higashikawa Tokuya」，与库内同一作者（东川笃哉）的多数写法「Higashigawa Tokuya」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-122-facet.json",
@@ -85,7 +85,7 @@
     "title": "推理要在晚餐后.2",
     "originalTitle": "",
     "author": "东川笃哉",
-    "authorEn": "Higashikawa Tokuya",
+    "authorEn": "Higashigawa Tokuya",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "推理要在晚餐后系列",
@@ -153,7 +153,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，山东文艺出版社 2015（济南）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明三位主角的固定配置与「时不时给出关键提示的管家影山」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，山东文艺出版社 2015（济南）。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明三位主角的固定配置与「时不时给出关键提示的管家影山」。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2015。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Higashikawa Tokuya」，与库内同一作者（东川笃哉）的多数写法「Higashigawa Tokuya」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-122-facet.json",
@@ -166,7 +166,7 @@
     "title": "推理要在晚餐后.3",
     "originalTitle": "",
     "author": "东川笃哉",
-    "authorEn": "Higashikawa Tokuya",
+    "authorEn": "Higashigawa Tokuya",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "推理要在晚餐后系列",
@@ -234,7 +234,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明「一边吃晚餐一边向管家影山诉说案情」的固定结构；③**相关题名附注载明「版权页题日文题名：Nazotoki wa dinner no ato de. Vol. 3」**——原作名由此取证。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**（经「按检索行主题词枚举」渠道发现）：(日) 东川笃哉著，人民文学出版社 2017，丛编项「99读书人」。**推理属性判据**：①检索行**主题词为「推理小说 长篇小说」**（第①类）；②馆藏提要文摘写明「一边吃晚餐一边向管家影山诉说案情」的固定结构；③**相关题名附注载明「版权页题日文题名：Nazotoki wa dinner no ato de. Vol. 3」**——原作名由此取证。**年份字段拆分（方案 C）**：`firstPublished` 留空；`editionYear` 记 2017。梗概据馆藏提要文摘重写。 **authorEn 归一（第 143 轮）**：本条原记「Higashikawa Tokuya」，与库内同一作者（东川笃哉）的多数写法「Higashigawa Tokuya」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-122-facet.json",

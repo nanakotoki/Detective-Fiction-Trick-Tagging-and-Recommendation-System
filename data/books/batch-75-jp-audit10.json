@@ -174,7 +174,7 @@
     "title": "日本推理名作选·黑岩泪香、小酒井不木卷",
     "originalTitle": "",
     "author": "小酒井不木",
-    "authorEn": "Kozakai Fuboku",
+    "authorEn": "Fugui Kosakai",
     "genre": "变格",
     "firstPublished": "",
     "series": "日本推理名作选",
@@ -244,7 +244,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3666873）；梗概据公开内容简介重写并经人工核对。合卷归属已在该条 warning 中说明",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/3666873）；梗概据公开内容简介重写并经人工核对。合卷归属已在该条 warning 中说明 **authorEn 归一（第 143 轮）**：本条原记「Kozakai Fuboku」，与库内同一作者（小酒井不木）的多数写法「Fugui Kosakai」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2009（馆藏题名「日本推理名作选 黑岩泪香、小酒井不木卷」／黑岩泪香）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

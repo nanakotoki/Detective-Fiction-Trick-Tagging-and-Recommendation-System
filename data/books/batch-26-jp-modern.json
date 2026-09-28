@@ -162,7 +162,7 @@
     "title": "从前从前有个地方有具尸体",
     "originalTitle": "むかしむかしあるところに、死体がありました。",
     "author": "青柳碧人",
-    "authorEn": "Aoyagi Aito",
+    "authorEn": "Aito Aoyagi",
     "genre": "本格推理",
     "firstPublished": "2019",
     "series": "",
@@ -232,7 +232,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Aoyagi Aito」，与库内同一作者（青柳碧人）的多数写法「Aito Aoyagi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-26-jp-modern.json",
@@ -1292,7 +1292,7 @@
     "title": "合唱：岬洋介的归还",
     "originalTitle": "合唱 岬洋介の帰還",
     "author": "中山七里",
-    "authorEn": "Shichiri Nakayama",
+    "authorEn": "Nakayama Shichiri",
     "genre": "犯罪悬疑",
     "firstPublished": "2021",
     "series": "岬洋介系列",
@@ -1355,7 +1355,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shichiri Nakayama」，与库内同一作者（中山七里）的多数写法「Nakayama Shichiri」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-26-jp-modern.json",
@@ -1367,7 +1367,7 @@
     "title": "密室杀人游戏2.0",
     "originalTitle": "密室殺人ゲーム2.0",
     "author": "歌野晶午",
-    "authorEn": "Sho Inoue",
+    "authorEn": "Utano Shogo",
     "genre": "本格推理",
     "firstPublished": "2009",
     "series": "",
@@ -1438,7 +1438,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Sho Inoue」，与库内同一作者（歌野晶午）的多数写法「Utano Shogo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-26-jp-modern.json",
@@ -1450,7 +1450,7 @@
     "title": "孤岛之谜",
     "originalTitle": "孤島パズル",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "江神二郎系列",
@@ -1521,7 +1521,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「孤岛之谜」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

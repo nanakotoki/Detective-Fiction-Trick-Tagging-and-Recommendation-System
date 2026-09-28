@@ -1269,7 +1269,7 @@
     "title": "倒错的归结",
     "originalTitle": "倒錯の帰結",
     "author": "折原一",
-    "authorEn": "Orihara Ichi",
+    "authorEn": "Hajime Orihara",
     "genre": "本格推理",
     "firstPublished": "2001",
     "series": "倒错系列",
@@ -1341,7 +1341,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Orihara Ichi」，与库内同一作者（折原一）的多数写法「Hajime Orihara」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「倒错的归结」／折原一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1355,7 +1355,7 @@
     "title": "续·日本杀人事件",
     "originalTitle": "続・日本殺人事件",
     "author": "山口雅也",
-    "authorEn": "Yamaguchi Masaya",
+    "authorEn": "Masaya Yamaguchi",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "",
@@ -1426,7 +1426,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Yamaguchi Masaya」，与库内同一作者（山口雅也）的多数写法「Masaya Yamaguchi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2013（馆藏题名「续·日本杀人事件」／山口雅也）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

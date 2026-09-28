@@ -623,7 +623,7 @@
     "title": "疑云记：都市命案奇谈",
     "originalTitle": "",
     "author": "似水无痕",
-    "authorEn": "Sishui Wuhen",
+    "authorEn": "Si Shui Wu Hen",
     "genre": "犯罪悬疑",
     "firstPublished": "2014",
     "series": "非系列",
@@ -685,7 +685,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：似水无痕著，文汇出版社 2014.10。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无似水无痕作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。梗概据馆藏提要重写。"
+      "source": "书目与出版信息取自**对外经贸大学图书馆 OPAC**：似水无痕著，文汇出版社 2014.10。**推理属性判据**：**检索行主题词为「推理小说 中国 当代 ; 长篇小说 中国 当代」**（第①类，最硬）。**新作者**：库内此前无似水无痕作品。**年份字段说明**：中文原创，`firstPublished` 记 2014，`editionYear` **留空**。梗概据馆藏提要重写。 **authorEn 归一（第 143 轮）**：本条原记「Sishui Wuhen」，与库内同一作者（似水无痕）的多数写法「Si Shui Wu Hen」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-124-opac3cn.json",

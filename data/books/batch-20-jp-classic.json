@@ -4,7 +4,7 @@
     "title": "半七捕物帐",
     "originalTitle": "半七捕物帳",
     "author": "冈本绮堂",
-    "authorEn": "Kido Okamoto",
+    "authorEn": "Okamoto Kido",
     "genre": "历史推理",
     "firstPublished": "1917",
     "series": "半七捕物帐系列",
@@ -73,7 +73,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kido Okamoto」，与库内同一作者（冈本绮堂）的多数写法「Okamoto Kido」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-20-jp-classic.json",
@@ -242,7 +242,7 @@
     "title": "颚十郎捕物帐",
     "originalTitle": "顎十郎捕物帳",
     "author": "久生十兰",
-    "authorEn": "Juran Hisao",
+    "authorEn": "Hisao Juran",
     "genre": "历史推理",
     "firstPublished": "1939",
     "series": "颚十郎捕物帐系列",
@@ -311,7 +311,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Juran Hisao」，与库内同一作者（久生十兰）的多数写法「Hisao Juran」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：重庆:,重庆出版社:,2015（颚十郎捕物帐／(日) 久生十兰著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1446,7 +1446,7 @@
     "title": "恋爱曲线",
     "originalTitle": "戀愛曲線",
     "author": "小酒井不木",
-    "authorEn": "Fukitaro Kosakai",
+    "authorEn": "Fugui Kosakai",
     "genre": "变格",
     "firstPublished": "1926",
     "series": "",
@@ -1515,7 +1515,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Fukitaro Kosakai」，与库内同一作者（小酒井不木）的多数写法「Fugui Kosakai」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「恋爱曲线」／小酒井不木）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1529,7 +1529,7 @@
     "title": "日本推理名作选：浜尾四郎（卷一）",
     "originalTitle": "",
     "author": "浜尾四郎",
-    "authorEn": "Shiro Hamao",
+    "authorEn": "Hamao Shiro",
     "genre": "本格推理",
     "firstPublished": "1928",
     "series": "",
@@ -1599,7 +1599,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shiro Hamao」，与库内同一作者（浜尾四郎）的多数写法「Hamao Shiro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-20-jp-classic.json",
@@ -1779,7 +1779,7 @@
     "title": "瓶装地狱",
     "originalTitle": "瓶詰の地獄",
     "author": "梦野久作",
-    "authorEn": "Kyusaku Yumeno",
+    "authorEn": "Yumeno Kyusaku",
     "genre": "变格",
     "firstPublished": "1928",
     "series": "",
@@ -1848,7 +1848,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kyusaku Yumeno」，与库内同一作者（梦野久作）的多数写法「Yumeno Kyusaku」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：桂林:,广西师范大学出版社:,2023（瓶装地狱／(日) 梦野久作著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

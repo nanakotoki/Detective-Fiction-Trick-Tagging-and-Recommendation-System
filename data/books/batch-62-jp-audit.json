@@ -341,7 +341,7 @@
     "title": "异端者",
     "originalTitle": "異端者",
     "author": "森村诚一",
-    "authorEn": "Morimura Seiichi",
+    "authorEn": "Seiichi Morimura",
     "genre": "社会派",
     "firstPublished": "1974",
     "series": "",
@@ -411,7 +411,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Morimura Seiichi」，与库内同一作者（森村诚一）的多数写法「Seiichi Morimura」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-62-jp-audit.json",
@@ -423,7 +423,7 @@
     "title": "腐蚀的构造",
     "originalTitle": "腐蝕の構造",
     "author": "森村诚一",
-    "authorEn": "Morimura Seiichi",
+    "authorEn": "Seiichi Morimura",
     "genre": "社会派",
     "firstPublished": "1972",
     "series": "",
@@ -493,7 +493,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Morimura Seiichi」，与库内同一作者（森村诚一）的多数写法「Seiichi Morimura」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 群众出版社 1999（馆藏题名「腐蚀的构造」／森村诚一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -507,7 +507,7 @@
     "title": "东京空港杀人事件",
     "originalTitle": "東京空港殺人事件",
     "author": "森村诚一",
-    "authorEn": "Morimura Seiichi",
+    "authorEn": "Seiichi Morimura",
     "genre": "社会派",
     "firstPublished": "1978",
     "series": "",
@@ -579,7 +579,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 122 轮）**：候选《东京空港杀人案》（群众出版社 1999，ISBN 7-5014-2047-5，丛编「日本推理小说文库」，358 页，叶荣鼎译）与库内本条同作：本条原作名即 `東京空港殺人事件`，两条**只差「案／事件」两字**（§116 的「只差一个字」同类）。本库按所引版本收一条，故不另立条目。",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 122 轮）**：候选《东京空港杀人案》（群众出版社 1999，ISBN 7-5014-2047-5，丛编「日本推理小说文库」，358 页，叶荣鼎译）与库内本条同作：本条原作名即 `東京空港殺人事件`，两条**只差「案／事件」两字**（§116 的「只差一个字」同类）。本库按所引版本收一条，故不另立条目。 **authorEn 归一（第 143 轮）**：本条原记「Morimura Seiichi」，与库内同一作者（森村诚一）的多数写法「Seiichi Morimura」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：成都 四川文艺出版社 2020（馆藏题名「东京空港杀人事件」／森村诚一）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -750,7 +750,7 @@
     "title": "第三个女人",
     "originalTitle": "第三の女",
     "author": "夏树静子",
-    "authorEn": "Natsuki Shizuko",
+    "authorEn": "Shizuko Natsuki",
     "genre": "犯罪悬疑",
     "firstPublished": "1977",
     "series": "",
@@ -821,7 +821,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Natsuki Shizuko」，与库内同一作者（夏树静子）的多数写法「Shizuko Natsuki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：长沙:,湖南文艺出版社:,2024.09（第三个女人／(日) 夏树静子著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1005,7 +1005,7 @@
     "title": "玻璃鸟不会归来",
     "originalTitle": "ガラスの鳥は帰らない",
     "author": "市川忧人",
-    "authorEn": "Ichikawa Yuuto",
+    "authorEn": "Yuto Ichikawa",
     "genre": "本格推理",
     "firstPublished": "2016",
     "series": "玛利亚与莲系列",
@@ -1076,7 +1076,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Ichikawa Yuuto」，与库内同一作者（市川忧人）的多数写法「Yuto Ichikawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2019（馆藏题名「玻璃鸟不会归来」／市川忧人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

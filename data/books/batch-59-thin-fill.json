@@ -88,7 +88,7 @@
     "title": "幻想博物馆",
     "originalTitle": "幻想博物館",
     "author": "中井英夫",
-    "authorEn": "Nakai Hideo",
+    "authorEn": "Hideo Nakai",
     "genre": "变格",
     "firstPublished": "1981",
     "series": "",
@@ -153,7 +153,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Nakai Hideo」，与库内同一作者（中井英夫）的多数写法「Hideo Nakai」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-59-thin-fill.json",

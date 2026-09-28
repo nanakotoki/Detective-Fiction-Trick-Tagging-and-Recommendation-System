@@ -4,7 +4,7 @@
     "title": "狱门岛",
     "originalTitle": "獄門島",
     "author": "横沟正史",
-    "authorEn": "Seishi Yokomizo",
+    "authorEn": "Yokomizo Seishi",
     "genre": "本格推理",
     "firstPublished": "1948",
     "series": "金田一耕助系列",
@@ -78,7 +78,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对 **同书异名登记（第 140 轮）**：台版条目页原作名栏为空，但题名与库内本条（`honkaku-001`）是同一部作品，只是繁简写法不同（条目页另把读音「ごくもんとう」填进了原作名栏）。",
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 140 轮）**：台版条目页原作名栏为空，但题名与库内本条（`honkaku-001`）是同一部作品，只是繁简写法不同（条目页另把读音「ごくもんとう」填进了原作名栏）。 **authorEn 归一（第 143 轮）**：本条原记「Seishi Yokomizo」，与库内同一作者（横沟正史）的多数写法「Yokomizo Seishi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（狱门岛／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -95,7 +95,7 @@
     "title": "本阵杀人事件",
     "originalTitle": "本陣殺人事件",
     "author": "横沟正史",
-    "authorEn": "Seishi Yokomizo",
+    "authorEn": "Yokomizo Seishi",
     "genre": "本格推理",
     "firstPublished": "1946",
     "series": "金田一耕助系列",
@@ -167,7 +167,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `本陣殺人事件`，与库内本条（`honkaku-002`）同作。",
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `本陣殺人事件`，与库内本条（`honkaku-002`）同作。 **authorEn 归一（第 143 轮）**：本条原记「Seishi Yokomizo」，与库内同一作者（横沟正史）的多数写法「Yokomizo Seishi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（本阵杀人事件／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -184,7 +184,7 @@
     "title": "犬神家一族",
     "originalTitle": "犬神家の一族",
     "author": "横沟正史",
-    "authorEn": "Seishi Yokomizo",
+    "authorEn": "Yokomizo Seishi",
     "genre": "本格推理",
     "firstPublished": "1951",
     "series": "金田一耕助系列",
@@ -258,7 +258,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `犬神家の一族`，与库内本条（`honkaku-003`）同作（**这本是「同书同名」却被池子留下的例子**：池内是繁体题名，归一后本应相等，实测没扣掉，故显式登记一道）。"
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `犬神家の一族`，与库内本条（`honkaku-003`）同作（**这本是「同书同名」却被池子留下的例子**：池内是繁体题名，归一后本应相等，实测没扣掉，故显式登记一道）。 **authorEn 归一（第 143 轮）**：本条原记「Seishi Yokomizo」，与库内同一作者（横沟正史）的多数写法「Yokomizo Seishi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-01-honkaku.json",
@@ -274,7 +274,7 @@
     "title": "八墓村",
     "originalTitle": "八つ墓村",
     "author": "横沟正史",
-    "authorEn": "Seishi Yokomizo",
+    "authorEn": "Yokomizo Seishi",
     "genre": "本格推理",
     "firstPublished": "1950",
     "series": "金田一耕助系列",
@@ -347,7 +347,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `八つ墓村`，与库内本条（`honkaku-004`）同作（同为「同书同名」的显式登记）。",
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `八つ墓村`，与库内本条（`honkaku-004`）同作（同为「同书同名」的显式登记）。 **authorEn 归一（第 143 轮）**：本条原记「Seishi Yokomizo」，与库内同一作者（横沟正史）的多数写法「Yokomizo Seishi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（八墓村／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

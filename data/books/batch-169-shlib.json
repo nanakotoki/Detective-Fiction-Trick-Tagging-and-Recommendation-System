@@ -477,7 +477,7 @@
     "title": "黑白",
     "originalTitle": "",
     "author": "谷崎润一郎",
-    "authorEn": "Jun'ichirō Tanizaki",
+    "authorEn": "Junichiro Tanizaki",
     "genre": "犯罪悬疑",
     "firstPublished": "",
     "editionYear": "2019",
@@ -539,7 +539,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：谷崎润一郎著，现代出版社 2019，丛编「和风译丛」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2019。**同作者补缺**：库内已有《春琴抄》《钥匙》《痴人之爱》等。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：谷崎润一郎著，现代出版社 2019，丛编「和风译丛」。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2019。**同作者补缺**：库内已有《春琴抄》《钥匙》《痴人之爱》等。 **authorEn 归一（第 143 轮）**：本条原记「Jun'ichirō Tanizaki」，与库内同一作者（谷崎润一郎）的多数写法「Junichiro Tanizaki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-169-shlib.json",
@@ -1000,7 +1000,7 @@
     "title": "千里眼",
     "originalTitle": "千里眼",
     "author": "松冈圭祐",
-    "authorEn": "Keisuke Matsuoka",
+    "authorEn": "Matsuoka Keisuke",
     "genre": "犯罪悬疑",
     "firstPublished": "1997",
     "editionYear": "2015",
@@ -1066,7 +1066,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：松冈圭祐著，上海译文出版社 2015。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验（原提要较长，梗概**只取谜面**，不转述后续发展）。**年份字段说明**：`firstPublished` 记 1997（日文原版年）；`editionYear` 记 2015。**同作者补缺**：库内已有《少女魔术师》与「万能鉴定士Q」两册。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：松冈圭祐著，上海译文出版社 2015。**判据**：①**学科主题词含「推理小说／侦探小说」**；②**中图分类号 `I313.45`**；③提要取自第一个馆详情页并经作者校验（原提要较长，梗概**只取谜面**，不转述后续发展）。**年份字段说明**：`firstPublished` 记 1997（日文原版年）；`editionYear` 记 2015。**同作者补缺**：库内已有《少女魔术师》与「万能鉴定士Q」两册。 **authorEn 归一（第 143 轮）**：本条原记「Keisuke Matsuoka」，与库内同一作者（松冈圭祐）的多数写法「Matsuoka Keisuke」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-169-shlib.json",
@@ -1548,7 +1548,7 @@
     "title": "岩永琴子的出现",
     "originalTitle": "",
     "author": "城平京",
-    "authorEn": "Kyo Shirodaira",
+    "authorEn": "Shirodaira Kyo",
     "genre": "本格推理",
     "firstPublished": "",
     "editionYear": "2020",
@@ -1615,7 +1615,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：城平京著，北京时代华文书局 2020，丛编「千本樱文库·推理作家系列／虚构推理系列」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③**丛编直接标明「虚构推理系列」**；提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。**同作者补缺**：库内已有《虚构推理》。"
+      "source": "书目取自**上海图书馆 OPAC**（`type=Author` 按作者枚举，见 §59）：城平京著，北京时代华文书局 2020，丛编「千本樱文库·推理作家系列／虚构推理系列」。**判据**：①**学科主题词含「推理小说」**；②**中图分类号 `I313.45`**；③**丛编直接标明「虚构推理系列」**；提要取自第一个馆详情页并经作者校验。**年份字段说明**：`firstPublished` **留空**；`editionYear` 记 2020。**同作者补缺**：库内已有《虚构推理》。 **authorEn 归一（第 143 轮）**：本条原记「Kyo Shirodaira」，与库内同一作者（城平京）的多数写法「Shirodaira Kyo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-169-shlib.json",

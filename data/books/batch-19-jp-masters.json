@@ -341,7 +341,7 @@
     "title": "重力小丑",
     "originalTitle": "重力ピエロ",
     "author": "伊坂幸太郎",
-    "authorEn": "Kotaro Isaka",
+    "authorEn": "Isaka Kotaro",
     "genre": "犯罪悬疑",
     "firstPublished": "2003",
     "series": "",
@@ -410,7 +410,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kotaro Isaka」，与库内同一作者（伊坂幸太郎）的多数写法「Isaka Kotaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2015.05（重力小丑／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -424,7 +424,7 @@
     "title": "奥杜邦的祈祷",
     "originalTitle": "オーデュボンの祈り",
     "author": "伊坂幸太郎",
-    "authorEn": "Kotaro Isaka",
+    "authorEn": "Isaka Kotaro",
     "genre": "犯罪悬疑",
     "firstPublished": "2000",
     "series": "",
@@ -492,7 +492,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kotaro Isaka」，与库内同一作者（伊坂幸太郎）的多数写法「Isaka Kotaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -504,7 +504,7 @@
     "title": "死神的精确度",
     "originalTitle": "死神の精度",
     "author": "伊坂幸太郎",
-    "authorEn": "Kotaro Isaka",
+    "authorEn": "Isaka Kotaro",
     "genre": "犯罪悬疑",
     "firstPublished": "2005",
     "series": "",
@@ -572,7 +572,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kotaro Isaka」，与库内同一作者（伊坂幸太郎）的多数写法「Isaka Kotaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -584,7 +584,7 @@
     "title": "冰冷密室与博士们",
     "originalTitle": "冷たい密室と博士たち",
     "author": "森博嗣",
-    "authorEn": "Hiroshi Mori",
+    "authorEn": "Mori Hiroshi",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "S&M系列",
@@ -655,7 +655,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Hiroshi Mori」，与库内同一作者（森博嗣）的多数写法「Mori Hiroshi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -667,7 +667,7 @@
     "title": "不会笑的数学家",
     "originalTitle": "笑わない数学者",
     "author": "森博嗣",
-    "authorEn": "Hiroshi Mori",
+    "authorEn": "Mori Hiroshi",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "S&M系列",
@@ -738,7 +738,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Hiroshi Mori」，与库内同一作者（森博嗣）的多数写法「Mori Hiroshi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：南京 江苏文艺出版社 2010（馆藏题名「不会笑的数学家」／森博嗣）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -752,7 +752,7 @@
     "title": "马来铁道之谜",
     "originalTitle": "マレー鉄道の謎",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "国名系列",
@@ -824,7 +824,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理 **诡计类标签补充·作者/系列层面（第 76 轮）**：作者既有 19/22 部标有 `multiple-solutions`，故对未标的《马来铁道之谜》补标 multiple-solutions。",
+      "source": "整理者据公开出版信息整理 **诡计类标签补充·作者/系列层面（第 76 轮）**：作者既有 19/22 部标有 `multiple-solutions`，故对未标的《马来铁道之谜》补标 multiple-solutions。 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：上海:,上海译文出版社:,2015.08（马来铁道之谜／(日) 有栖川有栖著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -838,7 +838,7 @@
     "title": "第46号密室",
     "originalTitle": "46番目の密室",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "本格推理",
     "firstPublished": "1992",
     "series": "作家爱丽丝系列",
@@ -909,7 +909,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理 **同书异名登记（第 97 轮）**：候选《第四十六号密室》（珠海出版社 2003，ISBN 7-80689-008-4，丛编「日本优秀侦探小说丛书」）与库内本条同作（原作名 `46番目の密室`），仅数字写法不同，故不另立条目。"
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 97 轮）**：候选《第四十六号密室》（珠海出版社 2003，ISBN 7-80689-008-4，丛编「日本优秀侦探小说丛书」）与库内本条同作（原作名 `46番目の密室`），仅数字写法不同，故不另立条目。 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -924,7 +924,7 @@
     "title": "影子",
     "originalTitle": "",
     "author": "道尾秀介",
-    "authorEn": "Shusuke Michio",
+    "authorEn": "Michio Shusuke",
     "genre": "犯罪悬疑",
     "firstPublished": "",
     "series": "",
@@ -992,7 +992,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Shusuke Michio」，与库内同一作者（道尾秀介）的多数写法「Michio Shusuke」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -1098,7 +1098,7 @@
     "title": "夜蝉",
     "originalTitle": "",
     "author": "北村薰",
-    "authorEn": "Kaoru Kitamura",
+    "authorEn": "Kitamura Kaoru",
     "genre": "日常之谜",
     "firstPublished": "",
     "series": "圆紫大师与我系列",
@@ -1167,7 +1167,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kaoru Kitamura」，与库内同一作者（北村薰）的多数写法「Kitamura Kaoru」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -1179,7 +1179,7 @@
     "title": "恐怖的人狼城",
     "originalTitle": "人狼城の恐怖",
     "author": "二阶堂黎人",
-    "authorEn": "Reito Nikaido",
+    "authorEn": "Nikaido Reito",
     "genre": "本格推理",
     "firstPublished": "1996",
     "series": "二阶堂兰子系列",
@@ -1250,7 +1250,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Reito Nikaido」，与库内同一作者（二阶堂黎人）的多数写法「Nikaido Reito」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「恐怖的人狼城 人狼的魅惑」／二阶堂黎人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1264,7 +1264,7 @@
     "title": "鼠之夜",
     "originalTitle": "",
     "author": "连城三纪彦",
-    "authorEn": "Mikihiko Renjo",
+    "authorEn": "Renjo Mikihiko",
     "genre": "犯罪悬疑",
     "firstPublished": "",
     "series": "",
@@ -1332,7 +1332,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Mikihiko Renjo」，与库内同一作者（连城三纪彦）的多数写法「Renjo Mikihiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2015（馆藏题名「鼠之夜」／连城三纪彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1428,7 +1428,7 @@
     "title": "11张扑克牌",
     "originalTitle": "",
     "author": "泡坂妻夫",
-    "authorEn": "Tsutomu Manzaki",
+    "authorEn": "Awasaka Tsumao",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "亚爱一郎系列",
@@ -1497,7 +1497,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tsutomu Manzaki」，与库内同一作者（泡坂妻夫）的多数写法「Awasaka Tsumao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -1669,7 +1669,7 @@
     "title": "人偶为何被杀",
     "originalTitle": "人形はなぜ殺される",
     "author": "高木彬光",
-    "authorEn": "Akitaro Takagi",
+    "authorEn": "Takagi Akimitsu",
     "genre": "本格推理",
     "firstPublished": "1955",
     "series": "神津恭介系列",
@@ -1740,7 +1740,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Akitaro Takagi」，与库内同一作者（高木彬光）的多数写法「Takagi Akimitsu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2015.08（人偶为何被杀／(日) 高木彬光著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1754,7 +1754,7 @@
     "title": "紫丁香庄园",
     "originalTitle": "",
     "author": "鲇川哲也",
-    "authorEn": "Tetsuya Ayukawa",
+    "authorEn": "Ayukawa Tetsuya",
     "genre": "本格推理",
     "firstPublished": "1956",
     "series": "星影龙三系列",
@@ -1826,7 +1826,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tetsuya Ayukawa」，与库内同一作者（鲇川哲也）的多数写法「Ayukawa Tetsuya」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
@@ -1838,7 +1838,7 @@
     "title": "赤的组曲",
     "originalTitle": "",
     "author": "土屋隆夫",
-    "authorEn": "Takao Tsuchiya",
+    "authorEn": "Tsuchiya Takao",
     "genre": "本格推理",
     "firstPublished": "",
     "series": "千草检察官系列",
@@ -1908,7 +1908,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Takao Tsuchiya」，与库内同一作者（土屋隆夫）的多数写法「Tsuchiya Takao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",

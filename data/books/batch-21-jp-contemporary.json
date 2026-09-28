@@ -410,7 +410,7 @@
     "title": "密室推理游戏",
     "originalTitle": "密室殺人ゲーム王手飛車取り",
     "author": "歌野晶午",
-    "authorEn": "Sho Inoue",
+    "authorEn": "Utano Shogo",
     "genre": "本格推理",
     "firstPublished": "2007",
     "series": "",
@@ -481,7 +481,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Sho Inoue」，与库内同一作者（歌野晶午）的多数写法「Utano Shogo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2026（馆藏题名「密室推理游戏 [3] 狂热粉」／歌野晶午）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -737,7 +737,7 @@
     "title": "越前竹偶",
     "originalTitle": "越前竹人形",
     "author": "水上勉",
-    "authorEn": "Tsutomu Minakami",
+    "authorEn": "Mizukami Tsutomu",
     "genre": "社会派",
     "firstPublished": "1963",
     "series": "",
@@ -805,7 +805,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Tsutomu Minakami」，与库内同一作者（水上勉）的多数写法「Mizukami Tsutomu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-21-jp-contemporary.json",
@@ -817,7 +817,7 @@
     "title": "宵待草夜情",
     "originalTitle": "宵待草夜情",
     "author": "连城三纪彦",
-    "authorEn": "Mikihiko Renjo",
+    "authorEn": "Renjo Mikihiko",
     "genre": "犯罪悬疑",
     "firstPublished": "1983",
     "series": "",
@@ -887,7 +887,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Mikihiko Renjo」，与库内同一作者（连城三纪彦）的多数写法「Renjo Mikihiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-21-jp-contemporary.json",

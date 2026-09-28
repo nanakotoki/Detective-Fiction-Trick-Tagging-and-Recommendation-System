@@ -4,7 +4,7 @@
     "title": "双头恶魔",
     "originalTitle": "双頭の悪魔",
     "author": "有栖川有栖",
-    "authorEn": "Alice Arisugawa",
+    "authorEn": "Arisugawa Arisu",
     "genre": "新本格",
     "firstPublished": "1992",
     "series": "学生有栖川有栖系列",
@@ -77,7 +77,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Alice Arisugawa」，与库内同一作者（有栖川有栖）的多数写法「Arisugawa Arisu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「双头恶魔」／有栖川有栖）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -91,7 +91,7 @@
     "title": "一的悲剧",
     "originalTitle": "一の悲劇",
     "author": "法月纶太郎",
-    "authorEn": "Rintaro Norizuki",
+    "authorEn": "Norizuki Rintaro",
     "genre": "新本格",
     "firstPublished": "1998",
     "series": "法月纶太郎系列",
@@ -164,7 +164,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Rintaro Norizuki」，与库内同一作者（法月纶太郎）的多数写法「Norizuki Rintaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2012（馆藏题名「一的悲剧」／法月纶太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -263,7 +263,7 @@
     "title": "剪刀男",
     "originalTitle": "ハサミ男",
     "author": "殊能将之",
-    "authorEn": "Yukito Ayatsuji",
+    "authorEn": "Shuno Masayuki",
     "genre": "新本格",
     "firstPublished": "1999",
     "series": "",
@@ -334,7 +334,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理"
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Yukito Ayatsuji」，与库内同一作者（殊能将之）的多数写法「Shuno Masayuki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-07-honkaku-more.json",
@@ -346,7 +346,7 @@
     "title": "空中飞马",
     "originalTitle": "空飛ぶ馬",
     "author": "北村薰",
-    "authorEn": "Kaoru Kitamura",
+    "authorEn": "Kitamura Kaoru",
     "genre": "本格推理",
     "firstPublished": "1989",
     "series": "圆紫大师系列",
@@ -418,7 +418,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Kaoru Kitamura」，与库内同一作者（北村薰）的多数写法「Kitamura Kaoru」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：贵阳 贵州人民出版社 2025（馆藏题名「空中飞马」／北村薰）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -519,7 +519,7 @@
     "title": "玻璃之锤",
     "originalTitle": "硝子のハンマー",
     "author": "贵志佑介",
-    "authorEn": "Yusuke Kishi",
+    "authorEn": "Kishi Yusuke",
     "genre": "本格推理",
     "firstPublished": "2004",
     "series": "榎本径系列",
@@ -591,7 +591,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Yusuke Kishi」，与库内同一作者（贵志佑介）的多数写法「Kishi Yusuke」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：重庆 重庆出版社 2013（馆藏题名「玻璃之锤」／贵志佑介）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -605,7 +605,7 @@
     "title": "金色梦乡",
     "originalTitle": "ゴールデンスランバー",
     "author": "伊坂幸太郎",
-    "authorEn": "Kotaro Isaka",
+    "authorEn": "Isaka Kotaro",
     "genre": "冒险悬疑",
     "firstPublished": "2007",
     "series": "",
@@ -677,7 +677,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Kotaro Isaka」，与库内同一作者（伊坂幸太郎）的多数写法「Isaka Kotaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2016（金色梦乡／(日) 伊坂幸太郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -860,7 +860,7 @@
     "title": "地狱奇术师",
     "originalTitle": "地獄の奇術師",
     "author": "二阶堂黎人",
-    "authorEn": "Reito Nikaido",
+    "authorEn": "Nikaido Reito",
     "genre": "本格推理",
     "firstPublished": "1995",
     "series": "二阶堂兰子系列",
@@ -934,7 +934,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Reito Nikaido」，与库内同一作者（二阶堂黎人）的多数写法「Nikaido Reito」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2010（馆藏题名「地狱奇术师」／二阶堂黎人）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1120,7 +1120,7 @@
     "title": "尸人庄谜案",
     "originalTitle": "屍人荘の殺人",
     "author": "今村昌弘",
-    "authorEn": "Masahiro Imamura",
+    "authorEn": "Imamura Masahiro",
     "genre": "新本格",
     "firstPublished": "2017",
     "series": "剑崎比留子系列",
@@ -1193,7 +1193,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Masahiro Imamura」，与库内同一作者（今村昌弘）的多数写法「Imamura Masahiro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 北京联合出版公司 2019（馆藏题名「尸人庄谜案」／今村昌弘）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

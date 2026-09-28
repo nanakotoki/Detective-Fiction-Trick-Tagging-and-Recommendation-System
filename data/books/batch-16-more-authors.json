@@ -842,7 +842,7 @@
     "title": "古书堂事件手帖",
     "originalTitle": "ビブリア古書堂の事件手帖 〜栞子さんと奇妙な客人たち〜",
     "author": "三上延",
-    "authorEn": "Mikami En",
+    "authorEn": "En Mikami",
     "genre": "日常之谜",
     "firstPublished": "2011",
     "series": "古书堂事件手帖系列",
@@ -912,7 +912,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理"
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Mikami En」，与库内同一作者（三上延）的多数写法「En Mikami」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-16-more-authors.json",
@@ -1008,7 +1008,7 @@
     "title": "钟城杀人事件",
     "originalTitle": "『クロック城』殺人事件",
     "author": "北山猛邦",
-    "authorEn": "Kitayama Takekuni",
+    "authorEn": "Takekuni Kitayama",
     "genre": "新本格",
     "firstPublished": "2002",
     "series": "「城」系列",
@@ -1077,7 +1077,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 129 轮）**：豆瓣条目页 `https://book.douban.com/subject/4246531/`（吉林出版集团 2010-3，赵建勋译，293 页，ISBN 9787546322261）原作名给出 `『クロック城』殺人事件`，与库内本条一致；上图馆藏该行的题名作「“钟诚”杀人事件」（**「诚」是著录的错字**，其提要亦写「镶嵌着三个巨大时钟的『钟城』」），故登记为又名。"
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 129 轮）**：豆瓣条目页 `https://book.douban.com/subject/4246531/`（吉林出版集团 2010-3，赵建勋译，293 页，ISBN 9787546322261）原作名给出 `『クロック城』殺人事件`，与库内本条一致；上图馆藏该行的题名作「“钟诚”杀人事件」（**「诚」是著录的错字**，其提要亦写「镶嵌着三个巨大时钟的『钟城』」），故登记为又名。 **authorEn 归一（第 143 轮）**：本条原记「Kitayama Takekuni」，与库内同一作者（北山猛邦）的多数写法「Takekuni Kitayama」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-16-more-authors.json",
@@ -1092,7 +1092,7 @@
     "title": "紧闭的门扉",
     "originalTitle": "扉は閉ざされたまま",
     "author": "石持浅海",
-    "authorEn": "Ishimochi Asami",
+    "authorEn": "Asami Ishiuchi",
     "genre": "本格推理",
     "firstPublished": "2005",
     "series": "碓冰优佳系列",
@@ -1163,7 +1163,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Ishimochi Asami」，与库内同一作者（石持浅海）的多数写法「Asami Ishiuchi」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2020（紧闭的门扉／(日) 石持浅海著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1177,7 +1177,7 @@
     "title": "蒸汽歌剧",
     "originalTitle": "スチームオペラ 蒸気都市探偵譚",
     "author": "芦边拓",
-    "authorEn": "Ashibe Taku",
+    "authorEn": "Taku Ashibe",
     "genre": "本格推理",
     "firstPublished": "2012",
     "series": "",
@@ -1247,7 +1247,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Ashibe Taku」，与库内同一作者（芦边拓）的多数写法「Taku Ashibe」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 台海出版社 2020（馆藏题名「蒸汽歌剧」／芦边拓）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

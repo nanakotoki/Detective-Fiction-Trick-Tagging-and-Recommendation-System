@@ -676,7 +676,7 @@
     "title": "贵族侦探",
     "originalTitle": "貴族探偵",
     "author": "麻耶雄嵩",
-    "authorEn": "Yukiya Maya",
+    "authorEn": "Maya Yutaka",
     "genre": "本格推理",
     "firstPublished": "2010",
     "series": "贵族侦探系列",
@@ -747,7 +747,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yukiya Maya」，与库内同一作者（麻耶雄嵩）的多数写法「Maya Yutaka」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2013（馆藏题名「贵族侦探」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -761,7 +761,7 @@
     "title": "神的游戏",
     "originalTitle": "神のゲーム",
     "author": "麻耶雄嵩",
-    "authorEn": "Yukiya Maya",
+    "authorEn": "Maya Yutaka",
     "genre": "本格推理",
     "firstPublished": "2011",
     "series": "",
@@ -832,7 +832,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yukiya Maya」，与库内同一作者（麻耶雄嵩）的多数写法「Maya Yutaka」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-22-jp-honkaku-expand.json",
@@ -844,7 +844,7 @@
     "title": "献给麦卡托与美袋的谋杀",
     "originalTitle": "メルカトルと美袋のための殺人",
     "author": "麻耶雄嵩",
-    "authorEn": "Yukiya Maya",
+    "authorEn": "Maya Yutaka",
     "genre": "本格推理",
     "firstPublished": "1997",
     "series": "麦卡托系列",
@@ -915,7 +915,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Yukiya Maya」，与库内同一作者（麻耶雄嵩）的多数写法「Maya Yutaka」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2026（馆藏题名「献给麦卡托与美袋的谋杀」／麻耶雄嵩）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1520,7 +1520,7 @@
     "title": "谁彼",
     "originalTitle": "誰彼",
     "author": "法月纶太郎",
-    "authorEn": "Rintaro Norizuki",
+    "authorEn": "Norizuki Rintaro",
     "genre": "本格推理",
     "firstPublished": "1992",
     "series": "",
@@ -1585,7 +1585,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Rintaro Norizuki」，与库内同一作者（法月纶太郎）的多数写法「Norizuki Rintaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-22-jp-honkaku-expand.json",
@@ -1597,7 +1597,7 @@
     "title": "法月纶太郎的冒险",
     "originalTitle": "法月綸太郎の冒険",
     "author": "法月纶太郎",
-    "authorEn": "Rintaro Norizuki",
+    "authorEn": "Norizuki Rintaro",
     "genre": "本格推理",
     "firstPublished": "1992",
     "series": "法月纶太郎系列",
@@ -1668,7 +1668,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Rintaro Norizuki」，与库内同一作者（法月纶太郎）的多数写法「Norizuki Rintaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-22-jp-honkaku-expand.json",

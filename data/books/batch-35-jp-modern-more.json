@@ -863,7 +863,7 @@
     "title": "时空旅行者的沙漏",
     "originalTitle": "時空旅行者の砂時計",
     "author": "方丈贵惠",
-    "authorEn": "Hojo Yoshie",
+    "authorEn": "Hojo Kie",
     "genre": "本格推理",
     "firstPublished": "2019",
     "series": "方丈贵惠作品",
@@ -935,7 +935,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Hojo Yoshie」，与库内同一作者（方丈贵惠）的多数写法「Hojo Kie」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2021（时空旅行者的沙漏／(日) 方丈贵惠著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1136,7 +1136,7 @@
     "title": "密室黄金时代的杀人事件",
     "originalTitle": "密室黄金時代の殺人",
     "author": "鸭崎暖炉",
-    "authorEn": "Kamozaki Danro",
+    "authorEn": "Danro Kamizaki",
     "genre": "本格推理",
     "firstPublished": "2022",
     "series": "密室时代悬疑事件",
@@ -1210,7 +1210,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Kamozaki Danro」，与库内同一作者（鸭崎暖炉）的多数写法「Danro Kamizaki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,北京日报出版社:,2023.03（密室黄金时代的杀人事件／(日)鸭崎暖炉著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1416,7 +1416,7 @@
     "title": "羔羊的盛宴",
     "originalTitle": "儚い羊たちの祝宴",
     "author": "米泽穗信",
-    "authorEn": "Yonezawa Honobu",
+    "authorEn": "Honobu Yonezawa",
     "genre": "犯罪悬疑",
     "firstPublished": "2008",
     "series": "米泽穗信精选集",
@@ -1489,7 +1489,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **authorEn 归一（第 143 轮）**：本条原记「Yonezawa Honobu」，与库内同一作者（米泽穗信）的多数写法「Honobu Yonezawa」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2020（羔羊的盛宴／(日) 米泽穗信著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

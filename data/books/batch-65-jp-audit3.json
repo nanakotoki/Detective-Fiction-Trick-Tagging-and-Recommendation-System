@@ -4,7 +4,7 @@
     "title": "日本灭绝计划",
     "originalTitle": "コズミック・ゼロ 日本絶滅計画",
     "author": "清凉院流水",
-    "authorEn": "Ryusui Seiryuin",
+    "authorEn": "Rui Seiryoin",
     "genre": "冒险悬疑",
     "firstPublished": "",
     "series": "COSMIC 系列",
@@ -76,7 +76,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书名、原作名、出版信息取自豆瓣条目（译林出版社 2011 年 3 月版），梗概据公开内容简介重写并经人工核对 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「出版信息取自豆瓣条目（译林出版社 2011」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+      "source": "书名、原作名、出版信息取自豆瓣条目（译林出版社 2011 年 3 月版），梗概据公开内容简介重写并经人工核对 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「出版信息取自豆瓣条目（译林出版社 2011」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。 **authorEn 归一（第 143 轮）**：本条原记「Ryusui Seiryuin」，与库内同一作者（清凉院流水）的多数写法「Rui Seiryoin」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-65-jp-audit3.json",

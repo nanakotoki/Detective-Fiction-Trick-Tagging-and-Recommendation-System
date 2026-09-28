@@ -675,7 +675,7 @@
     "title": "孤岛的来访者",
     "originalTitle": "孤島の来訪者",
     "author": "方丈贵惠",
-    "authorEn": "Kei Hojo",
+    "authorEn": "Hojo Kie",
     "genre": "本格推理",
     "firstPublished": "2019",
     "series": "",
@@ -745,7 +745,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kei Hojo」，与库内同一作者（方丈贵惠）的多数写法「Hojo Kie」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2023（孤岛的来访者／(日) 方丈贵惠著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -759,7 +759,7 @@
     "title": "涂佛之宴·宴之始末",
     "originalTitle": "塗仏の宴 宴の始末",
     "author": "京极夏彦",
-    "authorEn": "Natsuhiko Kyogoku",
+    "authorEn": "Kyogoku Natsuhiko",
     "genre": "新本格",
     "firstPublished": "1998",
     "series": "百鬼夜行系列",
@@ -829,7 +829,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Natsuhiko Kyogoku」，与库内同一作者（京极夏彦）的多数写法「Kyogoku Natsuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2011（馆藏题名「涂佛之宴 宴之始末 上」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -843,7 +843,7 @@
     "title": "阴摩罗鬼之瑕",
     "originalTitle": "陰摩羅鬼の瑕",
     "author": "京极夏彦",
-    "authorEn": "Natsuhiko Kyogoku",
+    "authorEn": "Kyogoku Natsuhiko",
     "genre": "新本格",
     "firstPublished": "2003",
     "series": "百鬼夜行系列",
@@ -915,7 +915,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Natsuhiko Kyogoku」，与库内同一作者（京极夏彦）的多数写法「Kyogoku Natsuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：上海 上海人民出版社 2012（馆藏题名「阴摩罗鬼之瑕 下」／京极夏彦）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -929,7 +929,7 @@
     "title": "巷说百物语",
     "originalTitle": "巷説百物語",
     "author": "京极夏彦",
-    "authorEn": "Natsuhiko Kyogoku",
+    "authorEn": "Kyogoku Natsuhiko",
     "genre": "变格",
     "firstPublished": "1999",
     "series": "巷说百物语系列",
@@ -998,7 +998,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Natsuhiko Kyogoku」，与库内同一作者（京极夏彦）的多数写法「Kyogoku Natsuhiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2016.04（巷说百物语／(日) 京极夏彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1590,7 +1590,7 @@
     "title": "夜行观览车",
     "originalTitle": "夜行観覧車",
     "author": "凑佳苗",
-    "authorEn": "Kanae Minato",
+    "authorEn": "Minato Kanae",
     "genre": "社会派",
     "firstPublished": "2010",
     "series": "",
@@ -1659,7 +1659,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Kanae Minato」，与库内同一作者（凑佳苗）的多数写法「Minato Kanae」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-24-jp-modern-fill.json",
@@ -1759,7 +1759,7 @@
     "title": "蒲生邸事件",
     "originalTitle": "蒲生邸事件",
     "author": "宫部美雪",
-    "authorEn": "Miyuki Miyabe",
+    "authorEn": "Miyabe Miyuki",
     "genre": "犯罪悬疑",
     "firstPublished": "1996",
     "series": "",
@@ -1829,7 +1829,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **authorEn 归一（第 143 轮）**：本条原记「Miyuki Miyabe」，与库内同一作者（宫部美雪）的多数写法「Miyabe Miyuki」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2016（馆藏题名「蒲生邸事件」／宫部美雪）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {

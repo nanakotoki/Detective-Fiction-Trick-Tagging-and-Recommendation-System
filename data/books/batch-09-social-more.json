@@ -771,7 +771,7 @@
     "title": "半落",
     "originalTitle": "半落ち",
     "author": "横山秀夫",
-    "authorEn": "Hideo Yokoyama",
+    "authorEn": "Yokoyama Hideo",
     "genre": "社会派",
     "firstPublished": "2002",
     "series": "",
@@ -843,7 +843,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Hideo Yokoyama」，与库内同一作者（横山秀夫）的多数写法「Yokoyama Hideo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：天津:,百花文艺出版社:,2017（半落／(日) 横山秀夫著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1195,7 +1195,7 @@
     "title": "恸哭",
     "originalTitle": "慟哭",
     "author": "贯井德郎",
-    "authorEn": "Tokuro Nukui",
+    "authorEn": "Nukui Tokuro",
     "genre": "社会派",
     "firstPublished": "1993",
     "series": "",
@@ -1268,7 +1268,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Tokuro Nukui」，与库内同一作者（贯井德郎）的多数写法「Nukui Tokuro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2017.03（恸哭／(日) 贯井德郎著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {

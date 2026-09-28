@@ -4,7 +4,7 @@
     "title": "黑死馆杀人事件",
     "originalTitle": "黒死館殺人事件",
     "author": "小栗虫太郎",
-    "authorEn": "Mushitaro Oguri",
+    "authorEn": "Oguri Mushitaro",
     "genre": "变格",
     "firstPublished": "1934",
     "series": "法水麟太郎系列",
@@ -75,7 +75,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Mushitaro Oguri」，与库内同一作者（小栗虫太郎）的多数写法「Oguri Mushitaro」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：南京:,江苏凤凰文艺出版社:,2019（黑死馆杀人事件／小栗虫太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -89,7 +89,7 @@
     "title": "脑髓地狱",
     "originalTitle": "ドグラ・マグラ",
     "author": "梦野久作",
-    "authorEn": "Kyusaku Yumeno",
+    "authorEn": "Yumeno Kyusaku",
     "genre": "变格",
     "firstPublished": "1935",
     "series": "非系列",
@@ -161,7 +161,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理"
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Kyusaku Yumeno」，与库内同一作者（梦野久作）的多数写法「Yumeno Kyusaku」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",
@@ -173,7 +173,7 @@
     "title": "阴兽",
     "originalTitle": "陰獣",
     "author": "江户川乱步",
-    "authorEn": "Ranpo Edogawa",
+    "authorEn": "Edogawa Ranpo",
     "genre": "变格",
     "firstPublished": "1928",
     "series": "非系列",
@@ -245,7 +245,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理"
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Ranpo Edogawa」，与库内同一作者（江户川乱步）的多数写法「Edogawa Ranpo」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",
@@ -257,7 +257,7 @@
     "title": "刺青杀人事件",
     "originalTitle": "刺青殺人事件",
     "author": "高木彬光",
-    "authorEn": "Akimitsu Takagi",
+    "authorEn": "Takagi Akimitsu",
     "genre": "本格推理",
     "firstPublished": "1948",
     "series": "神津恭介系列",
@@ -326,7 +326,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Akimitsu Takagi」，与库内同一作者（高木彬光）的多数写法「Takagi Akimitsu」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「刺青杀人事件」／高木彬光）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -340,7 +340,7 @@
     "title": "不连续杀人事件",
     "originalTitle": "不連続殺人事件",
     "author": "坂口安吾",
-    "authorEn": "Ango Sakaguchi",
+    "authorEn": "Sakaguchi Ango",
     "genre": "本格推理",
     "firstPublished": "1948",
     "series": "非系列",
@@ -412,7 +412,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 97 轮）**：候选《非连续杀人事件》（群众出版社 1999，ISBN 7-5014-1892-6，丛编「日本推理小说文库」）与库内本条同作（原作名 `不連続殺人事件`），「不连续／非连续」是同一日语词的不同译法，故不另立条目。 **同书异名登记（第 139 轮）**：台版条目页原作名 `不連続殺人事件`，与库内本条（`japan2-005`）同作。"
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 97 轮）**：候选《非连续杀人事件》（群众出版社 1999，ISBN 7-5014-1892-6，丛编「日本推理小说文库」）与库内本条同作（原作名 `不連続殺人事件`），「不连续／非连续」是同一日语词的不同译法，故不另立条目。 **同书异名登记（第 139 轮）**：台版条目页原作名 `不連続殺人事件`，与库内本条（`japan2-005`）同作。 **authorEn 归一（第 143 轮）**：本条原记「Ango Sakaguchi」，与库内同一作者（坂口安吾）的多数写法「Sakaguchi Ango」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",
@@ -516,7 +516,7 @@
     "title": "黑色皮箱",
     "originalTitle": "黒いトランク",
     "author": "鲇川哲也",
-    "authorEn": "Tetsuya Ayukawa",
+    "authorEn": "Ayukawa Tetsuya",
     "genre": "本格推理",
     "firstPublished": "1956",
     "series": "鬼贯警部系列",
@@ -587,7 +587,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Tetsuya Ayukawa」，与库内同一作者（鲇川哲也）的多数写法「Ayukawa Tetsuya」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 新星出版社 2012（馆藏题名「黑色皮箱」／鲇川哲也）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -601,7 +601,7 @@
     "title": "影子的告发",
     "originalTitle": "影の告発",
     "author": "土屋隆夫",
-    "authorEn": "Takao Tsuchiya",
+    "authorEn": "Tsuchiya Takao",
     "genre": "本格推理",
     "firstPublished": "1959",
     "series": "千草检察官系列",
@@ -670,7 +670,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理 **又名补充**：吉林出版集团「七曜文库·千草检察官系列」出有《影子的控诉》（2013，marc 0000295548，ISBN 978-7-5534-0116-4），系列编号为第 1 作，与本书同为 影の告発，是同一部作品的另一种中译名；据公开书目页「七曜文库·千草检察官系列1：影子的控诉」确认为同书，故记为「又名」而不另立条目。"
+      "source": "整理者据公开出版信息与先验知识整理 **又名补充**：吉林出版集团「七曜文库·千草检察官系列」出有《影子的控诉》（2013，marc 0000295548，ISBN 978-7-5534-0116-4），系列编号为第 1 作，与本书同为 影の告発，是同一部作品的另一种中译名；据公开书目页「七曜文库·千草检察官系列1：影子的控诉」确认为同书，故记为「又名」而不另立条目。 **authorEn 归一（第 143 轮）**：本条原记「Takao Tsuchiya」，与库内同一作者（土屋隆夫）的多数写法「Tsuchiya Takao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",
@@ -770,7 +770,7 @@
     "title": "亚爱一郎的狼狈",
     "originalTitle": "亜愛一郎の狼狽",
     "author": "泡坂妻夫",
-    "authorEn": "Tsumao Awasaka",
+    "authorEn": "Awasaka Tsumao",
     "genre": "本格推理",
     "firstPublished": "1978",
     "series": "亚爱一郎系列",
@@ -839,7 +839,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **authorEn 归一（第 143 轮）**：本条原记「Tsumao Awasaka」，与库内同一作者（泡坂妻夫）的多数写法「Awasaka Tsumao」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2014（馆藏题名「亚爱一郎的狼狈」／泡坂妻夫）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -935,7 +935,7 @@
     "title": "一朵桔梗花",
     "originalTitle": "戻り川心中 / 夕萩心中",
     "author": "连城三纪彦",
-    "authorEn": "Mikihiko Renjo",
+    "authorEn": "Renjo Mikihiko",
     "genre": "犯罪悬疑",
     "firstPublished": "1980",
     "series": "花葬系列",
@@ -1005,7 +1005,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 140 轮）**：台版条目页原作名 `戻り川心中`，与库内本条（`japan2-012`，原题记「戻り川心中 / 夕萩心中」）同作——**《花葬》是台版给这组连作短篇的题名**。",
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 140 轮）**：台版条目页原作名 `戻り川心中`，与库内本条（`japan2-012`，原题记「戻り川心中 / 夕萩心中」）同作——**《花葬》是台版给这组连作短篇的题名**。 **authorEn 归一（第 143 轮）**：本条原记「Mikihiko Renjo」，与库内同一作者（连城三纪彦）的多数写法「Renjo Mikihiko」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2017（一朵桔梗花／(日) 连城三纪彦著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1357,7 +1357,7 @@
     "title": "星降山庄谜案",
     "originalTitle": "星降り山荘の殺人",
     "author": "仓知淳",
-    "authorEn": "Jun Kurachi",
+    "authorEn": "Kurachi Jun",
     "genre": "新本格",
     "firstPublished": "1996",
     "series": "非系列",
@@ -1429,7 +1429,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理 **又名补充**：午夜文库·日系佳作另出《星降山庄杀人事件》（新星出版社 2021-7，subject/35458526，308 页，ISBN 9787513345156），原作名同为 星降り山荘の殺人，是同一部作品的另一种中译名，故记为「又名」而不另立条目。 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「（新星出版社 2021-7」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。"
+      "source": "整理者据公开出版信息与先验知识整理 **又名补充**：午夜文库·日系佳作另出《星降山庄杀人事件》（新星出版社 2021-7，subject/35458526，308 页，ISBN 9787513345156），原作名同为 星降り山荘の殺人，是同一部作品的另一种中译名，故记为「又名」而不另立条目。 **版本年提取（2026-09）**：本条原先未填 `editionYear`。该字段（本库所引版本的出版年）在此前的溯源文本里已有记载——「（新星出版社 2021-7」——故抽成字段，未引入新信息、未改动 `firstPublished`（作品原作年）。 **authorEn 归一（第 143 轮）**：本条原记「Jun Kurachi」，与库内同一作者（仓知淳）的多数写法「Kurachi Jun」不一致，已统一——同一个作者在页面上只会有一份罗马字写法（规则：取多数，平手取字典序在前者，空值不覆盖）。"
     },
     "provenance": {
       "source": "batch-14-japanese-more.json",

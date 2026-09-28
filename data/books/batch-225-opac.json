@@ -1,0 +1,867 @@
+[
+  {
+    "id": "opac143-001",
+    "title": "祈祷落幕时",
+    "originalTitle": "祈りの幕が下りる時",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "加贺恭一郎系列",
+    "detective": "加贺恭一郎",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "series-detective",
+      "obsession"
+    ],
+    "school": [
+      "social-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "加贺恭一郎系列的一册：一具尸体牵出的，是两个家庭各自藏了多年的旧事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 52095,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26118072/",
+        "subjectId": "26118072",
+        "edition": "祈祷落幕时 2015",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "加贺系列的读者",
+        "东野圭吾的读者"
+      ],
+      "watchFor": [
+        "两家人各自的说法",
+        "加贺为什么盯着这条线"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/26118072/`：南海出版公司 2015-1，ISBN 9787544274692，296 页，丛编「**新经典文库·东野圭吾作品**」；**原作名** 该页给出 `祈りの幕が下りる時`。**评分**：**7.8**、52095 人评价（2026-09 抓取）。**判据**：作者东野圭吾（**库内已有其 96 部**，写法沿用）+ 条目页简介为案件结构。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-002",
+    "title": "彷徨之刃",
+    "originalTitle": "さまよう刃",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "revenge",
+      "social-commentary",
+      "vigilante",
+      "fear"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "女儿被杀之后，父亲手里多了一把刀：法律给出的答案与他想要的那个答案，不是同一个。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.9。",
+        "score": 7.9,
+        "count": 22648,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5347699/",
+        "subjectId": "5347699",
+        "edition": "彷徨之刃 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "社会派推理的读者",
+        "东野圭吾的读者"
+      ],
+      "watchFor": [
+        "父亲一步步走到哪里",
+        "法律与私刑之间那条线"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/5347699/`：南海出版公司 2011-1，ISBN 9787544249904，327 页，丛编「新经典文库·东野圭吾作品」；原作名 `さまよう刃`。**评分**：**7.9**、22648 人评价（2026-09 抓取）。**判据**：作者先例 + 条目页简介为案件结构。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-003",
+    "title": "黑笑小说",
+    "originalTitle": "黒笑小説",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "笑系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「笑系列」的第一册短篇集：把文坛与出版圈的日常写成黑色玩笑，笑点底下藏着刀。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.6。",
+        "score": 7.6,
+        "count": 17234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4213995/",
+        "subjectId": "4213995",
+        "edition": "黑笑小说 2010",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "短篇讽刺的读者"
+      ],
+      "watchFor": [
+        "每篇里被调侃的那个行业角色",
+        "玩笑最后落在谁身上"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/4213995/`：南海出版公司 2010-7，ISBN 9787544246286，240 页，丛编「新经典文库·东野圭吾作品」；原作名 `黒笑小説`。**评分**：**7.6**、17234 人评价（2026-09 抓取）。**体例**：条目页与丛书信息显示本册为**短篇集**，故 `series` 记「笑系列（短篇集）」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-004",
+    "title": "毒笑小说",
+    "originalTitle": "どくしょうしょうせつ",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "笑系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "dark-atmosphere",
+      "ensemble",
+      "curiosity"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "「笑系列」的第二册：这一册的玩笑更毒——读完常要回头确认刚才笑的是什么。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 13855,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4718973/",
+        "subjectId": "4718973",
+        "edition": "毒笑小说 2010",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "短篇讽刺的读者"
+      ],
+      "watchFor": [
+        "每篇的「毒」下在哪里",
+        "叙述者自己有没有被写进去"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/4718973/`：南海出版公司 2010-9，ISBN 9787544247085，256 页，丛编「新经典文库·东野圭吾作品」；原作名 `どくしょうしょうせつ`。**评分**：**7.8**、13855 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-005",
+    "title": "怪笑小说",
+    "originalTitle": "かいしょうしょうせつ",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "笑系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "ensemble",
+      "curiosity",
+      "legend-folklore"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「笑系列」的第三册：怪谈、都市传说与日常的荒诞混在一起，读起来最接近「怪」字。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.9。",
+        "score": 7.9,
+        "count": 13192,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/5380266/",
+        "subjectId": "5380266",
+        "edition": "怪笑小说 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "怪奇短篇的读者"
+      ],
+      "watchFor": [
+        "每篇的怪事有没有解释",
+        "结尾的落点"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/5380266/`：南海出版公司 2011-2，ISBN 9787544250399，210 页，丛编「新经典文库·东野圭吾作品」；原作名 `かいしょうしょうせつ`。**评分**：**7.9**、13192 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-006",
+    "title": "歪笑小说",
+    "originalTitle": "歪笑小説",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "笑系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "ensemble",
+      "curiosity",
+      "city"
+    ],
+    "school": [
+      "meta-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「笑系列」的第四册：笑点歪了一点，读法也就跟着歪——出版圈的自我调侃继续。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": 4770,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26417643/",
+        "subjectId": "26417643",
+        "edition": "歪笑小说 2015",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "短篇讽刺的读者"
+      ],
+      "watchFor": [
+        "「歪」在哪里",
+        "每篇里最正经的那个人"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/26417643/`：南海出版公司 2015-7，ISBN 9787544278225，232 页，丛编「新经典文库·东野圭吾作品」；原作名 `歪笑小説`。**评分**：**7.4**、4770 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-007",
+    "title": "祈念守护人",
+    "originalTitle": "クスノキの番人",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "concealment",
+      "obsession",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一棵被当作「祈念」对象的樟树、一位守护它的年轻人：来祈念的人，各自带着不肯说的事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": 11660,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35017604/",
+        "subjectId": "35017604",
+        "edition": "祈念守护人 2020",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "温情向悬疑的读者"
+      ],
+      "watchFor": [
+        "来祈念的人各自要说什么",
+        "守护人的规矩"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/35017604/`：南海出版公司 2020-6，ISBN 9787544299015，314 页，丛编「新经典文库·东野圭吾作品」；原作名 `クスノキの番人`。**评分**：**7.5**、11660 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-008",
+    "title": "浪花少年侦探团",
+    "originalTitle": "浪花少年探偵団",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "浪花少年侦探团系列",
+    "detective": "竹内忍",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "youth",
+      "cozy",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "小学老师竹内忍与她的学生们组成「侦探团」：校园与街坊里的小谜团，一件件查过去。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 6970,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26935572/",
+        "subjectId": "26935572",
+        "edition": "浪花少年侦探团 2017",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "校园日常推理的读者",
+        "东野圭吾的读者"
+      ],
+      "watchFor": [
+        "孩子们各自的观察",
+        "老师把线索串起来的方式"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/26935572/`：南海出版公司 2017-3，ISBN 9787544286510，224 页，丛编「新经典文库·东野圭吾作品」；原作名 `浪花少年探偵団`。**评分**：**6.9**、6970 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-009",
+    "title": "大雪中的山庄",
+    "originalTitle": "ある閉ざされた雪の山荘で",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "closed-circle",
+      "snowfield",
+      "mansion",
+      "meta-fiction",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "meta-school"
+    ],
+    "safeSummary": "一群演员被大雪封在山庄里，按剧本演一出「连续杀人」——问题是，戏里的死法开始成真。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 10520,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27037148/",
+        "subjectId": "27037148",
+        "edition": "大雪中的山庄 2017",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "暴风雪山庄题材的读者",
+        "东野圭吾的读者"
+      ],
+      "watchFor": [
+        "剧本与现实的对应关系",
+        "谁在按哪一版剧本走"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/27037148/`：北京十月文艺出版社 2017-6，ISBN 9787530216835，216 页，丛编「新经典文库·东野圭吾作品」；原作名 `ある閉ざされた雪の山荘で`。**评分**：**7.0**、10520 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-010",
+    "title": "悖论13",
+    "originalTitle": "パラドックス１３",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "nonlinear",
+      "fear",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一场事故之后，十三个人发现自己身处一座空掉的东京：规则变了，活下来本身成了谜题。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.4。",
+        "score": 7.4,
+        "count": 8694,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11511204/",
+        "subjectId": "11511204",
+        "edition": "悖论13 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "东野圭吾的读者",
+        "设定型悬疑的读者"
+      ],
+      "watchFor": [
+        "「13」这个数字的用法",
+        "各人各自的判断"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/11511204/`：南海出版公司 2012-9，ISBN 9787544260572，322 页，丛编「新经典文库·东野圭吾作品」；原作名 `パラドックス１３`。**评分**：**7.4**、8694 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac143-011",
+    "title": "盛夏方程式",
+    "originalTitle": "真夏の方程式",
+    "author": "东野圭吾",
+    "authorEn": "Keigo Higashino",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "伽利略系列",
+    "detective": "汤川学",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment",
+      "youth"
+    ],
+    "school": [
+      "logic-school",
+      "orthodox-school",
+      "forensic-school"
+    ],
+    "safeSummary": "伽利略系列的一册长篇：海边小镇的命案，汤川学与一个少年的夏天叠在一起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.5。",
+        "score": 7.5,
+        "count": 8064,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30317420/",
+        "subjectId": "30317420",
+        "edition": "盛夏方程式 2018",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "伽利略系列的读者",
+        "东野圭吾的读者"
+      ],
+      "watchFor": [
+        "少年隐瞒的那件事",
+        "汤川为什么在意他"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目与出版信息取自**豆瓣条目页** `https://book.douban.com/subject/30317420/`：南海出版公司 2018-11，ISBN 9787544294133，392 页，丛编「新经典文库·东野圭吾作品」；原作名 `真夏の方程式`。**评分**：**7.5**、8064 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-225-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
