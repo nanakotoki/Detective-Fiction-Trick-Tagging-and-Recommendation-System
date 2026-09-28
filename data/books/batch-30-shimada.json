@@ -583,14 +583,18 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 153 轮）**：人民文学出版社 2024 版分上下两册著录（上册副题「森孝传说」）；库内本条即该作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,人民文学出版社:,2024（龙卧亭幻想／(日) 岛田庄司著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-30-shimada.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2024"
+    "editionYear": "2024",
+    "alternateTitles": [
+      "龙卧亭幻想 上 森孝传说",
+      "龙卧亭幻想 下 N研究所的回忆"
+    ]
   },
   {
     "id": "shimada2-008",

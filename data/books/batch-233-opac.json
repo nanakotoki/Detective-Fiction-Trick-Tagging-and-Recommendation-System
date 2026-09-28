@@ -1,0 +1,893 @@
+[
+  {
+    "id": "opac153-001",
+    "title": "密室推理游戏 3 狂热粉",
+    "originalTitle": "",
+    "author": "歌野晶午",
+    "alternateTitles": [
+      "密室推理游戏 [3] 狂热粉"
+    ],
+    "authorEn": "Utano Shogo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "密室推理游戏系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "narrative-trick",
+      "meta-fiction",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "「密室推理游戏」第三册（新星出版社「午夜文库」2026）：五个推理爱好者在一个网站轮流出题，各自用凶手的口吻讲案子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢出题式推理的读者"
+      ],
+      "watchFor": [
+        "每个 ID 出的那道题",
+        "谁在照着真事出题"
+      ],
+      "warning": "本格推理；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：歌野晶午著，新星出版社 2026，ISBN 978-7-5133-6150-7，163 页，丛编「**午夜文库**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书为《狂热粉》分册，讲述五个拥有奇怪 ID 的推理小说爱好者，聚集在一个推理游戏相关的网站上轮流出题。他们各自以凶手的口吻描述案件，其余听者则需要在听完相关描述后分析案情与线索，破解谜团、找到真相。」**系列与排重**：库内已有该系列两部——**《密室推理游戏》（原作 `密室殺人ゲーム王手飛車取り`）**与**《密室杀人游戏2.0》（原作 `密室殺人ゲーム2.0`）**，分别对应池内的「[1] 抽车将」与「[2] 2.0」（两条已登记为别名，见 §153.2）；本册是系列第三部，故单独立条。**一处如实标注**：三册在上图**共用套书号** `978-7-5133-6150-7`（馆藏按套著录，本条只引得套号）。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2026。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-002",
+    "title": "密室犯罪推理",
+    "originalTitle": "",
+    "author": "天城一",
+    "authorEn": "Amagi Hajime",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "honkaku",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "天城一的密室论＋示范作（中国工人出版社 2018）：十篇不同类型的密室小说，配着谜面剖析与史上经典举例。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢密室题材的读者",
+        "对推理小说结构本身感兴趣的读者"
+      ],
+      "watchFor": [
+        "十篇各自把「密室」定义推到哪一步",
+        "讲解与小说交替的读法"
+      ],
+      "warning": "本格推理与评论合集；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：天城一著，中国工人出版社 2018，ISBN 978-7-5008-6891-0，279 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），**中图法 `I313.456`**（该馆给日本推理另设的尾号）。馆藏 **330 提要**：「推理小说与密室犯罪一直密不可分……日本推理界权威、被誉为『梦幻推理作家』的天城一，特别创作出十篇不同类型的密室小说做为范例，再配合讲解剖析各种密室的奥妙与破绽，并列举史上的经典代表作。」——**体裁是「小说＋评论」的合册**，这一点照著录写出，梗概只取这一层。**新作者**：库内无该作者；`authorEn` 记 `Amagi Hajime`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-003",
+    "title": "永劫馆超连续杀人事件 魔女决定与X赴死",
+    "originalTitle": "",
+    "author": "南海游",
+    "authorEn": "Minami Yu",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "isolated-island",
+      "locked-room",
+      "closed-circle",
+      "nonlinear"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "南海游的长篇（中国友谊出版公司 2025）：暴风雨把「永劫馆」变成孤岛，妹妹死在密室里，而他在魔女的眼睛里回到了前一天。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢设定系本格的读者",
+        "喜欢孤岛密室与时间回溯的读者"
+      ],
+      "watchFor": [
+        "「回到一天前」这条规则怎么用",
+        "那场暴风雨把谁留在了馆里"
+      ],
+      "warning": "设定系本格；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：南海游著，中国友谊出版公司 2025，ISBN 978-7-5057-6149-0，278 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「听闻母亲病危后返回古宅『永劫馆』……一场突如其来的暴风雨将永劫馆变成陆上孤岛，翌日希斯的盲眼妹妹在密室死去，随后魔女莉莉也遭遇了不幸。莉莉在濒死前拜托希斯注视她的眼睛，等希斯重新睁开眼睛，意外发现自己竟然回到了一天前的世界。」——**时间回溯这条设定照提要写出**，梗概到此为止、不写解答。**新作者**：库内无该作者；`authorEn` 记 `Minami Yu`（整理者转写）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-004",
+    "title": "月影古董鉴定帖 1",
+    "originalTitle": "",
+    "author": "谷崎泉",
+    "authorEn": "Tanizaki Izumi",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2017",
+    "series": "月影古董鉴定帖系列",
+    "detective": "白藤晴",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "curiosity",
+      "cozy",
+      "city"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「月影古董鉴定帖」第一册（百花洲文艺出版社 2017）：一位银行职员被卷进古董赝品的事，找上了躲着古董的白藤家。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢古董题材日常之谜的读者"
+      ],
+      "watchFor": [
+        "他为什么要躲着古董",
+        "那件赝品是从哪一步开始假的"
+      ],
+      "warning": "日常之谜长篇；无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：谷崎泉著，百花洲文艺出版社 2017，ISBN 978-7-5500-2318-5，232 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），**中图法 `I313.456`**。馆藏 **330 提要**：「在月影寺墓地一角的白藤晴和宇多苍一郎，一直过着平静的日子。然而，有一天一名银行职员梶上门找晴那已经去世的爷爷……基于过去的某些原因而逃避古董的晴……解开了事件的谜底，为梶洗脱了冤屈。」**这一册补的是系列的第一册**：库内原有第三册（《月影古董鉴定帖.3》），上一轮收到第二册，本册把系列补齐；`series`／`detective`／`school` 沿用既例。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2017。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-005",
+    "title": "樱子小姐脚下埋着秘密 3 雨水、九月与你的谎言",
+    "originalTitle": "",
+    "author": "太田紫织",
+    "authorEn": "Ota Shiori",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "樱子小姐脚下埋着秘密系列",
+    "detective": "九条樱子",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "youth",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "forensic-school"
+    ],
+    "safeSummary": "樱子小姐系列第三册（百花洲文艺出版社 2016）：内海警官收到老同学的「临终」邀请，觉得内有隐情。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢骨骼与动物题材的读者"
+      ],
+      "watchFor": [
+        "那条被说成会带来厄运的大狗",
+        "住家环境里露出的那点不对"
+      ],
+      "warning": "系列长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：太田紫织著，百花洲文艺出版社 2016，ISBN 978-7-5500-1905-8，219 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「老好人的内海警官突然收到一位老同学的『临终』邀请，内海担心内有隐情，于是登门拜访了樱子小姐……看到了那只传说中会给主人带来厄运的大狗，并从住家环境中探知了隐情的真相，最终在关键时刻救下了老同学的性命。」**系列归属**：库内已有该系列第 6 册，上一轮收到第 2 册，本册是第 3 册；写法沿用（`school` 含 `forensic-school`）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-006",
+    "title": "新宿鲛 Ⅲ 尸兰",
+    "originalTitle": "",
+    "author": "大泽在昌",
+    "authorEn": "Arimasa Osawa",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "新宿鲛系列",
+    "detective": "鲛岛",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "hardboiled",
+      "city",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "「新宿鲛」系列第三册（凤凰出版社 2012）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢硬汉派警察小说的读者"
+      ],
+      "watchFor": [
+        "鲛岛在新宿街头的那点分寸",
+        "这一册里他得罪了谁"
+      ],
+      "warning": "硬汉派长篇；含暴力与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：大泽在昌著，凤凰出版社 2012，ISBN 978-7-5506-1200-6，313 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。**系列归属与判据（②档）**：库内已有《新宿鲛》（原作 `新宿鮫`，即系列第一部），本册是第三部（`series` 记「新宿鲛系列」、主角记鲛岛，沿用既例；作者库内另有 1 部）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**评分**：豆瓣不可达，标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-007",
+    "title": "双面兽事件",
+    "originalTitle": "",
+    "author": "二阶堂黎人",
+    "alternateTitles": [
+      "双面兽事件 第一部",
+      "双面兽事件 第二部"
+    ],
+    "authorEn": "Nikaido Reito",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "二阶堂兰子系列",
+    "detective": "二阶堂兰子",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "series-detective",
+      "honkaku",
+      "multiple-solutions"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "二阶堂黎人的长篇（新星出版社「午夜文库」2011，上下两卷）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "二阶堂黎人的读者",
+        "喜欢本格长篇的读者"
+      ],
+      "watchFor": [
+        "「双面」这两个字在案子里指什么",
+        "兰子这次面对的是谁"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：二阶堂黎人著，新星出版社 2011，丛编「**午夜文库**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`；馆藏**分上下两卷两条**（上：ISBN 978-7-5133-0143-5，348 页；下：ISBN 978-7-5133-0175-6，317 页），按库内既例**合并为一条**，两个卷次写法登记为又名。**判据（②档的补充）**：**库内已有该作者 6 部**（《地狱奇术师》《久月邸事件》《恐怖的人狼城》《魔术王事件》《恶灵公馆》《恶魔迷宫》），`series` 记「二阶堂兰子系列」系按作者笔下这位侦探的既例（库内《魔术王事件》等条目的侦探栏即记二阶堂兰子）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-008",
+    "title": "死亡概率2/2",
+    "originalTitle": "",
+    "author": "岛田庄司",
+    "authorEn": "Soji Shimada",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "honkaku",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "岛田庄司的长篇（新星出版社「午夜文库」2009）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岛田庄司的读者",
+        "喜欢本格长篇的读者"
+      ],
+      "watchFor": [
+        "「2/2」这个概率是怎么算出来的",
+        "第一起与第二起之间的那处对称"
+      ],
+      "warning": "本格推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：岛田庄司著，新星出版社 2009，ISBN 978-7-80225-705-4，152 页，丛编「**午夜文库 $i岛田庄司推理小说**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**判据（②档的补充）**：**库内已有该作者 51 部**（《占星术杀人魔法》《斜屋犯罪》《奇想，天动》等，`genre` 多记本格推理）。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与作者层面撰写、不涉及情节。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-009",
+    "title": "恐怖之谷",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "森村诚一的长篇（中国社会出版社 2009）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "喜欢社会派的读者"
+      ],
+      "watchFor": [
+        "「谷」这个说法指的是地方还是处境",
+        "谁把线索压了下来"
+      ],
+      "warning": "社会派长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：森村诚一著，中国社会出版社 2009，ISBN 978-7-5087-2444-7，211 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**判据（②档的补充）**：**库内已有该作者 47 部**（《人性的证明》《野性的证明》等）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-010",
+    "title": "终点站",
+    "originalTitle": "",
+    "author": "森村诚一",
+    "authorEn": "Seiichi Morimura",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "social-commentary",
+      "timetable",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "森村诚一的长篇（中国社会出版社 2009）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "森村诚一的读者",
+        "喜欢列车与时刻题材的读者"
+      ],
+      "watchFor": [
+        "那一趟车为什么非停不可",
+        "「终点」指的是哪一件事"
+      ],
+      "warning": "社会派长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：森村诚一著，中国社会出版社 2009，ISBN 978-7-5087-2443-0，214 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**判据（②档的补充）**：库内已有该作者 47 部。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-011",
+    "title": "同屋",
+    "originalTitle": "",
+    "author": "今邑彩",
+    "authorEn": "Imamura Ayumi",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-role",
+      "psychological-misdirection",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "今邑彩的长篇（吉林出版集团 2012）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "今邑彩的读者",
+        "喜欢心理向悬疑的读者"
+      ],
+      "watchFor": [
+        "同一屋檐下两个人各自的作息",
+        "哪一句话是从谁嘴里说出来的"
+      ],
+      "warning": "心理悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：今邑彩著，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-7019-4，248 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者（另有一册《清晨，如故》同批收进）；`authorEn` 记 `Imamura Ayumi`（整理者转写）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  },
+  {
+    "id": "opac153-012",
+    "title": "清晨，如故",
+    "originalTitle": "",
+    "author": "今邑彩",
+    "authorEn": "Imamura Ayumi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "今邑彩的长篇（新星出版社「午夜文库·今邑彩作品」2012，471 页）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "今邑彩的读者",
+        "喜欢长篇群像悬疑的读者"
+      ],
+      "watchFor": [
+        "「如故」这两个字落在谁身上",
+        "几组人物各自的清晨"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索）：今邑彩著，新星出版社 2012，ISBN 978-7-5133-0810-6，471 页，丛编「**午夜文库 $i今邑彩作品**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**新作者**：库内无该作者（同批另收《同屋》）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-233-opac.json",
+      "ratingsNote": "本批十二册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+    }
+  }
+]

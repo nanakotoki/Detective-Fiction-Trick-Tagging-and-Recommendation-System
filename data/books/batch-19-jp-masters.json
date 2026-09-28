@@ -1585,12 +1585,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 153 轮）**：化学工业出版社 2021 版（ISBN 978-7-122-37677-0，289 页）与库内本条同作（原作 `99%の誘拐`）；池内该行把题名的拼音也写进了书名，故 `normText` 扣不掉。"
     },
     "provenance": {
       "source": "batch-19-jp-masters.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "99%诱拐 99% you guai"
+    ]
   },
   {
     "id": "jpmas-025",
