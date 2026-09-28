@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "opac130-001",
+    "title": "X局密档",
+    "originalTitle": "Secret Files of XSA",
+    "author": "赖继",
+    "authorEn": "Lai Ji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "spy-espionage",
+      "concealment",
+      "city",
+      "series-detective"
+    ],
+    "school": [
+      "spy-school",
+      "police-procedural",
+      "adventure-school"
+    ],
+    "safeSummary": "攸关国家安全的「深海」密码系统被境外势力盯上：国安干警霍敏和队员要抢在「修罗」组织之前把渗透网拆掉。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国安题材的读者",
+        "赖继的读者"
+      ],
+      "watchFor": [
+        "「深海」系统被盯上的那一环",
+        "对手为什么总能抢先一步"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**作者池**发现）：赖继著，四川人民出版社 2025，ISBN 978-7-220-13992-5，252 页，**学科主题词「长篇小说 中国 当代 ; 侦探小说 中国 当代」**，中图法 `I247.56`；**并列题名给出 `Secret files of XSA`**，故 `originalTitle` 记此值。**评分**：豆瓣以题名与「题名 + 作者名」两次检索**均无结果**，三个平台一律「暂无数据」，不编造。**年份字段**：中文原创，`firstPublished` 留空；`editionYear` 记 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，删去结尾的宣教句，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-002",
+    "title": "宿敌",
+    "originalTitle": "Silent Storm",
+    "author": "赖继",
+    "alternateTitles": [
+      "宿敌 山河无名"
+    ],
+    "authorEn": "Lai Ji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "spy-espionage",
+      "concealment",
+      "obsession",
+      "dual-line"
+    ],
+    "school": [
+      "spy-school",
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "2019 年，国安新人郭伟杰追查一桩陈年旧案，屡屡发现有人抢先一步拿到线索；十九年前那名因办案失误离职的警员，也一直在查同一件事。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国安题材的读者",
+        "双线追凶的读者"
+      ],
+      "watchFor": [
+        "抢先一步的那个人是谁",
+        "十九年前那次失误的细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：赖继著，四川文艺出版社 2024，ISBN 978-7-5411-7031-7，234 页，**学科主题词「侦探小说 中国 当代」**，中图法 `I247.5`；**并列题名给出 `Silent storm`**。**同书异名**：同馆另有贵州人民出版社 2020 年版（ISBN 978-7-221-16014-0，223 页），其**并列题名作 `山河无名`**——即同一部作品 2020 年的书名是《宿敌·山河无名》，2024 年重版改题《宿敌》；本库以此版为主条目，旧题登记为**又名**。**评分**：豆瓣两次检索均无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（2020 年版 `330` 字段，同作）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-003",
+    "title": "宿敌·白夜星辰",
+    "originalTitle": "Starry White Knight",
+    "author": "赖继",
+    "authorEn": "Lai Ji",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "identity",
+      "fear"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "一名羁押在看守所的重犯因视网膜脱离必须就医，押解他的警察依法保障其治疗；往返医院的路，成了两个人重新认识彼此的起点。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "执法题材的读者",
+        "赖继的读者"
+      ],
+      "watchFor": [
+        "押解途中两个人的关系",
+        "重犯后来交代的那条线索"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：赖继著，四川文艺出版社 2024，ISBN 978-7-5411-7017-1，212 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名同时给出 `Starry white knight` 与卷名「白夜星辰」**。**评分**：豆瓣条目页 `https://book.douban.com/subject/37093059/`（四川文艺出版社 2024-11，ISBN 9787541170171 —— 与馆藏 ISBN 一致，**同一版**）**尚无评分**，故三个平台一律「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-004",
+    "title": "你有罪 诡案现场鉴证",
+    "originalTitle": "",
+    "author": "刘真",
+    "authorEn": "Liu Zhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "女法医手记系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "法医视角的一册：现场留下的物证自己会说话，而要把它们读成证词，得先弄清「谁有罪」这件事从来不是一目了然的。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 144,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10522454/",
+        "subjectId": "10522454",
+        "edition": "你有罪 诡案现场鉴证 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "刑侦纪实的读者"
+      ],
+      "watchFor": [
+        "物证之间的先后关系",
+        "每一桩案子里的鉴定结论"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：刘真著，中国华侨出版社 2012，ISBN 978-7-5113-2063-6，281 页，**学科主题词「侦探小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名给出「诡案现场鉴证」**（即本册卷名）。**评分**：豆瓣条目页 `https://book.douban.com/subject/10522454/`（中国华侨出版社 2012-2，ISBN 9787511320636 —— 与馆藏 ISBN 一致，**同一版**；丛编「你有罪：诡案现场鉴证」）**6.6**、144 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：馆藏与条目页**均未提供本册提要**，故按**系列层面**撰写并如实标注，不虚构本册情节。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-005",
+    "title": "你有罪 诡案现场鉴证 2 犯罪升级",
+    "originalTitle": "",
+    "author": "刘真",
+    "authorEn": "Liu Zhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "女法医手记系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "series-detective",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural"
+    ],
+    "safeSummary": "系列第二册：案子的手法往上走了一层，鉴定与推理也要跟着升级——两册同为「女法医手记」的连续记录。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "刘真的读者"
+      ],
+      "watchFor": [
+        "与第一册相比手法变在哪里",
+        "鉴定环节的先后"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：刘真著，中国华侨出版社 2012，ISBN 978-7-5113-0987-7，268 页，**学科主题词「侦探小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名给出「诡案现场鉴证」**，池内题名另带卷次「2 犯罪升级」。**评分**：豆瓣以题名与作者两次检索未返回本册同版条目 → 「暂无数据」。**同作者**：库内已有其《女法医手记之证词》，本批收其该系列两册。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：**馆藏未提供本册提要**，按系列层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-006",
+    "title": "让死者闭眼",
+    "originalTitle": "",
+    "author": "刘真",
+    "authorEn": "Liu Zhen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "女法医手记系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "forensic",
+      "silencing",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "forensic-school",
+      "police-procedural",
+      "psychological-school"
+    ],
+    "safeSummary": "法医手记的一册：让死者「闭眼」的不是时间，而是把死因查清楚的那份鉴定与推理。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 455,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20172568/",
+        "subjectId": "20172568",
+        "edition": "让死者闭眼 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "法医题材的读者",
+        "刑侦纪实的读者"
+      ],
+      "watchFor": [
+        "尸检报告里对不上的那几处",
+        "案件之间的时间线"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：刘真著，湖南人民出版社 2012，ISBN 978-7-5438-8784-8，302 页，**学科主题词「推理小说 长篇小说 中国 当代」**，中图法 `I247.56`。**评分**：豆瓣条目页 `https://book.douban.com/subject/20172568/`（湖南人民出版社 2012-10，ISBN 9787543887848 —— 与馆藏 ISBN 一致，**同一版**；丛编「女法医手记」）**6.9**、455 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：馆藏未提供提要，条目页亦无简介，故按**题名与系列层面**撰写。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-007",
+    "title": "月光下的罪恶",
+    "originalTitle": "",
+    "author": "王建幸",
+    "authorEn": "Wang Jianxing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "上海文艺「东方侦探推理小说书系」的短篇集：夜色下的城市罪案，靠现场与口供一点点挤出来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦短篇的读者",
+        "王建幸的读者"
+      ],
+      "watchFor": [
+        "现场留下的痕迹",
+        "口供之间对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：王建幸著，上海文艺出版社 2008，ISBN 978-7-5321-3340-6，250 页，丛编「**东方侦探推理小说书系**」，**学科主题词「推理小说 作品集 中国 当代 ; 短篇小说 作品集 中国 当代」**，中图法 `I247.7`。**评分**：豆瓣条目页 `https://book.douban.com/subject/3178705/`（上海文艺出版社 2008-08，ISBN 9787532133406 —— 与馆藏 ISBN 一致，**同一版**）**尚无评分** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2008。**梗概**：馆藏未提供提要，按**书系与体例层面**撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-008",
+    "title": "无妄之灾",
+    "originalTitle": "",
+    "author": "王建幸",
+    "authorEn": "Wang Jianxing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2008",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "city",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "同书系的另一册短篇集：无妄之灾往往从一件小事开始，等到弄明白，代价已经付了。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦短篇的读者",
+        "王建幸的读者"
+      ],
+      "watchFor": [
+        "最初那件「小事」",
+        "各篇里办案的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：王建幸著，上海文艺出版社 2008，ISBN 978-7-5321-3361-1，242 页，丛编「**东方侦探推理小说书系**」，**学科主题词「短篇小说 作品集 中国 当代 ; 推理小说 作品集 中国 当代」**，中图法 `I247.7`。**评分**：豆瓣两次检索未返回同版条目 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2008。**梗概**：馆藏未提供提要，按**书系与体例层面**撰写。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-009",
+    "title": "滴血十字架",
+    "originalTitle": "",
+    "author": "王建幸",
+    "authorEn": "Wang Jianxing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2006",
+    "series": "肖剑悬疑侦探集",
+    "detective": "肖剑",
+    "country": "中国",
+    "tags": [
+      "city",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "「肖剑悬疑侦探集」的一册长篇：一具尸体、一枚十字架，办案人得先弄清这个记号是给谁看的。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产刑侦长篇的读者",
+        "王建幸的读者"
+      ],
+      "watchFor": [
+        "十字架出现的位置",
+        "记号想传达给谁"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：王建幸著，中国人民公安大学出版社 2006，ISBN 7-81109-294-8，370 页，丛编「**肖剑悬疑侦探集**」，**学科主题词「长篇小说 侦探小说 中国 现代」**，中图法 `I247.56`。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2006。**梗概**：馆藏未提供提要，按**丛编与题名层面**撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-010",
+    "title": "耳语娃娃",
+    "originalTitle": "",
+    "author": "艾西",
+    "authorEn": "Ai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2007",
+    "series": "非系列（中篇集）",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "fear",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「萌芽书系」的中篇集：娃娃在耳边说话这件事，究竟是谁在说、说给谁听。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.3。",
+        "score": 8.3,
+        "count": 510,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2261422/",
+        "subjectId": "2261422",
+        "edition": "耳语娃娃 2007",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "艾西的读者"
+      ],
+      "watchFor": [
+        "「耳语」出现的场合",
+        "叙述者自己的位置"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：接力出版社 2007，ISBN 978-7-80732-954-1，304 页，丛编「**萌芽书系**」，**学科主题词「推理小说 中篇小说 小说集 中国 当代」**，中图法 `I247.56`。**作者写法**：馆藏责任者作「**艾西恩**」（作者全名），库内既有条目统一写作「艾西」，本条沿用库内写法并在 evidence 记明。**评分**：豆瓣条目页 `https://book.douban.com/subject/2261422/`（接力出版社 2007-9，ISBN 9787807329541 —— 与馆藏 ISBN 一致，**同一版**）**8.3**、510 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2007。**梗概**：馆藏未提供提要，按题名与体例层面撰写。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-011",
+    "title": "面具馆",
+    "originalTitle": "",
+    "author": "艾西",
+    "authorEn": "Ai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2005",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "faceless-corpse",
+      "psychological-misdirection",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "美国西部城市接连出现尸体：每名受害者都被剥去脸皮，身边留下铁钉、硬币和一出血字——「面具即将归来」。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.1。",
+        "score": 8.1,
+        "count": 1221,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1004249/",
+        "subjectId": "1004249",
+        "edition": "面具馆 2005",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "连环案题材的读者"
+      ],
+      "watchFor": [
+        "凶手留在现场的那些「记号」",
+        "那行血字指的是谁"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：新世界出版社 2005，ISBN 7-80187-118-9，373 页，**学科主题词「长篇小说 中国 现代 ; 推理小说 中国 现代」**，中图法 `I247.56`。**作者写法**：馆藏责任者作「艾西恩」，库内统一写「艾西」（同上条）。**评分**：豆瓣条目页 `https://book.douban.com/subject/1004249/`（新世界出版社，ISBN 9787801871183 —— 与馆藏 ISBN 一致，**同一版**；条目页著录年份 2004-05，与馆藏 2005 略有出入，`editionYear` 仍记馆藏值）**8.1**、1221 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2005。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于谜面，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-012",
+    "title": "做局",
+    "originalTitle": "",
+    "author": "胡玥",
+    "authorEn": "Hu Yue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "city",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "「中国悬疑小说系列」的一册：有人先把局做圆了，才请办案的人进来——问题是这个局从哪一步开始。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产悬疑长篇的读者",
+        "胡玥的读者"
+      ],
+      "watchFor": [
+        "局是从哪一步开始搭的",
+        "各人各自知道多少"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：胡玥著，线装书局 2013，ISBN 978-7-5120-1021-5，260 页，丛编「**中国悬疑小说系列**」，**学科主题词「推理小说 中国 现代 ; 长篇小说 中国 现代」**，中图法 `I247.56`；同馆另有中国检察出版社 2007 年版（ISBN 978-7-80185-747-7，286 页），本条按池内指向的 2013 年版著录。**评分**：豆瓣两次检索未返回本作条目 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与丛编层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-013",
+    "title": "狭路相逢",
+    "originalTitle": "",
+    "author": "胡玥",
+    "authorEn": "Hu Yue",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2001",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "concealment",
+      "fear",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一册早年的长篇侦破小说：两条本不相干的线越走越近，狭路相逢时，才知道谁在追谁。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产侦破长篇的读者",
+        "胡玥的读者"
+      ],
+      "watchFor": [
+        "两条线第一次交叉的地方",
+        "谁在追谁"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：胡玥著，作家出版社 2001，ISBN 7-5063-2216-1，332 页，**学科主题词「长篇小说 侦探小说 中国 当代」**，中图法 `I247.5`。**评分**：豆瓣两次检索未返回同版条目 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2001。**梗概**：馆藏未提供提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-014",
+    "title": "幸存者记忆",
+    "originalTitle": "幽冥怪谈",
+    "author": "宁航一",
+    "authorEn": "Ning Hangyi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "isolated-island",
+      "ensemble",
+      "fear",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "二十年前一场海难把一群人困在孤岛；为了让日子撑下去，他们每晚轮流讲一个最不可思议的故事——讲完的人，一个接一个死去。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.2。",
+        "score": 6.2,
+        "count": 132,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36939804/",
+        "subjectId": "36939804",
+        "edition": "幸存者记忆 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "孤岛题材的读者",
+        "宁航一的读者"
+      ],
+      "watchFor": [
+        "那些「故事」与死亡的关系",
+        "幸存者记得的与不记得的"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：宁航一著，北京联合出版公司 2024，ISBN 978-7-5596-7711-2，**3 册（744 页）**，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`——即**同一部作品分装三册**（与同批《密室王国》2 册同例），按一条著录。**原作名**：豆瓣条目页 `https://book.douban.com/subject/36939804/`（北京联合出版公司 2024-9，ISBN 9787559677112 —— 与馆藏 ISBN 一致，**同一版**）给出 `幽冥怪谈`。**评分**：**6.2**、132 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于「究竟有什么不为人知的秘密往事」，不揭真相。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-015",
+    "title": "多出来的第14个人",
+    "originalTitle": "The Extra Fourteenth",
+    "author": "宁航一",
+    "authorEn": "Ning Hangyi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "1/14 系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "concealment",
+      "fear",
+      "dual-line"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "「1/14」系列的一册：人数对不上的时候，多出来的那一个往往就是问题本身。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7。",
+        "score": 7,
+        "count": 2366,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24855160/",
+        "subjectId": "24855160",
+        "edition": "多出来的第14个人 2013",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宁航一的读者",
+        "群像悬疑的读者"
+      ],
+      "watchFor": [
+        "十四个人的名单",
+        "多出来的那一位是谁"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：宁航一著，长江文艺出版社 2013，ISBN 978-7-5354-6698-3，288 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名给出 `Extra fourteenth`**。**评分**：豆瓣条目页 `https://book.douban.com/subject/24855160/`（长江文艺出版社 2013-7，ISBN 9787535466983 —— 与馆藏 ISBN 一致，**同一版**；丛编「1/14」）**7.0**、2366 人评价（2026-09 抓取）。**系列**：馆藏丛编项未给系列名，豆瓣条目页丛编著录为「1/14」，本条据此记 `series`。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。**梗概**：馆藏未提供提要，按题名与系列层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-016",
+    "title": "吸血鬼传说",
+    "originalTitle": "Tale of Vampire",
+    "author": "王稼骏",
+    "authorEn": "Wang Jiajun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "legend-folklore",
+      "dark-atmosphere",
+      "city",
+      "fear"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「诡故事」丛书的一册短篇集：《赎罪》《它杀》《天字一号》《偷拍者》《吸血鬼传说》五篇，谜面都从一个传说或一件小事起头。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产短篇悬疑的读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "传说与案子的连接点",
+        "每篇里最先被忽略的细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：王稼骏著，哈尔滨出版社 2018，ISBN 978-7-5484-4218-9，179 页，丛编「**诡故事**」，**学科主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**，中图法 `I247.7`；**并列题名给出 `Tale of vampire`**；**馆藏提要直接列出五篇篇名**（《赎罪》《它杀》《天字一号》《偷拍者》《吸血鬼传说》），梗概即据此。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-017",
+    "title": "14号推理当铺",
+    "originalTitle": "",
+    "author": "王稼骏、刘念夕",
+    "authors": [
+      "王稼骏",
+      "刘念夕"
+    ],
+    "authorEn": "Wang Jiajun",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "非系列（短篇集）",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "curiosity",
+      "locked-room",
+      "multiple-solutions",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "一家当铺，十四号：来典当的东西各式各样，跟着它们一起进来的还有一桩桩要解开的谜。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.2。",
+        "score": 5.2,
+        "count": 180,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4262002/",
+        "subjectId": "4262002",
+        "edition": "14号推理当铺 2010",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "国产本格短篇的读者",
+        "王稼骏的读者"
+      ],
+      "watchFor": [
+        "每件「当品」的用处",
+        "当铺主人的判断依据"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：**责任者项署王稼骏、刘念夕两人**（库内此前无刘念夕，本批按其著作录入），广西人民出版社，ISBN 978-7-219-06815-1，**中图法 `I247.7`、学科主题词「推理小说 小说集 中国 现代 ; 中篇小说 小说集 中国 现代 ; 短篇小说 小说集 中国 现代」**；同馆有两笔以该 ISBN 著录的记录：2010 年版 297 页、2013 年「2 版」233 页——**同一部作品**，本条按与豆瓣条目对得上的 **2010 年版**著录。**评分**：豆瓣条目页 `https://book.douban.com/subject/4262002/`（广西人民出版社 2010-02，ISBN 9787219068151 —— 与馆藏 ISBN 一致，**同一版**）**5.2**、180 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。**梗概**：馆藏与条目页均无提要，按题名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-018",
+    "title": "敦煌 碧海青天",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "city",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "「中国古代大案探奇录」的一册（上下卷之上）：敦煌城里的案子与沙州旧事缠在一起，查案先要读懂人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "吴蔚的读者"
+      ],
+      "watchFor": [
+        "上下两卷的分界处",
+        "案卷与史事对不上的地方"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：吴蔚著，中国民主法制出版社 2015，269 页，ISBN 978-7-5162-0872-4（另有套号 978-7-5162-1926-3），丛编「**中国古代大案探奇录**」，**学科主题词「侦探小说 中国 当代」**，中图法 `I247.53`；**并列题名给出卷名「碧海青天」**。**同书分卷**：同馆另一条记录（225 页）并列题名作「关山孤月」——两卷共用同一 ISBN，按库内对吴蔚同系列《柳如是》上下卷的既有处理**分列两条**。**评分**：豆瓣两次检索未返回本作条目 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。**梗概**：馆藏未提供提要，按丛编与卷名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-019",
+    "title": "敦煌 关山孤月",
+    "originalTitle": "",
+    "author": "吴蔚",
+    "authorEn": "Wu Wei",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "中国古代大案探奇录",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "city",
+      "concealment",
+      "obsession"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "「中国古代大案探奇录」的一册（上下卷之下）：关山之外孤月之下，前一卷留下的线头要在这里收拢。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "历史推理的读者",
+        "吴蔚的读者"
+      ],
+      "watchFor": [
+        "上一卷留下的线头",
+        "各条支线收束的次序"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：吴蔚著，中国民主法制出版社 2015，225 页，ISBN 978-7-5162-0872-4（套号 978-7-5162-1926-3），丛编「**中国古代大案探奇录**」，**学科主题词「侦探小说 中国 当代」**，中图法 `I247.53`；**并列题名给出卷名「关山孤月」**（与上一条同书分卷）。**评分**：豆瓣两次检索无结果 → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。**梗概**：馆藏未提供提要，按丛编与卷名层面撰写。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-020",
+    "title": "卅街档案馆",
+    "originalTitle": "",
+    "author": "叶遁",
+    "authorEn": "Ye Dun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "city",
+      "dark-atmosphere",
+      "concealment",
+      "historical-setting"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "一册从旧档案里长出来的悬疑长篇：档案里记下的事与人，几十年后还在影响活着的人。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 173,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6522861/",
+        "subjectId": "6522861",
+        "edition": "卅街档案馆 2011",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "档案体悬疑的读者",
+        "叶遁的读者"
+      ],
+      "watchFor": [
+        "档案的记载与口述的差别",
+        "旧事牵扯到谁"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：叶遁著，中信出版社 2011，ISBN 978-7-5086-2858-5，299 页，**学科主题词「推理小说 中国 现代」**，中图法 `I247.56`。**评分**：豆瓣条目页 `https://book.douban.com/subject/6522861/`（中信出版社 2011-7，ISBN 9787508628585 —— 与馆藏 ISBN 一致，**同一版**）**6.9**、173 人评价（2026-09 抓取）。**同作者**：库内已有其《北平双探》《侦畸者》《辽东轶闻手记》。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与体例层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-021",
+    "title": "十三个谜",
+    "originalTitle": "",
+    "author": "乔治·西默农",
+    "authorEn": "Georges Simenon",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "比利时",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "city",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "西默农的十三个短篇谜案（群众「乔治·西默农侦探小说」系列）：每篇一个独立谜面，解法各走一路。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 42,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1146389/",
+        "subjectId": "1146389",
+        "edition": "十三个谜 2004",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "短篇解谜的读者",
+        "西默农的读者"
+      ],
+      "watchFor": [
+        "每篇谜面的「条件」",
+        "西默农式的心理动机"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：西默农著，庞爱菊、马四近译，群众出版社 2004，ISBN 7-5014-2938-3，330 页，丛编「**乔治·西默农侦探小说**」，**学科主题词「侦探小说 作品集 比利时 现代」**，中图法 `I564.45`；同馆另有 2001 年版（ISBN 7-5014-2474-8，447 页，丛编「世界侦探惊险名著文库」）。**原作名**：馆藏并列题名为空，豆瓣同版条目页「原作名」栏亦为空，故 `originalTitle` 留空（**不**据常识补日文／法文原题）。**评分**：豆瓣条目页 `https://book.douban.com/subject/1146389/`（群众出版社 2004-1，ISBN 9787501429387 —— 与馆藏 ISBN 一致，**同一版**）**6.9**、42 人评价（2026-09 抓取；样本偏少）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2004。**梗概**：馆藏未提供提要，按体例层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-022",
+    "title": "波拉里斯号轮上的旅客",
+    "originalTitle": "",
+    "author": "乔治·西默农",
+    "authorEn": "Georges Simenon",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "非系列",
+    "detective": "",
+    "country": "比利时",
+    "tags": [
+      "cruise-ship",
+      "closed-circle",
+      "concealment",
+      "fear"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "一艘驶向北方的船上，旅客各怀心事；航程本身成了一道封闭的题——船上的人只能彼此对视。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "西默农的读者",
+        "封闭空间题材的读者"
+      ],
+      "watchFor": [
+        "旅客之间各自隐瞒的事",
+        "航程里的时间刻度"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：西默农著，庞爱菊、孙桂荣、田庆生译，群众出版社 2003，ISBN 7-5014-2939-1，409 页，丛编「**乔治·西默农侦探小说**」，**学科主题词「侦探小说 作品集 比利时 现代」**，中图法 `I564.45`。**原作名**：馆藏并列题名为空，豆瓣同版条目页亦为空 → `originalTitle` 留空。**评分**：豆瓣条目页 `https://book.douban.com/subject/1132828/`（群众出版社 2003-7，ISBN 9787501429394 —— 与馆藏 ISBN 一致，**同一版**）**尚无评分** → 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2003。**梗概**：馆藏未提供提要，按题名与体例层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-023",
+    "title": "快刀斩乱麻",
+    "originalTitle": "Die Gordische Schleife",
+    "author": "本哈德·施林克",
+    "authorEn": "Bernhard Schlink",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2004",
+    "series": "赛尔伯探案集",
+    "detective": "",
+    "country": "德国",
+    "tags": [
+      "concealment",
+      "identity",
+      "city",
+      "red-herring"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school"
+    ],
+    "safeSummary": "放弃了律师事务所的乔治·波尔格到法国南部做自由译者；一件突发事件让他成了翻译公司的老板，也让他从此分不清敌友。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "施林克的读者",
+        "德国侦探小说的读者"
+      ],
+      "watchFor": [
+        "那件「突发事件」的来路",
+        "谁在这桩生意里得利"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：施林克著，温桂华译，群众出版社 2004，ISBN 7-5014-3220-1，196 页，丛编「**赛尔伯探案集**」，**学科主题词「侦探小说 德国 现代 ; 长篇小说 德国 现代」**，中图法 `I516.45`；**并列题名给出 `Die Gordische Schleife`**，故 `originalTitle` 记此值（该作德文原版系与 Walter Popp 合著，馆藏只署施林克，按馆藏著录）。**评分**：豆瓣条目页 `https://book.douban.com/subject/1195247/`（群众出版社 2004-10，ISBN 9787501432202 —— 与馆藏 ISBN 一致，**同一版**）**尚无评分** → 「暂无数据」。**同书异名提示**：库内另有同丛编的《机关算尽》（`ns147-025`）与**待核**的《销声匿迹》（并列题名同为 `Selbs Justiz`），三者关系见 `data/not-collected.json` 与台账 §128.6。**年份字段**：`firstPublished` 留空；`editionYear` 记 2004。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-024",
+    "title": "色情电影谋杀案",
+    "originalTitle": "The Blue Movie Murders",
+    "author": "埃勒里·奎因、爱德华·霍克",
+    "authors": [
+      "埃勒里·奎因",
+      "爱德华·霍克"
+    ],
+    "authorEn": "Ellery Queen & Edward D. Hoch",
+    "genre": "硬汉派",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment",
+      "silencing"
+    ],
+    "school": [
+      "hardboiled-school",
+      "police-procedural"
+    ],
+    "safeSummary": "一桩发生在成人电影圈子里的谋杀案（奎因与霍克合署的一册长篇）：圈子里人人都知道点什么，谁都不肯先说。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "硬汉派的读者",
+        "奎因与霍克的读者"
+      ],
+      "watchFor": [
+        "圈内人各自隐瞒的部分",
+        "死者生前最后接触的人"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：**责任者项署「奎因、霍克、许琼莹」**（主要责任者奎因，霍克合署，许琼莹为译者），新星出版社 2011，ISBN 978-7-5133-0422-1，178 页，**学科主题词「侦探小说 美国 现代 ; 长篇小说 美国 现代」**，中图法 `I712.45`；**并列题名给出 `Blue movie murders`**，故 `originalTitle` 记此值。**评分**：豆瓣两次检索未返回同版条目 → 「暂无数据」。**多作者**：本条按馆藏署名记 `authors` 两位（库内多作者条目同此写法）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按题名与体例层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-025",
+    "title": "完美的不在场证明",
+    "originalTitle": "",
+    "author": "杰克·福翠尔",
+    "alternateTitles": [
+      "思考机器探案集"
+    ],
+    "authorEn": "Jacques Futrelle",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "思考机器探案集",
+    "detective": "范杜森教授",
+    "country": "美国",
+    "tags": [
+      "alibi",
+      "locked-room",
+      "multiple-solutions",
+      "series-detective"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "以「思考机器」范杜森教授为主人公的十一篇短篇：歌剧院、幽灵汽车、红线疑案、火车卧铺……每一篇都是一道推理题。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 18,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6885737/",
+        "subjectId": "6885737",
+        "edition": "完美的不在场证明 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "古典短篇解谜的读者",
+        "福翠尔的读者"
+      ],
+      "watchFor": [
+        "教授给出的第一个判断",
+        "每篇里被当作「不可能」的那一步"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：福翠尔著，陈先贵、董昕译，哈尔滨出版社；**同馆以两个 ISBN 著录同一部书**——2012 年版（ISBN 978-7-5484-0748-5，243 页，正题名《思考机器探案集》，并列题名作中文「完美的不在场证明」）与 2016 年「2 版」（ISBN 978-7-5484-2574-8，250 页，正题名《完美的不在场证明》，并列题名 `Perfect alibi`）。两版的**提要篇目一致**（《歌剧院杀人事件》《妒忌心》《幽灵汽车》《红线疑案》《金匕首命案》《红玫瑰命案》《完美的不在场证明》《失忆的人》《十字记号签名》《火车卧铺命案》《中断了的无线电报》十一篇），即**同书换题**。**评分**：豆瓣条目页 `https://book.douban.com/subject/6885737/`（哈尔滨出版社 2012-1，ISBN 9787548407485 —— 与**2012 年版** ISBN 一致，丛编「思考机器探案集」）**6.7**、18 人评价（2026-09 抓取；样本偏少）；**因评分必须与所引版本同一条，本条 `editionYear` 记 2012 并取该版评分**，2016 年 2 版只记于此。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。**梗概**：据**馆藏提要**（2016 年版 `330` 字段列出十一篇篇名）重写，不涉情节。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-026",
+    "title": "妙龄吸血鬼 7 活着的肖像画",
+    "originalTitle": "",
+    "author": "赤川次郎",
+    "authorEn": "Akagawa Jirō",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "妙龄吸血鬼系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "dark-atmosphere",
+      "city",
+      "curiosity"
+    ],
+    "school": [
+      "bizarre-school",
+      "daily-mystery-school"
+    ],
+    "safeSummary": "系列第七册：一幅「活着的」肖像画把线索牵了出来；库内已有该系列第 3–6 册，本条补第 7 册。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "赤川次郎的读者",
+        "系列轻推理的读者"
+      ],
+      "watchFor": [
+        "画上变化的那一处",
+        "系列人物各自的处境"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：赤川次郎著，周迅译，南海出版公司 2011，ISBN 978-7-5442-5044-3，270 页，丛编「**新经典文库**」，**学科主题词「长篇小说 推理小说 日本 现代」**；**馆藏并列题名给出卷名「活着的肖像画」**（同系列其他各册的并列题名分别是「我的男友是吸血鬼」「湖底荒村」「杀人魔杰克」「猫怪大厦」，与库内第 3–6 册的题名一一对应，故本册即第 7 册）。**评分**：豆瓣以「妙龄吸血鬼 活着的肖像画」检索未返回本册条目（只返回了系列第 1 册 `subject/4011617`，版本不同不采用其评分）→ 「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**梗概**：馆藏未提供提要，按系列与卷名层面撰写并如实标注。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac130-027",
+    "title": "别成为她",
+    "originalTitle": "Final Cut",
+    "author": "S.J. 沃森",
+    "authorEn": "S. J. Watson",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "英国",
+    "tags": [
+      "unreliable-narrator",
+      "concealment",
+      "countryside",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "女导演到英格兰北部海边小镇拍纪录片，请居民投稿自己拍的影片；素材越多，她越发现自己与镇上的旧悲剧有关，却完全想不起那段记忆。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "心理悬疑的读者",
+        "S.J. 沃森的读者"
+      ],
+      "watchFor": [
+        "她「想不起来」的那一段",
+        "居民们投稿的影片里重复出现的东西"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：沃森著，高环宇译，中信出版集团 2025，ISBN 978-7-5217-8367-4，331 页，**学科主题词「推理小说 英国 现代 ; 长篇小说 英国 现代」**，中图法 `I561.45`；**并列题名给出 `Final cut`**，故 `originalTitle` 记此值（豆瓣条目页 `subject/37840175` 亦给出 `Final Cut`，同 ISBN）。**评分**：该豆瓣条目**尚无评分** → 「暂无数据」。**同作者**：库内已有其《别相信任何人》。**年份字段**：`firstPublished` 留空；`editionYear` 记馆藏所引 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，**删去提要末尾的真相句**（原文把凶手手法与结局一并写出），无剧透。"
+    },
+    "provenance": {
+      "source": "batch-214-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
