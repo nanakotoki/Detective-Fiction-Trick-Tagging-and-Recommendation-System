@@ -1742,14 +1742,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 126 轮）**：候选的题名是**上图 API 把正题名与并列题名连写**的产物（花城出版社 2025，两册本）；馆藏并列题名字段作「推理小说作家所读之书」，即本条的副题。故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：广州 花城出版社 2025（馆藏题名「作者不详 推理小说作家所读之书」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-24-jp-modern-fill.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2025"
+    "editionYear": "2025",
+    "alternateTitles": [
+      "作者不详 推理小说作家所读之书"
+    ]
   },
   {
     "id": "jpmod2-028",

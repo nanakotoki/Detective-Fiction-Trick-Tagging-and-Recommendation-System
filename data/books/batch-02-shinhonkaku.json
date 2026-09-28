@@ -517,14 +517,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据原书房官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版",
+      "source": "整理者据原书房官网与豆瓣读书公开信息核对，评分取评价人数最多的中文版 **同书异名登记（第 126 轮）**：候选《如首无作祟之物》（文化发展出版社 2021，丛编「千本樱文库」）与库内本条同作：库内题名取简称，候选是**带「如」字的全称**（日文原题《如首無作祟之物》里的「如」是题名的一部分）。故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 文化发展出版社 2021（馆藏题名「如首无作祟之物」／三津田信三）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-02-shinhonkaku.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2021"
+    "editionYear": "2021",
+    "alternateTitles": [
+      "如首无作祟之物"
+    ]
   },
   {
     "id": "shinhonkaku-007",

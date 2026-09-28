@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "md210-001",
+    "title": "点与线的推理游戏",
+    "originalTitle": "閻魔堂沙羅の推理奇譚 点と線の推理ゲーム",
+    "author": "木元哉多",
+    "authorEn": "Kimoto Kanata",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "阎魔堂沙罗的推理奇谭之一：一位负责裁决亡魂的少女，让死者用「点与线」把生前那件事重新讲一遍。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": 126,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36087695/",
+        "subjectId": "36087695",
+        "edition": "点与线的推理游戏 2023",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "木元哉多的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "来申诉的人漏掉了哪一段",
+        "裁决的依据是什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：木元哉多著，2023，ISBN 978-7-5168-3387-2，馆藏 `215` 作「201 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `閻魔堂沙羅の推理奇譚 点と線の推理ゲーム`，故 `originalTitle` 记此值。**梗概说明**：馆藏未提供本册提要，梗概据题名与丛书体例整理，**不含具体情节**。**著录说明**：作者西文名按常见读法记 `Kimoto Kanata`；馆藏与豆瓣都没给出读音，如有出入以原版著录为准。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2023。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36087695/`（2026-09 抓取，评分 **6.4**、126 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-002",
+    "title": "反转，追诉时效",
+    "originalTitle": "",
+    "author": "深木章子",
+    "authorEn": "Miki Akiko",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "想当作家的六年级学生找退休刑警爷爷讲旧案收集素材；爷爷讲的一桩桩旧案，最后都指向时效与反转。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.6。",
+        "score": 6.6,
+        "count": 291,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36242793/",
+        "subjectId": "36242793",
+        "edition": "反转，追诉时效 2023",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "深木章子的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "每桩旧案的关键那一点",
+        "爷爷为什么挑这些案子讲"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：深木章子著，2023，ISBN 978-7-5168-3486-2，馆藏 `215` 作「258 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2023。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36242793/`（2026-09 抓取，评分 **6.6**、291 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-003",
+    "title": "吉祥寺的朝日奈",
+    "originalTitle": "",
+    "author": "中田永一",
+    "authorEn": "Nakata Eiichi",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "中田永一的一册中短篇集，收《开始交换日记了》《涂鸦大冒险》《先别破坏三角形》《吵闹的肚子》《吉祥寺的朝日奈》五篇。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 1339,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35885926/",
+        "subjectId": "35885926",
+        "edition": "吉祥寺的朝日奈 2022",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中田永一的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "各篇里那件「说不出口的小事」",
+        "五个故事的共同底色"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：中田永一著，2022，ISBN 978-7-5168-3254-7，馆藏 `215` 作「218 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2022。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35885926/`（2026-09 抓取，评分 **7.8**、1339 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-004",
+    "title": "虚构推理 沉睡的谜案",
+    "originalTitle": "",
+    "author": "城平京",
+    "authorEn": "Shirodaira Kyo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "虚构推理系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「虚构推理」系列的一册：老人当年委托妖怪杀了自己的妻子，如今想在子女面前认下这件事——可他有一个牢不可破的不在场证明，于是来找岩永琴子。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": 223,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35906405/",
+        "subjectId": "35906405",
+        "edition": "虚构推理 沉睡的谜案 2022",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "城平京的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "那份不在场证明是怎么成立的",
+        "老人为什么偏偏现在要认"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：城平京著，2022，ISBN 978-7-5142-3747-4，馆藏 `215` 作「251 页」，丛编「虚构推理系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2022。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35906405/`（2026-09 抓取，评分 **6.4**、223 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-005",
+    "title": "恶意的兔子",
+    "originalTitle": "",
+    "author": "若竹七海",
+    "authorEn": "Wakatake Nanami",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "女侦探叶村晶在寻人途中负伤，随后受托寻找另一名失踪少女——查下去，失踪的女孩不止一个。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 187,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35755556/",
+        "subjectId": "35755556",
+        "edition": "恶意的兔子 2022",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "若竹七海的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "几个失踪少女之间的联系",
+        "委托人各自瞒了什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：若竹七海著，2022，ISBN 978-7-5402-6439-0，馆藏 `215` 作「420 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2022。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35755556/`（2026-09 抓取，评分 **6.5**、187 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-006",
+    "title": "复苏杀人者",
+    "originalTitle": "Resuscitated serial killer",
+    "author": "知念实希人",
+    "authorEn": "Chinen Mikito",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "天久鹰央的事件病历表",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "连环绞杀案现场留下的血迹，鉴定出的嫌疑人四年前就已去世——天久鹰央要弄清「不该存在的凶手」是怎么回事。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 186,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35355619/",
+        "subjectId": "35355619",
+        "edition": "复苏杀人者 2021",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "知念实希人的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "四年前那个人的死因",
+        "两份鉴定报告差在哪里"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：知念实希人著，2021，ISBN 978-7-5168-2897-7，馆藏 `215` 作「218 页」，丛编「天久鹰央的事件病历表」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `Resuscitated serial killer`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**同组说明**：同系列的《火焰的凶器》库内已有（`facet125-013`，第 125 轮从对外经贸 OPAC 收的），本批只补这一部；重复闸门当场报出了那条撞车。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2021。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35355619/`（2026-09 抓取，评分 **6.5**、186 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。 **同书异名登记（第 126 轮）**：候选（台海出版社 2021，ISBN 978-7-5168-2897-7）的题名是**上图 API 把正题名与并列题名连写**的产物，实即本批新收的《复苏杀人者》（`batch-210-md.json`）；`alternateTitles` 由本批规格带入，这里再补一条池内那个连写写法，免得它下一轮又被当成新书。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "复苏杀人者 天久鹰央的事件病历表 Ameku Takao's crime karte"
+    ]
+  },
+  {
+    "id": "md210-007",
+    "title": "癌症消失的陷阱",
+    "originalTitle": "完全治愈之谜",
+    "author": "岩木一麻",
+    "authorEn": "Iwaki Kazuma",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "被判只剩半年寿命的晚期癌症患者，在拿到巨额保险金后「奇迹般痊愈」——同样的事接连发生四起，医生怀疑其中有蹊跷。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.7。",
+        "score": 6.7,
+        "count": 331,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35268280/",
+        "subjectId": "35268280",
+        "edition": "癌症消失的陷阱 2020",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "岩木一麻的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "四起「痊愈」的共同点",
+        "保险金这条线"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：岩木一麻著，2020，ISBN 978-7-5168-2787-1，馆藏 `215` 作「275 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `完全治愈之谜`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**著录说明**：作者西文名按常见读法记 `Iwaki Kazuma`；馆藏与豆瓣都没给出读音，如有出入以原版著录为准。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2020。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35268280/`（2026-09 抓取，评分 **6.7**、331 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。 **同书异名登记（第 126 轮）**：同上：候选（台海出版社 2020）的题名把并列题名「完全治愈之谜」连写在后面，实即本批新收的《癌症消失的陷阱》。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "癌症消失的陷阱 完全治愈之谜"
+    ]
+  },
+  {
+    "id": "md210-008",
+    "title": "星期五的神隐儿",
+    "originalTitle": "",
+    "author": "木元哉多",
+    "authorEn": "Kimoto Kanata",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "一个兼顾事业与育儿的设计师，因母亲突然上门而与之争执、失手将她击倒；几日后，她自己被人刺杀。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 117,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36179158/",
+        "subjectId": "36179158",
+        "edition": "星期五的神隐儿 2023",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "木元哉多的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "那晚之后到案发之间发生了什么",
+        "母女两人各自的盘算"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：木元哉多著，2023，ISBN 978-7-5168-3436-7，馆藏 `215` 作「254 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2023。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36179158/`（2026-09 抓取，评分 **6.9**、117 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-009",
+    "title": "镜中的星期天",
+    "originalTitle": "Im spiegel ist sonntag",
+    "author": "殊能将之",
+    "authorEn": "Shuno Masayuki",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "十几年前，一座形如法螺的宅邸里出过一桩命案，当年已有名侦探给出解答；如今另一位侦探受托重查此案，两个时空的谜团交错在一起。本册另收续篇《樒/榁》。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 610,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36894808/",
+        "subjectId": "36894808",
+        "edition": "镜中的星期天 2024",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "殊能将之的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "当年那份解答的那一步",
+        "宅邸的形状与人的动线"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：殊能将之著，2024，ISBN 978-7-5168-3864-8，馆藏 `215` 作「453 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `Im spiegel ist sonntag`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2024。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36894808/`（2026-09 抓取，评分 **7.3**、610 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-010",
+    "title": "巴比伦 Ⅰ 女人",
+    "originalTitle": "女人",
+    "author": "野崎惑",
+    "authorEn": "Nozaki Mado",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "巴比伦系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "检察官正崎善奉命追查一桩制药公司的非法研究，线索是一张沾着毛发与血迹、写满字母「F」的纸；与此同时，东京西部正要诞生一个叫「新域」的自治体。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.4。",
+        "score": 6.4,
+        "count": 68,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35388954/",
+        "subjectId": "35388954",
+        "edition": "巴比伦 Ⅰ 女人 2021",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "野崎惑的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "那张纸上的「F」",
+        "「新域」这个计划背后的手"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：野崎惑著，2021，ISBN 978-7-5168-2594-5，馆藏 `215` 作「258 页」，丛编「巴比伦系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `女人`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2021。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35388954/`（2026-09 抓取，评分 **6.4**、68 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-011",
+    "title": "巴比伦 Ⅲ 终结",
+    "originalTitle": "终结",
+    "author": "野崎惑",
+    "authorEn": "Nozaki Mado",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "巴比伦系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「新域」颁布的痛苦解除条例在世界范围掀起波澜，各国首脑受邀参加讨论该条例的峰会——而故事里那个被称为「恶女」的人，也到了会场。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5。",
+        "score": 5,
+        "count": 53,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/35388956/",
+        "subjectId": "35388956",
+        "edition": "巴比伦 Ⅲ 终结 2021",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "野崎惑的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "条例之争里各方的算盘",
+        "「恶女」这一次要做什么"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：野崎惑著，2021，ISBN 978-7-5168-2914-1，馆藏 `215` 作「260 页」，丛编「巴比伦系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `终结`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2021。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/35388956/`（2026-09 抓取，评分 **5**、53 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-012",
+    "title": "应避忌之狼",
+    "originalTitle": "ルー=ガルー",
+    "author": "京极夏彦",
+    "authorEn": "Kyogoku Natsuhiko",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "千本樱文库",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "京极夏彦的 SF 推理长篇：在一个把一切都置于监控之下的城市里，一连串「应避忌」的事接连发生。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.6。",
+        "score": 7.6,
+        "count": 256,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36707973/",
+        "subjectId": "36707973",
+        "edition": "应避忌之狼 2024",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "京极夏彦的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "这座城市的监控规则",
+        "「狼」指的是谁"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：京极夏彦著，2024，ISBN 978-7-5749-0182-7，馆藏 `215` 作「630 页」，丛编「千本樱文库」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `ルー=ガルー`，故 `originalTitle` 记此值。**梗概说明**：馆藏未提供本册提要，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2024。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36707973/`（2026-09 抓取，评分 **7.6**、256 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-013",
+    "title": "宝石商人理查德的谜鉴定 指引的青金石",
+    "originalTitle": "",
+    "author": "辻村七子",
+    "authorEn": "Tsujimura Nanako",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "宝石商人理查德的谜鉴定系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「宝石商人理查德」系列之一：理查德关闭了银座的店从正义面前消失，正义追到英国去找他，路上遇到自称他堂兄的男人——理查德不愿提的过去随之浮出来。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 8.3。",
+        "score": 8.3,
+        "count": 24,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36362165/",
+        "subjectId": "36362165",
+        "edition": "宝石商人理查德的谜鉴定 指引的青金石 2023",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "辻村七子的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "理查德为什么消失",
+        "那位「堂兄」的来意"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：辻村七子著，2023，ISBN 978-7-5319-7386-7，馆藏 `215` 作「247 页」，丛编「宝石商人理查德的谜鉴定系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2023。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36362165/`（2026-09 抓取，评分 **8.3**、24 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-014",
+    "title": "宝石商人理查德的谜鉴定 祝福的橄榄石",
+    "originalTitle": "",
+    "author": "辻村七子",
+    "authorEn": "Tsujimura Nanako",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "宝石商人理查德的谜鉴定系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「宝石商人理查德」系列之一：一桩与「祝福的橄榄石」有关的委托，照例从宝石的来历查起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.9。",
+        "score": 7.9,
+        "count": 20,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/36368370/",
+        "subjectId": "36368370",
+        "edition": "宝石商人理查德的谜鉴定 祝福的橄榄石 2023",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "辻村七子的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "这块石头的来历",
+        "委托人没说出口的请求"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：辻村七子著，2023，ISBN 978-7-5319-7387-4，馆藏 `215` 作「250 页」，丛编「宝石商人理查德的谜鉴定系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概说明**：馆藏未提供本册提要，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2023。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/36368370/`（2026-09 抓取，评分 **7.9**、20 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-015",
+    "title": "宝石商人理查德的谜鉴定 红宝石女王与背叛之海",
+    "originalTitle": "",
+    "author": "辻村七子",
+    "authorEn": "Tsujimura Nanako",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "宝石商人理查德的谜鉴定系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「宝石商人理查德」系列之一：正义收到一封署名可疑的邮件，里面却附好了豪华邮轮的行程与机票——他仍决定上船。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "辻村七子的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "那封邮件的发件人",
+        "船上各人的来意"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：辻村七子著，2025，ISBN 978-7-5168-4074-0，馆藏 `215` 作「225 页」，丛编「宝石商人理查德的谜鉴定系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2025。**评分来源**：豆瓣按题名检索没有本册的评分（或只有无评分的空条目），故三个平台一律「暂无数据」，不拿别的版本的分来填。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-016",
+    "title": "宝石商人理查德的谜鉴定 夏日庭院与黄金之爱",
+    "originalTitle": "",
+    "author": "辻村七子",
+    "authorEn": "Tsujimura Nanako",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "宝石商人理查德的谜鉴定系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「宝石商人理查德」系列之一：理查德的母亲安排两人在普罗旺斯的宅邸里玩一场寻宝游戏——要找的是藏在庭院里的三十二颗宝石。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "辻村七子的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "三十二颗宝石的藏法",
+        "母亲真正的用意"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：辻村七子著，2025，ISBN 978-7-5168-4149-5，馆藏 `215` 作「266 页」，丛编「宝石商人理查德的谜鉴定系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏未给原作名字段，`originalTitle` 留空。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2025。**评分来源**：豆瓣按题名检索没有本册的评分（或只有无评分的空条目），故三个平台一律「暂无数据」，不拿别的版本的分来填。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md210-017",
+    "title": "虚构推理短篇集 岩永琴子的纯真",
+    "originalTitle": "Invented inference short stories",
+    "author": "城平京",
+    "authorEn": "Shirodaira Kyo",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "虚构推理系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "「虚构推理」系列的短篇集：五篇各自独立的谜题，都由岩永琴子从表象拆到人心那一层。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.8。",
+        "score": 6.8,
+        "count": 25,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://m.douban.com/book/subject/37348680/",
+        "subjectId": "37348680",
+        "edition": "虚构推理短篇集 岩永琴子的纯真 2025",
+        "fetchedAt": "2026-09-27"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "城平京的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "每篇里被说成「传言」的那件事",
+        "她为什么那样编故事"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：城平京著，2025，ISBN 978-7-5168-4222-5，馆藏 `215` 作「248 页」，丛编「虚构推理系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `Invented inference short stories`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2025。**评分来源**：**豆瓣条目页** `https://book.douban.com/subject/37348680/`（2026-09 抓取，评分 **6.8**、25 人评价）：该页版本信息（同一出版社、同一年、同一译者）与馆藏著录一致。 **同书异名登记（第 126 轮）**：同上：候选（台海出版社 2025）的题名把英文并列题名连写在后面，实即本批新收的《虚构推理短篇集 岩永琴子的纯真》。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    },
+    "alternateTitles": [
+      "虚构推理短篇集 岩永琴子的纯真 innocence of Kotoko Iwanaga"
+    ]
+  },
+  {
+    "id": "md210-018",
+    "title": "恶魔的报酬",
+    "originalTitle": "The Devil to Pay",
+    "author": "埃勒里·奎因",
+    "authorEn": "Ellery Queen",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列",
+    "detective": "",
+    "country": "美国",
+    "tags": [
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "奎因的一册长篇：一场拍卖会之后，父辈之间的旧账以命案收场；案发时唯一被目击在场的人，却有宾馆大厅的不在场证明。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "埃勒里·奎因的读者",
+        "日本当代推理的读者"
+      ],
+      "watchFor": [
+        "那通打到书房的电话是谁接的",
+        "两家人上一代的交易"
+      ],
+      "warning": "推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 千本樱推理文库` 等发现，见 §126）：埃勒里·奎因著，2011，ISBN 978-7-5133-0195-4，馆藏 `215` 作「253 页」，丛编「非系列」。**判据**：①**学科主题词含「推理小说」**（第①类，最硬）；②**中图分类号 `I313.45`**；③丛编为推理专门书系。**原作名**：馆藏并列题名字段给出 `The Devil to Pay`，故 `originalTitle` 记此值。**梗概来源（馆藏 `330` 提要）**：提要给出的谜面已**重写到不泄底**为止——只写人物处境与谜面，不写真相与凶手。**同组说明**：本条来自「埃勒里·奎因」丛编那一组（新星 2011「午夜文库」），是同组里唯一一部未收的成人本格长篇。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2011。**评分来源**：豆瓣按题名检索没有本册的评分（或只有无评分的空条目），故三个平台一律「暂无数据」，不拿别的版本的分来填。"
+    },
+    "provenance": {
+      "source": "batch-210-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
