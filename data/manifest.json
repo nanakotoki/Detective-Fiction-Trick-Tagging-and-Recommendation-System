@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-28T15:46:41.212Z",
+  "generatedAt": "2026-09-28T15:53:12.545Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3329,
-    "dataFiles": 234,
+    "books": 3345,
+    "dataFiles": 235,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3329,
+    "withSafeSummary": 3345,
     "withPlatformRating": 2489
   },
   "tagDistribution": [
@@ -34,7 +34,7 @@
         {
           "id": "narrative-trick",
           "label": "叙述性诡计",
-          "books": 110
+          "books": 111
         },
         {
           "id": "timetable",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 569
+          "books": 570
         },
         {
           "id": "diary-form",
@@ -178,7 +178,7 @@
         {
           "id": "city",
           "label": "都市",
-          "books": 990
+          "books": 1001
         },
         {
           "id": "snowfield",
@@ -220,7 +220,7 @@
         {
           "id": "gain",
           "label": "财杀",
-          "books": 133
+          "books": 134
         },
         {
           "id": "passion",
@@ -245,12 +245,12 @@
         {
           "id": "identity",
           "label": "身份认同",
-          "books": 401
+          "books": 403
         },
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1705
+          "books": 1715
         },
         {
           "id": "fear",
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 187
+          "books": 196
         }
       ]
     },
@@ -282,32 +282,32 @@
         {
           "id": "hardboiled",
           "label": "硬汉风",
-          "books": 72
+          "books": 74
         },
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 587
+          "books": 591
         },
         {
           "id": "cozy",
           "label": "日常之谜",
-          "books": 65
+          "books": 68
         },
         {
           "id": "youth",
           "label": "青春",
-          "books": 167
+          "books": 168
         },
         {
           "id": "meta-fiction",
           "label": "后设趣味",
-          "books": 251
+          "books": 252
         },
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1334
+          "books": 1346
         },
         {
           "id": "legend-folklore",
@@ -317,7 +317,7 @@
         {
           "id": "forensic",
           "label": "科学取证",
-          "books": 225
+          "books": 227
         },
         {
           "id": "spy-espionage",
@@ -339,27 +339,27 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 805
+          "books": 808
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1121
+          "books": 1122
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 2010
+          "books": 2018
         },
         {
           "id": "social-school",
           "label": "社会派",
-          "books": 606
+          "books": 607
         },
         {
           "id": "police-procedural",
           "label": "刑侦派",
-          "books": 700
+          "books": 703
         },
         {
           "id": "legal-thriller",
@@ -369,17 +369,17 @@
         {
           "id": "forensic-school",
           "label": "法医鉴识派",
-          "books": 169
+          "books": 171
         },
         {
           "id": "hardboiled-school",
           "label": "硬汉派",
-          "books": 143
+          "books": 145
         },
         {
           "id": "psychological-school",
           "label": "心理悬疑派",
-          "books": 795
+          "books": 797
         },
         {
           "id": "spy-school",
@@ -394,12 +394,12 @@
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 231
+          "books": 240
         },
         {
           "id": "meta-school",
           "label": "后设派",
-          "books": 225
+          "books": 226
         },
         {
           "id": "bizarre-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3329
+    "checkedBooks": 3345
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
