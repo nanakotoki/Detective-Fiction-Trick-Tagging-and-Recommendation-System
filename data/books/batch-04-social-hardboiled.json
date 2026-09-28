@@ -75,14 +75,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对） **同书异名登记（第 139 轮）**：台版条目页原作名 `点と線`，与库内本条（`social-001`）同作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版社:,2007（点与线／(日) 松本清张著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-04-social-hardboiled.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2007"
+    "editionYear": "2007",
+    "alternateTitles": [
+      "點與線"
+    ]
   },
   {
     "id": "social-002",
@@ -161,14 +164,18 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对） **同书异名登记（第 139 轮）**：台版条目页原作名 `砂の器`，与库内本条（`social-002`）同作；同页另一版「砂之器（限量普及版）」一并登记。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版社:,2009（砂器／(日) 松本清张著, 赵德远译）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-04-social-hardboiled.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2009"
+    "editionYear": "2009",
+    "alternateTitles": [
+      "砂之器",
+      "砂之器（限量普及版）"
+    ]
   },
   {
     "id": "social-003",
@@ -246,12 +253,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对） **同书异名登记（第 139 轮）**：台版条目页原作名 `ゼロの焦点`，与库内本条（`social-003`）同作。"
     },
     "provenance": {
       "source": "batch-04-social-hardboiled.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "零的焦點"
+    ]
   },
   {
     "id": "social-004",
@@ -323,11 +333,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）"
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对） **同书异名登记（第 139 轮）**：台版条目页原作名 `黑革の手帖`，与库内本条（`social-004`）同作；上下两卷一并登记。"
     },
     "provenance": {
       "ratingsNote": "本书的平台评分未能实时抓取（豆瓣未检索到匹配条目），当前数值为离线整理的估计值，请以平台实时页面为准。"
-    }
+    },
+    "alternateTitles": [
+      "黑革記事本（上）",
+      "黑革記事本（下）"
+    ]
   },
   {
     "id": "social-005",
@@ -741,14 +755,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对）",
+      "source": "整理者据公开出版信息与先验知识整理（离线环境，未联网核对） **同书异名登记（第 139 轮）**：台版条目页原作名 `大誘拐`，与库内本条（`social-009`）同作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2022（大诱拐／(日) 天藤真著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-04-social-hardboiled.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2022"
+    "editionYear": "2022",
+    "alternateTitles": [
+      "大誘拐"
+    ]
   },
   {
     "id": "social-010",

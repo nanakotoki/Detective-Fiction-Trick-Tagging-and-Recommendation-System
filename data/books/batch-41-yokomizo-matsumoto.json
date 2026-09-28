@@ -76,14 +76,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对",
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `蝶々殺人事件`，与库内本条（`yokomizo2-001`）同作。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：海口 南海出版公司 2015（馆藏题名「蝴蝶杀人事件」／横沟正史）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-41-yokomizo-matsumoto.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2015"
+    "editionYear": "2015",
+    "alternateTitles": [
+      "蝴蝶殺人事件"
+    ]
   },
   {
     "id": "yokomizo2-002",
@@ -244,12 +247,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理，梗概与标签经人工核对"
+      "source": "整理者据公开出版信息整理，梗概与标签经人工核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `白と黒`，与库内本条（`yokomizo2-003`）同作。"
     },
     "provenance": {
       "source": "batch-41-yokomizo-matsumoto.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "白與黑"
+    ]
   },
   {
     "id": "yokomizo2-004",

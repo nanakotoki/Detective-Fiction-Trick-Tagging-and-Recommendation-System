@@ -164,14 +164,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对",
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `本陣殺人事件`，与库内本条（`honkaku-002`）同作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（本阵杀人事件／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-01-honkaku.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2021"
+    "editionYear": "2021",
+    "alternateTitles": [
+      "本陣殺人事件"
+    ]
   },
   {
     "id": "honkaku-003",
@@ -252,14 +255,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对"
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `犬神家の一族`，与库内本条（`honkaku-003`）同作（**这本是「同书同名」却被池子留下的例子**：池内是繁体题名，归一后本应相等，实测没扣掉，故显式登记一道）。"
     },
     "provenance": {
       "source": "batch-01-honkaku.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
-      "犬神家族"
+      "犬神家族",
+      "犬神家一族（台版）"
     ]
   },
   {
@@ -340,14 +344,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息核对",
+      "source": "整理者据公开出版信息核对 **同书异名登记（第 139 轮）**：台版条目页原作名 `八つ墓村`，与库内本条（`honkaku-004`）同作（同为「同书同名」的显式登记）。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（八墓村／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-01-honkaku.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2021"
+    "editionYear": "2021",
+    "alternateTitles": [
+      "八墓村（台版）"
+    ]
   },
   {
     "id": "honkaku-006",

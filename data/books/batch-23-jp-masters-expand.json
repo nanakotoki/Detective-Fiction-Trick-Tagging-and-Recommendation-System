@@ -495,12 +495,15 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理"
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 139 轮）**：台版条目页原作名 `病院坂の首縊りの家`，与库内本条（`jpmx-006`）同作。"
     },
     "provenance": {
       "source": "batch-23-jp-masters-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+    },
+    "alternateTitles": [
+      "醫院坡上吊之家"
+    ]
   },
   {
     "id": "jpmx-007",
@@ -582,7 +585,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理；与 honkaku-005《恶魔的手毬歌》为同一部作品（原书名同为 悪魔の手毬唄），已合并 **同书异名登记（第 97 轮）**：候选《罪恶的拍球歌》（珠海出版社 2003，ISBN 7-80689-048-3，丛编「金田一探案四集」）与库内本条同作（原作名 `悪魔の手毬唄`）——「拍球歌」即「手毬唄」，故不另立条目。",
+      "source": "整理者据公开出版信息整理；与 honkaku-005《恶魔的手毬歌》为同一部作品（原书名同为 悪魔の手毬唄），已合并 **同书异名登记（第 97 轮）**：候选《罪恶的拍球歌》（珠海出版社 2003，ISBN 7-80689-048-3，丛编「金田一探案四集」）与库内本条同作（原作名 `悪魔の手毬唄`）——「拍球歌」即「手毬唄」，故不另立条目。 **同书异名登记（第 139 轮）**：台版条目页原作名 `悪魔の手毬唄`，与库内本条（`jpmx-007`，简体题《恶魔的彩球歌》）同作——**「手毬歌／彩球歌」是同一原题的两种译法**，故不另立条目。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（恶魔的彩球歌／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -591,7 +594,8 @@
     },
     "editionYear": "2021",
     "alternateTitles": [
-      "罪恶的拍球歌"
+      "罪恶的拍球歌",
+      "惡魔的手毬歌"
     ]
   },
   {
@@ -669,14 +673,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 139 轮）**：台版条目页原作名 `夜歩く`，与库内本条（`jpmx-008`）同作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（夜行／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-23-jp-masters-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2021"
+    "editionYear": "2021",
+    "alternateTitles": [
+      "夜行（台版）"
+    ]
   },
   {
     "id": "jpmx-009",
@@ -755,14 +762,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 139 轮）**：台版条目页原作名 `悪魔が来りて笛を吹く`，与库内本条（`jpmx-009`）同作。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：海口:,南海出版公司:,2021（恶魔吹着笛子来／(日) 横沟正史著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
       "source": "batch-23-jp-masters-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2021"
+    "editionYear": "2021",
+    "alternateTitles": [
+      "惡魔前來吹笛(改版)"
+    ]
   },
   {
     "id": "jpmx-010",
