@@ -1,0 +1,668 @@
+[
+  {
+    "id": "opac148-001",
+    "title": "奇术侦探曾我佳城·戏之卷",
+    "originalTitle": "",
+    "author": "泡坂妻夫",
+    "authorEn": "Awasaka Tsumao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "曾我佳城系列",
+    "detective": "曾我佳城",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "honkaku",
+      "theater"
+    ],
+    "school": [
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "泡坂妻夫的魔术师侦探短篇集第二册（吉林「七曜文库」，385 页）：案件多发生在舞台与魔术圈之内。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "泡坂妻夫的读者",
+        "喜欢魔术与推理结合的读者"
+      ],
+      "watchFor": [
+        "舞台上的机关是怎么被用上的",
+        "侦探点破时用的那个类比"
+      ],
+      "warning": "短篇集，各篇独立；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举后逐册核对）：泡坂妻夫著，张剑译，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-0625-1，385 页，丛编「**七曜文库**」，**学科主题词「推理小说 小说集 日本 现代」**——**第 ① 档**（主题词直接给「推理小说」），中图法 `I313.45`。馆藏 **330 提要**：「本书是日本短篇推理小说。魔术推理小说的巅峰之作……搭挡死于骄傲的魔术师所表演的挡弹术下。华丽的舞台上，众目睽睽之下，到底是谁掉换了子弹和手枪？」——谜面即由此而来，**梗概只取这一层，不写真相**。**卷次核对**：同一检索下另有《奇术侦探曾我佳城 秘之卷》（ISBN 978-7-5534-0626-8，353 页，同主题词、同丛编、同译者），与库内既有的《奇术侦探曾我佳城》为**同一册**（库内该条的豆瓣评分条目为 `subject/19949181`，即「秘之卷」），**故秘之卷不另立条目、登记为别名**；本册是另一卷（豆瓣条目 id 19949180）。**原作名**：馆藏并列题名为空，本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` **留空**（若日后取到日文原题与库内《奇术侦探曾我佳城》同题，说明两卷是同一日文原书的上下卷，届时按库内既例处理——已记入台账 §148 待办）。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年，不推测）；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-002",
+    "title": "看守眼",
+    "originalTitle": "",
+    "author": "横山秀夫",
+    "authorEn": "Yokoyama Hideo",
+    "genre": "社会派",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "横山秀夫的警察题材短篇集（吉林「七曜文库」）：馆藏提要列出《看守眼》《自传》《口头禅》《误报》等六篇篇名。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "横山秀夫的读者",
+        "喜欢警察小说短篇的读者"
+      ],
+      "watchFor": [
+        "六个故事各自的那双「眼睛」",
+        "结尾处视角的移动"
+      ],
+      "warning": "短篇集，各篇独立；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC）：横山秀夫著，赵建勋译，吉林出版集团有限责任公司 2011，ISBN 978-7-5463-4878-0，291 页，丛编「**七曜文库**」，**学科主题词「短篇小说 小说集 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`（馆藏控制号 `2011057539`）。馆藏 **330 提要**：「本书收录了作者 6 篇短篇小说，包括《看守眼》、《自传》、《口头禅》、《误报》等。」**判据（②档三条）**：①属**七曜文库**；②**库内已有该作者 11 部**，且全部按推理／警察小说判据收进（《半落》《第三时效》《动机》《追诉时效倒计时》等，`school` 一贯记 `police-procedural`）；③同一丛编里已按同一判据收过《唯一正确的时钟》《堪忍箱》《赫眼》等。主题词的差别**如实记录**。**提要旁证**：**扬州图书馆 OPAC**（marc 0000212558）另有一条同版著录，学科主题作「短篇小说-小说集-日本-现代」，提要同上。**原作名**：馆藏并列题名为空，本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空（池内豆瓣条目 id 6019120，供日后回填）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-003",
+    "title": "天狼星之路",
+    "originalTitle": "",
+    "author": "藤原伊织",
+    "authorEn": "Fujiwara Iori",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "hardboiled",
+      "city",
+      "concealment"
+    ],
+    "school": [
+      "hardboiled-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "藤原伊织的长篇（吉林「七曜文库·藤原伊织系列」）：三个在大阪一起长大的少年，约定此后不再联络。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "藤原伊织的读者",
+        "喜欢硬汉派与旧友重逢题材的读者"
+      ],
+      "watchFor": [
+        "三个人各自走成了什么样",
+        "那句「不再联络」的约定"
+      ],
+      "warning": "含犯罪与暴力描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：藤原伊织著，孙律译，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-9383-4，374 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**判据（②档三条）**：①属**七曜文库**；②**库内已有该作者 4 部**（《恐怖分子的洋伞》《向日葵的祭典》《长脚蚊白须的冒险》《降雪》），genre 记硬汉派／犯罪悬疑；③同一丛编里已按同一判据收过《唯一正确的时钟》《堪忍箱》等。主题词的差别如实记录。**内容判据**：**扬州图书馆 OPAC**（marc 0000224274）的**丛编项作「七曜文库.藤原伊织系列」**，编目提要：「辰村与明子、胜哉在大阪度过了一段特殊的少年时光。三人彼此相依，之后相继离开大阪，约定今后再不联络。岁月流逝，三人有着截然不同的人生……」——梗概只取这一层，不写后续。**原作名**：馆藏并列题名为空，本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空（池内豆瓣条目 id 10746368）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-004",
+    "title": "抱着黄金飞翔",
+    "originalTitle": "",
+    "author": "高村薰",
+    "authorEn": "Kaoru Takamura",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "gain",
+      "hardboiled"
+    ],
+    "school": [
+      "hardboiled-school",
+      "adventure-school"
+    ],
+    "safeSummary": "高村薰的出道作（吉林「七曜文库」）：几个男人为了同一桩「偷东西」的计划走到一起。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "高村薰的读者",
+        "喜欢犯罪群像与计划型故事的读者"
+      ],
+      "watchFor": [
+        "每个人加入计划的理由",
+        "计划里那个最不起眼的环节"
+      ],
+      "warning": "含犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：高村薰著，班健译，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-9026-0，287 页，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`。**判据（②档三条）**：①属**七曜文库**；②**库内已有该作者 4 部**（《马克斯之山》《照柿》《曳日马》《狙杀里维埃拉》，后三部按「推理小说 长篇小说」主题词收进）；③同一丛编里已按同一判据收过《唯一正确的时钟》《堪忍箱》等。**内容判据（关键一条）**：**扬州图书馆 OPAC** 的《新李尔王》（marc 0000285562）**责任者附注**写明「高村薰，1990 年以**犯罪小说**《抱着黄金飞翔》获第三届**日本推理 Suspense 大奖**而出道」——本册即该出道作；同馆 marc 0000224057 的提要为「北川经常想到幸田，次次都思索幸田为何会去偷东西。幸田是不是真觉得犯罪的彼岸会有『没有人类的土地？』……」。梗概只取这一层。主题词的差别如实记录。**原作名**：馆藏并列题名为空，本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空（池内豆瓣条目 id 10594330）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-005",
+    "title": "绯色的记忆",
+    "originalTitle": "",
+    "author": "高桥克彦",
+    "authorEn": "Katsuhiko Takahashi",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "怪谈·记忆系列",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "高桥克彦的怪谈短篇集（吉林「七曜文库·怪谈·记忆系列」）：一张旧书店里的故乡住宅图，少标了一户人家。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "高桥克彦的读者",
+        "喜欢怪谈与记忆题材的读者"
+      ],
+      "watchFor": [
+        "那张住宅图上缺的那一户",
+        "叙述者眼睑内的「绯色」"
+      ],
+      "warning": "怪谈短篇集，基调阴郁；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：高桥克彦著，王振瑜译，吉林出版集团有限责任公司 2013，ISBN 978-7-5534-1783-7，289 页，丛编「**七曜文库 $i怪谈·记忆系列**」，**学科主题词「短篇小说 小说集 日本 现代」**（上图没有「推理小说」字样），中图法 `I313.45`。**补一条正面判据**：**扬州图书馆 OPAC**（marc 0000236828）对同版的**学科主题著录为「推理小说-日本-现代-小说集」**，提要作「日本怪谈小说集。在旧书店发现的故乡住宅图上，为什么没有标注那个少女的家呢？以参加同窗会为借口回到故乡的主人公，到底拥有怎样一段不为人知的过去呢？他眼睑内的绯色到底蕴藏着怎样的秘密？」——两馆主题词不一致，**如实并列**；本条按推理／怪谈交界收进，genre 记「变格」。**判据（②档三条）**：①属七曜文库（且丛编的二级系列「怪谈·记忆系列」本身是题材标记）；②**库内已有该作者 3 部**（《北斋事件》《写乐杀人事件》《歌麿杀赝事件》，`genre` 记历史推理／犯罪悬疑），另有三人合集《幽闭之窗》收录其一篇；③同一丛编里已按同一判据收过多种。**原作名**：馆藏并列题名为空，本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空（池内豆瓣条目 id 24316426）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-006",
+    "title": "凶宅",
+    "originalTitle": "",
+    "author": "三津田信三",
+    "authorEn": "Shinzo Mitsuda",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "家系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "dark-atmosphere",
+      "fear",
+      "concealment"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "三津田信三「家」系列第二册（吉林「七曜文库」）：十二岁少年随祖母搬到陌生之地，却对这里生出「来过」的错觉。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "三津田信三的读者",
+        "喜欢怪谈与旧宅题材的读者"
+      ],
+      "watchFor": [
+        "少年那份「既视感」",
+        "老人那句话里的称呼"
+      ],
+      "warning": "怪谈色彩浓厚，基调阴郁；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：三津田信三著，冯乐译，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-9022-2，260 页，丛编「**七曜文库 $i\"家\"系列 $v02**」，中图法 `I313.45`；**馆藏学科主题词作「恐怖小说 日本 现代 ; 长篇小说 日本 现代」**——与库内「纯恐怖不收」的判例（`data/exclusions.json` 里《第十三种人格的恐怖》《旋涡》《诡异之夏》等）**正面冲突**，故必须写清为什么仍收：**同系列在库**。**扬州图书馆 OPAC**（marc 0000223403）的丛编项作「**七曜文库.三津田信三.家系列;02**」，编目提要：「父母双亡的十二岁少年翔太与祖母搬到了陌生的地方定居。虽然记忆中从未来过这里，但频生的『既视感』让他感觉此地并不陌生。幻觉中一个神秘老人对他说：『孩子，你回来啦……』翔太与当地少年幸平结交，决定探……」——**库内《祸家》即该系列（原题 `禍家`，2000）**，本条是系列第 2 册，判据与既例一致；作者库内已有 **21 部**，`school` 一贯记 `bizarre-school`。**本轮口径**：主题词作「恐怖小说」时，**同系列在库**可作抵消；**没有同系列先例的《废园杀人事件》（Slasher 系列 01）本轮挂起待核**，见台账 §148.3。**原作名**：池内豆瓣条目 id 10594324；本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-007",
+    "title": "孤宿之人",
+    "originalTitle": "",
+    "author": "宫部美雪",
+    "alternateTitles": [
+      "孤宿之人（上）",
+      "孤宿之人（下）"
+    ],
+    "authorEn": "Miyabe Miyuki",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "宫部美雪的江户题材长篇（吉林「七曜文库」，上下两册）：馆藏提要只给出寺中日常的一幕，梗概不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "宫部美雪的读者",
+        "喜欢江户题材的读者"
+      ],
+      "watchFor": [
+        "被乡里避忌的那个人",
+        "寺里日常背后的旧事"
+      ],
+      "warning": "时代题材长篇，基调沉静；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：宫部美幸（库内统一作「宫部美雪」）著，刘子倩译，吉林出版集团有限责任公司 2012，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`；馆藏**分上下两册两条**（上：ISBN 978-7-5463-9023-9，349 页；下：ISBN 978-7-5463-9024-6，357 页），按库内既例（《曳日马》《狙杀里维埃拉》）**合并为一条**，`editionYear` 记 2012。**判据（②档三条）**：①属**七曜文库**；②**库内已有该作者 25 部**，且其中**同丛编的《扮鬼脸》《堪忍箱》已按江户题材的推理判据收过**（genre 分别记「历史推理」「日常之谜」）；③同一丛编里已按同一判据收过多种。主题词的差别如实记录。**内容判据**：**扬州图书馆 OPAC**（marc 0000221510，下册）丛编项作「七曜文库」，学科主题「长篇小说-日本-现代」，编目提要只给出寺中晒衣的一场对白（「喂，兔子，衣服晒完了没有？」英心和尚……宇佐……）——**提要未及全书**，故梗概按要求写到体裁层面为止，**不推测情节**；`genre` 依库内同作者江户题材的既例记「历史推理」，若日后取得内容判据再校。**原作名**：池内豆瓣条目 id 10594326（上）／10594327（下）；本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-008",
+    "title": "邪魔",
+    "originalTitle": "",
+    "author": "奥田英朗",
+    "alternateTitles": [
+      "邪魔（上）",
+      "邪魔（下）"
+    ],
+    "authorEn": "Okuda Hideo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dark-atmosphere",
+      "obsession",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school"
+    ],
+    "safeSummary": "奥田英朗获第四届大薮春彦奖的长篇（吉林「七曜文库」上下册）：馆藏提要写一个家庭的日常与欲望的冲击。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奥田英朗的读者",
+        "喜欢日常被侵蚀这类悬疑的读者"
+      ],
+      "watchFor": [
+        "及川恭子身边那些「小事」",
+        "丈夫的懦弱在这家里意味着什么"
+      ],
+      "warning": "悬疑长篇，基调压抑；含犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：奥田英朗著，曹逸冰译，吉林出版集团有限责任公司 2013，丛编「**七曜文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样），中图法 `I313.45`；馆藏**分上下两册两条**（上：ISBN 978-7-5534-1864-3，320 页；下：ISBN 978-7-5534-1865-0，299 页），按库内既例**合并为一条**，`editionYear` 记 2013。**内容判据（关键一条）**：**扬州图书馆 OPAC** 的《最恶》著录（marc 0000285535）**责任者附注**写明「奥田英朗，1997 年投身创作，**2002 年以《邪魔》荣获第四届大薮春彦奖**，2004 年……（直木奖）」——本册即该获奖作；同馆 marc 0000235626（上册）提要作「寻常人的生活中总会有各种各样的困难，而这种生活又总会受到欲望的冲击。及川恭子的生活便是如此。她只有一个性格懦弱的丈夫、两个尚未成年的孩子……」**判据（②档）**：①属**七曜文库**；②作者在**库内已有 1 部《罪辙》**（对外经贸馆藏按检索行主题词「**推理小说 长篇小说**」收进，genre 记犯罪悬疑）；③本册另有上引**获奖记录**（大薮春彦奖）作为「属推理／悬疑谱系」的外源判据，故按②档收，主题词的差别如实记录。梗概只取提要那一层。**原作名**：池内豆瓣条目 id 24695288（上）／24695291（下）；本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空。**年份字段**：`firstPublished` 留空；`editionYear` 记 2013。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac148-009",
+    "title": "最恶",
+    "originalTitle": "",
+    "author": "奥田英朗",
+    "authorEn": "Okuda Hideo",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "ensemble",
+      "social-commentary",
+      "city"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "奥田英朗的长篇（吉林，全二册）：馆藏提要给出三条平行的人生线——铁工厂老板、银行职员，与靠恐吓过活的人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "奥田英朗的读者",
+        "喜欢犯罪群像与多线叙事的读者"
+      ],
+      "watchFor": [
+        "三条线各自的那个「不得已」",
+        "经济萧条在每个人身上留下的形状"
+      ],
+      "warning": "犯罪题材长篇；含暴力与犯罪描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编「七曜文库」枚举）：奥田英朗著，张剑译，吉林出版集团有限责任公司 2015，ISBN 978-7-5534-6499-2，**2 册（291、278 页）**，**学科主题词「长篇小说 日本 现代」**，中图法 `I313.45`；馆藏另有 304 附注「责任者信息取自版权页」。**一处如实标注**：本册的**上图著录没有丛编项（225 缺）**，池内来源是**豆瓣丛书页「七曜文库」**（该行豆瓣条目 id 26290629）——「属七曜文库」这一条腿只有豆瓣丛书页这一处来源，与同批其余各册（上图 225 直接给「七曜文库」）**证据强度不同**，故单独写明。**内容判据**：**扬州图书馆 OPAC**（marc 0000285535）同版著录（2 册 291;278 页，2015），编目提要作「在经济萧条压力下苦求生存的铁工厂老板川谷，同时面临附近居民抗议、以及与银行贷款的纠纷；任职于银行的小绿由于家庭问题与职场性骚扰的问题，每天都过得非常忧郁；靠着打小钢珠和恐吓他人过活的……」——犯罪群像的谜面即由此而来，**梗概只取这一层**。**判据（②档）**：①属七曜文库（来源见上）；②作者库内已有《罪辙》（按「推理小说 长篇小说」主题词收进）；③提要给出的三条人生线含恐吓、纠纷等**犯罪脉络**。**原作名**：本轮豆瓣条目页仍返回「登录跳转」，`originalTitle` 留空。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-227-opac.json",
+      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  }
+]
