@@ -4,8 +4,8 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-28T04:43:49.888Z
- * 数据文件：208 个
+ * 生成时间：2026-09-28T04:51:23.121Z
+ * 数据文件：209 个
  */
 
 import batch01 from '../../../data/books/batch-01-honkaku.json' with { type: 'json' };
@@ -216,6 +216,7 @@ import batch205 from '../../../data/books/batch-205-md.json' with { type: 'json'
 import batch206 from '../../../data/books/batch-206-md.json' with { type: 'json' };
 import batch207 from '../../../data/books/batch-207-md.json' with { type: 'json' };
 import batch208 from '../../../data/books/batch-208-md.json' with { type: 'json' };
+import batch209 from '../../../data/books/batch-209-md.json' with { type: 'json' };
 
 /** 全部种子数据文件 */
 export const SEED_FILES = [
@@ -459,7 +460,7 @@ export const SEED_FILES = [
   { file: 'batch-119-opac2.json', group: "其他", data: batch119 },
   // 14 部
   { file: 'batch-120-facet.json', group: "其他", data: batch120 },
-  // 20 部
+  // 19 部
   { file: 'batch-121-facet.json', group: "其他", data: batch121 },
   // 14 部
   { file: 'batch-122-facet.json', group: "其他", data: batch122 },
@@ -635,4 +636,6 @@ export const SEED_FILES = [
   { file: 'batch-207-md.json', group: "其他", data: batch207 },
   // 31 部
   { file: 'batch-208-md.json', group: "其他", data: batch208 },
+  // 2 部
+  { file: 'batch-209-md.json', group: "其他", data: batch209 },
 ];

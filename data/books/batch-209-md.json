@@ -1,0 +1,150 @@
+[
+  {
+    "id": "md209-001",
+    "title": "便衣队的维克多",
+    "originalTitle": "Victor de la Brigade mondaine",
+    "author": "莫里斯·勒布朗",
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "1987",
+    "series": "亚森·罗平系列丛书",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": [
+      "adventure",
+      "city",
+      "dual-role"
+    ],
+    "school": [
+      "adventure-school"
+    ],
+    "safeSummary": "勒布朗的一部罗平故事：故事跟的是便衣队里一个叫维克多的警探——他盯上的那个人，恰好也在盯着他。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "亚森·罗平系列的读者",
+        "法国旧译本的读者"
+      ],
+      "watchFor": [
+        "维克多跟的是谁",
+        "两边各自的身份"
+      ],
+      "warning": "冒险／侦探小说，含命案与追捕描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 亚森·罗平` 发现，见 §125）：勒布朗著，长江文艺出版社 1987，ISBN 7-5354-0057-4，199 页，译者紫曦、丹邱，丛编「**亚森·罗平系列丛书**」，**主题词「侦探小说 法国 现代」**，中图法 `I565.45`（该馆将作者著录为「勒布朗」，另附西文 `Leblanc`）。**判据**：①学科主题词「侦探小说 法国 现代」（第①类，最硬）；②中图法 `I565.45`；③丛编为罗平系列专刊。**原作名**：馆藏并列题名字段作 `Uictor de la bridge mondaine`——**馆藏把 *Victor de la Brigade mondaine* 拼错了**（`Uictor`／`bridge`），人眼订正后记入 `originalTitle`，馆藏原文在此保留。**同书异名核查**：库内 23 部勒布朗条目中**没有**这一部（题名与原题逐条比对过），故按新书收录。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 1987。**评分来源**：豆瓣有该版的条目（`subject/3198478`，长江文艺出版社 1987，199 页）但**尚无评分**，故三个平台一律「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-209-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "md209-002",
+    "title": "私家侦探社",
+    "originalTitle": "",
+    "author": "莫里斯·勒布朗",
+    "alternateTitles": [
+      "巴纳特私家侦探社",
+      "巴尔内特私家侦探事务所"
+    ],
+    "authorEn": "Maurice Leblanc",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2011",
+    "series": "亚森·罗平探案经典",
+    "detective": "亚森·罗平",
+    "country": "法国",
+    "tags": [
+      "adventure",
+      "city",
+      "ensemble"
+    ],
+    "school": [
+      "adventure-school"
+    ],
+    "safeSummary": "勒布朗的一册罗平故事集：一家挂着「私家侦探社」招牌的铺子接下各种委托，而社里的人办案的办法都不太照规矩来。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "亚森·罗平系列的读者",
+        "短篇连作的读者"
+      ],
+      "watchFor": [
+        "每位委托人没说出口的事",
+        "侦探社的人各自的路数"
+      ],
+      "warning": "侦探小说集，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**丛编检索** `--series 亚森·罗平` 发现，见 §125）：勒布朗著，中国国际广播出版社 2011，ISBN 978-7-5078-3296-9，馆藏 `215` 作「15, 204 页」，译者管筱明，丛编「**亚森·罗平探案经典**」，**主题词「侦探小说 小说集 法国 现代」**，中图法 `I565.45`。**判据**：①学科主题词「侦探小说 小说集 法国 现代」（第①类，最硬）；②中图法 `I565.45`；③丛编为罗平专刊。**同书异名核查（关键）**：本册馆藏**没有原作名字段**，`originalTitle` **留空不做推测**；但上图另藏同作的两种版本——《巴纳特私家侦探社》（安徽美术出版社 2013，ISBN 978-7-5398-4214-1，154 页）与《巴尔内特私家侦探事务所》（江苏文艺出版社 2013，译者李曦）——**三个题名（巴纳特／巴尔内特＝Barnett）指向同一部作品**，故把另两个题名登记进 `alternateTitles`，避免它们日后被当成新书再收一遍。**梗概说明**：馆藏 CNMARC 未提供本册提要，梗概据题名与丛书体例整理，**不含具体情节**。**年份字段**：`firstPublished` 留空；`editionYear` 记 2011。**评分来源**：豆瓣按题名检索没有本册（中国国际广播版）的条目，故三个平台一律「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-209-md.json",
+      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
