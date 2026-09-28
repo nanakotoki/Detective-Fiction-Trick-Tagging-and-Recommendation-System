@@ -1060,7 +1060,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "整理者据公开出版信息整理",
+      "source": "整理者据公开出版信息整理 **同书异名登记（第 129 轮）**：上图 CNMARC 并列题名字段给出 `Beast must die`（外语教学与研究出版社 2023，张秋涵译，249 页，ISBN 978-7-5213-4333-5），与库内本条原题 `The Beast Must Die` 一致；豆瓣同版条目亦给出 `The Beast Must Die`（7.9 分／129 人），「必死／必亡」是同一书名的两种译法。",
       "editionYearSource": "**对外经贸大学图书馆 OPAC 著录**：北京:,新星出版社:,2023（野兽必死／(英) 尼古拉斯·布莱克著）。本条 `editionYear` 由 `scripts/backfill-edition-year.mjs` 按「作者吻合且该馆仅此一版」的规则回填（2026-09）。"
     },
     "provenance": {
@@ -1068,7 +1068,8 @@
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
-      "禽兽该死"
+      "禽兽该死",
+      "野兽必亡"
     ],
     "editionYear": "2023"
   },
@@ -1347,14 +1348,14 @@
     "ratings": {
       "douban": {
         "summary": "暂无数据",
-        "score": 7.3,
-        "count": 1125,
+        "score": 7.6,
+        "count": 813,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/35315155/",
-        "subjectId": "35315155",
-        "edition": "阿拉伯之夜谋杀案 2021",
-        "fetchedAt": "2026-09-26T16:22:39.451Z",
+        "sourceUrl": "https://book.douban.com/subject/2378210/",
+        "subjectId": "2378210",
+        "edition": "阿拉伯之夜谋杀案 2007",
+        "fetchedAt": "2026-09-21T10:53:45.451Z",
         "asOf": "2026-09"
       },
       "hupu": {

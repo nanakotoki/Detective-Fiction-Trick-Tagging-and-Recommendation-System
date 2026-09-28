@@ -26,10 +26,11 @@
         "count": 49,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/33476163/",
+        "sourceUrl": "https://book.douban.com/subject/33476163/",
         "subjectId": "33476163",
         "edition": "幻的墓 2019",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:47:50.071Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -71,7 +72,7 @@
     },
     "provenance": {
       "source": "batch-205-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -171,10 +172,11 @@
         "count": 151,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1215059/",
+        "sourceUrl": "https://book.douban.com/subject/1215059/",
         "subjectId": "1215059",
         "edition": "腐蚀花园 2003",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:48:02.259Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -216,7 +218,7 @@
     },
     "provenance": {
       "source": "batch-205-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -321,10 +323,11 @@
         "count": 5012,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/30206396/",
+        "sourceUrl": "https://book.douban.com/subject/30206396/",
         "subjectId": "30206396",
         "edition": "假面之夜 2018",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:48:12.190Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -367,7 +370,7 @@
     },
     "provenance": {
       "source": "batch-205-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -398,13 +401,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.3。",
         "score": 6.3,
-        "count": 1541,
+        "count": 1542,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/37268346/",
+        "sourceUrl": "https://book.douban.com/subject/37268346/",
         "subjectId": "37268346",
         "edition": "觉醒者们 2025",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:48:15.600Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -447,7 +451,7 @@
     },
     "provenance": {
       "source": "batch-205-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

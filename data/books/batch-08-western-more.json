@@ -1351,7 +1351,7 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2025-01",
-      "source": "整理者据公开出版信息与先验知识整理",
+      "source": "整理者据公开出版信息与先验知识整理 **同书异名登记（第 129 轮）**：上图 CNMARC 并列题名给出 `Greene murder case`（重庆大学出版社 2012，何静译，280 页，ISBN 978-7-5624-6639-0，该馆责任者写作「达因」），与库内本条原题 `The Greene Murder Case` 一致；豆瓣同版条目 7.5 分／152 人，故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：北京 朝华出版社 2005（馆藏题名「格林家杀人事件」／范达因）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
@@ -1359,7 +1359,8 @@
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
-      "葛蕾丝命案"
+      "葛蕾丝命案",
+      "格林老宅谋杀案"
     ],
     "editionYear": "2005"
   },

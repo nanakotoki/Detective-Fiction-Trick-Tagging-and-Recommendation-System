@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "opac129-001",
+    "title": "魔镜",
+    "originalTitle": "",
+    "author": "有栖川有栖",
+    "authorEn": "Arisugawa Arisu",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2003",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "alibi",
+      "red-herring",
+      "multiple-solutions",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school",
+      "trick-school"
+    ],
+    "safeSummary": "别墅里的女主人被杀，丈夫与弟弟都有嫌疑，却似乎都没有作案时间；几个月后，这对孪生兄弟又一起失踪。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.6。",
+        "score": 7.6,
+        "count": 915,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1277091/",
+        "subjectId": "1277091",
+        "edition": "魔镜 2003",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格解谜的读者",
+        "有栖川有栖的读者"
+      ],
+      "watchFor": [
+        "两个人各自的不在场证明是怎么立起来的",
+        "几个月后的那桩失踪"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**作者池** `_dd/shlib-new.tsv` 发现）：有栖川有栖著，吴崇、王忠武译，珠海出版社 2003，ISBN 7-80689-009-2，284 页，丛编「**日本优秀侦探小说丛书**」，**学科主题词「长篇小说 侦探小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/1277091/`（珠海出版社 2003-1，ISBN 9787806890097 —— 与馆藏 ISBN `7-80689-009-2` 为同一号，**同一版**）「原作名」一栏为空，故 `originalTitle` 留空。**评分**：**7.6**、915 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空（馆藏未著录原版初刊年）；`editionYear` 记 2003。**梗概**：据豆瓣条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-002",
+    "title": "恶魔迷宫",
+    "originalTitle": "悪魔のラビリンス",
+    "author": "二阶堂黎人",
+    "authorEn": "Nikaido Reito",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "二阶堂兰子系列",
+    "detective": "二阶堂兰子",
+    "country": "日本",
+    "tags": [
+      "multiple-solutions",
+      "red-herring",
+      "mansion",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "四桩看似毫无瓜葛的事件：行进列车里的杀人、跌落山谷的可怜人、悬崖旁玻璃之家的财产争夺，以及侦探事务所成员留下的诡秘讯息。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.9。",
+        "score": 5.9,
+        "count": 822,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/4725223/",
+        "subjectId": "4725223",
+        "edition": "恶魔迷宫 2010",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格与不可能犯罪的读者",
+        "二阶堂黎人的读者"
+      ],
+      "watchFor": [
+        "四桩事件之间的接缝",
+        "幕后那个从不露面的人"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：二阶堂黎人著，刘宁译，新星出版社 2010，ISBN 978-7-80225-917-1，238 页，丛编「**午夜文库**」，**学科主题词「侦探小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/4725223/`（新星出版社 2010-8，ISBN 9787802259171 —— 与馆藏 ISBN 一致，**同一版**）给出 `悪魔のラビリンス`。**评分**：**5.9**、822 人评价（2026-09 抓取）。**系列与主角**：豆瓣条目页作者简介写明其主要著作是「以名侦探二阶堂兰子为主角的系列作品」；库内另有《地狱奇术师》《恐怖的人狼城》等该系列条目，本条系列写法沿用库内。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。**梗概**：据豆瓣条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-003",
+    "title": "密室王国",
+    "originalTitle": "密室キングダム",
+    "author": "柄刀一",
+    "authorEn": "Hajime Karato",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "locked-space",
+      "multiple-solutions",
+      "theater",
+      "vanished-weapon"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "隐退的魔术师复出公演，随后在封闭的棺椁与密室中被杀；被称作「柄刀魔术」的密室五连作，日本推理作家协会奖候补。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.9。",
+        "score": 6.9,
+        "count": 234,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36610294/",
+        "subjectId": "36610294",
+        "edition": "密室王国 2023",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "密室题材爱好者",
+        "新本格解谜的读者"
+      ],
+      "watchFor": [
+        "棺椁被运进房间之后的每一道封闭",
+        "五间密室各自的成立条件"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：柄刀一著，吴静译，台海出版社 2023，ISBN 978-7-5168-3697-2，**2 册（430;452 页）**，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/36610294/`（台海出版社 2024-4，ISBN 9787516836972 —— 与馆藏 ISBN 一致，**同一版**；豆瓣著录年份晚于馆藏，未据以改动 `editionYear`）给出 `密室キングダム`。**评分**：**6.9**、234 人评价（2026-09 抓取）。**奖项**：条目页简介列有「第 61 届日本推理作家协会奖候补」「第 8 届本格推理大奖候补」，本条 `safeSummary` 里的「候补」二字即据此。**年份字段**：`firstPublished` 留空；`editionYear` 记馆藏所引 2023。**梗概**：据豆瓣条目页简介重写，止于「冲进去后所有人都被眼前的一幕惊呆了」，不揭手法。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-004",
+    "title": "宛如碧风吹过",
+    "originalTitle": "過ぎ行く風はみどり色",
+    "author": "仓知淳",
+    "authorEn": "Kurachi Jun",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "locked-room",
+      "legend-folklore",
+      "mansion",
+      "red-herring",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "退休的房地产商想向亡妻赔罪，长子请来灵媒师；就在那场降灵会上，第二起惨案发生了。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.2。",
+        "score": 7.2,
+        "count": 1114,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35049730/",
+        "subjectId": "35049730",
+        "edition": "宛如碧风吹过 2020",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "本格解谜的读者",
+        "密室与降灵会题材的爱好者"
+      ],
+      "watchFor": [
+        "别室的门窗是怎么封闭的",
+        "灵媒师那套说法与现场的关系"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：仓知淳著，张佳东译，台海出版社 2020，ISBN 978-7-5168-2583-9，493 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/35049730/`（台海出版社 2020-5，ISBN 9787516825839 —— 与馆藏 ISBN 一致，**同一版**）给出 `過ぎ行く風はみどり色`。**评分**：**7.2**、1114 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于「第二起惨案发生了」，不揭凶手与手法。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-005",
+    "title": "午夜零点的灰姑娘",
+    "originalTitle": "午前零時のサンドリヨン",
+    "author": "相泽沙呼",
+    "authorEn": "Aizawa Sahoro",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列（短篇集）",
+    "detective": "酉乃初",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "youth",
+      "locked-room",
+      "curiosity",
+      "cozy"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "trick-school",
+      "logic-school"
+    ],
+    "safeSummary": "反着摆放的杂志、密室课桌上的留言、能预知考试结果的笔记本——解开这些校园日常之谜的，是同班那位魔术师少女。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.1。",
+        "score": 6.1,
+        "count": 727,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34843831/",
+        "subjectId": "34843831",
+        "edition": "午夜零点的灰姑娘 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "日常之谜的读者",
+        "校园推理的读者"
+      ],
+      "watchFor": [
+        "书脊朝内摆放的理由",
+        "魔术在解谜里怎么用"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：相泽沙呼著，邢利颉译，世界知识出版社 2019，ISBN 978-7-5012-5043-1，334 页，丛编「**千本樱文库**」，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/34843831/`（世界知识出版社 2019-12，ISBN 9787501250431 —— 与馆藏 ISBN 一致，**同一版**）给出 `午前零時のサンドリヨン`。**评分**：**6.1**、727 人评价（2026-09 抓取）。**主角与体例**：馆藏提要为「魔术师酉乃初…运用超群的魔术技艺」逐一解谜的校园连作短篇，据此记 `series`「非系列（短篇集）」、主角酉乃初。**体裁判据**：馆藏提要明写「校园生活」「青春悬疑故事」，谜面均为日常小事，故 `genre` 记「日常之谜」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据馆藏提要重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-006",
+    "title": "被杀死的真理子",
+    "originalTitle": "でぃすぺる",
+    "author": "今村昌弘",
+    "authorEn": "Imamura Masahiro",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "countryside",
+      "red-herring",
+      "fear",
+      "multiple-solutions"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "奥神祭前夜，真理子死了：凶手无踪、凶器成谜，唯一的线索是她电脑里那份《奥乡町七大不可思议》档案。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.1。",
+        "score": 6.1,
+        "count": 797,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37360862/",
+        "subjectId": "37360862",
+        "edition": "被杀死的真理子 2025",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "新本格的读者",
+        "今村昌弘的读者"
+      ],
+      "watchFor": [
+        "那份「七大不可思议」档案的来历",
+        "祭前夜的初雪与时间"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：今村昌弘著，吕灵芝译，北京联合出版公司 2025，ISBN 978-7-5596-8510-0，370 页，**学科主题词「侦探小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/37360862/`（北京联合出版公司 2025-11，ISBN 9787559685100 —— 与馆藏 ISBN 一致，**同一版**）给出 `でぃすぺる`。**评分**：**6.1**、797 人评价（2026-09 抓取）。**年份字段**：`firstPublished` 留空；`editionYear` 记馆藏所引 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于「等待他们的究竟是正义还是深渊」，不揭真相。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-007",
+    "title": "怪画谜案",
+    "originalTitle": "変な絵",
+    "author": "雨穴",
+    "authorEn": "Uketu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "red-herring",
+      "concealment",
+      "curiosity",
+      "dark-atmosphere",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "psychological-school",
+      "trick-school"
+    ],
+    "safeSummary": "那对夫妻的恩爱博客在一年半前突然停更，幼儿园孩子为母亲节画的画里也有说不通的地方——谜团从几张画开始。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.3。",
+        "score": 7.3,
+        "count": 17935,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36858240/",
+        "subjectId": "36858240",
+        "edition": "怪画谜案 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "图片型推理的读者",
+        "雨穴的读者"
+      ],
+      "watchFor": [
+        "画里那些「不必要」的细节",
+        "博客停更的时间点"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：雨穴著，烨伊译，台海出版社 2024，ISBN 978-7-5168-3844-0，297 页，**学科主题词「推理小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/36858240/`（台海出版社 2024-7，ISBN 9787516838440 —— 与馆藏 ISBN 一致，**同一版**）给出 `変な絵`。**评分**：**7.3**、17935 人评价（2026-09 抓取；这是本批样本量最大的一条）。**同作者**：库内已有《怪屋谜案》（同作者的 `変な家`），本册为其后续作。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据豆瓣条目页简介里的两个线索（博客停更、孩子画中的异常）重写，不涉及解答。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-008",
+    "title": "她不存在",
+    "originalTitle": "",
+    "author": "浦贺和宏",
+    "authorEn": "Uraga Kazuhiro",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "psychological-misdirection",
+      "red-herring"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "香奈子的恋人被杀，似乎与他们刚认识的神秘女孩有关；另一边，大学生根本发现妹妹的行为越来越反常。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.4。",
+        "score": 5.4,
+        "count": 220,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37427839/",
+        "subjectId": "37427839",
+        "edition": "她不存在 2025",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "犯罪悬疑的读者",
+        "浦贺和宏的读者"
+      ],
+      "watchFor": [
+        "两个陌生人各自的视角",
+        "「由子」这个女孩的来路"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：浦贺和宏著，水七木译，江苏凤凰文艺出版社 2025，ISBN 978-7-5594-9893-9，300 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.456`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/37427839/`（江苏凤凰文艺出版社 2025-12，ISBN 9787559498939 —— 与馆藏 ISBN 一致，**同一版**）「原作名」栏为空，故 `originalTitle` 留空。**评分**：**5.4**、220 人评价（2026-09 抓取）。**标签口径**：本条**没有**标 `narrative-trick`——作者以叙述性诡计知名是**作者层面**的事实，但馆藏提要与条目页都没有给出本书在写法上的证据，按「标签要有本书层面的判据」的口径不标。**年份字段**：`firstPublished` 留空；`editionYear` 记馆藏所引 2025。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于「意想不到的事件的转折」，不揭真相。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-009",
+    "title": "死刑之病",
+    "originalTitle": "死刑にいたる病",
+    "author": "栉木理宇",
+    "authorEn": "Kushiki Riyu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "silencing",
+      "psychological-misdirection",
+      "concealment",
+      "fear",
+      "obsession"
+    ],
+    "school": [
+      "psychological-school",
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "二十四起命案只有九件立案，狱中的凶手写信给一个大学生：我罪该万死，但应该是八起，不是九起。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.2。",
+        "score": 7.2,
+        "count": 1218,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36991056/",
+        "subjectId": "36991056",
+        "edition": "死刑之病 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "犯罪心理的读者",
+        "社会派与悬疑交界的读者"
+      ],
+      "watchFor": [
+        "那封信为什么寄给他",
+        "「八起还是九起」这个差别"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：栉木理宇著，蔡东辉译，北京联合出版公司 2024，ISBN 978-7-5596-7890-4，298 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/36991056/`（北京联合出版公司 2024-10，ISBN 9787559678904 —— 与馆藏 ISBN 一致，**同一版**）给出 `死刑にいたる病`。**评分**：**7.2**、1218 人评价（2026-09 抓取）。**同作者**：库内已有其《老蜂》，作者写法沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，止于「雅也渐渐发现自己正在这起事件中越陷越深」，不揭结局。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-010",
+    "title": "出版禁止",
+    "originalTitle": "出版禁止",
+    "author": "长江俊和",
+    "authorEn": "Nagae Toshikazu",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "meta-fiction",
+      "diary-form",
+      "unreliable-narrator",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "meta-school",
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "一份采访记录被禁止出版，理由骇人听闻；它记载的是几年前那起被称为「死亡旋涡」的殉情事件。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 6.5。",
+        "score": 6.5,
+        "count": 1670,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36952612/",
+        "subjectId": "36952612",
+        "edition": "出版禁止 2024",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "后设趣味与纪实体推理的读者",
+        "长江俊和的读者"
+      ],
+      "watchFor": [
+        "稿子被禁止出版的原因",
+        "采访者与被采访者的位置"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：长江俊和著，王星星译，北京日报出版社 2024，ISBN 978-7-5477-4987-6，223 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：豆瓣条目页 `https://book.douban.com/subject/36952612/`（北京日报出版社 2024-10，ISBN 9787547749876 —— 与馆藏 ISBN 一致，**同一版**）给出 `出版禁止`（与中文题名同形）。**评分**：**6.5**、1670 人评价（2026-09 抓取）。**同作者**：库内已有其《东京二十三区女子》。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-011",
+    "title": "啼血的铜鹤",
+    "originalTitle": "",
+    "author": "久生十兰",
+    "authorEn": "Hisao Juran",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "city",
+      "red-herring",
+      "concealment",
+      "curiosity",
+      "social-commentary"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "logic-school"
+    ],
+    "safeSummary": "微服东京的安南国皇帝在小妾被杀后人间蒸发；一名凡事追根究底的三流记者，顺着「会唱歌的铜鹤喷泉」查了下去。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.4。",
+        "score": 5.4,
+        "count": 49,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25900694/",
+        "subjectId": "25900694",
+        "edition": "啼血的铜鹤 2014",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前日本推理的读者",
+        "久生十兰的读者"
+      ],
+      "watchFor": [
+        "警方为什么急着按自杀结案",
+        "那只铜鹤喷泉在城里引起的骚动"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：久生十兰著，程亮译，北京联合出版公司 2014，ISBN 978-7-5502-3104-7，313 页，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**，中图法 `I313.45`。**原作名**：馆藏并列题名字段为空；豆瓣条目页 `https://book.douban.com/subject/25900694/`（北京联合出版公司 2014-8-1，ISBN 9787550231047 —— 与馆藏 ISBN 一致，**同一版**）「原作名」栏亦为空（另有一条同 ISBN 的 2023 年重印记录 `subject/36141232`），故 `originalTitle` 留空。**评分**：**5.4**、49 人评价（2014 年版条目页，2026-09 抓取；样本偏少，报告页会标「评价人数偏少」）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2014。**梗概**：据豆瓣条目页简介重写，无剧透。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-012",
+    "title": "妖怪杂货店",
+    "originalTitle": "",
+    "author": "冈本绮堂",
+    "authorEn": "Okamoto Kido",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "日本",
+    "tags": [
+      "legend-folklore",
+      "historical-setting",
+      "dark-atmosphere",
+      "ensemble"
+    ],
+    "school": [
+      "bizarre-school",
+      "psychological-school"
+    ],
+    "safeSummary": "十四个短篇怪谈：江户街巷里那些说不清是妖怪作祟还是人心作祟的事（作者另有「半七捕物帐」系列）。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 5.7。",
+        "score": 5.7,
+        "count": 114,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34449289/",
+        "subjectId": "34449289",
+        "edition": "妖怪杂货店 2019",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "怪谈与捕物帐的读者",
+        "冈本绮堂的读者"
+      ],
+      "watchFor": [
+        "哪几篇最后落在了人心上",
+        "江户风俗的细节"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：冈本绮堂著，李娟译，长江出版社 2019，ISBN 978-7-5492-6555-8，275 页，**学科主题词「长篇小说 日本 现代 ; 推理小说 日本 现代」**，中图法 `I313.45`。**原作名**：馆藏并列题名为空；豆瓣条目页 `https://book.douban.com/subject/34449289/`（长江出版社 2019-9，ISBN 9787549265558 —— 与馆藏 ISBN 一致，**同一版**）「原作名」亦为空，故 `originalTitle` 留空。**评分**：**5.7**、114 人评价（2026-09 抓取）。**体例**：条目页简介写明「14 篇凄迷曲折的短篇鬼魅故事」，与馆藏主题词「长篇小说」不一致，本条按**短篇集**著录并以条目页为据（同《黑珍珠》一条的处理）。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。**梗概**：据条目页简介与作者简介重写，不涉及具体故事。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-013",
+    "title": "隐蔽嫌疑人",
+    "originalTitle": "The Loneliest Guy",
+    "author": "陈浩基",
+    "authorEn": "Chan Ho-Kei",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2026",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "locked-room",
+      "dual-line",
+      "meta-fiction",
+      "social-commentary",
+      "unreliable-narrator"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school",
+      "meta-school"
+    ],
+    "safeSummary": "一桩密室奇案为主线，另有「逝者告白」与「虚构文本」两条副线；故事落在「茧居一族」「兼职女友」这些城市边缘人群身上。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 790,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37147122/",
+        "subjectId": "37147122",
+        "edition": "隐蔽嫌疑人 2026",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "陈浩基的读者",
+        "多线叙事的读者"
+      ],
+      "watchFor": [
+        "三条线各自说话的立场",
+        "「茧居」与「兼职女友」这两种身份"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；作者池发现）：陈浩基著，上海三联书店 2026，ISBN 978-7-5426-9176-7，419 页，**学科主题词「推理小说 中国 当代 ; 长篇小说 中国 当代」**，中图法 `I247.56`；**并列题名字段给出 `Loneliest guy`**，故 `originalTitle` 记 `The Loneliest Guy`。**评分**：豆瓣条目页 `https://book.douban.com/subject/37147122/`（上海三联书店 2026-8，ISBN 9787542691767 —— 与馆藏 ISBN 一致，**同一版**）**7.8**、790 人评价（2026-09 抓取）。**同作者**：库内已有《13·67》《网内人》《遗忘·刑警》《第欧根尼变奏曲》，写法沿用。**年份字段**：`firstPublished` 留空；`editionYear` 记 2026。**梗概**：据**馆藏提要**（CNMARC 330 字段）重写，不揭反转。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac129-014",
+    "title": "妙贼尼克Ⅰ",
+    "originalTitle": "The Velvet Touch I",
+    "author": "爱德华·霍克",
+    "authorEn": "Edward D. Hoch",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "妙贼尼克系列",
+    "detective": "尼克·维尔维特",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "curiosity",
+      "red-herring",
+      "honkaku"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "尼克·维尔维特是个小偷，但他从不偷钱或珠宝：每次出手都是奉命而为，目标要么显眼、要么风险极高，要么是别的贼看不上眼的东西。",
+    "ratings": {
+      "douban": {
+        "summary": "豆瓣条目页评分 7.8。",
+        "score": 7.8,
+        "count": 260,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6249961/",
+        "subjectId": "6249961",
+        "edition": "妙贼尼克Ⅰ 2012",
+        "fetchedAt": "2026-09-28"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "短篇解谜的读者",
+        "霍克的读者"
+      ],
+      "watchFor": [
+        "委托人要的到底是什么",
+        "每篇里那个「不值钱」的目标"
+      ],
+      "warning": "侦探推理小说，含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC；本轮经**译者「吴非」一行**发现——池内该行的题名把译者与作者连写了：「妙贼尼克 Ⅰ Ⅰf(美)爱德华·霍克(Edward D. Hoch)著」，**主要责任者实为霍克**）：霍克著，吴非译，吉林出版集团有限责任公司 2012，ISBN 978-7-5463-5230-5，232 页，丛编「**「不可能犯罪诊断书」系列/「妙贼尼克」系列**」，**学科主题词「推理小说 小说集 美国 现代」**，中图法 `I712.45`；**并列题名给出 `Velvet touch`**。**原作名**：豆瓣条目页 `https://book.douban.com/subject/6249961/`（吉林出版集团 2012-4，ISBN 9787546352305 —— 与馆藏 ISBN 一致，**同一版**）给出 `The Velvet Touch Ⅰ`。**评分**：**7.8**、260 人评价（2026-09 抓取）。**主角**：条目页简介写明主角小偷尼克·维尔维特「从不偷钱或珠宝一类玩意儿…每次行动都是奉命而为」，梗概即据此。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-213-opac.json",
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]

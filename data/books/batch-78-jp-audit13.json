@@ -407,14 +407,17 @@
     "verification": {
       "verified": true,
       "verifiedAt": "2026-09",
-      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5288321，按 subject id 直取）；连载年 1936 据公开作者介绍核实，梗概据公开内容简介重写并经人工核对",
+      "source": "书名与条目信息取自豆瓣丛书页（日本推理名作选，丛书 id=693，条目 subject/5288321，按 subject id 直取）；连载年 1936 据公开作者介绍核实，梗概据公开内容简介重写并经人工核对 **同书异名登记（第 129 轮）**：豆瓣条目页 `https://book.douban.com/subject/36561491/`（江苏凤凰文艺出版社 2023-11，赵建勋译，320 页，ISBN 9787559479884）**原作名给出 `小笛事件`**，与库内本条同作；该版换了书名（「白川町杀人事件」即案件发生地），故不另立条目。",
       "editionYearSource": "**上海图书馆 OPAC 著录（CNMARC 210 出版发行项）**：长春 吉林出版集团有限责任公司 2010（馆藏题名「小笛事件」／山本禾太郎）。本条 `editionYear` 由 `scripts/backfill-edition-year2.mjs` 按「题名与作者同时吻合、且该馆仅此一版」的规则回填（2026-09），并经 `scripts/shlib-diff.mjs` 的比对口径复核。"
     },
     "provenance": {
       "source": "batch-78-jp-audit13.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
-    "editionYear": "2010"
+    "editionYear": "2010",
+    "alternateTitles": [
+      "白川町杀人事件"
+    ]
   },
   {
     "id": "jpaudit78-006",

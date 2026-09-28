@@ -97,11 +97,16 @@
     "safeSummary": "「诡故事·推理悬疑小说志」中的一册，由雷米与轩弦两位作者的作品组成的推理悬疑集。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.4,
+        "count": 57,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20282694/",
+        "subjectId": "20282694",
+        "edition": "影子的灰烬 2012",
+        "fetchedAt": "2026-09-28T10:47:38.718Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +147,7 @@
     },
     "provenance": {
       "source": "batch-204-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -174,10 +179,11 @@
         "count": 532,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/37564966/",
+        "sourceUrl": "https://book.douban.com/subject/37564966/",
         "subjectId": "37564966",
         "edition": "除恶 2026",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-28T10:47:43.237Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -219,7 +225,7 @@
     },
     "provenance": {
       "source": "batch-204-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -246,11 +252,16 @@
     "safeSummary": "一个不被期待的女孩在校园霸凌与家庭的取舍之间消失，遁入城市地下；另一条线上，暴雨中浮出的无名女尸把刑警引向连环案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 4325,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35433059/",
+        "subjectId": "35433059",
+        "edition": "人鱼 2021",
+        "fetchedAt": "2026-09-28T10:47:46.582Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -292,7 +303,7 @@
     },
     "provenance": {
       "source": "batch-204-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

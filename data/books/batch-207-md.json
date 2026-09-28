@@ -26,10 +26,11 @@
         "count": 119,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2025726/",
+        "sourceUrl": "https://book.douban.com/subject/2025726/",
         "subjectId": "2025726",
-        "edition": "新东方快车谋杀案 2000",
-        "fetchedAt": "2026-09-27"
+        "edition": "新东方快车谋杀案 1988",
+        "fetchedAt": "2026-09-28T10:49:15.749Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -71,7 +72,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -314,10 +315,11 @@
         "count": 13,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1644108/",
+        "sourceUrl": "https://book.douban.com/subject/1644108/",
         "subjectId": "1644108",
         "edition": "再见吧!荒野 2000",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:49:32.956Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -359,7 +361,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -601,10 +603,11 @@
         "count": 203,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2027698/",
+        "sourceUrl": "https://book.douban.com/subject/2027698/",
         "subjectId": "2027698",
         "edition": "大海獠牙 1999",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:49:52.592Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -646,7 +649,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -677,10 +680,11 @@
         "count": 234,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2027696/",
+        "sourceUrl": "https://book.douban.com/subject/2027696/",
         "subjectId": "2027696",
         "edition": "四万人的目击者 1999",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:49:55.971Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -722,7 +726,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -748,11 +752,16 @@
     "safeSummary": "乃南朝长篇之一：一桩从日常里长出来的案子（「幸福的早餐」是它的题眼）。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 37,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2027734/",
+        "subjectId": "2027734",
+        "edition": "幸福的早餐 1998",
+        "fetchedAt": "2026-09-28T10:49:58.961Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -794,7 +803,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -820,11 +829,16 @@
     "safeSummary": "乃南朝长篇之一：一个女人从失忆中醒来，只记得 6 月 19 日有一个婚礼；她要先弄清自己是谁。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 43,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1061936/",
+        "subjectId": "1061936",
+        "edition": "6月19日的新娘 2000",
+        "fetchedAt": "2026-09-28T10:50:05.232Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -866,7 +880,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -969,10 +983,11 @@
         "count": 57,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2027749/",
+        "sourceUrl": "https://book.douban.com/subject/2027749/",
         "subjectId": "2027749",
         "edition": "绝命情缘 1996",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:16.419Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1014,7 +1029,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1043,10 +1058,11 @@
         "count": 97,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1719361/",
+        "sourceUrl": "https://book.douban.com/subject/1719361/",
         "subjectId": "1719361",
-        "edition": "V的悲剧 2000",
-        "fetchedAt": "2026-09-27"
+        "edition": "V的悲剧 2000.8",
+        "fetchedAt": "2026-09-28T10:50:21.026Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1088,7 +1104,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1119,10 +1135,11 @@
         "count": 78,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1488289/",
+        "sourceUrl": "https://book.douban.com/subject/1488289/",
         "subjectId": "1488289",
         "edition": "租住在楼上的绅士 2006",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:25.649Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1164,7 +1181,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1264,10 +1281,11 @@
         "count": 1015,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/35292719/",
+        "sourceUrl": "https://book.douban.com/subject/35292719/",
         "subjectId": "35292719",
         "edition": "希望你是人类 2022",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:36.169Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1310,7 +1328,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1340,10 +1358,11 @@
         "count": 675,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/34822424/",
+        "sourceUrl": "https://book.douban.com/subject/34822424/",
         "subjectId": "34822424",
         "edition": "密室小丑 2020",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:40.705Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1385,7 +1404,7 @@
     },
     "provenance": {
       "source": "batch-207-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -976,14 +976,15 @@
     "ratings": {
       "douban": {
         "summary": "豆瓣条目页评分 6.6。",
-        "score": 6.6,
-        "count": 201,
+        "score": 6.5,
+        "count": 587,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/37422100/",
-        "subjectId": "37422100",
-        "edition": "暗黑医院 2025",
-        "fetchedAt": "2026-09-28"
+        "sourceUrl": "https://book.douban.com/subject/35024945/",
+        "subjectId": "35024945",
+        "edition": "暗黑医院 2020",
+        "fetchedAt": "2026-09-28T10:55:33.333Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1025,7 +1026,7 @@
     },
     "provenance": {
       "source": "batch-212-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1610,11 +1611,16 @@
     "safeSummary": "陈查理系列的一册（群众「世界侦探推理名著文库」）：馆藏并列题名给出原作名 `Black camel`，梗概按系列层面撰写，不涉及具体情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 50,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/1311732/",
+        "subjectId": "1311732",
+        "edition": "黑骆驼 1999",
+        "fetchedAt": "2026-09-28T10:56:09.420Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1656,7 +1662,7 @@
     },
     "provenance": {
       "source": "batch-212-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

@@ -27,10 +27,11 @@
         "count": 43,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/37359073/",
+        "sourceUrl": "https://book.douban.com/subject/37359073/",
         "subjectId": "37359073",
         "edition": "D坡谜案 2025",
-        "fetchedAt": "2026-09-26"
+        "fetchedAt": "2026-09-28T10:47:23.652Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -72,7 +73,7 @@
     },
     "provenance": {
       "source": "batch-203-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -97,11 +98,16 @@
     "safeSummary": "一册收两部乱步侦探小说：《黑手》与《恐怖王》（馆藏提要原文只到篇名与体例层面）。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6,
+        "count": 49,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26841258/",
+        "subjectId": "26841258",
+        "edition": "恐怖的魔王·黑手 2016",
+        "fetchedAt": "2026-09-28T10:47:29.229Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -143,7 +149,7 @@
     },
     "provenance": {
       "source": "batch-203-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

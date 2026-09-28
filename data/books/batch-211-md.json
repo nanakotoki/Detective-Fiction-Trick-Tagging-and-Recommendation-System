@@ -28,10 +28,11 @@
         "count": 1607,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/1986381/",
+        "sourceUrl": "https://book.douban.com/subject/1986381/",
         "subjectId": "1986381",
         "edition": "黑暗之刺 2007",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:54:21.076Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -73,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-211-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -99,11 +100,16 @@
     "safeSummary": "大阪一家老呢绒批发店的独女，父母双亡后靠一间小小的缝纫训练班起家，一步步做成有名的服装设计师——直到她被身边的欲望与算计拖到绝路上。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.8,
+        "count": 249,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34985247/",
+        "subjectId": "34985247",
+        "edition": "女人的勋章 2020",
+        "fetchedAt": "2026-09-28T10:54:26.797Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -145,7 +151,7 @@
     },
     "provenance": {
       "source": "batch-211-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -175,10 +181,11 @@
         "count": 25,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/34933709/",
+        "sourceUrl": "https://book.douban.com/subject/34933709/",
         "subjectId": "34933709",
         "edition": "丑闻家族 2020",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:54:29.946Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -220,7 +227,7 @@
     },
     "provenance": {
       "source": "batch-211-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -245,11 +252,16 @@
     "safeSummary": "黄昏的郊外山岭上，一个年轻人手里握着滴血的刀，一名女子横尸野外——是谋杀还是自杀，司法部门围绕这桩三角案件反复取证、调查与审讯。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7,
+        "count": 56,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/33476166/",
+        "subjectId": "33476166",
+        "edition": "三角案件 2019",
+        "fetchedAt": "2026-09-28T10:54:36.562Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -291,7 +303,7 @@
     },
     "provenance": {
       "source": "batch-211-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -98,10 +98,11 @@
         "count": 271,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/5387464/",
+        "sourceUrl": "https://book.douban.com/subject/5387464/",
         "subjectId": "5387464",
         "edition": "火焰，燃烧吧！ 2010",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:53.125Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -143,7 +144,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -173,10 +174,11 @@
         "count": 220,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/24744379/",
+        "sourceUrl": "https://book.douban.com/subject/24744379/",
         "subjectId": "24744379",
         "edition": "新门新娘 2013",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:56.531Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -218,7 +220,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -248,10 +250,11 @@
         "count": 471,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/24316423/",
+        "sourceUrl": "https://book.douban.com/subject/24316423/",
         "subjectId": "24316423",
         "edition": "第三颗子弹 2013",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:50:59.902Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -293,7 +296,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -323,14 +326,15 @@
     "ratings": {
       "douban": {
         "summary": "豆瓣条目页评分 7.5。",
-        "score": 7.5,
-        "count": 476,
+        "score": 7,
+        "count": 124,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4625993/",
-        "subjectId": "4625993",
-        "edition": "福尔摩斯的功绩 2010",
-        "fetchedAt": "2026-09-27"
+        "sourceUrl": "https://book.douban.com/subject/24754985/",
+        "subjectId": "24754985",
+        "edition": "福尔摩斯的功绩 2013",
+        "fetchedAt": "2026-09-28T10:51:03.383Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -372,7 +376,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -397,11 +401,16 @@
     "safeSummary": "卡尔的长篇之一：一桩要把已经「睡下」的人重新叫醒的案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 374,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6125409/",
+        "subjectId": "6125409",
+        "edition": "唤醒死者 2011",
+        "fetchedAt": "2026-09-28T10:51:08.172Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -443,7 +452,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -473,10 +482,11 @@
         "count": 739,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2378207/",
+        "sourceUrl": "https://book.douban.com/subject/2378207/",
         "subjectId": "2378207",
         "edition": "逆转死局 2007",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:11.829Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -518,7 +528,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -548,10 +558,11 @@
         "count": 590,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/2378199/",
+        "sourceUrl": "https://book.douban.com/subject/2378199/",
         "subjectId": "2378199",
         "edition": "沉睡的人面狮身 2007",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:16.818Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -593,7 +604,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -623,10 +634,11 @@
         "count": 200,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/25940204/",
+        "sourceUrl": "https://book.douban.com/subject/25940204/",
         "subjectId": "25940204",
         "edition": "破解奇迹之人 2014",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:19.929Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -668,7 +680,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -698,10 +710,11 @@
         "count": 623,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3293575/",
+        "sourceUrl": "https://book.douban.com/subject/3293575/",
         "subjectId": "3293575",
         "edition": "我的前妻们 2008",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:23.267Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -743,7 +756,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -773,10 +786,11 @@
         "count": 586,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4845560/",
+        "sourceUrl": "https://book.douban.com/subject/4845560/",
         "subjectId": "4845560",
-        "edition": "失颤之人 2010",
-        "fetchedAt": "2026-09-27"
+        "edition": "失颤之人 2010年7月",
+        "fetchedAt": "2026-09-28T10:51:26.865Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -818,7 +832,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -848,10 +862,11 @@
         "count": 673,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3667352/",
+        "sourceUrl": "https://book.douban.com/subject/3667352/",
         "subjectId": "3667352",
         "edition": "爬虫类馆杀人事件 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:30.262Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -893,7 +908,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -923,10 +938,11 @@
         "count": 491,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3666853/",
+        "sourceUrl": "https://book.douban.com/subject/3666853/",
         "subjectId": "3666853",
         "edition": "红寡妇血案 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:35.639Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -968,7 +984,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -998,10 +1014,11 @@
         "count": 571,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3510277/",
+        "sourceUrl": "https://book.douban.com/subject/3510277/",
         "subjectId": "3510277",
         "edition": "五盒之谜 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:39.266Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1043,7 +1060,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1073,10 +1090,11 @@
         "count": 777,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3510278/",
+        "sourceUrl": "https://book.douban.com/subject/3510278/",
         "subjectId": "3510278",
-        "edition": "独角兽谋杀案 2009",
-        "fetchedAt": "2026-09-27"
+        "edition": "独角兽谋杀案 2009年6月",
+        "fetchedAt": "2026-09-28T10:51:44.606Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1118,7 +1136,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1148,10 +1166,11 @@
         "count": 632,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/4845553/",
+        "sourceUrl": "https://book.douban.com/subject/4845553/",
         "subjectId": "4845553",
-        "edition": "九因谋杀成十 2010",
-        "fetchedAt": "2026-09-27"
+        "edition": "九因谋杀成十 2010年6月",
+        "fetchedAt": "2026-09-28T10:51:48.054Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1193,7 +1212,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1223,10 +1242,11 @@
         "count": 255,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3666866/",
+        "sourceUrl": "https://book.douban.com/subject/3666866/",
         "subjectId": "3666866",
         "edition": "寓所之骤死 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:51:51.771Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1268,7 +1288,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1293,11 +1313,16 @@
     "safeSummary": "布兰德的长篇之一：书名取自抛硬币的赌法——正面你输，而这桩案子也是一场赌。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 228,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3666859/",
+        "subjectId": "3666859",
+        "edition": "晕头转向 2009",
+        "fetchedAt": "2026-09-28T10:51:55.359Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1339,7 +1364,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1364,11 +1389,16 @@
     "safeSummary": "布兰德的长篇之一：一桩发生在旅途中的案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.2,
+        "count": 194,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3666861/",
+        "subjectId": "3666861",
+        "edition": "绝技 2009",
+        "fetchedAt": "2026-09-28T10:51:58.803Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1410,7 +1440,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1440,10 +1470,11 @@
         "count": 685,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3666868/",
+        "sourceUrl": "https://book.douban.com/subject/3666868/",
         "subjectId": "3666868",
         "edition": "耶洗别之死 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:52:03.804Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1485,7 +1516,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1510,11 +1541,16 @@
     "safeSummary": "布兰德的一册短篇集：写的是「不受欢迎的客人」登门之后发生的事。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 455,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3666858/",
+        "subjectId": "3666858",
+        "edition": "不速之客的自助餐 2009",
+        "fetchedAt": "2026-09-28T10:52:07.198Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1556,7 +1592,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1586,10 +1622,11 @@
         "count": 630,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3615030/",
+        "sourceUrl": "https://book.douban.com/subject/3615030/",
         "subjectId": "3615030",
         "edition": "绿色危机 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:52:10.725Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1631,7 +1668,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1656,11 +1693,16 @@
     "safeSummary": "麦克洛伊的长篇之一：一个独自行动的女人卷进了一桩案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 465,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6072914/",
+        "subjectId": "6072914",
+        "edition": "独行女 2011",
+        "fetchedAt": "2026-09-28T10:52:14.101Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1702,7 +1744,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1803,10 +1845,11 @@
         "count": 268,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3807126/",
+        "sourceUrl": "https://book.douban.com/subject/3807126/",
         "subjectId": "3807126",
-        "edition": "分足先生 2009",
-        "fetchedAt": "2026-09-27"
+        "edition": "分足先生 2009年8月",
+        "fetchedAt": "2026-09-28T10:52:27.844Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1848,7 +1891,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1873,11 +1916,16 @@
     "safeSummary": "麦克洛伊的长篇之一：一桩与「死亡之舞」有关的案子。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 312,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/3807128/",
+        "subjectId": "3807128",
+        "edition": "死亡之舞 2009",
+        "fetchedAt": "2026-09-28T10:52:31.267Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1919,7 +1967,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2095,10 +2143,11 @@
         "count": 612,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3170264/",
+        "sourceUrl": "https://book.douban.com/subject/3170264/",
         "subjectId": "3170264",
         "edition": "地狱之缘 2008",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:52:45.373Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2140,7 +2189,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2170,10 +2219,11 @@
         "count": 350,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3170267/",
+        "sourceUrl": "https://book.douban.com/subject/3170267/",
         "subjectId": "3170267",
         "edition": "刽子手的杂役 2008",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:52:48.979Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2215,7 +2265,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -2245,10 +2295,11 @@
         "count": 874,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://m.douban.com/book/subject/3345182/",
+        "sourceUrl": "https://book.douban.com/subject/3345182/",
         "subjectId": "3345182",
         "edition": "红色右手 2009",
-        "fetchedAt": "2026-09-27"
+        "fetchedAt": "2026-09-28T10:52:53.060Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -2290,7 +2341,7 @@
     },
     "provenance": {
       "source": "batch-208-md.json",
-      "ratingsNote": "豆瓣整站自 2026-09 起返回 403，本轮新增条目一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]
