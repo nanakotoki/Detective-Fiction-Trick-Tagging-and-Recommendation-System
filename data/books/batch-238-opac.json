@@ -1,0 +1,1029 @@
+[
+  {
+    "id": "opac158-001",
+    "title": "特殊罪案调查组",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "特殊罪案调查组系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "「特殊罪案调查组」第一册（民主与建设出版社 2020）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢刑事技术题材的读者"
+      ],
+      "watchFor": [
+        "这一册里最不起眼的那件物证",
+        "调查组各人的分工"
+      ],
+      "warning": "犯罪悬疑长篇；含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按学科主题检索**：`type=Subject`「推理小说」）：九滴水著，民主与建设出版社有限责任公司 2020，ISBN 978-7-5139-3098-7，293 页，**学科主题词含「推理小说 中国 当代」**（**①档**），**中图法 `I247.56`**（中国推理小说）。**系列归属与既例**：库内已有该系列第 3–6 册（`series` 记「特殊罪案调查组系列」、`genre` 记犯罪悬疑、`school` 记 `police-procedural`），本批补上第 1、2 册。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与系列层面撰写、不涉及情节。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-002",
+    "title": "特殊罪案调查组.2",
+    "originalTitle": "",
+    "author": "九滴水",
+    "authorEn": "Jiu Dishui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "特殊罪案调查组系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "forensic-school"
+    ],
+    "safeSummary": "「特殊罪案调查组」第二册（民主与建设出版社 2020）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢刑事技术题材的读者"
+      ],
+      "watchFor": [
+        "两册之间接续的那条线",
+        "这一册里被忽略的痕迹"
+      ],
+      "warning": "犯罪悬疑长篇；含命案与尸检描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：九滴水著，民主与建设出版社 2020，ISBN 978-7-5139-3097-0，298 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。**系列归属**：库内已有第 3–6 册，本批补上第 1、2 册（**至此该系列 1–6 齐**），写法沿用。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-003",
+    "title": "死亡通知单.2：宿命",
+    "originalTitle": "",
+    "author": "周浩晖",
+    "authorEn": "Zhou Haohui",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2014",
+    "series": "死亡通知单系列",
+    "detective": "罗飞",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "vigilante",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school"
+    ],
+    "safeSummary": "「死亡通知单」第二册（北京时代华文书局 2014）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "周浩晖的读者"
+      ],
+      "watchFor": [
+        "那份通知单这次寄给了谁",
+        "罗飞追到哪一步才看清对手"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：周浩晖著，北京时代华文书局 2014，ISBN 978-7-80769-713-8，552 页，丛编「**刑警罗飞系列**」，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。**系列归属与既例**：库内已有第 1 册《死亡通知单》（别名「死亡通知单·暗黑者／暗黑者」，`series` 记「死亡通知单系列」），本册补上第 2 册；主角罗飞据丛编名与库内既例填写。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2014。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-004",
+    "title": "逆空追凶.2：暗网",
+    "originalTitle": "",
+    "author": "老谭",
+    "authorEn": "Lao Tan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "逆空追凶系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "concealment",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「逆空追凶」第二册（台海出版社 2021）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢时空设定悬疑的读者"
+      ],
+      "watchFor": [
+        "「暗网」这条线怎么接回第一册",
+        "这一次他要改的是哪一步"
+      ],
+      "warning": "悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：老谭著，台海出版社 2021，ISBN 978-7-5168-3123-6，246 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。**系列归属与排重**：库内已有第 1 册《逆空追凶》（`series` 在本库记非系列，本册起按系列记「逆空追凶系列」）；池内另有一行「逆空追凶 1 罪局」经核对**即库内第 1 册**，已登记为别名（见 §158.2），不另立条目。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-005",
+    "title": "犯罪心理师",
+    "originalTitle": "",
+    "author": "艾西",
+    "authorEn": "Ai Xi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "犯罪心理师系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "psychological-misdirection",
+      "concealment"
+    ],
+    "school": [
+      "psychological-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「犯罪心理师」第一册（文化艺术出版社 2010）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢犯罪心理题材的读者"
+      ],
+      "watchFor": [
+        "他给出的那份心理侧写",
+        "这一册里被当成「动机」的那件事"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：艾西著，文化艺术出版社 2010，ISBN 978-7-5039-4044-6，248 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。**系列归属与既例**：库内已有该系列《犯罪心理师Ⅱ》（`series` 记「犯罪心理师系列」），本册补上第一册。**作者其它先例**：库内另有该作者 3 部（《蓝裙子杀人事件》《耳语娃娃》《面具馆》）。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-006",
+    "title": "诡计空间.1",
+    "originalTitle": "",
+    "author": "徐涛",
+    "authorEn": "Xu Tao",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2010",
+    "series": "诡计空间系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "locked-room",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「诡计空间」第一册（新世纪出版社 2010）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "徐涛的读者",
+        "喜欢诡计集合式作品的读者"
+      ],
+      "watchFor": [
+        "这一册里「空间」指的是哪一种",
+        "诡计被拆开的那一层"
+      ],
+      "warning": "本格推理；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：徐涛著，新世纪出版社 2010，ISBN 978-7-5405-4252-8，293 页，丛编「**博维精典**」，**学科主题词「推理小说 中国 现代」**（**①档**），中图法 `I247.56`。**作者先例**：库内已有该作者 1 部（《逃亡的苏溪》）。**一处如实标注**：本馆另有同系列名的《诡计空间 浴城计》（天津人民 2011），**责任者著录作「徐然」**——与本书的「徐涛」**不是同一个作者字符串**，两册的关系（同一系列的不同作者，还是著录差异）**未核**，故本条只按「徐涛《诡计空间》1」立条目，并在台账 §158.4 留一条待办。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2010。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-007",
+    "title": "杀人游戏之现场直播",
+    "originalTitle": "",
+    "author": "孙浩元",
+    "authorEn": "Sun Haoyuan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2009",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "city",
+      "meta-fiction"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "孙浩元的长篇（重庆出版社 2009）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "孙浩元的读者",
+        "喜欢媒体题材悬疑的读者"
+      ],
+      "watchFor": [
+        "「直播」这两个字在书里指什么",
+        "镜头前与镜头后各发生了什么"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：孙浩元著，重庆出版社 2009，ISBN 978-7-229-01200-7，272 页，**学科主题词含「推理小说 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。**作者先例**：库内已有该作者 2 部（《封口费》《国家赔偿》）。**一处如实标注**：库内另有一册**雷钧**的《杀人游戏》——**与本册同名不同作者、不是同一部作品**（这正是近似判重里「同名不重复」的一类，见台账 §158.3）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2009。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-008",
+    "title": "暗瞳",
+    "originalTitle": "",
+    "author": "赵小赵",
+    "authorEn": "Zhao Xiaozhao",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "concealment",
+      "dark-atmosphere",
+      "city"
+    ],
+    "school": [
+      "orthodox-school",
+      "social-school"
+    ],
+    "safeSummary": "赵小赵的长篇（长江出版社 2023）：馆藏提要未提供，梗概按题名与作者层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "赵小赵的读者",
+        "喜欢犯罪悬疑的读者"
+      ],
+      "watchFor": [
+        "「暗瞳」这个说法落在谁身上",
+        "看见与没看见之间的那段"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：赵小赵著，长江出版社 2023，ISBN 978-7-5492-8742-0，242 页，**学科主题词含「长篇小说 中国 当代 ; 推理小说 中国 当代」**（**①档**），中图法 `I247.56`。**作者先例**：库内已有该作者 1 部（《谋杀夏天》）。**梗概说明**：馆藏无 330 提要，梗概按题名与作者层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-009",
+    "title": "药师少女的独语.2",
+    "originalTitle": "",
+    "author": "日向夏",
+    "authorEn": "Hyuga Natsu",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2025",
+    "series": "药师少女的独语系列",
+    "detective": "猫猫",
+    "country": "日本",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "hospital",
+      "curiosity"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「药师少女」第二册（岭南美术出版社 2025）：猫猫被壬氏邀去做贴身侍女，麻烦与怪事随之接连发生。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过第一册的读者",
+        "喜欢古风背景推理的读者"
+      ],
+      "watchFor": [
+        "仓库爆炸与官吏食物中毒两条线",
+        "那位工匠留下的遗言"
+      ],
+      "warning": "古风背景推理；基调轻快。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：日向夏著，岭南美术出版社 2025，ISBN 978-7-5362-8221-6，282 页，**学科主题词「推理小说 日本 现代」**（**①档**），中图法 `I313.45`。馆藏 **330 提要**：「本书是一部以中国古风元素为背景的推理轻小说。第二册讲述了遭到后宫解雇的猫猫还未在烟花巷呆多久，壬氏便前来邀请她作为其贴身侍女，前往外廷任职……再加上仓库爆炸、官吏食物中毒、工匠留下的神秘遗言等奇怪事情接连发生。」梗概只取这一层。**系列归属**：本系列第一册即上一批所收（`batch-232-opac.json#opac152-013`，`series` 记「药师少女的独语系列」、主角记猫猫），本册是第二册。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2025。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-010",
+    "title": "天涯双探.6：无头迷案",
+    "originalTitle": "",
+    "author": "七名",
+    "authorEn": "Qi Ming",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "天涯双探系列",
+    "detective": "夏乾、易厢泉",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "ensemble",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「天涯双探」第六册（江苏凤凰文艺出版社「读客知识小说文库」2022）：一起无人能解的盗窃案，让两个性格迥异的少年相遇。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢宋代背景推理的读者"
+      ],
+      "watchFor": [
+        "两个人各自揣着的那份秘密",
+        "从京城到西域这一路的选择"
+      ],
+      "warning": "历史推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：七名著，江苏凤凰文艺出版社 2022，ISBN 978-7-5594-6933-5，260 页，丛编「**读客知识小说文库**」，**学科主题词「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**（本册）：「北宋末年，吏治腐败，狱讼多发，奇案频现。一起无人能解的盗窃案，让两个性格迥异的少年相识相遇。一个背负家仇，一个渴望自由，他们怀揣各自的秘密和理想，走上了携手破案的追凶之路。」——**梗概只取这一层**。**系列归属**：本系列 6–8 册为本批所收，`series` 记「天涯双探系列」，`detective` 据提要中的两位主角（夏乾、易厢泉，后者据系列设定）填写。**新作者**：库内无该作者；`authorEn` 按中文拼音记 `Qi Ming`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-011",
+    "title": "天涯双探.7：鲛人之谜",
+    "originalTitle": "",
+    "author": "七名",
+    "authorEn": "Qi Ming",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "天涯双探系列",
+    "detective": "夏乾、易厢泉",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "ensemble",
+      "legend-folklore"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「天涯双探」第七册（江苏凤凰文艺出版社「读客知识小说文库」2022）：馆藏提要只给出旅途开场，梗概不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢宋代背景推理的读者"
+      ],
+      "watchFor": [
+        "蓬莱城里那桩丧事",
+        "慕容蓉那封信提到的名字"
+      ],
+      "warning": "历史推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：七名著，江苏凤凰文艺出版社 2022，ISBN 978-7-5594-6934-2，253 页，丛编「**读客知识小说文库**」，**学科主题词「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**是一段旅途开场（夏乾收到慕容蓉的来信、往蓬莱城去、韩姜的师父过世）——**提要未及案件**，故梗概只写到这一层。**系列归属**：本系列 6–8 册为本批所收，写法沿用第六册。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-012",
+    "title": "天涯双探.8：汴京之眼",
+    "originalTitle": "",
+    "author": "七名",
+    "authorEn": "Qi Ming",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "天涯双探系列",
+    "detective": "夏乾、易厢泉",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "historical-setting",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "orthodox-school",
+      "logic-school"
+    ],
+    "safeSummary": "「天涯双探」第八册（江苏凤凰文艺出版社「读客知识小说文库」2022）：馆藏提要只给出一段城墙下的场景，梗概不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "该系列的读者",
+        "喜欢宋代背景推理的读者"
+      ],
+      "watchFor": [
+        "景询站在城墙下看到的东西",
+        "「汴京之眼」指的是哪一双眼睛"
+      ],
+      "warning": "历史推理长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：七名著，江苏凤凰文艺出版社 2022，ISBN 978-7-5594-6935-9，263 页，丛编「**读客知识小说文库**」，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**是一段场景描写（蜗牛沿城墙向上爬、景询抬头看宫墙外的天空）——**提要未及案件**，故梗概只写到这一层。**系列归属**：本系列 6–8 册为本批所收，写法沿用第六册。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-013",
+    "title": "罪案迷城：消失的女高中生",
+    "originalTitle": "",
+    "author": "张瑞兴",
+    "authorEn": "Zhang Ruixing",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2019",
+    "series": "非系列",
+    "detective": "路彦",
+    "country": "中国",
+    "tags": [
+      "social-commentary",
+      "concealment",
+      "youth",
+      "campus"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "张瑞兴的长篇（上海文艺出版社「读客知识小说文库」2019）：一名农村留守女孩从花季少女一步步走到另一头。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派犯罪题材的读者",
+        "喜欢县城背景故事的读者"
+      ],
+      "watchFor": [
+        "她每一步的转折点",
+        "路彦被真假线索绕开的那几次"
+      ],
+      "warning": "犯罪悬疑长篇；含校园霸凌与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：张瑞兴著，上海文艺出版社 2019，ISBN 978-7-5321-6781-4，354 页，丛编「**读客知识小说文库**」，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「本书通过讲述一个能力不强但十分执着的警察艰辛的破案过程……讲述了一个身世孤苦但内心坚强的农村留守女孩，如何从积极向上的花季少女一步步变成手染鲜血的连环杀人犯的故事，反映中国边远县城中校园霸凌、权势倾轧等社会问题对个人命运的巨大影响。」梗概只取这一层；`detective` 记提要里的主角路彦。**新作者**：库内无该作者；`authorEn` 按拼音记 `Zhang Ruixing`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2019。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac158-014",
+    "title": "真相推理师：凶宅",
+    "originalTitle": "",
+    "author": "呼延云",
+    "authorEn": "Huyan Yun",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2018",
+    "series": "真相推理师系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "mansion",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "「真相推理师」系列一册（江苏凤凰文艺出版社 2018，501 页）：馆藏提要未提供，梗概按题名与系列层面撰写。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "呼延云的读者",
+        "喜欢旧宅题材的读者"
+      ],
+      "watchFor": [
+        "这栋宅子此前发生过什么",
+        "这一册与系列其它册的接续"
+      ],
+      "warning": "悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：呼延云著，江苏凤凰文艺出版社 2018，ISBN 978-7-5594-1097-9，501 页，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。**作者先例**：库内已有该作者 10 部（《扫鼠岭》《空城计》《鬼笑石》《嬗变》《不可能幸存》等）。**一处必须写明的判断**：呼延云的「**真相推理师**」系列（江苏凤凰文艺 2017–2018）与库内若干旧作**可能是同书的重新出版**——同系列里「真相推理师：幸存」与库内《不可能幸存》**疑为同书**（本轮已挂起待核，见 §158.2），但本册《凶宅》**在库内没有对应题名**，故按新作品收下；日后若查实该系列为旧作重版，须回头合并。**梗概说明**：馆藏无 330 提要，梗概按题名与系列层面撰写并如实标注。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2018。"
+    },
+    "provenance": {
+      "source": "batch-238-opac.json",
+      "ratingsNote": "本批十四册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  }
+]
