@@ -1,0 +1,148 @@
+[
+  {
+    "id": "opac161-001",
+    "title": "人生的愚者",
+    "originalTitle": "",
+    "author": "木木高太郎",
+    "authorEn": "Kigi Takataro",
+    "genre": "变格",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "",
+    "country": "日本",
+    "tags": [
+      "concealment",
+      "red-herring",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "bizarre-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "木木高太郎的长篇（北京联合出版公司 2024）：留学的儿子动身去苏联，而比良家周围接连发生离奇事件。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "战前日本推理的读者",
+        "喜欢旧式本格谜面的读者"
+      ],
+      "watchFor": [
+        "死者身边那包自家工厂的口香糖",
+        "祖父那把不翼而飞的手枪"
+      ],
+      "warning": "战前风格推理长篇；含毒杀与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：木木高太郎著，陈晓淇译，北京联合出版公司 2024，ISBN 978-7-5596-7546-0，**学科主题词「长篇小说 日本 现代」**（**没有「推理小说」字样**），中图法 `I313.45`。馆藏 **330 提要**：「实业家比良良三因儿子良吉的『胡作非为』，决定让他去欧洲留学几年……然而，围绕着比良家却发生了一起起离奇事件——在本乡发生了一起毒杀事件，死者身边留下了比良家工厂生产的口香糖。良吉祖母一直珍藏的祖父留下的手枪竟不翼而飞……一模一样的毒杀事件。」**判据（②档，理由写清）**：①主题词没有「推理小说」——**如实记录**；②**内容是谜案**（提要给出毒杀、遗失的手枪与重复发生的案件三重谜面）；③**作者身份**：木木高太郎（1897–1969）是日本战前推理「新青年」一派作家，与库内已有的小酒井不木、梦野久作、小栗虫太郎同属**变格**谱系，`genre` 即按该谱系记「变格」。**补名单缺口**：`data/authors-master.json`（用户提供的作者总名单）日本部分列有该作者，而库内此前 **0 部**——本册是第一个补上的。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-241-opac.json",
+      "ratingsNote": "本批两册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac161-002",
+    "title": "大宋悬疑录 貔貅刑",
+    "originalTitle": "",
+    "author": "记无忌",
+    "authorEn": "Ji Wuji",
+    "genre": "历史推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "大宋悬疑录系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "historical-setting",
+      "concealment",
+      "curiosity"
+    ],
+    "school": [
+      "orthodox-school",
+      "trick-school"
+    ],
+    "safeSummary": "记无忌的长篇（江苏凤凰文艺出版社 2024）：馆藏提要未提供，梗概按题名与系列层面撰写，不涉情节。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢宋代背景推理的读者",
+        "记无忌的读者"
+      ],
+      "watchFor": [
+        "「貔貅刑」这个名目的来处",
+        "案子与宋代律法的关系"
+      ],
+      "warning": "历史推理长篇；含刑案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按题名检索）：记无忌著，江苏凤凰文艺出版社 2024，ISBN 978-7-5594-8823-7，**学科主题词「长篇小说 中国 当代」**（没有「推理小说」字样，**如实记录**），**中图法 `I247.56`（中国推理小说类）**——判据落在这条分类上；题名「大宋悬疑录」亦自述体裁。**梗概说明**：馆藏**未提供 330 提要**，梗概按题名与系列层面撰写、不涉及情节。**补名单缺口**：`data/authors-master.json` 中国部分列有该作者，库内此前 **0 部**；`series` 据题名所记的「大宋悬疑录」填写。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空（中文原创）；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-241-opac.json",
+      "ratingsNote": "本批两册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  }
+]

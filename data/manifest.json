@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-30T14:11:10.309Z",
+  "generatedAt": "2026-09-30T14:17:49.812Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3424,
-    "dataFiles": 240,
+    "books": 3426,
+    "dataFiles": 241,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3424,
+    "withSafeSummary": 3426,
     "withPlatformRating": 2489
   },
   "tagDistribution": [
@@ -69,7 +69,7 @@
         {
           "id": "red-herring",
           "label": "红鲱鱼",
-          "books": 1353
+          "books": 1354
         },
         {
           "id": "swap-murder",
@@ -203,7 +203,7 @@
         {
           "id": "historical-setting",
           "label": "时代背景",
-          "books": 390
+          "books": 391
         }
       ]
     },
@@ -250,7 +250,7 @@
         {
           "id": "concealment",
           "label": "掩盖秘密",
-          "books": 1770
+          "books": 1772
         },
         {
           "id": "fear",
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 204
+          "books": 205
         }
       ]
     },
@@ -287,7 +287,7 @@
         {
           "id": "dark-atmosphere",
           "label": "暗黑氛围",
-          "books": 602
+          "books": 603
         },
         {
           "id": "cozy",
@@ -344,12 +344,12 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1156
+          "books": 1157
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 2055
+          "books": 2057
         },
         {
           "id": "social-school",
@@ -404,7 +404,7 @@
         {
           "id": "bizarre-school",
           "label": "变格派",
-          "books": 500
+          "books": 501
         }
       ]
     }
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3424
+    "checkedBooks": 3426
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",
