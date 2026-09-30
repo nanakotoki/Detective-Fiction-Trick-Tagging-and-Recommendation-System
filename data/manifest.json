@@ -1,18 +1,18 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-30T14:17:49.812Z",
+  "generatedAt": "2026-09-30T14:21:52.052Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3426,
-    "dataFiles": 241,
+    "books": 3428,
+    "dataFiles": 242,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3426,
+    "withSafeSummary": 3428,
     "withPlatformRating": 2489
   },
   "tagDistribution": [
@@ -24,7 +24,7 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 304
+          "books": 305
         },
         {
           "id": "alibi",
@@ -54,7 +54,7 @@
         {
           "id": "closed-circle",
           "label": "暴风雪山庄",
-          "books": 260
+          "books": 261
         },
         {
           "id": "multiple-solutions",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 595
+          "books": 596
         },
         {
           "id": "diary-form",
@@ -153,7 +153,7 @@
         {
           "id": "mansion",
           "label": "洋馆",
-          "books": 230
+          "books": 231
         },
         {
           "id": "train",
@@ -260,7 +260,7 @@
         {
           "id": "curiosity",
           "label": "求知欲",
-          "books": 205
+          "books": 206
         }
       ]
     },
@@ -272,7 +272,7 @@
         {
           "id": "honkaku",
           "label": "本格解谜",
-          "books": 606
+          "books": 607
         },
         {
           "id": "social-commentary",
@@ -292,7 +292,7 @@
         {
           "id": "cozy",
           "label": "日常之谜",
-          "books": 68
+          "books": 69
         },
         {
           "id": "youth",
@@ -339,17 +339,17 @@
         {
           "id": "logic-school",
           "label": "逻辑流",
-          "books": 811
+          "books": 812
         },
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1157
+          "books": 1158
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 2057
+          "books": 2058
         },
         {
           "id": "social-school",
@@ -394,7 +394,7 @@
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 243
+          "books": 244
         },
         {
           "id": "meta-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3426
+    "checkedBooks": 3428
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

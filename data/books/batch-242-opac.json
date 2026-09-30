@@ -1,0 +1,149 @@
+[
+  {
+    "id": "opac162-001",
+    "title": "写字楼的奇想日志",
+    "originalTitle": "",
+    "author": "孙沁文",
+    "authorEn": "Sun Qinwen",
+    "genre": "日常之谜",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列（短篇连作）",
+    "detective": "技术宅（第一人称）",
+    "country": "中国",
+    "tags": [
+      "cozy",
+      "curiosity",
+      "ensemble"
+    ],
+    "school": [
+      "daily-mystery-school",
+      "logic-school"
+    ],
+    "safeSummary": "孙沁文的短篇连作（人民文学出版社「黑猫文库」2020）：一家 APP 开发公司里，技术宅替前台小姐解开一桩桩日常之谜。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢日常之谜的读者",
+        "孙沁文（鸡丁）的读者"
+      ],
+      "watchFor": [
+        "那些「七零八落」的小谜面",
+        "每一则的技术宅视角"
+      ],
+      "warning": "日常之谜短篇连作；无血腥描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按作者枚举**发现）：孙沁文著，人民文学出版社 2020，ISBN 978-7-02-015710-5，224 页，丛编「**黑猫文库**」，**学科主题词「长篇小说 中国 当代」**（**没有「推理小说」字样**，**如实记录**），**中图法 `I247.56`（中国推理小说类）**——判据落在这条分类上。馆藏 **330 提要**：「一名技术宅，毕业之后来到一家 APP 开发公司上班，与前台小姐黄小玲成为了好朋友。百无聊赖的生活中，总是会发生一些七零八落的谜案。技术宅变身推理大师，为黄小玲解决了一起又一起的**日常之谜**。」——`genre` 记「日常之谜」即据提要自述，梗概只取这一层。**补名单缺口**：`data/authors-master.json` 中国部分列有「孙沁文（鸡丁）」，库内此前 2 部（《雪祭》《凛冬之棺》），本册是第 3 部；同作者另有 3 册《吃谜少女》为**漫画**（中图法 `J228.2`），按体例不收（见 `not-collected.json`）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空（中文原创）；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-242-opac.json",
+      "ratingsNote": "本批两册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac162-002",
+    "title": "眼球堂谜案",
+    "originalTitle": "",
+    "author": "周木律",
+    "authorEn": "Shuki Ritsu",
+    "genre": "新本格",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "十和田只人",
+    "country": "日本",
+    "tags": [
+      "mansion",
+      "locked-room",
+      "closed-circle",
+      "honkaku"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "周木律的长篇（台海出版社「千本樱文库」2023）：数学家受邀前往一座与世隔绝的宅邸「眼球堂」，那里开始死人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢孤岛宅邸与密室题材的读者",
+        "周木律的读者"
+      ],
+      "watchFor": [
+        "那座宅邸为什么建成眼球的样子",
+        "受邀而来的都是些什么人"
+      ],
+      "warning": "新本格长篇；含连环命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按作者枚举发现）：周木律著，台海出版社 2023，ISBN 978-7-5168-3547-0，380 页，丛编「**千本樱文库**」，**学科主题词「长篇小说 日本 现代」**（没有「推理小说」字样，**如实记录**），**中图法 `I313.45`**（该馆给日本小说的分类；判据落在作者身份与提要给出的谜面上）。馆藏 **330 提要**：「浪迹天涯的数学家十和田只人，毕生都在追求记载着无限定理的『神之书』……他收到了来自天才建筑学家骉木炀的邀请，邀他前去其新建的宅邸眼球堂参观……而在这座鬼斧神工、仿若与世隔绝的眼球堂中，一系列离奇杀人事件正在悄然发生。」梗概只取这一层；`detective` 记提要里的十和田只人，`genre` 记新本格系据「孤岛宅邸＋连环命案」这一体例。**补名单缺口**：`data/authors-master.json` 日本部分列有该作者，库内此前 2 部，本册是第 3 部。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-242-opac.json",
+      "ratingsNote": "本批两册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+    }
+  }
+]
