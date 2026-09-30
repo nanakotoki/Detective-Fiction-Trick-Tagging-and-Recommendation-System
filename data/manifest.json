@@ -1,7 +1,7 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-09-30T14:25:20.099Z",
+  "generatedAt": "2026-09-30T14:55:42.958Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
@@ -13,7 +13,7 @@
     "tagsInUse": 56,
     "schoolsInUse": 14,
     "withSafeSummary": 3428,
-    "withPlatformRating": 2489
+    "withPlatformRating": 2580
   },
   "tagDistribution": [
     {

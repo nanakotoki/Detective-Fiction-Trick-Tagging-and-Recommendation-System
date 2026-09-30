@@ -25,11 +25,16 @@
     "safeSummary": "三津田信三的短篇集（吉林「七曜文库」）：馆藏主题词为「长篇小说 日本 现代」，梗概按题名与作者层面撰写，不涉及具体情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 430,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/11533535/",
+        "subjectId": "11533535",
+        "edition": "赫眼 2013",
+        "fetchedAt": "2026-09-30T14:42:33.898Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -71,7 +76,7 @@
     },
     "provenance": {
       "source": "batch-226-opac.json",
-      "ratingsNote": "本批条目在豆瓣未检索到可比对的同版条目，三个平台一律标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

@@ -27,13 +27,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.1。",
         "score": 7.1,
-        "count": null,
+        "count": 4163,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/36988547/",
-        "subjectId": "36988547",
+        "sourceUrl": "https://book.douban.com/subject/36953534/",
+        "subjectId": "36953534",
         "edition": "死神广播 2024",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:32:40.937Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -75,7 +76,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -105,13 +106,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.7。",
         "score": 7.7,
-        "count": null,
+        "count": 317,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/37411512/",
-        "subjectId": "37411512",
+        "sourceUrl": "https://book.douban.com/subject/37183416/",
+        "subjectId": "37183416",
         "edition": "朝雾 2025",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:32:44.538Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -153,7 +155,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -184,13 +186,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 5.6。",
         "score": 5.6,
-        "count": null,
+        "count": 177,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/6114853/",
         "subjectId": "6114853",
         "edition": "十五层地狱 2011",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:32:48.353Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -232,7 +235,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -263,13 +266,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.9。",
         "score": 6.9,
-        "count": null,
+        "count": 505,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/6920281/",
         "subjectId": "6920281",
         "edition": "命运的模型 2011",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:32:53.462Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -311,7 +315,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -342,13 +346,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.4。",
         "score": 6.4,
-        "count": null,
+        "count": 1309,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/35904206/",
-        "subjectId": "35904206",
+        "sourceUrl": "https://book.douban.com/subject/35947022/",
+        "subjectId": "35947022",
         "edition": "安乐侦探 2022",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:32:59.234Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -390,7 +395,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -420,13 +425,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.9。",
         "score": 6.9,
-        "count": null,
+        "count": 665,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/37700000/",
-        "subjectId": "37700000",
+        "sourceUrl": "https://book.douban.com/subject/37800340/",
+        "subjectId": "37800340",
         "edition": "神乐坂怪谈 2026",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:03.056Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -468,7 +474,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -499,13 +505,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.1。",
         "score": 7.1,
-        "count": null,
+        "count": 265,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/36347474/",
         "subjectId": "36347474",
         "edition": "持续破产的女人 2023",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:06.893Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -547,7 +554,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -578,13 +585,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.9。",
         "score": 6.9,
-        "count": null,
+        "count": 6087,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/20379212/",
         "subjectId": "20379212",
-        "edition": "不如去死 2013",
-        "fetchedAt": "2026-09-28"
+        "edition": "不如去死 2012",
+        "fetchedAt": "2026-09-30T14:33:10.741Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -626,7 +634,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -657,13 +665,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.8。",
         "score": 6.8,
-        "count": null,
+        "count": 765,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/24859813/",
         "subjectId": "24859813",
         "edition": "以“我”为名的变奏曲 2013",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:14.602Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -705,7 +714,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -734,13 +743,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.8。",
         "score": 7.8,
-        "count": null,
+        "count": 457,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/34832746/",
-        "subjectId": "34832746",
+        "sourceUrl": "https://book.douban.com/subject/30446954/",
+        "subjectId": "30446954",
         "edition": "葛洛根的最后一夜 2019",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:18.600Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -782,7 +792,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -812,13 +822,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.7。",
         "score": 7.7,
-        "count": null,
+        "count": 1046,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/33403407/",
-        "subjectId": "33403407",
+        "sourceUrl": "https://book.douban.com/subject/34672220/",
+        "subjectId": "34672220",
         "edition": "灵魂漫长而黑暗的茶点时间 2019",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:22.162Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -860,7 +871,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -890,13 +901,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.8。",
         "score": 6.8,
-        "count": null,
+        "count": 66,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/26930511/",
-        "subjectId": "26930511",
+        "sourceUrl": "https://book.douban.com/subject/27174738/",
+        "subjectId": "27174738",
         "edition": "廷达里郊游 2017",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:26.002Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -938,7 +950,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -968,13 +980,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.5。",
         "score": 7.5,
-        "count": null,
+        "count": 388,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/34429348/",
         "subjectId": "34429348",
         "edition": "幻影女子 2019",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:31.293Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1016,7 +1029,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1046,13 +1059,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.4。",
         "score": 7.4,
-        "count": null,
+        "count": 853,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/34826933/",
-        "subjectId": "34826933",
+        "sourceUrl": "https://book.douban.com/subject/34808343/",
+        "subjectId": "34808343",
         "edition": "碎裂 2019",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:35.338Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1094,7 +1108,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1124,13 +1138,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6。",
         "score": 6,
-        "count": null,
+        "count": 15,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/36933170/",
-        "subjectId": "36933170",
+        "sourceUrl": "https://book.douban.com/subject/37016819/",
+        "subjectId": "37016819",
         "edition": "圣诞彩蛋谜案 2024",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:38.738Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1172,7 +1187,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1202,13 +1217,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.4。",
         "score": 7.4,
-        "count": null,
+        "count": 5711,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/30241130/",
-        "subjectId": "30241130",
+        "sourceUrl": "https://book.douban.com/subject/27605902/",
+        "subjectId": "27605902",
         "edition": "必须找到阿历克斯 2018",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:44.098Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1250,7 +1266,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1281,13 +1297,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.7。",
         "score": 6.7,
-        "count": null,
+        "count": 616,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/37396745/",
-        "subjectId": "37396745",
+        "sourceUrl": "https://book.douban.com/subject/38408110/",
+        "subjectId": "38408110",
         "edition": "我不服 2026",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:47.616Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1329,7 +1346,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1360,13 +1377,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 6.4。",
         "score": 6.4,
-        "count": null,
+        "count": 809,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/30238369/",
-        "subjectId": "30238369",
+        "sourceUrl": "https://book.douban.com/subject/30175385/",
+        "subjectId": "30175385",
         "edition": "撸撸姐的超本格事件簿 2018",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:33:50.934Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1408,7 +1426,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1436,11 +1454,16 @@
     "safeSummary": "「名侦探肖晨」系列第一弹：你以为看清了事件的全貌，其实那只是「断章」而已。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 470,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6390871/",
+        "subjectId": "6390871",
+        "edition": "罪之断章 2011",
+        "fetchedAt": "2026-09-30T14:33:54.605Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1482,7 +1505,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1508,11 +1531,16 @@
     "safeSummary": "张策「无字系列」的侦探小说集（公安前沿作家侦探文学作品系列）：馆藏未提供提要，梗概按系列层面撰写，不涉及具体情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 201,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/2215699/",
+        "subjectId": "2215699",
+        "edition": "无悔追踪 2007",
+        "fetchedAt": "2026-09-30T14:33:57.959Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1554,7 +1582,7 @@
     },
     "provenance": {
       "source": "batch-215-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "无悔追踪 张策“无字系列”侦探小说集"

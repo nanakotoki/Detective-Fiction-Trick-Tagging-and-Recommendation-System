@@ -27,13 +27,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 7.4。",
         "score": 7.4,
-        "count": 1538,
+        "count": 1540,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/35703286/",
         "subjectId": "35703286",
         "edition": "小异邦人 2022",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:41:12.389Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -75,7 +76,7 @@
     },
     "provenance": {
       "source": "batch-223-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -106,13 +107,14 @@
       "douban": {
         "summary": "豆瓣条目页评分 8.4。",
         "score": 8.4,
-        "count": 1548,
+        "count": 1549,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
         "sourceUrl": "https://book.douban.com/subject/21690242/",
         "subjectId": "21690242",
         "edition": "拿破仑狂 2013",
-        "fetchedAt": "2026-09-28"
+        "fetchedAt": "2026-09-30T14:41:16.331Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -154,7 +156,7 @@
     },
     "provenance": {
       "source": "batch-223-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     },
     "alternateTitles": [
       "拿破崙狂"

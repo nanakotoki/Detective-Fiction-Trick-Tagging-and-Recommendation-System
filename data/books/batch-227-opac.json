@@ -23,11 +23,16 @@
     "safeSummary": "泡坂妻夫的魔术师侦探短篇集第二册（吉林「七曜文库」，385 页）：案件多发生在舞台与魔术圈之内。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 273,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/19949180/",
+        "subjectId": "19949180",
+        "edition": "奇术侦探曾我佳城·戏之卷 2013",
+        "fetchedAt": "2026-09-30T14:42:39.525Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -69,7 +74,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -96,11 +101,16 @@
     "safeSummary": "横山秀夫的警察题材短篇集（吉林「七曜文库」）：馆藏提要列出《看守眼》《自传》《口头禅》《误报》等六篇篇名。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 651,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6019120/",
+        "subjectId": "6019120",
+        "edition": "看守眼 2011",
+        "fetchedAt": "2026-09-30T14:42:43.510Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -142,7 +152,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -169,11 +179,16 @@
     "safeSummary": "藤原伊织的长篇（吉林「七曜文库·藤原伊织系列」）：三个在大阪一起长大的少年，约定此后不再联络。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 340,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10746368/",
+        "subjectId": "10746368",
+        "edition": "天狼星之路 2012",
+        "fetchedAt": "2026-09-30T14:42:47.165Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -215,7 +230,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -242,11 +257,16 @@
     "safeSummary": "高村薰的出道作（吉林「七曜文库」）：几个男人为了同一桩「偷东西」的计划走到一起。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 244,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10594330/",
+        "subjectId": "10594330",
+        "edition": "抱着黄金飞翔 2012",
+        "fetchedAt": "2026-09-30T14:42:50.829Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -288,7 +308,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -315,11 +335,16 @@
     "safeSummary": "高桥克彦的怪谈短篇集（吉林「七曜文库·怪谈·记忆系列」）：一张旧书店里的故乡住宅图，少标了一户人家。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 267,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/24316426/",
+        "subjectId": "24316426",
+        "edition": "绯色的记忆 2013",
+        "fetchedAt": "2026-09-30T14:42:54.261Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -361,7 +386,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -466,11 +491,16 @@
     "safeSummary": "宫部美雪的江户题材长篇（吉林「七曜文库」，上下两册）：馆藏提要只给出寺中日常的一幕，梗概不涉情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8.1,
+        "count": 265,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/10594326/",
+        "subjectId": "10594326",
+        "edition": "孤宿之人（上） 2012",
+        "fetchedAt": "2026-09-30T14:43:03.143Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -512,7 +542,7 @@
     },
     "provenance": {
       "source": "batch-227-opac.json",
-      "ratingsNote": "本批九册的**豆瓣条目页本轮仍返回「登录跳转」**（详见台账 §148.1 的渠道实测），故原作名留空、评分一律标「暂无数据」；每条在 evidence 里记下**池内豆瓣条目 id**（第 135 轮丛书页扫描时取得），供渠道恢复后按同版条目回填。虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {

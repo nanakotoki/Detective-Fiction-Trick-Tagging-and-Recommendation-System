@@ -98,11 +98,16 @@
     "safeSummary": "藤田宜永的长篇（江苏凤凰文艺出版社 2021）：台风夜，一个求职无门的女大学生路过一栋公寓，那晚那里死了人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 185,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35280175/",
+        "subjectId": "35280175",
+        "edition": "她的恐吓 2021",
+        "fetchedAt": "2026-09-30T14:43:42.001Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -144,7 +149,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -171,11 +176,16 @@
     "safeSummary": "歌田年的出道作（湖南文艺出版社 2021，获「这本推理小说了不起！」大奖）：找上门的女子只带来一张塑料模型的照片。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.4,
+        "count": 316,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35579315/",
+        "subjectId": "35579315",
+        "edition": "模型之家追凶谜案 2021",
+        "fetchedAt": "2026-09-30T14:43:47.028Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -217,7 +227,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -244,11 +254,16 @@
     "safeSummary": "高野结史的长篇（北京日报出版社 2025）：一份日薪很高的工作，条件是独自在一座歪斜的孤岛洋房里待三天。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 579,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37227945/",
+        "subjectId": "37227945",
+        "edition": "奇岩馆事件 2025",
+        "fetchedAt": "2026-09-30T14:43:50.616Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -290,7 +305,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -318,11 +333,16 @@
     "safeSummary": "安坛美绪的长篇（江苏凤凰文艺出版社 2025）：为一场十亿日元的官司，他被派去音乐教室卧底学琴。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.5,
+        "count": 119,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37227845/",
+        "subjectId": "37227845",
+        "edition": "间谍静静执起琴弓 2025",
+        "fetchedAt": "2026-09-30T14:43:54.407Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -364,7 +384,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -391,11 +411,16 @@
     "safeSummary": "辻堂梦的长篇（贵州人民出版社 2024）：监控、DNA、目击者、手上的伤，全都指向同一个嫌疑人。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 4.8,
+        "count": 166,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36973900/",
+        "subjectId": "36973900",
+        "edition": "不在场证明谜案 2024",
+        "fetchedAt": "2026-09-30T14:43:59.308Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -437,7 +462,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -465,11 +490,16 @@
     "safeSummary": "五条纪夫的长篇（中国友谊出版公司 2025）：六个在现世已死的人，在一座天国宅邸里醒来，谁都不记得自己是怎么死的。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 1163,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37169430/",
+        "subjectId": "37169430",
+        "edition": "所有人都死了的天国 2025",
+        "fetchedAt": "2026-09-30T14:44:04.370Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -511,7 +541,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -538,11 +568,16 @@
     "safeSummary": "小西雅晖的长篇（国际文化出版公司 2024）：患路易体痴呆症的祖父，坐在家里解孙女带来的难题。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.3,
+        "count": 470,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36673885/",
+        "subjectId": "36673885",
+        "edition": "幻觉侦探 2024",
+        "fetchedAt": "2026-09-30T14:44:08.443Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -584,7 +619,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -611,11 +646,16 @@
     "safeSummary": "天祢凉的出道作（台海出版社「千本樱文库」2020，第 43 届梅菲斯特奖）：能看见声音轨迹的侦探，追查连环焚尸案。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 769,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35049732/",
+        "subjectId": "35049732",
+        "edition": "共感觉 2020",
+        "fetchedAt": "2026-09-30T14:44:11.893Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -657,7 +697,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -684,11 +724,16 @@
     "safeSummary": "森晶麿的长篇（新星出版社 2019）：本该已经自尽的芥川龙之介，在罗生门下醒了过来，眼前是一场发生在现代东京的惨剧。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.1,
+        "count": 48,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/34841933/",
+        "subjectId": "34841933",
+        "edition": "文豪A时代错误的推理 2019",
+        "fetchedAt": "2026-09-30T14:44:15.428Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -730,7 +775,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -758,11 +803,16 @@
     "safeSummary": "纸城境介的校园推理第一册（上海文化出版社「说苑」2025）：能瞬间看破真相的少女，自己却说不清推理过程。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.6,
+        "count": 477,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37296178/",
+        "subjectId": "37296178",
+        "edition": "你的谜题由我作答 1 2025",
+        "fetchedAt": "2026-09-30T14:44:20.397Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -804,7 +854,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -832,11 +882,16 @@
     "safeSummary": "道尾秀介《不可以》的续作（中国友谊出版公司 2023）：四个各自独立、又彼此咬合的短篇，「体验型」推理第二弹。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.6,
+        "count": 1146,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36539651/",
+        "subjectId": "36539651",
+        "edition": "不可以 : 消失的尸体 2023",
+        "fetchedAt": "2026-09-30T14:44:23.965Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -878,7 +933,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -906,11 +961,16 @@
     "safeSummary": "横山秀夫的长篇（译林出版社 2011）：一场地震之后，县警内部先晃起来的那一部分，馆藏提要未提供，梗概不涉情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 8,
+        "count": 854,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/6510996/",
+        "subjectId": "6510996",
+        "edition": "震度0 2011",
+        "fetchedAt": "2026-09-30T14:44:27.906Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -952,7 +1012,7 @@
     },
     "provenance": {
       "source": "batch-229-opac.json",
-      "ratingsNote": "本批十三册的豆瓣条目页在本轮仍返回「登录跳转」（台账 §148.1 起的渠道状态记录），故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写是整理者按日文读音所记（库内无先例），已在各条 evidence 里注明。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]

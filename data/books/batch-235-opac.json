@@ -406,11 +406,16 @@
     "safeSummary": "「咖啡馆推理事件簿」第二册（现代出版社 2014）：馆藏提要未提供，梗概按题名与系列层面撰写。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 191,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/25837534/",
+        "subjectId": "25837534",
+        "edition": "咖啡馆推理事件簿 2 2014",
+        "fetchedAt": "2026-09-30T14:49:56.011Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -452,7 +457,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -480,11 +485,16 @@
     "safeSummary": "「咖啡馆推理事件簿」第四册（现代出版社 2017）：五个短篇，馆藏提要直接列出篇名。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 134,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26974611/",
+        "subjectId": "26974611",
+        "edition": "咖啡馆推理事件簿 4 2017",
+        "fetchedAt": "2026-09-30T14:50:00.809Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -526,7 +536,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -554,11 +564,16 @@
     "safeSummary": "樱子小姐系列第五册（百花洲文艺出版社 2017）：馆藏提要未提供，梗概按题名与系列层面撰写。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.4,
+        "count": 27,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/27091741/",
+        "subjectId": "27091741",
+        "edition": "樱子小姐脚下埋着秘密 5 2017",
+        "fetchedAt": "2026-09-30T14:50:05.479Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -600,7 +615,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -628,11 +643,16 @@
     "safeSummary": "「尸语女法医」第二册（中国友谊出版公司 2020）：馆藏提要未提供，梗概按题名与系列层面撰写。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.7,
+        "count": 354,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/30460016/",
+        "subjectId": "30460016",
+        "edition": "尸语女法医2 2020",
+        "fetchedAt": "2026-09-30T14:50:10.984Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -674,7 +694,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -923,11 +943,16 @@
     "safeSummary": "岩井圭也的长篇（中国友谊出版公司 2024）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 1040,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36742021/",
+        "subjectId": "36742021",
+        "edition": "文身 2024",
+        "fetchedAt": "2026-09-30T14:50:30.569Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -969,7 +994,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -996,11 +1021,16 @@
     "safeSummary": "麻加朋的长篇（江苏凤凰文艺出版社 2024）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.1,
+        "count": 281,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36949301/",
+        "subjectId": "36949301",
+        "edition": "蓝色的雪 2024",
+        "fetchedAt": "2026-09-30T14:50:34.444Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1042,7 +1072,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1069,11 +1099,16 @@
     "safeSummary": "一色小百合的长篇（台海出版社「千本樱文库」2020）：馆藏提要未提供，梗概按题名与作者层面撰写。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 5.7,
+        "count": 314,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/35216996/",
+        "subjectId": "35216996",
+        "edition": "神的标价 2020",
+        "fetchedAt": "2026-09-30T14:50:38.141Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1115,7 +1150,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   },
   {
@@ -1142,11 +1177,16 @@
     "safeSummary": "杉井光的长篇（北京联合出版公司 2025）：馆藏提要未提供，梗概按题名与作者层面撰写，不涉情节。",
     "ratings": {
       "douban": {
-        "score": null,
-        "count": null,
-        "source": "豆瓣读书",
-        "asOf": null,
-        "summary": "暂无数据"
+        "summary": "暂无数据",
+        "score": 6.8,
+        "count": 1308,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/37027118/",
+        "subjectId": "37027118",
+        "edition": "世界上最透明的故事 2024",
+        "fetchedAt": "2026-09-30T14:50:41.901Z",
+        "asOf": "2026-09"
       },
       "hupu": {
         "score": null,
@@ -1188,7 +1228,7 @@
     },
     "provenance": {
       "source": "batch-235-opac.json",
-      "ratingsNote": "本批十六册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。作者的罗马字转写系整理者按日文读音所记（库内无先例者已注明）。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
     }
   }
 ]
