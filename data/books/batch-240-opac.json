@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "opac160-001",
+    "title": "破晓",
+    "originalTitle": "",
+    "author": "清韵小尸",
+    "alternateTitles": [
+      "破晓 Ⅱ"
+    ],
+    "authorEn": "Qingyun Xiaoshi",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "苏回（侧写师）",
+    "country": "中国",
+    "tags": [
+      "psychological-misdirection",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "psychological-school",
+      "police-procedural"
+    ],
+    "safeSummary": "清韵小尸的长篇（羊城晚报出版社 2023）：几起连环杀人案之间似乎有隐约的联系，侧写师苏回觉得自己是棋盘上的一枚棋子。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢侧写师题材的读者",
+        "喜欢连环案长线的读者"
+      ],
+      "watchFor": [
+        "覃永辰临死前那句话",
+        "「月光」与「诗人」这两个代号各指谁"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，**按学科主题检索**：`type=Subject`「推理小说」）：清韵小尸著，羊城晚报出版社 2023，ISBN 978-7-5543-1187-5，352 页，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），**中图法 `I247.56`**。馆藏 **330 提要**：「在破获了几起连环杀人案件后，侧写师苏回发觉，这些案件之中似乎有着隐隐约约的联系……仿佛背后有一只无形的大手在操纵着一盘巨大的棋局，他不过是其中茫然无知的棋子。」梗概只取这一层；`detective` 记提要里的侧写师苏回。**排重（本轮第一处）**：池内「破晓 Ⅱ」那一行与**本册共用同一个 ISBN、提要亦逐字相同**，是同一册的重复著录，已登记为本条的又名，**不另立条目**。**一处同名不同作者**：库内另有**指纹**的《白夜追凶2：白夜破晓》，与本册不是同一部书（**书名相近、作者不同**）。**新作者**：库内无该作者；`authorEn` 按拼音记 `Qingyun Xiaoshi`（笔名）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-002",
+    "title": "卡牌密室",
+    "originalTitle": "",
+    "author": "蝶之灵",
+    "authorEn": "Die Zhiling",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2021",
+    "series": "卡牌密室系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "fear",
+      "adventure",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "蝶之灵的长篇（江苏凤凰文艺出版社 2021，全三册）：进入「卡牌世界」的玩家只有两个选择——安心死去，或保留记忆接受挑战。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢生存游戏设定的读者",
+        "蝶之灵的读者"
+      ],
+      "watchFor": [
+        "规则里那个「彻底抹杀」的口子",
+        "每一张卡牌的用法"
+      ],
+      "warning": "悬疑长篇（全三册）；含死亡游戏描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：蝶之灵著，江苏凤凰文艺出版社 2021，ISBN 978-7-5594-5683-0，**3 册（1144 页）**，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**是作品的规则开场（「欢迎进入卡牌世界……A：安心地死去，忘记一切，你会彻底消亡；B：保留记忆，进入卡牌世界，接受挑战」）——**梗概只取这一层**。`series` 记「卡牌密室系列」；同系列的《卡牌密室 完结篇》为本批另一条。**新作者**：库内无该作者；`authorEn` 按拼音记 `Die Zhiling`（笔名）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2021。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-003",
+    "title": "卡牌密室 完结篇",
+    "originalTitle": "",
+    "author": "蝶之灵",
+    "authorEn": "Die Zhiling",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2022",
+    "series": "卡牌密室系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "fear",
+      "adventure",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school",
+      "bizarre-school"
+    ],
+    "safeSummary": "「卡牌密室」完结篇（天地出版社 2022，全三册）：日月主城开启，玩家可以留下，也可以继续挑战。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "读过《卡牌密室》的读者",
+        "喜欢生存游戏设定的读者"
+      ],
+      "watchFor": [
+        "「留在主城」这个选项的代价",
+        "三天期限是怎么定的"
+      ],
+      "warning": "悬疑长篇（全三册）；含死亡游戏描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：蝶之灵著，天地出版社 2022，ISBN 978-7-5455-6778-6，**3 册（381／372／390 页）**，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「日月主城已开启！你现在有两个选择——A：留在主城，这里将成为你的理想国度；B：继续挑战，密室或者沉入噩梦……你有三天时间确认你的选择。」梗概只取这一层。**系列归属**：与《卡牌密室》（本批另一条）同系列。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2022。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-004",
+    "title": "沉默使命",
+    "originalTitle": "",
+    "author": "程飞",
+    "authorEn": "Cheng Fei",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "陈成",
+    "country": "中国",
+    "tags": [
+      "social-commentary",
+      "gain"
+    ],
+    "school": [
+      "police-procedural",
+      "social-school"
+    ],
+    "safeSummary": "程飞的长篇（群众出版社「中国侦探小说实力派作家丛书」2023）：一起土地拍卖案衍生出的系列案件。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢经济犯罪题材的读者",
+        "喜欢刑警主线的读者"
+      ],
+      "watchFor": [
+        "拍卖案牵出的那条资金链",
+        "陈成查到的第一个「不该出现」的人"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：程飞著，群众出版社 2023，ISBN 978-7-5014-6280-3，308 页，丛编「**中国侦探小说实力派作家丛书**」，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「本书以刑警大队侦查员陈成侦破由牙膏厂土地拍卖案衍生的系列案件为主线，揭示了黑恶势力渗透金融、司法领域的真相。」梗概只取这一层；`detective` 记提要里的侦查员陈成。**新作者**：库内无该作者；`authorEn` 按拼音记 `Cheng Fei`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-005",
+    "title": "幽幽谷宅院：消失的密码",
+    "originalTitle": "",
+    "author": "高腾",
+    "authorEn": "Gao Teng",
+    "genre": "冒险悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "adventure",
+      "cipher",
+      "curiosity"
+    ],
+    "school": [
+      "adventure-school",
+      "trick-school"
+    ],
+    "safeSummary": "高腾的长篇（现代出版社 2023）：一幅失窃的宋代古画被送进少年天择家，随后爷爷从看管严密的病房里失踪。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢古画与寻宝题材的读者",
+        "青少年读者"
+      ],
+      "watchFor": [
+        "《骷髅幻戏图》里那处不对劲",
+        "宝藏山传说与现实的接点"
+      ],
+      "warning": "冒险悬疑长篇；含阴谋与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：高腾著，现代出版社 2023，ISBN 978-7-5231-0079-0，**10 页＋285 页**（该条著录作「10,285页」，**如实记录**），**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「本书通过少年主人公的视角带领读者探秘解案……一天，一个神秘人将古堡市艺术博物馆中一幅失窃的宋代古画《骷髅幻戏图》送进了他的家。紧接着他心爱的爷爷从看管严密的病房中离奇失踪。」梗概只取这一层；`genre` 记冒险悬疑系据提要「经历冒险和推理」的表述。**新作者**：库内无该作者；`authorEn` 按拼音记 `Gao Teng`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-006",
+    "title": "黑夜来袭",
+    "originalTitle": "",
+    "author": "黑桃皇后",
+    "authorEn": "Heitao Huanghou",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "closed-circle",
+      "concealment",
+      "ensemble",
+      "dark-atmosphere"
+    ],
+    "school": [
+      "trick-school",
+      "psychological-school"
+    ],
+    "safeSummary": "黑桃皇后的长篇（台海出版社 2023）：心理互助小组一行七人夜宿客栈后神秘消失，只有消失前的一通电话留下线索。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢封闭空间悬疑的读者",
+        "喜欢旧案新查的读者"
+      ],
+      "watchFor": [
+        "七个人之间那些「不只是病友」的关系",
+        "二十年前那桩失踪案"
+      ],
+      "warning": "犯罪悬疑长篇；含失踪与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：黑桃皇后著，台海出版社 2023，ISBN 978-7-5168-3535-7，321 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「某市知名心理咨询师辅导的心理互助小组到郊外开展互助活动……一行七人夜宿一家客栈却进入无尽的黑暗之中，神秘消失。余美琪在消失前曾打电话求助堂妹……二十年前轰动一时的郑家孩子失踪案以及余美琪父亲意外死亡的真相也逐渐浮出水面。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 按拼音记 `Heitao Huanghou`（笔名）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-007",
+    "title": "秋葵与安娜",
+    "originalTitle": "",
+    "author": "柯昌礼",
+    "authorEn": "Ke Changli",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "social-commentary",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "social-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "柯昌礼的长篇（武汉大学出版社 2020）：一起过期疫苗致人死亡案，把山里山外的各色人物卷到一处。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢社会派推理的读者",
+        "柯昌礼的读者"
+      ],
+      "watchFor": [
+        "各方关系里那条对不上的时间线",
+        "「秋葵」与「安娜」各指谁"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：柯昌礼著，武汉大学出版社 2020，ISBN 978-7-307-21313-5，250 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「本书是一本侦探推理小说，故事的起因是大山里的一起过期疫苗致人死亡案，各色人物纷纷登场，他们之间存在错综复杂的关系……有一定的时间跨度。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 按拼音记 `Ke Changli`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-008",
+    "title": "缉凶录",
+    "originalTitle": "",
+    "author": "葛若凡",
+    "authorEn": "Ge Ruofan",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2016",
+    "series": "非系列",
+    "detective": "葛森",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "ensemble",
+      "concealment"
+    ],
+    "school": [
+      "trick-school",
+      "police-procedural"
+    ],
+    "safeSummary": "葛若凡的长篇（百花洲文艺出版社 2016）：沉寂多年的大侦探葛森被警署召回，组建特别案件调查组。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢「怪脾气侦探」设定的读者",
+        "葛若凡的读者"
+      ],
+      "watchFor": [
+        "神秘组织为什么盯上他的旧恋人",
+        "这一次他准备押上什么"
+      ],
+      "warning": "犯罪悬疑长篇；含连环命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：葛若凡著，百花洲文艺出版社 2016，ISBN 978-7-5500-1453-4，233 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「大侦探葛森以高超的破案手法和古怪的性格为人所知。沉寂多年后，他被警署重新召回，受命成立特别案件调查组。制造连环凶案的神秘组织将目标意外地锁定在葛森旧时恋人身上。」梗概只取这一层；`detective` 记提要里的葛森。**新作者**：库内无该作者；`authorEn` 按拼音记 `Ge Ruofan`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2016。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-009",
+    "title": "案记实录",
+    "originalTitle": "",
+    "author": "方乐明",
+    "authorEn": "Fang Leming",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列",
+    "detective": "梁平",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "gain"
+    ],
+    "school": [
+      "police-procedural",
+      "trick-school"
+    ],
+    "safeSummary": "方乐明的长篇（天津人民出版社「子不语」2015）：房地产商吴昂之死，探长梁平卧底进他生前的公司。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢卧底查案题材的读者",
+        "方乐明的读者"
+      ],
+      "watchFor": [
+        "「美人计」那一步是怎么落下的",
+        "梁平在公司里看到的账"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：方乐明著，天津人民出版社 2015，ISBN 978-7-201-09456-4，229 页，丛编「**子不语**」，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「吴昂是春江市最大的房地产开发商……纪林采取欲擒故纵的手法……在侦破此案中，探长梁平卧底吴昂的公司，了解内情。」梗概只取这一层；`detective` 记提要里的探长梁平。**新作者**：库内无该作者；`authorEn` 按拼音记 `Fang Leming`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-010",
+    "title": "第N重真相",
+    "originalTitle": "",
+    "author": "康静文",
+    "authorEn": "Kang Jingwen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2012",
+    "series": "非系列",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "concealment",
+      "red-herring"
+    ],
+    "school": [
+      "trick-school",
+      "orthodox-school"
+    ],
+    "safeSummary": "康静文的长篇（广西人民出版社 2012）：十八年前旅馆里的一桩悬案，与眼前食堂投毒案连着同一批人。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢旧案新查的读者",
+        "康静文的读者"
+      ],
+      "watchFor": [
+        "两桩案子里重复出现的那个名字",
+        "苏樱冉被锁定为嫌疑人的理由"
+      ],
+      "warning": "犯罪悬疑长篇；含投毒与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：康静文著，广西人民出版社 2012，ISBN 978-7-219-07908-9，314 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「十八年前，一名男子神秘死于一家小旅馆，案子悬而未破。十八年后，师大食堂 4 号窗厨师接连中毒，一死一重度昏迷……被警方锁定为嫌疑人的食堂老板苏樱冉被人残忍杀害。」梗概只取这一层。**新作者**：库内无该作者；`authorEn` 按拼音记 `Kang Jingwen`。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2012。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-011",
+    "title": "出走的春天",
+    "originalTitle": "",
+    "author": "以太",
+    "authorEn": "Yi Tai",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "非系列",
+    "detective": "邹堃、毕衍",
+    "country": "中国",
+    "tags": [
+      "dual-line",
+      "concealment"
+    ],
+    "school": [
+      "police-procedural",
+      "orthodox-school"
+    ],
+    "safeSummary": "以太的长篇（天地出版社「谜语文库」2024）：电脑天才葬身火海、被定性为自杀，而他的电脑里存着连环杀人案的大量信息。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢双主角追查的读者",
+        "喜欢父与子线索的读者"
+      ],
+      "watchFor": [
+        "邹堃八年前为什么辞职",
+        "那台电脑里到底存了什么"
+      ],
+      "warning": "犯罪悬疑长篇；含命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：以太著，天地出版社 2024，ISBN 978-7-5455-8217-8，409 页，丛编「**谜语文库**」，**学科主题词含「推理小说 中国 当代 ; 长篇小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「秋田市发生了一起严重的车祸，电脑天才邹骋葬身火海……省城刑警队队长毕衍怀疑这起案件与他正在调查的连环杀人案有关，他打开邹骋的电脑后，竟然发现了大量有关连环杀人案的信息。」梗概只取这一层；`detective` 记提要里的邹堃与毕衍。**新作者**：库内无该作者；`authorEn` 按拼音记 `Yi Tai`（笔名）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2024。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-012",
+    "title": "季警官的无厘头推理事件簿.2",
+    "originalTitle": "",
+    "author": "亮亮",
+    "authorEn": "Liang Liang",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "季警官系列",
+    "detective": "季警官",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "ensemble",
+      "meta-fiction"
+    ],
+    "school": [
+      "trick-school",
+      "meta-school"
+    ],
+    "safeSummary": "「季警官」系列第二册（长江出版社 2015）：馆藏提要直接列出六个篇名。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢幽默推理短篇的读者",
+        "亮亮的读者"
+      ],
+      "watchFor": [
+        "六个篇名各自的那个「坑」",
+        "季警官处理案子的方式"
+      ],
+      "warning": "推理短篇集；含命案描写，基调诙谐。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：亮亮著，长江出版社 2015，ISBN 978-7-5492-3804-0，253 页，**学科主题词含「推理小说 小说集 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**列出六个篇名：《凶手还没出手又死了》《离职前请勿杀人》《摆摊请交保护费》《我的手机去哪儿了》《交易请小心假币》《今天不宜发传单》——**篇目照著录抄录**，梗概不涉情节。`series`／`detective` 据书名所记的「季警官」填写。**新作者**：库内无该作者；`authorEn` 按拼音记 `Liang Liang`（笔名）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-013",
+    "title": "把自己推理成凶手的名侦探",
+    "originalTitle": "",
+    "author": "亮亮",
+    "authorEn": "Liang Liang",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "非系列（短篇集）",
+    "detective": "无固定侦探（短篇集，各篇独立）",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "meta-fiction",
+      "narrative-trick"
+    ],
+    "school": [
+      "meta-school",
+      "trick-school"
+    ],
+    "safeSummary": "亮亮的中篇幽默推理集（长江出版社 2015）：馆藏提要直接列出五个篇名。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢幽默推理的读者",
+        "亮亮的读者"
+      ],
+      "watchFor": [
+        "书名那一篇里的「自我指认」",
+        "五篇各自玩的叙述花样"
+      ],
+      "warning": "推理短篇集；含命案描写，基调诙谐。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：亮亮著，长江出版社 2015，ISBN 978-7-5492-3803-3，310 页，**学科主题词含「推理小说 中国 当代」**（**①档**），中图法 `I247.56`。馆藏 **330 提要**：「本书收录了亮亮的**五篇中篇幽默推理小说**，包括《不要对丑男妄动杀机》《胖子的肥肉借给你》《谋杀处女座，请排队》《我的队友都死了》《破案请在中考前》。」——**篇目与「幽默推理」这个定位都照提要写出**（`tags` 里的 `meta-fiction` 依书名那一篇的自我指认结构判断），梗概不涉情节。**新作者**：库内无该作者（与《季警官的无厘头推理事件簿.2》同作者）。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2015。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-014",
+    "title": "看不见的女孩",
+    "originalTitle": "",
+    "author": "布鲁·简恩丝",
+    "authorEn": "Blue Jeans",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2020",
+    "series": "非系列",
+    "detective": "",
+    "country": "西班牙",
+    "tags": [
+      "youth",
+      "campus",
+      "concealment",
+      "ensemble"
+    ],
+    "school": [
+      "social-school",
+      "psychological-school"
+    ],
+    "safeSummary": "简恩丝的长篇（百花文艺出版社 2020）：一个被所有人无视的 17 岁女孩死在学校更衣室里，身旁放着一个罗盘。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢校园背景悬疑的读者",
+        "喜欢多视角调查的读者"
+      ],
+      "watchFor": [
+        "那个罗盘是谁放的",
+        "网上那些讨论把线索带偏到哪"
+      ],
+      "warning": "犯罪悬疑长篇；含命案与校园霸凌描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：布鲁·简恩丝著（馆藏著录作「(Jeans, Blue) 简恩丝 (Jeans, Blue)」，**本条按库内对外国作者的通行写法记中文译名**），百花文艺出版社 2020，ISBN 978-7-5306-7819-0，371 页，**学科主题词含「推理小说 西班牙 现代」**（**①档**），中图法 `I551.45`。馆藏 **330 提要**：「所有人都无视奥罗拉·里奥斯。17 岁的她，没有朋友，也不与任何人来往……第二天一早被发现死在了学校破陋的更衣室里，头部遭受重击，身旁还放着一个罗盘……孤僻少女的离奇死亡，在推特及 WhatsApp 上引发爆炸式讨论。」梗概只取这一层。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2020。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  },
+  {
+    "id": "opac160-015",
+    "title": "外科医生",
+    "originalTitle": "",
+    "author": "苔丝·格里森",
+    "authorEn": "Tess Gerritsen",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2023",
+    "series": "非系列",
+    "detective": "凯瑟琳·科德尔",
+    "country": "美国",
+    "tags": [
+      "series-detective",
+      "forensic",
+      "dark-atmosphere",
+      "concealment"
+    ],
+    "school": [
+      "forensic-school",
+      "psychological-school"
+    ],
+    "safeSummary": "格里森的长篇（漓江出版社「外国惊悚悬疑小说译丛」2023）：两名女子先后遇害，手法像在重演一串已结的旧案。",
+    "ratings": {
+      "douban": {
+        "score": null,
+        "count": null,
+        "source": "豆瓣读书",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢法医与连环案题材的读者",
+        "格里森的读者"
+      ],
+      "watchFor": [
+        "凶手为什么被称作「外科医生」",
+        "作为旧案唯一幸存者的她怎么面对"
+      ],
+      "warning": "犯罪惊悚长篇；含性侵与命案描写。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-09",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题检索「推理小说」）：苔丝·格里森著（馆藏著录作「(美) 格里森 Gerritsen, Tess」），漓江出版社有限公司 2023，ISBN 978-7-5407-9413-2，413 页，丛编「**外国惊悚悬疑小说译丛**」，**学科主题词含「推理小说 美国 现代 ; 长篇小说 美国 现代」**（**①档**），中图法 `I712.45`。馆藏 **330 提要**：「外科医生凯瑟琳·科德尔花了两年时间才逐步走出性侵遭遇的阴霾……两名年轻女子先后遇害，死状相近，子宫均被摘除；歹徒下白刃如施手术，有『外科医生』之称，似在重演一串已结的连环凶杀案。」梗概只取这一层；`detective` 记提要里的凯瑟琳·科德尔。**评分**：标「暂无数据」。**年份字段**：`firstPublished` 留空；`editionYear` 记 2023。"
+    },
+    "provenance": {
+      "source": "batch-240-opac.json",
+      "ratingsNote": "本批十五册的豆瓣条目页在本轮仍返回「登录跳转」，故原作名一律留空、评分一律标「暂无数据」；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，同样标「暂无数据」，系统不编造评分。（中国原创与中文原著的 `originalTitle` 本就留空。）"
+    }
+  }
+]
