@@ -1458,19 +1458,25 @@
     "authorEn": "Michio Shusuke",
     "genre": "犯罪悬疑",
     "firstPublished": "2008",
-    "series": "",
+    "series": "非系列",
     "detective": "",
     "country": "日本",
     "tags": [
+      "psychological-misdirection",
+      "red-herring",
       "first-person",
       "ensemble",
-      "psychological-misdirection",
-      "social-commentary",
-      "city"
+      "city",
+      "gain",
+      "identity",
+      "concealment",
+      "social-commentary"
     ],
     "school": [
-      "psychological-school",
-      "social-school"
+      "trick-school",
+      "orthodox-school",
+      "social-school",
+      "psychological-school"
     ],
     "safeSummary": "一对以行骗为生的搭档，遇上了几个无处可去的人。几个人凑在一起过日子，各自都藏着没说的过去。",
     "recommendationReason": "",
@@ -1487,17 +1493,17 @@
         "fetchedAt": "2026-09-21T03:51:14.806Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -1529,9 +1535,17 @@
     },
     "provenance": {
       "source": "batch-23-jp-masters-expand.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-102-opac-author.json#opac102-003"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
-    "editionYear": "2011"
+    "editionYear": "2011",
+    "alternateTitles": [
+      "骗子家族"
+    ]
   },
   {
     "id": "jpmx-019",

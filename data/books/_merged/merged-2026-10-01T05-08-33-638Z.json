@@ -1,0 +1,46 @@
+[
+  {
+    "title": "黑色皮革手册",
+    "alternateTitles": [
+      "黑革的手帖",
+      "黑革記事本（上）",
+      "黑革記事本（下）"
+    ],
+    "author": "松本清张",
+    "keep": "batch-112-opac2.json#src112-008",
+    "drop": [
+      "batch-04-social-hardboiled.json#social-004（黑革的手帖）"
+    ],
+    "tagsBefore": 3,
+    "tagsAfter": 8,
+    "schoolAfter": 2
+  },
+  {
+    "title": "乌鸦的拇指",
+    "alternateTitles": [
+      "骗子家族"
+    ],
+    "author": "道尾秀介",
+    "keep": "batch-23-jp-masters-expand.json#jpmx-018",
+    "drop": [
+      "batch-102-opac-author.json#opac102-003（骗子家族）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 9,
+    "schoolAfter": 4
+  },
+  {
+    "title": "无颜的肖像",
+    "alternateTitles": [
+      "没有脸的肖像画"
+    ],
+    "author": "连城三纪彦",
+    "keep": "batch-103-opac-author.json#opac103-003",
+    "drop": [
+      "batch-224-opac.json#opac142-003（没有脸的肖像画）"
+    ],
+    "tagsBefore": 5,
+    "tagsAfter": 8,
+    "schoolAfter": 3
+  }
+]

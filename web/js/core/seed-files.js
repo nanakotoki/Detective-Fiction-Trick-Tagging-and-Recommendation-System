@@ -4,7 +4,7 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-09-30T14:19:51.222Z
+ * 生成时间：2026-10-01T05:25:02.703Z
  * 数据文件：242 个
  */
 
@@ -259,7 +259,7 @@ export const SEED_FILES = [
   { file: 'batch-02-shinhonkaku.json', group: "日本新本格 · 叙述诡计", data: batch02 },
   // 12 部
   { file: 'batch-03-western-classic.json', group: "欧美古典推理 · 先驱与黄金时代", data: batch03 },
-  // 12 部
+  // 11 部
   { file: 'batch-04-social-hardboiled.json', group: "社会派 / 硬汉派", data: batch04 },
   // 12 部
   { file: 'batch-05-chinese-asian.json', group: "华语与亚洲推理", data: batch05 },
@@ -455,7 +455,7 @@ export const SEED_FILES = [
   { file: 'batch-100-midnight-jp.json', group: "其他", data: batch100 },
   // 13 部
   { file: 'batch-101-opac-author.json', group: "其他", data: batch101 },
-  // 19 部
+  // 18 部
   { file: 'batch-102-opac-author.json', group: "其他", data: batch102 },
   // 12 部
   { file: 'batch-103-opac-author.json', group: "其他", data: batch103 },
@@ -699,7 +699,7 @@ export const SEED_FILES = [
   { file: 'batch-222-opac.json', group: "其他", data: batch222 },
   // 3 部
   { file: 'batch-223-opac.json', group: "其他", data: batch223 },
-  // 3 部
+  // 2 部
   { file: 'batch-224-opac.json', group: "其他", data: batch224 },
   // 11 部
   { file: 'batch-225-opac.json', group: "其他", data: batch225 },
