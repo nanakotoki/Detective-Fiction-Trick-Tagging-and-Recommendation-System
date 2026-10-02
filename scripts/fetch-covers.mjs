@@ -240,6 +240,7 @@ import {
   wereadCoverAt,
   pickWereadEditions,
 } from './lib/covers.mjs';
+import { findFfmpeg, fingerprintsOfFile, fingerprintsOfBuffer, isSameCover } from './lib/image-fp.mjs';
 import { parseDoubanOtherEditions } from '../web/js/core/ratings.js';
 /* ------------------------------------------------------------------ */
 /* 知识库与索引                                                        */
@@ -519,6 +520,50 @@ async function downloadWereadCover(url, tier = 't5') {
   return { url: big, buf: res.buf, ...size, bytes: res.buf.length, ext: 'jpg' };
 }
 
+/**
+ * 候选版本是不是与**已有的某一版是同一张图**（第 171 轮）。
+ *
+ * 为什么要前移到写入时：用户反馈「有些放了两版的图其实一模一样」，
+ * 一查——撤下的 847 条**全部**是跨站重复（同一张封面豆瓣与微信读书各有一份，
+ * 一边带白边书脊、一边是紧裁的电子版），豆瓣侧内部 0 条。
+ * 也就是说：**只要多来源并存，跨站重复就是系统性的**，不能靠事后清理兜着。
+ * 所以从别的来源拿版本之前，先把图下下来跟已保留的版本比一次，重复的当场就不收。
+ *
+ * 没有 ffmpeg 时返回 false（不判重）——宁可留着重复，也不在没有依据的情况下丢版本。
+ */
+async function isVisuallyDuplicateOf(candidate, existing) {
+  if (!findFfmpeg() || !candidate?.pic) return false;
+  let fp = null;
+  try {
+    const res = await httpGet(candidate.pic, { accept: 'image/avif,image/webp,image/*,*/*;q=0.8', binary: true });
+    if (!res.ok || !res.buf) return false;
+    fp = fingerprintsOfBuffer(res.buf, '.jpg');
+  } catch {
+    return false;
+  }
+  if (!fp) return false;
+  return sameAsAnyLocal(fp, existing);
+}
+
+/** 一份已经拿在手里的图片字节，与「已保留的本地版本」比：返回撞上的那一版（没撞上返回 null） */
+function localImageDuplicates(buffer, existing) {
+  if (!findFfmpeg()) return null;
+  const fp = fingerprintsOfBuffer(buffer, '.webp');
+  if (!fp) return null;
+  return sameAsAnyLocal(fp, existing) || null;
+}
+
+/** 指纹与已保留的本地版本逐一比，返回第一张撞上的版本 */
+function sameAsAnyLocal(fp, existing) {
+  for (const e of existing) {
+    if (!e?.file) continue;
+    const p = path.join(COVERS_DIR, e.file);
+    if (!fs.existsSync(p)) continue;
+    if (isSameCover(fp, fingerprintsOfFile(p))) return e;
+  }
+  return null;
+}
+
 /* ------------------------------------------------------------------ */
 /* 主流程                                                              */
 /* ------------------------------------------------------------------ */
@@ -793,6 +838,8 @@ for (const { book } of targets) {
         for (const e of ordered) push(e);
 
         const outEditions = [];
+        /** 写入时就被判为「与已保留版本同一张图」而没收下的（记进 editionsDropped） */
+        const autoDropped = [];
         /**
          * 豆瓣这边没有候选（限流、或没有 works 页）时，**先把现有的本地主图放进第一位**：
          * `editions[0]` 必须永远是那张「外面显示的最新版」，后面才轮到其他版本。
@@ -833,6 +880,22 @@ for (const { book } of targets) {
             await sleep(args.delay);
             const img = await downloadCover(e.pic);
             if (img && !img.failed) {
+              /**
+               * 本地版本也要判重：豆瓣那边同一个条目 id 之外的「另一个版本」
+               * 有可能是**同一张图**（重印本沿用旧封面、或同一版被著录成两条）。
+               * 实测出现过「两个 id 的封面逐像素相同」，存下来就是白占体积的重复。
+               */
+              const sameAsKept = await localImageDuplicates(img.buf, outEditions);
+              if (sameAsKept) {
+                autoDropped.push({
+                  title: e.title || book.title,
+                  year: e.year || '',
+                  publisher: e.publisher || '',
+                  sameAs: sameAsKept.title || '',
+                  why: '与已保留的版本是同一张图（写入时判重）',
+                });
+                continue;
+              }
               fs.writeFileSync(path.join(COVERS_DIR, file), img.buf);
               meta = { bytes: img.bytes, width: img.width, height: img.height, format: img.format };
               addedEditionCount += 1;
@@ -869,7 +932,24 @@ for (const { book } of targets) {
         for (const r of remoteEditions) {
           if (outEditions.length >= MAX_EDITIONS) break;
           if (outEditions.some((x) => x.title === r.title && x.publisher === r.publisher)) continue;
+          /** 先看图：与已保留的某一版是同一张画就不收（跨站重复的根治办法） */
+          if (await isVisuallyDuplicateOf(r, outEditions)) {
+            autoDropped.push({
+              title: r.title || '',
+              publisher: r.publisher || '',
+              remote: true,
+              sameAs: outEditions[0]?.title || '',
+              why: '与已保留的版本是同一张图（写入时判重）',
+            });
+            continue;
+          }
           outEditions.push({ ...r, primary: false, collected: false, fetchedAt: new Date().toISOString() });
+        }
+        if (autoDropped.length) {
+          /** 同一条「撤下」记录不要重复累积（反复跑同一部书时） */
+          const seen = new Set((rec.editionsDropped || []).map((d) => `${d.title}|${d.publisher}`));
+          const fresh = autoDropped.filter((d) => !seen.has(`${d.title}|${d.publisher}`));
+          if (fresh.length) rec.editionsDropped = [...(rec.editionsDropped || []), ...fresh];
         }
         if (outEditions.length) {
           /**

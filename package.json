@@ -28,6 +28,7 @@
     "covers:fetch": "node scripts/fetch-covers.mjs",
     "covers:manifest": "node scripts/gen-cover-manifest.mjs",
     "covers:dedupe": "node scripts/dedupe-editions.mjs",
+    "audit:cover-dups": "node scripts/audit-cover-dups.mjs",
     "pool:left": "node scripts/pool-left.mjs",
     "check:frontend": "node scripts/check-frontend.mjs",
     "gen:seed": "node scripts/gen-seed-manifest.mjs",
