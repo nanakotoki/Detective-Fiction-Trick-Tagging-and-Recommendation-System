@@ -639,6 +639,24 @@ const server = http.createServer(async (req, res) => {
 
     // 其余 → web/
     refreshAssetVersionIfChanged();
+
+    /**
+     * `/web/...` 一律 301 到 `/...`（第 174 轮修的一个真坑）。
+     *
+     * 两种部署方式的入口路径**不一样**：
+     *   · **纯静态托管**（GitHub Pages / Netlify）：docroot 是仓库根，入口是 `/web/`；
+     *   · **带后端**（本服务）：`web/` 就是站点根，入口是 `/`。
+     * 而 README 与部署文档里写的是纯静态那套地址，于是照抄 `/web/` 的人会看到
+     * **一个能打开的 HTML、但 CSS/JS/封面全 404 的破页**（`/web/css/styles.css` 找不到）——
+     * 明明服务是好的，看起来却像坏了。与其让人踩，不如直接跳到根路径。
+     */
+    if (url.pathname === '/web' || url.pathname.startsWith('/web/')) {
+      const target = url.pathname.replace(/^\/web/, '') || '/';
+      res.writeHead(301, { location: `${target}${url.search ?? ''}` });
+      res.end();
+      return;
+    }
+
     const handled = await serveStatic(req, res, { root: WEB_DIR, urlPath: url.pathname, assetVersion: WEB_ASSET_VERSION });
     if (handled) return;
     sendError(res, 404, '页面不存在');

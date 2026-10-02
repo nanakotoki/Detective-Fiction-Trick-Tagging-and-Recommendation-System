@@ -443,6 +443,25 @@ async function main() {
       }
     }
 
+    /**
+     * `/web/` 是**纯静态托管**的入口地址；带后端时站点根就是 `/`，
+     * 照抄 `/web/` 会得到一个「HTML 能开、样式全 404」的破页。
+     * 所以服务端把它 301 到根路径（第 174 轮修的坑）。
+     */
+    const webRedirect = await fetch(`${BASE}/web/`, { redirect: 'manual' });
+    check('访问 /web/ 会跳到根路径（避免样式全 404 的破页）', webRedirect.status === 301, `HTTP ${webRedirect.status}`);
+    check(
+      '跳转目标是根路径',
+      (webRedirect.headers.get('location') ?? '') === '/',
+      webRedirect.headers.get('location') ?? '(无)',
+    );
+    const deepRedirect = await fetch(`${BASE}/web/css/styles.css`, { redirect: 'manual' });
+    check(
+      '深层的 /web/xxx 也跳成 /xxx',
+      deepRedirect.status === 301 && (deepRedirect.headers.get('location') ?? '') === '/css/styles.css',
+      `HTTP ${deepRedirect.status} → ${deepRedirect.headers.get('location') ?? '(无)'}`,
+    );
+
     const cssRes = await fetch(`${BASE}/css/styles.css`);
     check(
       '静态资源禁用强缓存（no-cache，避免用户看到旧代码）',
