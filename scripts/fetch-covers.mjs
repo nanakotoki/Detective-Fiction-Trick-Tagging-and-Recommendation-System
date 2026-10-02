@@ -124,7 +124,7 @@ const args = {
    *   suggest     ＝只走题名检索；
    *   isbn        ＝只走书号直达（专治 suggest 索引缺条目的那批）。
    */
-  source: ['suggest', 'isbn', 'all'].includes(value('--source', 'all')) ? value('--source', 'all') : 'all',
+  source: ['suggest', 'isbn', 'all', 'weread'].includes(value('--source', 'all')) ? value('--source', 'all') : 'all',
   missingOnly: argv.includes('--missing'),
   /**
    * 已知落空的书要不要重试。
@@ -236,6 +236,9 @@ import {
   parseWorksEditions,
   parseWorksLink,
   isBlockPage,
+  parseWereadSearch,
+  wereadCoverAt,
+  pickWereadEditions,
 } from './lib/covers.mjs';
 import { parseDoubanOtherEditions } from '../web/js/core/ratings.js';
 /* ------------------------------------------------------------------ */
@@ -467,6 +470,56 @@ async function collectEditions(book, rec) {
 }
 
 /* ------------------------------------------------------------------ */
+/* 微信读书通道（第 170 轮）                                            */
+/* ------------------------------------------------------------------ */
+
+const WEREAD_UA =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
+const wereadCache = new Map();
+
+/** 微信读书全局检索（JSON，不封；带出版社与译者） */
+async function searchWeread(title) {
+  const key = String(title || '').trim();
+  if (!key) return [];
+  if (wereadCache.has(key)) return wereadCache.get(key);
+  let list = [];
+  /**
+   * **必须设超时**：实测这个接口对冷门书名会卡到 60 秒（同一接口热门书名只要 400ms），
+   * 不设上限的话一本书就能拖掉一分钟，整库跑起来没法看。8 秒拿不到就当没命中。
+   */
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), 8000);
+  try {
+    const res = await fetch(
+      `https://weread.qq.com/web/search/global?keyword=${encodeURIComponent(key)}&maxIdx=0&fragmentSize=120&count=20`,
+      {
+        signal: ctl.signal,
+        headers: { 'user-agent': WEREAD_UA, accept: 'application/json, text/plain, */*', referer: 'https://weread.qq.com/' },
+      },
+    );
+    requestCount += 1;
+    if (res.ok) list = parseWereadSearch(JSON.parse(await res.text()));
+  } catch {
+    list = [];
+  } finally {
+    clearTimeout(timer);
+  }
+  wereadCache.set(key, list);
+  return list;
+}
+
+/** 抓微信读书的封面（CDN 允许直接外链，但仍下载到本地——主图要离线可用） */
+async function downloadWereadCover(url, tier = 't5') {
+  const big = wereadCoverAt(url, tier);
+  if (!big) return null;
+  const res = await httpGet(big, { accept: 'image/avif,image/webp,image/*,*/*;q=0.8', binary: true });
+  if (!res.ok || !res.buf || res.buf.length < 1024) return { failed: true, status: res.status || 0 };
+  const size = imageSize(res.buf);
+  if (size.format !== 'jpeg' && size.format !== 'webp') return { failed: true, status: res.status };
+  return { url: big, buf: res.buf, ...size, bytes: res.buf.length, ext: 'jpg' };
+}
+
+/* ------------------------------------------------------------------ */
 /* 主流程                                                              */
 /* ------------------------------------------------------------------ */
 
@@ -647,6 +700,14 @@ for (const { book } of targets) {
   let channelError = false;
   /** 版本择优模式下「现有封面已经是最合适的」——既不重下，也不记落空 */
   let noChange = false;
+  /**
+   * 多版本模式里**这一部已经处理完了**（版本清单已写进记录）。
+   * 后面那段「取图 → 写主图 → 记落空」的通用流程必须跳过，
+   * 否则会把刚登记好的书又写进 `misses`（第一版就是这么把自己坑了的）。
+   */
+  let handled = false;
+  /** 通道里已经下好的图（微信读书那条会顺手把图取回来，省一次重复请求） */
+  let preSaved = null;
 
   try {
     /**
@@ -658,13 +719,41 @@ for (const { book } of targets) {
     if (args.editions) {
       const rec = index.records[book.id];
       const bookYear = yearOf(book.editionYear);
-      const { editions: found, worksId, blocked, note } = await collectEditions(book, rec);
-      if (blocked) {
+      const { editions: found, worksId, blocked, note } =
+        args.source === 'weread' ? { editions: [], worksId: '', blocked: false, note: '按参数只用微信读书' } : await collectEditions(book, rec);
+
+      /**
+       * **微信读书兜底**：豆瓣条目页被限流、或该作品在豆瓣没有 works 页时，
+       * 改用微信读书的检索结果当版本清单。它的封面 CDN 允许直接外链，
+       * 所以这些版本**只存链接、不落盘**（`remote: true`），页面上按需加载。
+       */
+      const useWeread = blocked || !found.length || args.source === 'weread';
+      let remoteEditions = [];
+      if (useWeread && args.source !== 'isbn') {
+        const list = await searchWeread(book.title);
+        const picks = pickWereadEditions(book, list, { limit: MAX_EDITIONS });
+        remoteEditions = picks
+          .filter((c) => c.cover)
+          .map((c) => ({
+            subjectId: c.bookId,
+            source: '微信读书',
+            remote: true,
+            pic: wereadCoverAt(c.cover, 't3'),
+            largePic: wereadCoverAt(c.cover, 't9'),
+            title: c.title,
+            publisher: c.publisher,
+            ...(c.translator ? { translator: c.translator } : {}),
+            year: '',
+          }));
+        if (remoteEditions.length) consecutiveBlocked = 0;
+      }
+
+      if (blocked && !remoteEditions.length) {
         consecutiveBlocked += 1;
         channelError = true;
         noChange = true;
-        reasons.push(`版本清单取不到：${note}（豆瓣限流）`);
-      } else if (!found.length) {
+        reasons.push(`版本清单取不到：${note}（豆瓣限流，微信读书也没有对得上的版本）`);
+      } else if (!found.length && !remoteEditions.length) {
         consecutiveBlocked = 0;
         noChange = true;
         // 版本清单本来就没有 → 保留现有记录（并确保结构是新的 editions 数组）
@@ -704,6 +793,30 @@ for (const { book } of targets) {
         for (const e of ordered) push(e);
 
         const outEditions = [];
+        /**
+         * 豆瓣这边没有候选（限流、或没有 works 页）时，**先把现有的本地主图放进第一位**：
+         * `editions[0]` 必须永远是那张「外面显示的最新版」，后面才轮到其他版本。
+         * 少了这一步，纯微信读书的版本会顶到第一位、而它们没有本地文件，记录就写坏了。
+         */
+        if (!picked.length) {
+          const prev = rec.editions?.[0];
+          outEditions.push({
+            subjectId: prev?.subjectId || rec.subjectId || '',
+            file: rec.file,
+            title: prev?.title || rec.edition?.title || book.title,
+            year: prev?.year || rec.edition?.year || '',
+            publisher: prev?.publisher || '',
+            ...(prev?.translator ? { translator: prev.translator } : {}),
+            ...(prev?.pic ? { pic: prev.pic } : {}),
+            bytes: rec.bytes,
+            width: rec.width,
+            height: rec.height,
+            format: rec.format,
+            primary: true,
+            collected: Boolean(bookYear && yearOf(prev?.year || rec.edition?.year) === bookYear),
+            fetchedAt: rec.fetchedAt,
+          });
+        }
         for (const [i, e] of picked.entries()) {
           const isPrimary = i === 0;
           const file = isPrimary ? rec.file : `${book.id}-${e.subjectId}.webp`;
@@ -745,13 +858,26 @@ for (const { book } of targets) {
             fetchedAt: new Date().toISOString(),
           });
         }
+
+        /**
+         * 豆瓣这边拿到的版本之外，**再补上微信读书那边的版本**（只要不重复）。
+         *
+         * 两边记的是同一部作品的不同版本：豆瓣强在「版本全、有出版年」，
+         * 微信读书强在「电子版封面清晰、CDN 允许外链」。合并之后版本一览更完整，
+         * 而微信读书那几版**只存链接**（`remote: true`），不占仓库。
+         */
+        for (const r of remoteEditions) {
+          if (outEditions.length >= MAX_EDITIONS) break;
+          if (outEditions.some((x) => x.title === r.title && x.publisher === r.publisher)) continue;
+          outEditions.push({ ...r, primary: false, collected: false, fetchedAt: new Date().toISOString() });
+        }
         if (outEditions.length) {
           /**
            * 主图必须与 `editions[0]` 一致：works 页上若有更新的版本，
            * 就把主图换成它——这正好与「外面只显示最新版」这条要求一致。
            */
           const primary = outEditions[0];
-          if (primary.file !== rec.file) {
+          if (primary.file && primary.file !== rec.file) {
             /** 新主图还没下过（`primary.file` 是 `<id>-<subjectId>.webp`）→ 复制成 `<id>.webp` */
             const src = path.join(COVERS_DIR, primary.file);
             if (fs.existsSync(src)) {
@@ -760,21 +886,24 @@ for (const { book } of targets) {
             }
           }
           rec.editions = outEditions;
-          rec.file = primary.file;
-          rec.subjectId = primary.subjectId;
-          rec.sourceUrl = `https://book.douban.com/subject/${primary.subjectId}/`;
-          rec.edition = { title: primary.title, author: book.author, year: primary.year };
-          rec.bytes = primary.bytes;
-          rec.width = primary.width;
-          rec.height = primary.height;
-          rec.format = primary.format;
-          rec.matched = 'editions+works';
-          rec.query = `版本一览（${outEditions.length} 版）`;
+          rec.matched = args.source === 'weread' ? 'editions+weread' : 'editions+works';
+          if (primary.file) {
+            rec.file = primary.file;
+            rec.subjectId = primary.subjectId;
+            rec.sourceUrl = `https://book.douban.com/subject/${primary.subjectId}/`;
+            rec.edition = { title: primary.title, author: book.author, year: primary.year };
+            rec.bytes = primary.bytes;
+            rec.width = primary.width;
+            rec.height = primary.height;
+            rec.format = primary.format;
+            rec.yearMatch = primary.year && bookYear ? yearOf(primary.year) === bookYear : null;
+          }
+          rec.query = `版本一览（${outEditions.length} 版${remoteEditions.length ? '，含微信读书' : ''}）`;
           rec.bookYear = book.editionYear || '';
-          rec.yearMatch = primary.year && bookYear ? yearOf(primary.year) === bookYear : null;
           rec.fetchedAt = new Date().toISOString();
           delete index.misses[book.id];
           okCount += 1;
+          handled = true;
           if (VERBOSE && (done <= 20 || done % 25 === 0)) {
             console.log(
               `  ✓ ${book.id}《${book.title}》留 ${outEditions.length} 版：` +
@@ -875,6 +1004,30 @@ for (const { book } of targets) {
         noChange = true;
         reasons.push(`版本择优：最新候选 ${yearOf(cand.year) || '年份未标'} 不比现有封面 ${curYear || '年份未标'} 新`);
       }
+    } else if (args.source === 'weread') {
+      /**
+       * **微信读书通道**（第 170 轮）：豆瓣 HTML 被限流时的替代来源。
+       * 检索是按书名的一次 JSON 请求，命中后按 `t5_` 档（214×317）下图存本地；
+       * 选不中（题名对不上、或没有作者佐证）就当作没找到——**宁可留占位图，也不配错封面**。
+       */
+      const picks = pickWereadEditions(book, await searchWeread(book.title), { limit: 1 });
+      const pick = picks[0];
+      if (!pick) {
+        reasons.push('微信读书：没有题名＋作者都对得上的版本');
+      } else if (!pick.cover) {
+        reasons.push('微信读书：命中条目但没有封面');
+      } else {
+        const img = await downloadWereadCover(pick.cover, 't5');
+        if (img && !img.failed) {
+          preSaved = img;
+          picUrl = img.url;
+          matched = 'weread';
+          edition = { title: pick.title, author: pick.author, year: '' };
+          sourceUrl = `https://weread.qq.com/web/search/global?keyword=${encodeURIComponent(book.title)}`;
+        } else {
+          reasons.push(`微信读书：封面下载失败（HTTP ${img?.status || '连不上'}）`);
+        }
+      }
     } else {
       /**
        * 第一条通道：题名检索（快、覆盖广）。
@@ -913,7 +1066,7 @@ for (const { book } of targets) {
      * 因为它认的是书号（版本），不是书名。isbn 从 `verification.source` 里抠。
      * 取到条目页后**逐条核对 ISBN 是否一致**：不一致说明豆瓣那一条不是这一版，宁可不要。
      */
-    if (!picUrl && (args.source === 'isbn' || args.source === 'all')) {
+    if (!handled && !picUrl && (args.source === 'isbn' || args.source === 'all')) {
       const isbns = isbnsOf(book);
       const wantYear = String(book.editionYear || '').match(/\d{4}/)?.[0] || '';
       /** 一条书号查下来的候选（可能有多个：著录里同时记着初版与所收版的号） */
@@ -974,8 +1127,8 @@ for (const { book } of targets) {
     if (!picUrl && !reasons.length) reasons.push('检索无候选');
     reason = reasons.join('；');
 
-    let saved = null;
-    if (picUrl && !noChange) {
+    let saved = preSaved;
+    if (!saved && picUrl && !noChange) {
       await sleep(args.delay);
       saved = await downloadCover(picUrl);
       if (saved?.failed) {
@@ -984,7 +1137,9 @@ for (const { book } of targets) {
       }
     }
 
-    if (noChange) {
+    if (handled) {
+      /** 多版本模式里已经登记完毕的：什么都不用再做（`okCount` 已在上面加过） */
+    } else if (noChange) {
       /** 版本择优里「已是最合适」的那些：**既不重下、也不记落空**（它们本来就有封面） */
       keptCount += 1;
       if (VERBOSE && (done <= 20 || done % 50 === 0)) {
@@ -1022,7 +1177,9 @@ for (const { book } of targets) {
           ? `版本择优（${year || '年份未标'}）`
           : args.source === 'isbn'
             ? `isbn:${usedIsbn || isbnsOf(book)[0] || ''}`
-            : sg.query || book.title,
+            : args.source === 'weread'
+              ? '微信读书检索'
+              : sg.query || book.title,
         edition,
         bookYear,
         yearMatch: year && bookYear ? year === bookYear : null,

@@ -1012,13 +1012,28 @@ const demoEditions = [
   { subjectId: '3', year: '2026', publisher: '獨步文化', title: sampleBook.title, primary: true, collected: false, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}.webp` }) },
   { subjectId: '2', year: '2021', publisher: '南海出版公司', title: sampleBook.title, primary: false, collected: true, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}-2.webp` }) },
   { subjectId: '1', year: '2012', publisher: '南海出版公司', translator: '王丽丽', title: sampleBook.title, primary: false, collected: false, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}-1.webp` }) },
+  // 只存链接的版本（微信读书来的）：封面直接用对方 CDN 的地址
+  {
+    subjectId: '3300024305',
+    title: sampleBook.title,
+    publisher: '新星出版社',
+    remote: true,
+    source: '微信读书',
+    url: 'https://cdn.weread.qq.com/weread/cover/5/3300024305/t3_3300024305.jpg',
+    largeUrl: 'https://cdn.weread.qq.com/weread/cover/5/3300024305/t9_3300024305.jpg',
+  },
 ];
 const gallery = renderEditionGallery(sampleBook, demoEditions);
-check('版本一览渲染出每一版', (gallery.match(/edition-card/g) || []).length === 3, `${(gallery.match(/edition-card/g) || []).length} 张`);
+check('版本一览渲染出每一版', (gallery.match(/edition-card/g) || []).length === 4, `${(gallery.match(/edition-card/g) || []).length} 张`);
 check('每一版都标了出版年', ['2026', '2021', '2012'].every((y) => gallery.includes(y)));
 check('标出出版社与译者', gallery.includes('獨步文化') && gallery.includes('王丽丽 译'));
 check('标出「封面用这版」与「本库所收」', gallery.includes('封面用这版') && gallery.includes('本库所收'));
 check('说明文字讲清「外面显示最新的一版」', gallery.includes('最新的一版'));
+check(
+  '只存链接的版本用对方 CDN 地址并标出来源',
+  gallery.includes('cdn.weread.qq.com') && gallery.includes('微信读书'),
+  '微信读书那一版没渲染对',
+);
 
 // 空清单时给一句人话，而不是空白
 check(
@@ -1034,18 +1049,18 @@ check(
   '灯箱里显示当前版本的年份与出版社',
   viewerRoot?.textContent.includes('2026') && viewerRoot?.textContent.includes('獨步文化'),
 );
-check('灯箱里标出「第 1 / 3 版」', (viewerRoot?.textContent ?? '').includes('第 1 / 3 版'));
+check('灯箱里标出「第 1 / 4 版」', (viewerRoot?.textContent ?? '').includes('第 1 / 4 版'));
 const nextBtn = [...(viewerRoot?.querySelectorAll('.modal-foot button') ?? [])].find((b) => b.textContent.includes('下一版'));
 nextBtn?.dispatchEvent({ type: 'click' });
 check(
   '点「下一版」会翻到第二版',
-  (viewerRoot?.textContent ?? '').includes('第 2 / 3 版'),
+  (viewerRoot?.textContent ?? '').includes('第 2 / 4 版'),
   viewerRoot?.textContent?.replace(/\s+/g, ' ').slice(0, 120) ?? '',
 );
 const prevBtn = [...(viewerRoot?.querySelectorAll('.modal-foot button') ?? [])].find((b) => b.textContent.includes('上一版'));
 prevBtn?.dispatchEvent({ type: 'click' });
 prevBtn?.dispatchEvent({ type: 'click' });
-check('往回翻会绕到最后（循环）', (viewerRoot?.textContent ?? '').includes('第 3 / 3 版'));
+check('往回翻会绕到最后（循环）', (viewerRoot?.textContent ?? '').includes('第 4 / 4 版'));
 viewer?.close();
 check('灯箱可关闭', !viewerRoot?.isConnected);
 

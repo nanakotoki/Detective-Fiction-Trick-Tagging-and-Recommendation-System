@@ -89,6 +89,8 @@ let multiEdition = 0;
 let editionBytes = 0;
 /** 保存了多少个「非主图」的版本封面（它们也要算进仓库体积） */
 let extraEditionFiles = 0;
+/** 只存链接、不落盘的版本（微信读书） */
+let remoteEditions = 0;
 for (const [id, rec] of Object.entries(records)) {
   referenced.add(rec.file);
   const full = path.join(COVERS_DIR, rec.file || '');
@@ -146,7 +148,17 @@ for (const [id, rec] of Object.entries(records)) {
   if (eds.filter((e) => e.primary).length !== 1) add('primary 标记不唯一', id);
   for (const e of eds) {
     if (!e.file) {
-      add('版本缺文件名', `${id} / ${e.subjectId || '?'}`);
+      /**
+       * 只存链接的版本（`remote: true`，目前来自微信读书）：它们的封面在对方 CDN 上**按需加载**，
+       * 本地没有文件——所以这里只查「有没有链接」，不查文件。
+       * 这一条是有意的取舍：微信读书的 CDN 允许直接外链（实测无 referer 也 200），
+       * 把几百 MB 的电子版封面搬进仓库不划算。
+       */
+      if (e.remote && e.pic) {
+        remoteEditions += 1;
+        continue;
+      }
+      add('版本既没有本地文件也没有外链', `${id} / ${e.subjectId || '?'}`);
       continue;
     }
     referenced.add(e.file);
@@ -231,6 +243,8 @@ if (editionsData) {
       add('多版本清单的主图与台账不一致', `${id}：清单 ${first?.file || '—'} ／ 台账 ${rec.file}`);
     }
     for (const e of listed[id]) {
+      // 只存链接的版本没有本地文件，跳过文件检查
+      if (e.remote) continue;
       if (!fs.existsSync(path.join(COVERS_DIR, e.file || ''))) {
         add('多版本清单指向的图片不在盘上', `${id} → ${e.file}`);
       }
@@ -246,7 +260,8 @@ log(`  图片体积合计 ${(bytes / 1024 / 1024).toFixed(1)}MB ｜ 来源分布
 if (withCover) log(`  平均每张 ${(bytes / withCover / 1024).toFixed(1)}KB`);
 log(
   `  版本一览：${editionTotal} 条版本记录（${multiEdition} 部有 2 个以上版本）｜` +
-    ` 其他版本图片 ${extraEditionFiles} 张、${(editionBytes / 1024 / 1024).toFixed(1)}MB`,
+    ` 本地其他版本 ${extraEditionFiles} 张、${(editionBytes / 1024 / 1024).toFixed(1)}MB` +
+    `${remoteEditions ? `｜只存链接的版本 ${remoteEditions} 条（微信读书，按需加载）` : ''}`,
 );
 
 if (problems.length) {

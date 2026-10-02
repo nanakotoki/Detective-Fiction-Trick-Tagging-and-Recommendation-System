@@ -69,6 +69,73 @@ export function parseWorksLink(html) {
   return m ? m[1] : '';
 }
 
+/* ------------------------------------------------------------------ */
+/* 微信读书（第 170 轮：豆瓣 HTML 被限流时的第二条封面通道）             */
+/* ------------------------------------------------------------------ */
+
+/**
+ * 解析微信读书的检索接口回执（`/web/search/global?keyword=…`）。
+ *
+ * 为什么用它：豆瓣的条目页／works 页会**整站限流**（返回 3KB 壳页），而微信读书这个接口是
+ * JSON、不封、还**带出版社与译者**；它的封面 CDN **允许直接外链**（实测无 referer 也 200），
+ * 所以「其他版本」的封面可以只存链接、按需加载，不必把几百 MB 塞进仓库。
+ *
+ * 返回：[{ bookId, title, author, translator, publisher, cover, rating, ratingCount }]
+ */
+export function parseWereadSearch(json) {
+  const books = json?.books || json?.data?.books || [];
+  const out = [];
+  for (const item of books) {
+    const b = item?.bookInfo || item || {};
+    if (!b.bookId || !b.title) continue;
+    out.push({
+      bookId: String(b.bookId),
+      title: String(b.title),
+      author: String(b.author || ''),
+      translator: String(b.translator || ''),
+      publisher: String(b.publisher || ''),
+      cover: String(b.cover || ''),
+      rating: typeof b.newRating === 'number' ? b.newRating : null,
+      ratingCount: typeof b.newRatingCount === 'number' ? b.newRatingCount : null,
+    });
+  }
+  return out;
+}
+
+/**
+ * 微信读书封面按档取图：URL 里的 `s_` 是缩略档，换成 `tN_` 可以得到更大的图。
+ * 实测（同一张图）：`s_` 70×104 ｜ `t3_` 143×212 ｜ `t5_` 214×317 ｜ `t6_` 250×370 ｜ `t9_` 428×634。
+ * 本库用 `t3_` 存/显示小图（体积与豆瓣 s 档接近），灯箱再按需取 `t9_`。
+ */
+export function wereadCoverAt(url, tier = 't3') {
+  const src = String(url || '');
+  if (!src) return '';
+  return /\/[st]\d*_[^/]*$/.test(src) ? src.replace(/\/[st]\d*_/, `/${tier}_`) : src;
+}
+
+/**
+ * 从微信读书的检索结果里挑「与库内这本书对得上」的版本。
+ *
+ * 判据比豆瓣那边更宽一点：题名完全一致最好；否则允许**题名包含**（微信读书上常见
+ * 「金田一探案集03：狱门岛」这类带丛编前缀的写法），但**作者必须吻合**——
+ * 同名不同书的坑在哪儿都一样。
+ */
+export function pickWereadEditions(book, list, { limit = 3 } = {}) {
+  const want = normTitle(book.title);
+  const scored = [];
+  for (const c of list || []) {
+    const n = normTitle(c.title);
+    if (!n) continue;
+    const exact = n === want;
+    const contains = n.includes(want) || want.includes(n);
+    if (!exact && !contains) continue;
+    if (c.author && !authorMatches(book.author, c.author)) continue;
+    scored.push({ ...c, exact });
+  }
+  scored.sort((a, b) => Number(b.exact) - Number(a.exact) || (b.ratingCount || 0) - (a.ratingCount || 0));
+  return scored.slice(0, Math.max(0, limit));
+}
+
 /**
  * 这一页是不是豆瓣的**限流拦截页**。
  *

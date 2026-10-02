@@ -43,11 +43,14 @@ import {
   isbnsOf,
   parseInfoLite,
   parseMainPic,
+  parseWereadSearch,
   parseWorksEditions,
   parseWorksLink,
   pickNewestEdition,
+  pickWereadEditions,
   titleQueries,
   toIsbn13,
+  wereadCoverAt,
   yearOf,
 } from './lib/covers.mjs';
 import {
@@ -1997,4 +2000,70 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
   assert.equal(isBlockPage(normal, 200), false);
   const works = `<html><body><div class="bkses clearfix">…</div>${'z'.repeat(9000)}</body></html>`;
   assert.equal(isBlockPage(works, 200), false);
+});
+
+/* ------------------------------------------------------------------ */
+/* 微信读书通道（第 170 轮：豆瓣 HTML 被限流时的第二条封面通道）        */
+/* ------------------------------------------------------------------ */
+
+test('微信读书：检索回执解析（带出版社、译者与评分人数）', () => {
+  const json = {
+    books: [
+      {
+        bookInfo: {
+          bookId: 3300024305,
+          title: '占星术杀人魔法（全新修订版）',
+          author: '[日]岛田庄司',
+          translator: '吕灵芝',
+          publisher: '新星出版社',
+          cover: 'https://cdn.weread.qq.com/weread/cover/5/3300024305/s_3300024305.jpg',
+          newRating: 766,
+          newRatingCount: 4096,
+        },
+      },
+      { bookInfo: { title: '没有 bookId 的条目' } },
+    ],
+  };
+  const list = parseWereadSearch(json);
+  assert.equal(list.length, 1, '缺 bookId 的条目要丢掉');
+  assert.deepEqual(list[0], {
+    bookId: '3300024305',
+    title: '占星术杀人魔法（全新修订版）',
+    author: '[日]岛田司司'.replace('司司', '庄司'),
+    translator: '吕灵芝',
+    publisher: '新星出版社',
+    cover: 'https://cdn.weread.qq.com/weread/cover/5/3300024305/s_3300024305.jpg',
+    rating: 766,
+    ratingCount: 4096,
+  });
+  assert.deepEqual(parseWereadSearch(null), []);
+});
+
+test('微信读书：封面按档取图（s_ 缩略 → tN_ 大图）', () => {
+  const u = 'https://cdn.weread.qq.com/weread/cover/5/3300024305/s_3300024305.jpg';
+  assert.equal(wereadCoverAt(u, 't3'), 'https://cdn.weread.qq.com/weread/cover/5/3300024305/t3_3300024305.jpg');
+  assert.equal(wereadCoverAt(u, 't9'), 'https://cdn.weread.qq.com/weread/cover/5/3300024305/t9_3300024305.jpg');
+  // 已经是 tN_ 的地址要能再换档
+  assert.equal(wereadCoverAt(wereadCoverAt(u, 't3'), 't5').includes('/t5_'), true);
+  assert.equal(wereadCoverAt(''), '');
+});
+
+test('微信读书：挑版本要题名对得上、作者也得吻合', () => {
+  const book = { title: '狱门岛', author: '横沟正史' };
+  const list = [
+    { bookId: '1', title: '狱门岛', author: '[日]横沟正史', publisher: '南海出版公司', cover: 'a.jpg', ratingCount: 100 },
+    { bookId: '2', title: '金田一探案集03：狱门岛', author: '[日]横沟正史', publisher: '南海出版公司', cover: 'b.jpg', ratingCount: 50 },
+    { bookId: '3', title: '狱门岛', author: '别人的书', publisher: '某某社', cover: 'c.jpg', ratingCount: 999 },
+    { bookId: '4', title: '恶魔的彩球歌', author: '[日]横沟正史', publisher: '南海出版公司', cover: 'd.jpg', ratingCount: 80 },
+  ];
+  const picks = pickWereadEditions(book, list, { limit: 3 });
+  assert.deepEqual(
+    picks.map((p) => p.bookId),
+    ['1', '2'],
+    '题名完全一致的排前面；作者不符（3）与题名不沾边（4）都要排除',
+  );
+  // 库内题名带丛编前缀时，微信读书的短题名也要能认出来
+  const picks2 = pickWereadEditions({ title: '金田一探案集03：狱门岛', author: '横沟正史' }, list, { limit: 3 });
+  assert.ok(picks2.some((p) => p.bookId === '1'));
+  assert.deepEqual(pickWereadEditions(book, [], { limit: 3 }), []);
 });

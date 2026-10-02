@@ -28,6 +28,18 @@ export function editionUrl(bookId, edition) {
 }
 
 /**
+ * 一个版本的图片地址。
+ *
+ * 只有本地文件的版本（豆瓣来的）走 `web/covers/`；
+ * **只存链接的版本**（微信读书来的，`remote: true`）直接用对方 CDN 的地址——
+ * 那条 CDN 允许直接外链（实测无 referer 也 200），所以几百 MB 的电子版封面不必进仓库。
+ */
+export function editionImage(bookId, edition) {
+  if (edition?.remote) return edition.pic || COVER_PLACEHOLDER;
+  return edition?.file ? new URL(`../../covers/${edition.file}`, import.meta.url).href : coverUrl(bookId) || COVER_PLACEHOLDER;
+}
+
+/**
  * 一块封面。
  *
  * @param {object} book 作品记录
@@ -119,7 +131,12 @@ export async function editionsOf(bookId) {
   const data = await loadEditions();
   if (!data) return null;
   const list = data?.books?.[bookId] || [];
-  return list.map((e) => ({ ...e, url: editionUrl(bookId, e), largeUrl: e.pic ? toLargePic(e.pic) : '' }));
+  return list.map((e) => ({
+    ...e,
+    url: editionImage(bookId, e),
+    // 大图：本地版去豆瓣取 l 档；只存链接的版本本来就有大图档（微信读书 t9_）
+    largeUrl: e.remote ? e.largePic || e.pic || '' : e.pic ? toLargePic(e.pic) : '',
+  }));
 }
 
 /**
@@ -135,6 +152,7 @@ export function openCoverViewer(book, editions, startIndex = 0) {
     const e = editions[index];
     const collected = e.collected ? ' · 本库所收版本' : '';
     const publisher = [e.publisher, e.translator ? `${e.translator} 译` : ''].filter(Boolean).join(' · ');
+    const source = e.remote ? ` · 封面来自${e.source || '微信读书'}` : '';
     return html`
       <div class="cover-viewer">
         <div class="cover-viewer-stage">
@@ -144,8 +162,8 @@ export function openCoverViewer(book, editions, startIndex = 0) {
           <strong>《${book.title}》</strong>
           <p class="small">${e.year ? `${e.year} 年版` : '出版年未标'}${publisher ? ` · ${publisher}` : ''}${raw(collected)}</p>
           <p class="small muted">
-            第 ${String(index + 1)} / ${String(editions.length)} 版${e.primary ? ' · 封面用的是这一版' : ''}
-            ${e.subjectId ? raw(html` · <a href="https://book.douban.com/subject/${e.subjectId}/" target="_blank" rel="noopener noreferrer">豆瓣条目 ${e.subjectId}</a>`) : ''}
+            第 ${String(index + 1)} / ${String(editions.length)} 版${e.primary ? ' · 封面用的是这一版' : ''}${raw(source)}
+            ${e.subjectId ? raw(html` · <a href="${e.remote ? `https://weread.qq.com/web/search/global?keyword=${encodeURIComponent(book.title)}` : `https://book.douban.com/subject/${e.subjectId}/`}" target="_blank" rel="noopener noreferrer">${e.remote ? '微信读书' : `豆瓣条目 ${e.subjectId}`}</a>`) : ''}
           </p>
         </div>
       </div>
@@ -194,6 +212,8 @@ export function openCoverViewer(book, editions, startIndex = 0) {
     const img = qs('.cover-viewer-img', scope || root);
     const big = editions[index].largeUrl;
     if (!img || !big) return;
+    // 非浏览器环境（视图测试用的 DOM 桩）没有 Image，跳过大图升级即可
+    if (typeof Image === 'undefined') return;
     const probe = new Image();
     probe.onload = () => {
       if (img.isConnected) img.src = big;
@@ -249,6 +269,7 @@ export function renderEditionGallery(book, editions) {
               ${e.translator ? html`<span class="edition-pub">${e.translator} 译</span>` : ''}
               ${e.primary ? html`<span class="badge badge-ok">封面用这版</span>` : ''}
               ${e.collected ? html`<span class="badge">本库所收</span>` : ''}
+              ${e.remote ? html`<span class="badge">${e.source || '微信读书'}</span>` : ''}
             </span>
           </button>
         `,

@@ -52,6 +52,7 @@ const MATCH_CODE = {
   'subject-id': 'S',
   'subject-id+page': 'P',
   isbn: 'I',
+  weread: 'R',
   'edition-year+title': 'Y',
   'newest+title': 'N',
   'title+year': 'T',
@@ -138,7 +139,7 @@ lines.push('export function coverCredit(id) {');
 lines.push('  const meta = COVER_ENTRIES[String(id)];');
 lines.push('  if (!meta) return null;');
 lines.push('  const [subjectId, year, code] = String(meta).split("|");');
-lines.push('  const how = { S: "与本书评分取自同一条豆瓣条目", I: "豆瓣条目页 ISBN 与馆藏著录逐位相同", P: "豆瓣条目页主图", T: "豆瓣题名与出版年均吻合", Y: "版本择优：与所收版本同年的一版", N: "版本择优：豆瓣上最新的一版", A: "豆瓣题名是库内题名的前缀，且作者吻合（弱链接，副题被省）", W: "仅豆瓣题名吻合（弱链接）" }[code] || "豆瓣";');
+lines.push('  const how = { S: "与本书评分取自同一条豆瓣条目", I: "豆瓣条目页 ISBN 与馆藏著录逐位相同", P: "豆瓣条目页主图", T: "豆瓣题名与出版年均吻合", Y: "版本择优：与所收版本同年的一版", N: "版本择优：豆瓣上最新的一版", R: "微信读书：题名与作者都吻合（豆瓣条目页当时不可用）", A: "豆瓣题名是库内题名的前缀，且作者吻合（弱链接，副题被省）", W: "仅豆瓣题名吻合（弱链接）" }[code] || "豆瓣";');
 lines.push('  return { subjectId, year, code, how, url: subjectId ? "https://book.douban.com/subject/" + subjectId + "/" : "" };');
 lines.push('}');
 lines.push('');
@@ -168,18 +169,18 @@ for (const book of books) {
   const rec = index.records?.[book.id];
   if (!rec?.editions?.length) continue;
   const list = rec.editions
-    .filter((e) => e?.file && fs.existsSync(path.join(COVERS_DIR, e.file)))
+    .filter((e) => (e?.remote ? Boolean(e.pic) : Boolean(e?.file) && fs.existsSync(path.join(COVERS_DIR, e.file))))
     .map((e) => ({
       subjectId: e.subjectId || '',
       year: e.year || '',
       publisher: e.publisher || '',
       ...(e.translator ? { translator: e.translator } : {}),
       title: e.title || book.title,
-      file: e.file,
+      ...(e.remote ? { remote: true, source: e.source || '微信读书', pic: e.pic, largePic: e.largePic || '' } : { file: e.file }),
       primary: Boolean(e.primary),
       collected: Boolean(e.collected),
       // 豆瓣原图地址（前端「看大图」时把 s 档换成 l 档按需加载，失败就退回本地这张）
-      ...(e.pic ? { pic: e.pic } : {}),
+      ...(!e.remote && e.pic ? { pic: e.pic } : {}),
     }));
   if (!list.length) continue;
   editionBooks[book.id] = list;
