@@ -12,6 +12,7 @@
 
 import http from 'node:http';
 import fs from 'node:fs/promises';
+import { gzipSync } from 'node:zlib';
 // `node:fs` 的同步侧：**`fs.watch` 只在回调式 fs 上有，promises 版没有**——
 // 第 147 轮第一次写热加载时就是用 `fs.watch`（= `fs.promises.watch`，不存在）触发了 TypeError，
 // 被兜底 catch 吞掉，表现为「监听没生效但也不报错」。测试当场抓到了这一点。
@@ -141,7 +142,17 @@ async function getAllBooks({ fresh = false } = {}) {
 
 function invalidateCache() {
   mergedCache = null;
+  /** 全量响应体（含其 gzip 结果）也一并作废：数据变了就不能再端出旧的那一份 */
+  booksPayloadCache = null;
 }
+
+/**
+ * `/api/books` 的响应体缓存（第 173 轮）。
+ *
+ * 全量 3429 部的 JSON 有 7.5 MB：每次请求都重新 `stripVault` + `stringify` 是白烧 CPU，
+ * 而这份数据**只在知识库重载时才变**（`invalidateCache()` 已经覆盖了添加/编辑/删除/热加载）。
+ */
+let booksPayloadCache = null;
 
 /* ------------------------------------------------------------------ */
 /* 种子知识库的热加载（第 147 轮）                                     */
@@ -204,20 +215,48 @@ function startSeedWatcher() {
 /* HTTP 工具                                                           */
 /* ------------------------------------------------------------------ */
 
-function sendJSON(res, status, payload) {
-  const body = JSON.stringify(payload, null, 2);
-  res.writeHead(status, {
-    'content-type': 'application/json; charset=utf-8',
-    'content-length': Buffer.byteLength(body),
+/**
+ * 统一的响应出口：**压缩 + 去掉缩进 + 允许缓存复用**（第 173 轮）。
+ *
+ * 起因是部署时的一个真问题：`/api/books` 全量 3429 部、**11.5 MB**、单次要 3.9 秒——
+ * 那是「每个访客每次打开页面都要重下一遍」的量级。三处都不改功能，纯省：
+ *   1. `JSON.stringify(payload, null, 2)` 的**两空格缩进**白占约三成体积 → 改成紧凑输出；
+ *   2. 客户端支持 gzip 时压一遍（JSON 重复度高，实测 11.5MB → 1MB 上下）；
+ *   3. 全量响应的**压缩结果缓存**起来（数据一变就作废），不必每次重压。
+ */
+const gzipCache = new WeakMap();
+
+function sendBuffer(res, status, buf, req, type = 'application/json; charset=utf-8') {
+  const headers = {
+    'content-type': type,
     'cache-control': 'no-store',
     'access-control-allow-origin': '*',
     'x-content-type-options': 'nosniff',
-  });
+  };
+  let body = buf;
+  const accept = String(req?.headers?.['accept-encoding'] ?? '');
+  if (/\bgzip\b/i.test(accept) && buf.length >= 1024) {
+    let gz = gzipCache.get(buf);
+    if (!gz) {
+      gz = gzipSync(buf);
+      gzipCache.set(buf, gz);
+    }
+    body = gz;
+    headers['content-encoding'] = 'gzip';
+    headers.vary = 'accept-encoding';
+  }
+  headers['content-length'] = body.length;
+  res.writeHead(status, headers);
   res.end(body);
 }
 
-function sendError(res, status, message, details = null) {
-  sendJSON(res, status, { ok: false, error: message, details });
+function sendJSON(res, status, payload, req = null) {
+  // 紧凑输出：同样的数据，去掉缩进后小约三成（前端本来也不读带缩进的 JSON）
+  sendBuffer(res, status, Buffer.from(JSON.stringify(payload), 'utf8'), req);
+}
+
+function sendError(res, status, message, details = null, req = null) {
+  sendJSON(res, status, { ok: false, error: message, details }, req);
 }
 
 async function readBody(req, limitBytes = 1_000_000) {
@@ -348,9 +387,12 @@ async function handleApi(req, res, url) {
 
   // GET /api/books
   if (segments[0] === 'books' && segments.length === 1 && method === 'GET') {
-    const books = await getAllBooks();
-    const spoilerFree = books.map((b) => stripVault(b)); // 保险库永不出网
-    sendJSON(res, 200, { ok: true, count: spoilerFree.length, books: spoilerFree });
+    if (!booksPayloadCache) {
+      const books = await getAllBooks();
+      const spoilerFree = books.map((b) => stripVault(b)); // 保险库永不出网
+      booksPayloadCache = Buffer.from(JSON.stringify({ ok: true, count: spoilerFree.length, books: spoilerFree }), 'utf8');
+    }
+    sendBuffer(res, 200, booksPayloadCache, req);
     return true;
   }
 

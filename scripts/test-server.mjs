@@ -14,6 +14,8 @@
  */
 
 import { spawn } from 'node:child_process';
+import { request as httpRequest } from 'node:http';
+import { gunzipSync } from 'node:zlib';
 import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -446,6 +448,67 @@ async function main() {
       '静态资源禁用强缓存（no-cache，避免用户看到旧代码）',
       (cssRes.headers.get('cache-control') ?? '').includes('no-cache'),
       cssRes.headers.get('cache-control') ?? '',
+    );
+
+    /**
+     * 封面图是例外（第 173 轮）：文件名稳定（`<作品 id>.webp`），给一天缓存，
+     * 省掉「每张图每次翻页都回源校验」的那一串往返。与上一条看似矛盾，其实是两回事：
+     * **代码要立即生效，图片不必**。
+     */
+    const coverRes = await fetch(`${BASE}/covers/_placeholder.svg`);
+    check(
+      '封面图允许缓存（max-age，减少逐张回源）',
+      /max-age=\d+/.test(coverRes.headers.get('cache-control') ?? ''),
+      coverRes.headers.get('cache-control') ?? '(无)',
+    );
+
+    /* ---------- 全量接口的传输量（部署时最该盯的数字） ---------- */
+
+    const plainRes = await fetch(`${BASE}/api/books`, { headers: { 'accept-encoding': 'identity' } });
+    const plainText = await plainRes.text();
+    const plainKB = Buffer.byteLength(plainText, 'utf8') / 1024;
+    check('全量接口返回紧凑 JSON（不带缩进）', !plainText.startsWith('{\n  "ok"'), `首 20 字符：${plainText.slice(0, 20)}`);
+
+    /**
+     * 注意用**裸 http 请求**量线上字节：`fetch`（undici）会自动解压，
+     * 拿到的长度是解压后的，量不出「省了多少流量」——第一版就是这么量错的。
+     */
+    const rawGet = (path, acceptEncoding) =>
+      new Promise((resolve, reject) => {
+        const req = httpRequest(
+          { host: '127.0.0.1', port: PORT, path, method: 'GET', headers: { 'accept-encoding': acceptEncoding } },
+          (res) => {
+            const chunks = [];
+            res.on('data', (chunk) => chunks.push(chunk));
+            res.on('end', () => resolve({ status: res.statusCode, headers: res.headers, bytes: Buffer.concat(chunks).length, buf: Buffer.concat(chunks) }));
+          },
+        );
+        req.on('error', reject);
+        req.end();
+      });
+
+    const plainRaw = await rawGet('/api/books', 'identity');
+    const gzipRaw = await rawGet('/api/books', 'gzip');
+    check(
+      '全量接口支持 gzip（线上字节数显著下降）',
+      String(gzipRaw.headers['content-encoding'] ?? '').includes('gzip') && gzipRaw.bytes < plainRaw.bytes * 0.5,
+      `未压缩 ${(plainRaw.bytes / 1024 / 1024).toFixed(2)}MB → gzip ${(gzipRaw.bytes / 1024 / 1024).toFixed(2)}MB`,
+    );
+    check(
+      '压缩后的 JSON 解开来仍可解析且条数一致',
+      (() => {
+        try {
+          const data = JSON.parse(gunzipSync(gzipRaw.buf).toString('utf8'));
+          return data.ok === true && Array.isArray(data.books) && data.books.length === data.count;
+        } catch {
+          return false;
+        }
+      })(),
+    );
+    check(
+      '压缩流与未压缩流内容一致',
+      gunzipSync(gzipRaw.buf).equals(plainRaw.buf),
+      'gzip 解压后应当与 identity 请求逐字节相同',
     );
 
     const jsRes = await fetch(`${BASE}/js/ui/dom.js`);

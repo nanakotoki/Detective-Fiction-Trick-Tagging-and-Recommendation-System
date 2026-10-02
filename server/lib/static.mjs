@@ -235,8 +235,17 @@ export async function serveStatic(req, res, options) {
    * 正确做法是 `no-cache`（注意不是 no-store）：浏览器仍会缓存，但每次都会带
    * If-None-Match 回来校验，未变更时服务端返回 304，既省流量又能立即生效。
    * 只有文件名里确实带内容哈希的资源才使用长缓存。
+   *
+   * **封面图是例外**（第 173 轮）：`web/covers/<作品 id>.webp` 这种名字是稳定的，
+   * 一天之内不会变；给它们 1 天缓存能省掉「每张图每次翻页都回源校验」的那一串请求
+   * （一页 48 张卡就是 48 次往返）。真换了封面，最多一天后自然更新。
    */
-  const cacheControl = immutable ? 'public, max-age=31536000, immutable' : 'no-cache';
+  const isCover = /[\\/]covers[\\/]/i.test(filePath) && /\.(webp|jpe?g|png|svg)$/i.test(ext);
+  const cacheControl = immutable
+    ? 'public, max-age=31536000, immutable'
+    : isCover
+      ? 'public, max-age=86400'
+      : 'no-cache';
 
   res.writeHead(200, {
     'content-type': contentTypeFor(filePath),
