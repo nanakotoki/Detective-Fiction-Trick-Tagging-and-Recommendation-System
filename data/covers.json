@@ -2,7 +2,7 @@
   "format": "detective-fiction-covers",
   "version": 1,
   "note": "封面索引：每条记录说明这部作品的封面文件、来源条目与同版判据。图片本地存放在 web/covers/，文件名即作品 id。missing 里的条目页面上用 web/covers/_placeholder.svg 占位。",
-  "generatedAt": "2026-10-02T13:43:26.787Z",
+  "generatedAt": "2026-10-02T14:06:01.740Z",
   "records": {
     "honkaku-001": {
       "file": "honkaku-001.webp",
@@ -63,41 +63,53 @@
     },
     "honkaku-004": {
       "file": "honkaku-004.webp",
-      "bytes": 15494,
+      "bytes": 24204,
       "width": 270,
-      "height": 380,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/11528301/",
-      "subjectId": "11528301",
-      "matched": "subject-id",
+      "sourceUrl": "https://book.douban.com/subject/35923389/",
+      "subjectId": "35923389",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "11528301",
+        "year": "2012",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "八墓村",
-        "author": "[日] 横沟正史",
-        "year": "2012"
+        "author": "横沟正史",
+        "year": "2022-8-4"
       },
       "bookYear": "2021",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:46:35.671Z"
+      "fetchedAt": "2026-10-02T13:54:22.209Z"
     },
     "honkaku-006": {
       "file": "honkaku-006.webp",
-      "bytes": 15728,
+      "bytes": 7298,
       "width": 270,
-      "height": 406,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26771717/",
-      "subjectId": "26771717",
-      "matched": "subject-id",
+      "sourceUrl": "https://book.douban.com/subject/36936028/",
+      "subjectId": "36936028",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35309346",
+        "year": "2021",
+        "matched": "newest+title"
+      },
+      "query": "版本择优（2024）",
       "edition": {
-        "title": "十角馆事件",
-        "author": "[日] 绫辻行人",
-        "year": "2016"
+        "title": "十角馆事件（盒装）",
+        "author": "绫辻行人",
+        "year": "2024-10"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:46:37.611Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:54:25.589Z"
     },
     "honkaku-008": {
       "file": "honkaku-008.webp",
@@ -238,23 +250,28 @@
     },
     "shinhonkaku-001": {
       "file": "shinhonkaku-001.webp",
-      "bytes": 13534,
+      "bytes": 10082,
       "width": 270,
-      "height": 391,
+      "height": 359,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3211779/",
-      "subjectId": "3211779",
-      "matched": "subject-id",
-      "query": "嫌疑人X的献身",
+      "sourceUrl": "https://book.douban.com/subject/25924253/",
+      "subjectId": "25924253",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3211779",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "嫌疑人X的献身",
-        "author": "[日] 东野圭吾",
-        "year": "2008"
+        "author": "东野圭吾",
+        "year": "2014-6-1"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:48:18.813Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:54:29.855Z"
     },
     "shinhonkaku-002": {
       "file": "shinhonkaku-002.webp",
@@ -578,23 +595,28 @@
     },
     "western-004": {
       "file": "western-004.webp",
-      "bytes": 7968,
+      "bytes": 26040,
       "width": 270,
-      "height": 399,
+      "height": 440,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26292535/",
-      "subjectId": "26292535",
-      "matched": "subject-id",
-      "query": "帷幕",
+      "sourceUrl": "https://book.douban.com/subject/35615063/",
+      "subjectId": "35615063",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26292535",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
         "title": "帷幕",
         "author": "[英] 阿加莎·克里斯蒂 (Dame Agatha Christie)",
-        "year": "2015"
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:48:45.998Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:37.466Z"
     },
     "western-005": {
       "file": "western-005.webp",
@@ -1398,23 +1420,28 @@
     },
     "modern-012": {
       "file": "modern-012.webp",
-      "bytes": 19616,
+      "bytes": 11618,
       "width": 270,
-      "height": 380,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/24541883/",
-      "subjectId": "24541883",
-      "matched": "subject-id",
-      "query": "消失的爱人",
+      "sourceUrl": "https://book.douban.com/subject/27014524/",
+      "subjectId": "27014524",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "24541883",
+        "year": "2013",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "消失的爱人",
         "author": "吉莉安·弗琳",
-        "year": "2013"
+        "year": "2017-6-1"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:49:55.331Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:46.211Z"
     },
     "honkaku2-003": {
       "file": "honkaku2-003.webp",
@@ -1958,23 +1985,28 @@
     },
     "western2-015": {
       "file": "western2-015.webp",
-      "bytes": 10254,
+      "bytes": 6684,
       "width": 270,
-      "height": 395,
+      "height": 359,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1248320/",
-      "subjectId": "1248320",
-      "matched": "subject-id",
-      "query": "博来·法拉先生",
+      "sourceUrl": "https://book.douban.com/subject/25916524/",
+      "subjectId": "25916524",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1248320",
+        "year": "2003",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2007）",
       "edition": {
         "title": "博来·法拉先生",
-        "author": "[英] 约瑟芬·铁伊",
-        "year": "2003"
+        "author": "[英]约瑟芬·铁伊",
+        "year": "2007"
       },
       "bookYear": "2007",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:50:40.933Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:47.964Z"
     },
     "western2-016": {
       "file": "western2-016.webp",
@@ -3418,23 +3450,28 @@
     },
     "opac101-013": {
       "file": "opac101-013.webp",
-      "bytes": 20634,
+      "bytes": 20352,
       "width": 270,
-      "height": 390,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37130268/",
-      "subjectId": "37130268",
-      "matched": "subject-id",
-      "query": "我是异类 你是怪物",
+      "sourceUrl": "https://book.douban.com/subject/37669062/",
+      "subjectId": "37669062",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "37130268",
+        "year": "2025",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
-        "title": "我是異類，你是怪物",
-        "author": "白井智之",
-        "year": "2025"
+        "title": "我是异类，你是怪物",
+        "author": "[日] 白井智之",
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:52:50.830Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:49.310Z"
     },
     "opac102-001": {
       "file": "opac102-001.webp",
@@ -4418,23 +4455,28 @@
     },
     "opac106-001": {
       "file": "opac106-001.webp",
-      "bytes": 15826,
+      "bytes": 26878,
       "width": 270,
-      "height": 382,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35094679/",
-      "subjectId": "35094679",
-      "matched": "subject-id",
-      "query": "失踪假日",
+      "sourceUrl": "https://book.douban.com/subject/36915376/",
+      "subjectId": "36915376",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35094679",
+        "year": "2020",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
         "title": "失踪假日",
         "author": "[日] 乙一",
-        "year": "2020"
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:54:20.661Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:54.409Z"
     },
     "opac106-002": {
       "file": "opac106-002.webp",
@@ -4678,23 +4720,28 @@
     },
     "christie109-002": {
       "file": "christie109-002.webp",
-      "bytes": 9632,
+      "bytes": 5582,
       "width": 270,
-      "height": 410,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/25877118/",
-      "subjectId": "25877118",
-      "matched": "subject-id",
-      "query": "魔手",
+      "sourceUrl": "https://book.douban.com/subject/36370697/",
+      "subjectId": "36370697",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "25877118",
+        "year": "2014",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "魔手",
         "author": "阿加莎·克里斯蒂",
-        "year": "2014"
+        "year": "2023-4"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:54:43.161Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:55:58.976Z"
     },
     "christie109-003": {
       "file": "christie109-003.webp",
@@ -4898,23 +4945,28 @@
     },
     "modern2-008": {
       "file": "modern2-008.webp",
-      "bytes": 9508,
-      "width": 190,
-      "height": 271,
+      "bytes": 14014,
+      "width": 270,
+      "height": 386,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6832303/",
-      "subjectId": "6832303",
-      "matched": "subject-id",
-      "query": "别相信任何人",
+      "sourceUrl": "https://book.douban.com/subject/28665020/",
+      "subjectId": "28665020",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6832303",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "别相信任何人",
-        "author": "[英]S.J.沃森",
-        "year": "2011"
+        "author": "S.J. 沃森",
+        "year": "2018-3-1"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:03.128Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:03.975Z"
     },
     "modern2-010": {
       "file": "modern2-010.webp",
@@ -5038,83 +5090,103 @@
     },
     "chris110-001": {
       "file": "chris110-001.webp",
-      "bytes": 10494,
+      "bytes": 6012,
       "width": 270,
-      "height": 410,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30212422/",
-      "subjectId": "30212422",
-      "matched": "subject-id",
-      "query": "怪钟疑案",
+      "sourceUrl": "https://book.douban.com/subject/36490810/",
+      "subjectId": "36490810",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "30212422",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "怪钟疑案",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2018"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2023-8"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:18.823Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:11.248Z"
     },
     "chris110-002": {
       "file": "chris110-002.webp",
-      "bytes": 11250,
+      "bytes": 11546,
       "width": 270,
       "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27593007/",
-      "subjectId": "27593007",
-      "matched": "title",
-      "query": "H庄园的午餐",
+      "sourceUrl": "https://book.douban.com/subject/36246654/",
+      "subjectId": "36246654",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27593007",
+        "year": "2018",
+        "matched": "title"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "H庄园的午餐",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2018"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2023-2"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:20.365Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:16.096Z"
     },
     "chris110-003": {
       "file": "chris110-003.webp",
-      "bytes": 12168,
+      "bytes": 12304,
       "width": 270,
       "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/25905266/",
-      "subjectId": "25905266",
-      "matched": "subject-id",
-      "query": "桑苏西来客",
+      "sourceUrl": "https://book.douban.com/subject/35948266/",
+      "subjectId": "35948266",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "25905266",
+        "year": "2014",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "桑苏西来客",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2014"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2023-12"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:21.938Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:20.879Z"
     },
     "chris110-004": {
       "file": "chris110-004.webp",
-      "bytes": 17552,
+      "bytes": 12050,
       "width": 270,
-      "height": 442,
+      "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1573670/",
-      "subjectId": "1573670",
-      "matched": "subject-id+page",
-      "query": "破镜谋杀案",
+      "sourceUrl": "https://book.douban.com/subject/25986370/",
+      "subjectId": "25986370",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1573670",
+        "year": "2007",
+        "matched": "subject-id+page"
+      },
+      "query": "版本择优（2014）",
       "edition": {
-        "title": "The Mirror Crack’d From Side to Side",
+        "title": "破镜谋杀案",
         "author": "阿加莎·克里斯蒂",
-        "year": "2007-10-15"
+        "year": "2014-10"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:25.189Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:24.858Z"
     },
     "chris110-005": {
       "file": "chris110-005.webp",
@@ -5138,43 +5210,53 @@
     },
     "chris110-006": {
       "file": "chris110-006.webp",
-      "bytes": 12078,
+      "bytes": 12276,
       "width": 270,
       "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27063586/",
-      "subjectId": "27063586",
-      "matched": "subject-id",
-      "query": "奉命谋杀",
+      "sourceUrl": "https://book.douban.com/subject/36067692/",
+      "subjectId": "36067692",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27063586",
+        "year": "2017",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "奉命谋杀",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2017"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2022-8"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:28.281Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:29.379Z"
     },
     "chris110-007": {
       "file": "chris110-007.webp",
-      "bytes": 6546,
+      "bytes": 10588,
       "width": 270,
-      "height": 340,
+      "height": 398,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26413662/",
-      "subjectId": "26413662",
-      "matched": "subject-id",
-      "query": "灰马酒店",
+      "sourceUrl": "https://book.douban.com/subject/36212483/",
+      "subjectId": "36212483",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26413662",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "灰马酒店",
         "author": "阿加莎·克里斯蒂",
-        "year": "2015"
+        "year": "2022-12"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:29.850Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:33.644Z"
     },
     "chris110-008": {
       "file": "chris110-008.webp",
@@ -5198,23 +5280,28 @@
     },
     "chris110-009": {
       "file": "chris110-009.webp",
-      "bytes": 7064,
+      "bytes": 4648,
       "width": 270,
-      "height": 402,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30354231/",
-      "subjectId": "30354231",
-      "matched": "subject-id",
-      "query": "雪地上的女尸",
+      "sourceUrl": "https://book.douban.com/subject/36019455/",
+      "subjectId": "36019455",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "30354231",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "雪地上的女尸",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2018"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2022-7"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:33.060Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:37.730Z"
     },
     "chris110-010": {
       "file": "chris110-010.webp",
@@ -5318,23 +5405,28 @@
     },
     "series111-003": {
       "file": "series111-003.webp",
-      "bytes": 11768,
+      "bytes": 11906,
       "width": 270,
       "height": 409,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30236316/",
-      "subjectId": "30236316",
-      "matched": "subject-id",
-      "query": "伯特伦旅馆",
+      "sourceUrl": "https://book.douban.com/subject/36620394/",
+      "subjectId": "36620394",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "30236316",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "伯特伦旅馆",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2018"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2023-10"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:55:42.475Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:42.479Z"
     },
     "series111-004": {
       "file": "series111-004.webp",
@@ -5598,63 +5690,78 @@
     },
     "src112-001": {
       "file": "src112-001.webp",
-      "bytes": 10232,
+      "bytes": 5386,
       "width": 270,
-      "height": 411,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27595109/",
-      "subjectId": "27595109",
-      "matched": "subject-id",
-      "query": "意外来客",
+      "sourceUrl": "https://book.douban.com/subject/36620396/",
+      "subjectId": "36620396",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27595109",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "意外来客",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2018"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2023-10"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:05.436Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:46.208Z"
     },
     "src112-002": {
       "file": "src112-002.webp",
-      "bytes": 8926,
+      "bytes": 7072,
       "width": 270,
-      "height": 412,
+      "height": 319,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27201059/",
-      "subjectId": "27201059",
-      "matched": "subject-id",
-      "query": "黑咖啡",
+      "sourceUrl": "https://book.douban.com/subject/36019451/",
+      "subjectId": "36019451",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27201059",
+        "year": "2017",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "黑咖啡",
-        "author": "[英] 阿加莎·克里斯蒂 (Dame Agatha Christie)",
-        "year": "2017"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2022-7"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:07.350Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:50.765Z"
     },
     "src112-003": {
       "file": "src112-003.webp",
-      "bytes": 10662,
+      "bytes": 10788,
       "width": 270,
       "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/25731633/",
-      "subjectId": "25731633",
-      "matched": "subject-id",
-      "query": "天涯过客",
+      "sourceUrl": "https://book.douban.com/subject/36165018/",
+      "subjectId": "36165018",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "25731633",
+        "year": "2014",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "天涯过客",
-        "author": "[英] 阿加莎·克里斯蒂",
-        "year": "2014"
+        "author": "阿加莎·克里斯蒂",
+        "year": "2022-11"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:09.117Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:55.438Z"
     },
     "src112-004": {
       "file": "src112-004.webp",
@@ -5678,23 +5785,28 @@
     },
     "src112-005": {
       "file": "src112-005.webp",
-      "bytes": 17982,
+      "bytes": 15474,
       "width": 270,
-      "height": 409,
+      "height": 391,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4259340/",
-      "subjectId": "4259340",
-      "matched": "subject-id",
-      "query": "恶狼之夜",
+      "sourceUrl": "https://book.douban.com/subject/36609795/",
+      "subjectId": "36609795",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4259340",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "恶狼之夜",
         "author": "[法] 保罗·霍尔特",
-        "year": "2010"
+        "year": "2023"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:12.345Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:56.862Z"
     },
     "src112-006": {
       "file": "src112-006.webp",
@@ -5783,18 +5895,23 @@
       "height": 426,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27109948/",
-      "subjectId": "27109948",
-      "matched": "subject-id",
-      "query": "黑贵妇",
+      "sourceUrl": "https://book.douban.com/subject/36075868/",
+      "subjectId": "36075868",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27109948",
+        "year": "2017",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "黑贵妇",
-        "author": "[日] 西泽保彦",
-        "year": "2017"
+        "author": "西泽保彦",
+        "year": "2022-12"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:20.752Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:56:59.965Z"
     },
     "src112-011": {
       "file": "src112-011.webp",
@@ -5838,23 +5955,28 @@
     },
     "src112-013": {
       "file": "src112-013.webp",
-      "bytes": 19340,
+      "bytes": 15404,
       "width": 270,
-      "height": 360,
+      "height": 409,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/33462080/",
-      "subjectId": "33462080",
-      "matched": "subject-id",
-      "query": "繁花将逝",
+      "sourceUrl": "https://book.douban.com/subject/37168240/",
+      "subjectId": "37168240",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "33462080",
+        "year": "2019",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
-        "title": "繁花將逝",
-        "author": "伽古屋圭市",
-        "year": "2019"
+        "title": "繁花将逝",
+        "author": "[日] 伽古屋圭市",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:25.603Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:01.417Z"
     },
     "src112-014": {
       "file": "src112-014.webp",
@@ -5938,23 +6060,28 @@
     },
     "hig113-002": {
       "file": "hig113-002.webp",
-      "bytes": 12136,
+      "bytes": 14132,
       "width": 270,
-      "height": 389,
+      "height": 397,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4191594/",
-      "subjectId": "4191594",
-      "matched": "subject-id",
-      "query": "绑架游戏",
+      "sourceUrl": "https://book.douban.com/subject/6831054/",
+      "subjectId": "6831054",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4191594",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2011）",
       "edition": {
         "title": "绑架游戏",
-        "author": "[日]东野圭吾",
-        "year": "2010"
+        "author": "东野圭吾",
+        "year": "2011-9"
       },
       "bookYear": "2011",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:33.944Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:05.976Z"
     },
     "hig113-003": {
       "file": "hig113-003.webp",
@@ -5978,23 +6105,28 @@
     },
     "hig113-004": {
       "file": "hig113-004.webp",
-      "bytes": 3190,
+      "bytes": 24084,
       "width": 270,
-      "height": 384,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3615061/",
-      "subjectId": "3615061",
-      "matched": "subject-id",
-      "query": "宿命",
+      "sourceUrl": "https://book.douban.com/subject/36866224/",
+      "subjectId": "36866224",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3615061",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "宿命",
         "author": "[日] 东野圭吾",
-        "year": "2009"
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:37.055Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:07.361Z"
     },
     "hig113-005": {
       "file": "hig113-005.webp",
@@ -6038,63 +6170,78 @@
     },
     "hig113-007": {
       "file": "hig113-007.webp",
-      "bytes": 10422,
+      "bytes": 28048,
       "width": 270,
-      "height": 377,
+      "height": 398,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27181607/",
-      "subjectId": "27181607",
-      "matched": "subject-id",
-      "query": "白马山庄谜案",
+      "sourceUrl": "https://book.douban.com/subject/37092930/",
+      "subjectId": "37092930",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27181607",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "白马山庄谜案",
-        "author": "[日]东野圭吾",
-        "year": "2018"
+        "author": "[日] 东野圭吾",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:41.721Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:08.828Z"
     },
     "hig113-008": {
       "file": "hig113-008.webp",
-      "bytes": 9198,
+      "bytes": 15332,
       "width": 270,
-      "height": 381,
+      "height": 376,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/23010385/",
-      "subjectId": "23010385",
-      "matched": "subject-id",
-      "query": "空中杀人现场",
+      "sourceUrl": "https://book.douban.com/subject/30487091/",
+      "subjectId": "30487091",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "23010385",
+        "year": "2013",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "空中杀人现场",
-        "author": "[日] 东野圭吾",
-        "year": "2013"
+        "author": "[日]东野圭吾",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:43.342Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:10.241Z"
     },
     "hig113-009": {
       "file": "hig113-009.webp",
-      "bytes": 11874,
+      "bytes": 11550,
       "width": 270,
-      "height": 405,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6314045/",
-      "subjectId": "6314045",
-      "matched": "subject-id",
-      "query": "以眨眼干杯",
+      "sourceUrl": "https://book.douban.com/subject/36185283/",
+      "subjectId": "36185283",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6314045",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "以眨眼干杯",
         "author": "[日] 东野圭吾",
-        "year": "2011"
+        "year": "2023"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:56:44.812Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:11.541Z"
     },
     "hig113-010": {
       "file": "hig113-010.webp",
@@ -6238,23 +6385,28 @@
     },
     "hig113-017": {
       "file": "hig113-017.webp",
-      "bytes": 18416,
+      "bytes": 17128,
       "width": 270,
-      "height": 379,
+      "height": 381,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26378462/",
-      "subjectId": "26378462",
-      "matched": "subject-id",
-      "query": "白银杰克",
+      "sourceUrl": "https://book.douban.com/subject/26878946/",
+      "subjectId": "26878946",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26378462",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "白银杰克",
-        "author": "东野圭吾",
-        "year": "2015"
+        "author": "[日] 东野圭吾",
+        "year": "2017"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:02.308Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:13.047Z"
     },
     "hig113-018": {
       "file": "hig113-018.webp",
@@ -6278,43 +6430,53 @@
     },
     "hig113-019": {
       "file": "hig113-019.webp",
-      "bytes": 7916,
+      "bytes": 19366,
       "width": 270,
-      "height": 388,
+      "height": 373,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4903189/",
-      "subjectId": "4903189",
-      "matched": "subject-id",
-      "query": "怪人们",
+      "sourceUrl": "https://book.douban.com/subject/26438214/",
+      "subjectId": "26438214",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4903189",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "怪人们",
-        "author": "(日) 东野圭吾",
-        "year": "2010"
+        "author": "东野圭吾",
+        "year": "2015-9"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:05.444Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:17.029Z"
     },
     "ranpo114-001": {
       "file": "ranpo114-001.webp",
-      "bytes": 22326,
+      "bytes": 14132,
       "width": 270,
-      "height": 411,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6060436/",
-      "subjectId": "6060436",
-      "matched": "subject-id-miss+title",
-      "query": "D坂杀人事件",
+      "sourceUrl": "https://book.douban.com/subject/36137496/",
+      "subjectId": "36137496",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6060436",
+        "year": "2011",
+        "matched": "subject-id-miss+title"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "D坂杀人事件",
-        "author": "[日] 江户川乱步",
-        "year": "2011"
+        "author": "江户川乱步",
+        "year": "2023-8"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:06.960Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:21.109Z"
     },
     "ranpo114-002": {
       "file": "ranpo114-002.webp",
@@ -6438,43 +6600,53 @@
     },
     "ranpo114-009": {
       "file": "ranpo114-009.webp",
-      "bytes": 13578,
+      "bytes": 24172,
       "width": 270,
-      "height": 387,
+      "height": 406,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1873493/",
-      "subjectId": "1873493",
-      "matched": "subject-id",
-      "query": "黄金假面人",
+      "sourceUrl": "https://book.douban.com/subject/36002942/",
+      "subjectId": "36002942",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1873493",
+        "year": "1999",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "黄金假面人",
-        "author": "江户川乱步",
-        "year": "1999年9月"
+        "author": "[日] 江户川乱步",
+        "year": "2022"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:18.305Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:22.443Z"
     },
     "ranpo114-010": {
       "file": "ranpo114-010.webp",
-      "bytes": 17932,
+      "bytes": 10744,
       "width": 270,
-      "height": 427,
+      "height": 361,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1526148/",
-      "subjectId": "1526148",
-      "matched": "subject-id",
-      "query": "假面具",
+      "sourceUrl": "https://book.douban.com/subject/37457386/",
+      "subjectId": "37457386",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1526148",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "假面具",
         "author": "江户川乱步",
-        "year": "2002"
+        "year": "2026-1"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:19.833Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:26.477Z"
     },
     "ranpo114-011": {
       "file": "ranpo114-011.webp",
@@ -6578,23 +6750,28 @@
     },
     "seicho114-006": {
       "file": "seicho114-006.webp",
-      "bytes": 11230,
+      "bytes": 14178,
       "width": 270,
-      "height": 387,
+      "height": 391,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26803473/",
-      "subjectId": "26803473",
-      "matched": "subject-id",
-      "query": "水之焰",
+      "sourceUrl": "https://book.douban.com/subject/35017613/",
+      "subjectId": "35017613",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26803473",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "水之焰",
         "author": "[日] 松本清张",
-        "year": "2016"
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:30.328Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:27.841Z"
     },
     "shimada114-001": {
       "file": "shimada114-001.webp",
@@ -6638,23 +6815,28 @@
     },
     "gap115-002": {
       "file": "gap115-002.webp",
-      "bytes": 11222,
+      "bytes": 7702,
       "width": 270,
-      "height": 395,
+      "height": 384,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1003830/",
-      "subjectId": "1003830",
-      "matched": "subject-id",
-      "query": "门后的女人",
+      "sourceUrl": "https://book.douban.com/subject/25966872/",
+      "subjectId": "25966872",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1003830",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "门后的女人",
-        "author": "[日] 横沟正史",
-        "year": "2002"
+        "author": "[日]横沟正史",
+        "year": "2014"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:35.124Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:29.579Z"
     },
     "gap115-003": {
       "file": "gap115-003.webp",
@@ -6898,23 +7080,28 @@
     },
     "gap115-018": {
       "file": "gap115-018.webp",
-      "bytes": 6976,
+      "bytes": 10944,
       "width": 270,
-      "height": 380,
+      "height": 378,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6889894/",
-      "subjectId": "6889894",
-      "matched": "subject-id",
-      "query": "鹭与雪",
+      "sourceUrl": "https://book.douban.com/subject/26860721/",
+      "subjectId": "26860721",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "6889894",
+        "year": "2012",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "鹭与雪",
-        "author": "(日)北村薰",
-        "year": "2012"
+        "author": "[日] 北村薰",
+        "year": "2017"
       },
       "bookYear": "2016",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:57:57.879Z"
+      "fetchedAt": "2026-10-02T13:57:33.408Z"
     },
     "gap115-019": {
       "file": "gap115-019.webp",
@@ -7038,23 +7225,28 @@
     },
     "gap116-005": {
       "file": "gap116-005.webp",
-      "bytes": 12974,
+      "bytes": 7166,
       "width": 270,
-      "height": 409,
+      "height": 434,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/7916086/",
-      "subjectId": "7916086",
-      "matched": "subject-id",
-      "query": "一滴烈酒",
+      "sourceUrl": "https://book.douban.com/subject/30446953/",
+      "subjectId": "30446953",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "7916086",
+        "year": "2012",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "一滴烈酒",
-        "author": "[美] 劳伦斯·布洛克",
-        "year": "2012"
+        "author": "[美]劳伦斯·布洛克",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:58:08.921Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:41.418Z"
     },
     "gap116-006": {
       "file": "gap116-006.webp",
@@ -7098,23 +7290,28 @@
     },
     "gap116-008": {
       "file": "gap116-008.webp",
-      "bytes": 21386,
-      "width": 270,
-      "height": 440,
+      "bytes": 13144,
+      "width": 240,
+      "height": 348,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/24383698/",
-      "subjectId": "24383698",
-      "matched": "subject-id",
-      "query": "恐怖谷",
+      "sourceUrl": "https://book.douban.com/subject/26777395/",
+      "subjectId": "26777395",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "24383698",
+        "year": "2013",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "恐怖谷",
-        "author": "【英】阿瑟·柯南道尔",
-        "year": "2013"
+        "author": "阿瑟·柯南·道尔",
+        "year": "2015-5"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:58:13.640Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:46.642Z"
     },
     "gap116-009": {
       "file": "gap116-009.webp",
@@ -7318,23 +7515,28 @@
     },
     "gap117-006": {
       "file": "gap117-006.webp",
-      "bytes": 10740,
-      "width": 225,
-      "height": 310,
+      "bytes": 4502,
+      "width": 270,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1556750/",
-      "subjectId": "1556750",
-      "matched": "subject-id",
-      "query": "女富翁的遗产",
+      "sourceUrl": "https://book.douban.com/subject/33476160/",
+      "subjectId": "33476160",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1556750",
+        "year": "1987",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "女富翁的遗产",
-        "author": "高木彬光",
-        "year": "1987.3"
+        "author": "[日]高木彬光",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:58:42.444Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:50.684Z"
     },
     "gap117-007": {
       "file": "gap117-007.webp",
@@ -7458,23 +7660,28 @@
     },
     "gap117-013": {
       "file": "gap117-013.webp",
-      "bytes": 10496,
+      "bytes": 5458,
       "width": 270,
-      "height": 386,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/25980198/",
-      "subjectId": "25980198",
-      "matched": "subject-id",
-      "query": "幽灵心理学",
+      "sourceUrl": "https://book.douban.com/subject/26423681/",
+      "subjectId": "26423681",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "25980198",
+        "year": "2014",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "幽灵心理学",
-        "author": "赤川次郎",
-        "year": "2014"
+        "author": "[日] 赤川次郎",
+        "year": "2015"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:58:53.433Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:51.971Z"
     },
     "gap117-014": {
       "file": "gap117-014.webp",
@@ -7618,23 +7825,28 @@
     },
     "wk118-004": {
       "file": "wk118-004.webp",
-      "bytes": 8278,
+      "bytes": 9592,
       "width": 270,
-      "height": 383,
+      "height": 378,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/11597307/",
-      "subjectId": "11597307",
-      "matched": "subject-id",
-      "query": "玻璃天",
+      "sourceUrl": "https://book.douban.com/subject/26862630/",
+      "subjectId": "26862630",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "11597307",
+        "year": "2012",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2016）",
       "edition": {
         "title": "玻璃天",
-        "author": "(日)北村薰",
-        "year": "2012"
+        "author": "北村薰",
+        "year": "2016-12"
       },
       "bookYear": "2016",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:59:07.245Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:55.860Z"
     },
     "wk118-005": {
       "file": "wk118-005.webp",
@@ -7678,23 +7890,28 @@
     },
     "wk118-007": {
       "file": "wk118-007.webp",
-      "bytes": 26464,
+      "bytes": 17208,
       "width": 270,
-      "height": 387,
+      "height": 376,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1381912/",
-      "subjectId": "1381912",
-      "matched": "subject-id",
-      "query": "迷路的新娘",
+      "sourceUrl": "https://book.douban.com/subject/25897070/",
+      "subjectId": "25897070",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1381912",
+        "year": "2000",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "迷路的新娘",
-        "author": "（日）横沟正史",
-        "year": "2000"
+        "author": "(日)横沟正史",
+        "year": "2014"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:59:11.975Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:57:57.255Z"
     },
     "wk118-008": {
       "file": "wk118-008.webp",
@@ -7778,23 +7995,28 @@
     },
     "wk118-012": {
       "file": "wk118-012.webp",
-      "bytes": 16464,
+      "bytes": 15824,
       "width": 270,
-      "height": 365,
+      "height": 389,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26314930/",
-      "subjectId": "26314930",
-      "matched": "subject-id",
-      "query": "杀手界",
+      "sourceUrl": "https://book.douban.com/subject/34786085/",
+      "subjectId": "34786085",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26314930",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
-        "title": "杀手界·疾风号",
-        "author": "(日)伊坂幸太郎",
-        "year": "2015"
+        "title": "杀手界",
+        "author": "[日] 伊坂幸太郎",
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T11:59:22.034Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:01.214Z"
     },
     "wk118-013": {
       "file": "wk118-013.webp",
@@ -9038,23 +9260,28 @@
     },
     "facet121-008": {
       "file": "facet121-008.webp",
-      "bytes": 8770,
+      "bytes": 13218,
       "width": 270,
-      "height": 390,
+      "height": 370,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4903190/",
-      "subjectId": "4903190",
-      "matched": "subject-id",
-      "query": "没有凶手的杀人夜",
+      "sourceUrl": "https://book.douban.com/subject/26438217/",
+      "subjectId": "26438217",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4903190",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "没有凶手的杀人夜",
-        "author": "(日) 东野圭吾",
-        "year": "2010"
+        "author": "东野圭吾",
+        "year": "2015"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:01:18.161Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:02.765Z"
     },
     "facet121-010": {
       "file": "facet121-010.webp",
@@ -9278,23 +9505,28 @@
     },
     "facet122-003": {
       "file": "facet122-003.webp",
-      "bytes": 28832,
-      "width": 270,
-      "height": 390,
+      "bytes": 26560,
+      "width": 245,
+      "height": 349,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26309773/",
-      "subjectId": "26309773",
-      "matched": "subject-id",
-      "query": "推理要在晚餐后.3",
+      "sourceUrl": "https://book.douban.com/subject/27172212/",
+      "subjectId": "27172212",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26309773",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2017）",
       "edition": {
-        "title": "推理要在晚餐后3",
-        "author": "(日) 东川笃哉",
-        "year": "2015"
+        "title": "推理要在晚餐后 3",
+        "author": "东川笃哉",
+        "year": "2017-12"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:01:40.027Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:07.054Z"
     },
     "facet122-004": {
       "file": "facet122-004.webp",
@@ -10158,23 +10390,28 @@
     },
     "facet125-006": {
       "file": "facet125-006.webp",
-      "bytes": 15378,
+      "bytes": 20696,
       "width": 270,
-      "height": 360,
+      "height": 391,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26840135/",
-      "subjectId": "26840135",
-      "matched": "subject-id",
-      "query": "死亡邮递",
+      "sourceUrl": "https://book.douban.com/subject/35026468/",
+      "subjectId": "35026468",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26840135",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "死亡邮递",
         "author": "[日] 松本清张",
-        "year": "2016"
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:03:03.758Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:16.180Z"
     },
     "facet125-007": {
       "file": "facet125-007.webp",
@@ -10698,23 +10935,28 @@
     },
     "author128-001": {
       "file": "author128-001.webp",
-      "bytes": 7096,
-      "width": 138,
-      "height": 202,
+      "bytes": 12262,
+      "width": 270,
+      "height": 375,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1103642/",
-      "subjectId": "1103642",
-      "matched": "subject-id",
-      "query": "化装舞会",
+      "sourceUrl": "https://book.douban.com/subject/25815410/",
+      "subjectId": "25815410",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1103642",
+        "year": "2004",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "化装舞会",
-        "author": "（日）横沟正史",
-        "year": "2004"
+        "author": "[日] 横沟正史",
+        "year": "2014"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:03:54.841Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:21.466Z"
     },
     "author128-003": {
       "file": "author128-003.webp",
@@ -10838,23 +11080,28 @@
     },
     "author128-009": {
       "file": "author128-009.webp",
-      "bytes": 17044,
+      "bytes": 9192,
       "width": 270,
-      "height": 420,
+      "height": 390,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1529604/",
-      "subjectId": "1529604",
-      "matched": "subject-id",
-      "query": "绿衣人",
+      "sourceUrl": "https://book.douban.com/subject/26686002/",
+      "subjectId": "26686002",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1529604",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2016）",
       "edition": {
         "title": "绿衣人",
-        "author": "江户川乱步",
-        "year": "2002"
+        "author": "[日] 江户川乱步",
+        "year": "2016"
       },
       "bookYear": "2016",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:04:10.023Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:28.032Z"
     },
     "author128-010": {
       "file": "author128-010.webp",
@@ -10898,23 +11145,28 @@
     },
     "author128-012": {
       "file": "author128-012.webp",
-      "bytes": 7080,
+      "bytes": 9594,
       "width": 270,
       "height": 409,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/5290397/",
-      "subjectId": "5290397",
-      "matched": "subject-id",
-      "query": "布谷鸟的蛋是谁的",
+      "sourceUrl": "https://book.douban.com/subject/26417171/",
+      "subjectId": "26417171",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "5290397",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "布谷鸟的蛋是谁的",
-        "author": "（日）东野圭吾",
-        "year": "2011"
+        "author": "东野圭吾",
+        "year": "2015-6"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:04:14.696Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:32.494Z"
     },
     "author128-013": {
       "file": "author128-013.webp",
@@ -11138,23 +11390,28 @@
     },
     "world-007": {
       "file": "world-007.webp",
-      "bytes": 15980,
+      "bytes": 17546,
       "width": 270,
-      "height": 407,
+      "height": 391,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4140380/",
-      "subjectId": "4140380",
-      "matched": "subject-id",
-      "query": "第七重解答",
+      "sourceUrl": "https://book.douban.com/subject/36665775/",
+      "subjectId": "36665775",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4140380",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
         "title": "第七重解答",
         "author": "[法] 保罗·霍尔特",
-        "year": "2010"
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:04:37.937Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:33.953Z"
     },
     "world-008": {
       "file": "world-008.webp",
@@ -11338,23 +11595,28 @@
     },
     "author130-002": {
       "file": "author130-002.webp",
-      "bytes": 15820,
+      "bytes": 22410,
       "width": 270,
-      "height": 377,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26874773/",
-      "subjectId": "26874773",
-      "matched": "subject-id",
-      "query": "黑夜的空白",
+      "sourceUrl": "https://book.douban.com/subject/35017621/",
+      "subjectId": "35017621",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26874773",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "黑夜的空白",
         "author": "[日] 松本清张",
-        "year": "2016"
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:04:55.184Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:36.039Z"
     },
     "author130-003": {
       "file": "author130-003.webp",
@@ -11858,43 +12120,53 @@
     },
     "author132-001": {
       "file": "author132-001.webp",
-      "bytes": 9118,
+      "bytes": 4738,
       "width": 270,
-      "height": 409,
+      "height": 389,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/19977974/",
-      "subjectId": "19977974",
-      "matched": "title",
-      "query": "一张俊美的脸",
+      "sourceUrl": "https://book.douban.com/subject/26824369/",
+      "subjectId": "26824369",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "19977974",
+        "year": "2012",
+        "matched": "title"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "一张俊美的脸",
-        "author": "[英] 约瑟芬·铁伊 (Josephine Tey)",
-        "year": "2012"
+        "author": "约瑟芬·铁伊",
+        "year": "2017-1"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:05:40.606Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:58:59.079Z"
     },
     "author132-002": {
       "file": "author132-002.webp",
-      "bytes": 7966,
-      "width": 250,
-      "height": 353,
+      "bytes": 4104,
+      "width": 270,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1214886/",
-      "subjectId": "1214886",
-      "matched": "title",
-      "query": "萍小姐的主意",
+      "sourceUrl": "https://book.douban.com/subject/26824364/",
+      "subjectId": "26824364",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1214886",
+        "year": "2003",
+        "matched": "title"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "萍小姐的主意",
-        "author": "[英] 约瑟芬·铁伊",
-        "year": "2003"
+        "author": "约瑟芬·铁伊",
+        "year": "2017-1-1"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:05:42.203Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:59:02.722Z"
     },
     "author132-003": {
       "file": "author132-003.webp",
@@ -12803,23 +13075,28 @@
     },
     "japan2-001": {
       "file": "japan2-001.webp",
-      "bytes": 10854,
+      "bytes": 33902,
       "width": 270,
-      "height": 399,
+      "height": 374,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3293600/",
-      "subjectId": "3293600",
-      "matched": "subject-id",
-      "query": "黑死馆杀人事件",
+      "sourceUrl": "https://book.douban.com/subject/35443154/",
+      "subjectId": "35443154",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "3293600",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
         "title": "黑死馆杀人事件",
-        "author": "[日] 小栗虫太郎",
-        "year": "2009"
+        "author": "[日本] 小栗虫太郎",
+        "year": "2021"
       },
       "bookYear": "2019",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:15:28.774Z"
+      "fetchedAt": "2026-10-02T13:59:08.897Z"
     },
     "japan2-002": {
       "file": "japan2-002.webp",
@@ -15303,23 +15580,28 @@
     },
     "clc144-001": {
       "file": "clc144-001.webp",
-      "bytes": 8938,
+      "bytes": 3954,
       "width": 270,
-      "height": 383,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1128403/",
-      "subjectId": "1128403",
-      "matched": "subject-id",
-      "query": "歌唱的沙",
+      "sourceUrl": "https://book.douban.com/subject/26824365/",
+      "subjectId": "26824365",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1128403",
+        "year": "2003",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2017）",
       "edition": {
         "title": "歌唱的沙",
-        "author": "(英国)约瑟芬·铁伊",
-        "year": "2003"
+        "author": "约瑟芬·铁伊",
+        "year": "2017-1"
       },
       "bookYear": "2017",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:19:46.704Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:59:17.406Z"
     },
     "clc144-003": {
       "file": "clc144-003.webp",
@@ -15623,23 +15905,28 @@
     },
     "clc144-023": {
       "file": "clc144-023.webp",
-      "bytes": 11626,
+      "bytes": 8532,
       "width": 270,
-      "height": 375,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1270053/",
-      "subjectId": "1270053",
-      "matched": "subject-id",
-      "query": "致命的均衡",
+      "sourceUrl": "https://book.douban.com/subject/30302908/",
+      "subjectId": "30302908",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1270053",
+        "year": "2005",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "致命的均衡",
-        "author": "（美）马歇尔・杰文斯",
-        "year": "2005"
+        "author": "[美]马歇尔·杰文斯",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:20:22.346Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:59:18.794Z"
     },
     "clc144-024": {
       "file": "clc144-024.webp",
@@ -18385,23 +18672,28 @@
     },
     "bd152-001": {
       "file": "bd152-001.webp",
-      "bytes": 18390,
+      "bytes": 17376,
       "width": 270,
-      "height": 380,
+      "height": 386,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26892808/",
-      "subjectId": "26892808",
-      "matched": "subject-id",
-      "query": "诱饵搜查官.1：触觉",
+      "sourceUrl": "https://book.douban.com/subject/35602949/",
+      "subjectId": "35602949",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26892808",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
-        "title": "诱饵搜查官 1 · 触觉",
-        "author": "[日] 山田正紀",
-        "year": "2016"
+        "title": "诱饵搜查官",
+        "author": "山田正纪",
+        "year": "2022-5"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:24:47.940Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:59:29.421Z"
     },
     "bd152-002": {
       "file": "bd152-002.webp",
@@ -19905,23 +20197,28 @@
     },
     "bd154-030": {
       "file": "bd154-030.webp",
-      "bytes": 11752,
+      "bytes": 5816,
       "width": 270,
-      "height": 395,
+      "height": 404,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1488290/",
-      "subjectId": "1488290",
-      "matched": "subject-id",
-      "query": "「黄屋」奇案",
+      "sourceUrl": "https://book.douban.com/subject/10427219/",
+      "subjectId": "10427219",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "1488290",
+        "year": "2006",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "“黄屋”奇案",
-        "author": "加斯东·勒鲁",
-        "year": "2006"
+        "author": "(法)加斯东·勒鲁",
+        "year": "2012"
       },
       "bookYear": "2025",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:27:03.029Z"
+      "fetchedAt": "2026-10-02T13:59:52.979Z"
     },
     "bd154-031": {
       "file": "bd154-031.webp",
@@ -20765,23 +21062,28 @@
     },
     "more-012": {
       "file": "more-012.webp",
-      "bytes": 14006,
+      "bytes": 5208,
       "width": 270,
-      "height": 389,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2382369/",
-      "subjectId": "2382369",
-      "matched": "subject-id",
-      "query": "第六个小夜子",
+      "sourceUrl": "https://book.douban.com/subject/30438857/",
+      "subjectId": "30438857",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "2382369",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "第六个小夜子",
-        "author": "[日]恩田陆",
-        "year": "2008年1月"
+        "author": "恩田陆",
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:20.586Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T13:59:59.963Z"
     },
     "more-013": {
       "file": "more-013.webp",
@@ -21045,23 +21347,28 @@
     },
     "shlib160-006": {
       "file": "shlib160-006.webp",
-      "bytes": 6896,
-      "width": 200,
-      "height": 321,
+      "bytes": 26362,
+      "width": 270,
+      "height": 434,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2077840/",
-      "subjectId": "2077840",
-      "matched": "subject-id",
-      "query": "弑警犯",
+      "sourceUrl": "https://book.douban.com/subject/38391645/",
+      "subjectId": "38391645",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "2077840",
+        "year": "2007",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "弑警犯",
-        "author": "[瑞典] 马伊·舍瓦尔",
-        "year": "2007"
+        "author": "马伊·舍瓦尔、佩尔·瓦勒",
+        "year": "2026-5"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:42.417Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:06.541Z"
     },
     "shlib160-008": {
       "file": "shlib160-008.webp",
@@ -21085,23 +21392,28 @@
     },
     "shlib160-009": {
       "file": "shlib160-009.webp",
-      "bytes": 12670,
+      "bytes": 7530,
       "width": 270,
-      "height": 409,
+      "height": 410,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3112705/",
-      "subjectId": "3112705",
-      "matched": "subject-id",
-      "query": "法国粉末之谜",
+      "sourceUrl": "https://book.douban.com/subject/24895783/",
+      "subjectId": "24895783",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3112705",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2013）",
       "edition": {
         "title": "法国粉末之谜",
-        "author": "埃勒里·奎因",
-        "year": "2008"
+        "author": "[美] 埃勒里·奎因",
+        "year": "2013"
       },
       "bookYear": "2013",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:45.714Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:08.237Z"
     },
     "shlib160-010": {
       "file": "shlib160-010.webp",
@@ -21125,23 +21437,28 @@
     },
     "shlib160-011": {
       "file": "shlib160-011.webp",
-      "bytes": 8574,
+      "bytes": 21518,
       "width": 270,
-      "height": 414,
+      "height": 379,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3347989/",
-      "subjectId": "3347989",
-      "matched": "subject-id",
-      "query": "另一方玩家",
+      "sourceUrl": "https://book.douban.com/subject/26323375/",
+      "subjectId": "26323375",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3347989",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "另一方玩家",
-        "author": "[美] 埃勒里·奎因",
-        "year": "2009"
+        "author": "埃勒里·奎因 (Queen",
+        "year": "2015"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:48.696Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:09.623Z"
     },
     "shlib160-012": {
       "file": "shlib160-012.webp",
@@ -21205,23 +21522,28 @@
     },
     "shlib160-015": {
       "file": "shlib160-015.webp",
-      "bytes": 13870,
+      "bytes": 16854,
       "width": 270,
-      "height": 373,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27140548/",
-      "subjectId": "27140548",
-      "matched": "subject-id",
-      "query": "掟上今日子的家计簿",
+      "sourceUrl": "https://book.douban.com/subject/35517174/",
+      "subjectId": "35517174",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27140548",
+        "year": "2017",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
-        "title": "掟上今日子的家計簿",
-        "author": "西尾維新",
-        "year": "2017"
+        "title": "掟上今日子的家计簿",
+        "author": "[日] 西尾维新",
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:55.806Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:11.002Z"
     },
     "shlib160-016": {
       "file": "shlib160-016.webp",
@@ -21245,23 +21567,28 @@
     },
     "shlib160-017": {
       "file": "shlib160-017.webp",
-      "bytes": 15038,
+      "bytes": 15904,
       "width": 270,
-      "height": 381,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27665166/",
-      "subjectId": "27665166",
-      "matched": "subject-id",
-      "query": "掟上今日子的旅行记",
+      "sourceUrl": "https://book.douban.com/subject/35517175/",
+      "subjectId": "35517175",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "27665166",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
-        "title": "掟上今日子的旅行記",
-        "author": "西尾維新",
-        "year": "2018"
+        "title": "掟上今日子的旅行记",
+        "author": "[日] 西尾维新",
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:28:58.916Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:12.354Z"
     },
     "shlib160-018": {
       "file": "shlib160-018.webp",
@@ -21345,83 +21672,103 @@
     },
     "shlib161-002": {
       "file": "shlib161-002.webp",
-      "bytes": 21686,
+      "bytes": 16014,
       "width": 270,
-      "height": 387,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2223133/",
-      "subjectId": "2223133",
-      "matched": "subject-id",
-      "query": "透明怪人",
+      "sourceUrl": "https://book.douban.com/subject/33438402/",
+      "subjectId": "33438402",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "2223133",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "透明怪人",
         "author": "江户川乱步",
-        "year": "2002"
+        "year": "2019-6-21"
       },
       "bookYear": "2021",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:06.062Z"
+      "fetchedAt": "2026-10-02T14:00:16.025Z"
     },
     "shlib161-003": {
       "file": "shlib161-003.webp",
-      "bytes": 2842,
-      "width": 150,
-      "height": 150,
+      "bytes": 17186,
+      "width": 270,
+      "height": 363,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1913386/",
-      "subjectId": "1913386",
-      "matched": "subject-id",
-      "query": "宇宙怪人",
+      "sourceUrl": "https://book.douban.com/subject/26837156/",
+      "subjectId": "26837156",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "1913386",
+        "year": "1999",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2016）",
       "edition": {
         "title": "宇宙怪人",
         "author": "江户川乱步",
-        "year": "1999"
+        "year": "2016-5"
       },
       "bookYear": "2021",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:07.427Z"
+      "fetchedAt": "2026-10-02T14:00:19.564Z"
     },
     "shlib161-004": {
       "file": "shlib161-004.webp",
-      "bytes": 12076,
-      "width": 155,
-      "height": 229,
+      "bytes": 10434,
+      "width": 270,
+      "height": 357,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1153142/",
-      "subjectId": "1153142",
-      "matched": "subject-id",
-      "query": "雾茫茫",
+      "sourceUrl": "https://book.douban.com/subject/37457383/",
+      "subjectId": "37457383",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1153142",
+        "year": "2003",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "雾茫茫",
-        "author": "江户川乱步",
-        "year": "2003"
+        "author": "[日] 江户川乱步",
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:08.836Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:20.868Z"
     },
     "shlib161-006": {
       "file": "shlib161-006.webp",
-      "bytes": 8514,
+      "bytes": 12558,
       "width": 270,
-      "height": 270,
+      "height": 358,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1399564/",
-      "subjectId": "1399564",
-      "matched": "subject-id",
-      "query": "鹅毛信",
+      "sourceUrl": "https://book.douban.com/subject/37667671/",
+      "subjectId": "37667671",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1399564",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "鹅毛信",
-        "author": "江户川乱步",
-        "year": "2002"
+        "author": "[日] 江户川乱步",
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:10.839Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:22.208Z"
     },
     "shlib161-007": {
       "file": "shlib161-007.webp",
@@ -21446,23 +21793,28 @@
     },
     "shlib161-008": {
       "file": "shlib161-008.webp",
-      "bytes": 9830,
+      "bytes": 9726,
       "width": 270,
-      "height": 386,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36185197/",
-      "subjectId": "36185197",
-      "matched": "subject-id",
-      "query": "天花板上的散步者",
+      "sourceUrl": "https://book.douban.com/subject/37359059/",
+      "subjectId": "37359059",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "36185197",
+        "year": "2023",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "天花板上的散步者",
-        "author": "江户川乱步",
-        "year": "2023"
+        "author": "[日] 江户川乱步",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:15.207Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:23.560Z"
     },
     "shlib161-009": {
       "file": "shlib161-009.webp",
@@ -21526,23 +21878,28 @@
     },
     "shlib161-014": {
       "file": "shlib161-014.webp",
-      "bytes": 12664,
+      "bytes": 32458,
       "width": 270,
-      "height": 390,
+      "height": 384,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26703641/",
-      "subjectId": "26703641",
-      "matched": "subject-id",
-      "query": "假面前夜",
+      "sourceUrl": "https://book.douban.com/subject/36865956/",
+      "subjectId": "36865956",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26703641",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
         "title": "假面前夜",
         "author": "[日] 东野圭吾",
-        "year": "2016"
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:23.234Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:24.971Z"
     },
     "shlib161-015": {
       "file": "shlib161-015.webp",
@@ -21866,23 +22223,28 @@
     },
     "shlib162-014": {
       "file": "shlib162-014.webp",
-      "bytes": 14492,
-      "width": 200,
-      "height": 302,
+      "bytes": 11694,
+      "width": 270,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3710019/",
-      "subjectId": "3710019",
-      "matched": "subject-id",
-      "query": "完全过激.下",
+      "sourceUrl": "https://book.douban.com/subject/37031259/",
+      "subjectId": "37031259",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3710019",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
-        "title": "完全過激 下",
-        "author": "西尾維新",
-        "year": "2009"
+        "title": "完全过激 下",
+        "author": "[日] 西尾维新",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:29:51.241Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:26.834Z"
     },
     "shlib162-015": {
       "file": "shlib162-015.webp",
@@ -22166,23 +22528,28 @@
     },
     "shlib163-012": {
       "file": "shlib163-012.webp",
-      "bytes": 11532,
+      "bytes": 11966,
       "width": 270,
-      "height": 417,
+      "height": 411,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3804456/",
-      "subjectId": "3804456",
-      "matched": "subject-id+page",
-      "query": "九龙",
+      "sourceUrl": "https://book.douban.com/subject/26755286/",
+      "subjectId": "26755286",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3804456",
+        "year": "2009",
+        "matched": "subject-id+page"
+      },
+      "query": "版本择优（2016）",
       "edition": {
-        "title": "Nine Dragons",
+        "title": "九龙",
         "author": "迈克尔·康奈利",
-        "year": "2009-10-13"
+        "year": "2016-4"
       },
       "bookYear": "2016",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:30:19.906Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:30.122Z"
     },
     "shlib163-013": {
       "file": "shlib163-013.webp",
@@ -22206,23 +22573,28 @@
     },
     "shlib163-014": {
       "file": "shlib163-014.webp",
-      "bytes": 4824,
+      "bytes": 13248,
       "width": 270,
-      "height": 436,
+      "height": 378,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1950214/",
-      "subjectId": "1950214",
-      "matched": "subject-id",
-      "query": "黑色回声",
+      "sourceUrl": "https://book.douban.com/subject/35123196/",
+      "subjectId": "35123196",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1950214",
+        "year": "2006",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "黑色回声",
-        "author": "[美] 迈克尔·康奈利 (Michael Connelly)",
-        "year": "2006"
+        "author": "[美] 迈克尔·康奈利",
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:30:22.646Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:31.523Z"
     },
     "shlib163-015": {
       "file": "shlib163-015.webp",
@@ -22266,23 +22638,28 @@
     },
     "shlib163-017": {
       "file": "shlib163-017.webp",
-      "bytes": 19224,
+      "bytes": 12206,
       "width": 270,
-      "height": 411,
+      "height": 396,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1365388/",
-      "subjectId": "1365388",
-      "matched": "subject-id+page",
-      "query": "消失的人",
+      "sourceUrl": "https://book.douban.com/subject/35006233/",
+      "subjectId": "35006233",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1365388",
+        "year": "2003",
+        "matched": "subject-id+page"
+      },
+      "query": "版本择优（2020）",
       "edition": {
-        "title": "The Vanished Man",
+        "title": "消失的人",
         "author": "杰夫里·迪弗",
-        "year": "2003-3-11"
+        "year": "2020-5"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:30:28.320Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:34.891Z"
     },
     "shlib163-018": {
       "file": "shlib163-018.webp",
@@ -22426,23 +22803,28 @@
     },
     "shlib164-002": {
       "file": "shlib164-002.webp",
-      "bytes": 6760,
+      "bytes": 16640,
       "width": 270,
-      "height": 386,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26411416/",
-      "subjectId": "26411416",
-      "matched": "subject-id",
-      "query": "强蚁",
+      "sourceUrl": "https://book.douban.com/subject/34989471/",
+      "subjectId": "34989471",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26411416",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "强蚁",
         "author": "[日] 松本清张",
-        "year": "2015"
+        "year": "2020"
       },
       "bookYear": "2020",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:30:41.204Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:41.432Z"
     },
     "shlib164-003": {
       "file": "shlib164-003.webp",
@@ -22486,23 +22868,28 @@
     },
     "shlib164-005": {
       "file": "shlib164-005.webp",
-      "bytes": 9378,
+      "bytes": 14322,
       "width": 270,
-      "height": 386,
+      "height": 361,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1429837/",
-      "subjectId": "1429837",
-      "matched": "subject-id",
-      "query": "黑点漩涡",
+      "sourceUrl": "https://book.douban.com/subject/30361609/",
+      "subjectId": "30361609",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1429837",
+        "year": "2005",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "黑点漩涡",
-        "author": "松本清张",
-        "year": "2005"
+        "author": "[日]松本清张",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:30:45.995Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:42.808Z"
     },
     "shlib164-006": {
       "file": "shlib164-006.webp",
@@ -23129,43 +23516,53 @@
     },
     "shlib165-018": {
       "file": "shlib165-018.webp",
-      "bytes": 5340,
-      "width": 200,
-      "height": 322,
+      "bytes": 11704,
+      "width": 270,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3098649/",
-      "subjectId": "3098649",
-      "matched": "subject-id",
-      "query": "一长串的死者",
+      "sourceUrl": "https://book.douban.com/subject/30133163/",
+      "subjectId": "30133163",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3098649",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "一长串的死者",
-        "author": "[美] 劳伦斯·布洛克 (Lawrence Block)",
-        "year": "2008"
+        "author": "劳伦斯·布洛克",
+        "year": "2018-8"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:31:58.024Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:00:59.712Z"
     },
     "shlib165-019": {
       "file": "shlib165-019.webp",
-      "bytes": 5860,
-      "width": 200,
-      "height": 331,
+      "bytes": 13752,
+      "width": 270,
+      "height": 436,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3098640/",
-      "subjectId": "3098640",
-      "matched": "subject-id",
-      "query": "向邪恶追索",
+      "sourceUrl": "https://book.douban.com/subject/30223213/",
+      "subjectId": "30223213",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3098640",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "向邪恶追索",
-        "author": "[美] 劳伦斯·布洛克 (Lawrence Block)",
-        "year": "2008"
+        "author": "[美] 劳伦斯·布洛克",
+        "year": "2018"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:31:59.731Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:01.093Z"
     },
     "shlib165-020": {
       "file": "shlib165-020.webp",
@@ -23229,23 +23626,28 @@
     },
     "shlib165-024": {
       "file": "shlib165-024.webp",
-      "bytes": 20150,
+      "bytes": 22866,
       "width": 270,
       "height": 389,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30358478/",
-      "subjectId": "30358478",
-      "matched": "subject-id",
-      "query": "名侦探的咒缚",
+      "sourceUrl": "https://book.douban.com/subject/37268569/",
+      "subjectId": "37268569",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "30358478",
+        "year": "2019",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "名侦探的咒缚",
-        "author": "[日]东野圭吾",
-        "year": "2019"
+        "author": "[日] 东野圭吾",
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:32:06.207Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:02.575Z"
     },
     "shlib165-025": {
       "file": "shlib165-025.webp",
@@ -23749,43 +24151,53 @@
     },
     "shlib166-025": {
       "file": "shlib166-025.webp",
-      "bytes": 11546,
-      "width": 200,
-      "height": 323,
+      "bytes": 12270,
+      "width": 270,
+      "height": 404,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3215515/",
-      "subjectId": "3215515",
-      "matched": "subject-id",
-      "query": "每个人都死了",
+      "sourceUrl": "https://book.douban.com/subject/5367313/",
+      "subjectId": "5367313",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3215515",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2010）",
       "edition": {
         "title": "每个人都死了",
         "author": "[美] 劳伦斯·布洛克 (Lawrence Block)",
-        "year": "2008"
+        "year": "2010"
       },
       "bookYear": "2010",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:32:43.764Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:04.322Z"
     },
     "shlib167-001": {
       "file": "shlib167-001.webp",
-      "bytes": 13512,
+      "bytes": 24236,
       "width": 270,
-      "height": 367,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6976813/",
-      "subjectId": "6976813",
-      "matched": "subject-id",
-      "query": "813之谜",
+      "sourceUrl": "https://book.douban.com/subject/19929011/",
+      "subjectId": "19929011",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "6976813",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "813之谜",
-        "author": "莫里斯·卢布朗",
-        "year": "2011"
+        "author": "[法]莫里斯·勒布朗",
+        "year": "2012"
       },
       "bookYear": "2013",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:32:45.205Z"
+      "fetchedAt": "2026-10-02T14:01:07.659Z"
     },
     "shlib167-002": {
       "file": "shlib167-002.webp",
@@ -24090,43 +24502,53 @@
     },
     "shlib168-001": {
       "file": "shlib168-001.webp",
-      "bytes": 12106,
+      "bytes": 16500,
       "width": 270,
-      "height": 435,
+      "height": 409,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3057122/",
-      "subjectId": "3057122",
-      "matched": "subject-id",
-      "query": "恶魔预知死亡",
+      "sourceUrl": "https://book.douban.com/subject/5367310/",
+      "subjectId": "5367310",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3057122",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2010）",
       "edition": {
         "title": "恶魔预知死亡",
-        "author": "[美] 劳伦斯·布洛克 (Lawrence Block)",
-        "year": "2008"
+        "author": "劳伦斯·布洛克",
+        "year": "2010-11"
       },
       "bookYear": "2010",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:33:16.738Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:18.713Z"
     },
     "shlib168-002": {
       "file": "shlib168-002.webp",
-      "bytes": 17480,
+      "bytes": 12682,
       "width": 270,
-      "height": 422,
+      "height": 414,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3310627/",
-      "subjectId": "3310627",
-      "matched": "subject-id",
-      "query": "繁花将尽",
+      "sourceUrl": "https://book.douban.com/subject/5367315/",
+      "subjectId": "5367315",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3310627",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2010）",
       "edition": {
         "title": "繁花将尽",
-        "author": "（美）布洛克",
-        "year": "2009"
+        "author": "劳伦斯·布洛克",
+        "year": "2010-11"
       },
       "bookYear": "2010",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:33:18.293Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:22.840Z"
     },
     "shlib168-003": {
       "file": "shlib168-003.webp",
@@ -24250,23 +24672,28 @@
     },
     "shlib168-009": {
       "file": "shlib168-009.webp",
-      "bytes": 8838,
+      "bytes": 6980,
       "width": 270,
-      "height": 434,
+      "height": 392,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1078774/",
-      "subjectId": "1078774",
-      "matched": "subject-id",
-      "query": "C的悲剧",
+      "sourceUrl": "https://book.douban.com/subject/27205416/",
+      "subjectId": "27205416",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1078774",
+        "year": "2000",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "C的悲剧",
         "author": "夏树静子",
-        "year": "2000"
+        "year": "2018-3-1"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:33:28.003Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:26.474Z"
     },
     "shlib168-011": {
       "file": "shlib168-011.webp",
@@ -24330,23 +24757,28 @@
     },
     "shlib168-014": {
       "file": "shlib168-014.webp",
-      "bytes": 8814,
-      "width": 270,
-      "height": 380,
+      "bytes": 5498,
+      "width": 194,
+      "height": 301,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2301591/",
-      "subjectId": "2301591",
-      "matched": "subject-id",
-      "query": "太阳黑点",
+      "sourceUrl": "https://book.douban.com/subject/1770048/",
+      "subjectId": "1770048",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "2301591",
+        "year": "1980",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2000）",
       "edition": {
         "title": "太阳黑点",
         "author": "森村诚一",
-        "year": "1980"
+        "year": "2000"
       },
       "bookYear": "1999",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:33:34.517Z"
+      "fetchedAt": "2026-10-02T14:01:29.828Z"
     },
     "shlib168-015": {
       "file": "shlib168-015.webp",
@@ -24510,23 +24942,28 @@
     },
     "shlib168-025": {
       "file": "shlib168-025.webp",
-      "bytes": 24492,
+      "bytes": 14214,
       "width": 270,
-      "height": 388,
+      "height": 385,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4882151/",
-      "subjectId": "4882151",
-      "matched": "subject-id",
-      "query": "潘多拉的救赎",
+      "sourceUrl": "https://book.douban.com/subject/19941525/",
+      "subjectId": "19941525",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4882151",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "潘多拉的救赎",
-        "author": "哈兰·科本",
-        "year": "2010"
+        "author": "[美] 哈兰·科本",
+        "year": "2012"
       },
       "bookYear": "2012",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:33:55.284Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:31.280Z"
     },
     "shlib169-001": {
       "file": "shlib169-001.webp",
@@ -24750,23 +25187,28 @@
     },
     "shlib169-014": {
       "file": "shlib169-014.webp",
-      "bytes": 19806,
+      "bytes": 21918,
       "width": 270,
-      "height": 404,
+      "height": 412,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1232638/",
-      "subjectId": "1232638",
-      "matched": "subject-id",
-      "query": "千里眼",
+      "sourceUrl": "https://book.douban.com/subject/26264139/",
+      "subjectId": "26264139",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1232638",
+        "year": "2002",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "千里眼",
-        "author": "松岡圭祐",
-        "year": "2002"
+        "author": "松冈圭祐",
+        "year": "2015-6"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:34:15.006Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:35.130Z"
     },
     "shlib169-015": {
       "file": "shlib169-015.webp",
@@ -24990,23 +25432,28 @@
     },
     "aosaki-002": {
       "file": "aosaki-002.webp",
-      "bytes": 31822,
+      "bytes": 23704,
       "width": 270,
-      "height": 367,
+      "height": 378,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30159888/",
-      "subjectId": "30159888",
-      "matched": "subject-id",
-      "query": "图书馆之谜",
+      "sourceUrl": "https://book.douban.com/subject/34948796/",
+      "subjectId": "34948796",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "30159888",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "图书馆之谜",
-        "author": "[日] 青崎有吾",
-        "year": "2018"
+        "author": "青崎有吾",
+        "year": "2020-6"
       },
       "bookYear": "2019",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:34:33.587Z"
+      "fetchedAt": "2026-10-02T14:01:38.874Z"
     },
     "aosaki-003": {
       "file": "aosaki-003.webp",
@@ -25330,23 +25777,28 @@
     },
     "shlib170-014": {
       "file": "shlib170-014.webp",
-      "bytes": 17194,
+      "bytes": 26552,
       "width": 270,
-      "height": 382,
+      "height": 385,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3327006/",
-      "subjectId": "3327006",
-      "matched": "subject-id",
-      "query": "迷宫蛛",
+      "sourceUrl": "https://book.douban.com/subject/26654562/",
+      "subjectId": "26654562",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3327006",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "迷宫蛛",
         "author": "鬼马星",
-        "year": "2008"
+        "year": "2015-8"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:35:00.091Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:42.640Z"
     },
     "shlib170-015": {
       "file": "shlib170-015.webp",
@@ -25370,23 +25822,28 @@
     },
     "shlib170-016": {
       "file": "shlib170-016.webp",
-      "bytes": 19886,
+      "bytes": 8750,
       "width": 270,
-      "height": 389,
+      "height": 401,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3204696/",
-      "subjectId": "3204696",
-      "matched": "subject-id",
-      "query": "纽扣杀人案",
+      "sourceUrl": "https://book.douban.com/subject/26273437/",
+      "subjectId": "26273437",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3204696",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "纽扣杀人案",
         "author": "鬼马星",
-        "year": "2008"
+        "year": "2014"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:35:03.220Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:44.029Z"
     },
     "shlib170-017": {
       "file": "shlib170-017.webp",
@@ -26110,23 +26567,28 @@
     },
     "shlib172-010": {
       "file": "shlib172-010.webp",
-      "bytes": 7902,
+      "bytes": 23662,
       "width": 270,
-      "height": 385,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6109440/",
-      "subjectId": "6109440",
-      "matched": "subject-id",
-      "query": "亚森·罗平的秘密",
+      "sourceUrl": "https://book.douban.com/subject/19929005/",
+      "subjectId": "19929005",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6109440",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "亚森·罗平的秘密",
-        "author": "(法) 勒布朗",
-        "year": "2011"
+        "author": "[法]莫里斯·勒布朗",
+        "year": "2012"
       },
       "bookYear": "2012",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:36:06.613Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:56.038Z"
     },
     "shlib172-011": {
       "file": "shlib172-011.webp",
@@ -26150,63 +26612,78 @@
     },
     "shlib172-012": {
       "file": "shlib172-012.webp",
-      "bytes": 18106,
+      "bytes": 20716,
       "width": 270,
-      "height": 404,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35523200/",
-      "subjectId": "35523200",
-      "matched": "subject-id",
-      "query": "紫云寺",
+      "sourceUrl": "https://book.douban.com/subject/37536822/",
+      "subjectId": "37536822",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35523200",
+        "year": "2021",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "紫云寺",
-        "author": "[荷] 高罗佩",
-        "year": "2021"
+        "author": "[荷] 高罗佩 (Robert van Gulik)",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:36:09.551Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:57.369Z"
     },
     "shlib172-013": {
       "file": "shlib172-013.webp",
-      "bytes": 21826,
+      "bytes": 16738,
       "width": 270,
-      "height": 404,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35523204/",
-      "subjectId": "35523204",
-      "matched": "subject-id",
-      "query": "中秋案",
+      "sourceUrl": "https://book.douban.com/subject/38228856/",
+      "subjectId": "38228856",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35523204",
+        "year": "2021",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "中秋案",
         "author": "[荷] 高罗佩",
-        "year": "2021"
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:36:11.560Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:01:58.715Z"
     },
     "shlib172-014": {
       "file": "shlib172-014.webp",
-      "bytes": 21294,
+      "bytes": 15882,
       "width": 270,
-      "height": 405,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35523203/",
-      "subjectId": "35523203",
-      "matched": "subject-id",
-      "query": "项链案",
+      "sourceUrl": "https://book.douban.com/subject/38228854/",
+      "subjectId": "38228854",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35523203",
+        "year": "2021",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "项链案",
         "author": "[荷] 高罗佩",
-        "year": "2021"
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:36:13.186Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:00.193Z"
     },
     "shlib172-015": {
       "file": "shlib172-015.webp",
@@ -27261,43 +27738,53 @@
     },
     "shlib174-024": {
       "file": "shlib174-024.webp",
-      "bytes": 17516,
+      "bytes": 7006,
       "width": 270,
       "height": 385,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26277676/",
-      "subjectId": "26277676",
-      "matched": "subject-id",
-      "query": "心理罪·第七个读者",
+      "sourceUrl": "https://book.douban.com/subject/35494922/",
+      "subjectId": "35494922",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26277676",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
-        "title": "心理罪之第七个读者",
+        "title": "心理罪：第七个读者",
         "author": "雷米",
-        "year": "2015"
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:37:54.675Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:05.207Z"
     },
     "shlib174-025": {
       "file": "shlib174-025.webp",
-      "bytes": 12212,
+      "bytes": 6218,
       "width": 270,
-      "height": 378,
+      "height": 390,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/5904212/",
-      "subjectId": "5904212",
-      "matched": "subject-id",
-      "query": "心理罪·暗河",
+      "sourceUrl": "https://book.douban.com/subject/35494924/",
+      "subjectId": "35494924",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "5904212",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
-        "title": "心理罪之暗河",
+        "title": "心理罪：暗河",
         "author": "雷米",
-        "year": "2011"
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:37:56.023Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:06.714Z"
     },
     "shlib175-001": {
       "file": "shlib175-001.webp",
@@ -27442,23 +27929,28 @@
     },
     "shlib176-005": {
       "file": "shlib176-005.webp",
-      "bytes": 10964,
+      "bytes": 14022,
       "width": 270,
-      "height": 409,
+      "height": 410,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3647887/",
-      "subjectId": "3647887",
-      "matched": "subject-id",
-      "query": "寝台特急1/60秒障碍",
+      "sourceUrl": "https://book.douban.com/subject/11501895/",
+      "subjectId": "11501895",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3647887",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "寝台特急1/60秒障碍",
         "author": "[日] 岛田庄司",
-        "year": "2009"
+        "year": "2012"
       },
       "bookYear": "2012",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:38:10.130Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:12.285Z"
     },
     "shlib176-006": {
       "file": "shlib176-006.webp",
@@ -27522,23 +28014,28 @@
     },
     "shlib176-009": {
       "file": "shlib176-009.webp",
-      "bytes": 12930,
+      "bytes": 18848,
       "width": 270,
-      "height": 409,
+      "height": 426,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3723863/",
-      "subjectId": "3723863",
-      "matched": "subject-id",
-      "query": "出云传说7/8杀人事件",
+      "sourceUrl": "https://book.douban.com/subject/20002789/",
+      "subjectId": "20002789",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3723863",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "出云传说7/8杀人事件",
-        "author": "[日] 岛田庄司",
-        "year": "2009"
+        "author": "（日）岛田庄司",
+        "year": "2012"
       },
       "bookYear": "2012",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:38:15.826Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:13.829Z"
     },
     "shlib176-010": {
       "file": "shlib176-010.webp",
@@ -28366,63 +28863,78 @@
     },
     "shlib178-001": {
       "file": "shlib178-001.webp",
-      "bytes": 14424,
+      "bytes": 19556,
       "width": 270,
-      "height": 382,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1780253/",
-      "subjectId": "1780253",
-      "matched": "subject-id",
-      "query": "亡者永生",
+      "sourceUrl": "https://book.douban.com/subject/30593649/",
+      "subjectId": "30593649",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1780253",
+        "year": "2006",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "亡者永生",
         "author": "那多",
-        "year": "2006"
+        "year": "2018-12"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:25.982Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:17.575Z"
     },
     "shlib178-002": {
       "file": "shlib178-002.webp",
-      "bytes": 15204,
+      "bytes": 26522,
       "width": 270,
-      "height": 404,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1921434/",
-      "subjectId": "1921434",
-      "matched": "subject-id",
-      "query": "暗影38万",
+      "sourceUrl": "https://book.douban.com/subject/31284535/",
+      "subjectId": "31284535",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1921434",
+        "year": "2006",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "暗影38万",
         "author": "那多",
-        "year": "2006"
+        "year": "2018-12"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:27.656Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:22.147Z"
     },
     "shlib178-003": {
       "file": "shlib178-003.webp",
-      "bytes": 13968,
+      "bytes": 20560,
       "width": 270,
-      "height": 389,
+      "height": 360,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/20563216/",
-      "subjectId": "20563216",
-      "matched": "subject-id",
-      "query": "喂食者协会",
+      "sourceUrl": "https://book.douban.com/subject/30558216/",
+      "subjectId": "30558216",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "20563216",
+        "year": "2013",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "喂食者协会",
         "author": "那多",
-        "year": "2013"
+        "year": "2018"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:29.168Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:23.750Z"
     },
     "shlib178-004": {
       "file": "shlib178-004.webp",
@@ -28466,43 +28978,53 @@
     },
     "shlib178-006": {
       "file": "shlib178-006.webp",
-      "bytes": 7464,
+      "bytes": 12048,
       "width": 270,
-      "height": 394,
+      "height": 395,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1318431/",
-      "subjectId": "1318431",
-      "matched": "subject-id",
-      "query": "幽灵旗",
+      "sourceUrl": "https://book.douban.com/subject/6424803/",
+      "subjectId": "6424803",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1318431",
+        "year": "2005",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2011）",
       "edition": {
         "title": "幽灵旗",
         "author": "那多",
-        "year": "2005"
+        "year": "2011-6"
       },
       "bookYear": "2011",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:35.010Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:27.194Z"
     },
     "shlib178-007": {
       "file": "shlib178-007.webp",
-      "bytes": 8186,
-      "width": 200,
-      "height": 296,
+      "bytes": 25610,
+      "width": 270,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1421004/",
-      "subjectId": "1421004",
-      "matched": "subject-id",
-      "query": "神的密码",
+      "sourceUrl": "https://book.douban.com/subject/25727447/",
+      "subjectId": "25727447",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "1421004",
+        "year": "2005",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2013）",
       "edition": {
         "title": "神的密码",
         "author": "那多",
-        "year": "2005"
+        "year": "2013-9"
       },
       "bookYear": "2012",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:36.392Z"
+      "fetchedAt": "2026-10-02T14:02:30.719Z"
     },
     "shlib178-008": {
       "file": "shlib178-008.webp",
@@ -28546,23 +29068,28 @@
     },
     "shlib178-010": {
       "file": "shlib178-010.webp",
-      "bytes": 5328,
-      "width": 137,
-      "height": 200,
+      "bytes": 12258,
+      "width": 270,
+      "height": 394,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1270184/",
-      "subjectId": "1270184",
-      "matched": "subject-id",
-      "query": "虚拟谋杀",
+      "sourceUrl": "https://book.douban.com/subject/1094489/",
+      "subjectId": "1094489",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "1270184",
+        "year": "2001",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2002）",
       "edition": {
         "title": "虚拟谋杀",
         "author": "冯华",
-        "year": "2001"
+        "year": "2002-1"
       },
       "bookYear": "2007",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:41.166Z"
+      "fetchedAt": "2026-10-02T14:02:34.260Z"
     },
     "shlib178-011": {
       "file": "shlib178-011.webp",
@@ -28586,23 +29113,28 @@
     },
     "shlib178-012": {
       "file": "shlib178-012.webp",
-      "bytes": 6312,
-      "width": 200,
-      "height": 291,
+      "bytes": 9640,
+      "width": 270,
+      "height": 392,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1205569/",
-      "subjectId": "1205569",
-      "matched": "subject-id",
-      "query": "偷窥之谜",
+      "sourceUrl": "https://book.douban.com/subject/1207337/",
+      "subjectId": "1207337",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "1205569",
+        "year": "2001",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2002）",
       "edition": {
         "title": "偷窥之谜",
         "author": "冯华",
-        "year": "2001"
+        "year": "2002"
       },
       "bookYear": "2007",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:39:44.145Z"
+      "fetchedAt": "2026-10-02T14:02:37.599Z"
     },
     "shlib178-013": {
       "file": "shlib178-013.webp",
@@ -28769,23 +29301,28 @@
     },
     "shlib178-021": {
       "file": "shlib178-021.webp",
-      "bytes": 11228,
-      "width": 200,
-      "height": 280,
+      "bytes": 14464,
+      "width": 270,
+      "height": 397,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3899800/",
-      "subjectId": "3899800",
-      "matched": "subject-id",
-      "query": "暮眼蝶",
+      "sourceUrl": "https://book.douban.com/subject/27007498/",
+      "subjectId": "27007498",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3899800",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2016）",
       "edition": {
         "title": "暮眼蝶",
-        "author": "鬼馬星",
-        "year": "2009年08月05日"
+        "author": "鬼马星",
+        "year": "2016-11-1"
       },
       "bookYear": "2016",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:40:08.377Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:44.601Z"
     },
     "shlib178-022": {
       "file": "shlib178-022.webp",
@@ -28952,23 +29489,28 @@
     },
     "shlib179-005": {
       "file": "shlib179-005.webp",
-      "bytes": 6376,
-      "width": 138,
-      "height": 199,
+      "bytes": 7588,
+      "width": 270,
+      "height": 372,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1127004/",
-      "subjectId": "1127004",
-      "matched": "subject-id",
-      "query": "恶魔的宠儿",
+      "sourceUrl": "https://book.douban.com/subject/25748123/",
+      "subjectId": "25748123",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1127004",
+        "year": "2003",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "恶魔的宠儿",
-        "author": "（日）横沟正史",
-        "year": "2003"
+        "author": "[日]横沟正史",
+        "year": "2014"
       },
       "bookYear": "2014",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:40:26.078Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:55.035Z"
     },
     "shlib179-006": {
       "file": "shlib179-006.webp",
@@ -29212,23 +29754,28 @@
     },
     "shlib179-018": {
       "file": "shlib179-018.webp",
-      "bytes": 29680,
+      "bytes": 11438,
       "width": 270,
-      "height": 391,
+      "height": 381,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/5406729/",
-      "subjectId": "5406729",
-      "matched": "subject-id",
-      "query": "死神的噩梦",
+      "sourceUrl": "https://book.douban.com/subject/19941524/",
+      "subjectId": "19941524",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "5406729",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2012）",
       "edition": {
         "title": "死神的噩梦",
-        "author": "(美)哈兰·科本",
-        "year": "2011"
+        "author": "哈兰·科本",
+        "year": "2012"
       },
       "bookYear": "2012",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:40:44.996Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:02:58.416Z"
     },
     "shlib179-019": {
       "file": "shlib179-019.webp",
@@ -30257,23 +30804,28 @@
     },
     "shlib180-021": {
       "file": "shlib180-021.webp",
-      "bytes": 16028,
+      "bytes": 11252,
       "width": 270,
-      "height": 382,
+      "height": 397,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3326990/",
-      "subjectId": "3326990",
-      "matched": "subject-id",
-      "query": "宴无好宴",
+      "sourceUrl": "https://book.douban.com/subject/20273203/",
+      "subjectId": "20273203",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "3326990",
+        "year": "2008",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2013）",
       "edition": {
         "title": "宴无好宴",
         "author": "鬼马星",
-        "year": "2008"
+        "year": "2013"
       },
       "bookYear": "2009",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:42:30.976Z"
+      "fetchedAt": "2026-10-02T14:03:11.349Z"
     },
     "shlib180-023": {
       "file": "shlib180-023.webp",
@@ -30520,23 +31072,28 @@
     },
     "shlib181-010": {
       "file": "shlib181-010.webp",
-      "bytes": 20524,
+      "bytes": 20714,
       "width": 270,
-      "height": 432,
+      "height": 404,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4230205/",
-      "subjectId": "4230205",
-      "matched": "subject-id",
-      "query": "圣洁之罪",
+      "sourceUrl": "https://book.douban.com/subject/36644897/",
+      "subjectId": "36644897",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "4230205",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "圣洁之罪",
-        "author": "[美]丹尼斯·勒翰",
-        "year": "2010"
+        "author": "[美] 丹尼斯·勒翰",
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:43:03.779Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:24.098Z"
     },
     "shlib181-011": {
       "file": "shlib181-011.webp",
@@ -32202,23 +32759,28 @@
     },
     "shlib185-007": {
       "file": "shlib185-007.webp",
-      "bytes": 29896,
+      "bytes": 19692,
       "width": 270,
-      "height": 377,
+      "height": 385,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6249667/",
-      "subjectId": "6249667",
-      "matched": "subject-id",
-      "query": "如厌魅附体之物",
+      "sourceUrl": "https://book.douban.com/subject/36713235/",
+      "subjectId": "36713235",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6249667",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
-        "title": "厌魅·附体之物",
-        "author": "[日]三津田信三",
-        "year": "2011"
+        "title": "如厌魅附体之物",
+        "author": "[日] 三津田信三",
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:46:23.847Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:31.792Z"
     },
     "shlib185-008": {
       "file": "shlib185-008.webp",
@@ -32362,23 +32924,28 @@
     },
     "shlib185-015": {
       "file": "shlib185-015.webp",
-      "bytes": 18608,
+      "bytes": 13646,
       "width": 270,
-      "height": 381,
+      "height": 384,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26614581/",
-      "subjectId": "26614581",
-      "matched": "subject-id",
-      "query": "暗黑者外传 惩罚",
+      "sourceUrl": "https://book.douban.com/subject/30818069/",
+      "subjectId": "30818069",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26614581",
+        "year": "2015",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "暗黑者外传：惩罚",
         "author": "周浩晖",
-        "year": "2015"
+        "year": "2018-3-1"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:46:40.176Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:35.222Z"
     },
     "shlib185-016": {
       "file": "shlib185-016.webp",
@@ -32748,23 +33315,28 @@
     },
     "shlib186-015": {
       "file": "shlib186-015.webp",
-      "bytes": 13628,
-      "width": 248,
-      "height": 400,
+      "bytes": 11112,
+      "width": 270,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1043163/",
-      "subjectId": "1043163",
-      "matched": "subject-id",
-      "query": "女雕刻家",
+      "sourceUrl": "https://book.douban.com/subject/26430477/",
+      "subjectId": "26430477",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1043163",
+        "year": "2001",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "女雕刻家",
-        "author": "[英] 米涅·渥特丝",
-        "year": "2001"
+        "author": "米涅·渥特丝",
+        "year": "2015-8"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:47:18.746Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:39.238Z"
     },
     "shlib186-016": {
       "file": "shlib186-016.webp",
@@ -32788,23 +33360,28 @@
     },
     "shlib186-017": {
       "file": "shlib186-017.webp",
-      "bytes": 13106,
+      "bytes": 23520,
       "width": 270,
-      "height": 420,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1062305/",
-      "subjectId": "1062305",
-      "matched": "subject-id",
-      "query": "冰屋",
+      "sourceUrl": "https://book.douban.com/subject/4275062/",
+      "subjectId": "4275062",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1062305",
+        "year": "2001",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2010）",
       "edition": {
         "title": "冰屋",
-        "author": "[英] 米涅·渥特丝",
-        "year": "2001"
+        "author": "米涅·渥特丝",
+        "year": "2010"
       },
       "bookYear": "2010",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:47:21.591Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:40.719Z"
     },
     "shlib187-001": {
       "file": "shlib187-001.webp",
@@ -33759,43 +34336,53 @@
     },
     "shlib189-009": {
       "file": "shlib189-009.webp",
-      "bytes": 12036,
+      "bytes": 9484,
       "width": 270,
-      "height": 438,
+      "height": 412,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2185008/",
-      "subjectId": "2185008",
-      "matched": "subject-id",
-      "query": "血型拼图",
+      "sourceUrl": "https://book.douban.com/subject/4292161/",
+      "subjectId": "4292161",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "2185008",
+        "year": "2007",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2010）",
       "edition": {
         "title": "血型拼图",
-        "author": "[美] 迈克尔·康奈利",
-        "year": "2007"
+        "author": "迈克尔·康奈利",
+        "year": "2010-3"
       },
       "bookYear": "2010",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:48:51.380Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:57.818Z"
     },
     "shlib189-010": {
       "file": "shlib189-010.webp",
-      "bytes": 8430,
+      "bytes": 4686,
       "width": 270,
-      "height": 382,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/2057254/",
-      "subjectId": "2057254",
-      "matched": "subject-id",
-      "query": "零的蜜月",
+      "sourceUrl": "https://book.douban.com/subject/33476158/",
+      "subjectId": "33476158",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "2057254",
+        "year": "1981",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "零的蜜月",
-        "author": "高木彬光",
-        "year": "1981"
+        "author": "[日]高木彬光",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:48:52.939Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:03:59.137Z"
     },
     "shlib189-011": {
       "file": "shlib189-011.webp",
@@ -34239,23 +34826,28 @@
     },
     "jpmas-022": {
       "file": "jpmas-022.webp",
-      "bytes": 4092,
-      "width": 121,
-      "height": 200,
+      "bytes": 12238,
+      "width": 270,
+      "height": 392,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1046728/",
-      "subjectId": "1046728",
-      "matched": "subject-id",
-      "query": "M的悲剧",
+      "sourceUrl": "https://book.douban.com/subject/27592134/",
+      "subjectId": "27592134",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1046728",
+        "year": "2006",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2018）",
       "edition": {
         "title": "M的悲剧",
         "author": "夏树静子",
-        "year": "2006"
+        "year": "2018-3-1"
       },
       "bookYear": "2018",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:49:33.207Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:07.640Z"
     },
     "jpmas-023": {
       "file": "jpmas-023.webp",
@@ -35250,23 +35842,28 @@
     },
     "shlib192-003": {
       "file": "shlib192-003.webp",
-      "bytes": 5080,
-      "width": 125,
-      "height": 180,
+      "bytes": 18096,
+      "width": 270,
+      "height": 391,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26876999/",
-      "subjectId": "26876999",
-      "matched": "subject-id",
-      "query": "爱的告别式",
+      "sourceUrl": "https://book.douban.com/subject/35285642/",
+      "subjectId": "35285642",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "26876999",
+        "year": "2016",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2021）",
       "edition": {
         "title": "爱的告别式",
         "author": "[日] 乾胡桃",
-        "year": "2016"
+        "year": "2021"
       },
       "bookYear": "2021",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:51:08.681Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:19.196Z"
     },
     "shlib192-004": {
       "file": "shlib192-004.webp",
@@ -36419,23 +37016,28 @@
     },
     "shlib196-001": {
       "file": "shlib196-001.webp",
-      "bytes": 12754,
+      "bytes": 14312,
       "width": 270,
-      "height": 410,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3593365/",
-      "subjectId": "3593365",
-      "matched": "subject-id",
-      "query": "谋杀之心",
+      "sourceUrl": "https://book.douban.com/subject/30373969/",
+      "subjectId": "30373969",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3593365",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2019）",
       "edition": {
         "title": "谋杀之心",
-        "author": "（英）P.D.詹姆斯",
-        "year": "2009"
+        "author": "[英] P·D·詹姆斯",
+        "year": "2019"
       },
       "bookYear": "2019",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:53:00.858Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:24.145Z"
     },
     "shlib196-002": {
       "file": "shlib196-002.webp",
@@ -37359,23 +37961,28 @@
     },
     "md200-001": {
       "file": "md200-001.webp",
-      "bytes": 27048,
+      "bytes": 12062,
       "width": 270,
-      "height": 394,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35033069/",
-      "subjectId": "35033069",
-      "matched": "subject-id",
-      "query": "红楼案",
+      "sourceUrl": "https://book.douban.com/subject/37562602/",
+      "subjectId": "37562602",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35033069",
+        "year": "2020",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "红楼案",
-        "author": "[荷] 高罗佩",
-        "year": "2020"
+        "author": "(荷) 高罗佩 (Robert van Gulik)",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:54:13.170Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:32.097Z"
     },
     "md201-001": {
       "file": "md201-001.webp",
@@ -37459,23 +38066,28 @@
     },
     "md202-001": {
       "file": "md202-001.webp",
-      "bytes": 25868,
+      "bytes": 16566,
       "width": 270,
-      "height": 394,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35033072/",
-      "subjectId": "35033072",
-      "matched": "subject-id",
-      "query": "断案集",
+      "sourceUrl": "https://book.douban.com/subject/38228855/",
+      "subjectId": "38228855",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35033072",
+        "year": "2020",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "断案集",
         "author": "[荷] 高罗佩",
-        "year": "2020"
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:54:21.586Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:33.464Z"
     },
     "md202-002": {
       "file": "md202-002.webp",
@@ -39908,23 +40520,28 @@
     },
     "opac128-013": {
       "file": "opac128-013.webp",
-      "bytes": 14940,
+      "bytes": 21382,
       "width": 270,
-      "height": 403,
+      "height": 420,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35024945/",
-      "subjectId": "35024945",
-      "matched": "subject-id",
-      "query": "暗黑医院",
+      "sourceUrl": "https://book.douban.com/subject/37422100/",
+      "subjectId": "37422100",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "35024945",
+        "year": "2020",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "暗黑医院",
         "author": "[日] 知念实希人",
-        "year": "2020"
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T12:57:46.599Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:04:44.266Z"
     },
     "opac128-014": {
       "file": "opac128-014.webp",
@@ -43238,23 +43855,28 @@
     },
     "opac136-001": {
       "file": "opac136-001.webp",
-      "bytes": 11532,
+      "bytes": 13164,
       "width": 270,
-      "height": 405,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6903025/",
-      "subjectId": "6903025",
-      "matched": "subject-id",
-      "query": "恐怖分子的洋伞",
+      "sourceUrl": "https://book.douban.com/subject/36075910/",
+      "subjectId": "36075910",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "6903025",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2022）",
       "edition": {
         "title": "恐怖分子的洋伞",
-        "author": "[日]藤原伊织",
-        "year": "2011"
+        "author": "[日本] 藤原伊织",
+        "year": "2022"
       },
       "bookYear": "2022",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:02:52.080Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:00.865Z"
     },
     "opac136-002": {
       "file": "opac136-002.webp",
@@ -43981,23 +44603,28 @@
     },
     "opac149-001": {
       "file": "opac149-001.webp",
-      "bytes": 6820,
+      "bytes": 9840,
       "width": 270,
-      "height": 388,
+      "height": 374,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/24384166/",
-      "subjectId": "24384166",
-      "matched": "subject-id",
-      "query": "使命与魂的尽头",
+      "sourceUrl": "https://book.douban.com/subject/26320595/",
+      "subjectId": "26320595",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "24384166",
+        "year": "2013",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2015）",
       "edition": {
         "title": "使命与魂的尽头",
         "author": "〔日〕东野圭吾",
-        "year": "2013"
+        "year": "2015"
       },
       "bookYear": "2015",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:03:52.740Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:02.827Z"
     },
     "opac149-002": {
       "file": "opac149-002.webp",
@@ -44342,23 +44969,28 @@
     },
     "jpmx-003": {
       "file": "jpmx-003.webp",
-      "bytes": 23460,
+      "bytes": 33734,
       "width": 270,
-      "height": 401,
+      "height": 399,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6967992/",
-      "subjectId": "6967992",
-      "matched": "subject-id",
-      "query": "孤岛之鬼",
+      "sourceUrl": "https://book.douban.com/subject/34936349/",
+      "subjectId": "34936349",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "6967992",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2020）",
       "edition": {
         "title": "孤岛之鬼",
-        "author": "[日] 江户川乱步",
-        "year": "2011"
+        "author": "[日]江户川乱步",
+        "year": "2020"
       },
       "bookYear": "2022",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:04:26.694Z"
+      "fetchedAt": "2026-10-02T14:05:05.881Z"
     },
     "jpmx-004": {
       "file": "jpmx-004.webp",
@@ -45346,23 +45978,28 @@
     },
     "opac152-011": {
       "file": "opac152-011.webp",
-      "bytes": 14910,
+      "bytes": 36252,
       "width": 270,
-      "height": 369,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30133212/",
-      "subjectId": "30133212",
-      "matched": "subject-id",
-      "query": "模仿的杀意",
+      "sourceUrl": "https://book.douban.com/subject/37507886/",
+      "subjectId": "37507886",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "30133212",
+        "year": "2018",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
-        "title": "模仿的殺意",
+        "title": "模仿的杀意",
         "author": "[日] 中町信",
-        "year": "2018"
+        "year": "2026"
       },
       "bookYear": "2026",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:05:55.836Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:16.622Z"
     },
     "opac152-012": {
       "file": "opac152-012.webp",
@@ -45691,43 +46328,53 @@
     },
     "opac154-002": {
       "file": "opac154-002.webp",
-      "bytes": 2750,
-      "width": 104,
-      "height": 144,
+      "bytes": 14010,
+      "width": 270,
+      "height": 380,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/1922654/",
-      "subjectId": "1922654",
-      "matched": "subject-id",
-      "query": "阿基米德借刀杀人",
+      "sourceUrl": "https://book.douban.com/subject/36366023/",
+      "subjectId": "36366023",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "1922654",
+        "year": "1997",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2001）",
       "edition": {
-        "title": "阿基米德借刀殺人",
-        "author": "小峰元",
-        "year": "1997"
+        "title": "阿基米德借刀杀人",
+        "author": "[日]小峰元",
+        "year": "2001"
       },
       "bookYear": "2001",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:06:32.368Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:19.807Z"
     },
     "opac154-003": {
       "file": "opac154-003.webp",
-      "bytes": 2634,
-      "width": 104,
-      "height": 146,
+      "bytes": 9522,
+      "width": 270,
+      "height": 412,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3032902/",
-      "subjectId": "3032902",
-      "matched": "subject-id",
-      "query": "白色长廊下",
+      "sourceUrl": "https://book.douban.com/subject/36366015/",
+      "subjectId": "36366015",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3032902",
+        "year": "1997",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2001）",
       "edition": {
-        "title": "白色長廊下",
-        "author": "川田彌一郎",
-        "year": "1997"
+        "title": "白色长廊下",
+        "author": "[日]川田弥一郎",
+        "year": "2001"
       },
       "bookYear": "2001",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:06:33.714Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:21.203Z"
     },
     "opac154-004": {
       "file": "opac154-004.webp",
@@ -46302,23 +46949,28 @@
     },
     "opac155-016": {
       "file": "opac155-016.webp",
-      "bytes": 22400,
+      "bytes": 21148,
       "width": 270,
-      "height": 383,
+      "height": 396,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37027118/",
-      "subjectId": "37027118",
-      "matched": "subject-id",
-      "query": "世界上最透明的故事",
+      "sourceUrl": "https://book.douban.com/subject/37808522/",
+      "subjectId": "37808522",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "37027118",
+        "year": "2024",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2026）",
       "edition": {
         "title": "世界上最透明的故事",
-        "author": "杉井光",
-        "year": "2024"
+        "author": "[日] 杉井光",
+        "year": "2026"
       },
       "bookYear": "2025",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:07:39.351Z"
+      "fetchedAt": "2026-10-02T14:05:25.118Z"
     },
     "opac156-001": {
       "file": "opac156-001.webp",
@@ -47846,23 +48498,28 @@
     },
     "jpmod2-017": {
       "file": "jpmod2-017.webp",
-      "bytes": 24440,
+      "bytes": 31326,
       "width": 270,
-      "height": 382,
+      "height": 377,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/4151180/",
-      "subjectId": "4151180",
-      "matched": "subject-id",
-      "query": "巷说百物语",
+      "sourceUrl": "https://book.douban.com/subject/25841856/",
+      "subjectId": "25841856",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "4151180",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2014）",
       "edition": {
         "title": "巷说百物语",
-        "author": "[日]京极夏彦",
-        "year": "2009"
+        "author": "京极夏彦",
+        "year": "2014"
       },
       "bookYear": "2016",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:10:43.808Z"
+      "fetchedAt": "2026-10-02T14:05:38.724Z"
     },
     "jpmod2-019": {
       "file": "jpmod2-019.webp",
@@ -48026,23 +48683,28 @@
     },
     "jpmod2-027": {
       "file": "jpmod2-027.webp",
-      "bytes": 8806,
-      "width": 160,
-      "height": 223,
+      "bytes": 21930,
+      "width": 270,
+      "height": 331,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/5410402/",
-      "subjectId": "5410402",
-      "matched": "subject-id",
-      "query": "作者不详",
+      "sourceUrl": "https://book.douban.com/subject/37381807/",
+      "subjectId": "37381807",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "5410402",
+        "year": "2010",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
-        "title": "作者不詳（上）",
-        "author": "三津田信三",
-        "year": "2010"
+        "title": "作者不详",
+        "author": "[日] 三津田信三",
+        "year": "2025"
       },
       "bookYear": "2025",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:11:01.679Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:41.274Z"
     },
     "jpmod2-028": {
       "file": "jpmod2-028.webp",
@@ -49650,43 +50312,53 @@
     },
     "shimada2-007": {
       "file": "shimada2-007.webp",
-      "bytes": 17292,
+      "bytes": 29794,
       "width": 270,
-      "height": 398,
+      "height": 402,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/5395168/",
-      "subjectId": "5395168",
-      "matched": "subject-id",
-      "query": "龙卧亭幻想",
+      "sourceUrl": "https://book.douban.com/subject/37042976/",
+      "subjectId": "37042976",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "5395168",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
         "title": "龙卧亭幻想·上",
         "author": "[日] 岛田庄司",
-        "year": "2011"
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:13:57.451Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:48.059Z"
     },
     "shimada2-008": {
       "file": "shimada2-008.webp",
-      "bytes": 19646,
+      "bytes": 23386,
       "width": 270,
-      "height": 379,
+      "height": 403,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/3926674/",
-      "subjectId": "3926674",
-      "matched": "subject-id",
-      "query": "被诅咒的木乃伊",
+      "sourceUrl": "https://book.douban.com/subject/36622885/",
+      "subjectId": "36622885",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "3926674",
+        "year": "2009",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2024）",
       "edition": {
         "title": "被诅咒的木乃伊",
-        "author": "（日）島田莊司",
-        "year": "2009"
+        "author": "[日] 岛田庄司",
+        "year": "2024"
       },
       "bookYear": "2024",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:13:58.898Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:49.410Z"
     },
     "shimada2-009": {
       "file": "shimada2-009.webp",
@@ -50650,23 +51322,28 @@
     },
     "jpmod5-004": {
       "file": "jpmod5-004.webp",
-      "bytes": 13046,
+      "bytes": 19696,
       "width": 270,
-      "height": 390,
+      "height": 389,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/33413091/",
-      "subjectId": "33413091",
-      "matched": "subject-id",
-      "query": "检察方的罪人",
+      "sourceUrl": "https://book.douban.com/subject/36826871/",
+      "subjectId": "36826871",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "33413091",
+        "year": "2019",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "检察方的罪人",
         "author": "[日]雫井脩介",
-        "year": "2019"
+        "year": "2025"
       },
       "bookYear": "2024",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:15:15.890Z"
+      "fetchedAt": "2026-10-02T14:05:55.093Z"
     },
     "jpmod5-005": {
       "file": "jpmod5-005.webp",
@@ -51010,23 +51687,28 @@
     },
     "jpauth-005": {
       "file": "jpauth-005.webp",
-      "bytes": 23094,
+      "bytes": 10038,
       "width": 270,
-      "height": 390,
+      "height": 406,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/10527654/",
-      "subjectId": "10527654",
-      "matched": "subject-id",
-      "query": "鼠男",
+      "sourceUrl": "https://book.douban.com/subject/36513793/",
+      "subjectId": "36513793",
+      "matched": "edition-year+title",
+      "replacedFrom": {
+        "subjectId": "10527654",
+        "year": "2012",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2023）",
       "edition": {
         "title": "鼠男",
-        "author": "(日)道尾秀介",
-        "year": "2012"
+        "author": "[日] 道尾秀介",
+        "year": "2023"
       },
       "bookYear": "2023",
-      "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:15:43.350Z"
+      "yearMatch": true,
+      "fetchedAt": "2026-10-02T14:05:57.550Z"
     },
     "jpauth-006": {
       "file": "jpauth-006.webp",
@@ -51070,23 +51752,28 @@
     },
     "jpauth-009": {
       "file": "jpauth-009.webp",
-      "bytes": 32148,
+      "bytes": 21408,
       "width": 270,
-      "height": 401,
+      "height": 396,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/6558046/",
-      "subjectId": "6558046",
-      "matched": "subject-id",
-      "query": "人间椅子",
+      "sourceUrl": "https://book.douban.com/subject/37360510/",
+      "subjectId": "37360510",
+      "matched": "newest+title",
+      "replacedFrom": {
+        "subjectId": "6558046",
+        "year": "2011",
+        "matched": "subject-id"
+      },
+      "query": "版本择优（2025）",
       "edition": {
         "title": "人间椅子",
         "author": "[日] 江户川乱步",
-        "year": "2011"
+        "year": "2025"
       },
       "bookYear": "2023",
       "yearMatch": false,
-      "fetchedAt": "2026-10-02T13:15:48.391Z"
+      "fetchedAt": "2026-10-02T14:05:59.420Z"
     },
     "jpauth-010": {
       "file": "jpauth-010.webp",

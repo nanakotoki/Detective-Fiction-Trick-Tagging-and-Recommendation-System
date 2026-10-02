@@ -42,8 +42,12 @@ import {
   isbnsOf,
   parseInfoLite,
   parseMainPic,
+  parseWorksEditions,
+  parseWorksLink,
+  pickNewestEdition,
   titleQueries,
   toIsbn13,
+  yearOf,
 } from './lib/covers.mjs';
 import {
   PLATFORM_RULES,
@@ -1912,4 +1916,68 @@ test('封面：图片宽高解析（位图才算图片，SVG／HTML 一律不算
   // 随便一段字节不能被当成图片（防止把错误页存成封面）
   assert.equal(imageSize(Buffer.from('<!DOCTYPE html><html>404</html>')).format, 'unknown');
   assert.equal(imageSize(null).format, '');
+});
+
+/* ------------------------------------------------------------------ */
+/* 版本择优（第 168 轮：用户要求「选更新版本的封面，而不是用老的」）    */
+/* ------------------------------------------------------------------ */
+
+test('版本择优：优先取与所收版本同年的一条，其次才是最新（且不认异体字题名）', () => {
+  const book = { title: '狱门岛', author: '横沟正史', editionYear: '2021' };
+  const cands = [
+    { id: '1', title: '狱门岛', year: '2012', author_name: '横沟正史', pic: 'a.jpg' },
+    { id: '2', title: '狱门岛', year: '2021', author_name: '横沟正史', pic: 'b.jpg' },
+    { id: '3', title: '狱门岛', year: '2024', author_name: '横沟正史', pic: 'c.jpg' },
+  ];
+  assert.deepEqual(pickNewestEdition(book, cands), { cand: cands[1], how: 'edition-year+title' });
+
+  // 没有同年的一条 → 取最新（2024）
+  assert.deepEqual(pickNewestEdition({ ...book, editionYear: '1999' }, cands), { cand: cands[2], how: 'newest+title' });
+
+  // 台版《獄门島》繁简不同字：归一后与库内题名不等，**不能因为「年份更新」被选中**
+  const withTrad = [...cands, { id: '4', title: '獄门島', year: '2026', author_name: '橫溝正史', pic: 'd.jpg' }];
+  const r = pickNewestEdition({ ...book, editionYear: '1999' }, withTrad);
+  assert.equal(r.cand.id, '3', '繁体版不该顶掉简体版');
+
+  // 作者对不上的同名书也要排除（《狗之死》／《豺狗之死》那类陷阱）
+  const wrongAuthor = [{ id: '9', title: '狱门岛', year: '2030', author_name: '别人', pic: 'x.jpg' }];
+  assert.deepEqual(pickNewestEdition({ ...book, editionYear: '' }, wrongAuthor), { cand: null, how: '' });
+
+  // 没有可用候选时返回空，不抛错
+  assert.deepEqual(pickNewestEdition(book, []), { cand: null, how: '' });
+});
+
+test('版本择优：works 页解析（同一部作品的全部版本，含封面与出版年）', () => {
+  const html = `
+    <h1>狱门岛 全部版本(12)</h1>
+    <div class="bkses clearfix">
+      <div class="bkimg"><a href="https://book.douban.com/subject/38240380/">
+        <img src="https://img3.doubanio.com/view/subject/s/public/s35411750.jpg"/></a></div>
+      <div class="bkdesc"><a class="pl2" href="https://book.douban.com/subject/38240380/"> 獄门島 </a><br/>
+        <div><span class="pl"> 出版社: </span> 獨步文化<br/><span class="pl"> 出版年: </span> 2026-2-26<br/></div>
+      </div>
+    </div>
+    <div class="bkses clearfix">
+      <div class="bkimg"><a href="https://book.douban.com/subject/11614712/">
+        <img src="https://img3.doubanio.com/view/subject/s/public/s11194369.jpg"/></a></div>
+      <div class="bkdesc"><a class="pl2" href="https://book.douban.com/subject/11614712/"> 狱门岛 </a><br/>
+        <div><span class="pl"> 出版社: </span> 南海出版公司<br/><span class="pl"> 出版年: </span> 2021-5<br/></div>
+      </div>
+    </div>`;
+  const eds = parseWorksEditions(html);
+  assert.equal(eds.length, 2);
+  assert.deepEqual(eds[0], {
+    subjectId: '38240380',
+    title: '獄门島',
+    year: '2026-2-26',
+    publisher: '獨步文化',
+    pic: 'https://img3.doubanio.com/view/subject/s/public/s35411750.jpg',
+  });
+  assert.equal(eds[1].year, '2021-5');
+  assert.equal(yearOf(eds[1].year), '2021');
+
+  // 条目页里 works 链接的抽取
+  assert.equal(parseWorksLink('<a href="https://book.douban.com/works/1014262">全部12</a>'), '1014262');
+  assert.equal(parseWorksLink('<div>没有链接</div>'), '');
+  assert.deepEqual(parseWorksEditions(''), []);
 });

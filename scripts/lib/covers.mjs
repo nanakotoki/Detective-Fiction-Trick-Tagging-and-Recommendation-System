@@ -35,7 +35,108 @@ export function titleQueries(title) {
   return out.slice(0, 3);
 }
 
-/** 从条目页 HTML 里取主图（`#mainpic` 那张） */
+/**
+ * 解析豆瓣 **works 页**（「这本书的其他版本」，`book.douban.com/works/<id>`）。
+ *
+ * 为什么要它：`j/subject_suggest` 只回一两个版本，而「版本择优」需要**全部版本**才能挑出最新的那一版。
+ * works 页正是同一部作品所有版本的清单，加 `?order=time` 就是**按出版时间**排的（新的在前），
+ * 每条带条目 id、封面图、出版社与出版年——挑完可以直接下图，不用再开条目页。
+ *
+ * 返回：[{ subjectId, title, year, publisher, pic }]
+ */
+export function parseWorksEditions(html) {
+  const src = String(html || '');
+  const out = [];
+  const strip = (s) => String(s || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+  for (const chunk of src.split('<div class="bkses').slice(1)) {
+    const subjectId = (chunk.match(/href="https:\/\/book\.douban\.com\/subject\/(\d+)\//) || [])[1];
+    if (!subjectId || out.some((e) => e.subjectId === subjectId)) continue;
+    const pic = (chunk.match(/<img src="(https:\/\/img\d\.doubanio\.com\/view\/subject\/[^"]+)"/) || [])[1] || '';
+    const title = strip((chunk.match(/class="pl2"[^>]*>([\s\S]{0,160}?)<\/a>/) || [])[1]);
+    const publisher = strip((chunk.match(/出版社:\s*<\/span>\s*([\s\S]{0,80}?)<br/) || [])[1]);
+    const year = ((chunk.match(/出版年:\s*<\/span>\s*([\d]{4}(?:-\d{1,2})?(?:-\d{1,2})?)/) || [])[1] || '').trim();
+    out.push({ subjectId, title, year, publisher, pic });
+  }
+  return out;
+}
+
+/**
+ * 从条目页里找 works 页地址（`这本书的其他版本 ( 全部12 )` 那个链接）
+ */
+export function parseWorksLink(html) {
+  const m = String(html || '').match(/href="https:\/\/book\.douban\.com\/works\/(\d+)"/);
+  return m ? m[1] : '';
+}
+
+/** 从任意写法里取四位年份（「2013-02」「2009年10月」都要能取出来） */
+export function yearOf(value) {
+  return String(value || '').match(/\d{4}/)?.[0] || '';
+}
+
+/**
+ * 作者是否吻合（豆瓣的 `author_name` 写作「[日] 青崎有吾」「Alfred Hitchcock (ed.)」这类）。
+ *
+ * 用途：题名相同但作者不同的书**极多**（《狗之死》／《豺狗之死》就是一对），
+ * 凡是要靠「题名前缀」「最新版本」这类**松判据**挑候选时，必须拿作者再核一道。
+ */
+export function authorMatches(bookAuthor, candAuthor) {
+  const norm = (s) =>
+    String(s || '')
+      .replace(/[\[\]【】()（）\s·・.,，。、:：\-—]/g, '')
+      .toLowerCase();
+  const a = norm(bookAuthor);
+  const b = norm(candAuthor);
+  if (!a || !b) return false;
+  return a.includes(b) || b.includes(a);
+}
+
+/**
+ * 同一部作品的两个候选里，哪个**版本更新**（用于「新版封面优先」）。
+ * 无年份的一方视为更旧——年份未知就没法证明它更新。
+ */
+export function newerCandidate(a, b) {
+  const ay = yearOf(a?.year);
+  const by = yearOf(b?.year);
+  if (!ay) return b || null;
+  if (!by) return a || null;
+  return Number(by) > Number(ay) ? b : a;
+}
+
+/**
+ * **版本择优**（第 168 轮，用户要求「选更新版本的封面，而不是用老的」）。
+ *
+ * 规则：
+ *   1. 有候选与本库 `editionYear` **同年** → 用它（既是新版，又与所收版本一致）；
+ *   2. 否则取**年份最新**的那一条；
+ *   3. 挑「最新」时只认**题名完全一致**的候选——这一条是防「繁版顶掉简版」：
+ *      台版《獄门島》与简体《狱门岛》归一之后并不相等，于是它不会因为「年份更新」而被选中。
+ *
+ * 作者也必须吻合（题名相同而作者不同的书极多，《狗之死》／《豺狗之死》就是一对）。
+ * 候选来自两处：题名检索，以及 works 页（同一部作品的全部版本，最新在前）。
+ */
+export function pickNewestEdition(book, cands) {
+  const want = normTitle(book.title);
+  const bookYear = yearOf(book.editionYear);
+  const titleHit = (c, allowPrefix) => {
+    const n = normTitle(c?.title);
+    if (!n) return false;
+    if (n === want) return true;
+    return Boolean(allowPrefix) && n.length >= 3 && (want.startsWith(n) || n.startsWith(want));
+  };
+  const usable = (cands || []).filter(
+    (c) => titleHit(c, true) && (!c.author_name || authorMatches(book.author, c.author_name)),
+  );
+  const sameYear = bookYear ? usable.find((c) => yearOf(c.year) === bookYear) : null;
+  if (sameYear) return { cand: sameYear, how: 'edition-year+title' };
+  const dated = usable.filter((c) => yearOf(c.year) && c.pic && titleHit(c, false));
+  if (!dated.length) return { cand: null, how: '' };
+  dated.sort((a, b) => Number(yearOf(b.year)) - Number(yearOf(a.year)));
+  return { cand: dated[0], how: 'newest+title' };
+}
+
+/**
+ * 从条目页 HTML 里取主图（`#mainpic` 那张）
+ */
 export function parseMainPic(html) {
   const src = String(html || '');
   const m =

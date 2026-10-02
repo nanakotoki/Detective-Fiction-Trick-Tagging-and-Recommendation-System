@@ -37,8 +37,21 @@
  *   node scripts/fetch-covers.mjs --book aosaki-001       只抓一部
  *   node scripts/fetch-covers.mjs --missing               只补还没有封面的（增量，可反复跑）
  *   node scripts/fetch-covers.mjs --missing --source isbn 只走书号直达（专治 suggest 索引缺条目的那批）
+ *   node scripts/fetch-covers.mjs --prefer-newest         **版本择优**：把老版封面换成新版（见下）
  *   node scripts/fetch-covers.mjs --missing --checkpoint 50 --time-budget 25
  *   node scripts/fetch-covers.mjs --index-only            不联网，按磁盘上的图片重建索引与清单
+ *
+ * 版本择优（`--prefer-newest`，第 168 轮）
+ * -------------------------------------
+ * 起因是用户的一句要求：**「我希望你最好选择更新版本的封面，而不是用老的。」**
+ * 第一轮抓封面时，强链接优先用「取评分的那条豆瓣条目」，而评分条目是**评价人数最多**的那一版——
+ * 对老书来说往往就是**最老的那一版**（《狱门岛》库内收 2021 版，封面却是 2012 版）。
+ *
+ * 于是补一条择优规则（**只用题名＋作者都对得上的候选**，避免配到同名的另一本书）：
+ *   1. 有候选与本库 `editionYear` **同年** → 用它（既是新版，又与所收版本一致）；
+ *   2. 否则取**年份最新**的那一条；
+ *   3. 与现有封面比，**只在确实更新（或现有那张年份不明）时才替换**，绝不反向换成更老的。
+ * 替换时把原封面的出处记进 `replacedFrom`，台账里能看出「这张是从哪张换过来的」。
  *
  * 规矩（与取评分／原作名同一套）
  * --------------------------
@@ -113,6 +126,13 @@ const args = {
    * 书号通道认的是版本，正好用来把这类封面换成**所收那一版的封面**。
    */
   fixYearMismatch: argv.includes('--fix-year-mismatch'),
+  /**
+   * **版本择优**（第 168 轮，用户要求「选更新版本的封面，而不是用老的」）。
+   *
+   * 只挑「现有封面与所收版本年份不一致、或有一方没记年份」的那些去重挑：
+   * 有同年的一条就用同年那条，否则用最新的一条，且**绝不换成更老的**。
+   */
+  preferNewest: argv.includes('--prefer-newest'),
   force: argv.includes('--force'),
   indexOnly: argv.includes('--index-only'),
   quiet: argv.includes('--quiet'),
@@ -178,7 +198,13 @@ import {
   toIsbn13,
   toWebp,
   imageSize,
+  yearOf,
+  authorMatches,
+  pickNewestEdition,
+  parseWorksEditions,
+  parseWorksLink,
 } from './lib/covers.mjs';
+import { parseDoubanOtherEditions } from '../web/js/core/ratings.js';
 /* ------------------------------------------------------------------ */
 /* 知识库与索引                                                        */
 /* ------------------------------------------------------------------ */
@@ -263,6 +289,30 @@ async function suggestBest(book, subjectId) {
   }
   return { ...last, query: queries[0], cand: null, matched: '' };
 }
+
+/**
+ * 收集**所有**题名写法下的候选（按条目 id 去重），供「版本择优」挑最新的一版。
+ *
+ * 与 `suggestBest` 的区别：那个要的是「能定下来一本书」，这个要的是「把同一部书的各个版本都摊开」。
+ * `stopWhen` 用来提前收手——例如已经出现了与所收版本同年的那一条，就不必再褪层检索了。
+ */
+async function suggestAll(book, stopWhen = null) {
+  const seen = new Map();
+  for (const [i, q] of titleQueries(book.title).entries()) {
+    if (i) await sleep(Math.min(args.delay, 400));
+    const r = await suggest(q);
+    for (const c of r.list || []) if (!seen.has(String(c.id))) seen.set(String(c.id), c);
+    if (stopWhen && stopWhen([...seen.values()])) break;
+  }
+  return [...seen.values()];
+}
+
+/**
+ * 版本择优：在候选里挑**与所收版本同年**的一条，没有就挑**年份最新**的一条。
+ *
+ * 只用「题名对得上 + 作者对得上」的候选（松判据必须拿作者再核一道，
+ * 否则《狗之死》／《豺狗之死》这类会同名不同书）。规则本体在 `lib/covers.mjs`，可单测。
+ */
 
 /**
  * 选候选：先认 subjectId（强链接），再认题名，然后看年份，最后才试「副题被省掉」的那种写法。
@@ -405,7 +455,22 @@ if (args.indexOnly) {
 /* 目标队列 */
 let targets = books.map(({ file, book }) => ({ file, book }));
 if (args.bookId) targets = targets.filter((t) => t.book.id === args.bookId);
-if (args.fixYearMismatch) {
+if (args.preferNewest) {
+  /**
+   * 版本择优：只动**「封面比所收版本老」**的那些（年份都记着、且封面更老）。
+   *
+   * 为什么只动这一类：
+   *   · 「封面已与所收版本同年」→ 已经是最合适的，重挑只会白花请求；
+   *   · 「封面比所收版本新」→ 用户要的就是新版，**不能反向换成更老的**；
+   *   · 「有一方没记年份」→ 没有比较的基准，硬挑只会引入无据的改动（留给下一轮连同书目信息一起理）。
+   */
+  targets = targets.filter((t) => {
+    const rec = index.records[t.book.id];
+    const cy = yearOf(rec?.edition?.year);
+    const by = yearOf(t.book.editionYear);
+    return Boolean(cy && by) && Number(cy) < Number(by);
+  });
+} else if (args.fixYearMismatch) {
   // 只挑「已有封面、但那张封面与所收版本年份不一致、且著录里有书号」的
   targets = targets.filter(
     (t) => index.records[t.book.id]?.yearMatch === false && isbnsOf(t.book).length > 0,
@@ -413,7 +478,7 @@ if (args.fixYearMismatch) {
 } else if (args.missingOnly) {
   targets = targets.filter((t) => !hasFile(t.book.id, index.records[t.book.id]));
 }
-if (args.force || args.fixYearMismatch) {
+if (args.force || args.fixYearMismatch || args.preferNewest) {
   /* 保留全部 */
 } else if (!args.missingOnly) {
   // 默认也跳过已有封面的（增量语义），要重抓请加 --force
@@ -423,7 +488,9 @@ if (args.limit) targets = targets.slice(0, args.limit);
 
 /** 已知落空的不再重试（要重试加 --retry-misses） */
 const beforeSkip = targets.length;
-if (!args.retryMisses && !args.force && !args.fixYearMismatch) targets = targets.filter((t) => !index.misses[t.book.id]);
+if (!args.retryMisses && !args.force && !args.fixYearMismatch && !args.preferNewest) {
+  targets = targets.filter((t) => !index.misses[t.book.id]);
+}
 const skippedKnown = beforeSkip - targets.length;
 
 const withSid = targets.filter((t) => t.book.ratings?.douban?.subjectId).length;
@@ -436,6 +503,8 @@ console.log('');
 let done = 0;
 let okCount = 0;
 let skipCount = 0;
+/** 版本择优模式下「查过但不必换」的部数（它们本来就有封面，不算落空） */
+let keptCount = 0;
 let consecutiveFail = 0;
 let wrote = false;
 const missedThisRun = [];
@@ -457,35 +526,132 @@ for (const { book } of targets) {
   const reasons = [];
   /** 本部是否属于「通道出问题」（网络错、被挡、限流）——只有它才计入熔断 */
   let channelError = false;
+  /** 版本择优模式下「现有封面已经是最合适的」——既不重下，也不记落空 */
+  let noChange = false;
 
   try {
     /**
-     * 第一条通道：题名检索（快、覆盖广）。
-     * `--source isbn` 时跳过它，直接走书号通道。
+     * 版本择优分支（`--prefer-newest`）：不重新走「哪条能定下这本书」，而是
+     * **把同一部书的各版本摊开，挑与所收版本同年的一条，否则挑最新的一条**。
      */
-    const sg = args.source === 'isbn' ? { cand: null, list: [], query: '' } : await suggestBest(book, subjectId);
-    if (sg.ok === false && isChannelStatus(sg.status)) channelError = true;
-    const cand = sg.cand;
-    if (cand) {
-      picUrl = cand.pic || '';
-      matched = sg.matched;
-      edition = { title: cand.title || '', author: cand.author_name || '', year: cand.year || '' };
-      sourceUrl = `https://book.douban.com/subject/${cand.id}/`;
-      if (!picUrl) reasons.push('候选条目没有 pic 字段');
-    } else if (subjectId && args.source !== 'isbn') {
-      await sleep(args.delay);
-      const page = await mainPicFromPage(subjectId);
-      if (page.ok) {
-        picUrl = page.url;
-        matched = 'subject-id+page';
-        edition = { title: page.title, author: book.author, year: page.year };
-        sourceUrl = `https://book.douban.com/subject/${subjectId}/`;
+    if (args.preferNewest) {
+      const rec = index.records[book.id];
+      const bookYear = yearOf(book.editionYear);
+      const curId = String(rec?.subjectId || '');
+
+      /**
+       * 候选来源有三个：
+       *   ① 题名检索（`j/subject_suggest`）——但它**不是全量索引**，常常只回一两个版本；
+       *   ② 现有封面那条条目的**其他版本区块**——同一部作品在豆瓣上互链的版本；
+       *   ③ **works 页**（`book.douban.com/works/<id>?order=time`）——同一部作品的**全部**版本，
+       *      按出版时间排序、新的在前，且每条自带封面图。
+       *      「库内收 2021 版、检索却只回 2012 版」这种情形，靠的就是 ③。
+       */
+      const cands = await suggestAll(book, (list) => Boolean(bookYear) && list.some((c) => yearOf(c.year) === bookYear));
+      if (curId && !(bookYear && cands.some((c) => yearOf(c.year) === bookYear))) {
+        await sleep(args.delay);
+        const page = await httpGet(`https://book.douban.com/subject/${curId}/`, { accept: 'text/html,application/xhtml+xml' });
+        if (!page.ok) {
+          if (isChannelStatus(page.status)) channelError = true;
+        } else {
+          // ② 条目页上的「其他版本」链接
+          for (const e of parseDoubanOtherEditions(page.text)) {
+            if (cands.some((c) => String(c.id) === String(e.subjectId))) continue;
+            cands.push({
+              id: e.subjectId,
+              // 「其他版本」的标签写作「书名 2021」——去掉尾部年份再与库内题名比较
+              title: String(e.label || '').replace(/\s*\d{4}(-\d+)?\s*$/, '').trim() || book.title,
+              year: yearOf(e.label),
+              author_name: book.author,
+              pic: '',
+              fromOtherEditions: true,
+            });
+          }
+          // ③ works 页（全部版本，按出版时间排序）
+          const worksId = parseWorksLink(page.text);
+          if (worksId) {
+            await sleep(args.delay);
+            const worksPage = await httpGet(`https://book.douban.com/works/${worksId}?order=time`, {
+              accept: 'text/html,application/xhtml+xml',
+            });
+            if (worksPage.ok) {
+              for (const e of parseWorksEditions(worksPage.text)) {
+                if (cands.some((c) => String(c.id) === String(e.subjectId))) continue;
+                cands.push({
+                  id: e.subjectId,
+                  title: e.title,
+                  year: e.year,
+                  author_name: book.author,
+                  pic: e.pic,
+                  fromWorks: true,
+                });
+              }
+            } else if (isChannelStatus(worksPage.status)) {
+              channelError = true;
+            }
+          }
+        }
+      }
+
+      const { cand, how } = pickNewestEdition(book, cands);
+      const curYear = yearOf(rec?.edition?.year);
+      if (!cand) {
+        noChange = true;
+        reasons.push(`版本择优：${cands.length} 个候选里没有题名＋作者都对得上的`);
+      } else if (String(cand.id) === curId && yearOf(cand.year) === curYear) {
+        noChange = true;
+        reasons.push('版本择优：现有封面就是最合适的那一条');
+      } else if (how === 'edition-year+title' || !curYear || Number(yearOf(cand.year)) > Number(curYear)) {
+        /** 取图：检索候选自带 `pic`；「其他版本」来的候选要先开一次条目页取主图 */
+        let pic = cand.pic || '';
+        if (!pic) {
+          await sleep(args.delay);
+          const one = await mainPicFromPage(String(cand.id));
+          if (one.ok && !isDefaultPic(one.url)) pic = one.url;
+          else if (!one.ok && isChannelStatus(one.status)) channelError = true;
+        }
+        if (!pic) {
+          noChange = true;
+          reasons.push(`版本择优：选中的 ${yearOf(cand.year) || '年份未标'} 版（条目 ${cand.id}）没有可用的封面图`);
+        } else {
+          picUrl = pic;
+          matched = how;
+          edition = { title: cand.title || book.title, author: cand.author_name || book.author, year: cand.year || '' };
+          sourceUrl = `https://book.douban.com/subject/${cand.id}/`;
+        }
       } else {
-        if (isChannelStatus(page.status)) channelError = true;
-        reasons.push(page.reason || `条目页取图失败（HTTP ${page.status}）`);
+        noChange = true;
+        reasons.push(`版本择优：最新候选 ${yearOf(cand.year) || '年份未标'} 不比现有封面 ${curYear || '年份未标'} 新`);
       }
     } else {
-      reasons.push(sg.list?.length ? '检索有候选但题名都不一致' : '检索无候选');
+      /**
+       * 第一条通道：题名检索（快、覆盖广）。
+       * `--source isbn` 时跳过它，直接走书号通道。
+       */
+      const sg = args.source === 'isbn' ? { cand: null, list: [], query: '' } : await suggestBest(book, subjectId);
+      if (sg.ok === false && isChannelStatus(sg.status)) channelError = true;
+      const cand = sg.cand;
+      if (cand) {
+        picUrl = cand.pic || '';
+        matched = sg.matched;
+        edition = { title: cand.title || '', author: cand.author_name || '', year: cand.year || '' };
+        sourceUrl = `https://book.douban.com/subject/${cand.id}/`;
+        if (!picUrl) reasons.push('候选条目没有 pic 字段');
+      } else if (subjectId && args.source !== 'isbn') {
+        await sleep(args.delay);
+        const page = await mainPicFromPage(subjectId);
+        if (page.ok) {
+          picUrl = page.url;
+          matched = 'subject-id+page';
+          edition = { title: page.title, author: book.author, year: page.year };
+          sourceUrl = `https://book.douban.com/subject/${subjectId}/`;
+        } else {
+          if (isChannelStatus(page.status)) channelError = true;
+          reasons.push(page.reason || `条目页取图失败（HTTP ${page.status}）`);
+        }
+      } else {
+        reasons.push(sg.list?.length ? '检索有候选但题名都不一致' : '检索无候选');
+      }
     }
 
     /**
@@ -557,7 +723,7 @@ for (const { book } of targets) {
     reason = reasons.join('；');
 
     let saved = null;
-    if (picUrl) {
+    if (picUrl && !noChange) {
       await sleep(args.delay);
       saved = await downloadCover(picUrl);
       if (saved?.failed) {
@@ -566,12 +732,28 @@ for (const { book } of targets) {
       }
     }
 
-    if (saved && !saved.failed) {
+    if (noChange) {
+      /** 版本择优里「已是最合适」的那些：**既不重下、也不记落空**（它们本来就有封面） */
+      keptCount += 1;
+      if (VERBOSE && (done <= 20 || done % 50 === 0)) {
+        console.log(color(`  = ${book.id}《${book.title}》保持原封面：${reason}`, C.dim));
+      }
+    } else if (saved && !saved.failed) {
       const subject = (sourceUrl.match(/subject\/(\d+)/) || [])[1] || subjectId || '';
       const file = `${book.id}.${saved.ext}`;
       fs.writeFileSync(path.join(COVERS_DIR, file), saved.buf);
       const year = String(edition.year || '').match(/\d{4}/)?.[0] || '';
       const bookYear = String(book.editionYear || '').match(/\d{4}/)?.[0] || '';
+      /** 换封面时把**原来那张的出处**留着，台账里能看出「这张是从哪张换过来的」 */
+      const prev = index.records[book.id];
+      const replacedFrom =
+        args.preferNewest && prev
+          ? {
+              ...(prev.subjectId ? { subjectId: prev.subjectId } : {}),
+              year: yearOf(prev.edition?.year),
+              matched: prev.matched || '',
+            }
+          : null;
       index.records[book.id] = {
         file,
         bytes: saved.bytes,
@@ -583,7 +765,12 @@ for (const { book } of targets) {
         subjectId: subject,
         matched,
         ...(usedIsbn ? { isbn: usedIsbn } : {}),
-        query: args.source === 'isbn' ? `isbn:${usedIsbn || isbnsOf(book)[0] || ''}` : sg.query || book.title,
+        ...(replacedFrom ? { replacedFrom } : {}),
+        query: args.preferNewest
+          ? `版本择优（${year || '年份未标'}）`
+          : args.source === 'isbn'
+            ? `isbn:${usedIsbn || isbnsOf(book)[0] || ''}`
+            : sg.query || book.title,
         edition,
         bookYear,
         yearMatch: year && bookYear ? year === bookYear : null,
@@ -666,7 +853,7 @@ process.on('unhandledRejection', (err) => {
 const total = Object.keys(index.records).length;
 const missTotal = Object.keys(index.misses).length;
 console.log('');
-console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
+console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部${keptCount ? `，保持原封面 ${keptCount} 部` : ''}；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
 console.log(`  索引现有封面 ${total} 条，未取到 ${missTotal} 条`);
 if (missedThisRun.length) {
   console.log(color('  本轮未取到的前 10 条：', C.dim));
