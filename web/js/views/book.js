@@ -9,6 +9,7 @@ import { analyzeBook, RISK_META } from '../core/safety.js';
 import { gateRecommendations, isSensitive } from '../core/sensitive.js';
 import { collabLabel } from '../core/seed.js';
 import { markdownToHtml, renderCopyMarkdown, renderReport } from '../core/report.js';
+import { coverBlock, coverCreditLine } from '../ui/cover.js';
 import { copyText, download, html, raw, safeFilename, toast } from '../ui/dom.js';
 
 export const meta = { title: '书籍档案' };
@@ -61,22 +62,27 @@ export async function render(ctx) {
   ];
 
   main.innerHTML = html`
-    <div class="view-header">
-      <span class="eyebrow">Book Profile</span>
-      <h1>${book.title}</h1>
-      <p class="lede">
-        ${book.originalTitle ? `${book.originalTitle} · ` : ''}${book.author}
-        ${book.firstPublished ? ` · 首次出版 ${book.firstPublished}` : ''}
-        ${book.country ? ` · ${book.country}` : ''}
-        ${
-          // 多人协作的醒目标签：详情页是最需要看清「谁写的」的地方
-          collab
-            ? raw(html`<span class="badge badge-collab badge-collab-${collab.kind}" title="${collab.detail}"
-                >${collab.kind === 'anthology' ? '👥' : '✍️'} ${collab.text}</span
-              >`)
-            : ''
-        }
-      </p>
+    <div class="view-header book-hero">
+      <div class="hero-cover">
+        ${coverBlock(book, { size: 'hero' })} ${coverCreditLine(book)}
+      </div>
+      <div class="hero-text">
+        <span class="eyebrow">Book Profile</span>
+        <h1>${book.title}</h1>
+        <p class="lede">
+          ${book.originalTitle ? `${book.originalTitle} · ` : ''}${book.author}
+          ${book.firstPublished ? ` · 首次出版 ${book.firstPublished}` : ''}
+          ${book.country ? ` · ${book.country}` : ''}
+          ${
+            // 多人协作的醒目标签：详情页是最需要看清「谁写的」的地方
+            collab
+              ? raw(html`<span class="badge badge-collab badge-collab-${collab.kind}" title="${collab.detail}"
+                  >${collab.kind === 'anthology' ? '👥' : '✍️'} ${collab.text}</span
+                >`)
+              : ''
+          }
+        </p>
+      </div>
     </div>
 
     <div class="report-toolbar no-print">
@@ -206,30 +212,33 @@ export async function render(ctx) {
             shownResult.recommendations.length
               ? shownResult.recommendations.map(
                   (rec) => html`
-                    <div class="match-detail" style="border-top:1px dashed var(--border);padding:var(--space-3) 0">
-                      <div style="display:flex;gap:var(--space-2);align-items:baseline;flex-wrap:wrap">
-                        <strong style="font-family:var(--font-serif)">
-                          <a href="#/book/${encodeURIComponent(rec.book.id)}" style="color:inherit">《${rec.book.title}》</a>
-                        </strong>
-                        <span class="muted small">${rec.book.author}</span>
+                    <div class="rec-row">
+                      ${coverBlock(rec.book, { size: 'mini' })}
+                      <div class="rec-body">
+                        <div style="display:flex;gap:var(--space-2);align-items:baseline;flex-wrap:wrap">
+                          <strong style="font-family:var(--font-serif)">
+                            <a href="#/book/${encodeURIComponent(rec.book.id)}" style="color:inherit">《${rec.book.title}》</a>
+                          </strong>
+                          <span class="muted small">${rec.book.author}</span>
+                          ${
+                            sensitive
+                              ? ''
+                              : raw(html`<span class="ml-auto badge ${
+                                  rec.confidence.level === 'high' ? 'badge-ok' : 'badge-low'
+                                }">${rec.confidence.label} · ${String(rec.percent)}%</span>`)
+                          }
+                        </div>
+                        <p class="small dim" style="margin:var(--space-2) 0 0">${rec.reason}</p>
                         ${
                           sensitive
                             ? ''
-                            : raw(html`<span class="ml-auto badge ${
-                                rec.confidence.level === 'high' ? 'badge-ok' : 'badge-low'
-                              }">${rec.confidence.label} · ${String(rec.percent)}%</span>`)
+                            : raw(html`<div class="tag-list" style="margin-top:var(--space-2)">
+                                ${rec.detail.matched
+                                  .slice(0, 8)
+                                  .map((tid) => html`<span class="badge badge-${tagCategory(tid)}">${tagLabel(tid)}</span>`)}
+                              </div>`)
                         }
                       </div>
-                      <p class="small dim" style="margin:var(--space-2) 0 0">${rec.reason}</p>
-                      ${
-                        sensitive
-                          ? ''
-                          : raw(html`<div class="tag-list" style="margin-top:var(--space-2)">
-                              ${rec.detail.matched
-                                .slice(0, 8)
-                                .map((tid) => html`<span class="badge badge-${tagCategory(tid)}">${tagLabel(tid)}</span>`)}
-                            </div>`)
-                      }
                     </div>
                   `,
                 )

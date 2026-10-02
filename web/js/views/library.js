@@ -9,6 +9,7 @@ import { analyzeBook } from '../core/safety.js';
 import { isSensitive } from '../core/sensitive.js';
 import { GENRE_OPTIONS, collabLabel } from '../core/seed.js';
 import { sortYear } from '../core/store.js';
+import { coverBlock } from '../ui/cover.js';
 import { download, html, qs, qsa, raw, toast } from '../ui/dom.js';
 
 export const meta = { title: '知识库' };
@@ -415,43 +416,46 @@ export async function render(ctx) {
         ${rank
           ? raw(html`<span class="rank" aria-label="排名第 ${String(rank)}">#${String(rank)}</span>`)
           : ''}
-        <h3><a href="#/book/${encodeURIComponent(book.id)}" style="color:inherit">${book.title}</a></h3>
-        <p class="by">
-          ${book.author}${book.firstPublished ? ` · ${book.firstPublished}` : ''}${book.series ? ` · ${book.series}` : ''}
-        </p>
-        <div class="meta-row">
-          ${book.genre ? raw(html`<span>${book.genre}</span>`) : ''}
-          ${book.country ? raw(html`<span>${book.country}</span>`) : ''}
-          ${
-            // 评分一律带上评价人数：只给分数会让人误以为「8.6 分」和
-            // 「9.0 分」是同等可靠的数字，而样本量差几个数量级
-            typeof doubanScore === 'number'
-              ? raw(html`<span class="rating" title="${lowSample ? '评价人数偏少，分数稳定性差' : ''}"
-                  >豆瓣 ${String(doubanScore)}${doubanCount ? `（${formatVotes(doubanCount)}人）` : ''}${lowSample ? ' ⚠' : ''}</span
-                >`)
-              : ''
-          }
-          ${(book.origin ?? 'seed') !== 'seed'
-            ? raw(html`<span class="badge">${book.origin === 'user' ? '自建' : '导入'}</span>`)
-            : ''}
-          ${
-            // 「不是一个人写的」要一眼看得见：合集与合著各自一个醒目徽章
-            collab
-              ? raw(html`<span class="badge badge-collab badge-collab-${collab.kind}" title="${collab.detail}"
-                  >${collab.kind === 'anthology' ? '👥' : '✍️'} ${collab.text}</span
-                >`)
-              : ''
-          }
-          ${issues.length ? raw(html`<span class="badge badge-medium" title="反剧透体检有提示">⚠ ${String(issues.length)}</span>`) : ''}
-        </div>
-        <p class="summary">${book.safeSummary || '（暂无去剧透简介）'}</p>
-        <div class="tag-list">
-          ${trickTags.slice(0, 4).map((id) => raw(html`<span class="badge badge-trick">${tagLabel(id)}</span>`))}
-          ${otherTags.map((id) => raw(html`<span class="badge badge-${tagCategory(id)}">${tagLabel(id)}</span>`))}
-        </div>
-        <div class="footer">
-          <a class="btn btn-sm btn-ghost" href="#/book/${encodeURIComponent(book.id)}">查看档案</a>
-          <a class="btn btn-sm btn-ghost" href="#/analyze?id=${encodeURIComponent(book.id)}">生成报告</a>
+        ${coverBlock(book)}
+        <div class="card-body">
+          <h3><a href="#/book/${encodeURIComponent(book.id)}" style="color:inherit">${book.title}</a></h3>
+          <p class="by">
+            ${book.author}${book.firstPublished ? ` · ${book.firstPublished}` : ''}${book.series ? ` · ${book.series}` : ''}
+          </p>
+          <div class="meta-row">
+            ${book.genre ? raw(html`<span>${book.genre}</span>`) : ''}
+            ${book.country ? raw(html`<span>${book.country}</span>`) : ''}
+            ${
+              // 评分一律带上评价人数：只给分数会让人误以为「8.6 分」和
+              // 「9.0 分」是同等可靠的数字，而样本量差几个数量级
+              typeof doubanScore === 'number'
+                ? raw(html`<span class="rating" title="${lowSample ? '评价人数偏少，分数稳定性差' : ''}"
+                    >豆瓣 ${String(doubanScore)}${doubanCount ? `（${formatVotes(doubanCount)}人）` : ''}${lowSample ? ' ⚠' : ''}</span
+                  >`)
+                : ''
+            }
+            ${(book.origin ?? 'seed') !== 'seed'
+              ? raw(html`<span class="badge">${book.origin === 'user' ? '自建' : '导入'}</span>`)
+              : ''}
+            ${
+              // 「不是一个人写的」要一眼看得见：合集与合著各自一个醒目徽章
+              collab
+                ? raw(html`<span class="badge badge-collab badge-collab-${collab.kind}" title="${collab.detail}"
+                    >${collab.kind === 'anthology' ? '👥' : '✍️'} ${collab.text}</span
+                  >`)
+                : ''
+            }
+            ${issues.length ? raw(html`<span class="badge badge-medium" title="反剧透体检有提示">⚠ ${String(issues.length)}</span>`) : ''}
+          </div>
+          <p class="summary">${book.safeSummary || '（暂无去剧透简介）'}</p>
+          <div class="tag-list">
+            ${trickTags.slice(0, 4).map((id) => raw(html`<span class="badge badge-trick">${tagLabel(id)}</span>`))}
+            ${otherTags.map((id) => raw(html`<span class="badge badge-${tagCategory(id)}">${tagLabel(id)}</span>`))}
+          </div>
+          <div class="footer">
+            <a class="btn btn-sm btn-ghost" href="#/book/${encodeURIComponent(book.id)}">查看档案</a>
+            <a class="btn btn-sm btn-ghost" href="#/analyze?id=${encodeURIComponent(book.id)}">生成报告</a>
+          </div>
         </div>
       </article>
     `;

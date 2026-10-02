@@ -1,0 +1,676 @@
+#!/usr/bin/env node
+/**
+ * 封面抓取（第 166 轮新增）
+ * ========================
+ * 目的：给知识库里每一部作品配一张**真实封面**，本地化存到 `web/covers/<id>.webp`，
+ * 并把「这张图是从哪儿来的、对不对得上所收版本」逐条记进 `data/covers.json`。
+ *
+ * 为什么本地化而不是直接写豆瓣的图片外链
+ * ------------------------------------
+ * 1. 豆瓣图片 CDN **要求带 referer**（实测无 referer → HTTP 418），把外链写进页面等于
+ *    把「能不能显示封面」押在对方随时可改的防盗链策略上；
+ * 2. 本地文件**离线可用**，页面也不再为每张缩略图多打一次跨站请求；
+ * 3. 本项目一直的规矩是**数据自洽**：图片连同它的出处一起进仓库，可复核、可重跑。
+ *
+ * 取图两条通道（按可靠性排序）
+ * --------------------------
+ * · **强链接**：知识库该条的 `ratings.douban.subjectId` —— 那就是当初取评分的那条豆瓣条目。
+ *   先走 `j/subject_suggest`（按书名检索，回执里带 `pic` 与 `id`），命中同 `id` 的候选即取它的 `pic`；
+ *   检索里找不到这条 id 时，退回抓条目页 HTML，从 `#mainpic` 里取图。
+ * · **弱链接**：没有 subjectId 的条目，按书名检索，**要求候选书名与库内题名一致**，
+ *   并优先选出版年与 `editionYear` 相同的候选；报告与索引里标明「弱链接」。
+ * · **书号通道**（`--source isbn`）：`book.douban.com/isbn/<isbn>/` 会**直接跳到该 ISBN 的条目页**。
+ *   ISBN 从 `verification.source` 里抠（本库逐条记着馆藏著录的书号）。这条比题名检索更强——
+ *   它认的是**版本**，且能救回 suggest 索引里没有的那些条目（`isbn` 判据也写进索引）。
+ *   取到条目页后会**核对页面上的 ISBN 是否与所查一致**，不一致就放弃（宁可没有，不可配错版）。
+ *   另外会识别豆瓣自己的「暂无封面」默认图，遇到它一律当作「没有封面」。
+ *
+ * 图片规格
+ * ------
+ * 豆瓣把同一张图按 `s`(270px) / `m`(540px) / `l`(600–1080px) 三档提供。
+ * 本库选 **`s` 档 + webp**（实测比同档 jpg 小约 25%，270px 宽在书卡与详情页都够用）：
+ * 全库三千余部按此估算约 60–80MB，是「画质够用」与「仓库别爆炸」之间取的那一点。
+ *
+ * 用法
+ * ----
+ *   node scripts/fetch-covers.mjs --limit 20              先抓 20 部看看效果
+ *   node scripts/fetch-covers.mjs --book aosaki-001       只抓一部
+ *   node scripts/fetch-covers.mjs --missing               只补还没有封面的（增量，可反复跑）
+ *   node scripts/fetch-covers.mjs --missing --source isbn 只走书号直达（专治 suggest 索引缺条目的那批）
+ *   node scripts/fetch-covers.mjs --missing --checkpoint 50 --time-budget 25
+ *   node scripts/fetch-covers.mjs --index-only            不联网，按磁盘上的图片重建索引与清单
+ *
+ * 规矩（与取评分／原作名同一套）
+ * --------------------------
+ * · **不编造**：抓不到就记 `misses` 并明说原因，页面上用统一的占位图；
+ * · **不覆盖已有封面**（除 `--force`），增量补抓可反复跑；
+ * · **有礼貌**：默认 900ms/部，连续失败 8 次即熔断退出（多半是被挡了，继续跑只会更糟）；
+ * · **分段落盘**：`--checkpoint N` 每 N 部写一次索引，长批次被打断也不至于整批白跑。
+ */
+
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+const BOOKS_DIR = path.join(ROOT, 'data', 'books');
+const COVERS_DIR = path.join(ROOT, 'web', 'covers');
+const INDEX_FILE = path.join(ROOT, 'data', 'covers.json');
+
+const UA =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
+
+const C = {
+  reset: '\u001b[0m',
+  bold: '\u001b[1m',
+  dim: '\u001b[2m',
+  red: '\u001b[31m',
+  green: '\u001b[32m',
+  yellow: '\u001b[33m',
+  cyan: '\u001b[36m',
+};
+const color = (t, c) => (process.stdout.isTTY ? `${c}${t}${C.reset}` : String(t));
+
+/* ------------------------------------------------------------------ */
+/* 参数                                                                */
+/* ------------------------------------------------------------------ */
+
+const argv = process.argv.slice(2);
+const value = (flag, fallback) => {
+  const i = argv.indexOf(flag);
+  return i === -1 ? fallback : argv[i + 1];
+};
+
+const args = {
+  limit: Number(value('--limit', '0')) || 0,
+  bookId: value('--book', null),
+  delay: Math.max(150, Number(value('--delay', '900')) || 900),
+  timeout: Number(value('--timeout', '20000')) || 20000,
+  checkpoint: Math.max(0, Number(value('--checkpoint', '50')) || 50),
+  timeBudgetMs: Math.max(0, Number(value('--time-budget', '0')) || 0) * 60 * 1000,
+  /**
+   * 走哪条通道：
+   *   all（默认）＝题名检索优先，失败再走书号直达——两条都试，覆盖最全；
+   *   suggest     ＝只走题名检索；
+   *   isbn        ＝只走书号直达（专治 suggest 索引缺条目的那批）。
+   */
+  source: ['suggest', 'isbn', 'all'].includes(value('--source', 'all')) ? value('--source', 'all') : 'all',
+  missingOnly: argv.includes('--missing'),
+  /**
+   * 已知落空的书要不要重试。
+   *
+   * 默认跳过（与 `refresh-ratings.mjs` 的 `--skip-known-misses` 同一套考虑）：
+   * 索引 `misses` 里记过的多半是**内容层面的落空**（豆瓣确实没有这一版），
+   * 重跑一遍只是白花请求；加了新通道（比如本轮的书号通道）才值得用 `--retry-misses` 重来一遍。
+   */
+  retryMisses: argv.includes('--retry-misses'),
+  /**
+   * 只重抓「封面与所收版本年份不一致」的那些（配合 `--source isbn`）。
+   *
+   * 题名检索命中的常常是**豆瓣上评价人数最多的那一版**，而库内收的可能是另一版
+   * （例如《狱门岛》库内收 2021 版、豆瓣那一条是 2012 版）。
+   * 书号通道认的是版本，正好用来把这类封面换成**所收那一版的封面**。
+   */
+  fixYearMismatch: argv.includes('--fix-year-mismatch'),
+  force: argv.includes('--force'),
+  indexOnly: argv.includes('--index-only'),
+  quiet: argv.includes('--quiet'),
+};
+/** 定向抓取（--book/--limit）时把进度打密一点，方便盯 */
+const VERBOSE = !args.quiet;
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const startedAt = Date.now();
+const timeLeft = () => args.timeBudgetMs > 0 && Date.now() - startedAt > args.timeBudgetMs;
+
+/* ------------------------------------------------------------------ */
+/* HTTP                                                                */
+/* ------------------------------------------------------------------ */
+
+let requestCount = 0;
+
+async function httpGet(url, { accept = 'application/json, text/plain, */*', binary = false } = {}) {
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), args.timeout);
+  requestCount += 1;
+  try {
+    const res = await fetch(url, {
+      signal: ctl.signal,
+      redirect: 'follow',
+      headers: {
+        'user-agent': UA,
+        accept,
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        referer: 'https://book.douban.com/',
+      },
+    });
+    if (!res.ok) return { ok: false, status: res.status, body: null, type: res.headers.get('content-type') || '' };
+    if (binary) {
+      const buf = Buffer.from(await res.arrayBuffer());
+      return { ok: true, status: res.status, buf, url: res.url, type: res.headers.get('content-type') || '' };
+    }
+    const text = await res.text();
+    return { ok: true, status: res.status, text, url: res.url, type: res.headers.get('content-type') || '' };
+  } catch (error) {
+    return { ok: false, status: 0, error: error.message };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* 小工具                                                              */
+/* ------------------------------------------------------------------ */
+
+/**
+ * 封面处理的纯函数（题名褪层、书号折算、主图解析、图片宽高）都在 lib 里——
+ * 它们没有副作用，抽出去之后就能进 `test-core.mjs` 的单元测试；
+ * 抓取脚本本身没法被 import（顶层就会联网跑起来）。
+ */
+import {
+  normTitle as norm,
+  titleQueries,
+  parseMainPic,
+  isDefaultPic,
+  parseInfoLite,
+  isbnsOf,
+  toIsbn13,
+  toWebp,
+  imageSize,
+} from './lib/covers.mjs';
+/* ------------------------------------------------------------------ */
+/* 知识库与索引                                                        */
+/* ------------------------------------------------------------------ */
+
+function loadBooks() {
+  const files = fs.readdirSync(BOOKS_DIR).filter((f) => f.endsWith('.json') && !f.startsWith('_'));
+  const books = [];
+  for (const file of files) {
+    let list;
+    try {
+      list = JSON.parse(fs.readFileSync(path.join(BOOKS_DIR, file), 'utf8'));
+    } catch {
+      continue;
+    }
+    if (!Array.isArray(list)) continue;
+    for (const book of list) books.push({ file, book });
+  }
+  return books;
+}
+
+function loadIndex() {
+  try {
+    const idx = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf8'));
+    idx.records = idx.records || {};
+    idx.misses = idx.misses || {};
+    return idx;
+  } catch {
+    return {
+      format: 'detective-fiction-covers',
+      version: 1,
+      note:
+        '封面索引：每条记录说明这部作品的封面文件、来源条目与同版判据。' +
+        '图片本地存放在 web/covers/，文件名即作品 id。missing 里的条目页面上用 web/covers/_placeholder.svg 占位。',
+      generatedAt: null,
+      records: {},
+      misses: {},
+    };
+  }
+}
+
+function saveIndex(idx) {
+  idx.generatedAt = new Date().toISOString();
+  idx.coverCount = Object.keys(idx.records).length;
+  idx.missCount = Object.keys(idx.misses).length;
+  fs.writeFileSync(INDEX_FILE, JSON.stringify(idx, null, 2) + '\n', 'utf8');
+}
+
+/* ------------------------------------------------------------------ */
+/* 抓取逻辑                                                            */
+/* ------------------------------------------------------------------ */
+
+/** suggest 回执按查询词缓存：同题名的书不少，一次抓完省掉重复请求 */
+const suggestCache = new Map();
+
+/** 按书名检索豆瓣候选（回执带 pic / id / year，正是取图需要的三个字段） */
+async function suggest(query) {
+  if (suggestCache.has(query)) return suggestCache.get(query);
+  const url = 'https://book.douban.com/j/subject_suggest?q=' + encodeURIComponent(query);
+  const res = await httpGet(url);
+  let list = [];
+  if (res.ok) {
+    try {
+      list = JSON.parse(res.text);
+    } catch {
+      list = [];
+    }
+  }
+  const out = { ok: res.ok, status: res.status, list: Array.isArray(list) ? list.filter((x) => x && x.type === 'b') : [] };
+  suggestCache.set(query, out);
+  return out;
+}
+
+/** 依次用几种题名写法检索，返回第一个「选得出候选」的结果 */
+async function suggestBest(book, subjectId) {
+  const queries = titleQueries(book.title);
+  let last = { ok: true, list: [] };
+  for (const [i, q] of queries.entries()) {
+    if (i) await sleep(Math.min(args.delay, 400));
+    last = await suggest(q);
+    const picked = pickCandidate(last.list, book, subjectId);
+    if (picked.cand) return { ...last, query: q, ...picked };
+  }
+  return { ...last, query: queries[0], cand: null, matched: '' };
+}
+
+/**
+ * 选候选：先认 subjectId（强链接），再认题名，然后看年份，最后才试「副题被省掉」的那种写法。
+ * 返回 { cand, matched } —— matched 是写进索引里的「同版判据」。
+ */
+function pickCandidate(list, book, subjectId) {
+  if (!list.length) return { cand: null, matched: '' };
+  if (subjectId) {
+    const byId = list.find((c) => String(c.id) === String(subjectId));
+    if (byId) return { cand: byId, matched: 'subject-id' };
+  }
+  const want = norm(book.title);
+  const sameTitle = list.filter((c) => norm(c.title) === want);
+  if (sameTitle.length) {
+    const year = String(book.editionYear || '').match(/\d{4}/)?.[0] || '';
+    if (year) {
+      const sameYear = sameTitle.find((c) => String(c.year || '').includes(year));
+      if (sameYear) return { cand: sameYear, matched: subjectId ? 'subject-id-miss+title+year' : 'title+year' };
+    }
+    return { cand: sameTitle[0], matched: subjectId ? 'subject-id-miss+title' : 'title' };
+  }
+
+  /**
+   * 兜底：**豆瓣常把副题省掉**。
+   *
+   * 例：库内《还原犯罪现场.2：雕像血痕》↔ 豆瓣《还原犯罪现场 2》；
+   * 反向的（豆瓣比库内长）也见过。但光看题名会配错书——`《狗之死》` 与 `《豺狗之死》`
+   * 就是这样一对同名陷阱——所以**必须作者也对得上**才认。
+   */
+  const normAuthor = (s) =>
+    String(s || '')
+      .replace(/[\[\]【】()（）\s·・.,，。、:：\-—]/g, '')
+      .toLowerCase();
+  const a = normAuthor(book.author);
+  const prefixHit = list.find((c) => {
+    const n = norm(c.title);
+    if (n.length < 3 || !a) return false;
+    if (!(want.startsWith(n) || n.startsWith(want))) return false;
+    const b = normAuthor(c.author_name);
+    return Boolean(b) && (a.includes(b) || b.includes(a));
+  });
+  if (prefixHit) return { cand: prefixHit, matched: subjectId ? 'subject-id-miss+prefix+author' : 'prefix+author' };
+  return { cand: null, matched: '' };
+}
+
+/** 抓条目页 HTML 取主图（suggest 里找不到该 id 时的退路） */
+async function mainPicFromPage(subjectId) {
+  const res = await httpGet(`https://book.douban.com/subject/${subjectId}/`, { accept: 'text/html,application/xhtml+xml' });
+  if (!res.ok) return { ok: false, status: res.status };
+  const url = parseMainPic(res.text);
+  if (!url) return { ok: false, status: res.status, reason: '条目页里没有 #mainpic 图片' };
+  const titleM = res.text.match(/property="v:itemreviewed"[^>]*>([\s\S]*?)<\/span>/i);
+  const yearM = res.text.match(/<span class="pl">\s*出版年[:：]?\s*<\/span>\s*([\s\S]{0,40}?)<br/i);
+  return {
+    ok: true,
+    url,
+    title: titleM ? titleM[1].replace(/<[^>]+>/g, '').trim() : '',
+    year: yearM ? yearM[1].replace(/<[^>]+>/g, '').trim() : '',
+  };
+}
+
+/**
+ * 下载图片：先试 webp 档，失败退回同 id 的 jpg。
+ *
+ * 失败时**把最后一次的 HTTP 状态也带回来**——调用方要靠它区分
+ * 「这本书在豆瓣没有封面」（404，内容层面的落空）与「通道被挡了」（418／403／429／连不上）。
+ */
+async function downloadCover(picUrl) {
+  const attempts = [];
+  const webp = toWebp(picUrl);
+  if (webp !== picUrl) attempts.push({ url: webp, ext: 'webp' });
+  attempts.push({ url: picUrl, ext: 'jpg' });
+  let lastStatus = 0;
+  for (const a of attempts) {
+    const res = await httpGet(a.url, { accept: 'image/avif,image/webp,image/*,*/*;q=0.8', binary: true });
+    lastStatus = res.status || 0;
+    if (!res.ok || !res.buf || res.buf.length < 1024) continue;
+    const size = imageSize(res.buf);
+    const isImage = size.format === 'jpeg' || size.format === 'webp';
+    if (!isImage) continue;
+    return { ...a, buf: res.buf, ...size, bytes: res.buf.length };
+  }
+  return { failed: true, status: lastStatus };
+}
+
+/** 这个状态码算「通道出问题」而不是「这本书就是没有」 */
+const isChannelStatus = (status) => status === 0 || status === 403 || status === 418 || status === 429 || status >= 500;
+
+/* ------------------------------------------------------------------ */
+/* 主流程                                                              */
+/* ------------------------------------------------------------------ */
+
+const books = loadBooks();
+const index = loadIndex();
+fs.mkdirSync(COVERS_DIR, { recursive: true });
+
+/**
+ * 这部书「已经有封面」了吗？
+ *
+ * 判据是**索引里有记录且文件在盘上**——不是「盘上有同名文件」。
+ * 这样处理有个好处：中途被打断时留下的那些**孤儿文件**（图存下了、索引还没落盘）
+ * 不会被当成已完成而永远跳过，重跑时会被重新抓一遍并补上索引；
+ * 否则孤儿文件只能靠 `--index-only` 事后补记，而那种补记是**没有出处的**
+ * （`matched: unknown`），对这个项目来说等于没有证据。
+ */
+const hasFile = (id, rec) => Boolean(rec?.file) && fs.existsSync(path.join(COVERS_DIR, rec.file));
+
+/* --index-only：只按磁盘上的图片重建索引（不联网） */
+if (args.indexOnly) {
+  let added = 0;
+  const known = new Set(Object.keys(index.records));
+  for (const { book } of books) {
+    if (hasFile(book.id) && !known.has(book.id)) {
+      const ext = ['webp', 'jpg', 'png'].find((e) => fs.existsSync(path.join(COVERS_DIR, `${book.id}.${e}`)));
+      const buf = fs.readFileSync(path.join(COVERS_DIR, `${book.id}.${ext}`));
+      const size = imageSize(buf);
+      index.records[book.id] = {
+        file: `${book.id}.${ext}`,
+        bytes: buf.length,
+        width: size.width,
+        height: size.height,
+        format: size.format,
+        source: 'local-scan',
+        sourceUrl: '',
+        subjectId: '',
+        matched: 'unknown',
+        edition: { title: book.title, author: book.author, year: book.editionYear || '' },
+        bookYear: book.editionYear || '',
+        yearMatch: null,
+        fetchedAt: fs.statSync(path.join(COVERS_DIR, `${book.id}.${ext}`)).mtime.toISOString(),
+      };
+      added += 1;
+    }
+  }
+  saveIndex(index);
+  console.log(`[index-only] 新登记 ${added} 条，索引共 ${Object.keys(index.records).length} 条`);
+  process.exit(0);
+}
+
+/* 目标队列 */
+let targets = books.map(({ file, book }) => ({ file, book }));
+if (args.bookId) targets = targets.filter((t) => t.book.id === args.bookId);
+if (args.fixYearMismatch) {
+  // 只挑「已有封面、但那张封面与所收版本年份不一致、且著录里有书号」的
+  targets = targets.filter(
+    (t) => index.records[t.book.id]?.yearMatch === false && isbnsOf(t.book).length > 0,
+  );
+} else if (args.missingOnly) {
+  targets = targets.filter((t) => !hasFile(t.book.id, index.records[t.book.id]));
+}
+if (args.force || args.fixYearMismatch) {
+  /* 保留全部 */
+} else if (!args.missingOnly) {
+  // 默认也跳过已有封面的（增量语义），要重抓请加 --force
+  targets = targets.filter((t) => !hasFile(t.book.id, index.records[t.book.id]));
+}
+if (args.limit) targets = targets.slice(0, args.limit);
+
+/** 已知落空的不再重试（要重试加 --retry-misses） */
+const beforeSkip = targets.length;
+if (!args.retryMisses && !args.force && !args.fixYearMismatch) targets = targets.filter((t) => !index.misses[t.book.id]);
+const skippedKnown = beforeSkip - targets.length;
+
+const withSid = targets.filter((t) => t.book.ratings?.douban?.subjectId).length;
+console.log('');
+console.log(color(`  封面抓取：待处理 ${targets.length} 部（其中带强链接 subjectId 的 ${withSid} 部）`, C.bold));
+console.log(color(`  通道 ${args.source} ｜ 已知落空跳过 ${skippedKnown} 部${args.retryMisses ? '（本轮回试）' : ''}`, C.dim));
+console.log(color(`  图片目录 ${path.relative(ROOT, COVERS_DIR)} ｜ 索引 ${path.relative(ROOT, INDEX_FILE)}`, C.dim));
+console.log('');
+
+let done = 0;
+let okCount = 0;
+let skipCount = 0;
+let consecutiveFail = 0;
+let wrote = false;
+const missedThisRun = [];
+
+for (const { book } of targets) {
+  if (timeLeft()) {
+    console.log(color('  ⏱ 时间预算到，正常收尾（已抓的都会落盘）。', C.yellow));
+    break;
+  }
+  done += 1;
+  let subjectId = book.ratings?.douban?.subjectId ? String(book.ratings.douban.subjectId) : '';
+  let picUrl = '';
+  let matched = '';
+  let usedIsbn = '';
+  let edition = { title: '', author: '', year: '' };
+  let sourceUrl = '';
+  let reason = '';
+  /** 两条通道各自的落空说明，最后拼成一条 reason——只留一条会丢掉「另一条通道也试过」这个事实 */
+  const reasons = [];
+  /** 本部是否属于「通道出问题」（网络错、被挡、限流）——只有它才计入熔断 */
+  let channelError = false;
+
+  try {
+    /**
+     * 第一条通道：题名检索（快、覆盖广）。
+     * `--source isbn` 时跳过它，直接走书号通道。
+     */
+    const sg = args.source === 'isbn' ? { cand: null, list: [], query: '' } : await suggestBest(book, subjectId);
+    if (sg.ok === false && isChannelStatus(sg.status)) channelError = true;
+    const cand = sg.cand;
+    if (cand) {
+      picUrl = cand.pic || '';
+      matched = sg.matched;
+      edition = { title: cand.title || '', author: cand.author_name || '', year: cand.year || '' };
+      sourceUrl = `https://book.douban.com/subject/${cand.id}/`;
+      if (!picUrl) reasons.push('候选条目没有 pic 字段');
+    } else if (subjectId && args.source !== 'isbn') {
+      await sleep(args.delay);
+      const page = await mainPicFromPage(subjectId);
+      if (page.ok) {
+        picUrl = page.url;
+        matched = 'subject-id+page';
+        edition = { title: page.title, author: book.author, year: page.year };
+        sourceUrl = `https://book.douban.com/subject/${subjectId}/`;
+      } else {
+        if (isChannelStatus(page.status)) channelError = true;
+        reasons.push(page.reason || `条目页取图失败（HTTP ${page.status}）`);
+      }
+    } else {
+      reasons.push(sg.list?.length ? '检索有候选但题名都不一致' : '检索无候选');
+    }
+
+    /**
+     * 第二条通道：**书号**。
+     *
+     * `book.douban.com/isbn/<isbn>/` 会直接跳到该 ISBN 的条目页——比题名检索强，
+     * 因为它认的是书号（版本），不是书名。isbn 从 `verification.source` 里抠。
+     * 取到条目页后**逐条核对 ISBN 是否一致**：不一致说明豆瓣那一条不是这一版，宁可不要。
+     */
+    if (!picUrl && (args.source === 'isbn' || args.source === 'all')) {
+      const isbns = isbnsOf(book);
+      const wantYear = String(book.editionYear || '').match(/\d{4}/)?.[0] || '';
+      /** 一条书号查下来的候选（可能有多个：著录里同时记着初版与所收版的号） */
+      const found = [];
+      for (const isbn of isbns.slice(0, 3)) {
+        await sleep(args.delay);
+        const res = await httpGet(`https://book.douban.com/isbn/${isbn}/`, { accept: 'text/html,application/xhtml+xml' });
+        if (!res.ok) {
+          if (isChannelStatus(res.status)) channelError = true;
+          reasons.push(`书号 ${isbn} 直达失败（HTTP ${res.status || '连不上'}）`);
+          continue;
+        }
+        const finalUrl = String(res.url || '');
+        const sid = (finalUrl.match(/subject\/(\d+)/) || [])[1] || '';
+        if (!sid) {
+          reasons.push(`书号 ${isbn} 没有跳到条目页（落到 ${finalUrl.slice(0, 60)}）`);
+          continue;
+        }
+        const info = parseInfoLite(res.text);
+        if (info.isbn && toIsbn13(info.isbn) !== toIsbn13(isbn)) {
+          reasons.push(`书号 ${isbn} 跳到的条目（${sid}）ISBN 是 ${info.isbn}，不是同一版`);
+          continue;
+        }
+        const pic = parseMainPic(res.text);
+        if (!pic || isDefaultPic(pic)) {
+          reasons.push(`书号 ${isbn} 的条目（${sid}）没有封面（豆瓣用的是默认占位图）`);
+          continue;
+        }
+        found.push({ isbn, sid, pic, info });
+      }
+      /**
+       * 多条都查到时要**挑与所收版本同年**的那一条。
+       *
+       * 踩过的坑：有的著录里同时写着初版号与所收版号（《十角馆事件》就是——
+       * 库里收了 2024 版，而著录里引的是 2004 与 2011 两个号），
+       * 若照单从头取第一条，回填的会是**初版封面**——比原来那张更不合所收版本。
+       *
+       * 所以 `--fix-year-mismatch` 模式下**只认同年那一条**：查不到同年版就什么都不改，
+       * 保留原封面（宁可版本不齐，也不要换成另一个不相干的版本）。
+       */
+      const best =
+        found.find((f) => wantYear && String(f.info.year || '').includes(wantYear)) ||
+        (args.fixYearMismatch ? null : found[0] || null);
+      if (best) {
+        picUrl = best.pic;
+        matched = 'isbn';
+        usedIsbn = best.isbn;
+        edition = { title: best.info.title, author: book.author, year: best.info.year };
+        sourceUrl = `https://book.douban.com/subject/${best.sid}/`;
+      } else if (args.fixYearMismatch && found.length) {
+        reasons.push(
+          `书号通道查到的版本（${found.map((f) => f.info.year || '年份未标').join('／')}）都与所收版本 ${wantYear || '（年份未标）'} 不同年，保留原封面`,
+        );
+      }
+      if (!picUrl && !isbns.length) reasons.push('著录里没有 ISBN，走不了书号通道');
+    }
+
+    if (!picUrl && !reasons.length) reasons.push('检索无候选');
+    reason = reasons.join('；');
+
+    let saved = null;
+    if (picUrl) {
+      await sleep(args.delay);
+      saved = await downloadCover(picUrl);
+      if (saved?.failed) {
+        if (isChannelStatus(saved.status)) channelError = true;
+        reason = `图片下载失败（HTTP ${saved.status || '连不上'}）`;
+      }
+    }
+
+    if (saved && !saved.failed) {
+      const subject = (sourceUrl.match(/subject\/(\d+)/) || [])[1] || subjectId || '';
+      const file = `${book.id}.${saved.ext}`;
+      fs.writeFileSync(path.join(COVERS_DIR, file), saved.buf);
+      const year = String(edition.year || '').match(/\d{4}/)?.[0] || '';
+      const bookYear = String(book.editionYear || '').match(/\d{4}/)?.[0] || '';
+      index.records[book.id] = {
+        file,
+        bytes: saved.bytes,
+        width: saved.width,
+        height: saved.height,
+        format: saved.format,
+        source: '豆瓣读书',
+        sourceUrl,
+        subjectId: subject,
+        matched,
+        ...(usedIsbn ? { isbn: usedIsbn } : {}),
+        query: args.source === 'isbn' ? `isbn:${usedIsbn || isbnsOf(book)[0] || ''}` : sg.query || book.title,
+        edition,
+        bookYear,
+        yearMatch: year && bookYear ? year === bookYear : null,
+        fetchedAt: new Date().toISOString(),
+      };
+      delete index.misses[book.id];
+      okCount += 1;
+      consecutiveFail = 0;
+      if (VERBOSE && (done <= 20 || done % 25 === 0)) {
+        console.log(
+          `  ✓ ${book.id}《${book.title}》→ ${file} ${saved.width}x${saved.height} ${(saved.bytes / 1024).toFixed(1)}KB ｜ ${matched}${year ? ` ｜ ${year}` : ''}`
+        );
+      }
+    } else {
+      skipCount += 1;
+      if (channelError) consecutiveFail += 1;
+      else consecutiveFail = 0;
+      index.misses[book.id] = {
+        title: book.title,
+        author: book.author,
+        reason: reason || '未知',
+        triedAt: new Date().toISOString(),
+        triedQueries: [book.title],
+        ...(channelError ? { channelError: true } : {}),
+      };
+      // 已经有封面、只是这回没抓到的（例如 `--fix-year-mismatch` 重抓失败）：
+      // **不能同时留在 records 与 misses 里**，否则封面闸门会报「既在台账又在未取到清单」。
+      if (index.records[book.id]) delete index.misses[book.id];
+      missedThisRun.push(`${book.title}｜${reason}`);
+      if (VERBOSE && (done <= 20 || done % 25 === 0)) {
+        console.log(color(`  · ${book.id}《${book.title}》未取到：${reason}`, C.dim));
+      }
+    }
+  } catch (error) {
+    consecutiveFail += 1;
+    index.misses[book.id] = {
+      title: book.title,
+      author: book.author,
+      reason: `异常：${error.message}`,
+      triedAt: new Date().toISOString(),
+    };
+    missedThisRun.push(`${book.title}｜异常 ${error.message}`);
+  }
+
+  if (args.checkpoint && done % args.checkpoint === 0) {
+    saveIndex(index);
+    wrote = true;
+    console.log(
+      color(`  … 进度 ${done}/${targets.length}（命中 ${okCount}／未取到 ${skipCount}，请求 ${requestCount} 次）`, C.dim)
+    );
+  }
+
+  /**
+   * 熔断：**只对「通道出问题」计数**（网络错、403／418／429／5xx）。
+   *
+   * 这里踩过一次：第一版把「取不到」一律计数，结果库里的书按批次文件排序，
+   * 某一批正好全是豆瓣没有条目的（老译本、地方社通俗推理），
+   * 连着十几部落空就触发了熔断——**那 708 部之后的整轮全库跑就是这么停下的**，
+   * 而且它长得像「正常跑完」，很容易被当成通道被封。
+   * 内容层面的落空（检索无候选／题名不一致／条目没有封面）是**正常结果**，不该熔断。
+   */
+  if (consecutiveFail >= 8) {
+    console.log('');
+    console.log(color(`  ✗ 连续 ${consecutiveFail} 部都是通道异常（网络错／被挡／限流），主动熔断退出。`, C.red));
+    console.log(color('    已抓到的都在盘上；稍后重跑同一条命令即可增量继续。', C.dim));
+    break;
+  }
+  await sleep(args.delay);
+}
+
+if (!wrote || args.checkpoint === 0) saveIndex(index);
+
+/** 跑长批次时把「怎么停的」也留个痕：中途异常退出不该只表现为「输出没了」 */
+process.on('unhandledRejection', (err) => {
+  console.error(color(`  ✗ 未处理的 Promise 异常：${err?.stack || err}`, C.red));
+  saveIndex(index);
+  process.exit(1);
+});
+
+const total = Object.keys(index.records).length;
+const missTotal = Object.keys(index.misses).length;
+console.log('');
+console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
+console.log(`  索引现有封面 ${total} 条，未取到 ${missTotal} 条`);
+if (missedThisRun.length) {
+  console.log(color('  本轮未取到的前 10 条：', C.dim));
+  for (const m of missedThisRun.slice(0, 10)) console.log(color(`    · ${m}`, C.dim));
+}
+console.log('');
+console.log('  下一步：node scripts/gen-cover-manifest.mjs（生成前端清单）');

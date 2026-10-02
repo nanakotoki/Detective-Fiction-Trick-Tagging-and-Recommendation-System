@@ -1,19 +1,19 @@
 {
   "name": "诡计档案 · 推理小说诡计标签分析与推荐系统",
   "version": "1.0.0",
-  "generatedAt": "2026-10-01T05:26:00.697Z",
+  "generatedAt": "2026-10-02T13:45:08.146Z",
   "spec": "docs/reqirments.md",
   "mode": "static-esm",
   "requiresBuildStep": false,
   "stats": {
-    "books": 3425,
-    "dataFiles": 242,
+    "books": 3429,
+    "dataFiles": 243,
     "tags": 70,
     "categories": 6,
     "tagsInUse": 56,
     "schoolsInUse": 14,
-    "withSafeSummary": 3425,
-    "withPlatformRating": 2577
+    "withSafeSummary": 3429,
+    "withPlatformRating": 2581
   },
   "tagDistribution": [
     {
@@ -24,7 +24,7 @@
         {
           "id": "locked-room",
           "label": "密室",
-          "books": 305
+          "books": 306
         },
         {
           "id": "alibi",
@@ -121,7 +121,7 @@
         {
           "id": "ensemble",
           "label": "群像",
-          "books": 595
+          "books": 599
         },
         {
           "id": "diary-form",
@@ -163,7 +163,7 @@
         {
           "id": "campus",
           "label": "校园",
-          "books": 97
+          "books": 98
         },
         {
           "id": "hospital",
@@ -297,7 +297,7 @@
         {
           "id": "youth",
           "label": "青春",
-          "books": 173
+          "books": 174
         },
         {
           "id": "meta-fiction",
@@ -307,7 +307,7 @@
         {
           "id": "series-detective",
           "label": "系列侦探",
-          "books": 1380
+          "books": 1381
         },
         {
           "id": "legend-folklore",
@@ -344,12 +344,12 @@
         {
           "id": "trick-school",
           "label": "诡计流",
-          "books": 1157
+          "books": 1158
         },
         {
           "id": "orthodox-school",
           "label": "本格正统",
-          "books": 2057
+          "books": 2058
         },
         {
           "id": "social-school",
@@ -394,7 +394,7 @@
         {
           "id": "daily-mystery-school",
           "label": "日常之谜派",
-          "books": 244
+          "books": 245
         },
         {
           "id": "meta-school",
@@ -412,7 +412,7 @@
   "spoilerAudit": {
     "passed": false,
     "engine": "web/js/core/safety.js",
-    "checkedBooks": 3425
+    "checkedBooks": 3429
   },
   "deploy": {
     "static": "把 web/ 与 data/ 一起部署到静态托管即可（无后端）",

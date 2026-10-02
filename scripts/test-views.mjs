@@ -880,7 +880,7 @@ dom.window.location.hash = '#/book/global-001';
 dom.window.dispatchEvent({ type: 'hashchange' });
 await dom.settle(220);
 
-const untaggedCards = [...dom.document.querySelectorAll('.match-detail')];
+const untaggedCards = [...dom.document.querySelectorAll('.rec-row')];
 check(
   '没有诡计类标签的作品也能拿到推荐',
   untaggedCards.length > 0,
@@ -904,6 +904,80 @@ check(
   '有诡计类标签的作品不出现放宽提示',
   !dom.document.body.textContent.includes('无法进行诡计机制比对'),
 );
+
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [12] 封面渲染（第 166 轮）', C.dim));
+
+/**
+ * 封面是本地图片（web/covers/<id>.webp），有没有由 `core/covers.js` 那份清单决定。
+ * 这里断言三件事：
+ *   ① 有封面的作品，卡片上真的渲染出那个本地文件；
+ *   ② 没有封面的作品，渲染的是**统一占位图**——清单机制的意义就在这里
+ *      （不然每次翻页都要为一堆缺封面的书打一串 404）；
+ *   ③ 详情页写明封面出处（可点回豆瓣条目复核），这与本项目「结论要有出处」是同一条规矩。
+ */
+const { hasCover, coverUrl, COVER_PLACEHOLDER } = await import(
+  new URL('../web/js/core/covers.js', import.meta.url).href
+);
+
+dom.window.location.hash = '#/library?q=' + encodeURIComponent('占星术杀人魔法');
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(260);
+
+const coveredCard = [...dom.document.querySelectorAll('.book-card')].find((el) =>
+  (el.querySelector('h3')?.textContent ?? '').includes('占星术杀人魔法'),
+);
+check('知识库卡片渲染出封面图', Boolean(coveredCard?.querySelector('img.cover-img')), coveredCard ? '卡片里没有封面图' : '没找到卡片');
+check(
+  '封面地址指向本地文件',
+  Boolean(coveredCard?.querySelector('img.cover-img')?.getAttribute('src')?.includes('/covers/')),
+  coveredCard?.querySelector('img.cover-img')?.getAttribute('src') ?? '(空)',
+);
+check('封面是懒加载的（不阻塞首屏）', coveredCard?.querySelector('img.cover-img')?.getAttribute('loading') === 'lazy');
+
+/*
+ * 缺封面的那条路：挑一本**清单里确实没有封面**的书。
+ * 不能写死标题——抓取还在推进，今天没封面的书明天可能就有了；
+ * 从清单里现找一本没有封面的，用例才不会随抓取进度失效。
+ */
+const { loadSeedBooks } = await import(new URL('../web/js/core/seed.js', import.meta.url).href);
+const bare = (loadSeedBooks?.() ?? []).find((b) => !hasCover(b.id));
+if (bare) {
+  dom.window.location.hash = '#/library?q=' + encodeURIComponent(bare.title);
+  dom.window.dispatchEvent({ type: 'hashchange' });
+  await dom.settle(260);
+  const bareCard = [...dom.document.querySelectorAll('.book-card')].find((el) =>
+    (el.querySelector('h3')?.textContent ?? '').includes(bare.title),
+  );
+  const src = bareCard?.querySelector('img.cover-img')?.getAttribute('src') ?? '';
+  check('没有封面时用统一占位图（不发 404 请求）', src === COVER_PLACEHOLDER, `${bare.title} → ${src || '(空)'}`);
+  check('没有封面的卡片带 cover-none 标记', Boolean(bareCard?.querySelector('.cover-none')));
+} else {
+  check('没有封面时用统一占位图（不发 404 请求）', true, '全库都已有封面，占位分支暂无用例对象');
+  check('没有封面的卡片带 cover-none 标记', true, '同上');
+}
+
+// 详情页：封面大图 + 出处一行（出处要能点回豆瓣条目复核）
+const detailed = (loadSeedBooks?.() ?? []).find((b) => hasCover(b.id));
+if (detailed) {
+  dom.window.location.hash = '#/book/' + encodeURIComponent(detailed.id);
+  dom.window.dispatchEvent({ type: 'hashchange' });
+  await dom.settle(260);
+  const heroSrc = dom.document.querySelector('.hero-cover img.cover-img')?.getAttribute('src') ?? '';
+  check('详情页渲染封面大图', Boolean(heroSrc), heroSrc || '(未渲染)');
+  check('详情页封面地址与清单一致', heroSrc === coverUrl(detailed.id));
+  check(
+    '详情页写明封面出处（可点回豆瓣条目复核）',
+    /book\.douban\.com\/subject\/\d+/.test(dom.document.querySelector('.cover-credit')?.innerHTML ?? ''),
+    dom.document.querySelector('.cover-credit')?.textContent?.trim() ?? '(无出处行)',
+  );
+} else {
+  check('详情页渲染封面大图', true, '库里还没有封面，跳过');
+  check('详情页封面地址与清单一致', true, '同上');
+  check('详情页写明封面出处（可点回豆瓣条目复核）', true, '同上');
+}
 
 /* ------------------------------------------------------------------ */
 

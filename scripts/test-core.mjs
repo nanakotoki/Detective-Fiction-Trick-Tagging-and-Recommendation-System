@@ -37,6 +37,15 @@ import { GENRE_OPTIONS, canonicalGenre } from '../web/js/core/seed.js';
 import { canonicalSeries, sameSeries } from '../web/js/core/seed.js';
 import { duplicateReason, looksLikeCollectionName, normText } from './lib/dup-rules.mjs';
 import {
+  imageSize,
+  isDefaultPic,
+  isbnsOf,
+  parseInfoLite,
+  parseMainPic,
+  titleQueries,
+  toIsbn13,
+} from './lib/covers.mjs';
+import {
   PLATFORM_RULES,
   parseCount,
   parseDoubanOtherEditions,
@@ -1817,4 +1826,90 @@ test('年份字段：排序优先用原作年，缺失时退回版本年（不�
   // 带月份／多余文字的写法也要能取出四位年份（数据里确实有「2013-02」「2009年10月」这种）
   assert.equal(sortYear({ firstPublished: '2013-02' }), 2013);
   assert.equal(sortYear({ editionYear: '2009年10月' }), 2009);
+});
+
+/* ------------------------------------------------------------------ */
+/* 封面处理的纯函数（scripts/lib/covers.mjs，第 166 轮）                */
+/* ------------------------------------------------------------------ */
+
+test('封面：10 位书号折算成 13 位（否则会误判成「不是同一版」而丢掉一本有封面的书）', () => {
+  // 《木桶之谜》馆藏著录写的是 10 位号，豆瓣条目页写的是 13 位号——是同一个书号
+  assert.equal(toIsbn13('7501435642'), '9787501435647');
+  assert.equal(toIsbn13('7-80689-195-1'), '9787806891957');
+  // 13 位的原样返回（只做归一，不做校验位校验）
+  assert.equal(toIsbn13('9787501435647'), '9787501435647');
+  // 位数不对的原样返回，交给调用方判断
+  assert.equal(toIsbn13('123'), '123');
+  assert.equal(toIsbn13(''), '');
+});
+
+test('封面：从 verification.source 里抠 ISBN，只认 10／13 位且去重', () => {
+  const book = {
+    verification: {
+      source:
+        '书目取自**上海图书馆 OPAC**：绫辻行人著，珠海出版社 2004，ISBN 7-80689-195-1，' +
+        '丛编「(日)绫辻行人推理小说集」；2011 年另有新版 ISBN 978-7-5453-0506-7。',
+    },
+  };
+  assert.deepEqual(isbnsOf(book), ['7806891951', '9787545305067']);
+  // 同一本书里两处都写了同一个号，只留一条
+  assert.deepEqual(isbnsOf({ verification: { source: 'ISBN 978-7-02-018646-4（另见 ISBN 9787020186464）' } }), [
+    '9787020186464',
+  ]);
+  // 没有著录 / 没有 ISBN 的，返回空数组（而不是抛错）
+  assert.deepEqual(isbnsOf({}), []);
+  assert.deepEqual(isbnsOf({ verification: { source: '馆藏未给书号' } }), []);
+});
+
+test('封面：题名褪层（豆瓣的 suggest 是题名建议，不是全文检索）', () => {
+  assert.deepEqual(titleQueries('水族馆之谜'), ['水族馆之谜']);
+  // 副题褪掉后仍保留全名
+  assert.ok(titleQueries('推理者的游戏：第一届华文推理大奖赛典藏集.上卷').includes('推理者的游戏'));
+  // 最多三种写法，且不产生空串
+  for (const q of titleQueries('a：b（c）')) assert.ok(q.trim().length >= 2);
+  assert.ok(titleQueries('').length <= 1);
+});
+
+test('封面：识别豆瓣自己的「暂无封面」默认图', () => {
+  assert.equal(isDefaultPic('https://img1.doubanio.com/tic/pics/book-default-lpic.gif'), true);
+  assert.equal(isDefaultPic('https://img9.doubanio.com/view/subject/s/public/s9102105.jpg'), false);
+  assert.equal(isDefaultPic(''), false);
+});
+
+test('封面：从条目页取主图与 info 字段', () => {
+  const sample = `
+    <div id="mainpic">
+      <a href="https://img9.doubanio.com/view/subject/l/public/s27284260.jpg">
+        <img src="https://img9.doubanio.com/view/subject/s/public/s27284260.jpg" title="点击看大图" rel="v:photo">
+      </a>
+    </div>
+    <div id="info">
+      <span><span class="pl">出版社:</span> 新星出版社</span><br>
+      <span><span class="pl">出版年:</span> 2013-1</span><br>
+      <span><span class="pl">ISBN:</span> 9787513309776</span><br>
+    </div>`;
+  assert.equal(parseMainPic(sample), 'https://img9.doubanio.com/view/subject/s/public/s27284260.jpg');
+  const info = parseInfoLite(sample);
+  assert.equal(info.publisher, '新星出版社');
+  assert.equal(info.year, '2013-1');
+  assert.equal(info.isbn, '9787513309776');
+});
+
+test('封面：图片宽高解析（位图才算图片，SVG／HTML 一律不算）', () => {
+  // 占位图是 SVG：格式识别为 unknown，抓取端只接受 jpeg／webp，所以它进不了封面台账
+  assert.equal(imageSize(readFileSync('web/covers/_placeholder.svg')).format, 'unknown');
+
+  const jpegHead = Buffer.alloc(64);
+  jpegHead.writeUInt16BE(0xffd8, 0); // SOI
+  jpegHead.writeUInt16BE(0xffc0, 2); // SOF0
+  jpegHead.writeUInt16BE(11, 4); // 段长
+  jpegHead.writeUInt8(8, 6); // 精度
+  jpegHead.writeUInt16BE(400, 7); // 高
+  jpegHead.writeUInt16BE(270, 9); // 宽
+  const j = imageSize(jpegHead);
+  assert.deepEqual({ format: j.format, width: j.width, height: j.height }, { format: 'jpeg', width: 270, height: 400 });
+
+  // 随便一段字节不能被当成图片（防止把错误页存成封面）
+  assert.equal(imageSize(Buffer.from('<!DOCTYPE html><html>404</html>')).format, 'unknown');
+  assert.equal(imageSize(null).format, '');
 });

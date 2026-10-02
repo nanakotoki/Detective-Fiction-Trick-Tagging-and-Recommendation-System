@@ -1070,12 +1070,134 @@ td.num {
 .book-grid {
   display: grid;
   gap: var(--space-4);
-  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
+  /* 卡里现在有一列封面（104px），最小宽度相应放宽，否则右边文字列只剩百来像素 */
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+}
+
+/* ---------- 封面（第 166 轮） ----------
+   封面是本地文件（web/covers/<id>.webp，豆瓣 s 档 270px 宽）。
+   没封面时不发请求，直接画统一的占位图，故 .cover-none 只是一点视觉降权。 */
+.cover {
+  display: block;
+  flex: 0 0 auto;
+  align-self: flex-start;
+  width: 104px;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  background: var(--bg-sunken);
+  border: 1px solid var(--border);
+  line-height: 0;
+  transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+
+.cover-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 270 / 400;
+  object-fit: cover;
+  display: block;
+}
+
+a.cover:hover {
+  border-color: var(--accent-line);
+  transform: translateY(-1px);
+}
+
+.cover-none {
+  opacity: 0.72;
+}
+
+.cover-none:hover {
+  opacity: 0.9;
+}
+
+.cover-hero {
+  width: 184px;
+}
+
+.cover-mini {
+  width: 52px;
+}
+
+/**
+ * 推荐条目：左边一张小封面，右边是原有的相似度与标签明细。
+ * （分析页与档案页的推荐区块共用这套结构，故样式写在这里而不是内联。）
+ */
+.rec-row {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  padding: var(--space-3) 0;
+  border-bottom: 1px dashed var(--border);
+}
+
+.rec-row .rec-body {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+/**
+ * 卡片改成「封面 + 正文」两列。
+ *
+ * 正文自己仍是纵向 flex（且 footer 用 margin-top:auto），
+ * 这样同一行里卡片高度不齐时，「查看档案」按钮仍然贴在底部。
+ */
+.book-card .card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* ---------- 详情页封面 ---------- */
+.book-hero {
+  display: flex;
+  gap: var(--space-5);
+  align-items: flex-start;
+}
+
+.book-hero .hero-cover {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  align-items: center;
+}
+
+.book-hero .hero-text {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.cover-credit {
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  text-align: center;
+  margin: 0;
+  max-width: 200px;
+  line-height: 1.5;
+}
+
+.cover-credit a {
+  color: var(--text-dim);
+}
+
+@media (max-width: 640px) {
+  .book-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+  .book-hero .hero-text {
+    text-align: center;
+  }
 }
 
 .book-card {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  /* 正文列拉伸到整卡高，footer 才能靠 margin-top:auto 贴底；封面自己按内容高 */
+  align-items: stretch;
+  gap: var(--space-3);
   background: var(--bg-elev);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);

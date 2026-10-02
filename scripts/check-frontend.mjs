@@ -156,7 +156,19 @@ async function main() {
 
   console.log('');
   console.log(color('  ui', C.dim));
-  for (const file of uiFiles) await load(file, { expectExports: ['html', 'esc', 'render', 'toast', 'modal', 'copyText', 'download'] });
+  for (const file of uiFiles) {
+    /**
+     * 「必须导出 html / esc / render / toast / modal / copyText / download」这七件套
+     * 是 **`ui/dom.js` 的对外契约**（视图层统一用它，不许各自造轮子）。
+     *
+     * 原先这条检查套在 `ui/` 目录下的**每个**文件上——那时该目录里只有 dom.js 一个文件，
+     * 两者恰好等价。第 166 轮新增 `ui/cover.js`（封面渲染）后就不再等价了：
+     * 它是个渲染模块，不该被迫把 DOM 工具再导出一遍。于是把检查**收窄回契约模块本身**，
+     * 其余 ui 模块只要求「能加载、语法与依赖没问题」。
+     */
+    const isDomContract = path.basename(file) === 'dom.js';
+    await load(file, isDomContract ? { expectExports: ['html', 'esc', 'render', 'toast', 'modal', 'copyText', 'download'] } : {});
+  }
 
   console.log('');
   console.log(color('  views（按需加载）', C.dim));

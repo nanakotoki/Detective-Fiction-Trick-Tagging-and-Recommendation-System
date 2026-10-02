@@ -15,6 +15,7 @@ import { countChars, runSelfCheck } from '../core/safety.js';
 import { gateRecommendations, isSensitive } from '../core/sensitive.js';
 import { suggestTags } from '../core/suggest.js';
 import { markdownToHtml, renderCopyMarkdown, renderReport } from '../core/report.js';
+import { coverBlock } from '../ui/cover.js';
 import { copyText, debounce, download, html, onAll, qs, qsa, raw, safeFilename, toast } from '../ui/dom.js';
 
 export const meta = { title: '诡计分析' };
@@ -650,21 +651,24 @@ export async function render(ctx) {
           .join('');
 
         return html`
-          <div style="padding:var(--space-3) 0;border-bottom:1px dashed var(--border)">
-            <div style="display:flex;gap:var(--space-2);align-items:baseline;flex-wrap:wrap">
-              <strong style="font-family:var(--font-serif)">《${rec.book.title}》</strong>
-              <span class="muted small">${rec.book.author}</span>
-              <span class="ml-auto badge ${
-                rec.confidence.level === 'high' ? 'badge-ok' : rec.confidence.level === 'medium' ? 'badge-low' : ''
-              }">${rec.confidence.label}</span>
+          <div class="rec-row">
+            ${coverBlock(rec.book, { size: 'mini' })}
+            <div class="rec-body">
+              <div style="display:flex;gap:var(--space-2);align-items:baseline;flex-wrap:wrap">
+                <strong style="font-family:var(--font-serif)">《${rec.book.title}》</strong>
+                <span class="muted small">${rec.book.author}</span>
+                <span class="ml-auto badge ${
+                  rec.confidence.level === 'high' ? 'badge-ok' : rec.confidence.level === 'medium' ? 'badge-low' : ''
+                }">${rec.confidence.label}</span>
+              </div>
+              <div class="sim-row" style="margin-top:var(--space-2)">
+                <span>相似度</span>
+                <span class="sim-bar"><span style="width:0" data-w="${String(rec.percent)}"></span></span>
+                <span class="sim-value">${String(rec.percent)}%</span>
+              </div>
+              <p class="small dim" style="margin-bottom:var(--space-2)">${rec.reason}</p>
+              <div class="match-detail">${raw(catRows)}</div>
             </div>
-            <div class="sim-row" style="margin-top:var(--space-2)">
-              <span>相似度</span>
-              <span class="sim-bar"><span style="width:0" data-w="${String(rec.percent)}"></span></span>
-              <span class="sim-value">${String(rec.percent)}%</span>
-            </div>
-            <p class="small dim" style="margin-bottom:var(--space-2)">${rec.reason}</p>
-            <div class="match-detail">${raw(catRows)}</div>
           </div>
         `;
       })
