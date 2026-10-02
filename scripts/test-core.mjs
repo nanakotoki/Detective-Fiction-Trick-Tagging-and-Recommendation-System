@@ -36,6 +36,7 @@ import { normalizeSeedBook, splitSchoolTags, splitAuthors, authorListOf, sharedA
 import { GENRE_OPTIONS, canonicalGenre } from '../web/js/core/seed.js';
 import { canonicalSeries, sameSeries } from '../web/js/core/seed.js';
 import { duplicateReason, looksLikeCollectionName, normText } from './lib/dup-rules.mjs';
+import { compareFingerprints, dhashDistance, dhashFromGray, isSameCover, meanAbsDiff } from './lib/image-fp.mjs';
 import {
   imageSize,
   isBlockPage,
@@ -2000,6 +2001,58 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
   assert.equal(isBlockPage(normal, 200), false);
   const works = `<html><body><div class="bkses clearfix">…</div>${'z'.repeat(9000)}</body></html>`;
   assert.equal(isBlockPage(works, 200), false);
+});
+
+/* ------------------------------------------------------------------ */
+/* 封面版本判重（第 171 轮：用户反馈「两版的图其实一模一样」）           */
+/* ------------------------------------------------------------------ */
+
+test('封面判重：结构指纹与比较（纯函数部分不依赖 ffmpeg）', () => {
+  // 16×16 灰度：左边亮右边暗 → 每一行都是「左 < 右」的梯度
+  const grad = new Uint8Array(256);
+  for (let y = 0; y < 16; y += 1) for (let x = 0; x < 16; x += 1) grad[y * 16 + x] = 40 + x * 10;
+  const gradHash = dhashFromGray(grad);
+  assert.equal(gradHash.length, 15 * 16, 'dHash 是「每行相邻两像素比大小」，15×16 位');
+
+  // 同一张图（哪怕整体变亮/变暗）梯度关系不变 → 结构差 0
+  const brighter = Uint8Array.from(grad, (v) => Math.min(255, v + 40));
+  assert.equal(dhashDistance(gradHash, dhashFromGray(brighter)), 0, '整体明暗变化不该被判成不同图');
+  assert.ok(meanAbsDiff(grad, brighter) > 20, '灰度差却能看出差别——所以两个判据都要用');
+
+  // 反过来的梯度（左暗右亮）→ 结构差 100%
+  const flipped = new Uint8Array(256);
+  for (let y = 0; y < 16; y += 1) for (let x = 0; x < 16; x += 1) flipped[y * 16 + x] = 200 - x * 10;
+  assert.equal(dhashDistance(gradHash, dhashFromGray(flipped)), 1);
+
+  // isSameCover：没有指纹时不下结论（返回 null，绝不误删）
+  assert.equal(isSameCover(null, null), null);
+  assert.equal(compareFingerprints(null, null), null);
+  const fpA = [{ gray: grad, hash: gradHash }];
+  assert.equal(isSameCover(fpA, fpA), true);
+  assert.equal(isSameCover(fpA, [{ gray: flipped, hash: dhashFromGray(flipped) }]), false);
+  assert.equal(isSameCover(fpA, [null]), null);
+});
+
+test('封面判重：真实图片指纹（本机有 ffmpeg 时才跑）', async (t) => {
+  const { findFfmpeg, fingerprintsOfFile, compareFingerprints, isSameCover } = await import('./lib/image-fp.mjs');
+  if (!findFfmpeg()) {
+    t.skip('本机没有 ffmpeg，跳过真实图片指纹用例（判重脚本本身也会自动跳过）');
+    return;
+  }
+  // 用测试夹具里那对「同一张图、裁切不同」的真实封面
+  const dir = '_dd/pairs';
+  const a = fingerprintsOfFile(`${dir}/honkaku-001-0-local.webp`);
+  const b = fingerprintsOfFile(`${dir}/honkaku-001-1-remote.jpg`);
+  if (!a || !b) {
+    t.skip('测试夹具 _dd/pairs 不在（_dd/ 不进仓库），跳过');
+    return;
+  }
+  const cmp = compareFingerprints(a, b);
+  assert.ok(cmp.dhash < 0.15, `同一张图的裁切版结构差应当很小，实测 ${(cmp.dhash * 100).toFixed(1)}%`);
+  assert.equal(isSameCover(a, b), true);
+  // 不同封面（同一部作品的两个不同版本）应当判为不同
+  const c = fingerprintsOfFile(`${dir}/facet121-010-1-remote.jpg`);
+  if (c) assert.equal(isSameCover(a, c), false);
 });
 
 /* ------------------------------------------------------------------ */
