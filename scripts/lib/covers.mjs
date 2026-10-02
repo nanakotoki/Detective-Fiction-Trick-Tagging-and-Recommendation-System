@@ -54,8 +54,9 @@ export function parseWorksEditions(html) {
     const pic = (chunk.match(/<img src="(https:\/\/img\d\.doubanio\.com\/view\/subject\/[^"]+)"/) || [])[1] || '';
     const title = strip((chunk.match(/class="pl2"[^>]*>([\s\S]{0,160}?)<\/a>/) || [])[1]);
     const publisher = strip((chunk.match(/出版社:\s*<\/span>\s*([\s\S]{0,80}?)<br/) || [])[1]);
+    const translator = strip((chunk.match(/译者:\s*<\/span>\s*([\s\S]{0,80}?)<br/) || [])[1]);
     const year = ((chunk.match(/出版年:\s*<\/span>\s*([\d]{4}(?:-\d{1,2})?(?:-\d{1,2})?)/) || [])[1] || '').trim();
-    out.push({ subjectId, title, year, publisher, pic });
+    out.push({ subjectId, title, year, publisher, translator, pic });
   }
   return out;
 }
@@ -66,6 +67,20 @@ export function parseWorksEditions(html) {
 export function parseWorksLink(html) {
   const m = String(html || '').match(/href="https:\/\/book\.douban\.com\/works\/(\d+)"/);
   return m ? m[1] : '';
+}
+
+/**
+ * 这一页是不是豆瓣的**限流拦截页**。
+ *
+ * 豆瓣对高频访问会返回一个 3KB 上下的空壳（`<title>豆瓣</title>`，没有正文）。
+ * 必须把它与「这页真的没有 works 块」区分开：否则会把整库都记成
+ * 「这部作品没有其他版本」——那是**静默的数据损坏**，比抓不到更糟。
+ */
+export function isBlockPage(html, status = 200) {
+  const src = String(html || '');
+  if (status === 403 || status === 418) return true;
+  if (!src) return false;
+  return src.length < 8000 && !src.includes('id="mainpic"') && !src.includes('class="bkses');
 }
 
 /** 从任意写法里取四位年份（「2013-02」「2009年10月」都要能取出来） */

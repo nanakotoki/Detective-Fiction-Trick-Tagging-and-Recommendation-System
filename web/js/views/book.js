@@ -9,7 +9,7 @@ import { analyzeBook, RISK_META } from '../core/safety.js';
 import { gateRecommendations, isSensitive } from '../core/sensitive.js';
 import { collabLabel } from '../core/seed.js';
 import { markdownToHtml, renderCopyMarkdown, renderReport } from '../core/report.js';
-import { coverBlock, coverCreditLine } from '../ui/cover.js';
+import { coverBlock, coverCreditLine, editionsOf, openCoverViewer, renderEditionGallery } from '../ui/cover.js';
 import { copyText, download, html, raw, safeFilename, toast } from '../ui/dom.js';
 
 export const meta = { title: '书籍档案' };
@@ -64,7 +64,10 @@ export async function render(ctx) {
   main.innerHTML = html`
     <div class="view-header book-hero">
       <div class="hero-cover">
-        ${coverBlock(book, { size: 'hero' })} ${coverCreditLine(book)}
+        <button type="button" class="hero-cover-btn" data-cover-open="hero" title="点开看大图（可左右翻版本）">
+          ${coverBlock(book, { size: 'hero', link: false })}
+        </button>
+        ${coverCreditLine(book)}
       </div>
       <div class="hero-text">
         <span class="eyebrow">Book Profile</span>
@@ -195,13 +198,20 @@ export async function render(ctx) {
         </div>
 
         <div class="card mb-4">
-          <div class="section-title"><span class="num">三</span>无剧透简介</div>
+          <div class="section-title"><span class="num">三</span>封面与版本</div>
+          <div id="edition-gallery">
+            <p class="muted small">正在读取版本清单…</p>
+          </div>
+        </div>
+
+        <div class="card mb-4">
+          <div class="section-title"><span class="num">四</span>无剧透简介</div>
           <p>${book.safeSummary || '信息有限：暂无去剧透简介。'}</p>
           <p class="small muted">字数：${String(Array.from(book.safeSummary ?? '').length)} / 100</p>
         </div>
 
         <div class="card mb-4">
-          <div class="section-title"><span class="num">四</span>相似作品推荐</div>
+          <div class="section-title"><span class="num">五</span>相似作品推荐</div>
           ${
             // 敏感模式下不展示标签信息，这条「本书无诡计类标签」的说明同样隐去
             !sensitive && shownResult.trickGate?.relaxed
@@ -247,7 +257,7 @@ export async function render(ctx) {
         </div>
 
         <div class="card">
-          <div class="section-title"><span class="num">五</span>平台评价参考</div>
+          <div class="section-title"><span class="num">六</span>平台评价参考</div>
           <div class="table-wrap">
             <table>
               <thead>
@@ -365,6 +375,40 @@ export async function render(ctx) {
     target?.addEventListener(event, handler);
     cleanups.push(() => target?.removeEventListener(event, handler));
   };
+
+  /* ---------------- 版本一览：按需加载 + 点开看大图 ---------------- */
+
+  const galleryEl = main.querySelector('#edition-gallery');
+  let editions = [];
+  editionsOf(book.id)
+    .then((list) => {
+      if (!galleryEl?.isConnected) return;
+      if (list === null) {
+        galleryEl.innerHTML = html`<p class="muted small">
+          版本清单没读到（离线，或静态托管没带上 <code>data/covers-editions.json</code>）。
+        </p>`;
+        return;
+      }
+      editions = list;
+      galleryEl.innerHTML = renderEditionGallery(book, editions);
+    })
+    .catch(() => {
+      if (galleryEl?.isConnected) galleryEl.innerHTML = html`<p class="muted small">版本清单暂时读不到。</p>`;
+    });
+
+  on(main, 'click', (event) => {
+    // 详情页大图：点一下看大图（可左右翻版本）
+    if (event.target.closest('[data-cover-open="hero"]')) {
+      if (editions.length) openCoverViewer(book, editions, 0);
+      else toast('版本清单还在读取，稍等一下再点。', { type: 'warn' });
+      return;
+    }
+    // 版本一览里的小图：从这一版开始翻
+    const card = event.target.closest('[data-edition-index]');
+    if (card && editions.length) {
+      openCoverViewer(book, editions, Number(card.dataset.editionIndex) || 0);
+    }
+  });
 
   on(main, 'click', async (event) => {
     const action = event.target.closest('[data-action]')?.dataset.action;

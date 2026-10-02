@@ -256,7 +256,8 @@ export function modal(options) {
   const close = () => {
     backdrop.remove();
     document.removeEventListener('keydown', onKey);
-    document.body.style.removeProperty('overflow');
+    // 测试环境的 DOM 桩里 body 没有 style（真实浏览器里一定有），故用可选链兜一下
+    document.body?.style?.removeProperty?.('overflow');
   };
 
   for (const action of actions) {
@@ -280,7 +281,7 @@ export function modal(options) {
   });
 
   document.body.appendChild(backdrop);
-  document.body.style.overflow = 'hidden';
+  if (document.body.style) document.body.style.overflow = 'hidden';
   qs('button, input, textarea, select', backdrop)?.focus();
 
   return { close, root: backdrop };

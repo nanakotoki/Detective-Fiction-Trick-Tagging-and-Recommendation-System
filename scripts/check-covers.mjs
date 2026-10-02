@@ -84,6 +84,11 @@ let bytes = 0;
 let bySource = {};
 /** 台账条数（下面第 5 段要用，须在清单检查之前先算出来） */
 const withCover = Object.keys(records).length;
+let editionTotal = 0;
+let multiEdition = 0;
+let editionBytes = 0;
+/** 保存了多少个「非主图」的版本封面（它们也要算进仓库体积） */
+let extraEditionFiles = 0;
 for (const [id, rec] of Object.entries(records)) {
   referenced.add(rec.file);
   const full = path.join(COVERS_DIR, rec.file || '');
@@ -124,6 +129,42 @@ for (const [id, rec] of Object.entries(records)) {
     if (!rec.isbn) add('书号通道的记录没留 ISBN', id);
     else if (!src.includes(rec.isbn)) add('书号通道的 ISBN 不在该条著录里', `${id}：${rec.isbn}`);
   }
+
+  /* ---------------- 多版本（第 169 轮） ---------------- */
+
+  const eds = rec.editions;
+  if (!Array.isArray(eds) || !eds.length) {
+    add('记录没有多版本结构（跑 --seed-editions 迁移）', id);
+    continue;
+  }
+  editionTotal += eds.length;
+  if (eds.length > 1) multiEdition += 1;
+  if (eds.length > 3) add('保存的版本超过上限 3', `${id}：${eds.length} 个`);
+  if (eds[0].file !== rec.file || eds[0].primary !== true) {
+    add('主图与版本清单的第一条不一致', `${id}：record.file=${rec.file}，editions[0].file=${eds[0].file}`);
+  }
+  if (eds.filter((e) => e.primary).length !== 1) add('primary 标记不唯一', id);
+  for (const e of eds) {
+    if (!e.file) {
+      add('版本缺文件名', `${id} / ${e.subjectId || '?'}`);
+      continue;
+    }
+    referenced.add(e.file);
+    const full2 = path.join(COVERS_DIR, e.file);
+    if (!fs.existsSync(full2)) {
+      add('版本图片不在盘上', `${id} → ${e.file}`);
+      continue;
+    }
+    if (e.file !== rec.file) {
+      extraEditionFiles += 1;
+      editionBytes += fs.statSync(full2).size;
+      // 其他版本的文件名约定：`<作品 id>-<豆瓣条目 id>.webp`
+      if (e.subjectId && e.file !== `${id}-${e.subjectId}.webp`) {
+        add('其他版本的文件名不符合约定', `${id} → ${e.file}（应为 ${id}-${e.subjectId}.webp）`);
+      }
+    }
+    if (!sniff(fs.readFileSync(full2))) add('版本文件不是图片', `${id} → ${e.file}`);
+  }
 }
 
 const dirFiles = fs.readdirSync(COVERS_DIR).filter((f) => f !== '_placeholder.svg');
@@ -163,12 +204,50 @@ if (manifest) {
   }
 }
 
+/* ---------------- 6：多版本清单（data/covers-editions.json） ---------------- */
+
+const EDITIONS_FILE = path.join(ROOT, 'data', 'covers-editions.json');
+let editionsData = null;
+try {
+  editionsData = JSON.parse(fs.readFileSync(EDITIONS_FILE, 'utf8'));
+} catch {
+  add('读不到 data/covers-editions.json（跑 node scripts/gen-cover-manifest.mjs）', '');
+}
+if (editionsData) {
+  const listed = editionsData.books || {};
+  const ids = Object.keys(listed);
+  const withEds = Object.keys(records).filter((id) => records[id].editions?.length);
+  if (ids.length !== withEds.length) {
+    add('多版本清单与台账条数不一致', `清单 ${ids.length} 部 ／ 台账 ${withEds.length} 部`);
+  }
+  for (const id of ids) {
+    const rec = records[id];
+    if (!rec) {
+      add('多版本清单里有台账中没有的作品', id);
+      continue;
+    }
+    const first = listed[id][0];
+    if (!first || first.file !== rec.file) {
+      add('多版本清单的主图与台账不一致', `${id}：清单 ${first?.file || '—'} ／ 台账 ${rec.file}`);
+    }
+    for (const e of listed[id]) {
+      if (!fs.existsSync(path.join(COVERS_DIR, e.file || ''))) {
+        add('多版本清单指向的图片不在盘上', `${id} → ${e.file}`);
+      }
+    }
+  }
+}
+
 /* ---------------- 汇总 ---------------- */
 
 const pct = books.length ? ((withCover / books.length) * 100).toFixed(1) : '0.0';
 log(`  作品总数 ${books.length} 部 ｜ 有封面 ${withCover} 部（${pct}%）｜ 未取到 ${Object.keys(misses).length} 部`);
 log(`  图片体积合计 ${(bytes / 1024 / 1024).toFixed(1)}MB ｜ 来源分布 ${JSON.stringify(bySource)}`);
 if (withCover) log(`  平均每张 ${(bytes / withCover / 1024).toFixed(1)}KB`);
+log(
+  `  版本一览：${editionTotal} 条版本记录（${multiEdition} 部有 2 个以上版本）｜` +
+    ` 其他版本图片 ${extraEditionFiles} 张、${(editionBytes / 1024 / 1024).toFixed(1)}MB`,
+);
 
 if (problems.length) {
   log('');

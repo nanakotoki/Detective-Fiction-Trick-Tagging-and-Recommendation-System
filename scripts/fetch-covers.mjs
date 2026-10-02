@@ -85,6 +85,22 @@ const C = {
 };
 const color = (t, c) => (process.stdout.isTTY ? `${c}${t}${C.reset}` : String(t));
 
+/**
+ * 每部作品最多留几个版本的封面（第 169 轮）。
+ *
+ * 用户的期望是「尽量放好几个版本的封面，但外面只显示最新的那个」。
+ * 豆瓣 works 页给出的版本常有十几个（含台版、外文版、重印本），全存下来仓库要涨到几百 MB，
+ * 所以留 3 个：**最新的一版**（外面显示的那张）、**本库所收的那一版**（著录对得上的）、
+ * 以及**次新的一版**（让「版本历史」看得出变化）。其余版本在页面上只列年份与出版社，不存图。
+ */
+/**
+ * 每部作品最多留几个版本的封面（第 169 轮）——数值在 `args` 之后解析，见 MAX_EDITIONS
+ */
+
+
+/** 这一页是不是豆瓣的限流拦截页（纯函数在 lib 里，可单测） */
+const blockPage = (html, status) => isBlockPage(html, status);
+
 /* ------------------------------------------------------------------ */
 /* 参数                                                                */
 /* ------------------------------------------------------------------ */
@@ -133,12 +149,28 @@ const args = {
    * 有同年的一条就用同年那条，否则用最新的一条，且**绝不换成更老的**。
    */
   preferNewest: argv.includes('--prefer-newest'),
+  /**
+   * **多版本封面**（第 169 轮，用户要求「尽量放好几个版本的封面，但外面只显示最新的」）。
+   *
+   * 走 works 页把同一部作品的各版本摊开，最多留 `--max-editions`（默认 3）张：
+   * 最新的（主图）、本库所收的、次新的。其余版本只记年份与出版社，不存图。
+   */
+  editions: argv.includes('--editions'),
+  /** 只把现有记录转成新的 `editions` 结构（不联网），用于结构迁移 */
+  seedEditions: argv.includes('--seed-editions'),
   force: argv.includes('--force'),
   indexOnly: argv.includes('--index-only'),
   quiet: argv.includes('--quiet'),
 };
 /** 定向抓取（--book/--limit）时把进度打密一点，方便盯 */
 const VERBOSE = !args.quiet;
+
+/** 每部作品最多留几个版本的封面（第 169 轮，见文件头「多版本封面」一节） */
+const MAX_EDITIONS = (() => {
+  const i = argv.indexOf('--max-editions');
+  const n = i === -1 ? 3 : Number(argv[i + 1]);
+  return Number.isFinite(n) && n > 0 ? Math.min(8, Math.floor(n)) : 3;
+})();
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const startedAt = Date.now();
@@ -203,6 +235,7 @@ import {
   pickNewestEdition,
   parseWorksEditions,
   parseWorksLink,
+  isBlockPage,
 } from './lib/covers.mjs';
 import { parseDoubanOtherEditions } from '../web/js/core/ratings.js';
 /* ------------------------------------------------------------------ */
@@ -401,6 +434,38 @@ async function downloadCover(picUrl) {
 /** 这个状态码算「通道出问题」而不是「这本书就是没有」 */
 const isChannelStatus = (status) => status === 0 || status === 403 || status === 418 || status === 429 || status >= 500;
 
+/**
+ * 取一部作品的**全部版本**（豆瓣 works 页），供「多版本封面」挑图。
+ *
+ * 两步：① 从现有封面那条条目页里找 works 链接（找不到就说明豆瓣没关联其他版本）；
+ * ② 打开 works 页并按出版时间排序（新的在前）。
+ * 两级都要判「是不是被限流了」——豆瓣对高频访问会返回一个 3KB 的空壳页，
+ * 若把它当成「没有 works 页」，就会把整库都记成「没有其他版本」，那是**静默的数据损坏**。
+ */
+async function collectEditions(book, rec) {
+  const empty = { editions: [], blocked: false, note: '' };
+  if (!rec?.subjectId) return { ...empty, note: '没有豆瓣条目 id，取不了版本清单' };
+  let worksId = rec.worksId || '';
+  if (!worksId) {
+    await sleep(args.delay);
+    const page = await httpGet(`https://book.douban.com/subject/${rec.subjectId}/`, {
+      accept: 'text/html,application/xhtml+xml',
+    });
+    if (!page.ok) return { ...empty, blocked: isChannelStatus(page.status), note: `条目页 HTTP ${page.status}` };
+    if (isBlockPage(page.text, page.status)) return { ...empty, blocked: true, note: '条目页返回拦截页' };
+    worksId = parseWorksLink(page.text);
+  }
+  if (!worksId) return { ...empty, note: '该条目没有 works 页（豆瓣未关联其他版本）' };
+  await sleep(args.delay);
+  const works = await httpGet(`https://book.douban.com/works/${worksId}?order=time`, {
+    accept: 'text/html,application/xhtml+xml',
+  });
+  if (!works.ok) return { ...empty, worksId, blocked: isChannelStatus(works.status), note: `works 页 HTTP ${works.status}` };
+  if (isBlockPage(works.text, works.status)) return { ...empty, worksId, blocked: true, note: 'works 页返回拦截页' };
+  const editions = parseWorksEditions(works.text);
+  return { editions, worksId, blocked: false, note: editions.length ? '' : 'works 页里没有解析出版本' };
+}
+
 /* ------------------------------------------------------------------ */
 /* 主流程                                                              */
 /* ------------------------------------------------------------------ */
@@ -452,10 +517,53 @@ if (args.indexOnly) {
   process.exit(0);
 }
 
+/* --seed-editions：不联网，把现有记录迁移成带 `editions` 的结构（第 169 轮） */
+if (args.seedEditions) {
+  const bookById = new Map(books.map(({ book }) => [book.id, book]));
+  let n = 0;
+  for (const [id, rec] of Object.entries(index.records)) {
+    if (Array.isArray(rec.editions) && rec.editions.length) continue;
+    const book = bookById.get(id);
+    const year = yearOf(rec.edition?.year);
+    const bookYear = yearOf(book?.editionYear);
+    rec.editions = [
+      {
+        subjectId: rec.subjectId || '',
+        file: rec.file,
+        title: rec.edition?.title || book?.title || '',
+        year: rec.edition?.year || '',
+        publisher: '',
+        ...(rec.pic ? { pic: rec.pic } : {}),
+        bytes: rec.bytes,
+        width: rec.width,
+        height: rec.height,
+        format: rec.format,
+        primary: true,
+        collected: Boolean(year && bookYear && year === bookYear),
+        fetchedAt: rec.fetchedAt,
+      },
+    ];
+    n += 1;
+  }
+  saveIndex(index);
+  console.log(`[seed-editions] 迁移 ${n} 条记录为多版本结构（每条 1 个版本，等抓取补全）`);
+  process.exit(0);
+}
+
 /* 目标队列 */
 let targets = books.map(({ file, book }) => ({ file, book }));
 if (args.bookId) targets = targets.filter((t) => t.book.id === args.bookId);
-if (args.preferNewest) {
+if (args.editions) {
+  /**
+   * 多版本封面：对**已经有封面**的作品去补它的其他版本。
+   * 已经有 `editions` 且版本数够的跳过（增量语义，可反复跑）。
+   */
+  targets = targets.filter((t) => {
+    const rec = index.records[t.book.id];
+    if (!rec) return false;
+    return (rec.editions?.length || 0) < MAX_EDITIONS;
+  });
+} else if (args.preferNewest) {
   /**
    * 版本择优：只动**「封面比所收版本老」**的那些（年份都记着、且封面更老）。
    *
@@ -478,7 +586,7 @@ if (args.preferNewest) {
 } else if (args.missingOnly) {
   targets = targets.filter((t) => !hasFile(t.book.id, index.records[t.book.id]));
 }
-if (args.force || args.fixYearMismatch || args.preferNewest) {
+if (args.force || args.fixYearMismatch || args.preferNewest || args.editions) {
   /* 保留全部 */
 } else if (!args.missingOnly) {
   // 默认也跳过已有封面的（增量语义），要重抓请加 --force
@@ -488,14 +596,21 @@ if (args.limit) targets = targets.slice(0, args.limit);
 
 /** 已知落空的不再重试（要重试加 --retry-misses） */
 const beforeSkip = targets.length;
-if (!args.retryMisses && !args.force && !args.fixYearMismatch && !args.preferNewest) {
+if (!args.retryMisses && !args.force && !args.fixYearMismatch && !args.preferNewest && !args.editions) {
   targets = targets.filter((t) => !index.misses[t.book.id]);
 }
 const skippedKnown = beforeSkip - targets.length;
 
 const withSid = targets.filter((t) => t.book.ratings?.douban?.subjectId).length;
 console.log('');
-console.log(color(`  封面抓取：待处理 ${targets.length} 部（其中带强链接 subjectId 的 ${withSid} 部）`, C.bold));
+console.log(
+  color(
+    args.editions
+      ? `  多版本封面：待处理 ${targets.length} 部（每部最多留 ${MAX_EDITIONS} 个版本）`
+      : `  封面抓取：待处理 ${targets.length} 部（其中带强链接 subjectId 的 ${withSid} 部）`,
+    C.bold,
+  ),
+);
 console.log(color(`  通道 ${args.source} ｜ 已知落空跳过 ${skippedKnown} 部${args.retryMisses ? '（本轮回试）' : ''}`, C.dim));
 console.log(color(`  图片目录 ${path.relative(ROOT, COVERS_DIR)} ｜ 索引 ${path.relative(ROOT, INDEX_FILE)}`, C.dim));
 console.log('');
@@ -505,7 +620,11 @@ let okCount = 0;
 let skipCount = 0;
 /** 版本择优模式下「查过但不必换」的部数（它们本来就有封面，不算落空） */
 let keptCount = 0;
+/** 多版本模式下「新增的其他版本封面」总数 */
+let addedEditionCount = 0;
 let consecutiveFail = 0;
+/** 连续多少次「页面被限流」——连续几次就判定豆瓣在限流，主动收手 */
+let consecutiveBlocked = 0;
 let wrote = false;
 const missedThisRun = [];
 
@@ -531,10 +650,143 @@ for (const { book } of targets) {
 
   try {
     /**
-     * 版本择优分支（`--prefer-newest`）：不重新走「哪条能定下这本书」，而是
-     * **把同一部书的各版本摊开，挑与所收版本同年的一条，否则挑最新的一条**。
+     * 多版本封面分支（`--editions`）：只补「其他版本」，主图沿用现有那张。
+     *
+     * 挑选顺序：**最新的一版**（主图，如果比现有的还新就把它换上来）→ **本库所收那版** →
+     * **次新的一版**；最多 `MAX_EDITIONS` 张，其余版本只在页面上列年份与出版社。
      */
-    if (args.preferNewest) {
+    if (args.editions) {
+      const rec = index.records[book.id];
+      const bookYear = yearOf(book.editionYear);
+      const { editions: found, worksId, blocked, note } = await collectEditions(book, rec);
+      if (blocked) {
+        consecutiveBlocked += 1;
+        channelError = true;
+        noChange = true;
+        reasons.push(`版本清单取不到：${note}（豆瓣限流）`);
+      } else if (!found.length) {
+        consecutiveBlocked = 0;
+        noChange = true;
+        // 版本清单本来就没有 → 保留现有记录（并确保结构是新的 editions 数组）
+        rec.editions = rec.editions?.length
+          ? rec.editions
+          : [
+              {
+                subjectId: rec.subjectId || '',
+                file: rec.file,
+                title: rec.edition?.title || book.title,
+                year: rec.edition?.year || '',
+                publisher: '',
+                bytes: rec.bytes,
+                width: rec.width,
+                height: rec.height,
+                format: rec.format,
+                primary: true,
+                collected: Boolean(yearOf(rec.edition?.year) && bookYear && yearOf(rec.edition?.year) === bookYear),
+                fetchedAt: rec.fetchedAt,
+              },
+            ];
+        reasons.push(`版本清单：${note || '无其他版本'}`);
+      } else {
+        consecutiveBlocked = 0;
+        if (worksId) rec.worksId = worksId;
+        /** 有年份的排在前面（按年降序）；无年份的放最后 */
+        const dated = found.filter((e) => yearOf(e.year)).sort((a, b) => Number(yearOf(b.year)) - Number(yearOf(a.year)));
+        const undated = found.filter((e) => !yearOf(e.year));
+        const ordered = [...dated, ...undated];
+        /** 挑：最新 → 本库所收那版 → 次新 → 再往后补足 */
+        const picked = [];
+        const push = (e) => {
+          if (e && !picked.some((x) => x.subjectId === e.subjectId) && picked.length < MAX_EDITIONS) picked.push(e);
+        };
+        push(ordered[0]);
+        push(bookYear ? ordered.find((e) => yearOf(e.year) === bookYear) : null);
+        for (const e of ordered) push(e);
+
+        const outEditions = [];
+        for (const [i, e] of picked.entries()) {
+          const isPrimary = i === 0;
+          const file = isPrimary ? rec.file : `${book.id}-${e.subjectId}.webp`;
+          const exists = fs.existsSync(path.join(COVERS_DIR, file));
+          let meta = null;
+          if (isPrimary) {
+            // 主图已存在：沿用原文件与原体积信息
+            meta = { bytes: rec.bytes, width: rec.width, height: rec.height, format: rec.format };
+          } else if (exists) {
+            const buf = fs.readFileSync(path.join(COVERS_DIR, file));
+            const size = imageSize(buf);
+            meta = { bytes: buf.length, width: size.width, height: size.height, format: size.format };
+          } else if (e.pic && !isDefaultPic(e.pic)) {
+            await sleep(args.delay);
+            const img = await downloadCover(e.pic);
+            if (img && !img.failed) {
+              fs.writeFileSync(path.join(COVERS_DIR, file), img.buf);
+              meta = { bytes: img.bytes, width: img.width, height: img.height, format: img.format };
+              addedEditionCount += 1;
+            } else if (img?.failed && isChannelStatus(img.status)) {
+              channelError = true;
+            }
+          }
+          if (!meta) continue; // 没有图就不登记这一版（宁缺毋滥）
+          outEditions.push({
+            subjectId: String(e.subjectId),
+            file,
+            title: e.title || book.title,
+            year: e.year || '',
+            publisher: e.publisher || '',
+            ...(e.translator ? { translator: e.translator } : {}),
+            ...(e.pic ? { pic: e.pic } : {}),
+            bytes: meta.bytes,
+            width: meta.width,
+            height: meta.height,
+            format: meta.format,
+            primary: isPrimary,
+            collected: Boolean(bookYear && yearOf(e.year) === bookYear),
+            fetchedAt: new Date().toISOString(),
+          });
+        }
+        if (outEditions.length) {
+          /**
+           * 主图必须与 `editions[0]` 一致：works 页上若有更新的版本，
+           * 就把主图换成它——这正好与「外面只显示最新版」这条要求一致。
+           */
+          const primary = outEditions[0];
+          if (primary.file !== rec.file) {
+            /** 新主图还没下过（`primary.file` 是 `<id>-<subjectId>.webp`）→ 复制成 `<id>.webp` */
+            const src = path.join(COVERS_DIR, primary.file);
+            if (fs.existsSync(src)) {
+              fs.copyFileSync(src, path.join(COVERS_DIR, `${book.id}.webp`));
+              primary.file = `${book.id}.webp`;
+            }
+          }
+          rec.editions = outEditions;
+          rec.file = primary.file;
+          rec.subjectId = primary.subjectId;
+          rec.sourceUrl = `https://book.douban.com/subject/${primary.subjectId}/`;
+          rec.edition = { title: primary.title, author: book.author, year: primary.year };
+          rec.bytes = primary.bytes;
+          rec.width = primary.width;
+          rec.height = primary.height;
+          rec.format = primary.format;
+          rec.matched = 'editions+works';
+          rec.query = `版本一览（${outEditions.length} 版）`;
+          rec.bookYear = book.editionYear || '';
+          rec.yearMatch = primary.year && bookYear ? yearOf(primary.year) === bookYear : null;
+          rec.fetchedAt = new Date().toISOString();
+          delete index.misses[book.id];
+          okCount += 1;
+          if (VERBOSE && (done <= 20 || done % 25 === 0)) {
+            console.log(
+              `  ✓ ${book.id}《${book.title}》留 ${outEditions.length} 版：` +
+                outEditions.map((e) => `${e.year || '—'}${e.primary ? '(主)' : ''}`).join(' / ')
+            );
+          }
+        } else {
+          noChange = true;
+          reasons.push('版本清单：候选版本都没有可用封面');
+        }
+      }
+    } else if (args.preferNewest) {
       const rec = index.records[book.id];
       const bookYear = yearOf(book.editionYear);
       const curId = String(rec?.subjectId || '');
@@ -838,6 +1090,17 @@ for (const { book } of targets) {
     console.log(color('    已抓到的都在盘上；稍后重跑同一条命令即可增量继续。', C.dim));
     break;
   }
+
+  /**
+   * 豆瓣限流专用熔断：连着一批页面都是那个 3KB 空壳，就别再敲了——
+   * 继续跑只会把「取不到版本清单」写成一批「本来就没有其他版本」的结论。
+   */
+  if (consecutiveBlocked >= 5) {
+    console.log('');
+    console.log(color(`  ✗ 连续 ${consecutiveBlocked} 部的豆瓣页面都是拦截页，判定为限流，主动收手。`, C.red));
+    console.log(color('    已抓到的都在盘上；等一会儿再重跑同一条命令即可增量继续。', C.dim));
+    break;
+  }
   await sleep(args.delay);
 }
 
@@ -853,7 +1116,7 @@ process.on('unhandledRejection', (err) => {
 const total = Object.keys(index.records).length;
 const missTotal = Object.keys(index.misses).length;
 console.log('');
-console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部${keptCount ? `，保持原封面 ${keptCount} 部` : ''}；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
+console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部${keptCount ? `，保持原封面 ${keptCount} 部` : ''}${addedEditionCount ? `，新增其他版本封面 ${addedEditionCount} 张` : ''}；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
 console.log(`  索引现有封面 ${total} 条，未取到 ${missTotal} 条`);
 if (missedThisRun.length) {
   console.log(color('  本轮未取到的前 10 条：', C.dim));

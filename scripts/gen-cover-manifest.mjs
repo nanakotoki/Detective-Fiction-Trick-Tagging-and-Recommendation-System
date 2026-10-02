@@ -150,3 +150,62 @@ fs.writeFileSync(OUT_FILE, lines.join('\n'), 'utf8');
 console.log(`  ✓ 已写出 ${path.relative(ROOT, OUT_FILE)}`);
 console.log(`    有封面 ${withCover} / ${total} 部（缺 ${total - withCover}）；来源分布 ${JSON.stringify(bySource)}`);
 if (missingFile) console.log(`  ! 台账里有 ${missingFile} 条指向的图片文件不在磁盘上（跑 check-covers 看详情）`);
+
+/* ------------------------------------------------------------------ */
+/* 多版本清单（data/covers-editions.json，第 169 轮）                   */
+/* ------------------------------------------------------------------ */
+
+/**
+ * 「版本一览」要的是**每部作品有哪些版本、每版的出版年与出版社**。
+ *
+ * 单独放一个文件、由档案页**按需 fetch**，而不是塞进 `covers.js`：
+ * 每部最多 3 个版本、3154 部，编进启动就加载的模块里会白白多几百 KB，
+ * 而多数页面（知识库列表、标签页）根本用不到它。
+ */
+const editionBooks = {};
+let editionTotal = 0;
+for (const book of books) {
+  const rec = index.records?.[book.id];
+  if (!rec?.editions?.length) continue;
+  const list = rec.editions
+    .filter((e) => e?.file && fs.existsSync(path.join(COVERS_DIR, e.file)))
+    .map((e) => ({
+      subjectId: e.subjectId || '',
+      year: e.year || '',
+      publisher: e.publisher || '',
+      ...(e.translator ? { translator: e.translator } : {}),
+      title: e.title || book.title,
+      file: e.file,
+      primary: Boolean(e.primary),
+      collected: Boolean(e.collected),
+      // 豆瓣原图地址（前端「看大图」时把 s 档换成 l 档按需加载，失败就退回本地这张）
+      ...(e.pic ? { pic: e.pic } : {}),
+    }));
+  if (!list.length) continue;
+  editionBooks[book.id] = list;
+  editionTotal += list.length;
+}
+const editionsFile = path.join(ROOT, 'data', 'covers-editions.json');
+fs.writeFileSync(
+  editionsFile,
+  `${JSON.stringify(
+    {
+      format: 'detective-fiction-cover-editions',
+      version: 1,
+      note:
+        '封面版本一览：每部作品保存了哪几个版本的封面（最多 3 个）、各自的出版年与出版社。' +
+        'file 是 web/covers/ 下的文件名；primary＝外面（书卡与档案页大图）显示的那一张，取最新的一版。' +
+        '这份文件由 scripts/gen-cover-manifest.mjs 生成，档案页按需加载。',
+      generatedAt: new Date().toISOString(),
+      bookCount: Object.keys(editionBooks).length,
+      editionCount: editionTotal,
+      books: editionBooks,
+    },
+    null,
+    1,
+  )}\n`,
+  'utf8',
+);
+const multi = Object.values(editionBooks).filter((l) => l.length > 1).length;
+console.log(`  ✓ 已写出 ${path.relative(ROOT, editionsFile)}`);
+console.log(`    版本记录 ${editionTotal} 条，覆盖 ${Object.keys(editionBooks).length} 部（其中 ${multi} 部有 2 个以上版本）`);

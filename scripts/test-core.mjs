@@ -38,6 +38,7 @@ import { canonicalSeries, sameSeries } from '../web/js/core/seed.js';
 import { duplicateReason, looksLikeCollectionName, normText } from './lib/dup-rules.mjs';
 import {
   imageSize,
+  isBlockPage,
   isDefaultPic,
   isbnsOf,
   parseInfoLite,
@@ -1961,7 +1962,7 @@ test('版本择优：works 页解析（同一部作品的全部版本，含封�
       <div class="bkimg"><a href="https://book.douban.com/subject/11614712/">
         <img src="https://img3.doubanio.com/view/subject/s/public/s11194369.jpg"/></a></div>
       <div class="bkdesc"><a class="pl2" href="https://book.douban.com/subject/11614712/"> 狱门岛 </a><br/>
-        <div><span class="pl"> 出版社: </span> 南海出版公司<br/><span class="pl"> 出版年: </span> 2021-5<br/></div>
+        <div><span class="pl"> 译者: </span> 王丽丽<br/><span class="pl"> 出版社: </span> 南海出版公司<br/><span class="pl"> 出版年: </span> 2021-5<br/></div>
       </div>
     </div>`;
   const eds = parseWorksEditions(html);
@@ -1971,13 +1972,29 @@ test('版本择优：works 页解析（同一部作品的全部版本，含封�
     title: '獄门島',
     year: '2026-2-26',
     publisher: '獨步文化',
+    translator: '',
     pic: 'https://img3.doubanio.com/view/subject/s/public/s35411750.jpg',
   });
   assert.equal(eds[1].year, '2021-5');
+  assert.equal(eds[1].translator, '王丽丽');
   assert.equal(yearOf(eds[1].year), '2021');
 
   // 条目页里 works 链接的抽取
   assert.equal(parseWorksLink('<a href="https://book.douban.com/works/1014262">全部12</a>'), '1014262');
   assert.equal(parseWorksLink('<div>没有链接</div>'), '');
   assert.deepEqual(parseWorksEditions(''), []);
+});
+
+test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作品没有其他版本」）', () => {
+  // 实测的拦截页形态：3KB 上下、<title>豆瓣</title>、没有正文
+  const block = `<!DOCTYPE html><html><head><meta charset="utf-8"><title>豆瓣</title></head><body>${'x'.repeat(2900)}</body></html>`;
+  assert.equal(isBlockPage(block, 200), true);
+  assert.equal(isBlockPage('<html><body>403 Forbidden</body></html>', 403), true);
+  assert.equal(isBlockPage('', 200), false, '空响应不判定为拦截（那是网络问题，另有熔断）');
+
+  // 正常条目页 / works 页不能被误判
+  const normal = `<html><body>${'y'.repeat(9000)}<div id="mainpic"><img src="a.jpg"></div></body></html>`;
+  assert.equal(isBlockPage(normal, 200), false);
+  const works = `<html><body><div class="bkses clearfix">…</div>${'z'.repeat(9000)}</body></html>`;
+  assert.equal(isBlockPage(works, 200), false);
 });

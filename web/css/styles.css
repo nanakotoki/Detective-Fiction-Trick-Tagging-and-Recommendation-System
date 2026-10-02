@@ -1082,12 +1082,143 @@ td.num {
   flex: 0 0 auto;
   align-self: flex-start;
   width: 104px;
+  position: relative;
   border-radius: var(--radius-sm);
   overflow: hidden;
   background: var(--bg-sunken);
   border: 1px solid var(--border);
   line-height: 0;
   transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+
+/**
+ * 封面角上的出版年（用户要求「标上出版日期」）。
+ * 做得克制：只在右下角一枚小字，不挡住封面本身。
+ */
+.cover-year {
+  position: absolute;
+  right: 4px;
+  bottom: 4px;
+  padding: 1px 5px;
+  border-radius: var(--radius-full);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+  color: #fff;
+  background: rgb(0 0 0 / 0.55);
+  backdrop-filter: blur(2px);
+  line-height: 1.5;
+}
+
+/* 详情页封面：整块可点，点开看大图 */
+.hero-cover-btn {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: zoom-in;
+  border-radius: var(--radius);
+}
+
+.hero-cover-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* ---------- 版本一览 ---------- */
+.edition-grid {
+  display: grid;
+  gap: var(--space-3);
+  grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
+}
+
+.edition-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: var(--space-2);
+  text-align: left;
+  cursor: zoom-in;
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+
+.edition-card:hover {
+  border-color: var(--accent-line);
+  transform: translateY(-2px);
+}
+
+.edition-card.is-primary {
+  border-color: var(--accent-line);
+  background: var(--accent-soft);
+}
+
+.edition-card img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 270 / 400;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  background: var(--bg-sunken);
+  display: block;
+}
+
+.edition-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+  line-height: 1.4;
+}
+
+.edition-year {
+  font-weight: 700;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.edition-pub {
+  font-size: 0.7rem;
+  color: var(--text-faint);
+}
+
+/* ---------- 看大图（灯箱） ---------- */
+.cover-viewer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+.cover-viewer-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 240px;
+  padding: var(--space-2);
+  background: var(--bg-sunken);
+  border-radius: var(--radius);
+  width: 100%;
+}
+
+.cover-viewer-img {
+  max-width: min(72vw, 460px);
+  max-height: 64vh;
+  width: auto;
+  height: auto;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+}
+
+.cover-viewer-meta {
+  text-align: center;
+}
+
+.cover-viewer-meta p {
+  margin: 2px 0 0;
 }
 
 .cover-img {

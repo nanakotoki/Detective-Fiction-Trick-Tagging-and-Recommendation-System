@@ -981,6 +981,84 @@ if (detailed) {
 
 /* ------------------------------------------------------------------ */
 
+console.log('');
+console.log(color('  [13] 多版本封面与「看大图」（第 169 轮）', C.dim));
+
+/**
+ * 用户的三条要求在这里逐条落成断言：
+ *   ① 外面只显示**最新的一版**，并**标上出版日期**；
+ *   ② 详细页给出**多个版本**；
+ *   ③ 点封面能**看大图**（灯箱，且能左右翻版本）。
+ * 数据层（`data/covers-editions.json`）在测试环境里读不到，所以这里直接对渲染函数下断言——
+ * 那是真正决定页面长什么样的地方，也顺带证明「读不到清单时页面不炸」。
+ */
+const { coverBlock, renderEditionGallery, openCoverViewer, editionUrl } = await import(
+  new URL('../web/js/ui/cover.js', import.meta.url).href
+);
+const { loadSeedBooks: seedBooksForCover } = await import(new URL('../web/js/core/seed.js', import.meta.url).href);
+const sampleBook = (seedBooksForCover?.() ?? []).find((b) => b.id === 'honkaku-001') ?? { id: 'x', title: '样本' };
+
+// ① 卡片封面带出版年角标
+const cardHtml = coverBlock(sampleBook, { size: 'card' });
+check('卡片封面带出版年角标', cardHtml.includes('cover-year'), '未渲染 .cover-year');
+check(
+  '角标里是四位年份',
+  /\d{4}/.test((cardHtml.match(/cover-year">([^<]*)</) || [])[1] ?? ''),
+  (cardHtml.match(/cover-year">([^<]*)</) || [])[1] ?? '(空)',
+);
+
+// ② 版本一览：三个版本各自的年份、出版社、标记都要出来
+const demoEditions = [
+  { subjectId: '3', year: '2026', publisher: '獨步文化', title: sampleBook.title, primary: true, collected: false, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}.webp` }) },
+  { subjectId: '2', year: '2021', publisher: '南海出版公司', title: sampleBook.title, primary: false, collected: true, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}-2.webp` }) },
+  { subjectId: '1', year: '2012', publisher: '南海出版公司', translator: '王丽丽', title: sampleBook.title, primary: false, collected: false, url: editionUrl(sampleBook.id, { file: `${sampleBook.id}-1.webp` }) },
+];
+const gallery = renderEditionGallery(sampleBook, demoEditions);
+check('版本一览渲染出每一版', (gallery.match(/edition-card/g) || []).length === 3, `${(gallery.match(/edition-card/g) || []).length} 张`);
+check('每一版都标了出版年', ['2026', '2021', '2012'].every((y) => gallery.includes(y)));
+check('标出出版社与译者', gallery.includes('獨步文化') && gallery.includes('王丽丽 译'));
+check('标出「封面用这版」与「本库所收」', gallery.includes('封面用这版') && gallery.includes('本库所收'));
+check('说明文字讲清「外面显示最新的一版」', gallery.includes('最新的一版'));
+
+// 空清单时给一句人话，而不是空白
+check(
+  '没有其他版本时给出说明',
+  renderEditionGallery(sampleBook, []).includes('没有关联到其他版本'),
+);
+
+// ③ 点开看大图：灯箱里有图、有版本信息，能翻到下一版，Esc 能关
+const viewer = openCoverViewer(sampleBook, demoEditions, 0);
+const viewerRoot = viewer?.root;
+check('点封面弹出灯箱', Boolean(viewerRoot?.querySelector('.cover-viewer-img')));
+check(
+  '灯箱里显示当前版本的年份与出版社',
+  viewerRoot?.textContent.includes('2026') && viewerRoot?.textContent.includes('獨步文化'),
+);
+check('灯箱里标出「第 1 / 3 版」', (viewerRoot?.textContent ?? '').includes('第 1 / 3 版'));
+const nextBtn = [...(viewerRoot?.querySelectorAll('.modal-foot button') ?? [])].find((b) => b.textContent.includes('下一版'));
+nextBtn?.dispatchEvent({ type: 'click' });
+check(
+  '点「下一版」会翻到第二版',
+  (viewerRoot?.textContent ?? '').includes('第 2 / 3 版'),
+  viewerRoot?.textContent?.replace(/\s+/g, ' ').slice(0, 120) ?? '',
+);
+const prevBtn = [...(viewerRoot?.querySelectorAll('.modal-foot button') ?? [])].find((b) => b.textContent.includes('上一版'));
+prevBtn?.dispatchEvent({ type: 'click' });
+prevBtn?.dispatchEvent({ type: 'click' });
+check('往回翻会绕到最后（循环）', (viewerRoot?.textContent ?? '').includes('第 3 / 3 版'));
+viewer?.close();
+check('灯箱可关闭', !viewerRoot?.isConnected);
+
+// 详情页里真的挂了「封面与版本」这一块
+dom.window.location.hash = '#/book/honkaku-001';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(260);
+check('档案页有「封面与版本」一节', dom.document.body.textContent.includes('封面与版本'));
+check('档案页版本一览是一个可填充的容器', Boolean(dom.document.querySelector('#edition-gallery')));
+check('档案页大图可点（点开看大图）', Boolean(dom.document.querySelector('[data-cover-open="hero"]')));
+
+/* ------------------------------------------------------------------ */
+
 console.error = originalError;
 
 console.log('');
