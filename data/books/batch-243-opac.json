@@ -1,0 +1,321 @@
+[
+  {
+    "id": "opac166-001",
+    "title": "推理者的游戏：第一届华文推理大奖赛典藏集.上卷",
+    "alternateTitles": [
+      "推理者的游戏 第一届华文推理大奖赛典藏集(上卷)"
+    ],
+    "originalTitle": "",
+    "author": "远宁 等",
+    "authors": [
+      "远宁"
+    ],
+    "anthology": true,
+    "authorEn": "Yuan Ning",
+    "genre": "犯罪悬疑",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "第一届华文推理大奖赛典藏集",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble"
+    ],
+    "school": [],
+    "safeSummary": "「第一届华文推理大奖赛」典藏集上卷（新星出版社「午夜文库」2013）：收录大赛佳作七篇，馆藏提要照录篇名。",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.9,
+        "count": 471,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20381550/",
+        "subjectId": "20381550",
+        "edition": "推理者的游戏 2013",
+        "fetchedAt": "2026-10-02T11:58:02.471Z",
+        "asOf": "2026-10"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中国原创推理短篇的读者",
+        "关注华文推理大奖赛的读者"
+      ],
+      "watchFor": [
+        "七篇各自的谜面",
+        "大赛选本的取择标准"
+      ],
+      "warning": "中国原创推理短篇选集，**多位作家的合集**（`anthology`）；馆藏提要未提供情节，梗概只到篇名这一层。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-10",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题「推理小说」逐条取字段）：远宁等著，新星出版社 2013，ISBN 978-7-5133-0977-6，378 页，丛编「**午夜文库**」，**学科主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（**①档**），中图法 `I247.7`。馆藏 **330 提要**：「本书收录了第一届华文推理大奖赛巅峰佳作七篇，包括《看朱成碧》、《恋爱反身》、《第五大道谋杀案》、《推理作家的游戏》、《铁兽》、《众里寻她千百度》、《黄昏公园》。」——**篇目照著录抄录**，梗概不涉情节。**多作者模型**：著录的责任者只有首位作者「远宁」，故 `author` 记「远宁 等」、`authors` 只登记远宁一位并标 `anthology`（界面显示「合集」徽章），其余作者**不臆补**。**流派留空**：七篇篇名里没有流派线索，按「不猜」原则 `school` 留空并如实说明。**本节与 §158 那条待核的关系**：`data/not-collected.json` 里曾把上卷记为「待核·选集（须看篇目）」，本轮取到上述篇目后按证据收进来，该条已从待核清单撤下。**年份字段说明**：`firstPublished` 留空（中文原创）；`editionYear` 记 2013。**评分**：标「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-243-opac.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac166-002",
+    "title": "名侦探的噩梦：第一届华文推理大奖赛典藏集.下卷",
+    "alternateTitles": [
+      "名侦探的噩梦 第一届华文推理大奖赛典藏集(下卷)"
+    ],
+    "originalTitle": "",
+    "author": "E伯爵 等",
+    "authors": [
+      "E伯爵"
+    ],
+    "anthology": true,
+    "authorEn": "E Bojue",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2013",
+    "series": "第一届华文推理大奖赛典藏集",
+    "detective": "",
+    "country": "中国",
+    "tags": [
+      "ensemble",
+      "locked-room"
+    ],
+    "school": [
+      "orthodox-school"
+    ],
+    "safeSummary": "「第一届华文推理大奖赛」典藏集下卷（新星出版社「午夜文库」2013）：收录大赛佳作八篇，馆藏提要照录篇名。",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.7,
+        "count": 300,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/20381559/",
+        "subjectId": "20381559",
+        "edition": "名侦探的噩梦 2013",
+        "fetchedAt": "2026-10-02T11:58:06.234Z",
+        "asOf": "2026-10"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "中国原创推理短篇的读者",
+        "偏爱密室与解谜的读者"
+      ],
+      "watchFor": [
+        "八篇各自的谜面",
+        "「密室」这个题目在大赛里的写法"
+      ],
+      "warning": "中国原创推理短篇选集，**多位作家的合集**（`anthology`）；馆藏提要未提供情节，梗概只到篇名这一层。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-10",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题「推理小说」逐条取字段）：E伯爵等著，新星出版社 2013，ISBN 978-7-5133-0978-3，431 页，丛编「**午夜文库. 原创系列**」，**学科主题词「推理小说 小说集 中国 当代 ; 短篇小说 小说集 中国 当代」**（**①档**），中图法 `I247.7`。馆藏 **330 提要**：「本书收录了第一届华文推理大奖赛巅峰佳作八篇，包括《灰姑娘》、《死神闯入雪密室》、《1/2模仿犯》、《密室·本格·谁的妄想》、《冰柩之城》、《七宗罪之骄傲》、《不可饶恕》、《嫌疑人0的隐身》。」——**篇目照著录抄录**。**流派与诡计标签的判据写在篇名上**：八篇里《死神闯入雪密室》《密室·本格·谁的妄想》两篇标题直接出现「密室」与「本格」，据此标 `locked-room` 与 `orthodox-school`，`genre` 记「本格推理」——**这是篇名层面的判据，不是逐篇读过之后的判断**，如实写明。**多作者模型**：著录责任者只有「E伯爵」，故 `author` 记「E伯爵 等」、`authors` 只登记一位并标 `anthology`。**与上卷的关系**：两册同属「第一届华文推理大奖赛典藏集」，`series` 一致，各自独立成条（两册书号、页数、篇目都不同）。**年份字段说明**：`firstPublished` 留空；`editionYear` 记 2013。**评分**：标「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-243-opac.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac166-003",
+    "title": "季警官的无厘头推理事件簿.3",
+    "originalTitle": "",
+    "author": "亮亮",
+    "authorEn": "Liang Liang",
+    "genre": "本格推理",
+    "firstPublished": "",
+    "editionYear": "2015",
+    "series": "季警官系列",
+    "detective": "季警官",
+    "country": "中国",
+    "tags": [
+      "series-detective",
+      "ensemble"
+    ],
+    "school": [
+      "trick-school"
+    ],
+    "safeSummary": "「季警官」系列第三册（长江出版社「了不起的推理系列」2015）：杀手、骗子、小偷、线人轮番上场的幽默推理短篇集。",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 7.3,
+        "count": 35,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/26798936/",
+        "subjectId": "26798936",
+        "edition": "季警官的无厘头推理事件簿3 2016",
+        "fetchedAt": "2026-10-02T11:58:09.650Z",
+        "asOf": "2026-10"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "喜欢幽默推理短篇的读者",
+        "亮亮的读者"
+      ],
+      "watchFor": [
+        "杀手、骗子、小偷、线人各自的那一出",
+        "出版社文案提到的「首届华语网络文学双年奖优秀作品」"
+      ],
+      "warning": "推理短篇集；含命案描写，基调诙谐。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-10",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按学科主题「推理小说」）：亮亮著，长江出版社 2015，ISBN 978-7-5492-4301-3，230 页，丛编「**了不起的推理系列**」，**学科主题词「推理小说 小说集 中国 当代」**（**①档**），中图法 `I247.56`（中国推理小说类）。**本册馆藏无 330 提要**（如实记录），梗概依据改为**豆瓣条目页的「内容简介」**（`https://book.douban.com/subject/26798936/`，仅读简介区块，不读书评）：该页写明本册是「杀手、骗子、绑匪、小偷、毒贩、线人轮番上场」的短篇集，并被《本格ミステリー・ワールド2016》（岛田庄司主编）与推理作家时晨评价为**幽默推理**——梗概只取「谁登场、什么调子」这一层，**不写任何情节与结局**。**补系列缺口**：库内已有第二册（`opac160-012`，长江出版社 2015、《把自己推理成凶手的名侦探》），本册是第三册；`series`／`detective` 与第二册一致。**流派**：沿用同系列第二册的「本格推理」+`trick-school`（豆瓣简介所引的评价同样落在幽默推理／本格脉络上）。**版本年的一点出入**：上图著录 2015，豆瓣条目标 2016——本库以**所收版本（上图著录）**为准记 `editionYear` 2015，并在 `data/covers.json`／台账里留痕。**年份字段说明**：`firstPublished` 留空。**评分**：标「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-243-opac.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  },
+  {
+    "id": "opac166-004",
+    "title": "只为你而闪亮的黑暗星",
+    "alternateTitles": [
+      "美少年侦探团 只为你而闪亮的黑暗星"
+    ],
+    "originalTitle": "",
+    "author": "西尾维新",
+    "authorEn": "Nisio Isin",
+    "genre": "青春推理",
+    "firstPublished": "",
+    "editionYear": "2024",
+    "series": "美少年侦探团系列",
+    "detective": "瞳岛眉美",
+    "country": "日本",
+    "tags": [
+      "campus",
+      "ensemble",
+      "youth"
+    ],
+    "school": [
+      "daily-mystery-school"
+    ],
+    "safeSummary": "「美少年侦探团」第一册（人民文学出版社 2024）：指轮学园初中部的瞳岛眉美要寻找一颗十年前一闪而逝的星星，五位美少年接下了这桩委托。",
+    "ratings": {
+      "douban": {
+        "summary": "暂无数据",
+        "score": 6.2,
+        "count": 132,
+        "scale": "10 分制",
+        "source": "豆瓣读书（实时抓取）",
+        "sourceUrl": "https://book.douban.com/subject/36862598/",
+        "subjectId": "36862598",
+        "edition": "只为你而闪亮的黑暗星 2024",
+        "fetchedAt": "2026-10-02T12:00:57.446Z",
+        "asOf": "2026-10"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "goodreads": {
+        "score": null,
+        "count": null,
+        "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      }
+    },
+    "readingTips": {
+      "suitableFor": [
+        "「美少年侦探团」系列的读者",
+        "喜欢校园社团题材的读者"
+      ],
+      "watchFor": [
+        "「寻找一颗星星」这桩荒诞的委托",
+        "五位团员各自的脾气"
+      ],
+      "warning": "青少年向推理小说，笔调轻快，为**系列第一册**。"
+    },
+    "vault": {
+      "culprit": "",
+      "coreTrick": "",
+      "ending": "",
+      "notes": ""
+    },
+    "origin": "seed",
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-10",
+      "source": "书目取自**上海图书馆 OPAC**（CNMARC，按丛编／作者枚举）：西尾维新著，人民文学出版社 2024，ISBN 978-7-02-018646-4，255 页，丛编「「美少年侦探团」系列 ; **01**」，**学科主题词「推理小说 日本 现代 ; 长篇小说 日本 现代」**（**①档**），中图法 `I313.45`。**本册馆藏无 330 提要**（如实记录），梗概依据改为**豆瓣条目页的「内容简介」**（`https://book.douban.com/subject/36862598/`）：该页写明主角是「私立指轮学园初中部二年级的少女瞳岛眉美」，她要找「一颗十年前短暂闪耀于星空、之后再也不曾出现过的星星」，由五名美少年组成的「美少年侦探团」接下委托——梗概只取这一层，**不涉真相**。**补系列缺口**：库内已有同系列《美少年M》《绿衣的美少年》（`shlib162-015`／`016`，人民文学出版社 2025），本册是丛编著录的 **01**，`series`／`detective` 与那两册一致（`detective` 记瞳岛眉美，同为本册豆瓣简介写明的主角，非推测）。`school` 记「日常之谜派」：本册谜面是**寻物**而非命案，与同系列另两册的标注一致。**标题处理**：上图把丛编名与分册题名连著作「美少年侦探团 只为你而闪亮的黑暗星」，库内同系列另两册都只以分册题名著录，故 `title` 取分册题名、原著录取 `alternateTitles`。**年份字段说明**：`firstPublished` 留空（原作名待豆瓣条目页回填）；`editionYear` 记 2024。**评分**：标「暂无数据」。"
+    },
+    "provenance": {
+      "source": "batch-243-opac.json",
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+    }
+  }
+]
