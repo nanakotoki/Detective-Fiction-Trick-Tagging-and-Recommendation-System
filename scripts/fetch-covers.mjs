@@ -729,6 +729,8 @@ let skipCount = 0;
 let keptCount = 0;
 /** 多版本模式下「新增的其他版本封面」总数 */
 let addedEditionCount = 0;
+/** 因判重而删掉的本地其他版本图（含「盘上已有但其实是同一张」的那些） */
+let droppedFiles = 0;
 let consecutiveFail = 0;
 /** 连续多少次「页面被限流」——连续几次就判定豆瓣在限流，主动收手 */
 let consecutiveBlocked = 0;
@@ -884,6 +886,29 @@ for (const { book } of targets) {
           } else if (exists) {
             const buf = fs.readFileSync(path.join(COVERS_DIR, file));
             const size = imageSize(buf);
+            /**
+             * **盘上已有的其他版本也要判重**（第 176 轮补的一刀）。
+             *
+             * 起因：写入时判重原先只盖住「这次下载的图」这一条路——
+             * 而更早的轮次（那时还没有判重）已经把图存到盘上了，重跑时走的是「文件已存在」这条路，
+             * 于是那批老文件被原样收进 `editions`，漏网。
+             * 实测抓到一例：`facet124-008` 的 2010-10 与 2006-12 两版**指纹完全一致**。
+             */
+            const sameAsKept = localImageDuplicates(buf, outEditions);
+            if (sameAsKept) {
+              autoDropped.push({
+                title: e.title || book.title,
+                year: e.year || '',
+                publisher: e.publisher || '',
+                sameAs: sameAsKept.title || '',
+                why: '与已保留的版本是同一张图（写入时判重·盘上已有文件）',
+              });
+              if (file !== rec.file) {
+                fs.rmSync(path.join(COVERS_DIR, file), { force: true });
+                droppedFiles += 1;
+              }
+              continue;
+            }
             meta = { bytes: buf.length, width: size.width, height: size.height, format: size.format };
           } else if (e.pic && !isDefaultPic(e.pic)) {
             await sleep(args.delay);
@@ -1383,7 +1408,7 @@ process.on('unhandledRejection', (err) => {
 const total = Object.keys(index.records).length;
 const missTotal = Object.keys(index.misses).length;
 console.log('');
-console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部${keptCount ? `，保持原封面 ${keptCount} 部` : ''}${addedEditionCount ? `，新增其他版本封面 ${addedEditionCount} 张` : ''}；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
+console.log(color(`  ✓ 本轮命中 ${okCount} 部，未取到 ${skipCount} 部${keptCount ? `，保持原封面 ${keptCount} 部` : ''}${addedEditionCount ? `，新增其他版本封面 ${addedEditionCount} 张` : ''}${droppedFiles ? `，判重删掉 ${droppedFiles} 张重复图` : ''}；请求 ${requestCount} 次，用时 ${Math.round((Date.now() - startedAt) / 1000)}s`, C.green));
 console.log(`  索引现有封面 ${total} 条，未取到 ${missTotal} 条`);
 if (missedThisRun.length) {
   console.log(color('  本轮未取到的前 10 条：', C.dim));
