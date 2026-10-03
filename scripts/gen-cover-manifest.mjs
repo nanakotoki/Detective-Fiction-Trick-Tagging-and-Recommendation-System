@@ -52,6 +52,7 @@ const MATCH_CODE = {
   'subject-id': 'S',
   'subject-id+page': 'P',
   isbn: 'I',
+  'shlib-isbn': 'B',
   weread: 'R',
   'edition-year+title': 'Y',
   'newest+title': 'N',
@@ -93,7 +94,7 @@ lines.push(` * 生成时间：${new Date().toISOString()}`);
 lines.push(` * 覆盖情况：${withCover} / ${total} 部有封面（缺 ${total - withCover} 部，页面用占位图）`);
 lines.push(' *');
 lines.push(' * 值格式：`条目id|该条目出版年|判据代码`；判据 S=与取评分同一条豆瓣条目（强链接）、');
-lines.push(' * I=书号直达（条目页 ISBN 与馆藏著录逐位相同）、P=条目页主图、T=题名＋出版年吻合、');
+lines.push(' * I=书号直达（条目页 ISBN 与馆藏著录逐位相同）、B=上图书号→豆瓣直达、P=条目页主图、T=题名＋出版年吻合、');
 lines.push(' * Y=版本择优后与所收版本同年、N=版本择优后取豆瓣上最新的一版、');
 lines.push(' * A=豆瓣题名是库内题名的前缀且作者吻合（弱链接）、W=仅题名吻合（弱链接）。');
 lines.push(' * 图片本地存放在 web/covers/，文件名就是作品 id。');
@@ -139,7 +140,7 @@ lines.push('export function coverCredit(id) {');
 lines.push('  const meta = COVER_ENTRIES[String(id)];');
 lines.push('  if (!meta) return null;');
 lines.push('  const [subjectId, year, code] = String(meta).split("|");');
-lines.push('  const how = { S: "与本书评分取自同一条豆瓣条目", I: "豆瓣条目页 ISBN 与馆藏著录逐位相同", P: "豆瓣条目页主图", T: "豆瓣题名与出版年均吻合", Y: "版本择优：与所收版本同年的一版", N: "版本择优：豆瓣上最新的一版", R: "微信读书：题名与作者都吻合（豆瓣条目页当时不可用）", A: "豆瓣题名是库内题名的前缀，且作者吻合（弱链接，副题被省）", W: "仅豆瓣题名吻合（弱链接）" }[code] || "豆瓣";');
+lines.push('  const how = { S: "与本书评分取自同一条豆瓣条目", I: "豆瓣条目页 ISBN 与馆藏著录逐位相同", B: "上图书号 → 豆瓣条目页直达（ISBN 与所查一致）", P: "豆瓣条目页主图", T: "豆瓣题名与出版年均吻合", Y: "版本择优：与所收版本同年的一版", N: "版本择优：豆瓣上最新的一版", R: "微信读书：题名与作者都吻合（豆瓣条目页当时不可用）", A: "豆瓣题名是库内题名的前缀，且作者吻合（弱链接，副题被省）", W: "仅豆瓣题名吻合（弱链接）" }[code] || "豆瓣";');
 lines.push('  return { subjectId, year, code, how, url: subjectId ? "https://book.douban.com/subject/" + subjectId + "/" : "" };');
 lines.push('}');
 lines.push('');
