@@ -2,7 +2,7 @@
   "format": "detective-fiction-covers",
   "version": 1,
   "note": "封面索引：每条记录说明这部作品的封面文件、来源条目与同版判据。图片本地存放在 web/covers/，文件名即作品 id。missing 里的条目页面上用 web/covers/_placeholder.svg 占位。",
-  "generatedAt": "2026-10-03T05:56:51.237Z",
+  "generatedAt": "2026-10-03T05:59:33.165Z",
   "records": {
     "honkaku-001": {
       "file": "honkaku-001.webp",
@@ -42934,7 +42934,7 @@
       "source": "豆瓣读书",
       "sourceUrl": "https://book.douban.com/subject/1830377/",
       "subjectId": "1830377",
-      "matched": "isbn",
+      "matched": "editions+works",
       "isbn": "9787559691293",
       "query": "版本一览（3 版）",
       "edition": {
@@ -43006,7 +43006,8 @@
         "year": "2026-6",
         "subjectId": "38176011",
         "at": "2026-10-03T05:55:35.542Z",
-        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」",
+        "oldMatched": "isbn"
       }
     },
     "author128-002": {

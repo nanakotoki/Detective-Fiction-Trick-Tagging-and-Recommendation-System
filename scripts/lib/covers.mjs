@@ -7,6 +7,10 @@
  * 书号折算、题名褪层、豆瓣默认占位图识别、图片宽高解析，这几处错了都会静默出错结果。
  */
 
+// 题名归一（繁简／数字／虚词）复用评分线那套：那边踩过的坑（《砂之器》↔《砂器》、
+// 「十九」↔「19」、繁体条目）都已经解决，这边不重复造一套口径。
+import { cjkToNumber, normalizeTitle } from '../refresh-ratings.mjs';
+
 /** 题名归一：去空白与标点，便于比较 */
 export function normTitle(s) {
   return String(s || '')
@@ -350,6 +354,77 @@ export function coverCodeOf(rec) {
     return rec.yearMatch === true ? 'Y' : 'N';
   }
   return 'W';
+}
+
+/**
+ * 「这一张比盘上那张清楚吗？」——换图升级的唯一判据（纯函数，可测）。
+ * ============================================================
+ * 场景：本地封面统一取豆瓣 `s` 档，但有些图当初抓到的是小图
+ * （2026-10-03 实测：《人性的证明》2024 版本地 98×140，而同一地址现在能给 270×358）。
+ *
+ * 规则刻意保守：**两边都得过线、且新的要明显更大**才换，避免为了几个像素白折腾一次网络与一次提交。
+ *   · 新的宽度 ≥ `minWidth`（默认 200，s 档本该到 270）；
+ *   · 新的宽度 ≥ 老的 × `minGain`（默认 1.25，即至少大四分之一）；
+ *   · 新的高度也得不小于老的（防止换成长宽比很怪的横图）。
+ */
+export function preferLargerImage(local, fetched, { minWidth = 200, minGain = 1.25 } = {}) {
+  const lw = Number(local?.width) || 0;
+  const lh = Number(local?.height) || 0;
+  const fw = Number(fetched?.width) || 0;
+  const fh = Number(fetched?.height) || 0;
+  if (!fw || !fh) return false;
+  if (fw < minWidth) return false;
+  if (lw && fw < lw * minGain) return false;
+  if (lh && fh < lh) return false;
+  return true;
+}
+
+/**
+ * 「这一版的题名与库内这本书是同一个题名吗？」——**正面判据**（纯函数，可测）。
+ * ================================================================
+ * 为什么需要它：版本一览那一轮挑主图时用的是「按出版年降序取第一条」，
+ * **没有题名／语言过滤**，于是「最新版」经常是泰文版、俄文版、日文版、繁体版
+ * （《占星术杀人魔法》外面显示的竟然是泰文封面）。而 README §168 明确写着
+ * 「**不会拿繁体版／外文版顶掉简体版**」——要让实现回到这句承诺，就得有一条正面判据。
+ *
+ * 复用的是评分线已经踩过坑的那套归一化（`normalizeTitle` 会把繁体归一到简体，
+ * `cjkToNumber` 处理「十九」↔「19」），再加上剥虚词与分隔符的骨架比较：
+ *   《砂之器》↔《砂器》、《心理罪·画像》↔《心理罪：画像》、《19年间谋杀小叙》↔《十九年间谋杀小叙》
+ * 都算同一个题名；而《占星术杀人魔法》↔《ฆาตกรรมจักรราศีเลือด》不算。
+ */
+export function sameTitleEdition(bookTitle, editionTitle) {
+  const a = normalizeTitle(bookTitle);
+  const b = normalizeTitle(editionTitle);
+  if (!a || !b) return false;
+  if (a === b || a.includes(b) || b.includes(a)) return true;
+  return skeletonOf(bookTitle) === skeletonOf(editionTitle);
+}
+
+/** 骨架：归一化后再剥虚词／分隔符，中文数词折成阿拉伯数字（与评分线同一套口径） */
+function skeletonOf(text) {
+  return normalizeTitle(text)
+    .replace(/[之的与和]/g, '')
+    .replace(/[·・:：]/g, '')
+    .replace(/[零一二三四五六七八九十百千两]+/g, (run) => String(cjkToNumber(run) ?? run));
+}
+
+/**
+ * 这个题名是**繁体**写法吗？（含汉字，且繁→简归一之后与原文不同）
+ *
+ * 用途：README §168 承诺「不会拿繁体版顶掉简体版」。有了它，挑版本时就能先把繁体候选排后面，
+ * 而不是只看年份。
+ *
+ * ⚠️ 别用「原文 !== 原文.toLowerCase()」来判断归一化是否发生过——**汉字没有大小写**，
+ * 那个判断对中文恒为真（或恒为假，取决于写法），2026-10-03 就因为这个把 12 部繁体算成了简体、
+ * 结论整整偏了一栏。
+ */
+export function isTraditionalTitle(title) {
+  const raw = String(title || '').replace(
+    /[\s\u3000《》〈〉·・:：,，.。、\-—－_/\\|()（）[\]【】«»「」『』!！?？"'“”‘’]/g,
+    '',
+  );
+  if (!raw || !/[\u4e00-\u9fff]/.test(raw)) return false;
+  return raw !== normalizeTitle(title);
 }
 
 /**

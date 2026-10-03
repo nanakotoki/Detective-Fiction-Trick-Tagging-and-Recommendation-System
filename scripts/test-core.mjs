@@ -41,6 +41,9 @@ import {
   COVER_MATCH_CODE,
   coverCodeOf,
   imageSize,
+  isTraditionalTitle,
+  preferLargerImage,
+  sameTitleEdition,
   isBlockPage,
   isDefaultPic,
   isbnsOf,
@@ -2009,8 +2012,45 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
 /* 封面判据码（第 177 轮：把「版本一览」两轮的判据说成弱链接的回归测试）  */
 /* ------------------------------------------------------------------ */
 
-test('封面判据码：台账判据名 → 前端一个字母，且不把强判据说成弱链接', () => {
-  assert.equal(coverCodeOf({ matched: 'subject-id' }), 'S');
+/* ------------------------------------------------------------------ */
+/* 主图该是哪一版（第 180 轮：外文版顶掉中文版的自查与修正）             */
+/* ------------------------------------------------------------------ */
+
+test('封面版本挑选：题名是否「正面吻合」（繁简／数字／虚词都归一）', () => {
+  // 同一题名的不同写法都算吻合
+  assert.equal(sameTitleEdition('点与线', '點與線'), true, '繁体写法归一后是同一题名');
+  assert.equal(sameTitleEdition('砂之器', '砂器'), true, '虚词增减不算换书');
+  assert.equal(sameTitleEdition('心理罪·画像', '心理罪：画像'), true, '分隔符不同不算换书');
+  assert.equal(sameTitleEdition('19年间谋杀小叙', '十九年间谋杀小叙'), true, '数字写法不同不算换书');
+  assert.equal(sameTitleEdition('本阵杀人事件', '本陣殺人事件'), true);
+
+  // 外文版／另一部作品不算吻合（这正是「泰文封面顶掉中文版」那个 bug 的判据）
+  assert.equal(sameTitleEdition('占星术杀人魔法', 'ฆาตกรรมจักรราศีเลือด'), false);
+  assert.equal(sameTitleEdition('点与线', 'Tokyo Express'), false);
+  assert.equal(sameTitleEdition('坏小孩', 'Плохие дети'), false);
+  assert.equal(sameTitleEdition('枯草之根', '桃源亭事件'), false, '同作者的另一部作品不算吻合');
+});
+
+test('封面版本挑选：繁体题名的判据（不能用「汉字有没有大小写」去判）', () => {
+  assert.equal(isTraditionalTitle('點與線'), true);
+  assert.equal(isTraditionalTitle('本陣殺人事件'), true);
+  assert.equal(isTraditionalTitle('点与线'), false);
+  assert.equal(isTraditionalTitle('Tokyo Express'), false, '外文题名不是繁体');
+  assert.equal(isTraditionalTitle(''), false);
+});
+
+test('封面版本挑选：只有明显更大才换图（不为几个像素折腾一次提交）', () => {
+  const small = { width: 98, height: 140 };
+  assert.equal(preferLargerImage(small, { width: 270, height: 358 }), true, '98 → 270 是明显的升级');
+  assert.equal(preferLargerImage(small, { width: 200, height: 290 }), true);
+  assert.equal(preferLargerImage(small, { width: 110, height: 158 }), false, '只大一点点不值得换');
+  assert.equal(preferLargerImage(small, { width: 150, height: 214 }), false, '150 没到 200 的下限');
+  assert.equal(preferLargerImage({ width: 260, height: 380 }, { width: 270, height: 390 }), false);
+  assert.equal(preferLargerImage(small, { width: 300, height: 60 }), false, '横图不换（高度不能变小）');
+  assert.equal(preferLargerImage(small, { width: 0, height: 0 }), false, '拿不到尺寸就不换');
+});
+
+test('封面判据码：台账判据名 → 前端一个字母，且不把强判据说成弱链接', () => {  assert.equal(coverCodeOf({ matched: 'subject-id' }), 'S');
   assert.equal(coverCodeOf({ matched: 'isbn' }), 'I');
   assert.equal(coverCodeOf({ matched: 'shlib-isbn' }), 'B');
   assert.equal(coverCodeOf({ matched: 'subject-id-miss+prefix+author' }), 'A');
