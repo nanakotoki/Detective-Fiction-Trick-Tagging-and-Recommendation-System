@@ -158,6 +158,15 @@ const args = {
   editions: argv.includes('--editions'),
   /** 只把现有记录转成新的 `editions` 结构（不联网），用于结构迁移 */
   seedEditions: argv.includes('--seed-editions'),
+  /**
+   * **节流：每处理 N 部就歇 M 毫秒**（第 175 轮加）。
+   *
+   * 起因：豆瓣的 HTML 页有**累计配额**——实测两轮都在「约 2800 次页面请求、约 1 次/秒」之后被限流
+   * （返回 3KB 拦截页），而那个配额不会因为单次请求间隔变长就消失，得**跑一段歇一段**。
+   * 有了这个开关，就能把它挂在后台整夜跑完，不必半夜起来看它有没有被挡。
+   */
+  pauseEvery: Math.max(0, Number(value('--pause-every', '0')) || 0),
+  pauseMs: Math.max(0, Number(value('--pause-ms', '0')) || 0),
   force: argv.includes('--force'),
   indexOnly: argv.includes('--index-only'),
   quiet: argv.includes('--quiet'),
@@ -1312,6 +1321,18 @@ for (const { book } of targets) {
     );
   }
 
+  /** 节流：每 N 部歇一会儿（豆瓣的 HTML 配额是累计的，跑一段歇一段才不会被挡） */
+  if (args.pauseEvery && args.pauseMs && done % args.pauseEvery === 0 && done < targets.length) {
+    console.log(
+      color(`  ⏸ 已处理 ${done} 部，按节流设置休息 ${Math.round(args.pauseMs / 60000)} 分钟（避免触发豆瓣限流）`, C.yellow)
+    );
+    saveIndex(index);
+    wrote = true;
+    await sleep(args.pauseMs);
+    consecutiveFail = 0;
+    consecutiveBlocked = 0;
+  }
+
   /**
    * 熔断：**只对「通道出问题」计数**（网络错、403／418／429／5xx）。
    *
@@ -1325,6 +1346,8 @@ for (const { book } of targets) {
     console.log('');
     console.log(color(`  ✗ 连续 ${consecutiveFail} 部都是通道异常（网络错／被挡／限流），主动熔断退出。`, C.red));
     console.log(color('    已抓到的都在盘上；稍后重跑同一条命令即可增量继续。', C.dim));
+    /** 熔断退出前**先落一次盘**：否则最后这一小段下载下来的图会变成「孤儿」 */
+    saveIndex(index);
     break;
   }
 
@@ -1336,6 +1359,13 @@ for (const { book } of targets) {
     console.log('');
     console.log(color(`  ✗ 连续 ${consecutiveBlocked} 部的豆瓣页面都是拦截页，判定为限流，主动收手。`, C.red));
     console.log(color('    已抓到的都在盘上；等一会儿再重跑同一条命令即可增量继续。', C.dim));
+    /**
+     * 同上：**收手前也要落盘**。第 175 轮就是漏了这一步——
+     * 熔断发生在两次 checkpoint 之间，最后几部已下好的图没写进台账，
+     * 于是 `check-covers` 报了一串「孤儿图片」（数据没坏，但白跑了几张）。
+     */
+    saveIndex(index);
+    wrote = true;
     break;
   }
   await sleep(args.delay);

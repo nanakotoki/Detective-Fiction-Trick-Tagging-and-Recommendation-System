@@ -55,6 +55,9 @@ for (const f of fs.readdirSync(BOOKS_DIR).filter((x) => x.endsWith('.json') && !
 }
 const index = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf8'));
 
+/** 同一张外链图可能被多部书引用，指纹缓存一下，省掉重复下载 */
+const fpCache = new Map();
+
 /** 取一个版本的指纹：本地文件直接算；只存链接的先下载再算 */
 async function fpOf(edition) {
   if (!edition) return null;
@@ -63,14 +66,24 @@ async function fpOf(edition) {
     if (fs.existsSync(p)) return fingerprintsOfFile(p);
   }
   if (edition.pic) {
+    if (fpCache.has(edition.pic)) return fpCache.get(edition.pic);
+    let fp = null;
     try {
-      const res = await fetch(edition.pic, { headers: { 'user-agent': UA, referer: 'https://weread.qq.com/' } });
-      if (!res.ok) return null;
-      const buf = Buffer.from(await res.arrayBuffer());
-      return fingerprintsOfBuffer(buf, '.jpg');
+      /**
+       * **必须设超时**（第 175 轮踩的坑）：原先这里没有超时，
+       * 外链 CDN 偶尔会连上却久久不回，`fetch` 就干等——实测整脚本卡成 **2.4 分钟/部**
+       * （跑了 8 小时才处理 200 部）。10 秒拿不到就当取不到指纹，跳过这一版，不影响其余判断。
+       */
+      const res = await fetch(edition.pic, {
+        signal: AbortSignal.timeout(10_000),
+        headers: { 'user-agent': UA, referer: 'https://weread.qq.com/' },
+      });
+      if (res.ok) fp = fingerprintsOfBuffer(Buffer.from(await res.arrayBuffer()), '.jpg');
     } catch {
-      return null;
+      fp = null;
     }
+    fpCache.set(edition.pic, fp);
+    return fp;
   }
   return null;
 }

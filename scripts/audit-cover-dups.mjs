@@ -47,19 +47,28 @@ if (!findFfmpeg()) {
 const index = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf8'));
 const targets = Object.entries(index.records).filter(([, r]) => (r.editions || []).length > 1);
 
+/** 同一张外链图可能被多部书引用，指纹缓存一下；下载**必须带超时**（否则慢连接会把体检拖死） */
+const fpCache = new Map();
+
 async function fpOf(edition) {
   if (edition?.file) {
     const p = path.join(COVERS_DIR, edition.file);
     if (fs.existsSync(p)) return fingerprintsOfFile(p);
   }
   if (edition?.pic) {
+    if (fpCache.has(edition.pic)) return fpCache.get(edition.pic);
+    let fp = null;
     try {
-      const res = await fetch(edition.pic, { headers: { 'user-agent': UA, referer: 'https://weread.qq.com/' } });
-      if (!res.ok) return null;
-      return fingerprintsOfBuffer(Buffer.from(await res.arrayBuffer()), '.jpg');
+      const res = await fetch(edition.pic, {
+        signal: AbortSignal.timeout(10_000),
+        headers: { 'user-agent': UA, referer: 'https://weread.qq.com/' },
+      });
+      if (res.ok) fp = fingerprintsOfBuffer(Buffer.from(await res.arrayBuffer()), '.jpg');
     } catch {
-      return null;
+      fp = null;
     }
+    fpCache.set(edition.pic, fp);
+    return fp;
   }
   return null;
 }
