@@ -18,6 +18,14 @@
  *   node scripts/backfill-isbn-covers.mjs                    干跑：只报告能救回哪些
  *   node scripts/backfill-isbn-covers.mjs --apply            写回（下图 + 更新 data/covers.json）
  *   node scripts/backfill-isbn-covers.mjs --limit 20 --apply
+ *   node scripts/backfill-isbn-covers.mjs --shlib-only --apply   只查书号并缓存（不碰豆瓣）
+ *
+ * 为什么要 `--shlib-only`（2026-10-03 补）：
+ * 两步走的**第一步（上图查书号）不需要豆瓣**，第二步才需要。豆瓣当天在限流（累计额度，
+ * 见台账 §175），而额度是**按页面请求次数**算的——所以先把书号一次查清缓存进台账的 `misses`：
+ * 命中书号的记 `shlibIsbn`，确认没有书号的记 `shlibCheckedAt`（不再重复去问上图）。
+ * 等豆瓣通了，走第二步时每部书**只花 1~2 次豆瓣请求**（而不是先上图再豆瓣），
+ * 也顺带把「上图查不到书号」那批的结论**固化下来**，不再每次重查。
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -34,6 +42,8 @@ const INDEX_FILE = path.join(ROOT, 'data', 'covers.json');
 
 const argv = process.argv.slice(2);
 const APPLY = argv.includes('--apply');
+const SHLIB_ONLY = argv.includes('--shlib-only');
+const ONLY = argv.includes('--only') ? String(argv[argv.indexOf('--only') + 1] || '') : '';
 const LIMIT = Number(argv[argv.indexOf('--limit') + 1]) || 0;
 const DELAY = Number(argv[argv.indexOf('--delay') + 1]) || 700;
 const UA =
@@ -59,11 +69,69 @@ let targets = Object.entries(index.misses || {})
   .filter(([id]) => !index.records[id])
   .map(([id, m]) => ({ id, ...m, book: books.get(id) }))
   .filter((t) => t.book);
+if (ONLY) targets = targets.filter((t) => t.id === ONLY);
 if (LIMIT) targets = targets.slice(0, LIMIT);
 
 console.log('');
 console.log(color(`  上图查书号 → 豆瓣书号直达：待处理 ${targets.length} 部${APPLY ? '' : '（干跑）'}`, C.bold));
 console.log('');
+
+/* ---------------- 只查书号：把「上图那一步」的结果缓存进台账 ---------------- */
+
+if (SHLIB_ONLY) {
+  let found = 0;
+  let none = 0;
+  let cached = 0;
+  const foundList = [];
+  for (const t of targets) {
+    if (t.shlibCheckedAt) {
+      cached += 1;
+      continue;
+    }
+    try {
+      await sleep(DELAY);
+      const sh = await isbnFromShlib(t.book.title, t.book.author);
+      const isbn13 = sh.isbns.map(toIsbn13).find((x) => /^\d{13}$/.test(x)) || '';
+      if (isbn13) {
+        found += 1;
+        if (foundList.length < 15) foundList.push(`${t.id}《${t.book.title}》→ 上图 ${isbn13}（${sh.title || '题名同'}）`);
+      } else {
+        none += 1;
+      }
+      if (targets.length <= 40) {
+        console.log(color(`  · 《${t.book.title}》：${isbn13 ? `上图书号 ${isbn13}` : sh.note || '上图没有吻合的著录'}`, C.dim));
+      }
+      if (APPLY) {
+        const miss = index.misses[t.id] || {};
+        miss.shlibIsbn = isbn13;
+        miss.shlibTitle = sh.title || '';
+        miss.shlibNote = sh.note || '';
+        miss.shlibCheckedAt = new Date().toISOString();
+        miss.reason = isbn13
+          ? `豆瓣按题名搜不到；已从上图查到书号 ${isbn13}，待走「豆瓣书号直达」重试（台账 §177）`
+          : `豆瓣按题名搜不到；上图按题名也没有吻合著录（${sh.note || '无吻合'}）`;
+        index.misses[t.id] = miss;
+      }
+    } catch (e) {
+      if (targets.length <= 40) console.log(color(`  · 《${t.book.title}》✗ ${e.message}`, C.dim));
+    }
+  }
+  console.log('');
+  console.log(color(`  ✓ 查到书号 ${found} 部 ／ 上图没有吻合著录 ${none} 部${cached ? ` ／ 已有缓存跳过 ${cached} 部` : ''}`, C.green));
+  for (const s of foundList) console.log(color(`    · ${s}`, C.dim));
+  if (foundList.length === 15 && found > 15) console.log(color(`    … 其余 ${found - 15} 部省略`, C.dim));
+  if (!APPLY) {
+    console.log('');
+    console.log('  这是干跑。确认后加 --apply 写回（只写 misses，不碰豆瓣、不落图）。');
+    await sleep(500); // 让 undici 的连接收干净再退出（Windows 上带着在途连接 process.exit 会触发 libuv 断言）
+    process.exit(0);
+  }
+  index.generatedAt = new Date().toISOString();
+  fs.writeFileSync(INDEX_FILE, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
+  console.log('  ✓ 已写回 data/covers.json（书号缓存进 misses）');
+  console.log('  等豆瓣通了再跑：node scripts/backfill-isbn-covers.mjs --apply（这一步只打豆瓣，每部 1~2 次请求）');
+  process.exit(0);
+}
 
 /* ---------------- 两步走 ---------------- */
 
@@ -133,15 +201,29 @@ const savedIds = [];
 for (const t of targets) {
   const title = t.book.title;
   try {
-    await sleep(DELAY);
-    const sh = await isbnFromShlib(title, t.book.author);
-    if (!sh.isbns.length) {
+    /**
+     * ① 上图查书号。三种情况：
+     *   · `shlibIsbn` 有缓存 → 直接用（`--shlib-only` 那一轮已经查过，省一次请求）；
+     *   · `shlibCheckedAt` 有、但没有书号 → 上图确认查不到，**不再重复去问**；
+     *   · 都没有 → 现查。
+     */
+    let isbns = t.shlibIsbn ? [t.shlibIsbn] : [];
+    let shNote = '';
+    if (!isbns.length && !t.shlibCheckedAt) {
+      await sleep(DELAY);
+      const sh = await isbnFromShlib(title, t.book.author);
+      isbns = sh.isbns;
+      shNote = sh.note || '';
+    }
+    if (!isbns.length) {
       noIsbn += 1;
-      if (targets.length <= 40) console.log(color(`  · 《${title}》：${sh.note}`, C.dim));
+      if (targets.length <= 40) {
+        console.log(color(`  · 《${title}》：${t.shlibCheckedAt ? t.shlibNote || '上图没有吻合的著录（已缓存）' : shNote || '上图没有吻合的著录'}`, C.dim));
+      }
       continue;
     }
     let done = false;
-    for (const isbn of sh.isbns.slice(0, 2)) {
+    for (const isbn of isbns.slice(0, 2)) {
       await sleep(DELAY);
       const db = await coverFromDoubanIsbn(isbn);
       if (!db.ok) continue;
@@ -178,7 +260,7 @@ for (const t of targets) {
     }
     if (!done) {
       noCover += 1;
-      if (targets.length <= 40) console.log(color(`  · 《${title}》：上图给了书号（${sh.isbns[0]}），但豆瓣没有可用封面`, C.dim));
+      if (targets.length <= 40) console.log(color(`  · 《${title}》：上图给了书号（${isbns[0]}），但豆瓣没有可用封面`, C.dim));
     }
   } catch (e) {
     if (targets.length <= 40) console.log(color(`  · 《${title}》✗ ${e.message}`, C.dim));
@@ -193,9 +275,11 @@ if (savedIds.length > 12) console.log(color(`    … 其余 ${savedIds.length - 
 if (!APPLY) {
   console.log('');
   console.log('  这是干跑。确认后加 --apply 写回。');
-  process.exit(0);
+  // 同上：等连接收干净再退，否则 Windows 上会以 libuv 断言收场（退出码看着像崩了）
+  await sleep(500);
+} else {
+  index.generatedAt = new Date().toISOString();
+  fs.writeFileSync(INDEX_FILE, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
+  console.log('  ✓ 已写回 data/covers.json');
+  console.log('  接着跑：node scripts/fetch-covers.mjs --seed-editions && node scripts/gen-cover-manifest.mjs && node scripts/check-covers.mjs');
 }
-index.generatedAt = new Date().toISOString();
-fs.writeFileSync(INDEX_FILE, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
-console.log('  ✓ 已写回 data/covers.json');
-console.log('  接着跑：node scripts/fetch-covers.mjs --seed-editions && node scripts/gen-cover-manifest.mjs && node scripts/check-covers.mjs');

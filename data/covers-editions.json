@@ -2,7 +2,7 @@
  "format": "detective-fiction-cover-editions",
  "version": 1,
  "note": "封面版本一览：每部作品保存了哪几个版本的封面（最多 3 个）、各自的出版年与出版社。file 是 web/covers/ 下的文件名；primary＝外面（书卡与档案页大图）显示的那一张，取最新的一版。这份文件由 scripts/gen-cover-manifest.mjs 生成，档案页按需加载。",
- "generatedAt": "2026-10-03T05:23:50.143Z",
+ "generatedAt": "2026-10-03T05:39:57.491Z",
  "bookCount": 3267,
  "editionCount": 4952,
  "books": {
