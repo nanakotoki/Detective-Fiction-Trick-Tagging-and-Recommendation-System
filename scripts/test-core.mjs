@@ -38,6 +38,8 @@ import { canonicalSeries, sameSeries } from '../web/js/core/seed.js';
 import { duplicateReason, looksLikeCollectionName, normText } from './lib/dup-rules.mjs';
 import { compareFingerprints, dhashDistance, dhashFromGray, isSameCover, meanAbsDiff } from './lib/image-fp.mjs';
 import {
+  COVER_MATCH_CODE,
+  coverCodeOf,
   imageSize,
   isBlockPage,
   isDefaultPic,
@@ -2001,6 +2003,52 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
   assert.equal(isBlockPage(normal, 200), false);
   const works = `<html><body><div class="bkses clearfix">…</div>${'z'.repeat(9000)}</body></html>`;
   assert.equal(isBlockPage(works, 200), false);
+});
+
+/* ------------------------------------------------------------------ */
+/* 封面判据码（第 177 轮：把「版本一览」两轮的判据说成弱链接的回归测试）  */
+/* ------------------------------------------------------------------ */
+
+test('封面判据码：台账判据名 → 前端一个字母，且不把强判据说成弱链接', () => {
+  assert.equal(coverCodeOf({ matched: 'subject-id' }), 'S');
+  assert.equal(coverCodeOf({ matched: 'isbn' }), 'I');
+  assert.equal(coverCodeOf({ matched: 'shlib-isbn' }), 'B');
+  assert.equal(coverCodeOf({ matched: 'subject-id-miss+prefix+author' }), 'A');
+
+  // 版本一览那两轮：同年 → Y，否则（最新／库内版本年不详）→ N。
+  // 回归点：这两个判据名原先不在表里，会被兜底成 W，全库 2485 部书因此把强判据显示成「弱链接」。
+  assert.equal(coverCodeOf({ matched: 'editions+works', yearMatch: true }), 'Y');
+  assert.equal(coverCodeOf({ matched: 'editions+works', yearMatch: false }), 'N');
+  assert.equal(coverCodeOf({ matched: 'editions+works', yearMatch: null }), 'N');
+  assert.equal(coverCodeOf({ matched: 'editions+weread', yearMatch: true }), 'Y');
+  assert.equal(coverCodeOf({ matched: 'editions+weread', yearMatch: false }), 'N');
+
+  // 认不出来的一律按最弱的 W，不假装更强
+  assert.equal(coverCodeOf({ matched: 'something-new' }), 'W');
+  assert.equal(coverCodeOf({}), 'W');
+  assert.equal(coverCodeOf(null), 'W');
+
+  // 映射表里的代码必须是前端认得的单字母（前端 how 表按这些键取值）
+  const allowed = new Set(['S', 'I', 'B', 'P', 'T', 'Y', 'N', 'R', 'A', 'W']);
+  for (const [name, code] of Object.entries(COVER_MATCH_CODE)) {
+    assert.ok(allowed.has(code), `判据 ${name} 映射成了未知代码 ${code}`);
+  }
+});
+
+test('封面判据码：与生成出的前端清单逐条一致（清单不许自己说另一套）', async () => {
+  const manifest = await import('../web/js/core/covers.js');
+  const index = JSON.parse(readFileSync(new URL('../data/covers.json', import.meta.url), 'utf8'));
+  let checked = 0;
+  const wrong = [];
+  for (const [id, rec] of Object.entries(index.records || {})) {
+    if (!rec.file || !manifest.hasCover(id)) continue;
+    const credit = manifest.coverCredit(id);
+    if (!credit) continue;
+    checked += 1;
+    if (credit.code !== coverCodeOf(rec)) wrong.push(`${id}：清单 ${credit.code} ／ 台账 ${rec.matched}`);
+  }
+  assert.ok(checked > 3000, `应当覆盖全库有封面的书，实际只查了 ${checked} 条`);
+  assert.deepEqual(wrong, [], '前端清单的判据码必须由 coverCodeOf() 生成（跑 node scripts/gen-cover-manifest.mjs）');
 });
 
 /* ------------------------------------------------------------------ */

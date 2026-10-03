@@ -19,6 +19,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import { coverCodeOf } from './lib/covers.mjs';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const INDEX_FILE = path.join(ROOT, 'data', 'covers.json');
@@ -43,26 +45,15 @@ try {
 }
 
 /**
- * 判据代码：
+ * 判据代码：见 `scripts/lib/covers.mjs` 的 `COVER_MATCH_CODE`（那边的表是唯一一份）：
  *   S=与取评分同一条豆瓣条目（强链接）、I=书号直达（ISBN 与著录一致）、
  *   Y=版本择优·与所收版本同年、N=版本择优·豆瓣上最新的一版、
- *   T=题名＋年份、A=题名前缀＋作者吻合、W=仅题名（弱链接）、P=条目页主图
+ *   T=题名＋年份、A=题名前缀＋作者吻合、W=仅题名（弱链接）、P=条目页主图。
+ *
+ * 2026-10-03 补的坑：版本一览那两轮写下的 `editions+works` / `editions+weread` 原先不在表里，
+ * 被兜底成 W，于是 2485 部书的档案页把强判据显示成了「弱链接」。现在由 `coverCodeOf()` 统一判。
  */
-const MATCH_CODE = {
-  'subject-id': 'S',
-  'subject-id+page': 'P',
-  isbn: 'I',
-  'shlib-isbn': 'B',
-  weread: 'R',
-  'edition-year+title': 'Y',
-  'newest+title': 'N',
-  'title+year': 'T',
-  'title': 'W',
-  'prefix+author': 'A',
-  'subject-id-miss+title+year': 'T',
-  'subject-id-miss+title': 'W',
-  'subject-id-miss+prefix+author': 'A',
-};
+
 
 const entries = [];
 const aliases = {};
@@ -78,7 +69,7 @@ for (const book of books) {
   if (short !== 'webp') aliases[book.id] = rec.file;
   // 值格式：条目 id｜该条目出版年｜判据代码（前端用来在详情页写「封面来源」一行）
   const year = String(rec.edition?.year || '').match(/\d{4}/)?.[0] || '';
-  entries.push([book.id, `${rec.subjectId || ''}|${year}|${MATCH_CODE[rec.matched] || 'W'}`]);
+  entries.push([book.id, `${rec.subjectId || ''}|${year}|${coverCodeOf(rec)}`]);
 }
 
 const withCover = entries.length;

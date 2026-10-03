@@ -309,6 +309,50 @@ export function toWebp(url) {
 }
 
 /**
+ * 封面判据代码（前端详情页「封面来源」那一行用）。
+ * ============================================
+ * 台账里的 `matched` 是**抓取过程**的判据名，写得很细（`subject-id-miss+prefix+author` 之类），
+ * 前端只需要一个字母表达「这张图的来历可信到什么程度」。这张表是两者的唯一映射。
+ *
+ * 注意 `editions+works` / `editions+weread` 这两个：它们是**版本一览那一轮**写下的
+ * ——主图取自该作品的版本列表（works 页／微信读书的搜索结果），挑选规则是
+ * 「先取与库内所收版本同年的一版，否则取最新的一版」。所以它落到的其实是
+ * **Y（同年）或 N（最新）**，而不是弱链接。
+ *
+ * 这一条 2026-10-03 才补上：此前这两个判据名不在表里，会被兜底成 `W`＝「仅题名吻合（弱链接）」，
+ * 于是全库 **2485 部**书的档案页都把自己的强判据写成了「弱链接」——**自己把自己的取证说轻了**。
+ * 同一天还做了第二件事：那 2485 条里有 **2010 条的图其实一直是原来那条条目的图**
+ * （与版本一览跑之前的快照比，`file` 与 `subjectId` 都没动），判据按快照恢复成原值；
+ * 只有确实重挑过版本的 475 条才保留 Y／N。见 `scripts/restore-cover-evidence.mjs`。
+ */
+export const COVER_MATCH_CODE = {
+  'subject-id': 'S',
+  'subject-id+page': 'P',
+  isbn: 'I',
+  'shlib-isbn': 'B',
+  weread: 'R',
+  'edition-year+title': 'Y',
+  'newest+title': 'N',
+  'title+year': 'T',
+  'title': 'W',
+  'prefix+author': 'A',
+  'subject-id-miss+title+year': 'T',
+  'subject-id-miss+title': 'W',
+  'subject-id-miss+prefix+author': 'A',
+};
+
+/** 台账记录 → 前端判据代码（认不出来的一律按最弱的 W 处理，不假装更强） */
+export function coverCodeOf(rec) {
+  if (!rec) return 'W';
+  const known = COVER_MATCH_CODE[rec.matched];
+  if (known) return known;
+  if (rec.matched === 'editions+works' || rec.matched === 'editions+weread') {
+    return rec.yearMatch === true ? 'Y' : 'N';
+  }
+  return 'W';
+}
+
+/**
  * 图片宽高（webp / jpeg 各解析一小段头，够用即可）。
  * 用途有两个：记进封面台账（便于日后核对），以及**校验下载到的确实是图片**。
  */

@@ -23,6 +23,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { coverCodeOf } from './lib/covers.mjs';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const BOOKS_DIR = path.join(ROOT, 'data', 'books');
@@ -213,6 +215,28 @@ if (manifest) {
   const manifestCount = books.filter((b) => manifest.hasCover(b.id)).length;
   if (manifestCount !== withCover) {
     add('前端清单与台账条数不一致', `清单 ${manifestCount} 条（且都在库内）／台账 ${withCover} 条`);
+  }
+  /**
+   * 判据码必须与台账对得上。
+   *
+   * 这一条是 2026-10-03 补的：版本一览那两轮写下的 `editions+works` / `editions+weread`
+   * 当时不在映射表里，被兜底成 W（弱链接），全库 2485 部书的档案页把自己的强判据说成了弱链接。
+   * 光看条数一致是发现不了的——**「对齐了但说错了」也算错**，所以这里逐条查判据码。
+   */
+  let codeMismatch = 0;
+  const codeSamples = [];
+  for (const [id, rec] of Object.entries(records)) {
+    if (!manifest.hasCover(id)) continue;
+    const credit = manifest.coverCredit(id);
+    if (!credit) continue;
+    const want = coverCodeOf(rec);
+    if (credit.code !== want) {
+      codeMismatch += 1;
+      if (codeSamples.length < 5) codeSamples.push(`${id}：清单 ${credit.code} ／ 台账 ${rec.matched}→${want}`);
+    }
+  }
+  if (codeMismatch) {
+    add('前端判据码与台账不一致', `${codeMismatch} 条，例如 ${codeSamples.join('；')}`);
   }
 }
 
