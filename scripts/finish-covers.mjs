@@ -17,7 +17,9 @@
  *   ⑦ 重建前端清单
  *   ⑧ 封面闸门
  *   ⑨ 重复图体检（必须 0 组）
- *   ⑩ 八道门禁与全部测试
+ *   ⑩ 书名取证体检（只报不改）
+ *   ⑪ 同条目体检（只报不改）
+ *   ⑫ 八道门禁与全部测试
  *
  * 用法：
  *   npm run covers:finish             全跑（含体检）
@@ -46,7 +48,9 @@ const steps = [
   ['⑦ 重建前端清单', ['scripts/gen-cover-manifest.mjs']],
   ['⑧ 封面闸门', ['scripts/check-covers.mjs']],
   ...(QUICK ? [] : [['⑨ 重复图体检（必须 0 组）', ['scripts/audit-cover-dups.mjs']]]),
-  ['⑩ 八道门禁与全部测试', ['scripts/build.mjs']],
+  ['⑩ 书名取证体检（只报不改）', ['scripts/audit-edition-titles.mjs']],
+  ['⑪ 同条目体检（只报不改）', ['scripts/audit-shared-entries.mjs']],
+  ['⑫ 八道门禁与全部测试', ['scripts/build.mjs']],
 ];
 
 const C = { reset: '\u001b[0m', bold: '\u001b[1m', dim: '\u001b[2m', green: '\u001b[32m', red: '\u001b[31m' };

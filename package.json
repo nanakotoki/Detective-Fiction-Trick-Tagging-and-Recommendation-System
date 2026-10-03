@@ -36,6 +36,7 @@
     "covers:finish": "node scripts/finish-covers.mjs",
     "audit:cover-dups": "node scripts/audit-cover-dups.mjs",
     "audit:cover-entries": "node scripts/audit-shared-entries.mjs",
+    "audit:cover-titles": "node scripts/audit-edition-titles.mjs",
     "pool:left": "node scripts/pool-left.mjs",
     "check:frontend": "node scripts/check-frontend.mjs",
     "gen:seed": "node scripts/gen-seed-manifest.mjs",
