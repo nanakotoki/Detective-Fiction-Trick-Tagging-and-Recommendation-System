@@ -34,6 +34,7 @@
     "covers:promote-edition": "node scripts/promote-matching-edition.mjs",
     "covers:upgrade-small": "node scripts/upgrade-small-covers.mjs",
     "covers:finish": "node scripts/finish-covers.mjs",
+    "covers:wait": "node scripts/wait-and-finish-covers.mjs",
     "audit:cover-dups": "node scripts/audit-cover-dups.mjs",
     "audit:cover-entries": "node scripts/audit-shared-entries.mjs",
     "audit:cover-titles": "node scripts/audit-edition-titles.mjs",

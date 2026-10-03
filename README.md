@@ -1404,10 +1404,22 @@ npm run covers:cross-dedupe -- --apply  # 只摘「其他版本」，永不摘�
 
 ```bash
 npm run covers:finish              # 收尾一条命令：补缺封面 → 结构迁移 → 判重 → 跨书判重
-                                   # → 主图换版 → 小封面升级 → 清单 → 闸门 → 体检 → 八道门禁
+                                   # → 主图换版 → 小封面升级 → 清单 → 闸门 → 两项体检 → 八道门禁
 npm run covers:finish -- --quick   # 跳过最慢的重复图体检
 npm run covers:finish -- --dry     # 一律干跑，只看会做什么
 ```
+
+**豆瓣还没放开的时候：让它自己等**（这条命令**重启后照样能跑**，等待循环写在仓库里，不依赖任何临时文件）：
+
+```bash
+npm run covers:wait                    # 每 5 分钟探一次，最多 60 次（约 5 小时）
+npm run covers:wait -- --hours 3       # 只守 3 小时（睡前挂着，关机就算了）
+npm run covers:wait -- --interval 8 --tries 120   # 更省事的探法（约 16 小时）
+```
+
+探测判据与抓取脚本一致：**条目页能拿到正文**（>20KB 且含 `id="mainpic"`）才算通，
+不接受「HTTP 200 但其实是拦截页」；通了才动手，**绝不硬碰**（额度是累计的，§175）。
+日志同时写进 `_dd/covers-wait.log`。
 
 > 顺序**不能换**：抓取与清理都会写台账和图片文件，而清单、闸门、体检必须在它们之后
 > ——这一条在第 174 轮踩过（收尾与抓取同时写同一批文件，互相覆盖）。
@@ -1793,7 +1805,8 @@ npm run build            # 一键跑完上面两步并生成 manifest
 | `npm run covers:restore-evidence` | 按快照恢复被「版本一览」覆盖掉的判据名（图片与条目没变才恢复，见「封面」一节） |
 | `npm run covers:promote-edition` | **主图换回题名一致的那一版**（外文／繁体版不再顶掉中文版；只换版本一览里已有的一版，可回滚） |
 | `npm run covers:upgrade-small` | 把小封面换成清楚的（只认同一张画且明显更大；同一张画都不是的**不擅自换**，只报出） |
-| `npm run covers:finish` | **收尾一条命令**：补缺封面 → 结构迁移 → 判重 → 跨书判重 → 主图换版 → 小封面升级 → 清单 → 闸门 → 体检 → 八道门禁（`--quick` 跳过最慢的体检、`--dry` 干跑） |
+| `npm run covers:finish` | **收尾一条命令**：补缺封面 → 结构迁移 → 判重 → 跨书判重 → 主图换版 → 小封面升级 → 清单 → 闸门 → 两项体检 → 八道门禁（`--quick` 跳过最慢的体检、`--dry` 干跑） |
+| `npm run covers:wait` | **等豆瓣放开再自动收尾**（探测判据与抓取一致；`--hours 3`／`--interval 8 --tries 120`；**重启后照样能跑**） |
 | `npm run audit:cover-entries` | 体检「两部不同的书指向同一条豆瓣条目」：分出合集／套装（本来就对）与卷次配错（要修） |
 | `npm run audit:cover-titles` | 体检「主图所记的那一版真是这本书吗」：题名对不上的逐条列出（多为外文版，等豆瓣重查） |
 | `npm run audit:cover-dups` | 全库多版本两两**看图**体检，报出仍判为同一张的组合（有问题退出码 1；没有 ffmpeg 时明确跳过） |
