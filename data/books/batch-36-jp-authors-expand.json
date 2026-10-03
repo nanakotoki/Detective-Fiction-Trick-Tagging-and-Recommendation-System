@@ -1185,6 +1185,8 @@
     "detective": "无固定侦探（短篇集，各篇独立）",
     "country": "日本",
     "tags": [
+      "alibi",
+      "timetable",
       "psychological-misdirection",
       "ensemble",
       "city",
@@ -1193,6 +1195,7 @@
       "dark-atmosphere"
     ],
     "school": [
+      "logic-school",
       "social-school",
       "police-procedural"
     ],
@@ -1255,12 +1258,14 @@
       "source": "batch-36-jp-authors-expand.json",
       "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
       "mergedFrom": [
-        "batch-19-jp-masters.json#jpmas-030"
+        "batch-117-opac2.json#gap117-016"
       ],
-      "mergedAt": "2026-09",
+      "mergedAt": "2026-10",
       "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
-    "alternateTitles": [],
+    "alternateTitles": [
+      "追诉时效倒计时"
+    ],
     "editionYear": "2013"
   },
   {

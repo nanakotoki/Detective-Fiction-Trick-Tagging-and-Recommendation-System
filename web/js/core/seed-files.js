@@ -4,7 +4,7 @@
  * 浏览器端必须静态 import 才能加载 JSON（动态拼接路径无法被静态托管正确处理），
  * 因此新增 data/books/batch-*.json 后运行 `npm run gen:seed` 重新生成本清单即可生效。
  *
- * 生成时间：2026-10-02T11:57:34.380Z
+ * 生成时间：2026-10-03T05:53:45.605Z
  * 数据文件：243 个
  */
 
@@ -270,7 +270,7 @@ export const SEED_FILES = [
   { file: 'batch-07-honkaku-more.json', group: "日本本格 / 新本格（续）", data: batch07 },
   // 18 部
   { file: 'batch-08-western-more.json', group: "欧美与世界推理（续）", data: batch08 },
-  // 17 部
+  // 16 部
   { file: 'batch-09-social-more.json', group: "华语 · 社会派 · 犯罪（续）", data: batch09 },
   // 18 部
   { file: 'batch-10-golden-age.json', group: "欧美黄金时代 / 古典本格（续）", data: batch10 },
@@ -300,7 +300,7 @@ export const SEED_FILES = [
   { file: 'batch-22-jp-honkaku-expand.json', group: "日本本格 · 新本格扩充", data: batch22 },
   // 23 部
   { file: 'batch-23-jp-masters-expand.json', group: "日本推理名家补完", data: batch23 },
-  // 23 部
+  // 22 部
   { file: 'batch-24-jp-modern-fill.json', group: "日本现代推理 · 主力与新生代补充", data: batch24 },
   // 20 部
   { file: 'batch-25-western-classic.json', group: "欧美古典推理 · 先驱与黄金时代", data: batch25 },
@@ -318,7 +318,7 @@ export const SEED_FILES = [
   { file: 'batch-31-nordic-forensic.json', group: "北欧冷案 · 法医鉴识 · 法庭与间谍", data: batch31 },
   // 6 部
   { file: 'batch-32-nordic-crime.json', group: "北欧犯罪 · 哈利·霍勒与千禧年系列", data: batch32 },
-  // 18 部
+  // 17 部
   { file: 'batch-33-chinese-modern.json', group: "华语现代推理 · 大陆与港台原创", data: batch33 },
   // 5 部
   { file: 'batch-34-jp-classic-more.json', group: "日本古典推理 · 战前战后补遗", data: batch34 },
@@ -394,7 +394,7 @@ export const SEED_FILES = [
   { file: 'batch-69-audit5.json', group: "其他", data: batch69 },
   // 3 部
   { file: 'batch-70-audit6.json', group: "其他", data: batch70 },
-  // 1 部
+  // 0 部
   { file: 'batch-71-audit7.json', group: "其他", data: batch71 },
   // 19 部
   { file: 'batch-72-mason.json', group: "其他", data: batch72 },
@@ -476,7 +476,7 @@ export const SEED_FILES = [
   { file: 'batch-110-series.json', group: "其他", data: batch110 },
   // 16 部
   { file: 'batch-111-series.json', group: "其他", data: batch111 },
-  // 16 部
+  // 15 部
   { file: 'batch-112-opac2.json', group: "其他", data: batch112 },
   // 19 部
   { file: 'batch-113-higashino.json', group: "东野圭吾 · 按作者收全", data: batch113 },
@@ -486,7 +486,7 @@ export const SEED_FILES = [
   { file: 'batch-115-opac2.json', group: "其他", data: batch115 },
   // 15 部
   { file: 'batch-116-opac2.json', group: "其他", data: batch116 },
-  // 17 部
+  // 16 部
   { file: 'batch-117-opac2.json', group: "其他", data: batch117 },
   // 15 部
   { file: 'batch-118-opac2.json', group: "其他", data: batch118 },
@@ -496,7 +496,7 @@ export const SEED_FILES = [
   { file: 'batch-120-facet.json', group: "其他", data: batch120 },
   // 19 部
   { file: 'batch-121-facet.json', group: "其他", data: batch121 },
-  // 14 部
+  // 13 部
   { file: 'batch-122-facet.json', group: "其他", data: batch122 },
   // 20 部
   { file: 'batch-123-facet.json', group: "其他", data: batch123 },
@@ -528,7 +528,7 @@ export const SEED_FILES = [
   { file: 'batch-136-opac8.json', group: "其他", data: batch136 },
   // 10 部
   { file: 'batch-137-opac9.json', group: "其他", data: batch137 },
-  // 35 部
+  // 34 部
   { file: 'batch-138-opac10.json', group: "其他", data: batch138 },
   // 2 部
   { file: 'batch-139-opac11.json', group: "其他", data: batch139 },
@@ -580,7 +580,7 @@ export const SEED_FILES = [
   { file: 'batch-162-shlib.json', group: "其他", data: batch162 },
   // 25 部
   { file: 'batch-163-shlib.json', group: "其他", data: batch163 },
-  // 25 部
+  // 24 部
   { file: 'batch-164-shlib.json', group: "其他", data: batch164 },
   // 25 部
   { file: 'batch-165-shlib.json', group: "其他", data: batch165 },

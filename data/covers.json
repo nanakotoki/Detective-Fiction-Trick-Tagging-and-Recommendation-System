@@ -2,7 +2,7 @@
   "format": "detective-fiction-covers",
   "version": 1,
   "note": "封面索引：每条记录说明这部作品的封面文件、来源条目与同版判据。图片本地存放在 web/covers/，文件名即作品 id。missing 里的条目页面上用 web/covers/_placeholder.svg 占位。",
-  "generatedAt": "2026-10-03T05:39:33.123Z",
+  "generatedAt": "2026-10-03T05:56:51.237Z",
   "records": {
     "honkaku-001": {
       "file": "honkaku-001.webp",
@@ -88,37 +88,38 @@
     },
     "honkaku-002": {
       "file": "honkaku-002.webp",
-      "bytes": 18924,
+      "bytes": 30588,
       "width": 270,
-      "height": 381,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35454535/",
-      "subjectId": "35454535",
+      "sourceUrl": "https://book.douban.com/subject/35158876/",
+      "subjectId": "35158876",
       "matched": "editions+works",
       "edition": {
-        "title": "Cung Đàn Báo Oán",
+        "title": "本陣殺人事件",
         "author": "横沟正史",
-        "year": "2020-12"
+        "year": "2020-9-3"
       },
       "bookYear": "2021",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:05:35.152Z",
       "editions": [
         {
-          "subjectId": "35454535",
+          "subjectId": "35158876",
           "file": "honkaku-002.webp",
-          "title": "Cung Đàn Báo Oán",
-          "year": "2020-12",
-          "publisher": "NXB Hồng Đức",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s33891092.jpg",
-          "bytes": 18924,
+          "title": "本陣殺人事件",
+          "year": "2020-9-3",
+          "publisher": "獨步文化",
+          "translator": "高詹燦",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s33719271.jpg",
+          "bytes": 30588,
           "width": 270,
-          "height": 381,
+          "height": 383,
           "format": "webp",
           "primary": true,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:05:31.218Z"
+          "fetchedAt": "2026-10-02T16:05:35.152Z"
         },
         {
           "subjectId": "35587384",
@@ -137,20 +138,19 @@
           "fetchedAt": "2026-10-02T16:05:32.356Z"
         },
         {
-          "subjectId": "35158876",
-          "file": "honkaku-002-35158876.webp",
-          "title": "本陣殺人事件",
-          "year": "2020-9-3",
-          "publisher": "獨步文化",
-          "translator": "高詹燦",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s33719271.jpg",
-          "bytes": 30588,
+          "subjectId": "35454535",
+          "file": "honkaku-002-35454535.webp",
+          "title": "Cung Đàn Báo Oán",
+          "year": "2020-12",
+          "publisher": "NXB Hồng Đức",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s33891092.jpg",
+          "bytes": 18924,
           "width": 270,
-          "height": 383,
+          "height": 381,
           "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:05:35.152Z"
+          "fetchedAt": "2026-10-02T16:05:31.218Z"
         }
       ],
       "query": "版本一览（3 版）",
@@ -165,7 +165,14 @@
           "grayDiff": 9.7
         }
       ],
-      "worksId": "1014415"
+      "worksId": "1014415",
+      "promotedFrom": {
+        "title": "Cung Đàn Báo Oán",
+        "year": "2020-12",
+        "subjectId": "35454535",
+        "at": "2026-10-03T05:55:35.499Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "honkaku-003": {
       "file": "honkaku-003.webp",
@@ -789,42 +796,27 @@
     },
     "honkaku-014": {
       "file": "honkaku-014.webp",
-      "bytes": 7426,
-      "width": 270,
-      "height": 414,
+      "bytes": 11058,
+      "width": 175,
+      "height": 250,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26718830/",
-      "subjectId": "26718830",
+      "sourceUrl": "https://book.douban.com/subject/2975820/",
+      "subjectId": "2975820",
       "matched": "editions+works",
       "query": "版本一览（2 版）",
       "edition": {
-        "title": "新装版 匣の中の失楽",
+        "title": "匣中的失樂",
         "author": "竹本健治",
-        "year": "2015-12-15"
+        "year": "2008-3-1"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-03T04:29:52.089Z",
       "editions": [
         {
-          "subjectId": "26718830",
-          "file": "honkaku-014.webp",
-          "title": "新装版 匣の中の失楽",
-          "year": "2015-12-15",
-          "publisher": "講談社",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s28393948.jpg",
-          "bytes": 7426,
-          "width": 270,
-          "height": 414,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-03T04:29:49.397Z"
-        },
-        {
           "subjectId": "2975820",
-          "file": "honkaku-014-2975820.webp",
+          "file": "honkaku-014.webp",
           "title": "匣中的失樂",
           "year": "2008-3-1",
           "publisher": "小知堂",
@@ -834,9 +826,24 @@
           "width": 175,
           "height": 250,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-03T04:29:52.089Z"
+        },
+        {
+          "subjectId": "26718830",
+          "file": "honkaku-014-26718830.webp",
+          "title": "新装版 匣の中の失楽",
+          "year": "2015-12-15",
+          "publisher": "講談社",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s28393948.jpg",
+          "bytes": 7426,
+          "width": 270,
+          "height": 414,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-03T04:29:49.397Z"
         }
       ],
       "worksId": "1010039",
@@ -848,7 +855,14 @@
           "sameAs": "新装版 匣の中の失楽",
           "why": "与已保留的版本是同一张图（写入时判重）"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "新装版 匣の中の失楽",
+        "year": "2015-12-15",
+        "subjectId": "26718830",
+        "at": "2026-10-03T05:55:35.500Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "shinhonkaku-001": {
       "file": "shinhonkaku-001.webp",
@@ -1209,43 +1223,27 @@
     },
     "shinhonkaku-006": {
       "file": "shinhonkaku-006.webp",
-      "bytes": 21866,
+      "bytes": 19464,
       "width": 270,
-      "height": 383,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35888591/",
-      "subjectId": "35888591",
+      "sourceUrl": "https://book.douban.com/subject/35406149/",
+      "subjectId": "35406149",
       "matched": "editions+works",
       "query": "版本一览（2 版）",
       "edition": {
-        "title": "如無頭作祟之物",
+        "title": "如首无作祟之物",
         "author": "三津田信三",
-        "year": "2022-7-2"
+        "year": "2021-8"
       },
       "bookYear": "2021",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-03T04:30:33.433Z",
       "editions": [
         {
-          "subjectId": "35888591",
-          "file": "shinhonkaku-006.webp",
-          "title": "如無頭作祟之物",
-          "year": "2022-7-2",
-          "publisher": "獨步文化",
-          "translator": "王華懋",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s34261081.jpg",
-          "bytes": 21866,
-          "width": 270,
-          "height": 383,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-03T04:30:30.782Z"
-        },
-        {
           "subjectId": "35406149",
-          "file": "shinhonkaku-006-35406149.webp",
+          "file": "shinhonkaku-006.webp",
           "title": "如首无作祟之物",
           "year": "2021-8",
           "publisher": "文化发展出版社",
@@ -1255,9 +1253,25 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-03T04:30:32.312Z"
+        },
+        {
+          "subjectId": "35888591",
+          "file": "shinhonkaku-006-35888591.webp",
+          "title": "如無頭作祟之物",
+          "year": "2022-7-2",
+          "publisher": "獨步文化",
+          "translator": "王華懋",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s34261081.jpg",
+          "bytes": 21866,
+          "width": 270,
+          "height": 383,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-03T04:30:30.782Z"
         }
       ],
       "worksId": "1014184",
@@ -1269,7 +1283,14 @@
           "sameAs": "如無頭作祟之物",
           "why": "与已保留的版本是同一张图（写入时判重）"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "如無頭作祟之物",
+        "year": "2022-7-2",
+        "subjectId": "35888591",
+        "at": "2026-10-03T05:55:35.501Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "shinhonkaku-007": {
       "file": "shinhonkaku-007.webp",
@@ -2387,42 +2408,27 @@
     },
     "western-009": {
       "file": "western-009.webp",
-      "bytes": 22266,
+      "bytes": 23910,
       "width": 270,
-      "height": 409,
+      "height": 386,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37325446/",
-      "subjectId": "37325446",
+      "sourceUrl": "https://book.douban.com/subject/24754967/",
+      "subjectId": "24754967",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "The Judas Window",
+        "title": "犹大之窗",
         "author": "约翰·迪克森·卡尔",
-        "year": "2025-7-10"
+        "year": "2013-8"
       },
       "bookYear": "2019",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:07:10.939Z",
       "editions": [
         {
-          "subjectId": "37325446",
-          "file": "western-009.webp",
-          "title": "The Judas Window",
-          "year": "2025-7-10",
-          "publisher": "British Library Publishing",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35468205.jpg",
-          "bytes": 22266,
-          "width": 270,
-          "height": 409,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:07:09.460Z"
-        },
-        {
           "subjectId": "24754967",
-          "file": "western-009-24754967.webp",
+          "file": "western-009.webp",
           "title": "犹大之窗",
           "year": "2013-8",
           "publisher": "吉林出版集团",
@@ -2432,9 +2438,24 @@
           "width": 270,
           "height": 386,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:07:10.939Z"
+        },
+        {
+          "subjectId": "37325446",
+          "file": "western-009-37325446.webp",
+          "title": "The Judas Window",
+          "year": "2025-7-10",
+          "publisher": "British Library Publishing",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35468205.jpg",
+          "bytes": 22266,
+          "width": 270,
+          "height": 409,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:07:09.460Z"
         }
       ],
       "worksId": "1010787",
@@ -2447,7 +2468,14 @@
           "structureDiff": 0.013,
           "grayDiff": 0.5
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "The Judas Window",
+        "year": "2025-7-10",
+        "subjectId": "37325446",
+        "at": "2026-10-03T05:55:35.502Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "western-010": {
       "file": "western-010.webp",
@@ -2629,27 +2657,43 @@
     },
     "social-001": {
       "file": "social-001.webp",
-      "bytes": 15562,
-      "width": 270,
-      "height": 381,
+      "bytes": 7804,
+      "width": 224,
+      "height": 327,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37221461/",
-      "subjectId": "37221461",
+      "sourceUrl": "https://book.douban.com/subject/26739950/",
+      "subjectId": "26739950",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Tokyo Express",
+        "title": "点与线",
         "author": "松本清张",
-        "year": "2023-3-30"
+        "year": "2016-6"
       },
       "bookYear": "2007",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:07:23.410Z",
       "editions": [
         {
-          "subjectId": "37221461",
+          "subjectId": "26739950",
           "file": "social-001.webp",
+          "title": "点与线",
+          "year": "2016-6",
+          "publisher": "南海出版公司",
+          "translator": "林青华",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s28768310.jpg",
+          "bytes": 7804,
+          "width": 224,
+          "height": 327,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:07:23.410Z"
+        },
+        {
+          "subjectId": "37221461",
+          "file": "social-001-37221461.webp",
           "title": "Tokyo Express",
           "year": "2023-3-30",
           "publisher": "Penguin Classics",
@@ -2659,7 +2703,7 @@
           "width": 270,
           "height": 381,
           "format": "webp",
-          "primary": true,
+          "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:07:21.668Z"
         },
@@ -2678,25 +2722,16 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:07:22.594Z"
-        },
-        {
-          "subjectId": "26739950",
-          "file": "social-001-26739950.webp",
-          "title": "点与线",
-          "year": "2016-6",
-          "publisher": "南海出版公司",
-          "translator": "林青华",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s28768310.jpg",
-          "bytes": 7804,
-          "width": 224,
-          "height": 327,
-          "format": "webp",
-          "primary": false,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:07:23.410Z"
         }
       ],
-      "worksId": "1010779"
+      "worksId": "1010779",
+      "promotedFrom": {
+        "title": "點與線",
+        "year": "2019-11-2",
+        "subjectId": "34822114",
+        "at": "2026-10-03T05:56:51.237Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "social-002": {
       "file": "social-002.webp",
@@ -2995,43 +3030,27 @@
     },
     "social-007": {
       "file": "social-007.webp",
-      "bytes": 15786,
+      "bytes": 11034,
       "width": 270,
-      "height": 383,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37348923/",
-      "subjectId": "37348923",
+      "sourceUrl": "https://book.douban.com/subject/5063539/",
+      "subjectId": "5063539",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "火車怪客",
+        "title": "列车上的陌生人",
         "author": "帕特里夏·海史密斯",
-        "year": "2025-8-9"
+        "year": "2010-11"
       },
       "bookYear": "2010",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:07:50.060Z",
       "editions": [
         {
-          "subjectId": "37348923",
-          "file": "social-007.webp",
-          "title": "火車怪客",
-          "year": "2025-8-9",
-          "publisher": "貓頭鷹",
-          "translator": "楊沐希",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35215245.jpg",
-          "bytes": 15786,
-          "width": 270,
-          "height": 383,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:07:48.313Z"
-        },
-        {
           "subjectId": "5063539",
-          "file": "social-007-5063539.webp",
+          "file": "social-007.webp",
           "title": "列车上的陌生人",
           "year": "2010-11",
           "publisher": "上海译文出版社",
@@ -3041,7 +3060,7 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:07:49.207Z"
         },
@@ -3059,9 +3078,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:07:50.060Z"
+        },
+        {
+          "subjectId": "37348923",
+          "file": "social-007-37348923.webp",
+          "title": "火車怪客",
+          "year": "2025-8-9",
+          "publisher": "貓頭鷹",
+          "translator": "楊沐希",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35215245.jpg",
+          "bytes": 15786,
+          "width": 270,
+          "height": 383,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:07:48.313Z"
         }
       ],
-      "worksId": "1010699"
+      "worksId": "1010699",
+      "promotedFrom": {
+        "title": "火車怪客",
+        "year": "2025-8-9",
+        "subjectId": "37348923",
+        "at": "2026-10-03T05:55:35.504Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "social-009": {
       "file": "social-009.webp",
@@ -3413,42 +3455,27 @@
     },
     "chinese-002": {
       "file": "chinese-002.webp",
-      "bytes": 7556,
+      "bytes": 13270,
       "width": 270,
       "height": 390,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37050517/",
-      "subjectId": "37050517",
+      "sourceUrl": "https://book.douban.com/subject/36414270/",
+      "subjectId": "36414270",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Плохие дети",
+        "title": "坏小孩（修订新版）",
         "author": "紫金陈",
-        "year": "2024-6-28"
+        "year": "2023-6"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:08:01.919Z",
       "editions": [
         {
-          "subjectId": "37050517",
-          "file": "chinese-002.webp",
-          "title": "Плохие дети",
-          "year": "2024-6-28",
-          "publisher": "Inspiria",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34963723.jpg",
-          "bytes": 7556,
-          "width": 270,
-          "height": 390,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:07:59.558Z"
-        },
-        {
           "subjectId": "36414270",
-          "file": "chinese-002-36414270.webp",
+          "file": "chinese-002.webp",
           "title": "坏小孩（修订新版）",
           "year": "2023-6",
           "publisher": "湖南文艺出版社",
@@ -3457,7 +3484,7 @@
           "width": 270,
           "height": 390,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:08:00.889Z"
         },
@@ -3475,9 +3502,31 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:08:01.919Z"
+        },
+        {
+          "subjectId": "37050517",
+          "file": "chinese-002-37050517.webp",
+          "title": "Плохие дети",
+          "year": "2024-6-28",
+          "publisher": "Inspiria",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34963723.jpg",
+          "bytes": 7556,
+          "width": 270,
+          "height": 390,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:07:59.558Z"
         }
       ],
-      "worksId": "1116149"
+      "worksId": "1116149",
+      "promotedFrom": {
+        "title": "Плохие дети",
+        "year": "2024-6-28",
+        "subjectId": "37050517",
+        "at": "2026-10-03T05:55:35.505Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "chinese-003": {
       "file": "chinese-003.webp",
@@ -3998,42 +4047,27 @@
     },
     "chinese-011": {
       "file": "chinese-011.webp",
-      "bytes": 19408,
+      "bytes": 26336,
       "width": 270,
-      "height": 406,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35963487/",
-      "subjectId": "35963487",
+      "sourceUrl": "https://book.douban.com/subject/35657908/",
+      "subjectId": "35657908",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Hình Cảnh Mất Trí",
+        "title": "遺忘·刑警",
         "author": "陈浩基",
-        "year": "2022-6-6"
+        "year": "2021-12-13"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:08:33.460Z",
       "editions": [
         {
-          "subjectId": "35963487",
-          "file": "chinese-011.webp",
-          "title": "Hình Cảnh Mất Trí",
-          "year": "2022-6-6",
-          "publisher": "",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34255998.jpg",
-          "bytes": 19408,
-          "width": 270,
-          "height": 406,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:08:31.583Z"
-        },
-        {
           "subjectId": "35657908",
-          "file": "chinese-011-35657908.webp",
+          "file": "chinese-011.webp",
           "title": "遺忘·刑警",
           "year": "2021-12-13",
           "publisher": "皇冠",
@@ -4042,9 +4076,24 @@
           "width": 270,
           "height": 383,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:08:32.869Z"
+        },
+        {
+          "subjectId": "35963487",
+          "file": "chinese-011-35963487.webp",
+          "title": "Hình Cảnh Mất Trí",
+          "year": "2022-6-6",
+          "publisher": "",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34255998.jpg",
+          "bytes": 19408,
+          "width": 270,
+          "height": 406,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:08:31.583Z"
         }
       ],
       "worksId": "1032433",
@@ -4057,7 +4106,14 @@
           "structureDiff": 0.004,
           "grayDiff": 0.3
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "Hình Cảnh Mất Trí",
+        "year": "2022-6-6",
+        "subjectId": "35963487",
+        "at": "2026-10-03T05:55:35.506Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "chinese-012": {
       "file": "chinese-012.webp",
@@ -4351,42 +4407,27 @@
     },
     "modern-004": {
       "file": "modern-004.webp",
-      "bytes": 13612,
+      "bytes": 27000,
       "width": 270,
-      "height": 404,
+      "height": 385,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38394152/",
-      "subjectId": "38394152",
+      "sourceUrl": "https://book.douban.com/subject/24754983/",
+      "subjectId": "24754983",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "The Burning Court",
+        "title": "燃烧的法庭",
         "author": "约翰·迪克森·卡尔",
-        "year": "2025-11"
+        "year": "2013-8"
       },
       "bookYear": "2021",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:08:57.938Z",
       "editions": [
         {
-          "subjectId": "38394152",
-          "file": "modern-004.webp",
-          "title": "The Burning Court",
-          "year": "2025-11",
-          "publisher": "",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35443794.jpg",
-          "bytes": 13612,
-          "width": 270,
-          "height": 404,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:08:56.306Z"
-        },
-        {
           "subjectId": "24754983",
-          "file": "modern-004-24754983.webp",
+          "file": "modern-004.webp",
           "title": "燃烧的法庭",
           "year": "2013-8",
           "publisher": "吉林出版集团",
@@ -4396,9 +4437,24 @@
           "width": 270,
           "height": 385,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:08:57.937Z"
+        },
+        {
+          "subjectId": "38394152",
+          "file": "modern-004-38394152.webp",
+          "title": "The Burning Court",
+          "year": "2025-11",
+          "publisher": "",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35443794.jpg",
+          "bytes": 13612,
+          "width": 270,
+          "height": 404,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:08:56.306Z"
         }
       ],
       "worksId": "1012069",
@@ -4409,7 +4465,14 @@
           "publisher": "外语教学与研究出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "The Burning Court",
+        "year": "2025-11",
+        "subjectId": "38394152",
+        "at": "2026-10-03T05:55:35.508Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "modern-005": {
       "file": "modern-005.webp",
@@ -4683,43 +4746,27 @@
     },
     "modern-010": {
       "file": "modern-010.webp",
-      "bytes": 10778,
+      "bytes": 23616,
       "width": 270,
       "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38520357/",
-      "subjectId": "38520357",
+      "sourceUrl": "https://book.douban.com/subject/37438666/",
+      "subjectId": "37438666",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "龍紋身的女孩",
+        "title": "龙文身的女孩",
         "author": "斯蒂格·拉森",
-        "year": "2026-8-1"
+        "year": "2025-9"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:09:18.776Z",
       "editions": [
         {
-          "subjectId": "38520357",
-          "file": "modern-010.webp",
-          "title": "龍紋身的女孩",
-          "year": "2026-8-1",
-          "publisher": "寂寞",
-          "translator": "顏湘如",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s35563691.jpg",
-          "bytes": 10778,
-          "width": 270,
-          "height": 382,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:09:16.493Z"
-        },
-        {
           "subjectId": "37438666",
-          "file": "modern-010-37438666.webp",
+          "file": "modern-010.webp",
           "title": "龙文身的女孩",
           "year": "2025-9",
           "publisher": "人民文学出版社",
@@ -4729,7 +4776,7 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:09:17.546Z"
         },
@@ -4748,9 +4795,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:09:18.776Z"
+        },
+        {
+          "subjectId": "38520357",
+          "file": "modern-010-38520357.webp",
+          "title": "龍紋身的女孩",
+          "year": "2026-8-1",
+          "publisher": "寂寞",
+          "translator": "顏湘如",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s35563691.jpg",
+          "bytes": 10778,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:09:16.493Z"
         }
       ],
-      "worksId": "1003492"
+      "worksId": "1003492",
+      "promotedFrom": {
+        "title": "龍紋身的女孩",
+        "year": "2026-8-1",
+        "subjectId": "38520357",
+        "at": "2026-10-03T05:55:35.509Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "modern-011": {
       "file": "modern-011.webp",
@@ -4978,42 +5048,27 @@
     },
     "honkaku2-004": {
       "file": "honkaku2-004.webp",
-      "bytes": 11720,
+      "bytes": 22882,
       "width": 270,
-      "height": 400,
+      "height": 390,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37027180/",
-      "subjectId": "37027180",
+      "sourceUrl": "https://book.douban.com/subject/35794995/",
+      "subjectId": "35794995",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "คืนฆ่าลักพาตัว",
+        "title": "一の悲劇",
         "author": "法月纶太郎",
-        "year": "2024-8"
+        "year": "2022-4-15"
       },
       "bookYear": "2012",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:09:32.308Z",
       "editions": [
         {
-          "subjectId": "37027180",
-          "file": "honkaku2-004.webp",
-          "title": "คืนฆ่าลักพาตัว",
-          "year": "2024-8",
-          "publisher": "prism",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34949994.jpg",
-          "bytes": 11720,
-          "width": 270,
-          "height": 400,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:09:30.827Z"
-        },
-        {
           "subjectId": "35794995",
-          "file": "honkaku2-004-35794995.webp",
+          "file": "honkaku2-004.webp",
           "title": "一の悲劇",
           "year": "2022-4-15",
           "publisher": "祥伝社",
@@ -5022,9 +5077,24 @@
           "width": 270,
           "height": 390,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:09:32.308Z"
+        },
+        {
+          "subjectId": "37027180",
+          "file": "honkaku2-004-37027180.webp",
+          "title": "คืนฆ่าลักพาตัว",
+          "year": "2024-8",
+          "publisher": "prism",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s34949994.jpg",
+          "bytes": 11720,
+          "width": 270,
+          "height": 400,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:09:30.827Z"
         }
       ],
       "worksId": "1014566",
@@ -5035,7 +5105,14 @@
           "publisher": "吉林出版集团",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "คืนฆ่าลักพาตัว",
+        "year": "2024-8",
+        "subjectId": "37027180",
+        "at": "2026-10-03T05:55:35.510Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "honkaku2-005": {
       "file": "honkaku2-005.webp",
@@ -5246,42 +5323,27 @@
     },
     "honkaku2-009": {
       "file": "honkaku2-009.webp",
-      "bytes": 9742,
+      "bytes": 13860,
       "width": 270,
-      "height": 403,
+      "height": 386,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36158969/",
-      "subjectId": "36158969",
+      "sourceUrl": "https://book.douban.com/subject/5038408/",
+      "subjectId": "5038408",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "인사이트 밀",
+        "title": "算计",
         "author": "米泽穗信",
-        "year": "2022-9-30"
+        "year": "2010-9"
       },
       "bookYear": "2020",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:09:49.909Z",
       "editions": [
         {
-          "subjectId": "36158969",
-          "file": "honkaku2-009.webp",
-          "title": "인사이트 밀",
-          "year": "2022-9-30",
-          "publisher": "엘릭시르",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34354572.jpg",
-          "bytes": 9742,
-          "width": 270,
-          "height": 403,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:09:48.528Z"
-        },
-        {
           "subjectId": "5038408",
-          "file": "honkaku2-009-5038408.webp",
+          "file": "honkaku2-009.webp",
           "title": "算计",
           "year": "2010-9",
           "publisher": "译林出版社",
@@ -5291,9 +5353,24 @@
           "width": 270,
           "height": 386,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:09:49.909Z"
+        },
+        {
+          "subjectId": "36158969",
+          "file": "honkaku2-009-36158969.webp",
+          "title": "인사이트 밀",
+          "year": "2022-9-30",
+          "publisher": "엘릭시르",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34354572.jpg",
+          "bytes": 9742,
+          "width": 270,
+          "height": 403,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:09:48.528Z"
         }
       ],
       "editionsDropped": [
@@ -5313,7 +5390,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1015306"
+      "worksId": "1015306",
+      "promotedFrom": {
+        "title": "인사이트 밀",
+        "year": "2022-9-30",
+        "subjectId": "36158969",
+        "at": "2026-10-03T05:55:35.511Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "honkaku2-010": {
       "file": "honkaku2-010.webp",
@@ -5750,42 +5834,27 @@
     },
     "honkaku2-016": {
       "file": "honkaku2-016.webp",
-      "bytes": 24324,
+      "bytes": 15102,
       "width": 270,
-      "height": 377,
+      "height": 384,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26365121/",
-      "subjectId": "26365121",
+      "sourceUrl": "https://book.douban.com/subject/24842290/",
+      "subjectId": "24842290",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Another",
+        "title": "替身",
         "author": "绫辻行人",
-        "year": "2014-10-28"
+        "year": "2013-9"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:10:23.449Z",
       "editions": [
         {
-          "subjectId": "26365121",
-          "file": "honkaku2-016.webp",
-          "title": "Another",
-          "year": "2014-10-28",
-          "publisher": "Yen On",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s28047087.jpg",
-          "bytes": 24324,
-          "width": 270,
-          "height": 377,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:10:21.831Z"
-        },
-        {
           "subjectId": "24842290",
-          "file": "honkaku2-016-24842290.webp",
+          "file": "honkaku2-016.webp",
           "title": "替身",
           "year": "2013-9",
           "publisher": "上海文艺出版社",
@@ -5795,9 +5864,24 @@
           "width": 270,
           "height": 384,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:10:22.753Z"
+        },
+        {
+          "subjectId": "26365121",
+          "file": "honkaku2-016-26365121.webp",
+          "title": "Another",
+          "year": "2014-10-28",
+          "publisher": "Yen On",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s28047087.jpg",
+          "bytes": 24324,
+          "width": 270,
+          "height": 377,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:10:21.831Z"
         }
       ],
       "worksId": "1028231",
@@ -5808,7 +5892,14 @@
           "publisher": "人民文学出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "Another",
+        "year": "2014-10-28",
+        "subjectId": "26365121",
+        "at": "2026-10-03T05:55:35.512Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "honkaku2-017": {
       "file": "honkaku2-017.webp",
@@ -6017,42 +6108,27 @@
     },
     "western2-003": {
       "file": "western2-003.webp",
-      "bytes": 9260,
+      "bytes": 30148,
       "width": 270,
-      "height": 413,
+      "height": 428,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37524253/",
-      "subjectId": "37524253",
+      "sourceUrl": "https://book.douban.com/subject/37374151/",
+      "subjectId": "37374151",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Evil Under the Sun",
+        "title": "阳光下的罪恶",
         "author": "阿加莎·克里斯蒂",
-        "year": "2025-7-8"
+        "year": "2025-6"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:10:33.683Z",
       "editions": [
         {
-          "subjectId": "37524253",
-          "file": "western2-003.webp",
-          "title": "Evil Under the Sun",
-          "year": "2025-7-8",
-          "publisher": "William Morrow Paperbacks",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s35252222.jpg",
-          "bytes": 9260,
-          "width": 270,
-          "height": 413,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:10:31.893Z"
-        },
-        {
           "subjectId": "37374151",
-          "file": "western2-003-37374151.webp",
+          "file": "western2-003.webp",
           "title": "阳光下的罪恶",
           "year": "2025-6",
           "publisher": "新星出版社",
@@ -6062,7 +6138,7 @@
           "width": 270,
           "height": 428,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:10:32.799Z"
         },
@@ -6080,6 +6156,21 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:10:33.683Z"
+        },
+        {
+          "subjectId": "37524253",
+          "file": "western2-003-37524253.webp",
+          "title": "Evil Under the Sun",
+          "year": "2025-7-8",
+          "publisher": "William Morrow Paperbacks",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s35252222.jpg",
+          "bytes": 9260,
+          "width": 270,
+          "height": 413,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:10:31.893Z"
         }
       ],
       "editionsDropped": [
@@ -6093,7 +6184,14 @@
           "grayDiff": 1.7
         }
       ],
-      "worksId": "1011754"
+      "worksId": "1011754",
+      "promotedFrom": {
+        "title": "Evil Under the Sun",
+        "year": "2025-7-8",
+        "subjectId": "37524253",
+        "at": "2026-10-03T05:55:35.513Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "western2-004": {
       "file": "western2-004.webp",
@@ -6317,42 +6415,27 @@
     },
     "western2-007": {
       "file": "western2-007.webp",
-      "bytes": 14474,
+      "bytes": 10456,
       "width": 270,
-      "height": 404,
+      "height": 400,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36318492/",
-      "subjectId": "36318492",
+      "sourceUrl": "https://book.douban.com/subject/10564633/",
+      "subjectId": "10564633",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "The Black Spectacles",
+        "title": "绿胶囊之谜",
         "author": "约翰·迪克森·卡尔",
-        "year": "2023-3-10"
+        "year": "2011-12"
       },
       "bookYear": "2020",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:10:54.920Z",
       "editions": [
         {
-          "subjectId": "36318492",
-          "file": "western2-007.webp",
-          "title": "The Black Spectacles",
-          "year": "2023-3-10",
-          "publisher": "British Library Publishing",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34472042.jpg",
-          "bytes": 14474,
-          "width": 270,
-          "height": 404,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:10:53.511Z"
-        },
-        {
           "subjectId": "10564633",
-          "file": "western2-007-10564633.webp",
+          "file": "western2-007.webp",
           "title": "绿胶囊之谜",
           "year": "2011-12",
           "publisher": "吉林出版集团",
@@ -6362,9 +6445,24 @@
           "width": 270,
           "height": 400,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:10:54.920Z"
+        },
+        {
+          "subjectId": "36318492",
+          "file": "western2-007-36318492.webp",
+          "title": "The Black Spectacles",
+          "year": "2023-3-10",
+          "publisher": "British Library Publishing",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34472042.jpg",
+          "bytes": 14474,
+          "width": 270,
+          "height": 404,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:10:53.511Z"
         }
       ],
       "worksId": "1019011",
@@ -6377,7 +6475,14 @@
           "structureDiff": 0.037,
           "grayDiff": 0.5
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "The Black Spectacles",
+        "year": "2023-3-10",
+        "subjectId": "36318492",
+        "at": "2026-10-03T05:55:35.514Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "western2-008": {
       "file": "western2-008.webp",
@@ -6657,43 +6762,27 @@
     },
     "western2-013": {
       "file": "western2-013.webp",
-      "bytes": 26702,
-      "width": 270,
-      "height": 408,
+      "bytes": 6546,
+      "width": 120,
+      "height": 167,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35283106/",
-      "subjectId": "35283106",
+      "sourceUrl": "https://book.douban.com/subject/4005290/",
+      "subjectId": "4005290",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "十日間の不思議",
+        "title": "十日驚奇",
         "author": "埃勒里·奎因",
-        "year": "2021-2-18"
+        "year": "2005-11-11"
       },
       "bookYear": "2010",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:11:10.470Z",
       "editions": [
         {
-          "subjectId": "35283106",
-          "file": "western2-013.webp",
-          "title": "十日間の不思議",
-          "year": "2021-2-18",
-          "publisher": "早川書房",
-          "translator": "越前敏弥",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s33827650.jpg",
-          "bytes": 26702,
-          "width": 270,
-          "height": 408,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:11:09.053Z"
-        },
-        {
           "subjectId": "4005290",
-          "file": "western2-013-4005290.webp",
+          "file": "western2-013.webp",
           "title": "十日驚奇",
           "year": "2005-11-11",
           "publisher": "臉譜出版社",
@@ -6703,9 +6792,25 @@
           "width": 120,
           "height": 167,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:11:10.470Z"
+        },
+        {
+          "subjectId": "35283106",
+          "file": "western2-013-35283106.webp",
+          "title": "十日間の不思議",
+          "year": "2021-2-18",
+          "publisher": "早川書房",
+          "translator": "越前敏弥",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s33827650.jpg",
+          "bytes": 26702,
+          "width": 270,
+          "height": 408,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:11:09.053Z"
         }
       ],
       "worksId": "1010402",
@@ -6716,7 +6821,14 @@
           "publisher": "新星出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "十日間の不思議",
+        "year": "2021-2-18",
+        "subjectId": "35283106",
+        "at": "2026-10-03T05:55:35.514Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "western2-014": {
       "file": "western2-014.webp",
@@ -7043,60 +7155,6 @@
         }
       ],
       "worksId": "1010903",
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.524Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
-    "social2-001": {
-      "file": "social2-001.webp",
-      "bytes": 7404,
-      "width": 270,
-      "height": 372,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30237176/",
-      "subjectId": "30237176",
-      "matched": "subject-id",
-      "query": "版本一览（2 版，含微信读书）",
-      "edition": {
-        "title": "19年间谋杀小叙",
-        "author": "那多",
-        "year": "2018"
-      },
-      "bookYear": "",
-      "yearMatch": null,
-      "fetchedAt": "2026-10-03T04:31:04.236Z",
-      "editions": [
-        {
-          "subjectId": "30237176",
-          "file": "social2-001.webp",
-          "title": "19年间谋杀小叙",
-          "year": "2018",
-          "publisher": "",
-          "bytes": 7404,
-          "width": 270,
-          "height": 372,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:11:38.040Z"
-        },
-        {
-          "subjectId": "3300143316",
-          "source": "微信读书",
-          "remote": true,
-          "pic": "https://cdn.weread.qq.com/weread/cover/33/cpplatform_b5dk3eticrnnwzz1p3tjx7/t3_cpplatform_b5dk3eticrnnwzz1p3tjx71745913416.jpg",
-          "largePic": "https://cdn.weread.qq.com/weread/cover/33/cpplatform_b5dk3eticrnnwzz1p3tjx7/t9_cpplatform_b5dk3eticrnnwzz1p3tjx71745913416.jpg",
-          "title": "十九年间谋杀小叙（新增序言、后记，并为“第二个凶手”给出新的解答！）",
-          "publisher": "人民文学出版社",
-          "year": "",
-          "primary": false,
-          "collected": false,
-          "fetchedAt": "2026-10-03T04:31:04.236Z"
-        }
-      ],
       "matchedRestored": {
         "from": "covers-snapshot-2210.json",
         "at": "2026-10-03T05:23:49.524Z",
@@ -7642,43 +7700,27 @@
     },
     "social2-010": {
       "file": "social2-010.webp",
-      "bytes": 4922,
+      "bytes": 19146,
       "width": 270,
-      "height": 389,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35606848/",
-      "subjectId": "35606848",
+      "sourceUrl": "https://book.douban.com/subject/21979042/",
+      "subjectId": "21979042",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "半自白",
+        "title": "半落",
         "author": "横山秀夫",
-        "year": "2021-10-30"
+        "year": "2013-7"
       },
       "bookYear": "2017",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:12:08.678Z",
       "editions": [
         {
-          "subjectId": "35606848",
-          "file": "social2-010.webp",
-          "title": "半自白",
-          "year": "2021-10-30",
-          "publisher": "春天",
-          "translator": "王蘊潔",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34021568.jpg",
-          "bytes": 4922,
-          "width": 270,
-          "height": 389,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:12:07.167Z"
-        },
-        {
           "subjectId": "21979042",
-          "file": "social2-010-21979042.webp",
+          "file": "social2-010.webp",
           "title": "半落",
           "year": "2013-7",
           "publisher": "南海出版公司",
@@ -7688,9 +7730,25 @@
           "width": 270,
           "height": 383,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:12:08.677Z"
+        },
+        {
+          "subjectId": "35606848",
+          "file": "social2-010-35606848.webp",
+          "title": "半自白",
+          "year": "2021-10-30",
+          "publisher": "春天",
+          "translator": "王蘊潔",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34021568.jpg",
+          "bytes": 4922,
+          "width": 270,
+          "height": 389,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:12:07.167Z"
         }
       ],
       "editionsDropped": [
@@ -7712,7 +7770,14 @@
           "grayDiff": 0.4
         }
       ],
-      "worksId": "1012674"
+      "worksId": "1012674",
+      "promotedFrom": {
+        "title": "半自白",
+        "year": "2021-10-30",
+        "subjectId": "35606848",
+        "at": "2026-10-03T05:55:35.515Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "social2-012": {
       "file": "social2-012.webp",
@@ -8828,42 +8893,27 @@
     },
     "golden-012": {
       "file": "golden-012.webp",
-      "bytes": 14510,
+      "bytes": 9706,
       "width": 270,
-      "height": 409,
+      "height": 395,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37192020/",
-      "subjectId": "37192020",
+      "sourceUrl": "https://book.douban.com/subject/10564632/",
+      "subjectId": "10564632",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "He Who Whispers",
+        "title": "耳语之人",
         "author": "约翰·迪克森·卡尔",
-        "year": "2023-8-10"
+        "year": "2011-12"
       },
       "bookYear": "2021",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:13:33.523Z",
       "editions": [
         {
-          "subjectId": "37192020",
-          "file": "golden-012.webp",
-          "title": "He Who Whispers",
-          "year": "2023-8-10",
-          "publisher": "British Library Publishing",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s35266720.jpg",
-          "bytes": 14510,
-          "width": 270,
-          "height": 409,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:13:32.150Z"
-        },
-        {
           "subjectId": "10564632",
-          "file": "golden-012-10564632.webp",
+          "file": "golden-012.webp",
           "title": "耳语之人",
           "year": "2011-12",
           "publisher": "吉林出版集团",
@@ -8873,9 +8923,24 @@
           "width": 270,
           "height": 395,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:13:33.522Z"
+        },
+        {
+          "subjectId": "37192020",
+          "file": "golden-012-37192020.webp",
+          "title": "He Who Whispers",
+          "year": "2023-8-10",
+          "publisher": "British Library Publishing",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s35266720.jpg",
+          "bytes": 14510,
+          "width": 270,
+          "height": 409,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:13:32.150Z"
         }
       ],
       "editionsDropped": [
@@ -8895,7 +8960,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1012720"
+      "worksId": "1012720",
+      "promotedFrom": {
+        "title": "He Who Whispers",
+        "year": "2023-8-10",
+        "subjectId": "37192020",
+        "at": "2026-10-03T05:55:35.516Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "golden-014": {
       "file": "golden-014.webp",
@@ -11500,27 +11572,42 @@
     },
     "opac101-006": {
       "file": "opac101-006.webp",
-      "bytes": 18712,
+      "bytes": 18546,
       "width": 270,
-      "height": 409,
+      "height": 384,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36222768/",
-      "subjectId": "36222768",
+      "sourceUrl": "https://book.douban.com/subject/34451406/",
+      "subjectId": "34451406",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "CRIMINELLE IA",
+        "title": "犯人IAのインテリジェンス・アンプリファー 探偵AI 2",
         "author": "早坂吝",
-        "year": "2022-12-2"
+        "year": "2019-8-28"
       },
       "bookYear": "2020",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:16:26.015Z",
       "editions": [
         {
-          "subjectId": "36222768",
+          "subjectId": "34451406",
           "file": "opac101-006.webp",
+          "title": "犯人IAのインテリジェンス・アンプリファー 探偵AI 2",
+          "year": "2019-8-28",
+          "publisher": "新潮社",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s33460781.jpg",
+          "bytes": 18546,
+          "width": 270,
+          "height": 384,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:16:26.015Z"
+        },
+        {
+          "subjectId": "36222768",
+          "file": "opac101-006-36222768.webp",
           "title": "CRIMINELLE IA",
           "year": "2022-12-2",
           "publisher": "LANOVEL EDITION",
@@ -11530,24 +11617,9 @@
           "width": 270,
           "height": 409,
           "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:16:23.195Z"
-        },
-        {
-          "subjectId": "34451406",
-          "file": "opac101-006-34451406.webp",
-          "title": "犯人IAのインテリジェンス・アンプリファー 探偵AI 2",
-          "year": "2019-8-28",
-          "publisher": "新潮社",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s33460781.jpg",
-          "bytes": 18546,
-          "width": 270,
-          "height": 384,
-          "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:16:26.015Z"
+          "fetchedAt": "2026-10-02T16:16:23.195Z"
         }
       ],
       "editionsDropped": [
@@ -11567,7 +11639,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1117483"
+      "worksId": "1117483",
+      "promotedFrom": {
+        "title": "CRIMINELLE IA",
+        "year": "2022-12-2",
+        "subjectId": "36222768",
+        "at": "2026-10-03T05:55:35.517Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac101-007": {
       "file": "opac101-007.webp",
@@ -12020,42 +12099,27 @@
     },
     "opac102-001": {
       "file": "opac102-001.webp",
-      "bytes": 28472,
+      "bytes": 24296,
       "width": 270,
-      "height": 391,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35922526/",
-      "subjectId": "35922526",
+      "sourceUrl": "https://book.douban.com/subject/35510544/",
+      "subjectId": "35510544",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "いけない",
+        "title": "不可以",
         "author": "道尾秀介",
-        "year": "2022-8-3"
+        "year": "2021-7-26"
       },
       "bookYear": "2021",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:16:56.032Z",
       "editions": [
         {
-          "subjectId": "35922526",
-          "file": "opac102-001.webp",
-          "title": "いけない",
-          "year": "2022-8-3",
-          "publisher": "文藝春秋",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s34269811.jpg",
-          "bytes": 28472,
-          "width": 270,
-          "height": 391,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:16:54.245Z"
-        },
-        {
           "subjectId": "35510544",
-          "file": "opac102-001-35510544.webp",
+          "file": "opac102-001.webp",
           "title": "不可以",
           "year": "2021-7-26",
           "publisher": "皇冠",
@@ -12065,7 +12129,7 @@
           "width": 270,
           "height": 383,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:16:55.189Z"
         },
@@ -12083,9 +12147,31 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:16:56.032Z"
+        },
+        {
+          "subjectId": "35922526",
+          "file": "opac102-001-35922526.webp",
+          "title": "いけない",
+          "year": "2022-8-3",
+          "publisher": "文藝春秋",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s34269811.jpg",
+          "bytes": 28472,
+          "width": 270,
+          "height": 391,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:16:54.245Z"
         }
       ],
-      "worksId": "1127996"
+      "worksId": "1127996",
+      "promotedFrom": {
+        "title": "いけない",
+        "year": "2022-8-3",
+        "subjectId": "35922526",
+        "at": "2026-10-03T05:55:35.518Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac102-002": {
       "file": "opac102-002.webp",
@@ -12544,42 +12630,27 @@
     },
     "opac102-009": {
       "file": "opac102-009.webp",
-      "bytes": 19224,
+      "bytes": 40426,
       "width": 270,
-      "height": 405,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36971613/",
-      "subjectId": "36971613",
+      "sourceUrl": "https://book.douban.com/subject/35726456/",
+      "subjectId": "35726456",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "境界線",
+        "title": "界線",
         "author": "中山七里",
-        "year": "2024-8-5"
+        "year": "2022-3-8"
       },
       "bookYear": "2023",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:17:27.962Z",
       "editions": [
         {
-          "subjectId": "36971613",
-          "file": "opac102-009.webp",
-          "title": "境界線",
-          "year": "2024-8-5",
-          "publisher": "宝島社",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34912300.jpg",
-          "bytes": 19224,
-          "width": 270,
-          "height": 405,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:17:26.382Z"
-        },
-        {
           "subjectId": "35726456",
-          "file": "opac102-009-35726456.webp",
+          "file": "opac102-009.webp",
           "title": "界線",
           "year": "2022-3-8",
           "publisher": "時報文化",
@@ -12589,9 +12660,24 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:17:27.962Z"
+        },
+        {
+          "subjectId": "36971613",
+          "file": "opac102-009-36971613.webp",
+          "title": "境界線",
+          "year": "2024-8-5",
+          "publisher": "宝島社",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34912300.jpg",
+          "bytes": 19224,
+          "width": 270,
+          "height": 405,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:17:26.382Z"
         }
       ],
       "editionsDropped": [
@@ -12613,7 +12699,14 @@
           "grayDiff": 0.4
         }
       ],
-      "worksId": "1139030"
+      "worksId": "1139030",
+      "promotedFrom": {
+        "title": "境界線",
+        "year": "2024-8-5",
+        "subjectId": "36971613",
+        "at": "2026-10-03T05:55:35.519Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac102-010": {
       "file": "opac102-010.webp",
@@ -14160,42 +14253,27 @@
     },
     "opac104-001": {
       "file": "opac104-001.webp",
-      "bytes": 19302,
+      "bytes": 26068,
       "width": 270,
-      "height": 393,
+      "height": 374,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37294145/",
-      "subjectId": "37294145",
+      "sourceUrl": "https://book.douban.com/subject/35355594/",
+      "subjectId": "35355594",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "부러진 용골",
+        "title": "折断的龙骨",
         "author": "米泽穗信",
-        "year": "2025-3-28"
+        "year": "2021-4"
       },
       "bookYear": "2018",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:19:08.800Z",
       "editions": [
         {
-          "subjectId": "37294145",
-          "file": "opac104-001.webp",
-          "title": "부러진 용골",
-          "year": "2025-3-28",
-          "publisher": "엘릭시르",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35115136.jpg",
-          "bytes": 19302,
-          "width": 270,
-          "height": 393,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:19:07.368Z"
-        },
-        {
           "subjectId": "35355594",
-          "file": "opac104-001-35355594.webp",
+          "file": "opac104-001.webp",
           "title": "折断的龙骨",
           "year": "2021-4",
           "publisher": "现代出版社",
@@ -14205,9 +14283,24 @@
           "width": 270,
           "height": 374,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:19:08.800Z"
+        },
+        {
+          "subjectId": "37294145",
+          "file": "opac104-001-37294145.webp",
+          "title": "부러진 용골",
+          "year": "2025-3-28",
+          "publisher": "엘릭시르",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35115136.jpg",
+          "bytes": 19302,
+          "width": 270,
+          "height": 393,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:19:07.368Z"
         }
       ],
       "worksId": "1061656",
@@ -14218,7 +14311,14 @@
           "publisher": "现代出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "부러진 용골",
+        "year": "2025-3-28",
+        "subjectId": "37294145",
+        "at": "2026-10-03T05:55:35.520Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac104-002": {
       "file": "opac104-002.webp",
@@ -14433,43 +14533,27 @@
     },
     "opac104-005": {
       "file": "opac104-005.webp",
-      "bytes": 34044,
+      "bytes": 9258,
       "width": 270,
       "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/34992354/",
-      "subjectId": "34992354",
+      "sourceUrl": "https://book.douban.com/subject/20413955/",
+      "subjectId": "20413955",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "자물쇠가 잠긴 방",
+        "title": "上鎖的房間",
         "author": "贵志佑介",
-        "year": "2019-2-20"
+        "year": "2013-1-31"
       },
       "bookYear": "2014",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:19:27.103Z",
       "editions": [
         {
-          "subjectId": "34992354",
-          "file": "opac104-005.webp",
-          "title": "자물쇠가 잠긴 방",
-          "year": "2019-2-20",
-          "publisher": "bookholic",
-          "translator": "김은모",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s33592944.jpg",
-          "bytes": 34044,
-          "width": 270,
-          "height": 382,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:19:25.626Z"
-        },
-        {
           "subjectId": "20413955",
-          "file": "opac104-005-20413955.webp",
+          "file": "opac104-005.webp",
           "title": "上鎖的房間",
           "year": "2013-1-31",
           "publisher": "台灣角川",
@@ -14479,9 +14563,25 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:19:27.103Z"
+        },
+        {
+          "subjectId": "34992354",
+          "file": "opac104-005-34992354.webp",
+          "title": "자물쇠가 잠긴 방",
+          "year": "2019-2-20",
+          "publisher": "bookholic",
+          "translator": "김은모",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s33592944.jpg",
+          "bytes": 34044,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:19:25.626Z"
         }
       ],
       "worksId": "1051979",
@@ -14492,7 +14592,14 @@
           "publisher": "重庆出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "자물쇠가 잠긴 방",
+        "year": "2019-2-20",
+        "subjectId": "34992354",
+        "at": "2026-10-03T05:55:35.521Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac104-006": {
       "file": "opac104-006.webp",
@@ -14682,42 +14789,27 @@
     },
     "opac104-011": {
       "file": "opac104-011.webp",
-      "bytes": 10342,
+      "bytes": 11240,
       "width": 270,
-      "height": 388,
+      "height": 377,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35325695/",
-      "subjectId": "35325695",
+      "sourceUrl": "https://book.douban.com/subject/25975764/",
+      "subjectId": "25975764",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "คนที่หายไป ใครที่กลับมา",
+        "title": "睡在豌豆上",
         "author": "凑佳苗",
-        "year": "2019-4"
+        "year": "2014-10-3"
       },
       "bookYear": "2014",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:19:43.127Z",
       "editions": [
         {
-          "subjectId": "35325695",
-          "file": "opac104-011.webp",
-          "title": "คนที่หายไป ใครที่กลับมา",
-          "year": "2019-4",
-          "publisher": "แพรวสำนักพิมพ์",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s33802172.jpg",
-          "bytes": 10342,
-          "width": 270,
-          "height": 388,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:19:41.713Z"
-        },
-        {
           "subjectId": "25975764",
-          "file": "opac104-011-25975764.webp",
+          "file": "opac104-011.webp",
           "title": "睡在豌豆上",
           "year": "2014-10-3",
           "publisher": "春天",
@@ -14727,9 +14819,24 @@
           "width": 270,
           "height": 377,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:19:42.553Z"
+        },
+        {
+          "subjectId": "35325695",
+          "file": "opac104-011-35325695.webp",
+          "title": "คนที่หายไป ใครที่กลับมา",
+          "year": "2019-4",
+          "publisher": "แพรวสำนักพิมพ์",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s33802172.jpg",
+          "bytes": 10342,
+          "width": 270,
+          "height": 388,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:19:41.713Z"
         }
       ],
       "worksId": "1054570",
@@ -14740,7 +14847,14 @@
           "publisher": "九州出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "คนที่หายไป ใครที่กลับมา",
+        "year": "2019-4",
+        "subjectId": "35325695",
+        "at": "2026-10-03T05:55:35.522Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "opac105-001": {
       "file": "opac105-001.webp",
@@ -16672,42 +16786,27 @@
     },
     "christie109-006": {
       "file": "christie109-006.webp",
-      "bytes": 11602,
+      "bytes": 11150,
       "width": 270,
-      "height": 413,
+      "height": 390,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38435266/",
-      "subjectId": "38435266",
+      "sourceUrl": "https://book.douban.com/subject/36144358/",
+      "subjectId": "36144358",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "They Came to Baghdad",
+        "title": "他们来到巴格达",
         "author": "阿加莎·克里斯蒂",
-        "year": "2026-8-13"
+        "year": "2022-10"
       },
       "bookYear": "2015",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:22:00.126Z",
       "editions": [
         {
-          "subjectId": "38435266",
-          "file": "christie109-006.webp",
-          "title": "They Came to Baghdad",
-          "year": "2026-8-13",
-          "publisher": "HarperCollins",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35476596.jpg",
-          "bytes": 11602,
-          "width": 270,
-          "height": 413,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:21:57.511Z"
-        },
-        {
           "subjectId": "36144358",
-          "file": "christie109-006-36144358.webp",
+          "file": "christie109-006.webp",
           "title": "他们来到巴格达",
           "year": "2022-10",
           "publisher": "新星出版社",
@@ -16717,9 +16816,24 @@
           "width": 270,
           "height": 390,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:22:00.126Z"
+        },
+        {
+          "subjectId": "38435266",
+          "file": "christie109-006-38435266.webp",
+          "title": "They Came to Baghdad",
+          "year": "2026-8-13",
+          "publisher": "HarperCollins",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35476596.jpg",
+          "bytes": 11602,
+          "width": 270,
+          "height": 413,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:21:57.511Z"
         }
       ],
       "editionsDropped": [
@@ -16739,7 +16853,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1012923"
+      "worksId": "1012923",
+      "promotedFrom": {
+        "title": "They Came to Baghdad",
+        "year": "2026-8-13",
+        "subjectId": "38435266",
+        "at": "2026-10-03T05:55:35.523Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "christie109-007": {
       "file": "christie109-007.webp",
@@ -16874,27 +16995,42 @@
     },
     "modern2-002": {
       "file": "modern2-002.webp",
-      "bytes": 14642,
+      "bytes": 14962,
       "width": 270,
-      "height": 377,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38457831/",
-      "subjectId": "38457831",
+      "sourceUrl": "https://book.douban.com/subject/37042634/",
+      "subjectId": "37042634",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Fantôme",
+        "title": "幽灵",
         "author": "尤·奈斯博",
-        "year": "2026-6-4"
+        "year": "2024-9"
       },
       "bookYear": "2017",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:22:14.920Z",
       "editions": [
         {
-          "subjectId": "38457831",
+          "subjectId": "37042634",
           "file": "modern2-002.webp",
+          "title": "幽灵",
+          "year": "2024-9",
+          "publisher": "湖南文艺出版社",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s34959085.jpg",
+          "bytes": 14962,
+          "width": 270,
+          "height": 388,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:22:14.920Z"
+        },
+        {
+          "subjectId": "38457831",
+          "file": "modern2-002-38457831.webp",
           "title": "Fantôme",
           "year": "2026-6-4",
           "publisher": "Gallimard",
@@ -16904,24 +17040,9 @@
           "width": 270,
           "height": 377,
           "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:22:13.482Z"
-        },
-        {
-          "subjectId": "37042634",
-          "file": "modern2-002-37042634.webp",
-          "title": "幽灵",
-          "year": "2024-9",
-          "publisher": "湖南文艺出版社",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34959085.jpg",
-          "bytes": 14962,
-          "width": 270,
-          "height": 388,
-          "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:22:14.920Z"
+          "fetchedAt": "2026-10-02T16:22:13.482Z"
         }
       ],
       "worksId": "1082458",
@@ -16934,7 +17055,14 @@
           "structureDiff": 0.029,
           "grayDiff": 0.4
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "Fantôme",
+        "year": "2026-6-4",
+        "subjectId": "38457831",
+        "at": "2026-10-03T05:55:35.524Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "modern2-003": {
       "file": "modern2-003.webp",
@@ -18045,13 +18173,13 @@
     },
     "chris110-007": {
       "file": "chris110-007.webp",
-      "bytes": 10588,
+      "bytes": 6546,
       "width": 270,
-      "height": 398,
+      "height": 340,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37564227/",
-      "subjectId": "37564227",
+      "sourceUrl": "https://book.douban.com/subject/26413662/",
+      "subjectId": "26413662",
       "matched": "editions+works",
       "replacedFrom": {
         "subjectId": "26413662",
@@ -18060,32 +18188,17 @@
       },
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "The Pale Horse",
+        "title": "灰马酒店",
         "author": "阿加莎·克里斯蒂",
-        "year": "2026-2-12"
+        "year": "2015-7"
       },
       "bookYear": "2022",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:23:38.402Z",
       "editions": [
         {
-          "subjectId": "37564227",
-          "file": "chris110-007.webp",
-          "title": "The Pale Horse",
-          "year": "2026-2-12",
-          "publisher": "HarperCollins",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s35261653.jpg",
-          "bytes": 10588,
-          "width": 270,
-          "height": 398,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:23:37.261Z"
-        },
-        {
           "subjectId": "26413662",
-          "file": "chris110-007-26413662.webp",
+          "file": "chris110-007.webp",
           "title": "灰马酒店",
           "year": "2015-7",
           "publisher": "新星出版社",
@@ -18095,9 +18208,24 @@
           "width": 270,
           "height": 340,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:23:38.402Z"
+        },
+        {
+          "subjectId": "37564227",
+          "file": "chris110-007-37564227.webp",
+          "title": "The Pale Horse",
+          "year": "2026-2-12",
+          "publisher": "HarperCollins",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s35261653.jpg",
+          "bytes": 10588,
+          "width": 270,
+          "height": 398,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:23:37.261Z"
         }
       ],
       "editionsDropped": [
@@ -18117,7 +18245,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1014499"
+      "worksId": "1014499",
+      "promotedFrom": {
+        "title": "The Pale Horse",
+        "year": "2026-2-12",
+        "subjectId": "37564227",
+        "at": "2026-10-03T05:55:35.525Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "chris110-008": {
       "file": "chris110-008.webp",
@@ -18554,42 +18689,27 @@
     },
     "series111-002": {
       "file": "series111-002.webp",
-      "bytes": 10740,
+      "bytes": 5670,
       "width": 270,
-      "height": 411,
+      "height": 270,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37564207/",
-      "subjectId": "37564207",
+      "sourceUrl": "https://book.douban.com/subject/36654189/",
+      "subjectId": "36654189",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "The Sittaford Mystery",
+        "title": "斯塔福特疑案",
         "author": "阿加莎·克里斯蒂",
-        "year": "2025-11-6"
+        "year": "2023-12"
       },
       "bookYear": "2019",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:24:07.263Z",
       "editions": [
         {
-          "subjectId": "37564207",
-          "file": "series111-002.webp",
-          "title": "The Sittaford Mystery",
-          "year": "2025-11-6",
-          "publisher": "HarperCollins",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s35261651.jpg",
-          "bytes": 10740,
-          "width": 270,
-          "height": 411,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:24:05.683Z"
-        },
-        {
           "subjectId": "36654189",
-          "file": "series111-002-36654189.webp",
+          "file": "series111-002.webp",
           "title": "斯塔福特疑案",
           "year": "2023-12",
           "publisher": "新星出版社",
@@ -18599,9 +18719,24 @@
           "width": 270,
           "height": 270,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:24:07.263Z"
+        },
+        {
+          "subjectId": "37564207",
+          "file": "series111-002-37564207.webp",
+          "title": "The Sittaford Mystery",
+          "year": "2025-11-6",
+          "publisher": "HarperCollins",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s35261651.jpg",
+          "bytes": 10740,
+          "width": 270,
+          "height": 411,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:24:05.683Z"
         }
       ],
       "editionsDropped": [
@@ -18621,7 +18756,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1014520"
+      "worksId": "1014520",
+      "promotedFrom": {
+        "title": "The Sittaford Mystery",
+        "year": "2025-11-6",
+        "subjectId": "37564207",
+        "at": "2026-10-03T05:55:35.526Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "series111-003": {
       "file": "series111-003.webp",
@@ -20573,70 +20715,6 @@
       ],
       "worksId": "1101085"
     },
-    "src112-014": {
-      "file": "src112-014.webp",
-      "bytes": 14000,
-      "width": 270,
-      "height": 385,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36743308/",
-      "subjectId": "36743308",
-      "matched": "subject-id",
-      "query": "版本一览（3 版）",
-      "edition": {
-        "title": "恐怖呢喃",
-        "author": "贵志佑介",
-        "year": "2024-3"
-      },
-      "bookYear": "2024",
-      "yearMatch": true,
-      "fetchedAt": "2026-10-02T16:26:08.034Z",
-      "editions": [
-        {
-          "subjectId": "36743308",
-          "file": "src112-014.webp",
-          "title": "恐怖呢喃",
-          "year": "2024-3",
-          "publisher": "文汇出版社",
-          "translator": "徐建雄",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34794155.jpg",
-          "bytes": 14000,
-          "width": 270,
-          "height": 385,
-          "format": "webp",
-          "primary": true,
-          "collected": true,
-          "fetchedAt": "2026-10-02T16:26:06.782Z"
-        }
-      ],
-      "worksId": "1052347",
-      "editionsDropped": [
-        {
-          "title": "天使的呢喃",
-          "year": "2016-7-11",
-          "publisher": "台灣角川",
-          "subjectId": "26785148",
-          "file": "src112-014-26785148.webp",
-          "why": "与 opac104-004《天使的呢喃》 的封面是同一张图（字节完全相同，sha1 cdc1c3a654e8），本页不再重复显示",
-          "sha1": "cdc1c3a654e8c72fdcc89bbc8a5da5d98ba7d4b6"
-        },
-        {
-          "title": "天使的呢喃",
-          "year": "2015-3",
-          "publisher": "重庆出版社",
-          "subjectId": "26133088",
-          "file": "src112-014-26133088.webp",
-          "why": "与 opac104-004《天使的呢喃》 的封面是同一张图（字节完全相同，sha1 6af9be975f07），本页不再重复显示",
-          "sha1": "6af9be975f07ae7433fbf8dce6a22845b895de2b"
-        }
-      ],
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.524Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
     "src112-015": {
       "file": "src112-015.webp",
       "bytes": 19424,
@@ -20939,42 +21017,27 @@
     },
     "hig113-003": {
       "file": "hig113-003.webp",
-      "bytes": 15238,
+      "bytes": 8916,
       "width": 270,
-      "height": 391,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38686965/",
-      "subjectId": "38686965",
+      "sourceUrl": "https://book.douban.com/subject/19964966/",
+      "subjectId": "19964966",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "探偵倶楽部",
+        "title": "侦探俱乐部",
         "author": "东野圭吾",
-        "year": "2026-11-25"
+        "year": "2013-1"
       },
       "bookYear": "2013",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:26:31.767Z",
       "editions": [
         {
-          "subjectId": "38686965",
-          "file": "hig113-003.webp",
-          "title": "探偵倶楽部",
-          "year": "2026-11-25",
-          "publisher": "KADOKAWA",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s35634173.jpg",
-          "bytes": 15238,
-          "width": 270,
-          "height": 391,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:26:29.938Z"
-        },
-        {
           "subjectId": "19964966",
-          "file": "hig113-003-19964966.webp",
+          "file": "hig113-003.webp",
           "title": "侦探俱乐部",
           "year": "2013-1",
           "publisher": "南海出版公司",
@@ -20984,9 +21047,24 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:26:31.181Z"
+        },
+        {
+          "subjectId": "38686965",
+          "file": "hig113-003-38686965.webp",
+          "title": "探偵倶楽部",
+          "year": "2026-11-25",
+          "publisher": "KADOKAWA",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s35634173.jpg",
+          "bytes": 15238,
+          "width": 270,
+          "height": 391,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:26:29.938Z"
         }
       ],
       "worksId": "1025197",
@@ -20999,7 +21077,14 @@
           "structureDiff": 0.008,
           "grayDiff": 0.4
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "探偵倶楽部",
+        "year": "2026-11-25",
+        "subjectId": "38686965",
+        "at": "2026-10-03T05:55:35.527Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "hig113-004": {
       "file": "hig113-004.webp",
@@ -21475,41 +21560,27 @@
     },
     "hig113-010": {
       "file": "hig113-010.webp",
-      "bytes": 19098,
+      "bytes": 28182,
       "width": 270,
-      "height": 388,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37254871/",
-      "subjectId": "37254871",
+      "sourceUrl": "https://book.douban.com/subject/36614377/",
+      "subjectId": "36614377",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "マスカレード・ゲーム",
+        "title": "假面飯店: 假面遊戲",
         "author": "东野圭吾",
-        "year": "2025-3-19"
+        "year": "2023-12-29"
       },
       "bookYear": "2024",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:27:04.415Z",
       "editions": [
         {
-          "subjectId": "37254871",
-          "file": "hig113-010.webp",
-          "title": "マスカレード・ゲーム",
-          "year": "2025-3-19",
-          "publisher": "集英社",
-          "bytes": 19098,
-          "width": 270,
-          "height": 388,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:27:02.945Z"
-        },
-        {
           "subjectId": "36614377",
-          "file": "hig113-010-36614377.webp",
+          "file": "hig113-010.webp",
           "title": "假面飯店: 假面遊戲",
           "year": "2023-12-29",
           "publisher": "三采",
@@ -21519,9 +21590,23 @@
           "width": 270,
           "height": 382,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:27:04.415Z"
+        },
+        {
+          "subjectId": "37254871",
+          "file": "hig113-010-37254871.webp",
+          "title": "マスカレード・ゲーム",
+          "year": "2025-3-19",
+          "publisher": "集英社",
+          "bytes": 19098,
+          "width": 270,
+          "height": 388,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:27:02.945Z"
         }
       ],
       "worksId": "1158451",
@@ -21534,7 +21619,14 @@
           "structureDiff": 0.013,
           "grayDiff": 0.4
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "マスカレード・ゲーム",
+        "year": "2025-3-19",
+        "subjectId": "37254871",
+        "at": "2026-10-03T05:55:35.528Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "hig113-011": {
       "file": "hig113-011.webp",
@@ -21607,39 +21699,39 @@
     },
     "hig113-012": {
       "file": "hig113-012.webp",
-      "bytes": 11138,
+      "bytes": 24494,
       "width": 270,
-      "height": 378,
+      "height": 388,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37358966/",
-      "subjectId": "37358966",
+      "sourceUrl": "https://book.douban.com/subject/35250475/",
+      "subjectId": "35250475",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "情人节终章",
+        "title": "第十年的情人節",
         "author": "东野圭吾",
-        "year": "2025-8"
+        "year": "2020-12-1"
       },
       "bookYear": "2017",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:27:14.776Z",
       "editions": [
         {
-          "subjectId": "37358966",
+          "subjectId": "35250475",
           "file": "hig113-012.webp",
-          "title": "情人节终章",
-          "year": "2025-8",
-          "publisher": "湖南文艺出版社",
-          "translator": "王蕴洁",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35278335.jpg",
-          "bytes": 11138,
+          "title": "第十年的情人節",
+          "year": "2020-12-1",
+          "publisher": "春天出版國際",
+          "translator": "王藴潔",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s33769999.jpg",
+          "bytes": 24494,
           "width": 270,
-          "height": 378,
+          "height": 388,
           "format": "webp",
           "primary": true,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:27:12.986Z"
+          "fetchedAt": "2026-10-02T16:27:14.776Z"
         },
         {
           "subjectId": "30396232",
@@ -21658,20 +21750,20 @@
           "fetchedAt": "2026-10-02T16:27:13.779Z"
         },
         {
-          "subjectId": "35250475",
-          "file": "hig113-012-35250475.webp",
-          "title": "第十年的情人節",
-          "year": "2020-12-1",
-          "publisher": "春天出版國際",
-          "translator": "王藴潔",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s33769999.jpg",
-          "bytes": 24494,
+          "subjectId": "37358966",
+          "file": "hig113-012-37358966.webp",
+          "title": "情人节终章",
+          "year": "2025-8",
+          "publisher": "湖南文艺出版社",
+          "translator": "王蕴洁",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35278335.jpg",
+          "bytes": 11138,
           "width": 270,
-          "height": 388,
+          "height": 378,
           "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:27:14.776Z"
+          "fetchedAt": "2026-10-02T16:27:12.986Z"
         }
       ],
       "editionsDropped": [
@@ -21685,7 +21777,14 @@
           "grayDiff": 21.1
         }
       ],
-      "worksId": "1084781"
+      "worksId": "1084781",
+      "promotedFrom": {
+        "title": "情人节终章",
+        "year": "2025-8",
+        "subjectId": "37358966",
+        "at": "2026-10-03T05:55:35.529Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "hig113-013": {
       "file": "hig113-013.webp",
@@ -22261,43 +22360,27 @@
     },
     "ranpo114-002": {
       "file": "ranpo114-002.webp",
-      "bytes": 11026,
+      "bytes": 15838,
       "width": 270,
-      "height": 390,
+      "height": 381,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37292910/",
-      "subjectId": "37292910",
+      "sourceUrl": "https://book.douban.com/subject/26816963/",
+      "subjectId": "26816963",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "两分铜币",
+        "title": "两钱铜币",
         "author": "江户川乱步",
-        "year": "2026-4"
+        "year": "2016-7-1"
       },
       "bookYear": "2016",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:27:51.228Z",
       "editions": [
         {
-          "subjectId": "37292910",
-          "file": "ranpo114-002.webp",
-          "title": "两分铜币",
-          "year": "2026-4",
-          "publisher": "浙江文艺出版社",
-          "translator": "徐建雄",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35452184.jpg",
-          "bytes": 11026,
-          "width": 270,
-          "height": 390,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:27:49.364Z"
-        },
-        {
           "subjectId": "26816963",
-          "file": "ranpo114-002-26816963.webp",
+          "file": "ranpo114-002.webp",
           "title": "两钱铜币",
           "year": "2016-7-1",
           "publisher": "四川文艺出版社",
@@ -22307,7 +22390,7 @@
           "width": 270,
           "height": 381,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:27:50.356Z"
         },
@@ -22326,9 +22409,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:27:51.228Z"
+        },
+        {
+          "subjectId": "37292910",
+          "file": "ranpo114-002-37292910.webp",
+          "title": "两分铜币",
+          "year": "2026-4",
+          "publisher": "浙江文艺出版社",
+          "translator": "徐建雄",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35452184.jpg",
+          "bytes": 11026,
+          "width": 270,
+          "height": 390,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:27:49.364Z"
         }
       ],
-      "worksId": "1019308"
+      "worksId": "1019308",
+      "promotedFrom": {
+        "title": "两分铜币",
+        "year": "2026-4",
+        "subjectId": "37292910",
+        "at": "2026-10-03T05:55:35.530Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "ranpo114-003": {
       "file": "ranpo114-003.webp",
@@ -23320,13 +23426,13 @@
     },
     "gap115-002": {
       "file": "gap115-002.webp",
-      "bytes": 7702,
+      "bytes": 11222,
       "width": 270,
-      "height": 384,
+      "height": 395,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35728386/",
-      "subjectId": "35728386",
+      "sourceUrl": "https://book.douban.com/subject/1003830/",
+      "subjectId": "1003830",
       "matched": "editions+works",
       "replacedFrom": {
         "subjectId": "1003830",
@@ -23335,32 +23441,17 @@
       },
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "扉の影の女",
+        "title": "门后的女人",
         "author": "横沟正史",
-        "year": "2021-12-21"
+        "year": "2002-8"
       },
       "bookYear": "2014",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:28:50.541Z",
       "editions": [
         {
-          "subjectId": "35728386",
-          "file": "gap115-002.webp",
-          "title": "扉の影の女",
-          "year": "2021-12-21",
-          "publisher": "KADOKAWA",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34088926.jpg",
-          "bytes": 7702,
-          "width": 270,
-          "height": 384,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:28:49.303Z"
-        },
-        {
           "subjectId": "1003830",
-          "file": "gap115-002-1003830.webp",
+          "file": "gap115-002.webp",
           "title": "门后的女人",
           "year": "2002-8",
           "publisher": "珠海出版社",
@@ -23370,9 +23461,24 @@
           "width": 270,
           "height": 395,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:28:50.541Z"
+        },
+        {
+          "subjectId": "35728386",
+          "file": "gap115-002-35728386.webp",
+          "title": "扉の影の女",
+          "year": "2021-12-21",
+          "publisher": "KADOKAWA",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s34088926.jpg",
+          "bytes": 7702,
+          "width": 270,
+          "height": 384,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:28:49.303Z"
         }
       ],
       "editionsDropped": [
@@ -23392,7 +23498,14 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1056902"
+      "worksId": "1056902",
+      "promotedFrom": {
+        "title": "扉の影の女",
+        "year": "2021-12-21",
+        "subjectId": "35728386",
+        "at": "2026-10-03T05:55:35.530Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "gap115-003": {
       "file": "gap115-003.webp",
@@ -26414,86 +26527,6 @@
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
     },
-    "gap117-016": {
-      "file": "gap117-016.webp",
-      "bytes": 10370,
-      "width": 270,
-      "height": 382,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36462621/",
-      "subjectId": "36462621",
-      "matched": "subject-id",
-      "query": "版本一览（3 版）",
-      "edition": {
-        "title": "追诉时效倒计时",
-        "author": "横山秀夫",
-        "year": "2024-3-18"
-      },
-      "bookYear": "2024",
-      "yearMatch": true,
-      "fetchedAt": "2026-10-02T16:31:41.014Z",
-      "editions": [
-        {
-          "subjectId": "36462621",
-          "file": "gap117-016.webp",
-          "title": "追诉时效倒计时",
-          "year": "2024-3-18",
-          "publisher": "北京日报出版社",
-          "translator": "曹逸冰",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34792134.jpg",
-          "bytes": 10370,
-          "width": 270,
-          "height": 382,
-          "format": "webp",
-          "primary": true,
-          "collected": true,
-          "fetchedAt": "2026-10-02T16:31:39.481Z"
-        },
-        {
-          "subjectId": "3768085",
-          "file": "gap117-016-3768085.webp",
-          "title": "第三時效",
-          "year": "2009-6-12",
-          "publisher": "獨步文化",
-          "translator": "張智淵",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s3814047.jpg",
-          "bytes": 11694,
-          "width": 199,
-          "height": 280,
-          "format": "webp",
-          "primary": false,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:31:41.014Z"
-        }
-      ],
-      "editionsDropped": [
-        {
-          "title": "追诉时效倒计时",
-          "year": "",
-          "publisher": "北京日报出版社",
-          "remote": true,
-          "sameAs": "追诉时效倒计时",
-          "structureDiff": 0.15,
-          "grayDiff": 4
-        },
-        {
-          "title": "第三时效",
-          "year": "2013-4-7",
-          "publisher": "中信出版社",
-          "subjectId": "21324173",
-          "file": "gap117-016-21324173.webp",
-          "why": "与 jpauth-015《第三时效》 的封面是同一张图（字节完全相同，sha1 4e0f3365812e），本页不再重复显示",
-          "sha1": "4e0f3365812ebfefc8ff9d42a9c94183e9d6ec37"
-        }
-      ],
-      "worksId": "1038440",
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.524Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
     "gap117-017": {
       "file": "gap117-017.webp",
       "bytes": 22496,
@@ -27039,13 +27072,13 @@
     },
     "wk118-007": {
       "file": "wk118-007.webp",
-      "bytes": 17208,
+      "bytes": 26464,
       "width": 270,
-      "height": 376,
+      "height": 387,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36532495/",
-      "subjectId": "36532495",
+      "sourceUrl": "https://book.douban.com/subject/1381912/",
+      "subjectId": "1381912",
       "matched": "editions+works",
       "replacedFrom": {
         "subjectId": "1381912",
@@ -27054,32 +27087,17 @@
       },
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "迷路の花嫁",
+        "title": "迷路的新娘",
         "author": "横沟正史",
-        "year": "2021-10-21"
+        "year": "2000-11"
       },
       "bookYear": "2014",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:32:18.114Z",
       "editions": [
         {
-          "subjectId": "36532495",
-          "file": "wk118-007.webp",
-          "title": "迷路の花嫁",
-          "year": "2021-10-21",
-          "publisher": "角川書店",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34628177.jpg",
-          "bytes": 17208,
-          "width": 270,
-          "height": 376,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:32:16.596Z"
-        },
-        {
           "subjectId": "1381912",
-          "file": "wk118-007-1381912.webp",
+          "file": "wk118-007.webp",
           "title": "迷路的新娘",
           "year": "2000-11",
           "publisher": "珠海出版社",
@@ -27089,9 +27107,24 @@
           "width": 270,
           "height": 387,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:32:18.114Z"
+        },
+        {
+          "subjectId": "36532495",
+          "file": "wk118-007-36532495.webp",
+          "title": "迷路の花嫁",
+          "year": "2021-10-21",
+          "publisher": "角川書店",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34628177.jpg",
+          "bytes": 17208,
+          "width": 270,
+          "height": 376,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:32:16.596Z"
         }
       ],
       "worksId": "1051939",
@@ -27102,7 +27135,14 @@
           "publisher": "南海出版公司",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "迷路の花嫁",
+        "year": "2021-10-21",
+        "subjectId": "36532495",
+        "at": "2026-10-03T05:55:35.531Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "wk118-008": {
       "file": "wk118-008.webp",
@@ -27577,43 +27617,27 @@
     },
     "wk118-014": {
       "file": "wk118-014.webp",
-      "bytes": 22414,
+      "bytes": 18526,
       "width": 270,
-      "height": 408,
+      "height": 386,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36168670/",
-      "subjectId": "36168670",
+      "sourceUrl": "https://book.douban.com/subject/6041089/",
+      "subjectId": "6041089",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "家鴨與野鴨的投幣式置物櫃",
+        "title": "家鸭与野鸭的投币式寄物柜",
         "author": "伊坂幸太郎",
-        "year": "2023-1-5"
+        "year": "2011"
       },
       "bookYear": "2011",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:32:50.765Z",
       "editions": [
         {
-          "subjectId": "36168670",
-          "file": "wk118-014.webp",
-          "title": "家鴨與野鴨的投幣式置物櫃",
-          "year": "2023-1-5",
-          "publisher": "獨步文化",
-          "translator": "王華懋",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34387932.jpg",
-          "bytes": 22414,
-          "width": 270,
-          "height": 408,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:32:49.365Z"
-        },
-        {
           "subjectId": "6041089",
-          "file": "wk118-014-6041089.webp",
+          "file": "wk118-014.webp",
           "title": "家鸭与野鸭的投币式寄物柜",
           "year": "2011",
           "publisher": "译林出版社",
@@ -27623,9 +27647,25 @@
           "width": 270,
           "height": 386,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:32:50.198Z"
+        },
+        {
+          "subjectId": "36168670",
+          "file": "wk118-014-36168670.webp",
+          "title": "家鴨與野鴨的投幣式置物櫃",
+          "year": "2023-1-5",
+          "publisher": "獨步文化",
+          "translator": "王華懋",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34387932.jpg",
+          "bytes": 22414,
+          "width": 270,
+          "height": 408,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:32:49.365Z"
         }
       ],
       "editionsDropped": [
@@ -27645,47 +27685,38 @@
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
       ],
-      "worksId": "1019644"
+      "worksId": "1019644",
+      "promotedFrom": {
+        "title": "家鴨與野鴨的投幣式置物櫃",
+        "year": "2023-1-5",
+        "subjectId": "36168670",
+        "at": "2026-10-03T05:55:35.532Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "wk118-015": {
       "file": "wk118-015.webp",
-      "bytes": 9650,
+      "bytes": 20424,
       "width": 270,
-      "height": 416,
+      "height": 431,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35319442/",
-      "subjectId": "35319442",
+      "sourceUrl": "https://book.douban.com/subject/33460032/",
+      "subjectId": "33460032",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Hạnh Ngộ Trong Bóng Tối",
+        "title": "在黑暗中等",
         "author": "乙一",
-        "year": "2020-4"
+        "year": "2019-9"
       },
       "bookYear": "2014",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:32:55.392Z",
       "editions": [
         {
-          "subjectId": "35319442",
-          "file": "wk118-015.webp",
-          "title": "Hạnh Ngộ Trong Bóng Tối",
-          "year": "2020-4",
-          "publisher": "NXB Hà Nội | Nhã Nam",
-          "translator": "Chuông Lá",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s33797504.jpg",
-          "bytes": 9650,
-          "width": 270,
-          "height": 416,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:32:53.782Z"
-        },
-        {
           "subjectId": "33460032",
-          "file": "wk118-015-33460032.webp",
+          "file": "wk118-015.webp",
           "title": "在黑暗中等",
           "year": "2019-9",
           "publisher": "南海出版公司",
@@ -27695,9 +27726,25 @@
           "width": 270,
           "height": 431,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:32:55.392Z"
+        },
+        {
+          "subjectId": "35319442",
+          "file": "wk118-015-35319442.webp",
+          "title": "Hạnh Ngộ Trong Bóng Tối",
+          "year": "2020-4",
+          "publisher": "NXB Hà Nội | Nhã Nam",
+          "translator": "Chuông Lá",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s33797504.jpg",
+          "bytes": 9650,
+          "width": 270,
+          "height": 416,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:32:53.782Z"
         }
       ],
       "worksId": "1013172",
@@ -27710,7 +27757,14 @@
           "structureDiff": 0.013,
           "grayDiff": 0.2
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "Hạnh Ngộ Trong Bóng Tối",
+        "year": "2020-4",
+        "subjectId": "35319442",
+        "at": "2026-10-03T05:55:35.533Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "gap119-001": {
       "file": "gap119-001.webp",
@@ -27958,42 +28012,27 @@
     },
     "gap119-007": {
       "file": "gap119-007.webp",
-      "bytes": 27214,
+      "bytes": 31668,
       "width": 270,
       "height": 399,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38413490/",
-      "subjectId": "38413490",
+      "sourceUrl": "https://book.douban.com/subject/36580835/",
+      "subjectId": "36580835",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "นรกในห้องปิดตายสิบล้านคน",
+        "title": "一千万人的密室",
         "author": "蔡骏",
-        "year": "2026-3"
+        "year": "2024-4"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:33:13.751Z",
       "editions": [
         {
-          "subjectId": "38413490",
-          "file": "gap119-007.webp",
-          "title": "นรกในห้องปิดตายสิบล้านคน",
-          "year": "2026-3",
-          "publisher": "SHADOW",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35458186.jpg",
-          "bytes": 27214,
-          "width": 270,
-          "height": 399,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:33:11.783Z"
-        },
-        {
           "subjectId": "36580835",
-          "file": "gap119-007-36580835.webp",
+          "file": "gap119-007.webp",
           "title": "一千万人的密室",
           "year": "2024-4",
           "publisher": "作家出版社",
@@ -28002,9 +28041,24 @@
           "width": 270,
           "height": 399,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:33:13.138Z"
+        },
+        {
+          "subjectId": "38413490",
+          "file": "gap119-007-38413490.webp",
+          "title": "นรกในห้องปิดตายสิบล้านคน",
+          "year": "2026-3",
+          "publisher": "SHADOW",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35458186.jpg",
+          "bytes": 27214,
+          "width": 270,
+          "height": 399,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:33:11.783Z"
         }
       ],
       "worksId": "1165480",
@@ -28015,7 +28069,14 @@
           "publisher": "作家出版社",
           "why": "图片在上一轮判重被删、台账未及更新；本版无图可显示，摘除待重抓"
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "นรกในห้องปิดตายสิบล้านคน",
+        "year": "2026-3",
+        "subjectId": "38413490",
+        "at": "2026-10-03T05:55:35.534Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "gap119-008": {
       "file": "gap119-008.webp",
@@ -29197,43 +29258,27 @@
     },
     "chinese3-001": {
       "file": "chinese3-001.webp",
-      "bytes": 29558,
+      "bytes": 20892,
       "width": 270,
-      "height": 410,
+      "height": 478,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/33369844/",
-      "subjectId": "33369844",
+      "sourceUrl": "https://book.douban.com/subject/30284868/",
+      "subjectId": "30284868",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "원년 봄의 제사",
+        "title": "元年春之祭",
         "author": "陆秋槎",
-        "year": "2019-3-25"
+        "year": "2018-9-5"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:34:24.397Z",
       "editions": [
         {
-          "subjectId": "33369844",
-          "file": "chinese3-001.webp",
-          "title": "원년 봄의 제사",
-          "year": "2019-3-25",
-          "publisher": "스핑크스",
-          "translator": "한수희",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s32258695.jpg",
-          "bytes": 29558,
-          "width": 270,
-          "height": 410,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:34:22.554Z"
-        },
-        {
           "subjectId": "30284868",
-          "file": "chinese3-001-30284868.webp",
+          "file": "chinese3-001.webp",
           "title": "元年春之祭",
           "year": "2018-9-5",
           "publisher": "早川書房",
@@ -29243,7 +29288,7 @@
           "width": 270,
           "height": 478,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:34:23.386Z"
         },
@@ -29261,9 +29306,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:34:24.397Z"
+        },
+        {
+          "subjectId": "33369844",
+          "file": "chinese3-001-33369844.webp",
+          "title": "원년 봄의 제사",
+          "year": "2019-3-25",
+          "publisher": "스핑크스",
+          "translator": "한수희",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s32258695.jpg",
+          "bytes": 29558,
+          "width": 270,
+          "height": 410,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:34:22.554Z"
         }
       ],
-      "worksId": "1093297"
+      "worksId": "1093297",
+      "promotedFrom": {
+        "title": "원년 봄의 제사",
+        "year": "2019-3-25",
+        "subjectId": "33369844",
+        "at": "2026-10-03T05:55:35.536Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "chinese3-002": {
       "file": "chinese3-002.webp",
@@ -29703,38 +29771,38 @@
     },
     "chinese3-010": {
       "file": "chinese3-010.webp",
-      "bytes": 21844,
+      "bytes": 10274,
       "width": 270,
-      "height": 410,
+      "height": 382,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37182522/",
-      "subjectId": "37182522",
+      "sourceUrl": "https://book.douban.com/subject/27594602/",
+      "subjectId": "27594602",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "Убийство на Острове-тюрьме",
+        "title": "鏡獄島事件",
         "author": "时晨",
-        "year": "2025"
+        "year": "2018-2-2"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:34:53.910Z",
       "editions": [
         {
-          "subjectId": "37182522",
+          "subjectId": "27594602",
           "file": "chinese3-010.webp",
-          "title": "Убийство на Острове-тюрьме",
-          "year": "2025",
-          "publisher": "Inspiria",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s35048501.jpg",
-          "bytes": 21844,
+          "title": "鏡獄島事件",
+          "year": "2018-2-2",
+          "publisher": "INK印刻出版公司",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s29705544.jpg",
+          "bytes": 10274,
           "width": 270,
-          "height": 410,
+          "height": 382,
           "format": "webp",
           "primary": true,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:34:52.022Z"
+          "fetchedAt": "2026-10-02T16:34:53.910Z"
         },
         {
           "subjectId": "36960916",
@@ -29753,19 +29821,19 @@
           "fetchedAt": "2026-10-02T16:34:52.873Z"
         },
         {
-          "subjectId": "27594602",
-          "file": "chinese3-010-27594602.webp",
-          "title": "鏡獄島事件",
-          "year": "2018-2-2",
-          "publisher": "INK印刻出版公司",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s29705544.jpg",
-          "bytes": 10274,
+          "subjectId": "37182522",
+          "file": "chinese3-010-37182522.webp",
+          "title": "Убийство на Острове-тюрьме",
+          "year": "2025",
+          "publisher": "Inspiria",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s35048501.jpg",
+          "bytes": 21844,
           "width": 270,
-          "height": 382,
+          "height": 410,
           "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:34:53.910Z"
+          "fetchedAt": "2026-10-02T16:34:52.022Z"
         }
       ],
       "editionsDropped": [
@@ -29779,7 +29847,14 @@
           "grayDiff": 8.1
         }
       ],
-      "worksId": "1086768"
+      "worksId": "1086768",
+      "promotedFrom": {
+        "title": "Убийство на Острове-тюрьме",
+        "year": "2025",
+        "subjectId": "37182522",
+        "at": "2026-10-03T05:55:35.537Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "chinese3-011": {
       "file": "chinese3-011.webp",
@@ -30837,43 +30912,27 @@
     },
     "facet120-013": {
       "file": "facet120-013.webp",
-      "bytes": 31610,
+      "bytes": 13204,
       "width": 270,
-      "height": 434,
+      "height": 417,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/30158607/",
-      "subjectId": "30158607",
+      "sourceUrl": "https://book.douban.com/subject/1122182/",
+      "subjectId": "1122182",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "赫尔克里·波洛的丰功伟绩",
+        "title": "赫尔克里的丰功伟绩",
         "author": "阿加莎·克里斯蒂",
-        "year": "2018-4"
+        "year": "1998-10-1"
       },
       "bookYear": "1998",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:36:05.368Z",
       "editions": [
         {
-          "subjectId": "30158607",
-          "file": "facet120-013.webp",
-          "title": "赫尔克里·波洛的丰功伟绩",
-          "year": "2018-4",
-          "publisher": "新星出版社",
-          "translator": "六翼天使",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s29756215.jpg",
-          "bytes": 31610,
-          "width": 270,
-          "height": 434,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:36:03.564Z"
-        },
-        {
           "subjectId": "1122182",
-          "file": "facet120-013-1122182.webp",
+          "file": "facet120-013.webp",
           "title": "赫尔克里的丰功伟绩",
           "year": "1998-10-1",
           "publisher": "贵州人民出版社",
@@ -30883,7 +30942,7 @@
           "width": 270,
           "height": 417,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:36:04.556Z"
         },
@@ -30901,9 +30960,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:36:05.368Z"
+        },
+        {
+          "subjectId": "30158607",
+          "file": "facet120-013-30158607.webp",
+          "title": "赫尔克里·波洛的丰功伟绩",
+          "year": "2018-4",
+          "publisher": "新星出版社",
+          "translator": "六翼天使",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s29756215.jpg",
+          "bytes": 31610,
+          "width": 270,
+          "height": 434,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:36:03.564Z"
         }
       ],
-      "worksId": "1013665"
+      "worksId": "1013665",
+      "promotedFrom": {
+        "title": "赫尔克里·波洛的丰功伟绩",
+        "year": "2018-4",
+        "subjectId": "30158607",
+        "at": "2026-10-03T05:55:35.538Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "facet120-014": {
       "file": "facet120-014.webp",
@@ -32420,43 +32502,27 @@
     },
     "facet122-004": {
       "file": "facet122-004.webp",
-      "bytes": 18016,
+      "bytes": 22368,
       "width": 270,
-      "height": 380,
+      "height": 383,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36168664/",
-      "subjectId": "36168664",
+      "sourceUrl": "https://book.douban.com/subject/24697787/",
+      "subjectId": "24697787",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "咖啡館推理事件簿: 下次見面時請讓我品嘗你煮的咖啡",
+        "title": "咖啡館推理事件簿",
         "author": "冈崎琢磨",
-        "year": "2023-2-4"
+        "year": "2013-5-28"
       },
       "bookYear": "2017",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:37:34.631Z",
       "editions": [
         {
-          "subjectId": "36168664",
-          "file": "facet122-004.webp",
-          "title": "咖啡館推理事件簿: 下次見面時請讓我品嘗你煮的咖啡",
-          "year": "2023-2-4",
-          "publisher": "麥田",
-          "translator": "林玟伶",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s34394896.jpg",
-          "bytes": 18016,
-          "width": 270,
-          "height": 380,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:37:32.996Z"
-        },
-        {
           "subjectId": "24697787",
-          "file": "facet122-004-24697787.webp",
+          "file": "facet122-004.webp",
           "title": "咖啡館推理事件簿",
           "year": "2013-5-28",
           "publisher": "麥田",
@@ -32466,9 +32532,25 @@
           "width": 270,
           "height": 383,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:37:34.631Z"
+        },
+        {
+          "subjectId": "36168664",
+          "file": "facet122-004-36168664.webp",
+          "title": "咖啡館推理事件簿: 下次見面時請讓我品嘗你煮的咖啡",
+          "year": "2023-2-4",
+          "publisher": "麥田",
+          "translator": "林玟伶",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s34394896.jpg",
+          "bytes": 18016,
+          "width": 270,
+          "height": 380,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:37:32.996Z"
         }
       ],
       "worksId": "1041409",
@@ -32481,7 +32563,14 @@
           "structureDiff": 0,
           "grayDiff": 0
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "咖啡館推理事件簿: 下次見面時請讓我品嘗你煮的咖啡",
+        "year": "2023-2-4",
+        "subjectId": "36168664",
+        "at": "2026-10-03T05:55:35.539Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "facet122-005": {
       "file": "facet122-005.webp",
@@ -32628,60 +32717,6 @@
           "sameAs": "医探",
           "structureDiff": 0.013,
           "grayDiff": 0.5
-        }
-      ],
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.524Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
-    "facet122-008": {
-      "file": "facet122-008.webp",
-      "bytes": 15918,
-      "width": 270,
-      "height": 409,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/20381550/",
-      "subjectId": "20381550",
-      "matched": "subject-id",
-      "query": "版本一览（2 版，含微信读书）",
-      "edition": {
-        "title": "推理者的游戏",
-        "author": "远宁",
-        "year": "2013"
-      },
-      "bookYear": "",
-      "yearMatch": null,
-      "fetchedAt": "2026-10-03T04:34:25.818Z",
-      "editions": [
-        {
-          "subjectId": "20381550",
-          "file": "facet122-008.webp",
-          "title": "推理者的游戏",
-          "year": "2013",
-          "publisher": "",
-          "bytes": 15918,
-          "width": 270,
-          "height": 409,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:37:46.475Z"
-        },
-        {
-          "subjectId": "3001343652",
-          "source": "微信读书",
-          "remote": true,
-          "pic": "https://cdn.weread.qq.com/outpic/652/3001343652.jpg",
-          "largePic": "https://cdn.weread.qq.com/outpic/652/3001343652.jpg",
-          "title": "第一届华文推理大奖赛典藏集：推理者的游戏（上卷）",
-          "publisher": "新星出版社",
-          "year": "",
-          "primary": false,
-          "collected": false,
-          "fetchedAt": "2026-10-03T04:34:25.818Z"
         }
       ],
       "matchedRestored": {
@@ -37274,43 +37309,27 @@
     },
     "author129-002": {
       "file": "author129-002.webp",
-      "bytes": 7284,
-      "width": 240,
-      "height": 345,
+      "bytes": 16948,
+      "width": 270,
+      "height": 381,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/37269509/",
-      "subjectId": "37269509",
+      "sourceUrl": "https://book.douban.com/subject/7067983/",
+      "subjectId": "7067983",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "黎明破曉的街道",
+        "title": "黎明之街",
         "author": "东野圭吾",
-        "year": "2025-4-7"
+        "year": "2012-3"
       },
       "bookYear": "2012",
-      "yearMatch": false,
+      "yearMatch": true,
       "fetchedAt": "2026-10-02T16:42:23.150Z",
       "editions": [
         {
-          "subjectId": "37269509",
-          "file": "author129-002.webp",
-          "title": "黎明破曉的街道",
-          "year": "2025-4-7",
-          "publisher": "皇冠",
-          "translator": "劉子倩",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s35115229.jpg",
-          "bytes": 7284,
-          "width": 240,
-          "height": 345,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:42:21.594Z"
-        },
-        {
           "subjectId": "7067983",
-          "file": "author129-002-7067983.webp",
+          "file": "author129-002.webp",
           "title": "黎明之街",
           "year": "2012-3",
           "publisher": "南海出版公司",
@@ -37320,9 +37339,25 @@
           "width": 270,
           "height": 381,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": true,
           "fetchedAt": "2026-10-02T16:42:22.490Z"
+        },
+        {
+          "subjectId": "37269509",
+          "file": "author129-002-37269509.webp",
+          "title": "黎明破曉的街道",
+          "year": "2025-4-7",
+          "publisher": "皇冠",
+          "translator": "劉子倩",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s35115229.jpg",
+          "bytes": 7284,
+          "width": 240,
+          "height": 345,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:42:21.594Z"
         }
       ],
       "worksId": "1020003",
@@ -37335,7 +37370,14 @@
           "structureDiff": 0,
           "grayDiff": 0
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "黎明破曉的街道",
+        "year": "2025-4-7",
+        "subjectId": "37269509",
+        "at": "2026-10-03T05:55:35.540Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "author129-003": {
       "file": "author129-003.webp",
@@ -38076,43 +38118,27 @@
     },
     "world-010": {
       "file": "world-010.webp",
-      "bytes": 14234,
+      "bytes": 20048,
       "width": 270,
-      "height": 393,
+      "height": 379,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36315056/",
-      "subjectId": "36315056",
+      "sourceUrl": "https://book.douban.com/subject/36614124/",
+      "subjectId": "36614124",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "恶行",
+        "title": "罪行",
         "author": "费迪南德·冯·席拉赫",
-        "year": "2024-1"
+        "year": "2023-12-1"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:43:17.538Z",
       "editions": [
         {
-          "subjectId": "36315056",
-          "file": "world-010.webp",
-          "title": "恶行",
-          "year": "2024-1",
-          "publisher": "南海出版公司",
-          "translator": "黄超谟",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34725257.jpg",
-          "bytes": 14234,
-          "width": 270,
-          "height": 393,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:43:15.801Z"
-        },
-        {
           "subjectId": "36614124",
-          "file": "world-010-36614124.webp",
+          "file": "world-010.webp",
           "title": "罪行",
           "year": "2023-12-1",
           "publisher": "先覺",
@@ -38122,7 +38148,7 @@
           "width": 270,
           "height": 379,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:43:16.662Z"
         },
@@ -38141,9 +38167,32 @@
           "primary": false,
           "collected": false,
           "fetchedAt": "2026-10-02T16:43:17.538Z"
+        },
+        {
+          "subjectId": "36315056",
+          "file": "world-010-36315056.webp",
+          "title": "恶行",
+          "year": "2024-1",
+          "publisher": "南海出版公司",
+          "translator": "黄超谟",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34725257.jpg",
+          "bytes": 14234,
+          "width": 270,
+          "height": 393,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:43:15.801Z"
         }
       ],
-      "worksId": "1027769"
+      "worksId": "1027769",
+      "promotedFrom": {
+        "title": "恶行",
+        "year": "2024-1",
+        "subjectId": "36315056",
+        "at": "2026-10-03T05:55:35.541Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "world-011": {
       "file": "world-011.webp",
@@ -38206,39 +38255,39 @@
     },
     "world-012": {
       "file": "world-012.webp",
-      "bytes": 11948,
+      "bytes": 5956,
       "width": 270,
-      "height": 399,
+      "height": 404,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35653002/",
-      "subjectId": "35653002",
+      "sourceUrl": "https://book.douban.com/subject/7064638/",
+      "subjectId": "7064638",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "法官和他的劊子手",
+        "title": "法官和他的刽子手",
         "author": "弗里德里希·迪伦马特",
-        "year": "2021-12-27"
+        "year": "2012-8"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:43:26.329Z",
       "editions": [
         {
-          "subjectId": "35653002",
+          "subjectId": "7064638",
           "file": "world-012.webp",
-          "title": "法官和他的劊子手",
-          "year": "2021-12-27",
-          "publisher": "皇冠",
-          "translator": "趙崇任",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34074713.jpg",
-          "bytes": 11948,
+          "title": "法官和他的刽子手",
+          "year": "2012-8",
+          "publisher": "群众出版社",
+          "translator": "张佩芬",
+          "pic": "https://img2.doubanio.com/view/subject/s/public/s11314551.jpg",
+          "bytes": 5956,
           "width": 270,
-          "height": 399,
+          "height": 404,
           "format": "webp",
           "primary": true,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:43:24.070Z"
+          "fetchedAt": "2026-10-02T16:43:26.329Z"
         },
         {
           "subjectId": "30226420",
@@ -38256,23 +38305,30 @@
           "fetchedAt": "2026-10-02T16:43:25.030Z"
         },
         {
-          "subjectId": "7064638",
-          "file": "world-012-7064638.webp",
-          "title": "法官和他的刽子手",
-          "year": "2012-8",
-          "publisher": "群众出版社",
-          "translator": "张佩芬",
-          "pic": "https://img2.doubanio.com/view/subject/s/public/s11314551.jpg",
-          "bytes": 5956,
+          "subjectId": "35653002",
+          "file": "world-012-35653002.webp",
+          "title": "法官和他的劊子手",
+          "year": "2021-12-27",
+          "publisher": "皇冠",
+          "translator": "趙崇任",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34074713.jpg",
+          "bytes": 11948,
           "width": 270,
-          "height": 404,
+          "height": 399,
           "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:43:26.329Z"
+          "fetchedAt": "2026-10-02T16:43:24.070Z"
         }
       ],
-      "worksId": "1043953"
+      "worksId": "1043953",
+      "promotedFrom": {
+        "title": "法官和他的劊子手",
+        "year": "2021-12-27",
+        "subjectId": "35653002",
+        "at": "2026-10-03T05:55:35.542Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "world-013": {
       "file": "world-013.webp",
@@ -42871,40 +42927,40 @@
     },
     "facet127-001": {
       "file": "facet127-001.webp",
-      "bytes": 13678,
-      "width": 270,
-      "height": 437,
+      "bytes": 5304,
+      "width": 152,
+      "height": 189,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/38176011/",
-      "subjectId": "38176011",
+      "sourceUrl": "https://book.douban.com/subject/1830377/",
+      "subjectId": "1830377",
       "matched": "isbn",
       "isbn": "9787559691293",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "首席女法医7：死因",
+        "title": "死亡的理由",
         "author": "帕特里夏·康薇尔",
-        "year": "2026-6"
+        "year": "2002"
       },
       "bookYear": "2010",
       "yearMatch": false,
       "fetchedAt": "2026-10-02T16:40:57.245Z",
       "editions": [
         {
-          "subjectId": "38176011",
+          "subjectId": "1830377",
           "file": "facet127-001.webp",
-          "title": "首席女法医7：死因",
-          "year": "2026-6",
-          "publisher": "北京联合出版公司",
+          "title": "死亡的理由",
+          "year": "2002",
+          "publisher": "臉譜",
           "translator": "黄妉俐",
-          "pic": "https://img9.doubanio.com/view/subject/s/public/s35494796.jpg",
-          "bytes": 13678,
-          "width": 270,
-          "height": 437,
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s1690852.jpg",
+          "bytes": 5304,
+          "width": 152,
+          "height": 189,
           "format": "webp",
           "primary": true,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:40:54.829Z"
+          "fetchedAt": "2026-10-02T16:40:57.245Z"
         },
         {
           "subjectId": "5257431",
@@ -42923,20 +42979,20 @@
           "fetchedAt": "2026-10-02T16:40:56.185Z"
         },
         {
-          "subjectId": "1830377",
-          "file": "facet127-001-1830377.webp",
-          "title": "死亡的理由",
-          "year": "2002",
-          "publisher": "臉譜",
+          "subjectId": "38176011",
+          "file": "facet127-001-38176011.webp",
+          "title": "首席女法医7：死因",
+          "year": "2026-6",
+          "publisher": "北京联合出版公司",
           "translator": "黄妉俐",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s1690852.jpg",
-          "bytes": 5304,
-          "width": 152,
-          "height": 189,
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s35494796.jpg",
+          "bytes": 13678,
+          "width": 270,
+          "height": 437,
           "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T16:40:57.245Z"
+          "fetchedAt": "2026-10-02T16:40:54.829Z"
         }
       ],
       "worksId": "1051904",
@@ -42944,6 +43000,13 @@
         "from": "covers-snapshot-2210.json",
         "at": "2026-10-03T05:23:49.525Z",
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
+      },
+      "promotedFrom": {
+        "title": "首席女法医7：死因",
+        "year": "2026-6",
+        "subjectId": "38176011",
+        "at": "2026-10-03T05:55:35.542Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
       }
     },
     "author128-002": {
@@ -46650,42 +46713,27 @@
     },
     "clc141-033": {
       "file": "clc141-033.webp",
-      "bytes": 13078,
+      "bytes": 9644,
       "width": 270,
-      "height": 451,
+      "height": 305,
       "format": "webp",
       "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36586215/",
-      "subjectId": "36586215",
+      "sourceUrl": "https://book.douban.com/subject/36594891/",
+      "subjectId": "36594891",
       "matched": "editions+works",
       "query": "版本一览（3 版）",
       "edition": {
-        "title": "全世界都在等我們分手",
+        "title": "全世界都在等我们分手",
         "author": "不是风动",
-        "year": "2023-10"
+        "year": "2023-3"
       },
       "bookYear": "",
       "yearMatch": null,
       "fetchedAt": "2026-10-02T16:53:05.301Z",
       "editions": [
         {
-          "subjectId": "36586215",
-          "file": "clc141-033.webp",
-          "title": "全世界都在等我們分手",
-          "year": "2023-10",
-          "publisher": "威向",
-          "pic": "https://img3.doubanio.com/view/subject/s/public/s34723762.jpg",
-          "bytes": 13078,
-          "width": 270,
-          "height": 451,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T16:53:03.865Z"
-        },
-        {
           "subjectId": "36594891",
-          "file": "clc141-033-36594891.webp",
+          "file": "clc141-033.webp",
           "title": "全世界都在等我们分手",
           "year": "2023-3",
           "publisher": "海棠出版社",
@@ -46694,9 +46742,24 @@
           "width": 270,
           "height": 305,
           "format": "webp",
-          "primary": false,
+          "primary": true,
           "collected": false,
           "fetchedAt": "2026-10-02T16:53:04.749Z"
+        },
+        {
+          "subjectId": "36586215",
+          "file": "clc141-033-36586215.webp",
+          "title": "全世界都在等我們分手",
+          "year": "2023-10",
+          "publisher": "威向",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s34723762.jpg",
+          "bytes": 13078,
+          "width": 270,
+          "height": 451,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:53:03.865Z"
         }
       ],
       "worksId": "1162137",
@@ -46709,7 +46772,14 @@
           "structureDiff": 0,
           "grayDiff": 0
         }
-      ]
+      ],
+      "promotedFrom": {
+        "title": "全世界都在等我們分手",
+        "year": "2023-10",
+        "subjectId": "36586215",
+        "at": "2026-10-03T05:55:35.543Z",
+        "why": "主图原先取的是题名与库内题名对不上的一版（多为外文／繁体版，按出版年降序取的「最新」）；换成版本一览里题名一致的一版，兑现 README §168「不拿外文版顶掉中文版」"
+      }
     },
     "clc141-034": {
       "file": "clc141-034.webp",
@@ -67213,42 +67283,6 @@
         "at": "2026-10-03T05:23:49.527Z",
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
-    },
-    "shlib164-012": {
-      "file": "shlib164-012.webp",
-      "bytes": 12746,
-      "width": 270,
-      "height": 383,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/35355619/",
-      "subjectId": "35355619",
-      "matched": "subject-id",
-      "query": "复苏杀人者：天久鹰央的事件病历表",
-      "edition": {
-        "title": "复苏杀人者",
-        "author": "[日] 知念实希人",
-        "year": "2021"
-      },
-      "bookYear": "2021",
-      "yearMatch": true,
-      "fetchedAt": "2026-10-02T12:31:10.200Z",
-      "editions": [
-        {
-          "subjectId": "35355619",
-          "file": "shlib164-012.webp",
-          "title": "复苏杀人者",
-          "year": "2021",
-          "publisher": "",
-          "bytes": 12746,
-          "width": 270,
-          "height": 383,
-          "format": "webp",
-          "primary": true,
-          "collected": true,
-          "fetchedAt": "2026-10-02T12:31:10.200Z"
-        }
-      ]
     },
     "shlib164-013": {
       "file": "shlib164-013.webp",
@@ -124029,58 +124063,6 @@
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
     },
-    "jpmod2-005": {
-      "file": "jpmod2-005.webp",
-      "bytes": 13976,
-      "width": 270,
-      "height": 390,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36122559/",
-      "subjectId": "36122559",
-      "matched": "subject-id",
-      "query": "版本一览（2 版，含微信读书）",
-      "edition": {
-        "title": "500个目击者",
-        "author": "大山诚一郎",
-        "year": "2022"
-      },
-      "bookYear": "2022",
-      "yearMatch": true,
-      "fetchedAt": "2026-10-02T15:28:51.057Z",
-      "editions": [
-        {
-          "subjectId": "36122559",
-          "file": "jpmod2-005.webp",
-          "title": "500个目击者",
-          "year": "2022",
-          "publisher": "",
-          "bytes": 13976,
-          "width": 270,
-          "height": 390,
-          "format": "webp",
-          "primary": true,
-          "collected": true,
-          "fetchedAt": "2026-10-02T13:10:31.069Z"
-        }
-      ],
-      "editionsDropped": [
-        {
-          "title": "500个目击者：绝对不在场证明2",
-          "year": "",
-          "publisher": "北京日报出版社",
-          "remote": true,
-          "sameAs": "500个目击者",
-          "structureDiff": 0.142,
-          "grayDiff": 5.1
-        }
-      ],
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.530Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
     "jpmod2-006": {
       "file": "jpmod2-006.webp",
       "bytes": 26800,
@@ -129679,60 +129661,6 @@
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
     },
-    "cnmod-003": {
-      "file": "cnmod-003.webp",
-      "bytes": 29050,
-      "width": 270,
-      "height": 390,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/36539479/",
-      "subjectId": "36539479",
-      "matched": "subject-id",
-      "query": "版本一览（2 版，含微信读书）",
-      "edition": {
-        "title": "乱神馆记·蝶梦",
-        "author": "水天一色",
-        "year": "2023"
-      },
-      "bookYear": "",
-      "yearMatch": null,
-      "fetchedAt": "2026-10-02T15:29:42.833Z",
-      "editions": [
-        {
-          "subjectId": "36539479",
-          "file": "cnmod-003.webp",
-          "title": "乱神馆记·蝶梦",
-          "year": "2023",
-          "publisher": "",
-          "bytes": 29050,
-          "width": 270,
-          "height": 390,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T13:14:39.544Z"
-        },
-        {
-          "subjectId": "3000176482",
-          "source": "微信读书",
-          "remote": true,
-          "pic": "https://weread-picture-1258476243.file.myqcloud.com/outpic/482/3000176482.jpg",
-          "largePic": "https://weread-picture-1258476243.file.myqcloud.com/outpic/482/3000176482.jpg",
-          "title": "乱神馆记：蝶梦",
-          "publisher": "天津人民出版社",
-          "year": "",
-          "primary": false,
-          "collected": false,
-          "fetchedAt": "2026-10-02T15:29:42.833Z"
-        }
-      ],
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.530Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
     "cnmod-004": {
       "file": "cnmod-004.webp",
       "bytes": 27824,
@@ -132318,17 +132246,36 @@
           "fetchedAt": "2026-10-02T13:15:57.560Z"
         },
         {
-          "subjectId": "3000987334",
-          "source": "微信读书",
-          "remote": true,
-          "pic": "https://cdn.weread.qq.com/outpic/334/3000987334.jpg",
-          "largePic": "https://cdn.weread.qq.com/outpic/334/3000987334.jpg",
-          "title": "第三时效",
-          "publisher": "中信出版社，中信出版集团",
-          "year": "",
+          "subjectId": "36462621",
+          "file": "jpauth-015-36462621.webp",
+          "title": "追诉时效倒计时",
+          "year": "2024-3-18",
+          "publisher": "北京日报出版社",
+          "translator": "曹逸冰",
+          "pic": "https://img9.doubanio.com/view/subject/s/public/s34792134.jpg",
+          "bytes": 10370,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
           "primary": false,
           "collected": false,
-          "fetchedAt": "2026-10-02T15:30:04.310Z"
+          "fetchedAt": "2026-10-02T16:31:39.481Z"
+        },
+        {
+          "subjectId": "3768085",
+          "file": "jpauth-015-3768085.webp",
+          "title": "第三時效",
+          "year": "2009-6-12",
+          "publisher": "獨步文化",
+          "translator": "張智淵",
+          "pic": "https://img3.doubanio.com/view/subject/s/public/s3814047.jpg",
+          "bytes": 11694,
+          "width": 199,
+          "height": 280,
+          "format": "webp",
+          "primary": false,
+          "collected": false,
+          "fetchedAt": "2026-10-02T16:31:41.014Z"
         }
       ],
       "matchedRestored": {
@@ -151610,58 +151557,6 @@
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
     },
-    "cnaudit71-001": {
-      "file": "cnaudit71-001.webp",
-      "bytes": 18178,
-      "width": 270,
-      "height": 409,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/27055133/",
-      "subjectId": "27055133",
-      "matched": "subject-id",
-      "query": "版本一览（2 版，含微信读书）",
-      "edition": {
-        "title": "神秘组织",
-        "author": "陆烨华",
-        "year": "2017"
-      },
-      "bookYear": "",
-      "yearMatch": null,
-      "fetchedAt": "2026-10-02T15:32:48.629Z",
-      "editions": [
-        {
-          "subjectId": "27055133",
-          "file": "cnaudit71-001.webp",
-          "title": "神秘组织",
-          "year": "2017",
-          "publisher": "",
-          "bytes": 18178,
-          "width": 270,
-          "height": 409,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T13:26:40.580Z"
-        }
-      ],
-      "editionsDropped": [
-        {
-          "title": "超能力侦探事务所2：神秘组织",
-          "year": "",
-          "publisher": "新星出版社",
-          "remote": true,
-          "sameAs": "神秘组织",
-          "structureDiff": 0.138,
-          "grayDiff": 8.5
-        }
-      ],
-      "matchedRestored": {
-        "from": "covers-snapshot-2210.json",
-        "at": "2026-10-03T05:23:49.531Z",
-        "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
-      }
-    },
     "mason72-001": {
       "file": "mason72-001.webp",
       "bytes": 9526,
@@ -157871,42 +157766,6 @@
         "at": "2026-10-03T05:23:49.531Z",
         "note": "版本一览那轮曾把判据覆盖成 editions+*；图片与条目未变，判据按快照恢复"
       }
-    },
-    "facet138-022": {
-      "file": "facet138-022.webp",
-      "bytes": 17512,
-      "width": 270,
-      "height": 381,
-      "format": "webp",
-      "source": "豆瓣读书",
-      "sourceUrl": "https://book.douban.com/subject/26358122/",
-      "subjectId": "26358122",
-      "matched": "title",
-      "query": "刑警手记之逝者之证",
-      "edition": {
-        "title": "刑警手记之逝者之证",
-        "author": "梧桐私语",
-        "year": "2015"
-      },
-      "bookYear": "",
-      "yearMatch": null,
-      "fetchedAt": "2026-10-02T13:36:18.573Z",
-      "editions": [
-        {
-          "subjectId": "26358122",
-          "file": "facet138-022.webp",
-          "title": "刑警手记之逝者之证",
-          "year": "2015",
-          "publisher": "",
-          "bytes": 17512,
-          "width": 270,
-          "height": 381,
-          "format": "webp",
-          "primary": true,
-          "collected": false,
-          "fetchedAt": "2026-10-02T13:36:18.573Z"
-        }
-      ]
     },
     "facet138-024": {
       "file": "facet138-024.webp",
@@ -168200,6 +168059,6 @@
       "shlibCheckedAt": "2026-10-03T05:38:29.159Z"
     }
   },
-  "coverCount": 3267,
+  "coverCount": 3258,
   "missCount": 162
 }

@@ -2491,13 +2491,19 @@
     "detective": "",
     "country": "中国",
     "tags": [
+      "psychological-misdirection",
+      "red-herring",
       "dual-line",
-      "concealment",
       "diary-form",
-      "red-herring"
+      "unreliable-narrator",
+      "campus",
+      "concealment",
+      "dark-atmosphere",
+      "youth"
     ],
     "school": [
       "orthodox-school",
+      "social-school",
       "psychological-school"
     ],
     "safeSummary": "与谋杀者的通信、与生死彼岸的通信、与不可能的爱情的通信、与叵测命运的通信——这些通信串起十九年的时间，也串起一宗又一宗的谋杀。",
@@ -2514,17 +2520,17 @@
         "fetchedAt": "2026-09-27T12:10:50.803Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -2554,9 +2560,17 @@
     },
     "provenance": {
       "source": "batch-146-clc.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-09-social-more.json#social2-001"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
-    "authorEn": "Na Duo"
+    "authorEn": "Na Duo",
+    "alternateTitles": [
+      "十九年间谋杀小叙"
+    ]
   },
   {
     "id": "ns146-035",

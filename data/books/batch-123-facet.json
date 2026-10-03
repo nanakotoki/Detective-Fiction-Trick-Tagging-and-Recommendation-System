@@ -171,14 +171,20 @@
     "detective": "李清湖、左柔、叶飞刀、幽幽",
     "country": "中国",
     "tags": [
-      "meta-fiction",
+      "multiple-solutions",
+      "red-herring",
       "ensemble",
-      "multiple-solutions"
+      "concealment",
+      "honkaku",
+      "meta-fiction",
+      "series-detective"
     ],
     "school": [
+      "logic-school",
       "trick-school",
-      "meta-school",
-      "logic-school"
+      "orthodox-school",
+      "daily-mystery-school",
+      "meta-school"
     ],
     "safeSummary": "幻影城是一座侦探之城，各家神探大显神通，也暗自比拼。唯独一桩十年前的案子至今无人破解，其幕后黑手依旧让侦探们闻风丧胆——他们就是「神秘组织」。",
     "recommendationReason": "",
@@ -195,17 +201,17 @@
         "fetchedAt": "2026-09-26T16:25:00.329Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -236,8 +242,16 @@
     },
     "provenance": {
       "source": "batch-123-facet.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-71-audit7.json#cnaudit71-001"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "神秘组织"
+    ]
   },
   {
     "id": "facet123-004",

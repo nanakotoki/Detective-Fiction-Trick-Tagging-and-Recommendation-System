@@ -1453,14 +1453,17 @@
     "detective": "",
     "country": "日本",
     "tags": [
-      "alibi",
       "locked-room",
-      "multiple-solutions"
+      "alibi",
+      "multiple-solutions",
+      "red-herring",
+      "ensemble",
+      "honkaku"
     ],
     "school": [
+      "logic-school",
       "trick-school",
-      "orthodox-school",
-      "logic-school"
+      "orthodox-school"
     ],
     "safeSummary": "一家神秘的钟表店，只要五千日元就能受理委托。沉入湖底的豪车中绑着一个死不瞑目的男人；500 句真实的证词，却让焚尸案陷入僵局。",
     "recommendationReason": "",
@@ -1477,17 +1480,17 @@
         "fetchedAt": "2026-09-26T16:23:36.914Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -1518,8 +1521,16 @@
     },
     "provenance": {
       "source": "batch-121-facet.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-24-jp-modern-fill.json#jpmod2-005"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
-    "editionYear": "2022"
+    "editionYear": "2022",
+    "alternateTitles": [
+      "500个目击者"
+    ]
   }
 ]

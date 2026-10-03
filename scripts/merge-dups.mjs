@@ -35,6 +35,17 @@
  *   node scripts/merge-dups.mjs            预演，只打印将要执行的动作
  *   node scripts/merge-dups.mjs --apply    实际写入
  *   node scripts/merge-dups.mjs --json     输出机器可读结果
+ *   node scripts/merge-dups.mjs --pairs data/merge-pairs.json
+ *        —— 补上**人工判定**的重复对（第 179 轮加）。
+ *
+ * 为什么需要 `--pairs`：字符串规则只能认出「书名/原作名归一化后相等」的重复。
+ * 实际收书时撞到的更多是**同一部作品、两种书名写法**：
+ *   《19年间谋杀小叙》／《十九年间谋杀小叙》      （阿拉伯数字／汉字）
+ *   《刑警手记之逝者之证》／《刑警手记逝者之证》    （少一个「之」）
+ *   《500个目击者：绝对不在场证明2》／《500个目击者》（副题写不写）
+ *   《追诉时效倒计时》／《第三时效》               （换名再版，原作名同在一条）
+ * 这类判定**必须逐条取证**（同一条豆瓣条目／篇目逐篇相同／馆藏同版），
+ * 机器认不出来，也不该猜——所以判据写在 data/merge-pairs.json 里，可复核、可追述。
  */
 
 import fs from 'node:fs';
@@ -54,6 +65,8 @@ const TOMB_DIR = path.join(BOOKS_DIR, '_merged');
 
 const APPLY = process.argv.includes('--apply');
 const AS_JSON = process.argv.includes('--json');
+const PAIRS_AT = process.argv.indexOf('--pairs');
+const PAIRS_FILE = PAIRS_AT !== -1 ? process.argv[PAIRS_AT + 1] : '';
 
 const TAG_ORDER = new Map(TAGS.map((t, i) => [t.id, i]));
 const sortTags = (ids) => [...new Set(ids.filter(Boolean))].sort((a, b) => (TAG_ORDER.get(a) ?? 999) - (TAG_ORDER.get(b) ?? 999));
@@ -135,8 +148,7 @@ function main() {
   }
 
   // ---- 并查集 ----
-  const parent = nodes.map((_, i) => i);
-  const find = (x) => {
+  const parent = nodes.map((_, i) => i);  const find = (x) => {
     while (parent[x] !== x) {
       parent[x] = parent[parent[x]];
       x = parent[x];
@@ -167,6 +179,33 @@ function main() {
     }
   });
 
+  // ---- 人工判定的重复对（--pairs）：字符串规则认不出的「同作异名」----
+  /** 保留哪一条由判据指定，不交给打分：取证更硬、著录更全的那条才该当主条目 */
+  const preferred = new Set();
+  const judged = [];
+  const whyOf = new Map(); // 条目 id → 该组判据（写进台账，便于日后复核）
+  if (PAIRS_FILE) {
+    const raw = JSON.parse(fs.readFileSync(path.resolve(PAIRS_FILE), 'utf8'));
+    const list = Array.isArray(raw) ? raw : raw.pairs ?? [];
+    const indexOfId = new Map();
+    nodes.forEach((n, i) => {
+      if (!indexOfId.has(n.book.id)) indexOfId.set(n.book.id, i);
+    });
+    for (const p of list) {
+      const a = indexOfId.get(p.keep);
+      const b = indexOfId.get(p.drop);
+      if (a == null || b == null) {
+        console.error(`  ✗ 判定对里的 id 不在库里：keep=${p.keep} drop=${p.drop}`);
+        process.exit(1);
+      }
+      union(a, b);
+      preferred.add(p.keep);
+      whyOf.set(p.keep, p.why ?? '');
+      whyOf.set(p.drop, p.why ?? '');
+      judged.push({ ...p, applied: false });
+    }
+  }
+
   // ---- 收集连通分量 ----
   const comps = new Map();
   nodes.forEach((n, i) => {
@@ -193,9 +232,13 @@ function main() {
       continue;
     }
 
-    const recs = [...recsRaw].sort(
-      (a, b) => compareRank(rankOf(a.book, a.file), rankOf(b.book, b.file))
-    );
+    const recs = [...recsRaw].sort((a, b) => {
+      // 人工判定的组：判据点名的 keep 排在最前，其余才按打分
+      const pa = preferred.has(a.book.id) ? 1 : 0;
+      const pb = preferred.has(b.book.id) ? 1 : 0;
+      if (pa !== pb) return pb - pa;
+      return compareRank(rankOf(a.book, a.file), rankOf(b.book, b.file));
+    });
 
     if (recs.some((r) => !vaultEmpty(r.book.vault))) {
       skipped.push({ title: recs[0].book.title, reason: 'vault 非空，拒绝自动合并', recs });
@@ -242,6 +285,8 @@ function main() {
       author: merged.author,
       keep: `${keep.file}#${keep.book.id}`,
       drop: drop.map((d) => `${d.file}#${d.book.id}（${d.book.title}）`),
+      // 这一组是人工判定的就带上判据（可复核：为什么这两条是同一部作品）
+      why: whyOf.get(keep.book.id) ?? '',
       tagsBefore: keep.book.tags?.length ?? 0,
       tagsAfter: merged.tags.length,
       schoolAfter: merged.school.length,
@@ -262,6 +307,7 @@ function main() {
       console.log(`      保留 ${a.keep}`);
       for (const d of a.drop) console.log(`      删除 ${d}`);
       if (a.alternateTitles.length) console.log(`      又名 ${a.alternateTitles.join(' / ')}`);
+      if (a.why) console.log(`      判据 ${a.why}`);
       console.log(`      标签 ${a.tagsBefore} → ${a.tagsAfter} 个（并集），流派 ${a.schoolAfter} 个`);
     }
     for (const s of skipped) {
@@ -270,6 +316,11 @@ function main() {
     }
     console.log('');
     console.log(`  可合并 ${applied.length} 组，跳过 ${skipped.length} 组`);
+    // 判据文件里写了、这一轮却没落地的组：必须点名，否则「写了判据但没生效」没人发现
+    const unused = judged.filter((j) => !applied.some((a) => a.keep.endsWith(`#${j.keep}`)));
+    if (unused.length) {
+      console.log(`  ! 判据里有 ${unused.length} 组这次没生效（可能被守卫跳过）：${unused.map((u) => `${u.keep}↔${u.drop}`).join('、')}`);
+    }
     console.log(
       `  ${APPLY ? '已写入' : '预演模式（未写入，加 --apply 执行）'}：合并后全库 ${total - removed.size} 部`
     );

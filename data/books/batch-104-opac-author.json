@@ -260,43 +260,44 @@
     "detective": "",
     "country": "日本",
     "tags": [
-      "fear",
-      "dark-atmosphere",
-      "concealment",
+      "psychological-misdirection",
       "red-herring",
-      "psychological-misdirection"
+      "concealment",
+      "fear",
+      "dark-atmosphere"
     ],
     "school": [
-      "bizarre-school",
+      "trick-school",
+      "orthodox-school",
       "psychological-school",
-      "orthodox-school"
+      "bizarre-school"
     ],
     "safeSummary": "作家高梨参加了一场亚马孙科考活动之后性情大变：原本有「死亡恐惧症」的他，突然对死亡之事兴趣陡增，其后更以自杀的方式身亡。与此同时，科考队的其他成员也一个接一个以不可思议的方式自杀。",
     "recommendationReason": "",
     "ratings": {
       "douban": {
         "summary": "暂无数据",
-        "score": 7.7,
-        "count": 1988,
+        "score": 7.2,
+        "count": 2609,
         "scale": "10 分制",
         "source": "豆瓣读书（实时抓取）",
-        "sourceUrl": "https://book.douban.com/subject/26133088/",
-        "subjectId": "26133088",
-        "edition": "天使的呢喃 2015",
-        "fetchedAt": "2026-09-26T16:04:44.842Z",
+        "sourceUrl": "https://book.douban.com/subject/36743308/",
+        "subjectId": "36743308",
+        "edition": "恐怖呢喃 2024",
+        "fetchedAt": "2026-09-26T16:10:20.960Z",
         "asOf": "2026-09"
-      },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
       },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -327,9 +328,17 @@
     },
     "provenance": {
       "source": "batch-104-opac-author.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-112-opac2.json#src112-014"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
-    "editionYear": "2015"
+    "editionYear": "2015",
+    "alternateTitles": [
+      "恐怖呢喃"
+    ]
   },
   {
     "id": "opac104-005",

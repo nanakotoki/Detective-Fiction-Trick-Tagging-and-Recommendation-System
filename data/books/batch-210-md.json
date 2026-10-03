@@ -389,14 +389,20 @@
     "firstPublished": "",
     "editionYear": "2021",
     "series": "天久鹰央的事件病历表",
-    "detective": "",
+    "detective": "天久鹰央",
     "country": "日本",
     "tags": [
-      "honkaku"
+      "multiple-solutions",
+      "hospital",
+      "honkaku",
+      "series-detective",
+      "forensic"
     ],
     "school": [
+      "logic-school",
+      "trick-school",
       "orthodox-school",
-      "trick-school"
+      "forensic-school"
     ],
     "safeSummary": "连环绞杀案现场留下的血迹，鉴定出的嫌疑人四年前就已去世——天久鹰央要弄清「不该存在的凶手」是怎么回事。",
     "ratings": {
@@ -412,17 +418,17 @@
         "fetchedAt": "2026-09-28T10:53:24.743Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -452,10 +458,16 @@
     },
     "provenance": {
       "source": "batch-210-md.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-164-shlib.json#shlib164-012"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
     },
     "alternateTitles": [
-      "复苏杀人者 天久鹰央的事件病历表 Ameku Takao's crime karte"
+      "复苏杀人者 天久鹰央的事件病历表 Ameku Takao's crime karte",
+      "复苏杀人者：天久鹰央的事件病历表"
     ]
   },
   {

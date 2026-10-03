@@ -6,21 +6,26 @@
     "author": "水天一色",
     "authorEn": "Shui Tian Yise",
     "genre": "本格推理",
-    "firstPublished": "",
+    "firstPublished": "2011",
     "editionYear": "2011",
     "series": "乱神馆记",
-    "detective": "",
+    "detective": "离春",
     "country": "中国",
     "tags": [
       "locked-room",
       "multiple-solutions",
+      "red-herring",
+      "historical-setting",
+      "concealment",
       "curiosity",
-      "concealment"
+      "honkaku",
+      "series-detective",
+      "legend-folklore"
     ],
     "school": [
+      "logic-school",
       "trick-school",
-      "orthodox-school",
-      "logic-school"
+      "orthodox-school"
     ],
     "safeSummary": "「乱神馆记」系列的一册：一桩看似无从下手的案子，解开它的钥匙藏在一场梦里。",
     "ratings": {
@@ -36,17 +41,17 @@
         "fetchedAt": "2026-09-30T14:36:34.285Z",
         "asOf": "2026-09"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -76,8 +81,16 @@
     },
     "provenance": {
       "source": "batch-217-opac.json",
-      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+      "ratingsNote": "豆瓣评分为实时抓取的平台公开数据，每条记录附来源链接与抓取时间，可逐条核对；虎扑无完整书籍评分体系，Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-33-chinese-modern.json#cnmod-003"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "乱神馆记·蝶梦"
+    ]
   },
   {
     "id": "opac133-002",
@@ -548,15 +561,17 @@
     "author": "梧桐私语",
     "authorEn": "Wutong Siyu",
     "genre": "犯罪悬疑",
-    "firstPublished": "",
+    "firstPublished": "2015",
     "editionYear": "2015",
     "series": "刑警手记系列",
-    "detective": "",
+    "detective": "龚克",
     "country": "中国",
     "tags": [
-      "forensic",
+      "ensemble",
+      "silencing",
+      "concealment",
       "series-detective",
-      "silencing"
+      "forensic"
     ],
     "school": [
       "police-procedural",
@@ -571,17 +586,17 @@
         "asOf": null,
         "summary": "暂无数据"
       },
-      "hupu": {
-        "score": null,
-        "count": null,
-        "source": "虎扑",
-        "asOf": null,
-        "summary": "暂无数据"
-      },
       "goodreads": {
         "score": null,
         "count": null,
         "source": "Goodreads",
+        "asOf": null,
+        "summary": "暂无数据"
+      },
+      "hupu": {
+        "score": null,
+        "count": null,
+        "source": "虎扑",
         "asOf": null,
         "summary": "暂无数据"
       }
@@ -611,8 +626,16 @@
     },
     "provenance": {
       "source": "batch-217-opac.json",
-      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。"
-    }
+      "ratingsNote": "豆瓣评分为**条目页实时抓取**（每条附来源链接与抓取时间，且与所引版本同一版）；虎扑无完整书籍评分体系、Goodreads 在当前环境不可达，均标注「暂无数据」，系统不编造评分。",
+      "mergedFrom": [
+        "batch-138-opac10.json#facet138-022"
+      ],
+      "mergedAt": "2026-10",
+      "mergeNote": "本条由重复条目合并而来：标签与流派取并集，评分逐平台取较新的一条，梗概与阅读提示保留主条目原文；另一版本的中文书名保留在 alternateTitles 中，搜索仍可命中。"
+    },
+    "alternateTitles": [
+      "刑警手记之逝者之证"
+    ]
   },
   {
     "id": "opac133-009",
