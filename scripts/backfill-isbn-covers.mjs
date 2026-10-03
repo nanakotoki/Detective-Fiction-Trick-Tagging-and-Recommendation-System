@@ -32,7 +32,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { BASE, parseMarc, isbnOf } from './lib/shlib.mjs';
-import { parseMainPic, parseInfoLite, isDefaultPic, toIsbn13, toWebp, imageSize } from './lib/covers.mjs';
+import { parseMainPic, parseInfoLite, isDefaultPic, isbnsOf, toIsbn13, toWebp, imageSize } from './lib/covers.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -145,7 +145,12 @@ async function isbnFromShlib(title, author) {
     const a = clean(r.title);
     return a === want || a.startsWith(want) || want.startsWith(a);
   });
-  if (!hit) return { isbns: [], note: `上图 ${recs.length} 条著录里没有题名吻合的` };
+  if (!hit) {
+    return {
+      isbns: [],
+      note: recs.length ? `上图 ${recs.length} 条著录里没有题名吻合的` : '上图按这个题名一条著录都没返回',
+    };
+  }
   const marc = parseMarc(hit.rawData?.fullrecord || '');
   const isbns = isbnOf(marc).map((x) => x.replace(/[^\dXx]/g, '')).filter((x) => x.length === 13 || x.length === 10);
   return { isbns: [...new Set(isbns)], title: hit.title, note: isbns.length ? '' : '上图著录里没有书号' };
@@ -196,6 +201,7 @@ async function downloadCover(picUrl) {
 let saved = 0;
 let noIsbn = 0;
 let noCover = 0;
+let blocked = 0;
 const savedIds = [];
 
 for (const t of targets) {
@@ -209,6 +215,17 @@ for (const t of targets) {
      */
     let isbns = t.shlibIsbn ? [t.shlibIsbn] : [];
     let shNote = '';
+    /**
+     * 书号有三个来源，按「越省事越先」排：
+     *   ① 台账里缓存的上图书号（`--shlib-only` 那一轮查到的）；
+     *   ② **著录自带的书号**（`isbnsOf(book)`）——有的话连上图都不用问
+     *      （2026-10-03 补：162 部里就有 1 部是这种，原先被漏掉）；
+     *   ③ 现问上图。`shlibCheckedAt` 有、却没书号的，说明上图也确认查不到，不再重复去问。
+     */
+    if (!isbns.length) {
+      const own = isbnsOf(t.book).map(toIsbn13).filter((x) => /^\d{13}$/.test(x));
+      if (own.length) isbns = own;
+    }
     if (!isbns.length && !t.shlibCheckedAt) {
       await sleep(DELAY);
       const sh = await isbnFromShlib(title, t.book.author);
@@ -223,10 +240,14 @@ for (const t of targets) {
       continue;
     }
     let done = false;
+    let lastNote = '';
     for (const isbn of isbns.slice(0, 2)) {
       await sleep(DELAY);
       const db = await coverFromDoubanIsbn(isbn);
-      if (!db.ok) continue;
+      if (!db.ok) {
+        lastNote = db.note || '';
+        continue;
+      }
       const img = await downloadCover(db.pic);
       if (!img) continue;
       saved += 1;
@@ -259,8 +280,16 @@ for (const t of targets) {
       break;
     }
     if (!done) {
-      noCover += 1;
-      if (targets.length <= 40) console.log(color(`  · 《${title}》：上图给了书号（${isbns[0]}），但豆瓣没有可用封面`, C.dim));
+      /**
+       * 「拿不到封面」要分清两件事，报数时不能混：
+       *   · 豆瓣**根本没问到**（限流 403／连不上）→ 这不是内容结论，等它通了还能救；
+       *   · 豆瓣**答了但没有图**（条目没封面、或跳到的条目 ISBN 与本版不一致）→ 内容结论。
+       */
+      if (/^豆瓣 HTTP|没有跳到条目页/.test(lastNote)) blocked += 1;
+      else noCover += 1;
+      if (targets.length <= 40) {
+        console.log(color(`  · 《${title}》：有书号（${isbns[0]}），${lastNote || '豆瓣没有可用封面'}`, C.dim));
+      }
     }
   } catch (e) {
     if (targets.length <= 40) console.log(color(`  · 《${title}》✗ ${e.message}`, C.dim));
@@ -268,7 +297,12 @@ for (const t of targets) {
 }
 
 console.log('');
-console.log(color(`  ✓ 救回 ${saved} 部 ／ 上图没书号 ${noIsbn} 部 ／ 有书号但豆瓣无图 ${noCover} 部`, C.green));
+console.log(
+  color(
+    `  ✓ 救回 ${saved} 部 ／ 没有书号 ${noIsbn} 部 ／ 有书号但豆瓣没问到 ${blocked} 部（限流或不可达，通了还能救） ／ 豆瓣答了但没有图 ${noCover} 部`,
+    C.green,
+  ),
+);
 for (const s of savedIds.slice(0, 12)) console.log(color(`    · ${s}`, C.dim));
 if (savedIds.length > 12) console.log(color(`    … 其余 ${savedIds.length - 12} 部省略`, C.dim));
 
