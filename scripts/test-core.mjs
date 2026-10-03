@@ -42,6 +42,7 @@ import {
   coverCodeOf,
   imageSize,
   isTraditionalTitle,
+  orderEditionsForPrimary,
   preferLargerImage,
   sameTitleEdition,
   isBlockPage,
@@ -2015,6 +2016,42 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
 /* ------------------------------------------------------------------ */
 /* 主图该是哪一版（第 180 轮：外文版顶掉中文版的自查与修正）             */
 /* ------------------------------------------------------------------ */
+
+test('封面版本挑选：挑主图的排序 —— 题名一致且文字相同的最前，外文版最后（第 181 轮的根因修复）', () => {
+  const found = [
+    { subjectId: 'th', title: 'ฆาตกรรมจักรราศีเลือด', year: '2026-6-16' }, // 泰文版（最新）
+    { subjectId: 'kr', title: '인사이트 밀', year: '2022-9-30' }, // 韩文版
+    { subjectId: 'cn', title: '占星术杀人魔法', year: '2013-8' }, // 简体（题名一致）
+    { subjectId: 'tw', title: '占星術殺人魔法', year: '2019-5' }, // 繁体（题名一致、文字不同）
+  ];
+  const ordered = orderEditionsForPrimary(found, '占星术杀人魔法');
+  assert.deepEqual(
+    ordered.map((e) => e.subjectId),
+    ['cn', 'tw', 'th', 'kr'],
+    '简体优先于繁体，中文版优先于外文版；同类内按年份降序',
+  );
+
+  // 台版书（库内题名是繁体）→ 先挑繁体版
+  const tw2 = orderEditionsForPrimary(
+    [
+      { subjectId: 'cn', title: '占星术杀人魔法', year: '2013-8' },
+      { subjectId: 'tw', title: '占星術殺人魔法', year: '2019-5' },
+    ],
+    '占星術殺人魔法',
+  );
+  assert.equal(tw2[0].subjectId, 'tw', '书是台版就先挑繁体版（不能反向顶掉）');
+
+  // 版本一览里根本没有中文版时，仍要给出外文版（总比没有强），且按年份降序
+  const onlyForeign = orderEditionsForPrimary(
+    [
+      { subjectId: 'en', title: 'The Tokyo Zodiac Murders', year: '2015-1' },
+      { subjectId: 'th', title: 'ฆาตกรรมจักรราศีเลือด', year: '2026-6-16' },
+    ],
+    '占星术杀人魔法',
+  );
+  assert.deepEqual(onlyForeign.map((e) => e.subjectId), ['th', 'en'], '只有外文版时按年份降序');
+  assert.equal(orderEditionsForPrimary([], '占星术杀人魔法').length, 0);
+});
 
 test('封面版本挑选：题名是否「正面吻合」（繁简／数字／虚词都归一）', () => {
   // 同一题名的不同写法都算吻合

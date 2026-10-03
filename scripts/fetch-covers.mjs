@@ -241,6 +241,7 @@ import {
   imageSize,
   yearOf,
   authorMatches,
+  orderEditionsForPrimary,
   pickNewestEdition,
   parseWorksEditions,
   parseWorksLink,
@@ -835,10 +836,16 @@ for (const { book } of targets) {
       } else {
         consecutiveBlocked = 0;
         if (worksId) rec.worksId = worksId;
-        /** 有年份的排在前面（按年降序）；无年份的放最后 */
-        const dated = found.filter((e) => yearOf(e.year)).sort((a, b) => Number(yearOf(b.year)) - Number(yearOf(a.year)));
-        const undated = found.filter((e) => !yearOf(e.year));
-        const ordered = [...dated, ...undated];
+        /**
+         * 排序：**题名一致、且文字与库内相同的那一版排最前**，其后才是题名一致但文字不同的、
+         * 最后才是题名对不上的（外文版）。每层内部仍按出版年降序 —— 「新版优先」在这一层里生效。
+         *
+         * 第 181 轮的根因修复：原先这里是「所有候选一起按年降序」，于是「最新版」经常是
+         * 泰文／俄文／日文版（《占星术杀人魔法》挂泰文封面），而 README §168 明写
+         * 「不会拿繁体版／外文版顶掉简体版」。排序规则现在住在 `lib/covers.mjs`
+         * 的 `orderEditionsForPrimary()` 里，带单元测试。
+         */
+        const ordered = orderEditionsForPrimary(found, book.title, { bookYear });
         /** 挑：最新 → 本库所收那版 → 次新 → 再往后补足 */
         const picked = [];
         const push = (e) => {

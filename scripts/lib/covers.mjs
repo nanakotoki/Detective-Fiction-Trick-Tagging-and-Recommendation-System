@@ -428,6 +428,33 @@ export function isTraditionalTitle(title) {
 }
 
 /**
+ * 版本一览里挑主图的**排序**（纯函数，可测）——第 181 轮的根因修复。
+ * ==============================================================
+ * 第 181 轮查到的问题：`--editions` 那一轮挑主图是「按出版年降序取第一条」，**没有题名与语言过滤**，
+ * 于是外面显示的「最新版」经常是泰文／俄文／日文／繁体版（《占星术杀人魔法》挂泰文封面），
+ * 而 README §168 明写「不会拿繁体版／外文版顶掉简体版」。
+ *
+ * 所以把「挑哪一版」的排序单独写在这里，规则三层，从前往后：
+ *   ① **题名与库内一致、且文字与库内相同**（简体的书先挑简体版，台版的书先挑繁体版）；
+ *   ② 题名一致但文字不同（简体书只剩繁体版可选时才会走到这里）；
+ *   ③ 题名对不上（外文版；只有在版本一览里根本没有中文版时才会被选中）。
+ * 每一层内部仍按**出版年降序**（用户要的「新版优先」在这一层里生效），没有年份的排最后。
+ */
+export function orderEditionsForPrimary(found, bookTitle, { bookYear = '' } = {}) {
+  const yearOfEdition = (v) => String(v || '').match(/\d{4}/)?.[0] || '';
+  const byYearDesc = (list) => [...list].sort((a, b) => Number(yearOfEdition(b.year) || 0) - Number(yearOfEdition(a.year) || 0));
+  const bookTrad = isTraditionalTitle(bookTitle);
+  const matched = (found || []).filter((e) => sameTitleEdition(bookTitle, e?.title || ''));
+  const sameScript = matched.filter((e) => isTraditionalTitle(e.title || '') === bookTrad);
+  const otherScript = matched.filter((e) => isTraditionalTitle(e.title || '') !== bookTrad);
+  const foreign = (found || []).filter((e) => !sameTitleEdition(bookTitle, e?.title || ''));
+  const ordered = [...byYearDesc(sameScript), ...byYearDesc(otherScript), ...byYearDesc(foreign)];
+  // bookYear 目前只用于调用方的「同年优先」，排序本身不看它；留着是为了以后要按它微调时不必改签名
+  void bookYear;
+  return ordered;
+}
+
+/**
  * 图片宽高（webp / jpeg 各解析一小段头，够用即可）。
  * 用途有两个：记进封面台账（便于日后核对），以及**校验下载到的确实是图片**。
  */
