@@ -13620,6 +13620,7 @@ node scripts/backfill-isbn-covers.mjs --shlib-only --apply    # 只打上图，�
 | **移动版** `m.douban.com/book/subject/<id>/` | `403`（iPhone UA 与桌面 UA 都试）——**§173 评分线曾靠移动版绕过桌面站，这次不行** |
 | **检索建议 JSON** `j/subject_suggest` | `403`「登录跳转页」——**第一次见它被挡**（此前它和图片 CDN 一直没被封） |
 | 微信读书检索**按书号**搜 | 4 个书号全是 `0 条`（`_dd/probe-weread-isbn.mjs`）——本想用它顶掉豆瓣这一步，实测否掉 |
+| **Wayback**（archive.org 快照） | **整站不可达**（`fetch failed`，与 NDL／Google Books／Open Library 一样）——本想拿旧快照当「书号 → 条目 id」的见证，实测否掉 |
 | **图片 CDN** | **仍正常**：带任意 referer `200`（6311B jpeg），不带 referer `418` |
 
 最后一行是**实测**的，不是推断：前端「点开看大图」照常（浏览器带本站 referer），
