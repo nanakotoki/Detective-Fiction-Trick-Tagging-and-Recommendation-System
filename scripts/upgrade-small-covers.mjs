@@ -107,45 +107,27 @@ for (const t of targets) {
     continue;
   }
   /**
-   * 同一张画吗？——分两种结局，都不是「擅自换图」：
-   *   · 同一张画、只是更大  → **升级**（换清楚）；
-   *   · 不是同一张画        → 说明**豆瓣换过条目主图**，我们盘上那张是按旧图抓的，
-   *                          而台账记的版本（条目 id／年份／译者）指向的是新图。
-   *                          这时按台账里的原图地址重下，**让图与证据重新对上**（记为 realignedFrom）。
-   *                          只看图说话不够，所以这一支要先把「台账记的是哪一版」打出来。
+   * 同一张画吗？——**不是同一张画就什么都不做，只报出来**。
+   *
+   * 这一条是踩过自己一脚才定下的：最初写成「不是同一张画 ⇒ 按台账里的原图地址重下，
+   * 让图与证据对上」，看着很顺——但实测那 7 部里有一部是 `japan2-009《枯草之根》`：
+   * 盘上那张**确实是《枯草之根》的封面**（对的），而台账记的版本是陈舜臣的**另一部小说**
+   * 《桃源亭事件》。照那个逻辑重下，等于把**正确的封面换成另一部作品的封面**——越修越错。
+   *
+   * 所以这种情形一律不动，只如实报出：它其实是**版本归属存疑**，要等豆瓣通了按题名重核（§179.4）。
+   * 2026-10-03 复核：收尾链 `npm run covers:finish` 会带着 `--apply` 跑本脚本，
+   * 若这一支还留着「自动重下」，那条链一跑就会制造 7 张错图——所以这里必须是**只报不改**。
    */
   const same = hasFfmpeg
     ? isSameCover(fingerprintsOfFile(file), fingerprintsOfBuffer(fetched.buf, fetched.format === 'webp' ? '.webp' : '.jpg'))
     : null;
   if (same === false) {
     changed += 1;
-    if (APPLY) {
-      fs.writeFileSync(file, fetched.buf);
-      t.rec.realignedFrom = {
-        width: t.localWidth,
-        height: t.localHeight,
-        bytes: Number(t.rec.bytes) || 0,
-        at: new Date().toISOString(),
-        pic: t.pic,
-        why: '盘上那张图与台账所记版本已不是同一张（豆瓣换过条目主图）；按台账里的原图地址重下，使图与证据对上',
-      };
-      t.rec.width = fetched.width;
-      t.rec.height = fetched.height;
-      t.rec.bytes = fetched.bytes;
-      t.rec.format = fetched.format;
-      const first = (t.rec.editions || [])[0];
-      if (first) {
-        first.width = fetched.width;
-        first.height = fetched.height;
-        first.bytes = fetched.bytes;
-        first.format = fetched.format;
-      }
-    }
     console.log(
       color(
-        `  ✎ ${t.id}《${books.get(t.id)?.title || ''}》盘上 ${t.localWidth}×${t.localHeight} 与台账那版（${
+        `  ✗ ${t.id}《${books.get(t.id)?.title || ''}》盘上 ${t.localWidth}×${t.localHeight} 与台账那版（${
           t.rec.edition?.year || '年份不详'
-        }《${t.rec.edition?.title || ''}》）不是同一张画 → 按原图地址重下 ${fetched.width}×${fetched.height}`,
+        }《${t.rec.edition?.title || ''}》）不是同一张画 → **不换**（可能是版本归属问题，等豆瓣按题名重核）`,
         C.yellow,
       ),
     );
@@ -184,7 +166,7 @@ console.log('');
 for (const d of done) console.log(color(`    · ${d}`, C.dim));
 console.log(
   color(
-    `  ✓ 升级 ${upgraded} 部（同一张画、更大） ／ 重下对齐 ${changed} 部（豆瓣换过主图，图与证据重新对上） ／ CDN 上没有更大的 ${sameSize} 部 ／ 取图失败 ${failed} 部`,
+    `  ✓ 升级 ${upgraded} 部（同一张画、更大） ／ 图与台账版本对不上（只报不换）${changed} 部 ／ CDN 上没有更大的 ${sameSize} 部 ／ 取图失败 ${failed} 部`,
     C.green,
   ),
 );

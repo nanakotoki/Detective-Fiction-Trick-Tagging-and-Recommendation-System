@@ -33,6 +33,7 @@
     "covers:restore-evidence": "node scripts/restore-cover-evidence.mjs",
     "covers:promote-edition": "node scripts/promote-matching-edition.mjs",
     "covers:upgrade-small": "node scripts/upgrade-small-covers.mjs",
+    "covers:finish": "node scripts/finish-covers.mjs",
     "audit:cover-dups": "node scripts/audit-cover-dups.mjs",
     "audit:cover-entries": "node scripts/audit-shared-entries.mjs",
     "pool:left": "node scripts/pool-left.mjs",
