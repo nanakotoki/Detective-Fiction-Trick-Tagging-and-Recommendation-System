@@ -200,6 +200,91 @@ async function main() {
       `现 ${afterCleanup.json?.books?.length} 部`,
     );
 
+    /* ---------- 半截文件（写入窗口）不该吃掉整库（第 178 轮） ---------- */
+    // 对应另一个真实故障：`scripts/apply-ratings.mjs --apply` 一次整体覆盖 20 个批次文件，
+    // 覆盖的瞬间目录监听就触发了重载，服务端读到「写了一半」的 JSON 就把**整个文件**跳过
+    // （旧的 loadSeed 只打一行 warn 就 continue）——页面上的总数凭空少了 3 本
+    // （服务端日志里 3428 → 3425），看起来像书被删了，却查不出原因。
+    // 这里验证两件事：①坏文件不牵连其他书，而且会被如实报进 `unreadable`；
+    // ②文件在几毫秒后写完，重试自己能读到，不需要人工再调一次 reload。
+    // 探针用 `_` 前缀：check-data / build / 清单生成的脚本都把它当临时文件忽略，
+    // .gitignore 里 `data/_*` 也保证万一残留不会进仓库。
+    const tornIds = ['torn-probe-a-001', 'torn-probe-b-001'];
+    const tornFiles = ['_torn-probe-a.json', '_torn-probe-b.json'].map((f) => path.join(ROOT, 'data', 'books', f));
+    const tornEntry = (id) => [
+      {
+        id,
+        title: `半截文件探针（测试用，不应出现在正式数据里）${id}`,
+        author: '测试',
+        genre: '本格推理',
+        safeSummary: 'scripts/test-server.mjs 写入的临时条目，用于验证批次文件只写了一半时服务端不会少收其他书，测试结束即删除。',
+        tags: ['locked-room'],
+        ratings: {},
+      },
+    ];
+    try {
+      // ① 一直是坏文件：其他书一本不能少，且要出现在 unreadable 里
+      fs.writeFileSync(tornFiles[0], `${JSON.stringify(tornEntry(tornIds[0]), null, 2).slice(0, 60)}`, 'utf8');
+      const torn = await req('POST', '/api/reload');
+      check(
+        '批次文件写了一半时，其他书一本都不少',
+        torn.status === 200 && torn.json?.seedCount === list.length,
+        `seedCount=${torn.json?.seedCount} / 期望 ${list.length}`,
+      );
+      check(
+        '读不出来的文件被如实报出来（不再静默吞掉）',
+        (torn.json?.unreadable ?? []).some((u) => u.file === '_torn-probe-a.json'),
+        JSON.stringify(torn.json?.unreadable ?? []),
+      );
+      check(
+        '同时 /api/health 也把坏文件摆出来',
+        ((await req('GET', '/api/health')).json?.unreadableFiles ?? []).includes('_torn-probe-a.json'),
+        'unreadableFiles',
+      );
+
+      // ② 写一半、紧接着写完：重试要能自己赶上，而不是等到下一次 reload
+      const fullB = `${JSON.stringify(tornEntry(tornIds[1]), null, 2)}\n`;
+      fs.writeFileSync(tornFiles[1], fullB.slice(0, 60), 'utf8');
+      setTimeout(() => {
+        try {
+          fs.writeFileSync(tornFiles[1], fullB, 'utf8');
+        } catch {
+          /* 文件已被清理 */
+        }
+      }, 180);
+      const healed = await req('POST', '/api/reload');
+      check(
+        '文件随后补全，重试把新条目读进来了',
+        healed.json?.seedCount === list.length + 1,
+        `seedCount=${healed.json?.seedCount} / 期望 ${list.length + 1}`,
+      );
+      check(
+        '补全后的文件不再算「读不出来」',
+        !(healed.json?.unreadable ?? []).some((u) => u.file === '_torn-probe-b.json'),
+        JSON.stringify(healed.json?.unreadable ?? []),
+      );
+    } finally {
+      for (const f of tornFiles) {
+        try {
+          fs.unlinkSync(f);
+        } catch {
+          /* 已删除 */
+        }
+      }
+      await req('POST', '/api/reload');
+    }
+    const afterTorn = await req('GET', '/api/books');
+    check(
+      '坏文件清掉后不留幽灵条目，总数回到原样',
+      afterTorn.json?.books?.length === list.length && !(afterTorn.json?.books ?? []).some((b) => tornIds.includes(b.id)),
+      `现 ${afterTorn.json?.books?.length} 部 / 期望 ${list.length}`,
+    );
+    check(
+      '清掉后 unreadable 归空',
+      ((await req('GET', '/api/health')).json?.unreadableFiles ?? []).length === 0,
+      'unreadableFiles 应为 []',
+    );
+
     /* ---------- 保险库隔离 ---------- */
     console.log('');
     console.log(color('  [反剧透：保险库隔离]', C.dim));

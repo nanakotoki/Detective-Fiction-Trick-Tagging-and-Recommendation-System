@@ -1633,9 +1633,9 @@ score = 0.62 × 加权重合度     共享标签权重之和 ÷ 目标作品标�
 │   ├── check-data.mjs             # 知识库反剧透体检
 │   ├── check-exclusions.mjs       # 口径排除项回归（纯恐怖／纯间谍不收，读 data/exclusions.json）
 │   ├── check-frontend.mjs         # 前端模块图与语法检查
-│   ├── test-core.mjs              # 核心逻辑单元测试（131 项）
-│   ├── test-views.mjs             # 视图层回归测试（145 项，真实执行前端）
-│   ├── test-server.mjs            # 后端 API 端到端测试（46 项）
+│   ├── test-core.mjs              # 核心逻辑单元测试（133 项）
+│   ├── test-views.mjs             # 视图层回归测试（177 项，真实执行前端）
+│   ├── test-server.mjs            # 后端 API 端到端测试（64 项）
 │   ├── run-tests.mjs              # 单元测试入口（同进程，不派生子进程）
 │   ├── lib/minidom.mjs            # 自研最小 DOM（仅依赖 node: 内置模块）
 │   ├── preview-recommendations.mjs # 推荐质量抽查
@@ -1814,7 +1814,7 @@ npm run build            # 一键跑完上面两步并生成 manifest
 ▸ 核心逻辑单元测试              ✓ 133 项全部通过
 ▸ 前端模块图与语法检查          ✓ 全部模块可加载
 ▸ 视图层回归测试（真实执行）    ✓ 通过 177 项，失败 0 项
-▸ 后端 API 端到端测试           ✓ 通过 57 项，失败 0 项
+▸ 后端 API 端到端测试           ✓ 通过 64 项，失败 0 项
 ```
 
 > **第二道「口径排除项回归」是补上的一次教训**：用户口径是「**纯恐怖、纯间谍不收**，泛推理收」，

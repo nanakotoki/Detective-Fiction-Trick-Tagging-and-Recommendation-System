@@ -81,39 +81,66 @@ function refreshAssetVersionIfChanged() {
   return false;
 }
 
-/** 读取 data/books/*.json 得到种子知识库 */
+/** 读一个批次文件，解析失败时重试——外部脚本是「整体覆盖」写法，中间有一段半截文件窗口 */
+const SEED_READ_ATTEMPTS = 4;
+const SEED_READ_BACKOFF = 120; // 毫秒；4 次合计最多等约 0.4 秒
+
+async function readSeedFile(file) {
+  const full = path.join(BOOKS_DIR, file);
+  let lastError = null;
+  for (let attempt = 1; attempt <= SEED_READ_ATTEMPTS; attempt += 1) {
+    try {
+      return { list: JSON.parse(await fs.readFile(full, 'utf8')) };
+    } catch (error) {
+      lastError = error;
+      // 采集脚本删/改名中间文件时会撞上 ENOENT：这不是故障，当它不存在即可，重试没有意义
+      if (error.code === 'ENOENT') return { list: null, gone: true };
+      if (attempt < SEED_READ_ATTEMPTS) await new Promise((r) => setTimeout(r, SEED_READ_BACKOFF));
+    }
+  }
+  return { list: null, error: lastError };
+}
+
+/** 读取 data/books/*.json 得到种子知识库（外加读不出来的文件清单） */
 async function loadSeed() {
   const books = [];
+  const unreadable = [];
   let files = [];
   try {
     files = (await fs.readdir(BOOKS_DIR)).filter((f) => f.endsWith('.json')).sort();
   } catch {
-    return books;
+    return { books, unreadable };
   }
 
   for (const file of files) {
-    try {
-      const raw = await fs.readFile(path.join(BOOKS_DIR, file), 'utf8');
-      const list = JSON.parse(raw);
-      if (!Array.isArray(list)) {
-        console.warn(`[seed] ${file} 不是数组，已跳过`);
-        continue;
-      }
-      for (const item of list) {
-        const book = normalizeSeedBook(item, null, file);
-        if (!book) continue;
-        book.origin = 'seed';
-        books.push(book);
-      }
-    } catch (error) {
-      console.warn(`[seed] 读取 ${file} 失败：${error.message}`);
+    const { list, gone, error } = await readSeedFile(file);
+    if (gone) continue;
+    if (error) {
+      // 重试完还是坏文件：**必须报出来**。以前这里只打一行 warn 就 continue，
+      // 结果 `apply-ratings --apply` 覆盖 20 个文件时，服务端正好读到半截 JSON，
+      // 整文件被跳过，页面上的总数凭空少了 3 本（日志里 3428 → 3425），
+      // 看起来像「书丢了」却查不出原因（第 178 轮）。
+      unreadable.push({ file, error: error.message });
+      console.warn(`[seed] 读取 ${file} 失败（已重试 ${SEED_READ_ATTEMPTS} 次）：${error.message}`);
+      continue;
+    }
+    if (!Array.isArray(list)) {
+      console.warn(`[seed] ${file} 不是数组，已跳过`);
+      unreadable.push({ file, error: '不是数组' });
+      continue;
+    }
+    for (const item of list) {
+      const book = normalizeSeedBook(item, null, file);
+      if (!book) continue;
+      book.origin = 'seed';
+      books.push(book);
     }
   }
 
   // 知识库可能被拆分到多个文件，按 id 去重（保留先出现的）
   const byId = new Map();
   for (const book of books) if (!byId.has(book.id)) byId.set(book.id, book);
-  return [...byId.values()];
+  return { books: [...byId.values()], unreadable };
 }
 
 let seedBooks = [];
@@ -170,18 +197,21 @@ let booksPayloadCache = null;
  * 重读是**整体替换** `seedBooks` 再清缓存，不做增量合并——批次文件之间可能互相改名、
  * 合并（`merge-dups`）甚至删除，增量合并会留下幽灵条目。
  */
-let seedMeta = { loadedAt: null, files: 0, books: 0 };
+let seedMeta = { loadedAt: null, files: 0, books: 0, unreadable: [] };
 let reloading = null;
 
 async function reloadSeed({ reason = 'manual' } = {}) {
   if (reloading) return reloading;
   reloading = (async () => {
-    const books = await loadSeed();
+    const { books, unreadable } = await loadSeed();
     seedBooks = books;
     invalidateCache();
     const files = (await fs.readdir(BOOKS_DIR).catch(() => [])).filter((f) => f.endsWith('.json')).length;
-    seedMeta = { loadedAt: new Date().toISOString(), files, books: books.length };
+    seedMeta = { loadedAt: new Date().toISOString(), files, books: books.length, unreadable };
     console.log(`[seed] 重新载入（${reason}）：${books.length} 部 / ${files} 个文件`);
+    if (unreadable.length) {
+      console.warn(`[seed] 其中 ${unreadable.length} 个文件读不出来，本次少了它们的条目：${unreadable.map((u) => u.file).join('、')}`);
+    }
     return seedMeta;
   })();
   try {
@@ -365,6 +395,9 @@ async function handleApi(req, res, url) {
       seedCount: seedBooks.length,
       tagCount: TAGS.length,
       mode: 'api',
+      // 读不出来的批次文件（截断 / 语法错）——正常必须是空数组：
+      // 有条目就意味着本次总数偏低，调用方一眼能看出「少书」不是数据被删了（第 178 轮）
+      unreadableFiles: (seedMeta.unreadable ?? []).map((u) => u.file),
       uptimeSeconds: Math.round(process.uptime()),
     });
     return true;
@@ -381,6 +414,7 @@ async function handleApi(req, res, url) {
       bookCount: books.length,
       files: meta.files,
       loadedAt: meta.loadedAt,
+      unreadable: meta.unreadable ?? [],
     });
     return true;
   }
@@ -668,7 +702,12 @@ const server = http.createServer(async (req, res) => {
 });
 
 async function main() {
-  seedBooks = await loadSeed();
+  const loaded = await loadSeed();
+  seedBooks = loaded.books;
+  seedMeta = { loadedAt: new Date().toISOString(), files: 0, books: seedBooks.length, unreadable: loaded.unreadable };
+  if (loaded.unreadable.length) {
+    console.warn(`[seed] 启动时有 ${loaded.unreadable.length} 个文件读不出来：${loaded.unreadable.map((u) => u.file).join('、')}`);
+  }
   // 数据目录热加载：整理知识库时往 data/books/ 添批次文件，服务端会自动重读（第 147 轮）
   startSeedWatcher();
   await metaStore.update((m) => ({ ...(m ?? {}), version: 1, seededAt: m?.seededAt ?? new Date().toISOString(), seedCount: seedBooks.length }));

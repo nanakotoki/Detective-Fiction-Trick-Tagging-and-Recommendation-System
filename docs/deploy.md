@@ -229,5 +229,7 @@ curl -s https://mystery.example.com/api/stats | head -c 200
 - [ ] 访问 `/web/` 能看到知识库列表，条数正确
 - [ ] 打开任一条目，**敏感模式**能一键隐藏全部标签
 - [ ] 「添加小说」提交后能在知识库中搜到（方案 B 换一台设备也要能搜到）
-- [ ] `https://你的域名/api/health` 返回 `{"ok":true,…}`（方案 B）
+- [ ] `https://你的域名/api/health` 返回 `{"ok":true,…}`，且其中的 **`unreadableFiles` 是空数组**
+      （不是空数组就说明有批次文件读不出来——常见原因是复制/覆盖 `data/books/*.json` 时只写了一半，
+      此时页面上的总数会偏低；补全该文件后服务端会自动重载，第 178 轮）
 - [ ] 证书有效，HTTP 会 301 到 HTTPS
