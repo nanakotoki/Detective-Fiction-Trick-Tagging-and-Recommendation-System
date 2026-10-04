@@ -998,6 +998,9 @@ for (const { book } of targets) {
            * 就把主图换成它——这正好与「外面只显示最新版」这条要求一致。
            */
           const primary = outEditions[0];
+          /** 换主图之前先把「原来是哪一条」记下来——判据要不要改写，取决于主图有没有真的换 */
+          const prevSubject = String(rec.subjectId || '');
+          const prevFile = String(rec.file || '');
           if (primary.file && primary.file !== rec.file) {
             /** 新主图还没下过（`primary.file` 是 `<id>-<subjectId>.webp`）→ 复制成 `<id>.webp` */
             const src = path.join(COVERS_DIR, primary.file);
@@ -1006,8 +1009,51 @@ for (const { book } of targets) {
               primary.file = `${book.id}.webp`;
             }
           }
+          /**
+           * 落选的旧版本文件要**删掉**（第 186 轮补的一刀）。
+           *
+           * 起因：这一轮长尾抓取重写了 522 部的 `editions`（每部只留最新的 3 版），
+           * 但**没删**那些掉出列表的旧图——闸门于是报出 **235 张「孤儿图片」（3.46MB）**。
+           * 文件名带作品 id 前缀，判定归属是确定的，所以这里可以直接删：
+           *   · 只删「这一部记录原来列着、这次没留下」的文件；
+           *   · **绝不碰主图槽位**（`<id>.webp`／`.jpg`／`.png`）——万一复制主图那一步没成功，
+           *     删了就把记录指空了。
+           */
+          const keptFiles = new Set(outEditions.map((e) => e.file).filter(Boolean));
+          const primarySlot = new RegExp(`^${book.id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\.(webp|jpg|jpeg|png)$`, 'i');
+          let prunedFiles = 0;
+          for (const e of rec.editions || []) {
+            const f = e?.file;
+            if (!f || keptFiles.has(f) || primarySlot.test(f)) continue;
+            const p = path.join(COVERS_DIR, f);
+            if (fs.existsSync(p)) {
+              fs.rmSync(p, { force: true });
+              prunedFiles += 1;
+            }
+          }
+          if (prunedFiles) droppedFiles += prunedFiles;
           rec.editions = outEditions;
-          rec.matched = args.source === 'weread' ? 'editions+weread' : 'editions+works';
+          /**
+           * ⚠️ **主图没换就不要改写判据**（第 186 轮补的一刀，来自 §181 那次自伤）。
+           *
+           * 原先这里是无条件改写：只要一部书走过「版本一览」这一轮，判据就被写成
+           * `editions+works`／`editions+weread`——哪怕主图其实还是原来那一条条目的图。
+           * 结果是**全库 2485 部把自己的强判据（与评分同一条条目）说成了「版本择优」**，
+           * 前端还进一步显示成弱链接。数据是后来按快照恢复的，但**规则一直没修**：
+           * 今天这轮长尾抓取（522 部）又把它犯了一遍（S 少了 164 部）。
+           *
+           * 正确做法：**主图真换了才改写判据**。判据记的是「这张图的来历」，图没换就没有新来历。
+           */
+          /**
+           * 判据要不要改写，只看**主图那条条目有没有换**：
+           *   · 换了条目 → 判据改成 `editions+works`／`editions+weread`（版本一览里挑的一版）；
+           *   · 没换（还是原来那条）→ **保留原判据**（强链接就是强链接）；
+           *   · 新主图没有条目 id（判不出来）→ 按「换了」处理，宁可少声称。
+           */
+          const primaryChanged = primary.subjectId ? String(primary.subjectId) !== prevSubject : true;
+          if (primaryChanged) {
+            rec.matched = args.source === 'weread' ? 'editions+weread' : 'editions+works';
+          }
           if (primary.file) {
             rec.file = primary.file;
             rec.subjectId = primary.subjectId;

@@ -14,17 +14,19 @@
  *   ④ 跨书同图清理（同一张图不在两部书里各显示一次）
  *   ⑤ 主图换回题名一致的那一版（外文／繁体版不顶掉中文版）
  *   ⑥ 小封面升级（同一张画、CDN 上有更大的才换）
- *   ⑦ 重建前端清单
- *   ⑧ 封面闸门
- *   ⑨ 重复图体检（必须 0 组）
- *   ⑩ 书名取证体检（只报不改）
- *   ⑪ 同条目体检（只报不改）
- *   ⑫ 八道门禁与全部测试
+ *   ⑦ 清理孤儿图（抓取重写版本列表后落选的旧图；闸门对孤儿零容忍）
+ *   ⑧ 重建前端清单
+ *   ⑨ 封面闸门
+ *   ⑩ 重复图体检（必须 0 组）
+ *   ⑪ 书名取证体检（只报不改）
+ *   ⑫ 同条目体检（只报不改）
+ *   ⑬ 八道门禁与全部测试
  *
  * 用法：
- *   npm run covers:finish             全跑（含体检）
- *   npm run covers:finish -- --quick  跳过最后两步里最慢的重复图体检
- *   npm run covers:finish -- --dry    一律干跑（不写任何数据，只看会做什么）
+ *   npm run covers:finish                 全跑（含体检）
+ *   npm run covers:finish -- --quick      跳过最慢的重复图体检（第 ⑩ 步）
+ *   npm run covers:finish -- --dry        一律干跑（不写任何数据，只看会做什么）
+ *   npm run covers:finish -- --no-backfill  豆瓣被限流时跳过第 ① 步，只做本地清理与门禁
  */
 import { spawnSync } from 'node:child_process';
 import path from 'node:path';
@@ -36,21 +38,24 @@ const ROOT = path.resolve(__dirname, '..');
 const argv = process.argv.slice(2);
 const QUICK = argv.includes('--quick');
 const DRY = argv.includes('--dry');
+/** 豆瓣被限流时用得上：跳过第 ① 步（书号补封面要打豆瓣，通不过只会白费请求），只做本地的清理与门禁 */
+const NO_BACKFILL = argv.includes('--no-backfill');
 const applyFlag = DRY ? [] : ['--apply'];
 
 const steps = [
-  ['① 上图查书号 → 豆瓣书号直达', ['scripts/backfill-isbn-covers.mjs', ...applyFlag]],
+  ...(NO_BACKFILL ? [] : [['① 上图查书号 → 豆瓣书号直达', ['scripts/backfill-isbn-covers.mjs', ...applyFlag]]]),
   ['② 结构迁移（补 editions 数组）', ['scripts/fetch-covers.mjs', '--seed-editions']],
   ['③ 版本图判重', ['scripts/dedupe-editions.mjs', ...applyFlag]],
   ['④ 跨书同图清理', ['scripts/dedupe-cross-book.mjs', ...applyFlag]],
   ['⑤ 主图换回题名一致的那一版', ['scripts/promote-matching-edition.mjs', ...applyFlag]],
   ['⑥ 小封面升级', ['scripts/upgrade-small-covers.mjs', ...applyFlag]],
-  ['⑦ 重建前端清单', ['scripts/gen-cover-manifest.mjs']],
-  ['⑧ 封面闸门', ['scripts/check-covers.mjs']],
-  ...(QUICK ? [] : [['⑨ 重复图体检（必须 0 组）', ['scripts/audit-cover-dups.mjs']]]),
-  ['⑩ 书名取证体检（只报不改）', ['scripts/audit-edition-titles.mjs']],
-  ['⑪ 同条目体检（只报不改）', ['scripts/audit-shared-entries.mjs']],
-  ['⑫ 八道门禁与全部测试', ['scripts/build.mjs']],
+  ['⑦ 清理孤儿图（抓取落选的旧版本）', ['scripts/prune-orphan-images.mjs', ...applyFlag]],
+  ['⑧ 重建前端清单', ['scripts/gen-cover-manifest.mjs']],
+  ['⑨ 封面闸门', ['scripts/check-covers.mjs']],
+  ...(QUICK ? [] : [['⑩ 重复图体检（必须 0 组）', ['scripts/audit-cover-dups.mjs']]]),
+  ['⑪ 书名取证体检（只报不改）', ['scripts/audit-edition-titles.mjs']],
+  ['⑫ 同条目体检（只报不改）', ['scripts/audit-shared-entries.mjs']],
+  ['⑬ 八道门禁与全部测试', ['scripts/build.mjs']],
 ];
 
 const C = { reset: '\u001b[0m', bold: '\u001b[1m', dim: '\u001b[2m', green: '\u001b[32m', red: '\u001b[31m' };

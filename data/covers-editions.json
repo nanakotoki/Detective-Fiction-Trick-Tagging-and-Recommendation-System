@@ -2,9 +2,9 @@
  "format": "detective-fiction-cover-editions",
  "version": 1,
  "note": "封面版本一览：每部作品保存了哪几个版本的封面（最多 3 个）、各自的出版年与出版社。file 是 web/covers/ 下的文件名；primary＝外面（书卡与档案页大图）显示的那一张，取最新的一版。这份文件由 scripts/gen-cover-manifest.mjs 生成，档案页按需加载。",
- "generatedAt": "2026-10-04T06:59:58.990Z",
+ "generatedAt": "2026-10-04T08:02:08.652Z",
  "bookCount": 3310,
- "editionCount": 4992,
+ "editionCount": 4869,
  "books": {
   "honkaku-001": [
    {
@@ -207,14 +207,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34673830.jpg"
    },
    {
-    "subjectId": "36841209",
-    "year": "2024-3",
-    "publisher": "prism",
-    "title": "คดีฆาตกรรมในคฤหาสน์เขาวงกต",
-    "file": "honkaku-009-36841209.webp",
+    "subjectId": "23193064",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "谭力",
+    "title": "绫辻行人03：迷宫馆事件",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/4/YueWen_23193064/t3_YueWen_23193064.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/4/YueWen_23193064/t9_YueWen_23193064.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34827204.jpg"
+    "collected": false
    }
   ],
   "honkaku-010": [
@@ -260,16 +263,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35588145.jpg"
-   },
-   {
-    "subjectId": "38196764",
-    "year": "2026-3-26",
-    "publisher": "Pushkin Press",
-    "title": "Murder in the Crooked House",
-    "file": "honkaku-011-38196764.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35371190.jpg"
    }
   ],
   "honkaku-012": [
@@ -282,17 +275,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35452142.jpg"
-   },
-   {
-    "subjectId": "21879585",
-    "year": "2011-2-23",
-    "publisher": "시공사",
-    "translator": "한희선 역",
-    "title": "기발한 발상, 하늘을 움직이다",
-    "file": "honkaku-012-21879585.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s25810274.jpg"
    }
   ],
   "honkaku-013": [
@@ -306,17 +288,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34064596.jpg"
-   },
-   {
-    "subjectId": "34907836",
-    "year": "2020-2",
-    "publisher": "新星出版社",
-    "translator": "警部殿",
-    "title": "生尸之死",
-    "file": "honkaku-013-34907836.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33594789.jpg"
    }
   ],
   "honkaku-014": [
@@ -332,14 +303,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s2930352.jpg"
    },
    {
-    "subjectId": "26718830",
-    "year": "2015-12-15",
-    "publisher": "講談社",
-    "title": "新装版 匣の中の失楽",
-    "file": "honkaku-014-26718830.webp",
+    "subjectId": "24139752",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "陈涤",
+    "title": "匣中失乐",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/752/24139752/t3_24139752.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/752/24139752/t9_24139752.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28393948.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-001": [
@@ -493,16 +467,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35044518.jpg"
-   },
-   {
-    "subjectId": "35168076",
-    "year": "2020-1-10",
-    "publisher": "Hồng Đức &amp; IPM",
-    "title": "Thời kế quán",
-    "file": "shinhonkaku-005-35168076.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33699736.jpg"
    }
   ],
   "shinhonkaku-006": [
@@ -516,17 +480,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33947872.jpg"
-   },
-   {
-    "subjectId": "35888591",
-    "year": "2022-7-2",
-    "publisher": "獨步文化",
-    "translator": "王華懋",
-    "title": "如無頭作祟之物",
-    "file": "shinhonkaku-006-35888591.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s34261081.jpg"
    }
   ],
   "shinhonkaku-007": [
@@ -610,15 +563,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35081040.jpg"
    },
    {
-    "subjectId": "27039311",
-    "year": "2017-6-15",
-    "publisher": "瑞昇文化",
-    "translator": "緋華璃",
-    "title": "有翼之闇 麥卡托鮎最後的事件",
-    "file": "shinhonkaku-009-27039311.webp",
+    "subjectId": "3300138242",
+    "year": "",
+    "publisher": "新星出版",
+    "translator": "张舟",
+    "title": "有翼之暗（全新修订版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_1m6yrduzpyjigvo3jff3k7/t3_cpplatform_1m6yrduzpyjigvo3jff3k71745308543.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_1m6yrduzpyjigvo3jff3k7/t9_cpplatform_1m6yrduzpyjigvo3jff3k71745308543.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32320340.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-010": [
@@ -634,15 +589,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34949800.jpg"
    },
    {
-    "subjectId": "30313818",
-    "year": "2018-11-22",
-    "publisher": "新雨",
-    "translator": "邱香凝",
-    "title": "獨眼少女",
-    "file": "shinhonkaku-010-30313818.webp",
+    "subjectId": "3300121979",
+    "year": "",
+    "publisher": "",
+    "translator": "张舟",
+    "title": "独眼少女（新版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_53qnsusp7dl6snav2ysnca/t3_cpplatform_53qnsusp7dl6snav2ysnca1732177575.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_53qnsusp7dl6snav2ysnca/t9_cpplatform_53qnsusp7dl6snav2ysnca1732177575.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s29921061.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-011": [
@@ -657,15 +614,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33797443.jpg"
    },
    {
-    "subjectId": "7007236",
-    "year": "2011-12-7",
-    "publisher": "独步文化",
-    "translator": "李彥樺",
-    "title": "倒錯迴旋曲",
-    "file": "shinhonkaku-011-7007236.webp",
+    "subjectId": "3002165672",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "倒错的轮舞",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/672/3002165672.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/672/3002165672.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s7008259.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-012": [
@@ -680,15 +638,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34236688.jpg"
    },
    {
-    "subjectId": "3744289",
-    "year": "2009-6-5",
-    "publisher": "獨步文化",
-    "translator": "吳得智",
-    "title": "異人們的館",
-    "file": "shinhonkaku-012-3744289.webp",
+    "subjectId": "3001007335",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "异人们的馆",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/335/3001007335.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/335/3001007335.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s3803489.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-013": [
@@ -704,15 +663,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34343448.jpg"
    },
    {
-    "subjectId": "36059289",
-    "year": "2022-10",
-    "publisher": "臉譜",
-    "translator": "張秋明",
-    "title": "模仿犯 上卷：事件之卷",
-    "file": "shinhonkaku-013-36059289.webp",
+    "subjectId": "3300024199",
+    "year": "",
+    "publisher": "",
+    "translator": "张秋明",
+    "title": "模仿犯（吴慷仁主演同名电视剧原著）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/99/3300024199/t3_3300024199.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/99/3300024199/t9_3300024199.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34315446.jpg"
+    "collected": false
    }
   ],
   "shinhonkaku-014": [
@@ -869,16 +830,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35190753.jpg"
-   },
-   {
-    "subjectId": "37422773",
-    "year": "2025-9-25",
-    "publisher": "HarperCollins",
-    "title": "Agatha Christie’s Styles: Hercule Poirot’s First and Last Cases",
-    "file": "western-004-37422773.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35196454.jpg"
    }
   ],
   "western-005": [
@@ -892,17 +843,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34881742.jpg"
-   },
-   {
-    "subjectId": "34441047",
-    "year": "2018-5",
-    "publisher": "新星出版社",
-    "translator": "王敬之",
-    "title": "希腊棺材之谜",
-    "file": "western-005-34441047.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33629140.jpg"
    }
   ],
   "western-006": [
@@ -983,17 +923,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35033569.jpg"
-   },
-   {
-    "subjectId": "36937103",
-    "year": "2024-7",
-    "publisher": "新星出版社",
-    "translator": "辛可加",
-    "title": "三口棺材",
-    "file": "western-008-36937103.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34918735.jpg"
    }
   ],
   "western-009": [
@@ -1009,14 +938,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26816852.jpg"
    },
    {
-    "subjectId": "37325446",
-    "year": "2025-7-10",
-    "publisher": "British Library Publishing",
-    "title": "The Judas Window",
-    "file": "western-009-37325446.webp",
+    "subjectId": "25566784",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "蔡妙",
+    "title": "犹大之窗",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/25/YueWen_25566784/t3_YueWen_25566784.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/25/YueWen_25566784/t9_YueWen_25566784.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35468205.jpg"
+    "collected": false
    }
   ],
   "western-010": [
@@ -1053,6 +985,18 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s8912737.jpg"
+   },
+   {
+    "subjectId": "3002166580",
+    "year": "",
+    "publisher": "企业管理出版社",
+    "title": "斑点带子案：工程师大拇指案",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/580/3002166580.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/580/3002166580.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "western-012": [
@@ -1172,17 +1116,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33487564.jpg"
-   },
-   {
-    "subjectId": "24844043",
-    "year": "2013-9",
-    "publisher": "南海出版公司",
-    "translator": "贾黎黎",
-    "title": "零的焦点",
-    "file": "social-003-24844043.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s26934128.jpg"
    }
   ],
   "social-005": [
@@ -1522,15 +1455,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34556829.jpg"
    },
    {
-    "subjectId": "27146503",
-    "year": "2016-9-20",
-    "publisher": "AmazonCrossing",
-    "translator": "Michelle Deeter",
-    "title": "The Untouched Crime",
-    "file": "chinese-003-27146503.webp",
+    "subjectId": "340459",
+    "year": "",
+    "publisher": "湖南文艺出版社",
+    "title": "无证之罪（秦昊、邓家佳主演同名电视剧原著）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/49/yuewen_340459/t3_yuewen_3404591687677033.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/49/yuewen_340459/t9_yuewen_3404591687677033.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29550665.jpg"
+    "collected": false
    }
   ],
   "chinese-004": [
@@ -1756,14 +1690,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34063131.jpg"
    },
    {
-    "subjectId": "35963487",
-    "year": "2022-6-6",
-    "publisher": "",
-    "title": "Hình Cảnh Mất Trí",
-    "file": "chinese-011-35963487.webp",
+    "subjectId": "27216026",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "遗忘，刑警",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/74/YueWen_27216026/t3_YueWen_27216026.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/74/YueWen_27216026/t9_YueWen_27216026.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34255998.jpg"
+    "collected": false
    }
   ],
   "chinese-012": [
@@ -1777,17 +1713,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34423081.jpg"
-   },
-   {
-    "subjectId": "25985935",
-    "year": "2014-10-25",
-    "publisher": "臉譜",
-    "translator": "張秋明",
-    "title": "火車",
-    "file": "chinese-012-25985935.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27666332.jpg"
    }
   ],
   "modern-001": [
@@ -1834,17 +1759,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35191529.jpg"
-   },
-   {
-    "subjectId": "36533059",
-    "year": "2023-8-30",
-    "publisher": "열린책들",
-    "translator": "열린책들",
-    "title": "중요한 건 살인",
-    "file": "modern-002-36533059.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s34628681.jpg"
    }
   ],
   "modern-003": [
@@ -1894,14 +1808,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26835918.jpg"
    },
    {
-    "subjectId": "38394152",
-    "year": "2025-11",
-    "publisher": "",
-    "title": "The Burning Court",
-    "file": "modern-004-38394152.webp",
+    "subjectId": "3300012320",
+    "year": "",
+    "publisher": "外语教学与研究出版社",
+    "title": "燃烧的法庭",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/20/3300012320/t3_3300012320.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/20/3300012320/t9_3300012320.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35443794.jpg"
+    "collected": false
    }
   ],
   "modern-005": [
@@ -2102,17 +2018,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34604943.jpg"
-   },
-   {
-    "subjectId": "34822921",
-    "year": "2015",
-    "publisher": "DEBOLSILLO",
-    "translator": "Óscar Palmer",
-    "title": "Perdida",
-    "file": "modern-012-34822921.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33475884.jpg"
    }
   ],
   "honkaku2-003": [
@@ -2162,14 +2067,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34155048.jpg"
    },
    {
-    "subjectId": "37027180",
-    "year": "2024-8",
-    "publisher": "prism",
-    "title": "คืนฆ่าลักพาตัว",
-    "file": "honkaku2-004-37027180.webp",
+    "subjectId": "3000095021",
+    "year": "",
+    "publisher": "",
+    "title": "一的悲剧",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/21/3000095021.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/21/3000095021.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34949994.jpg"
+    "collected": false
    }
   ],
   "honkaku2-005": [
@@ -2184,14 +2091,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34999459.jpg"
    },
    {
-    "subjectId": "35319457",
-    "year": "2020-6",
-    "publisher": "IPM &amp; NXB Hà Nội",
-    "title": "Dã Thú Đô Thành",
-    "file": "honkaku2-005-35319457.webp",
+    "subjectId": "3000002047",
+    "year": "",
+    "publisher": "",
+    "title": "杀戮之病",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/47/3000002047.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/47/3000002047.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33797519.jpg"
+    "collected": false
    }
   ],
   "honkaku2-006": [
@@ -2276,14 +2185,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s4444887.jpg"
    },
    {
-    "subjectId": "36158969",
-    "year": "2022-9-30",
-    "publisher": "엘릭시르",
-    "title": "인사이트 밀",
-    "file": "honkaku2-009-36158969.webp",
+    "subjectId": "3300019882",
+    "year": "",
+    "publisher": "人民文学出版社",
+    "title": "米泽穗信精选集：算计",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/82/3300019882/t3_3300019882.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/82/3300019882/t9_3300019882.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34354572.jpg"
+    "collected": false
    }
   ],
   "honkaku2-010": [
@@ -2321,17 +2232,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34657465.jpg"
-   },
-   {
-    "subjectId": "5315344",
-    "year": "2011-1",
-    "publisher": "Kodansha USA",
-    "translator": "Stephen Snyder",
-    "title": "Remote Control",
-    "file": "honkaku2-011-5315344.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35545466.jpg"
    }
   ],
   "honkaku2-012": [
@@ -2446,16 +2346,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35294501.jpg"
-   },
-   {
-    "subjectId": "35325702",
-    "year": "2021-1-18",
-    "publisher": "NXB THẾ GIỚI",
-    "title": "Án Mạng Trong Phòng Thể Chất",
-    "file": "honkaku2-015-35325702.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33802179.jpg"
    }
   ],
   "honkaku2-016": [
@@ -2471,14 +2361,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s27022210.jpg"
    },
    {
-    "subjectId": "26365121",
-    "year": "2014-10-28",
-    "publisher": "Yen On",
-    "title": "Another",
-    "file": "honkaku2-016-26365121.webp",
+    "subjectId": "3300063002",
+    "year": "",
+    "publisher": "人民文学出版社",
+    "translator": "成洁",
+    "title": "替身（绫辻行人作品）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/71/cpplatform_8ztcjmmqr5avfwh8yaatj2/t3_cpplatform_8ztcjmmqr5avfwh8yaatj21688105930.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/71/cpplatform_8ztcjmmqr5avfwh8yaatj2/t9_cpplatform_8ztcjmmqr5avfwh8yaatj21688105930.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28047087.jpg"
+    "collected": false
    }
   ],
   "honkaku2-017": [
@@ -2630,16 +2523,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34672133.jpg"
-   },
-   {
-    "subjectId": "6932746",
-    "year": "2012-3",
-    "publisher": "",
-    "title": "Death Comes as the End",
-    "file": "western2-004-6932746.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s7066251.jpg"
    }
   ],
   "western2-005": [
@@ -2721,14 +2604,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s9093056.jpg"
    },
    {
-    "subjectId": "36318492",
-    "year": "2023-3-10",
-    "publisher": "British Library Publishing",
-    "title": "The Black Spectacles",
-    "file": "western2-007-36318492.webp",
+    "subjectId": "3300012332",
+    "year": "",
+    "publisher": "外语教学与研究出版社",
+    "title": "绿胶囊之谜",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/32/3300012332/t3_3300012332.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/32/3300012332/t9_3300012332.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34472042.jpg"
+    "collected": false
    }
   ],
   "western2-008": [
@@ -2845,16 +2730,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s31700309.jpg"
-   },
-   {
-    "subjectId": "26813854",
-    "year": "2013-3-23",
-    "publisher": "角川書店(角川グループパブリッシング)",
-    "title": "オランダ靴の秘密",
-    "file": "western2-012-26813854.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28797212.jpg"
    }
   ],
   "western2-013": [
@@ -2870,15 +2745,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s6860063.jpg"
    },
    {
-    "subjectId": "35283106",
-    "year": "2021-2-18",
-    "publisher": "早川書房",
-    "translator": "越前敏弥",
-    "title": "十日間の不思議",
-    "file": "western2-013-35283106.webp",
+    "subjectId": "3000031362",
+    "year": "",
+    "publisher": "",
+    "title": "十日惊奇",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/362/3000031362.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/362/3000031362.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33827650.jpg"
+    "collected": false
    }
   ],
   "western2-014": [
@@ -2894,15 +2770,17 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s6916341.jpg"
    },
    {
-    "subjectId": "3429587",
-    "year": "2009-1",
-    "publisher": "群众出版社",
-    "translator": "张莉",
-    "title": "贝娄娜凶杀案",
-    "file": "western2-014-3429587.webp",
+    "subjectId": "24139872",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "陈世颐",
+    "title": "贝罗那俱乐部的不快事件（典藏版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/78/YueWen_24139872/t3_YueWen_24139872.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/78/YueWen_24139872/t9_YueWen_24139872.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s3561726.jpg"
+    "collected": false
    }
   ],
   "western2-015": [
@@ -2917,15 +2795,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35021754.jpg"
    },
    {
-    "subjectId": "26824363",
-    "year": "2017-1-1",
-    "publisher": "现代出版社",
-    "translator": "苏伊达",
-    "title": "博莱特·法拉",
-    "file": "western2-015-26824363.webp",
+    "subjectId": "34166271",
+    "year": "",
+    "publisher": "北方文艺出版社",
+    "translator": "徐秋华",
+    "title": "博来·法拉先生",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/271/34166271/t3_34166271.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/271/34166271/t9_34166271.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29235354.jpg"
+    "collected": false
    }
   ],
   "western2-016": [
@@ -2964,15 +2844,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35645509.jpg"
    },
    {
-    "subjectId": "4071541",
-    "year": "2014-8",
-    "publisher": "武汉大学出版社",
-    "translator": "张丽娟",
-    "title": "菲洛·万斯探案集4",
-    "file": "western2-017-4071541.webp",
+    "subjectId": "3300145209",
+    "year": "",
+    "publisher": "",
+    "title": "主教杀人事件",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/35/cpplatform_6qsi3c1iahabs7heymgosy/t3_cpplatform_6qsi3c1iahabs7heymgosy1747816019.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/35/cpplatform_6qsi3c1iahabs7heymgosy/t9_cpplatform_6qsi3c1iahabs7heymgosy1747816019.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29703876.jpg"
+    "collected": false
    }
   ],
   "western2-018": [
@@ -3190,16 +3071,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35582228.jpg"
-   },
-   {
-    "subjectId": "36405077",
-    "year": "2022",
-    "publisher": "Hồng Đức",
-    "title": "Núi Chuột Quét",
-    "file": "social2-007-36405077.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34528990.jpg"
    }
   ],
   "social2-008": [
@@ -3260,15 +3131,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26810193.jpg"
    },
    {
-    "subjectId": "35606848",
-    "year": "2021-10-30",
-    "publisher": "春天",
-    "translator": "王蘊潔",
-    "title": "半自白",
-    "file": "social2-010-35606848.webp",
+    "subjectId": "3300041806",
+    "year": "",
+    "publisher": "百花文艺出版社",
+    "title": "半落",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/9/cpPlatform_hQbN9E72EE4z8kSvwt7jDn/t3_cpPlatform_hQbN9E72EE4z8kSvwt7jDn.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/9/cpPlatform_hQbN9E72EE4z8kSvwt7jDn/t9_cpPlatform_hQbN9E72EE4z8kSvwt7jDn.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34021568.jpg"
+    "collected": false
    }
   ],
   "social2-012": [
@@ -3318,15 +3190,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33803074.jpg"
    },
    {
-    "subjectId": "26310520",
-    "year": "2015-3-3",
-    "publisher": "麥田出版公司",
-    "translator": "劉子倩",
-    "title": "異常",
-    "file": "social2-013-26310520.webp",
+    "subjectId": "3000005474",
+    "year": "",
+    "publisher": "",
+    "title": "异常",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/474/3000005474.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/474/3000005474.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s28006675.jpg"
+    "collected": false
    }
   ],
   "social2-014": [
@@ -3486,16 +3359,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35417472.jpg"
-   },
-   {
-    "subjectId": "30941122",
-    "year": "2018",
-    "publisher": "Collins",
-    "title": "The Body in the Library",
-    "file": "golden-002-30941122.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s30076485.jpg"
    }
   ],
   "golden-003": [
@@ -3509,16 +3372,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35192321.jpg"
-   },
-   {
-    "subjectId": "37073824",
-    "year": "2022",
-    "publisher": "HarperCollins Publishers",
-    "title": "Sleeping murder",
-    "file": "golden-003-37073824.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34978619.jpg"
    }
   ],
   "golden-004": [
@@ -3670,14 +3523,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34807356.jpg"
    },
    {
-    "subjectId": "36504567",
-    "year": "2023-8-24",
-    "publisher": "早川書房",
-    "title": "ハロウィーン・パーティ",
-    "file": "golden-008-36504567.webp",
+    "subjectId": "852653",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "王若非,陈喆",
+    "title": "万圣节前夜的谋杀：杨紫琼主演电影《威尼斯惊魂夜》原著",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/3/yuewen_852653/t3_yuewen_8526531693465129.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/3/yuewen_852653/t9_yuewen_8526531693465129.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34607965.jpg"
+    "collected": false
    }
   ],
   "golden-009": [
@@ -3693,15 +3549,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s30302871.jpg"
    },
    {
-    "subjectId": "24851566",
-    "year": "2013-8-1",
-    "publisher": "化学工业出版社",
-    "translator": "陆叶文",
-    "title": "凶镇",
-    "file": "golden-009-24851566.webp",
+    "subjectId": "3000254375",
+    "year": "",
+    "publisher": "",
+    "title": "灾难之城",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/375/3000254375.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/375/3000254375.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s26938749.jpg"
+    "collected": false
    }
   ],
   "golden-010": [
@@ -3764,14 +3621,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s9095129.jpg"
    },
    {
-    "subjectId": "37192020",
-    "year": "2023-8-10",
-    "publisher": "British Library Publishing",
-    "title": "He Who Whispers",
-    "file": "golden-012-37192020.webp",
+    "subjectId": "40951760",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "由美",
+    "title": "耳语之人",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/760/40951760/t3_40951760.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/760/40951760/t9_40951760.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35266720.jpg"
+    "collected": false
    }
   ],
   "golden-014": [
@@ -3910,16 +3770,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33621779.jpg"
-   },
-   {
-    "subjectId": "6829536",
-    "year": "2011-10-15",
-    "publisher": "文藝春秋",
-    "title": "春から夏、やがて冬",
-    "file": "midjp100-001-6829536.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s6956144.jpg"
    }
   ],
   "midjp100-002": [
@@ -3934,15 +3784,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35128276.jpg"
    },
    {
-    "subjectId": "35701058",
-    "year": "2022-3",
-    "publisher": "獨步文化",
-    "translator": "王華懋",
-    "title": "貪婪之羊",
-    "file": "midjp100-002-35701058.webp",
+    "subjectId": "3300078951",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "罗亚星",
+    "title": "贪婪之羊",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/85/cpplatform_tw4wasoauuqob8swqk1jod/t3_cpplatform_tw4wasoauuqob8swqk1jod1700553961.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/85/cpplatform_tw4wasoauuqob8swqk1jod/t9_cpplatform_tw4wasoauuqob8swqk1jod1700553961.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34139797.jpg"
+    "collected": false
    }
   ],
   "midjp100-003": [
@@ -3956,16 +3808,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35060455.jpg"
-   },
-   {
-    "subjectId": "36288496",
-    "year": "2023-4-19",
-    "publisher": "東京創元社",
-    "title": "刀と傘",
-    "file": "midjp100-003-36288496.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34495187.jpg"
    }
   ],
   "midjp100-004": [
@@ -3979,16 +3821,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34790116.jpg"
-   },
-   {
-    "subjectId": "35710834",
-    "year": "2022-2-19",
-    "publisher": "東京創元社",
-    "title": "ダミー・プロット",
-    "file": "midjp100-004-35710834.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34123205.jpg"
    }
   ],
   "midjp100-005": [
@@ -4034,16 +3866,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35048521.jpg"
-   },
-   {
-    "subjectId": "35291255",
-    "year": "2021-2-16",
-    "publisher": "講談社",
-    "title": "蒼海館の殺人",
-    "file": "midjp100-006-35291255.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33787252.jpg"
    }
   ],
   "midjp100-007": [
@@ -4092,14 +3914,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35185303.jpg"
    },
    {
-    "subjectId": "37333580",
-    "year": "2025-6-11",
-    "publisher": "光文社",
-    "title": "アミュレット・ホテル",
-    "file": "midjp100-008-37333580.webp",
+    "subjectId": "3300129012",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "吕灵芝",
+    "title": "阿缪莱特酒店谋杀案",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/73/cpplatform_dw5z1kuejphfg1gg5w2q34/t3_cpplatform_dw5z1kuejphfg1gg5w2q341735880000.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/73/cpplatform_dw5z1kuejphfg1gg5w2q34/t9_cpplatform_dw5z1kuejphfg1gg5w2q341735880000.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35167633.jpg"
+    "collected": false
    }
   ],
   "midjp100-009": [
@@ -4312,16 +4137,6 @@
     "file": "midjp100-015.webp",
     "primary": true,
     "collected": false
-   },
-   {
-    "subjectId": "6857266",
-    "year": "1995-4",
-    "publisher": "東京創元社",
-    "title": "肖像画",
-    "file": "midjp100-015-6857266.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s6946474.jpg"
    }
   ],
   "midjp100-016": [
@@ -4369,17 +4184,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34835622.jpg"
-   },
-   {
-    "subjectId": "33378153",
-    "year": "2019-6",
-    "publisher": "中国法制出版社",
-    "translator": "阮航",
-    "title": "追捕",
-    "file": "midjp100-017-33378153.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33488029.jpg"
    }
   ],
   "midjp100-018": [
@@ -4429,14 +4233,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35229177.jpg"
    },
    {
-    "subjectId": "36218459",
-    "year": "2023-2-15",
-    "publisher": "ポプラ社",
-    "title": "大雑把かつあやふやな怪盗の予告状",
-    "file": "midjp100-019-36218459.webp",
+    "subjectId": "3300165251",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "白夜",
+    "title": "粗糙且含糊不清的怪盗预告信：警察厅特案专职搜查",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/50/cpplatform_k4dmjanuyarzenfenbsjos/t3_cpplatform_k4dmjanuyarzenfenbsjos1758183490.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/50/cpplatform_k4dmjanuyarzenfenbsjos/t9_cpplatform_k4dmjanuyarzenfenbsjos1758183490.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34407028.jpg"
+    "collected": false
    }
   ],
   "midjp100-020": [
@@ -4482,17 +4289,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33733697.jpg"
-   },
-   {
-    "subjectId": "2005826",
-    "year": "2007-4-16",
-    "publisher": "獨步文化",
-    "translator": "王蘊潔",
-    "title": "謹告犯人",
-    "file": "midjp100-021-2005826.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s2339886.jpg"
    }
   ],
   "midjp100-022": [
@@ -4606,16 +4402,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35569191.jpg"
-   },
-   {
-    "subjectId": "36439889",
-    "year": "2023-8-17",
-    "publisher": "早川書房",
-    "title": "焔と雪",
-    "file": "midjp100-025-36439889.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34605124.jpg"
    }
   ],
   "midjp100-026": [
@@ -4699,14 +4485,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s27167896.jpg"
    },
    {
-    "subjectId": "4838113",
-    "year": "2010-5",
-    "publisher": "文藝春秋",
-    "title": "桃色東京塔",
-    "file": "midjp100-028-4838113.webp",
+    "subjectId": "3000272622",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "午夜文库:桃色东京塔",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/622/3000272622.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/622/3000272622.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27223348.jpg"
+    "collected": false
    }
   ],
   "midjp100-029": [
@@ -4720,16 +4508,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s11158531.jpg"
-   },
-   {
-    "subjectId": "11502944",
-    "year": "2007-5",
-    "publisher": "文藝春秋",
-    "title": "夜想",
-    "file": "midjp100-029-11502944.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11090682.jpg"
    }
   ],
   "opac101-001": [
@@ -4776,17 +4554,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35160146.jpg"
-   },
-   {
-    "subjectId": "37172220",
-    "year": "2025-3-5",
-    "publisher": "瑞昇文化",
-    "translator": "緋華璃",
-    "title": "行走的亡者",
-    "file": "opac101-002-37172220.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35080513.jpg"
    }
   ],
   "opac101-003": [
@@ -4800,16 +4567,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35270562.jpg"
-   },
-   {
-    "subjectId": "11498250",
-    "year": "2012-5-15",
-    "publisher": "講談社",
-    "title": "密室の如き籠るもの",
-    "file": "opac101-003-11498250.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s10912530.jpg"
    }
   ],
   "opac101-004": [
@@ -4835,17 +4592,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35312207.jpg"
-   },
-   {
-    "subjectId": "37293586",
-    "year": "2025-5-29",
-    "publisher": "独步文化",
-    "translator": "詹慕如",
-    "title": "明智恭介的奔走",
-    "file": "opac101-005-37293586.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35167609.jpg"
    }
   ],
   "opac101-006": [
@@ -4860,15 +4606,17 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s33460781.jpg"
    },
    {
-    "subjectId": "36222768",
-    "year": "2022-12-2",
-    "publisher": "LANOVEL EDITION",
-    "translator": "Aurélien Piovan",
-    "title": "CRIMINELLE IA",
-    "file": "opac101-006-36222768.webp",
+    "subjectId": "35564876",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "王皎娇",
+    "title": "犯人IA",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/876/35564876/t3_35564876.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/876/35564876/t9_35564876.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34397544.jpg"
+    "collected": false
    }
   ],
   "opac101-007": [
@@ -4915,17 +4663,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34400728.jpg"
-   },
-   {
-    "subjectId": "35795996",
-    "year": "2022-6-1",
-    "publisher": "尖端",
-    "translator": "洪于琇",
-    "title": "偵探不在之處即樂園",
-    "file": "opac101-008-35795996.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34236482.jpg"
    }
   ],
   "opac101-009": [
@@ -4975,14 +4712,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35397509.jpg"
    },
    {
-    "subjectId": "37224347",
-    "year": "2025-3-12",
-    "publisher": "光文社",
-    "title": "入れ子細工の夜",
-    "file": "opac101-011-37224347.webp",
+    "subjectId": "3300192760",
+    "year": "",
+    "publisher": "北京联合出版公司",
+    "translator": "钱剑锋",
+    "title": "套娃之夜",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/7/cpplatform_q3sh2mwefohyy9stvverqy/t3_cpplatform_q3sh2mwefohyy9stvverqy1768894560.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/7/cpplatform_q3sh2mwefohyy9stvverqy/t9_cpplatform_q3sh2mwefohyy9stvverqy1768894560.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35093014.jpg"
+    "collected": false
    }
   ],
   "opac101-012": [
@@ -5095,16 +4835,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35218982.jpg"
-   },
-   {
-    "subjectId": "36780353",
-    "year": "2024-2",
-    "publisher": "น้ำพุ, สนพ.",
-    "title": "คำสาปเทพสายฟ้า",
-    "file": "opac102-002-36780353.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s34790591.jpg"
    }
   ],
   "opac102-004": [
@@ -5118,16 +4848,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34771496.jpg"
-   },
-   {
-    "subjectId": "35862863",
-    "year": "2022-4-12",
-    "publisher": "",
-    "title": "수상한 중고상점",
-    "file": "opac102-004-35862863.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34192754.jpg"
    }
   ],
   "opac102-005": [
@@ -5141,17 +4861,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35270540.jpg"
-   },
-   {
-    "subjectId": "26855899",
-    "year": "2016-8-22",
-    "publisher": "한스미디어",
-    "translator": "김은모",
-    "title": "춤추는 조커",
-    "file": "opac102-005-26855899.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29326077.jpg"
    }
   ],
   "opac102-006": [
@@ -5232,16 +4941,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34899620.jpg"
-   },
-   {
-    "subjectId": "36769242",
-    "year": "2024-2-14",
-    "publisher": "블루홀식스",
-    "title": "특수청소부",
-    "file": "opac102-008-36769242.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34783095.jpg"
    }
   ],
   "opac102-009": [
@@ -5257,14 +4956,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34126979.jpg"
    },
    {
-    "subjectId": "36971613",
-    "year": "2024-8-5",
-    "publisher": "宝島社",
-    "title": "境界線",
-    "file": "opac102-009-36971613.webp",
+    "subjectId": "3300074926",
+    "year": "",
+    "publisher": "台海出版社",
+    "title": "界线游戏",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/55/cpplatform_dosx4vaaambxzrc5di49ay/t3_cpplatform_dosx4vaaambxzrc5di49ay1697534084.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/55/cpplatform_dosx4vaaambxzrc5di49ay/t9_cpplatform_dosx4vaaambxzrc5di49ay1697534084.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34912300.jpg"
+    "collected": false
    }
   ],
   "opac102-010": [
@@ -5279,14 +4980,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35458189.jpg"
    },
    {
-    "subjectId": "35469606",
-    "year": "2021-7-21",
-    "publisher": "宝島社",
-    "title": "護られなかった者たちへ",
-    "file": "opac102-010-35469606.webp",
+    "subjectId": "3300070845",
+    "year": "",
+    "publisher": "台海出版公司",
+    "title": "那些得不到保护的人",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_uhhezwpsnjhm12knn4dx5d/t3_cpplatform_uhhezwpsnjhm12knn4dx5d1694400223.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_uhhezwpsnjhm12knn4dx5d/t9_cpplatform_uhhezwpsnjhm12knn4dx5d1694400223.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33952332.jpg"
+    "collected": false
    }
   ],
   "opac102-011": [
@@ -5401,16 +5104,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34202469.jpg"
-   },
-   {
-    "subjectId": "6519954",
-    "year": "2011-6-10",
-    "publisher": "文藝春秋",
-    "title": "火村英生に捧げる犯罪",
-    "file": "opac102-014-6519954.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s6491009.jpg"
    }
   ],
   "opac102-015": [
@@ -5424,16 +5117,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34204966.jpg"
-   },
-   {
-    "subjectId": "26768468",
-    "year": "2016-1-4",
-    "publisher": "文藝春秋",
-    "title": "菩提樹荘の殺人",
-    "file": "opac102-015-26768468.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s28611151.jpg"
    }
   ],
   "opac102-016": [
@@ -5514,16 +5197,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28275108.jpg"
-   },
-   {
-    "subjectId": "3025805",
-    "year": "2008-3-14",
-    "publisher": "講談社",
-    "title": "モロッコ水晶の謎",
-    "file": "opac102-018-3025805.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s2989031.jpg"
    }
   ],
   "opac102-019": [
@@ -5536,17 +5209,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34572831.jpg"
-   },
-   {
-    "subjectId": "25739111",
-    "year": "2013-10-29",
-    "publisher": "獨步文化",
-    "translator": "陳嫺若",
-    "title": "沉船的王妃",
-    "file": "opac102-019-25739111.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s27093261.jpg"
    }
   ],
   "opac103-001": [
@@ -5627,16 +5289,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33734384.jpg"
-   },
-   {
-    "subjectId": "27050910",
-    "year": "2016-8-3",
-    "publisher": "実業之日本社",
-    "title": "顔のない肖像画",
-    "file": "opac103-003-27050910.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29457014.jpg"
    }
   ],
   "opac103-004": [
@@ -5683,16 +5335,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s28222656.jpg"
-   },
-   {
-    "subjectId": "5314824",
-    "year": "2010",
-    "publisher": "光文社",
-    "title": "人形が死んだ夜",
-    "file": "opac103-006-5314824.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4497790.jpg"
    }
   ],
   "opac103-007": [
@@ -5777,15 +5419,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s28290185.jpg"
    },
    {
-    "subjectId": "33405942",
-    "year": "2007-3-18",
-    "publisher": "獨步文化",
-    "translator": "婁美蓮",
-    "title": "米樂的囚犯（改版）",
-    "file": "opac103-009-33405942.webp",
+    "subjectId": "3002166858",
+    "year": "",
+    "publisher": "吉林出版集团有限责任公司",
+    "title": "米乐的囚犯",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/858/3002166858.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/858/3002166858.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32288928.jpg"
+    "collected": false
    }
   ],
   "opac103-010": [
@@ -5801,15 +5444,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26377887.jpg"
    },
    {
-    "subjectId": "3984960",
-    "year": "2006-12",
-    "publisher": "獨步文化",
-    "translator": "王華懋",
+    "subjectId": "3000124513",
+    "year": "",
+    "publisher": "",
     "title": "天狗面具",
-    "file": "opac103-010-3984960.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/513/3000124513.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/513/3000124513.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32288929.jpg"
+    "collected": false
    }
   ],
   "opac103-011": [
@@ -5859,14 +5503,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s25808393.jpg"
    },
    {
-    "subjectId": "4285223",
-    "year": "2006",
-    "publisher": "獨步文化",
-    "title": "不安的初啼（改版）",
-    "file": "opac103-012-4285223.webp",
+    "subjectId": "3000987355",
+    "year": "",
+    "publisher": "吉林出版集团有限责任公司",
+    "title": "不安的初啼",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/355/3000987355.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/355/3000987355.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4172152.jpg"
+    "collected": false
    }
   ],
   "opac104-001": [
@@ -5882,14 +5528,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33868022.jpg"
    },
    {
-    "subjectId": "37294145",
-    "year": "2025-3-28",
-    "publisher": "엘릭시르",
-    "title": "부러진 용골",
-    "file": "opac104-001-37294145.webp",
+    "subjectId": "3300028046",
+    "year": "",
+    "publisher": "现代出版社",
+    "translator": "黄晶晶",
+    "title": "折断的龙骨（全2册）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/74/cpPlatform_vVuSQgDS4JCVBhFyDGc2qe/t3_cpPlatform_vVuSQgDS4JCVBhFyDGc2qe.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/74/cpPlatform_vVuSQgDS4JCVBhFyDGc2qe/t9_cpPlatform_vVuSQgDS4JCVBhFyDGc2qe.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35115136.jpg"
+    "collected": false
    }
   ],
   "opac104-002": [
@@ -5902,17 +5551,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33296832.jpg"
-   },
-   {
-    "subjectId": "27602581",
-    "year": "2018-1-30",
-    "publisher": "獨步文化",
-    "translator": "Rappa",
-    "title": "遲來的羽翼",
-    "file": "opac104-002-27602581.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29688694.jpg"
    }
   ],
   "opac104-003": [
@@ -6109,17 +5747,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34097659.jpg"
-   },
-   {
-    "subjectId": "2030565",
-    "year": "2007",
-    "publisher": "獨步文化",
-    "translator": "劉姿君",
-    "title": "少年島崎不思議事件簿",
-    "file": "opac105-001-2030565.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s2339888.jpg"
    }
   ],
   "opac105-002": [
@@ -6133,17 +5760,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33472034.jpg"
-   },
-   {
-    "subjectId": "1950645",
-    "year": "2007-1-11",
-    "publisher": "獨步文化",
-    "translator": "茂呂美耶",
-    "title": "幻色江戶曆",
-    "file": "opac105-002-1950645.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s1984060.jpg"
    }
   ],
   "opac105-003": [
@@ -6194,15 +5810,17 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34587771.jpg"
    },
    {
-    "subjectId": "26348261",
-    "year": "2015-5-28",
-    "publisher": "獨步文化",
-    "translator": "王華懋",
-    "title": "聖彼得的送葬隊伍 上",
-    "file": "opac105-004-26348261.webp",
+    "subjectId": "33436926",
+    "year": "",
+    "publisher": "北京联合出版公司",
+    "translator": "王华懋",
+    "title": "圣彼得的葬礼",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/926/33436926/t3_33436926.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/926/33436926/t9_33436926.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33521673.jpg"
+    "collected": false
    }
   ],
   "opac105-005": [
@@ -6275,14 +5893,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35435495.jpg"
    },
    {
-    "subjectId": "37071829",
-    "year": "2024-10",
-    "publisher": "PW waneko",
-    "title": "Prześladowcy",
-    "file": "opac105-007-37071829.webp",
+    "subjectId": "3300077660",
+    "year": "",
+    "publisher": "四川文艺出版社、台海出版社",
+    "translator": "王星星；姚奕崴；李雨萍",
+    "title": "日本畅销悬疑小说作品集（套装共3册）（六个说谎的大学生+无人逝去+暗祓）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/58/cpplatform_jpqy6zx6tfsxxqautnmins/t3_cpplatform_jpqy6zx6tfsxxqautnmins1699957183.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/58/cpplatform_jpqy6zx6tfsxxqautnmins/t9_cpplatform_jpqy6zx6tfsxxqautnmins1699957183.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s34977171.jpg"
+    "collected": false
    }
   ],
   "opac105-008": [
@@ -6296,16 +5917,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s29845452.jpg"
-   },
-   {
-    "subjectId": "10569944",
-    "year": "2012-3-17",
-    "publisher": "光文社",
-    "title": "サクラ咲く",
-    "file": "opac105-008-10569944.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11098803.jpg"
    }
   ],
   "opac105-009": [
@@ -6353,16 +5964,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28378432.jpg"
-   },
-   {
-    "subjectId": "10737097",
-    "year": "2012-4-13",
-    "publisher": "講談社",
-    "title": "ゼロ、ハチ、ゼロ、ナナ。",
-    "file": "opac105-010-10737097.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11098787.jpg"
    }
   ],
   "opac105-011": [
@@ -6376,16 +5977,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s27887154.jpg"
-   },
-   {
-    "subjectId": "6126992",
-    "year": "2008-5",
-    "publisher": "講談社",
-    "title": "子どもたちは夜と遊ぶ 上",
-    "file": "opac105-011-6126992.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4721628.jpg"
    }
   ],
   "opac106-001": [
@@ -6433,17 +6024,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35354323.jpg"
-   },
-   {
-    "subjectId": "36622388",
-    "year": "2023-12",
-    "publisher": "皇冠",
-    "translator": "高詹燦",
-    "title": "違背再見的現象",
-    "file": "opac106-002-36622388.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34705845.jpg"
    }
   ],
   "opac106-003": [
@@ -6467,17 +6047,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33822216.jpg"
-   },
-   {
-    "subjectId": "1364570",
-    "year": "2005",
-    "publisher": "麥田出版",
-    "translator": "王蘊潔",
-    "title": "虹果村的密室之謎",
-    "file": "dd107-001-1364570.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s2373878.jpg"
    }
   ],
   "dd107-002": [
@@ -6559,14 +6128,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35584043.jpg"
    },
    {
-    "subjectId": "36819409",
-    "year": "2024-3-21",
-    "publisher": "리드비",
-    "title": "법정유희",
-    "file": "spider108-002-36819409.webp",
+    "subjectId": "3300151941",
+    "year": "",
+    "publisher": "",
+    "translator": "张舟",
+    "title": "法庭游戏",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/92/cpplatform_kdbue6wbjedgmsaxahfper/t3_cpplatform_kdbue6wbjedgmsaxahfper1751968961.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/92/cpplatform_kdbue6wbjedgmsaxahfper/t9_cpplatform_kdbue6wbjedgmsaxahfper1751968961.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34815350.jpg"
+    "collected": false
    }
   ],
   "spider108-003": [
@@ -6614,14 +6186,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34785942.jpg"
    },
    {
-    "subjectId": "35568065",
-    "year": "2021-9-14",
-    "publisher": "講談社",
-    "title": "老虎残夢",
-    "file": "spider108-004-35568065.webp",
+    "subjectId": "3300071660",
+    "year": "",
+    "publisher": "浙江文艺出版社有限公司",
+    "translator": "佳辰",
+    "title": "老虎残梦",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_dlppipjueolwybjjx2znpp/t3_cpplatform_dlppipjueolwybjjx2znpp1695279597.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_dlppipjueolwybjjx2znpp/t9_cpplatform_dlppipjueolwybjjx2znpp1695279597.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33972976.jpg"
+    "collected": false
    }
   ],
   "spider108-005": [
@@ -6744,16 +6319,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33657824.jpg"
-   },
-   {
-    "subjectId": "30165092",
-    "year": "2018-3",
-    "publisher": "商务印书馆",
-    "title": "悬崖上的谋杀",
-    "file": "christie109-001-30165092.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33526408.jpg"
    }
   ],
   "christie109-002": [
@@ -6801,14 +6366,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35172008.jpg"
    },
    {
-    "subjectId": "37381155",
-    "year": "2023-3-30",
-    "publisher": "Orion",
-    "title": "The Mousetrap",
-    "file": "christie109-003-37381155.webp",
+    "subjectId": "3300156433",
+    "year": "",
+    "publisher": "",
+    "translator": "王占一",
+    "title": "三只瞎老鼠（轻经典）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/82/cpplatform_wu3626bcbfged1j97ckwed/t3_cpplatform_wu3626bcbfged1j97ckwed1754474363.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/82/cpplatform_wu3626bcbfged1j97ckwed/t9_cpplatform_wu3626bcbfged1j97ckwed1754474363.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35170830.jpg"
+    "collected": false
    }
   ],
   "christie109-004": [
@@ -6822,17 +6390,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34478636.jpg"
-   },
-   {
-    "subjectId": "35948261",
-    "year": "2022-7",
-    "publisher": "新星出版社",
-    "translator": "周力",
-    "title": "顺水推舟",
-    "file": "christie109-004-35948261.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34351425.jpg"
    }
   ],
   "christie109-005": [
@@ -6846,17 +6403,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35166974.jpg"
-   },
-   {
-    "subjectId": "38376860",
-    "year": "2023-9-27",
-    "publisher": "遠流",
-    "translator": "何克勇",
-    "title": "謀殺啟事",
-    "file": "christie109-005-38376860.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35430873.jpg"
    }
   ],
   "christie109-006": [
@@ -6870,16 +6416,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34672141.jpg"
-   },
-   {
-    "subjectId": "38435266",
-    "year": "2026-8-13",
-    "publisher": "HarperCollins",
-    "title": "They Came to Baghdad",
-    "file": "christie109-006-38435266.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35476596.jpg"
    }
   ],
   "christie109-007": [
@@ -6892,16 +6428,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35576451.jpg"
-   },
-   {
-    "subjectId": "24829408",
-    "year": "2013",
-    "publisher": "Maine Center Point Large Print",
-    "title": "By the Pricking of My Thumbs",
-    "file": "christie109-007-24829408.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34277558.jpg"
    }
   ],
   "modern2-001": [
@@ -6914,16 +6440,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34959082.jpg"
-   },
-   {
-    "subjectId": "33378731",
-    "year": "2019-10-1",
-    "publisher": "Harper Perennial",
-    "title": "The Redbreast",
-    "file": "modern2-001-33378731.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32307159.jpg"
    }
   ],
   "modern2-002": [
@@ -6936,17 +6452,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34959085.jpg"
-   },
-   {
-    "subjectId": "38457831",
-    "year": "2026-6-4",
-    "publisher": "Gallimard",
-    "translator": "Paul Dott",
-    "title": "Fantôme",
-    "file": "modern2-002-38457831.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35493950.jpg"
    }
   ],
   "modern2-003": [
@@ -7119,17 +6624,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34647862.jpg"
-   },
-   {
-    "subjectId": "30133157",
-    "year": "2018-8",
-    "publisher": "上海译文出版社",
-    "translator": "冯洁音",
-    "title": "八百万种死法",
-    "file": "modern2-012-30133157.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s29770661.jpg"
    }
   ],
   "modern2-013": [
@@ -7295,16 +6789,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34729648.jpg"
-   },
-   {
-    "subjectId": "26865545",
-    "year": "2016-8",
-    "publisher": "商务印书馆",
-    "title": "密码",
-    "file": "chris110-003-26865545.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29018255.jpg"
    }
   ],
   "chris110-004": [
@@ -7330,16 +6814,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34596369.jpg"
-   },
-   {
-    "subjectId": "6561641",
-    "year": "2011-6",
-    "publisher": "",
-    "title": "Third Girl",
-    "file": "chris110-005-6561641.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s6684405.jpg"
    }
   ],
   "chris110-006": [
@@ -7365,16 +6839,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28115787.jpg"
-   },
-   {
-    "subjectId": "37564227",
-    "year": "2026-2-12",
-    "publisher": "HarperCollins",
-    "title": "The Pale Horse",
-    "file": "chris110-007-37564227.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35261653.jpg"
    }
   ],
   "chris110-008": [
@@ -7388,16 +6852,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35288654.jpg"
-   },
-   {
-    "subjectId": "33437477",
-    "year": "2020-10",
-    "publisher": "商务印书馆",
-    "title": "控方证人及其他",
-    "file": "chris110-008-33437477.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33756536.jpg"
    }
   ],
   "chris110-009": [
@@ -7413,14 +6867,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34477642.jpg"
    },
    {
-    "subjectId": "35747853",
-    "year": "2021-11-11",
-    "publisher": "HarperCollins Publishers",
-    "title": "Adventure of the Christmas Pudding",
-    "file": "chris110-009-35747853.webp",
+    "subjectId": "24058395",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "林安颖",
+    "title": "雪地上的女尸",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/2/YueWen_24058395/t3_YueWen_24058395.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/2/YueWen_24058395/t9_YueWen_24058395.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34104602.jpg"
+    "collected": false
    }
   ],
   "chris110-010": [
@@ -7433,16 +6890,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35495557.jpg"
-   },
-   {
-    "subjectId": "35046172",
-    "year": "2019-2",
-    "publisher": "Haru",
-    "title": "Holly Mother",
-    "file": "chris110-010-35046172.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34411408.jpg"
    }
   ],
   "chris110-011": [
@@ -7528,14 +6975,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35306994.jpg"
    },
    {
-    "subjectId": "35318187",
-    "year": "2018-1",
-    "publisher": "Đinh Tị | Nhà Xuất Bản Văn Học",
-    "title": "Tiếng Thét",
-    "file": "series111-001-35318187.webp",
+    "subjectId": "3300149823",
+    "year": "",
+    "publisher": "",
+    "translator": "张舟",
+    "title": "咖喱的女神：《绝叫》之后淬炼人性之作",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/3/cpplatform_qaovytz1vtud7tqpfdt9cz/t3_cpplatform_qaovytz1vtud7tqpfdt9cz1750413310.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/3/cpplatform_qaovytz1vtud7tqpfdt9cz/t9_cpplatform_qaovytz1vtud7tqpfdt9cz1750413310.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s33796831.jpg"
+    "collected": false
    }
   ],
   "series111-002": [
@@ -7549,16 +6999,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34703970.jpg"
-   },
-   {
-    "subjectId": "37564207",
-    "year": "2025-11-6",
-    "publisher": "HarperCollins",
-    "title": "The Sittaford Mystery",
-    "file": "series111-002-37564207.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s35261651.jpg"
    }
   ],
   "series111-003": [
@@ -7572,16 +7012,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34733442.jpg"
-   },
-   {
-    "subjectId": "36848654",
-    "year": "2022",
-    "publisher": "William Morrow",
-    "title": "At Bertram&#39;s Hotel",
-    "file": "series111-003-36848654.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34833000.jpg"
    }
   ],
   "series111-004": [
@@ -7595,16 +7025,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34664317.jpg"
-   },
-   {
-    "subjectId": "35233143",
-    "year": "2020-12-10",
-    "publisher": "東京創元社",
-    "title": "偶然にして最悪の邂逅",
-    "file": "series111-004-35233143.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33762994.jpg"
    }
   ],
   "series111-005": [
@@ -7618,16 +7038,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34445053.jpg"
-   },
-   {
-    "subjectId": "12239883",
-    "year": "2011-2",
-    "publisher": "",
-    "title": "Spider&#39;s Web",
-    "file": "series111-005-12239883.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s19131053.jpg"
    }
   ],
   "series111-006": [
@@ -7641,16 +7051,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s29418129.jpg"
-   },
-   {
-    "subjectId": "2394965",
-    "year": "1999-8-12",
-    "publisher": "Random House USA Inc",
-    "title": "Trouble Is My Business",
-    "file": "series111-006-2394965.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4065943.jpg"
    }
   ],
   "series111-007": [
@@ -7755,16 +7155,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35435846.jpg"
-   },
-   {
-    "subjectId": "36060308",
-    "year": "2022-9-8",
-    "publisher": "幻冬舎",
-    "title": "同姓同名",
-    "file": "series111-010-36060308.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34288090.jpg"
    }
   ],
   "series111-011": [
@@ -7904,16 +7294,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s33958341.jpg"
-   },
-   {
-    "subjectId": "26338253",
-    "year": "2014-5-28",
-    "publisher": "Le Livre de Poche",
-    "title": "Rosy &amp; John",
-    "file": "series111-016-26338253.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s29640941.jpg"
    }
   ],
   "src112-001": [
@@ -7995,16 +7375,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34729674.jpg"
-   },
-   {
-    "subjectId": "30604513",
-    "year": "2017",
-    "publisher": "Harper Collins",
-    "title": "Passenger To Frankfurt",
-    "file": "src112-003-30604513.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34258028.jpg"
    }
   ],
   "src112-004": [
@@ -8120,16 +7490,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35319928.jpg"
-   },
-   {
-    "subjectId": "37386357",
-    "year": "2025-6-13",
-    "publisher": "황금가지",
-    "title": "13계단",
-    "file": "src112-007-37386357.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35174786.jpg"
    }
   ],
   "src112-008": [
@@ -8190,16 +7550,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34377805.jpg"
-   },
-   {
-    "subjectId": "4170420",
-    "year": "2005-10",
-    "publisher": "幻冬舎",
-    "title": "黒の貴婦人",
-    "file": "src112-010-4170420.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s4078236.jpg"
    }
   ],
   "src112-011": [
@@ -8248,14 +7598,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35033565.jpg"
    },
    {
-    "subjectId": "35563195",
-    "year": "2021-8-17",
-    "publisher": "나무옆의자",
-    "title": "낯선 자의 일기",
-    "file": "src112-012-35563195.webp",
+    "subjectId": "3300081900",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "王冉",
+    "title": "陌生人的日记",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/96/cpplatform_1wywtsp4xm9aenqgst1ssf/t3_cpplatform_1wywtsp4xm9aenqgst1ssf1703061707.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/96/cpplatform_1wywtsp4xm9aenqgst1ssf/t9_cpplatform_1wywtsp4xm9aenqgst1ssf1703061707.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33968949.jpg"
+    "collected": false
    }
   ],
   "src112-013": [
@@ -8372,16 +7725,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35420623.jpg"
-   },
-   {
-    "subjectId": "35222399",
-    "year": "2020-10",
-    "publisher": "Daifuku-Lit (ไดฟุกุ-ลีท)",
-    "title": "กฎยอดนักสืบ",
-    "file": "hig113-001-35222399.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33735820.jpg"
    }
   ],
   "hig113-002": [
@@ -8397,14 +7740,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35379859.jpg"
    },
    {
-    "subjectId": "36664985",
-    "year": "2023-11-7",
-    "publisher": "Vertical",
-    "title": "The Name of the Game is a Kidnapping",
-    "file": "hig113-002-36664985.webp",
+    "subjectId": "3300180831",
+    "year": "",
+    "publisher": "",
+    "translator": "潘郁灵",
+    "title": "绑架游戏",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/23/cpplatform_udhud3djnw8gfd5nnstas9/t3_cpplatform_udhud3djnw8gfd5nnstas91764589894.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/23/cpplatform_udhud3djnw8gfd5nnstas9/t9_cpplatform_udhud3djnw8gfd5nnstas91764589894.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34711568.jpg"
+    "collected": false
    }
   ],
   "hig113-003": [
@@ -8420,14 +7766,17 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s24420041.jpg"
    },
    {
-    "subjectId": "38686965",
-    "year": "2026-11-25",
-    "publisher": "KADOKAWA",
-    "title": "探偵倶楽部",
-    "file": "hig113-003-38686965.webp",
+    "subjectId": "3300024178",
+    "year": "",
+    "publisher": "",
+    "translator": "李盈春",
+    "title": "侦探俱乐部",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/78/3300024178/t3_3300024178.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/78/3300024178/t9_3300024178.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35634173.jpg"
+    "collected": false
    }
   ],
   "hig113-004": [
@@ -8441,17 +7790,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35035996.jpg"
-   },
-   {
-    "subjectId": "35471707",
-    "year": "2020-6-5",
-    "publisher": "소미미디어",
-    "translator": "권남희",
-    "title": "숙명",
-    "file": "hig113-004-35471707.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33905154.jpg"
    }
   ],
   "hig113-005": [
@@ -8465,17 +7803,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34808804.jpg"
-   },
-   {
-    "subjectId": "34972918",
-    "year": "2019-10",
-    "publisher": "Daifuku-Lit (ไดฟุกุ-ลีท)",
-    "translator": "อิศเรศ ทองปัสโณว์",
-    "title": "ตายวันแต่ง",
-    "file": "hig113-005-34972918.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33578313.jpg"
    }
   ],
   "hig113-006": [
@@ -8491,15 +7818,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s32327147.jpg"
    },
    {
-    "subjectId": "26273542",
-    "year": "2015-8-1",
-    "publisher": "南海出版公司",
+    "subjectId": "3300024170",
+    "year": "",
+    "publisher": "",
     "translator": "张智渊",
     "title": "杀人之门",
-    "file": "hig113-006-26273542.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/70/3300024170/t3_3300024170.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/70/3300024170/t9_3300024170.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s28118976.jpg"
+    "collected": false
    }
   ],
   "hig113-007": [
@@ -8617,11 +7946,15 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34729805.jpg"
    },
    {
-    "subjectId": "37254871",
-    "year": "2025-3-19",
-    "publisher": "集英社",
-    "title": "マスカレード・ゲーム",
-    "file": "hig113-010-37254871.webp",
+    "subjectId": "3300091446",
+    "year": "",
+    "publisher": "南海出版公司",
+    "translator": "史诗",
+    "title": "假面游戏",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_9lgcgjfbkxacgknvozrvfk/t3_cpplatform_9lgcgjfbkxacgknvozrvfk1711008481.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_9lgcgjfbkxacgknvozrvfk/t9_cpplatform_9lgcgjfbkxacgknvozrvfk1711008481.jpg",
     "primary": false,
     "collected": false
    }
@@ -8705,16 +8038,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35060437.jpg"
-   },
-   {
-    "subjectId": "34977971",
-    "year": "2020-3-12",
-    "publisher": "光文社",
-    "title": "怪しい人びと 新装版",
-    "file": "hig113-013-34977971.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33599938.jpg"
    }
   ],
   "hig113-014": [
@@ -8794,16 +8117,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35625073.jpg"
-   },
-   {
-    "subjectId": "37077681",
-    "year": "2024-10",
-    "publisher": "ไดฟุกุ, สนพ.",
-    "title": "คุณฆ่าคนตาย",
-    "file": "hig113-016-37077681.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34981364.jpg"
    }
   ],
   "hig113-017": [
@@ -8819,14 +8132,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34398263.jpg"
    },
    {
-    "subjectId": "35745168",
-    "year": "2022-1-27",
+    "subjectId": "3000015636",
+    "year": "",
     "publisher": "",
-    "title": "백은의 잭",
-    "file": "hig113-017-35745168.webp",
+    "title": "白银杰克",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/636/3000015636.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/636/3000015636.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34101758.jpg"
+    "collected": false
    }
   ],
   "hig113-018": [
@@ -8840,17 +8155,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34398266.jpg"
-   },
-   {
-    "subjectId": "26715395",
-    "year": "2016-3-7",
-    "publisher": "皇冠",
-    "translator": "王蘊潔",
-    "title": "操縱彩虹的少年",
-    "file": "hig113-018-26715395.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28501713.jpg"
    }
   ],
   "hig113-019": [
@@ -8864,6 +8168,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35060437.jpg"
+   },
+   {
+    "subjectId": "935496",
+    "year": "",
+    "publisher": "人民文学出版社",
+    "translator": "尹月",
+    "title": "东野圭吾作品：怪人们",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/496/935496/t3_935496.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/496/935496/t9_935496.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "ranpo114-001": [
@@ -8948,17 +8265,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34831393.jpg"
-   },
-   {
-    "subjectId": "26841255",
-    "year": "2016-6-1",
-    "publisher": "时代文艺出版社",
-    "translator": "叶荣鼎",
-    "title": "大暗室",
-    "file": "ranpo114-003-26841255.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28938138.jpg"
    }
   ],
   "ranpo114-004": [
@@ -9018,6 +8324,19 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28938132.jpg"
+   },
+   {
+    "subjectId": "3300057925",
+    "year": "",
+    "publisher": "山东画报出版社",
+    "translator": "叶荣鼎",
+    "title": "诅咒的指纹（江户川乱步全集·明智小五郎系列）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_auvw7nbfhbfexfuxzlf8ds/t3_cpplatform_auvw7nbfhbfexfuxzlf8ds1683358208.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_auvw7nbfhbfexfuxzlf8ds/t9_cpplatform_auvw7nbfhbfexfuxzlf8ds1683358208.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "ranpo114-007": [
@@ -9115,14 +8434,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35435034.jpg"
    },
    {
-    "subjectId": "1526148",
-    "year": "2002-06-01",
-    "publisher": "山东文艺出版社",
-    "title": "假面具",
-    "file": "ranpo114-010-1526148.webp",
+    "subjectId": "3300057931",
+    "year": "",
+    "publisher": "山东画报出版社",
+    "translator": "叶荣鼎",
+    "title": "假面具（江户川乱步全集·明智小五郎系列）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_juqgcqqxstndzxysfgiurq/t3_cpplatform_juqgcqqxstndzxysfgiurq1683358267.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_juqgcqqxstndzxysfgiurq/t9_cpplatform_juqgcqqxstndzxysfgiurq1683358267.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s26304552.jpg"
+    "collected": false
    }
   ],
   "ranpo114-011": [
@@ -9137,14 +8459,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35004965.jpg"
    },
    {
-    "subjectId": "26841245",
-    "year": "2016-6-1",
+    "subjectId": "3001027067",
+    "year": "",
     "publisher": "时代文艺出版社",
-    "title": "死亡十字路",
-    "file": "ranpo114-011-26841245.webp",
+    "title": "江户川乱步推理探案集：死亡十字路（精装）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/67/3001027067.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/67/3001027067.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28938128.jpg"
+    "collected": false
    }
   ],
   "ranpo114-012": [
@@ -9158,6 +8482,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33437007.jpg"
+   },
+   {
+    "subjectId": "26702268",
+    "year": "",
+    "publisher": "中国法制出版社",
+    "translator": "尤政雪",
+    "title": "恶魔的纹章",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/83/YueWen_26702268/t3_YueWen_26702268.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/83/YueWen_26702268/t9_YueWen_26702268.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "seicho114-001": [
@@ -9171,16 +8508,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34911620.jpg"
-   },
-   {
-    "subjectId": "30304377",
-    "year": "1965-11-29",
-    "publisher": "新潮社",
-    "title": "西郷札",
-    "file": "seicho114-001-30304377.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29849633.jpg"
    }
   ],
   "seicho114-002": [
@@ -9194,16 +8521,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33842826.jpg"
-   },
-   {
-    "subjectId": "25975748",
-    "year": "1976-2-25",
-    "publisher": "文藝春秋",
-    "title": "火と汐",
-    "file": "seicho114-002-25975748.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27452173.jpg"
    }
   ],
   "seicho114-003": [
@@ -9308,16 +8625,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33962323.jpg"
-   },
-   {
-    "subjectId": "38435277",
-    "year": "2017-8-4",
-    "publisher": "文藝春秋",
-    "title": "幻肢",
-    "file": "shimada114-001-38435277.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35476606.jpg"
    }
   ],
   "gap115-001": [
@@ -9367,14 +8674,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s1002369.jpg"
    },
    {
-    "subjectId": "35728386",
-    "year": "2021-12-21",
-    "publisher": "KADOKAWA",
-    "title": "扉の影の女",
-    "file": "gap115-002-35728386.webp",
+    "subjectId": "23031823",
+    "year": "",
+    "publisher": "南海出版公司",
+    "translator": "胡环",
+    "title": "金田一探案集24：门后的女人",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/823/23031823/t3_23031823.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/823/23031823/t9_23031823.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34088926.jpg"
+    "collected": false
    }
   ],
   "gap115-003": [
@@ -9388,17 +8698,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s28392496.jpg"
-   },
-   {
-    "subjectId": "1033364",
-    "year": "2002-8",
-    "publisher": "珠海出版社",
-    "translator": "刘红",
-    "title": "恶灵岛",
-    "file": "gap115-003-1033364.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s1305015.jpg"
    }
   ],
   "gap115-004": [
@@ -9445,16 +8744,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34379535.jpg"
-   },
-   {
-    "subjectId": "38556473",
-    "year": "2021-2-2",
-    "publisher": "Penzler Publishers",
-    "title": "The Plague Court Murders",
-    "file": "gap115-007-38556473.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35563695.jpg"
    }
   ],
   "gap115-008": [
@@ -9504,15 +8793,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35277733.jpg"
    },
    {
-    "subjectId": "35404860",
-    "year": "2021-1",
-    "publisher": "北岳文艺出版社",
-    "translator": "葛秋菊",
-    "title": "漆画屏风谜案",
-    "file": "gap115-009-35404860.webp",
+    "subjectId": "3300228455",
+    "year": "",
+    "publisher": "",
+    "title": "漆屏案（大唐狄公案系列）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/55/cpplatform_xsrbhfebq17puprdjxjbug/t3_cpplatform_xsrbhfebq17puprdjxjbug1788173873.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/55/cpplatform_xsrbhfebq17puprdjxjbug/t9_cpplatform_xsrbhfebq17puprdjxjbug1788173873.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33973836.jpg"
+    "collected": false
    }
   ],
   "gap115-010": [
@@ -9526,17 +8816,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35209354.jpg"
-   },
-   {
-    "subjectId": "35404788",
-    "year": "2021-1",
-    "publisher": "北岳文艺出版社",
-    "translator": "杨永春",
-    "title": "迷宫谜案",
-    "file": "gap115-010-35404788.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33974688.jpg"
    }
   ],
   "gap115-011": [
@@ -9550,16 +8829,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34470308.jpg"
-   },
-   {
-    "subjectId": "3346717",
-    "year": "1987-02",
-    "publisher": "Dennis McMillan Publications",
-    "title": "The Given Day",
-    "file": "gap115-011-3346717.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33887450.jpg"
    }
   ],
   "gap115-013": [
@@ -9606,16 +8875,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28060570.jpg"
-   },
-   {
-    "subjectId": "4804310",
-    "year": "2001-3-1",
-    "publisher": "Coronet Books",
-    "title": "Death of a Blue Movie Star",
-    "file": "gap115-014-4804310.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s4329311.jpg"
    }
   ],
   "gap115-015": [
@@ -9694,16 +8953,6 @@
     "file": "gap115-017.webp",
     "primary": true,
     "collected": false
-   },
-   {
-    "subjectId": "35885426",
-    "year": "2022-5-4",
-    "publisher": "",
-    "title": "왓슨력",
-    "file": "gap115-017-35885426.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34209968.jpg"
    }
   ],
   "gap115-018": [
@@ -9751,16 +9000,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34897872.jpg"
-   },
-   {
-    "subjectId": "35454528",
-    "year": "2021-6-24",
-    "publisher": "新潮社",
-    "title": "四元館の殺人",
-    "file": "gap115-019-35454528.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33921006.jpg"
    }
   ],
   "gap115-020": [
@@ -9784,17 +9023,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34265128.jpg"
-   },
-   {
-    "subjectId": "30383677",
-    "year": "2019-1-7",
-    "publisher": "皇冠",
-    "translator": "利絃",
-    "title": "不是人",
-    "file": "gap116-001-30383677.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29965714.jpg"
    }
   ],
   "gap116-002": [
@@ -9911,15 +9139,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34838011.jpg"
    },
    {
-    "subjectId": "25827733",
-    "year": "2014-3",
-    "publisher": "臉譜",
-    "translator": "易萃雯",
-    "title": "烈酒一滴",
-    "file": "gap116-005-25827733.webp",
+    "subjectId": "3002165710",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "一滴烈酒",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/710/3002165710.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/710/3002165710.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28343723.jpg"
+    "collected": false
    }
   ],
   "gap116-006": [
@@ -10369,15 +9598,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33476729.jpg"
    },
    {
-    "subjectId": "1556750",
-    "year": "1987",
-    "publisher": "中国文联出版公司",
-    "translator": "施元辉",
+    "subjectId": "3000076273",
+    "year": "",
+    "publisher": "",
     "title": "女富翁的遗产",
-    "file": "gap117-006-1556750.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/273/3000076273.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/273/3000076273.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4110220.jpg"
+    "collected": false
    }
   ],
   "gap117-007": [
@@ -10391,16 +9621,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34685722.jpg"
-   },
-   {
-    "subjectId": "30433930",
-    "year": "2017-5-8",
-    "publisher": "河出書房新社",
-    "title": "蟇屋敷の殺人",
-    "file": "gap117-007-30433930.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29979237.jpg"
    }
   ],
   "gap117-008": [
@@ -10523,14 +9743,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s29536575.jpg"
    },
    {
-    "subjectId": "25980198",
-    "year": "2014-9-1",
-    "publisher": "现代出版社",
+    "subjectId": "3000292019",
+    "year": "",
+    "publisher": "",
     "title": "幽灵心理学",
-    "file": "gap117-013-25980198.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/19/3000292019.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/19/3000292019.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27972390.jpg"
+    "collected": false
    }
   ],
   "gap117-014": [
@@ -10669,17 +9891,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34423649.jpg"
-   },
-   {
-    "subjectId": "26044619",
-    "year": "2014-11-27",
-    "publisher": "獨步文化",
-    "translator": "李彥樺",
-    "title": "PK",
-    "file": "wk118-002-26044619.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27814299.jpg"
    }
   ],
   "wk118-003": [
@@ -10762,17 +9973,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35596763.jpg"
-   },
-   {
-    "subjectId": "38578394",
-    "year": "2026-8-31",
-    "publisher": "皇冠",
-    "translator": "王蘊潔",
-    "title": "天鵝與蝙蝠",
-    "file": "wk118-005-38578394.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35608704.jpg"
    }
   ],
   "wk118-006": [
@@ -10943,16 +10143,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34888398.jpg"
-   },
-   {
-    "subjectId": "36237380",
-    "year": "2023-6-20",
-    "publisher": "Yen On",
-    "title": "The Samurai and the Prisoner",
-    "file": "wk118-011-36237380.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34528603.jpg"
    }
   ],
   "wk118-012": [
@@ -11000,14 +10190,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34601111.jpg"
    },
    {
-    "subjectId": "36060307",
-    "year": "2022-8-24",
-    "publisher": "알에이치코리아",
-    "title": "불릿 트레인",
-    "file": "wk118-013-36060307.webp",
+    "subjectId": "791733",
+    "year": "",
+    "publisher": "南海出版公司",
+    "title": "杀手界疾风号",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/733/791733/t3_791733.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/733/791733/t9_791733.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34288089.jpg"
+    "collected": false
    }
   ],
   "wk118-014": [
@@ -11023,15 +10215,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s6995233.jpg"
    },
    {
-    "subjectId": "36168670",
-    "year": "2023-1-5",
-    "publisher": "獨步文化",
-    "translator": "王華懋",
-    "title": "家鴨與野鴨的投幣式置物櫃",
-    "file": "wk118-014-36168670.webp",
+    "subjectId": "24139742",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "穆迪",
+    "title": "家鸭与野鸭的投币式寄物柜",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/24/YueWen_24139742/t3_YueWen_24139742.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/24/YueWen_24139742/t9_YueWen_24139742.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34387932.jpg"
+    "collected": false
    }
   ],
   "wk118-015": [
@@ -11126,17 +10320,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34569137.jpg"
-   },
-   {
-    "subjectId": "21233073",
-    "year": "2012-6",
-    "publisher": "東京創元社",
-    "translator": "柳沢由実子",
-    "title": "湿地",
-    "file": "gap119-003-21233073.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27059660.jpg"
    }
   ],
   "gap119-004": [
@@ -11184,14 +10367,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34894921.jpg"
    },
    {
-    "subjectId": "38413490",
-    "year": "2026-3",
-    "publisher": "SHADOW",
-    "title": "นรกในห้องปิดตายสิบล้านคน",
-    "file": "gap119-007-38413490.webp",
+    "subjectId": "3004101589",
+    "year": "",
+    "publisher": "",
+    "title": "一千万人的密室",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/589/3004101589.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/589/3004101589.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35458186.jpg"
+    "collected": false
    }
   ],
   "gap119-008": [
@@ -11206,14 +10391,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35202915.jpg"
    },
    {
-    "subjectId": "26902337",
-    "year": "2016-12-21",
-    "publisher": "東京創元社",
-    "title": "ダブル・ミステリ",
-    "file": "gap119-008-26902337.webp",
+    "subjectId": "3003911864",
+    "year": "",
+    "publisher": "海峡文艺出版社",
+    "title": "隐身的复仇者",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/864/3003911864.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/864/3003911864.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29196600.jpg"
+    "collected": false
    }
   ],
   "gap119-009": [
@@ -11227,6 +10414,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35268975.jpg"
+   },
+   {
+    "subjectId": "3300171164",
+    "year": "",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "邹文华",
+    "title": "斯芬克斯之谜",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/51/cpplatform_ox1jcrrsgcgrnkjappttvq/t3_cpplatform_ox1jcrrsgcgrnkjappttvq1761123208.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/51/cpplatform_ox1jcrrsgcgrnkjappttvq/t9_cpplatform_ox1jcrrsgcgrnkjappttvq1761123208.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "gap119-010": [
@@ -11240,17 +10440,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33678106.jpg"
-   },
-   {
-    "subjectId": "5336466",
-    "year": "2010-11",
-    "publisher": "新星出版社",
-    "translator": "凌寒",
-    "title": "最后的郊狼",
-    "file": "gap119-010-5336466.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4518812.jpg"
    }
   ],
   "gap119-011": [
@@ -11266,15 +10455,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33575960.jpg"
    },
    {
-    "subjectId": "34992349",
-    "year": "2019-5-9",
-    "publisher": "엘릭시르",
-    "translator": "김은모",
-    "title": "미스터리 아레나",
-    "file": "gap119-011-34992349.webp",
+    "subjectId": "25121812",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "警部殿",
+    "title": "推理竞技场",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/812/25121812/t3_25121812.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/812/25121812/t9_25121812.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33592939.jpg"
+    "collected": false
    }
   ],
   "gap119-012": [
@@ -11390,16 +10581,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34568326.jpg"
-   },
-   {
-    "subjectId": "11661964",
-    "year": "2012-5-29",
-    "publisher": "Vintage",
-    "title": "The Dreadful Hollow",
-    "file": "gap119-016-11661964.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11491118.jpg"
    }
   ],
   "gap119-017": [
@@ -11413,16 +10594,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34568320.jpg"
-   },
-   {
-    "subjectId": "11661966",
-    "year": "2012-5-29",
-    "publisher": "Vintage",
-    "title": "The Morning After Death",
-    "file": "gap119-017-11661966.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27058619.jpg"
    }
   ],
   "gap119-018": [
@@ -11436,16 +10607,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35027730.jpg"
-   },
-   {
-    "subjectId": "26721145",
-    "year": "1959-3",
-    "publisher": "Collins Crime Club",
-    "title": "The Widow&#39;s Cruise",
-    "file": "gap119-018-26721145.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28396457.jpg"
    }
   ],
   "gap119-019": [
@@ -11461,14 +10622,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34596910.jpg"
    },
    {
-    "subjectId": "11661973",
+    "subjectId": "3300171154",
     "year": "",
-    "publisher": "",
-    "title": "Malice in Wonderland",
-    "file": "gap119-019-11661973.webp",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "王元媛",
+    "title": "奇境幻影",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/86/cpplatform_nekpxt5qmfvpaqntynp9ph/t3_cpplatform_nekpxt5qmfvpaqntynp9ph1761122846.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/86/cpplatform_nekpxt5qmfvpaqntynp9ph/t9_cpplatform_nekpxt5qmfvpaqntynp9ph1761122846.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s11491124.jpg"
+    "collected": false
    }
   ],
   "gap119-020": [
@@ -11538,17 +10702,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34712485.jpg"
-   },
-   {
-    "subjectId": "35689794",
-    "year": "2021-12-15",
-    "publisher": "아프로스미디어",
-    "translator": "주자덕",
-    "title": "육식저택",
-    "file": "gap119-023-35689794.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34060339.jpg"
    }
   ],
   "gap119-024": [
@@ -11607,16 +10760,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34474876.jpg"
-   },
-   {
-    "subjectId": "33419837",
-    "year": "2019-4-19",
-    "publisher": "集英社",
-    "title": "慈雨",
-    "file": "gap119-026-33419837.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32298568.jpg"
    }
   ],
   "gap119-027": [
@@ -11710,6 +10853,18 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34221225.jpg"
+   },
+   {
+    "subjectId": "24139933",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "樱草忌",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/933/24139933/t3_24139933.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/933/24139933/t9_24139933.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "chinese3-004": [
@@ -11722,17 +10877,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35048499.jpg"
-   },
-   {
-    "subjectId": "36480650",
-    "year": "2023-9-20",
-    "publisher": "早川書房",
-    "translator": "阿井幸作",
-    "title": "厳冬之棺",
-    "file": "chinese3-004-36480650.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34638457.jpg"
    }
   ],
   "chinese3-005": [
@@ -11790,16 +10934,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s33692501.jpg"
-   },
-   {
-    "subjectId": "27113203",
-    "year": "2017-9-11",
-    "publisher": "皇冠",
-    "title": "巴別塔之夢",
-    "file": "chinese3-008-27113203.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29819927.jpg"
    }
   ],
   "chinese3-009": [
@@ -11902,14 +11036,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28315217.jpg"
    },
    {
-    "subjectId": "3293838",
-    "year": "2008-11-5",
-    "publisher": "菁品文化事業有限公司",
-    "title": "鬼望坡",
-    "file": "chinese3-013-3293838.webp",
+    "subjectId": "823528",
+    "year": "",
+    "publisher": "海南出版社",
+    "title": "鬼望坡：《育婴室》原著小说",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/94/YueWen_823528/t3_YueWen_823528.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/94/YueWen_823528/t9_YueWen_823528.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s3357810.jpg"
+    "collected": false
    }
   ],
   "chinese3-015": [
@@ -11922,6 +11058,18 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34410574.jpg"
+   },
+   {
+    "subjectId": "853474",
+    "year": "",
+    "publisher": "中国友谊出版公司",
+    "title": "殉罪者",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/474/853474/t3_853474.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/474/853474/t9_853474.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "chinese3-016": [
@@ -11948,14 +11096,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s27774262.jpg"
    },
    {
-    "subjectId": "25783871",
-    "year": "2013-11",
-    "publisher": "南海出版公司",
-    "title": "谋杀似水年华",
-    "file": "chinese3-017-25783871.webp",
+    "subjectId": "432556",
+    "year": "",
+    "publisher": "作家出版社",
+    "title": "谋杀似水年华（影视版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/556/432556/t3_432556.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/556/432556/t9_432556.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s27174255.jpg"
+    "collected": false
    }
   ],
   "chinese3-018": [
@@ -11980,16 +11130,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s27376677.jpg"
-   },
-   {
-    "subjectId": "10437317",
-    "year": "2012-2-14",
-    "publisher": "光文社",
-    "title": "中途半端な密室",
-    "file": "facet120-001-10437317.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s7665406.jpg"
    }
   ],
   "facet120-002": [
@@ -12003,17 +11143,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34086745.jpg"
-   },
-   {
-    "subjectId": "20381654",
-    "year": "2013-1-8",
-    "publisher": "尖端",
-    "translator": "張鈞堯",
-    "title": "朝密室射擊!",
-    "file": "facet120-002-20381654.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s24522785.jpg"
    }
   ],
   "facet120-003": [
@@ -12027,17 +11156,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34418556.jpg"
-   },
-   {
-    "subjectId": "5387466",
-    "year": "2011-1",
-    "publisher": "吉林出版集团",
-    "translator": "石葱",
-    "title": "不可能犯罪诊断书Ⅲ",
-    "file": "facet120-003-5387466.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4572428.jpg"
    }
   ],
   "facet120-004": [
@@ -12051,17 +11169,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34480027.jpg"
-   },
-   {
-    "subjectId": "10594331",
-    "year": "2012-5",
-    "publisher": "吉林出版集团",
-    "translator": "吴非",
-    "title": "不可能犯罪诊断书Ⅳ",
-    "file": "facet120-004-10594331.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s9042161.jpg"
    }
   ],
   "facet120-006": [
@@ -12111,14 +11218,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33541996.jpg"
    },
    {
-    "subjectId": "30394699",
-    "year": "2019-1-21",
-    "publisher": "講談社",
-    "title": "虚構推理",
-    "file": "facet120-007-30394699.webp",
+    "subjectId": "3000082280",
+    "year": "",
+    "publisher": "",
+    "title": "虚构推理（1）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/280/3000082280.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/280/3000082280.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29958060.jpg"
+    "collected": false
    }
   ],
   "facet120-008": [
@@ -12167,16 +11276,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s27067759.jpg"
-   },
-   {
-    "subjectId": "10746049",
-    "year": "2007-11",
-    "publisher": "Monsenstein und Vannerdat",
-    "title": "Mordsfreunde",
-    "file": "facet120-011-10746049.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s9109132.jpg"
    }
   ],
   "facet120-012": [
@@ -12235,16 +11334,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35002705.jpg"
-   },
-   {
-    "subjectId": "34997459",
-    "year": "2020-12",
-    "publisher": "Poisoned Pen Press",
-    "title": "The Spoilt Kill",
-    "file": "facet120-014-34997459.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s33596881.jpg"
    }
   ],
   "facet120-015": [
@@ -12269,16 +11358,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34792783.jpg"
-   },
-   {
-    "subjectId": "36098590",
-    "year": "2022-11",
-    "publisher": "早川書房",
-    "title": "木曜殺人クラブ 二度死んだ男",
-    "file": "facet121-001-36098590.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34376729.jpg"
    }
   ],
   "facet121-002": [
@@ -12326,16 +11405,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34454155.jpg"
-   },
-   {
-    "subjectId": "34958280",
-    "year": "2020-2-20",
-    "publisher": "早川書房",
-    "title": "錬金術師の密室",
-    "file": "facet121-003-34958280.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33575854.jpg"
    }
   ],
   "facet121-004": [
@@ -12451,17 +11520,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33834939.jpg"
-   },
-   {
-    "subjectId": "34669387",
-    "year": "2019-8-26",
-    "publisher": "皇冠",
-    "translator": "高詹燦",
-    "title": "鳥居的密室",
-    "file": "facet121-007-34669387.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33461312.jpg"
    }
   ],
   "facet121-008": [
@@ -12477,14 +11535,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35027813.jpg"
    },
    {
-    "subjectId": "35897984",
-    "year": "2022-5",
-    "publisher": "",
-    "title": "คืนฆาตกรรมไร้ฆาตกร",
-    "file": "facet121-008-35897984.webp",
+    "subjectId": "3000000675",
+    "year": "",
+    "publisher": "人民文学出版社",
+    "title": "没有凶手的杀人夜",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/675/3000000675.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/675/3000000675.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34217843.jpg"
+    "collected": false
    }
   ],
   "facet121-010": [
@@ -12500,14 +11560,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34565628.jpg"
    },
    {
-    "subjectId": "26597821",
-    "year": "1985-9",
-    "publisher": "HarperCollins (paper)",
-    "title": "Minute for Murder",
-    "file": "facet121-010-26597821.webp",
+    "subjectId": "3300171105",
+    "year": "",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "蔡丹丹",
+    "title": "谋杀笔记",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/36/cpplatform_83svr6sfxk1zn2hgj98bbz/t3_cpplatform_83svr6sfxk1zn2hgj98bbz1761121428.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/36/cpplatform_83svr6sfxk1zn2hgj98bbz/t9_cpplatform_83svr6sfxk1zn2hgj98bbz1761121428.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28281678.jpg"
+    "collected": false
    }
   ],
   "facet121-011": [
@@ -12521,16 +11584,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35627145.jpg"
-   },
-   {
-    "subjectId": "36073023",
-    "year": "2022-8-2",
-    "publisher": "Penzler Publishers",
-    "title": "The Benson Murder Case",
-    "file": "facet121-011-36073023.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35563880.jpg"
    }
   ],
   "facet121-012": [
@@ -12749,16 +11802,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34387302.jpg"
-   },
-   {
-    "subjectId": "35706735",
-    "year": "2022-3-17",
-    "publisher": "実業之日本社",
-    "title": "時計屋探偵の冒険",
-    "file": "facet121-020-35706735.webp",
-    "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34113834.jpg"
    }
   ],
   "facet122-001": [
@@ -12844,15 +11887,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34668000.jpg"
    },
    {
-    "subjectId": "26309773",
-    "year": "2015-3",
-    "publisher": "山东文艺出版社",
+    "subjectId": "3300069934",
+    "year": "",
+    "publisher": "人民文学出版社",
     "translator": "黄健育",
-    "title": "推理要在晚餐后3",
-    "file": "facet122-003-26309773.webp",
+    "title": "推理要在晚餐后.3",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/16/cpplatform_7hzw3178fy5xk68um4schk/t3_cpplatform_7hzw3178fy5xk68um4schk1693558870.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/16/cpplatform_7hzw3178fy5xk68um4schk/t9_cpplatform_7hzw3178fy5xk68um4schk1693558870.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29078525.jpg"
+    "collected": false
    }
   ],
   "facet122-004": [
@@ -13333,16 +12378,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35259269.jpg"
-   },
-   {
-    "subjectId": "25773363",
-    "year": "2014-9-11",
-    "publisher": "HarperCollins",
-    "title": "The Monogram Murders",
-    "file": "facet123-018-25773363.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27994600.jpg"
    }
   ],
   "facet123-019": [
@@ -13389,16 +12424,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33717367.jpg"
-   },
-   {
-    "subjectId": "30450197",
-    "year": "2014-6-15",
-    "publisher": "British Library Publishing",
-    "title": "Murder Underground",
-    "file": "facet123-020-30450197.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29995445.jpg"
    }
   ],
   "facet124-001": [
@@ -13663,16 +12688,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33774039.jpg"
-   },
-   {
-    "subjectId": "34431745",
-    "year": "2018-8",
-    "publisher": "Enter Books",
-    "title": "รหัสลับต้าหมิงกง (ปริศนาแห่งต้าถัง #4)",
-    "file": "facet124-015-34431745.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33297794.jpg"
    }
   ],
   "facet125-001": [
@@ -13686,6 +12701,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34909425.jpg"
+   },
+   {
+    "subjectId": "37698330",
+    "year": "",
+    "publisher": "中国友谊出版公司",
+    "translator": "徐颖",
+    "title": "伊芙琳的七次死亡",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/330/37698330/t3_37698330.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/330/37698330/t9_37698330.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "facet125-002": [
@@ -13732,17 +12760,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26816800.jpg"
-   },
-   {
-    "subjectId": "4193903",
-    "year": "2007",
-    "publisher": "尖端出版",
-    "translator": "于宥均",
-    "title": "深紅之死",
-    "file": "facet125-003-4193903.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4098177.jpg"
    }
   ],
   "facet125-004": [
@@ -13758,15 +12775,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35601839.jpg"
    },
    {
-    "subjectId": "2971072",
-    "year": "2008-1",
-    "publisher": "群众出版社",
-    "translator": "秋叶",
+    "subjectId": "3300194062",
+    "year": "",
+    "publisher": "",
+    "translator": "李航飞",
     "title": "谁的尸体",
-    "file": "facet125-004-2971072.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_5z3ayldkddhwtj7n5igshe/t3_cpplatform_5z3ayldkddhwtj7n5igshe1769740488.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_5z3ayldkddhwtj7n5igshe/t9_cpplatform_5z3ayldkddhwtj7n5igshe1769740488.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s5866205.jpg"
+    "collected": false
    }
   ],
   "facet125-005": [
@@ -13780,16 +12799,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34745168.jpg"
-   },
-   {
-    "subjectId": "11617296",
-    "year": "2012-6-4",
-    "publisher": "Vintage Books",
-    "title": "Thou Shell of Death",
-    "file": "facet125-005-11617296.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s24601912.jpg"
    }
   ],
   "facet125-006": [
@@ -13838,14 +12847,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s21095276.jpg"
    },
    {
-    "subjectId": "3731877",
-    "year": "1989-11",
-    "publisher": "International Polygonics",
-    "title": "The Corpse Steps Out (Crime Classic)",
-    "file": "facet125-007-3731877.webp",
+    "subjectId": "3300171189",
+    "year": "",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "金长蔚",
+    "title": "不翼而飞的尸体",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_w8nhfjt7wcbcfkmzmzmhhq/t3_cpplatform_w8nhfjt7wcbcfkmzmzmhhq1761123588.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_w8nhfjt7wcbcfkmzmzmhhq/t9_cpplatform_w8nhfjt7wcbcfkmzmzmhhq1761123588.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s3782554.jpg"
+    "collected": false
    }
   ],
   "facet125-010": [
@@ -13894,15 +12906,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35063033.jpg"
    },
    {
-    "subjectId": "11507195",
-    "year": "2012-8",
-    "publisher": "新雨",
-    "translator": "鄭舜瓏",
-    "title": "再也不綁架了",
-    "file": "facet125-011-11507195.webp",
+    "subjectId": "3000240788",
+    "year": "",
+    "publisher": "译林出版社",
+    "title": "再也不绑架了",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/788/3000240788.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/788/3000240788.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11098577.jpg"
+    "collected": false
    }
   ],
   "facet125-012": [
@@ -13950,14 +12963,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35452604.jpg"
    },
    {
-    "subjectId": "30277808",
-    "year": "2018-8-29",
-    "publisher": "新潮社",
-    "title": "火焔の凶器",
-    "file": "facet125-013-30277808.webp",
+    "subjectId": "3003725243",
+    "year": "",
+    "publisher": "台海出版社",
+    "title": "火焰的凶器:天久鹰央的事件病历表",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/243/3003725243.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/243/3003725243.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29837540.jpg"
+    "collected": false
    }
   ],
   "facet125-014": [
@@ -14217,16 +13232,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33744614.jpg"
-   },
-   {
-    "subjectId": "26291148",
-    "year": "2014-3-15",
-    "publisher": "The British Library Publishing Division",
-    "title": "The Lake District Murder",
-    "file": "facet127-003-26291148.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27973487.jpg"
    }
   ],
   "facet127-004": [
@@ -14239,16 +13244,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33744617.jpg"
-   },
-   {
-    "subjectId": "26291146",
-    "year": "2014-3-14",
-    "publisher": "The British Library Publishing Division",
-    "title": "The Cornish Coast Murder",
-    "file": "facet127-004-26291146.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s27973485.jpg"
    }
   ],
   "facet127-005": [
@@ -14317,16 +13312,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34024494.jpg"
-   },
-   {
-    "subjectId": "33973110",
-    "year": "2019-8",
-    "publisher": "",
-    "title": "Murder in the Mill-Race",
-    "file": "facet127-007-33973110.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s32783311.jpg"
    }
   ],
   "facet127-008": [
@@ -14386,15 +13371,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34470708.jpg"
    },
    {
-    "subjectId": "35036864",
-    "year": "2020-6-24",
-    "publisher": "台灣角川",
-    "translator": "何陽",
-    "title": "15歲的恐怖分子",
-    "file": "facet127-011-35036864.webp",
+    "subjectId": "3002148804",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "15岁的嫌疑人 天闻角川 第二十二届电击小说大赏“大赏”作者松村凉哉全新力作！",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/804/3002148804.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/804/3002148804.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33685355.jpg"
+    "collected": false
    }
   ],
   "facet127-012": [
@@ -14419,16 +13405,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s27411076.jpg"
-   },
-   {
-    "subjectId": "35262972",
-    "year": "2007-6-1",
-    "publisher": "出版芸術社",
-    "title": "横溝正史自選集〈7〉",
-    "file": "author128-001-35262972.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s33763345.jpg"
    }
   ],
   "author128-002": [
@@ -14442,6 +13418,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35411750.jpg"
+   },
+   {
+    "subjectId": "920557",
+    "year": "",
+    "publisher": "南海出版公司",
+    "translator": "杨婉蘅",
+    "title": "女王蜂",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/0/YueWen_920557/t3_YueWen_920557.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/0/YueWen_920557/t9_YueWen_920557.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "author128-003": [
@@ -14536,6 +13525,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34809538.jpg"
+   },
+   {
+    "subjectId": "3300057918",
+    "year": "",
+    "publisher": "山东画报出版社",
+    "translator": "叶荣鼎",
+    "title": "幽鬼之塔 （江户川乱步全集·明智小五郎系列）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/54/cpplatform_4kceeudri8ptrrpkmy2nfh/t3_cpplatform_4kceeudri8ptrrpkmy2nfh1683358121.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/54/cpplatform_4kceeudri8ptrrpkmy2nfh/t9_cpplatform_4kceeudri8ptrrpkmy2nfh1683358121.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "author128-008": [
@@ -14574,15 +13576,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28938143.jpg"
    },
    {
-    "subjectId": "1529604",
-    "year": "2002-6",
-    "publisher": "山东文艺出版社",
+    "subjectId": "3300057924",
+    "year": "",
+    "publisher": "山东画报出版社",
     "translator": "叶荣鼎",
-    "title": "绿衣人",
-    "file": "author128-009-1529604.webp",
+    "title": "绿衣人（江户川乱步全集·明智小五郎系列）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/3/cpplatform_a7eu6f5zmmb952atzxyybz/t3_cpplatform_a7eu6f5zmmb952atzxyybz1683358197.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/3/cpplatform_a7eu6f5zmmb952atzxyybz/t9_cpplatform_a7eu6f5zmmb952atzxyybz1683358197.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s26304520.jpg"
+    "collected": false
    }
   ],
   "author128-010": [
@@ -14632,16 +13636,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33808300.jpg"
-   },
-   {
-    "subjectId": "35344650",
-    "year": "2019-8-30",
-    "publisher": "春陽堂書店",
-    "title": "悪魔の紋章",
-    "file": "author128-011-35344650.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33815973.jpg"
    }
   ],
   "author128-012": [
@@ -14657,14 +13651,17 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s35413921.jpg"
    },
    {
-    "subjectId": "35343420",
-    "year": "2021-1-30",
-    "publisher": "MINTBOOKS",
-    "title": "Trứng chim cúc cu này thuộc về ai?",
-    "file": "author128-012-35343420.webp",
+    "subjectId": "27182116",
+    "year": "",
+    "publisher": "南海出版公司",
+    "translator": "孟海霞",
+    "title": "布谷鸟的蛋",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/116/27182116/t3_27182116.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/116/27182116/t9_27182116.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33815190.jpg"
+    "collected": false
    }
   ],
   "author128-013": [
@@ -14680,15 +13677,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34449175.jpg"
    },
    {
-    "subjectId": "35440304",
-    "year": "2021-5-31",
-    "publisher": "皇冠",
-    "translator": "林佩玟",
-    "title": "無限的i 上",
-    "file": "author128-013-35440304.webp",
+    "subjectId": "3004101527",
+    "year": "",
+    "publisher": "",
+    "title": "无限的梦境",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/527/3004101527.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/527/3004101527.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33910880.jpg"
+    "collected": false
    }
   ],
   "author129-001": [
@@ -14736,17 +13734,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s8871926.jpg"
-   },
-   {
-    "subjectId": "37269509",
-    "year": "2025-4-7",
-    "publisher": "皇冠",
-    "translator": "劉子倩",
-    "title": "黎明破曉的街道",
-    "file": "author129-002-37269509.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35115229.jpg"
    }
   ],
   "author129-003": [
@@ -14825,16 +13812,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33321205.jpg"
-   },
-   {
-    "subjectId": "26742931",
-    "year": "2016-4-26",
-    "publisher": "講談社",
-    "title": "屋上の道化たち",
-    "file": "author129-005-26742931.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28648789.jpg"
    }
   ],
   "author129-006": [
@@ -14951,15 +13928,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28071199.jpg"
    },
    {
-    "subjectId": "26347971",
-    "year": "2015-3",
-    "publisher": "麥田",
-    "translator": "游芯歆",
+    "subjectId": "3000097525",
+    "year": "",
+    "publisher": "",
     "title": "七年之夜",
-    "file": "world-002-26347971.webp",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/525/3000097525.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/525/3000097525.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s28044826.jpg"
+    "collected": false
    }
   ],
   "world-004": [
@@ -15131,16 +14109,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s28893016.jpg"
-   },
-   {
-    "subjectId": "4766263",
-    "year": "1994",
-    "publisher": "Diogenes",
-    "title": "Die Apothekerin",
-    "file": "world-011-4766263.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s27059675.jpg"
    }
   ],
   "world-012": [
@@ -15320,16 +14288,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33765170.jpg"
-   },
-   {
-    "subjectId": "36745079",
-    "year": "2005-11-10",
-    "publisher": "文藝春秋",
-    "title": "虚線の下絵",
-    "file": "author130-001-36745079.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34766829.jpg"
    }
   ],
   "author130-002": [
@@ -15343,17 +14301,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33716696.jpg"
-   },
-   {
-    "subjectId": "26874773",
-    "year": "2016-10",
-    "publisher": "浙江人民出版社",
-    "translator": "陆求实",
-    "title": "黑夜的空白",
-    "file": "author130-002-26874773.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29094929.jpg"
    }
   ],
   "author130-003": [
@@ -15400,16 +14347,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34911612.jpg"
-   },
-   {
-    "subjectId": "5990139",
-    "year": "1997-2",
-    "publisher": "角川書店",
-    "title": "或る「小倉日記」伝",
-    "file": "author130-004-5990139.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s6938073.jpg"
    }
   ],
   "author130-005": [
@@ -15447,15 +14384,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s35031544.jpg"
    },
    {
-    "subjectId": "26861639",
-    "year": "2016-9-15",
-    "publisher": "新雨出版社",
-    "translator": "曾鴻燕",
-    "title": "憎惡的請求",
-    "file": "author130-007-26861639.webp",
+    "subjectId": "3001131406",
+    "year": "",
+    "publisher": "人民文学出版社",
+    "title": "松本清张短经典：憎恶的委托",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/406/3001131406.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/406/3001131406.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s29032354.jpg"
+    "collected": false
    }
   ],
   "author130-008": [
@@ -15469,16 +14407,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34804812.jpg"
-   },
-   {
-    "subjectId": "26807261",
-    "year": "2016-7-13",
-    "publisher": "文藝春秋",
-    "title": "スタフ staph",
-    "file": "author130-008-26807261.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s28843265.jpg"
    }
   ],
   "author130-009": [
@@ -15492,17 +14420,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34020517.jpg"
-   },
-   {
-    "subjectId": "30304953",
-    "year": "2018-10",
-    "publisher": "皇冠",
-    "translator": "高詹燦",
-    "title": "白兔",
-    "file": "author130-009-30304953.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34627702.jpg"
    }
   ],
   "author130-010": [
@@ -15517,14 +14434,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34073065.jpg"
    },
    {
-    "subjectId": "26317815",
-    "year": "2015-3-20",
-    "publisher": "東京創元社",
-    "title": "夜の国のクーパー",
-    "file": "author130-010-26317815.webp",
+    "subjectId": "754100",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "夜之国的库帕",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/100/754100/t3_754100.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/100/754100/t9_754100.jpg",
     "primary": false,
-    "collected": true,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s28011665.jpg"
+    "collected": false
    }
   ],
   "author130-011": [
@@ -15607,14 +14526,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s28384910.jpg"
    },
    {
-    "subjectId": "1394471",
-    "year": "2002",
-    "publisher": "Chivers Large print",
-    "title": "A Study in Terror",
-    "file": "author131-001-1394471.webp",
+    "subjectId": "3002166884",
+    "year": "",
+    "publisher": "新星出版社",
+    "title": "恐怖的研究",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/884/3002166884.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/884/3002166884.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s1399660.jpg"
+    "collected": false
    }
   ],
   "author131-002": [
@@ -16070,15 +14991,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34653352.jpg"
    },
    {
-    "subjectId": "25827743",
-    "year": "2014-3",
-    "publisher": "臉譜",
-    "translator": "林大容",
-    "title": "刀鋒之先",
-    "file": "author131-015-25827743.webp",
+    "subjectId": "3004214728",
+    "year": "",
+    "publisher": "",
+    "title": "刀锋之先",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/728/3004214728.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/728/3004214728.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s28382628.jpg"
+    "collected": false
    }
   ],
   "author131-017": [
@@ -16203,15 +15125,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35382629.jpg"
    },
    {
-    "subjectId": "34992352",
-    "year": "2019-3-29",
-    "publisher": "한즈미디어",
-    "translator": "김성기",
-    "title": "벚꽃지는 계절에 그대를 그리워하네",
-    "file": "author132-004-34992352.webp",
+    "subjectId": "22354530",
+    "year": "",
+    "publisher": "江苏凤凰文艺出版社",
+    "translator": "赵建勋",
+    "title": "樱树抽芽时，想你（叙诡天花板，推理四冠王）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/76/yuewen_22354530/t3_yuewen_223545301772009965.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/76/yuewen_22354530/t9_yuewen_223545301772009965.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s33592942.jpg"
+    "collected": false
    }
   ],
   "author132-005": [
@@ -16260,14 +15184,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s30020811.jpg"
    },
    {
-    "subjectId": "3191041",
-    "year": "2003",
-    "publisher": "幻冬舎",
-    "title": "闇が呼んでいる",
-    "file": "author132-008-3191041.webp",
+    "subjectId": "3001083056",
+    "year": "",
+    "publisher": "中国出版集团,现代出版社",
+    "title": "黯夜的呼唤",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/56/3001083056.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/56/3001083056.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s3233364.jpg"
+    "collected": false
    }
   ],
   "author132-009": [
@@ -16397,14 +15323,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s5830237.jpg"
    },
    {
-    "subjectId": "1319110",
-    "year": "1996-12",
-    "publisher": "法律出版社",
-    "title": "人生误区",
-    "file": "author132-014-1319110.webp",
+    "subjectId": "925648",
+    "year": "",
+    "publisher": "知识产权出版社",
+    "title": "龙眼石之谜（精华版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/648/925648/t3_925648.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/648/925648/t9_925648.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s9959714.jpg"
+    "collected": false
    }
   ],
   "author132-015": [
@@ -16892,16 +15820,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s34568321.jpg"
-   },
-   {
-    "subjectId": "11617297",
-    "year": "2012-6",
-    "publisher": "Vintage",
-    "title": "There&#39;s Trouble Brewing",
-    "file": "author136-001-11617297.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s26738549.jpg"
    }
   ],
   "author136-002": [
@@ -16928,14 +15846,17 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34568157.jpg"
    },
    {
-    "subjectId": "11661961",
+    "subjectId": "3300171115",
     "year": "",
-    "publisher": "",
-    "title": "The Worm of Death",
-    "file": "author136-003-11661961.webp",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "杨永春",
+    "title": "夺命蠕虫",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/89/cpplatform_eday1nsnnf6bxmv5eapztm/t3_cpplatform_eday1nsnnf6bxmv5eapztm1761121643.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/89/cpplatform_eday1nsnnf6bxmv5eapztm/t9_cpplatform_eday1nsnnf6bxmv5eapztm1761121643.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s11491112.jpg"
+    "collected": false
    }
   ],
   "author136-004": [
@@ -16951,14 +15872,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34596914.jpg"
    },
    {
-    "subjectId": "33198294",
+    "subjectId": "3300171135",
     "year": "",
-    "publisher": "",
-    "title": "The Sad Variety",
-    "file": "author136-004-33198294.webp",
+    "publisher": "上海文艺出版社 上海故事会文化传媒有限公司",
+    "translator": "叶红卫 刘金龙",
+    "title": "生死寻踪",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/18/cpplatform_mhurhpyepkbyy5w1icmgqp/t3_cpplatform_mhurhpyepkbyy5w1icmgqp1761121975.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/18/cpplatform_mhurhpyepkbyy5w1icmgqp/t9_cpplatform_mhurhpyepkbyy5w1icmgqp1761121975.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s32087509.jpg"
+    "collected": false
    }
   ],
   "author136-005": [
@@ -17107,14 +16031,16 @@
     "pic": "https://img2.doubanio.com/view/subject/s/public/s33722471.jpg"
    },
    {
-    "subjectId": "35928217",
+    "subjectId": "32052185",
     "year": "",
-    "publisher": "",
-    "title": "Kẻ Lãng Quên",
-    "file": "author136-009-35928217.webp",
+    "publisher": "北京联合出版公司",
+    "title": "法医秦明：遗忘者（独家定制版）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/32/YueWen_32052185/t3_YueWen_32052185.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/32/YueWen_32052185/t9_YueWen_32052185.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s34241625.jpg"
+    "collected": false
    }
   ],
   "author136-010": [
@@ -17173,6 +16099,30 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34807598.jpg"
+   },
+   {
+    "subjectId": "3300108327",
+    "year": "",
+    "publisher": "",
+    "title": "燃烧的蜂鸟：迷案1985",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/87/cpplatform_fa5sgdyxdtxsac5hdbyuur/t3_cpplatform_fa5sgdyxdtxsac5hdbyuur1721958784.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/87/cpplatform_fa5sgdyxdtxsac5hdbyuur/t9_cpplatform_fa5sgdyxdtxsac5hdbyuur1721958784.jpg",
+    "primary": false,
+    "collected": false
+   },
+   {
+    "subjectId": "3300155358",
+    "year": "",
+    "publisher": "江苏凤凰文艺出版社",
+    "title": "燃烧的蜂鸟.时空追凶1990",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/40/cpplatform_bwohrcxwlucnws888g1x5r/t3_cpplatform_bwohrcxwlucnws888g1x5r1753948980.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/40/cpplatform_bwohrcxwlucnws888g1x5r/t9_cpplatform_bwohrcxwlucnws888g1x5r1753948980.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "author136-015": [
@@ -17252,6 +16202,19 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34518355.jpg"
+   },
+   {
+    "subjectId": "37058628",
+    "year": "",
+    "publisher": "上海文艺出版社",
+    "translator": "曹逸冰",
+    "title": "空屋",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/628/37058628/t3_37058628.jpg",
+    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/628/37058628/t9_37058628.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "author136-022": [
@@ -17377,16 +16340,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33745944.jpg"
-   },
-   {
-    "subjectId": "30165351",
-    "year": "2017-7-3",
-    "publisher": "The British Library Publishing Division",
-    "title": "Death Makes A Prophet",
-    "file": "author137-005-30165351.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s29711117.jpg"
    }
   ],
   "author137-006": [
@@ -17400,16 +16353,6 @@
     "primary": true,
     "collected": true,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33959926.jpg"
-   },
-   {
-    "subjectId": "26291150",
-    "year": "2014-10-27",
-    "publisher": "British Library",
-    "title": "Sussex Downs Murder",
-    "file": "author137-006-26291150.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s27973489.jpg"
    }
   ],
   "author137-007": [
@@ -17818,17 +16761,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img2.doubanio.com/view/subject/s/public/s29939351.jpg"
-   },
-   {
-    "subjectId": "1478126",
-    "year": "2005-9",
-    "publisher": "時報",
-    "translator": "楊樂朵",
-    "title": "三毛貓怪談 三毛貓福爾摩斯系列",
-    "file": "facet138-025-1478126.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s1495778.jpg"
    }
   ],
   "facet138-026": [
@@ -17921,15 +16853,30 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34413979.jpg"
    },
    {
-    "subjectId": "35627243",
-    "year": "2021-11",
-    "publisher": "野人文化",
-    "translator": "詹慕如",
-    "title": "黑死館殺人事件",
-    "file": "japan2-001-35627243.webp",
+    "subjectId": "3300154857",
+    "year": "",
+    "publisher": "新星出版社",
+    "translator": "林敏生",
+    "title": "黑死馆杀人事件",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/8/cpplatform_5kmexvrwe75r4wl2rujdex/t3_cpplatform_5kmexvrwe75r4wl2rujdex1753858745.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/8/cpplatform_5kmexvrwe75r4wl2rujdex/t9_cpplatform_5kmexvrwe75r4wl2rujdex1753858745.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34044128.jpg"
+    "collected": false
+   },
+   {
+    "subjectId": "3300131062",
+    "year": "",
+    "publisher": "",
+    "translator": "真难",
+    "title": "黑死馆杀人事件：法水麟太郎探案03",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/96/cpplatform_ripcsfufifp5qsuwcvkgjp/t3_cpplatform_ripcsfufifp5qsuwcvkgjp1736849259.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/96/cpplatform_ripcsfufifp5qsuwcvkgjp/t9_cpplatform_ripcsfufifp5qsuwcvkgjp1736849259.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "japan2-002": [
@@ -18014,6 +16961,18 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34237423.jpg"
+   },
+   {
+    "subjectId": "3000004877",
+    "year": "",
+    "publisher": "",
+    "title": "刺青杀人事件",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/877/3000004877.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/877/3000004877.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "japan2-005": [
@@ -18029,14 +16988,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34533773.jpg"
    },
    {
-    "subjectId": "36376659",
-    "year": "2022-3-6",
-    "publisher": "Shelley Marshall",
-    "title": "The Nonserial Murders",
-    "file": "japan2-005-36376659.webp",
+    "subjectId": "3300145212",
+    "year": "",
+    "publisher": "",
+    "title": "不连续杀人事件",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/66/cpplatform_cfsbkmmacfbu8sy5avr8sv/t3_cpplatform_cfsbkmmacfbu8sy5avr8sv1747816045.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/66/cpplatform_cfsbkmmacfbu8sy5avr8sv/t9_cpplatform_cfsbkmmacfbu8sy5avr8sv1747816045.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34510620.jpg"
+    "collected": false
    }
   ],
   "japan2-006": [
@@ -18050,17 +17011,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33592128.jpg"
-   },
-   {
-    "subjectId": "2129905",
-    "year": "2007-12-10",
-    "publisher": "小知堂",
-    "translator": "林敏生",
-    "title": "獻給虛無的供物",
-    "file": "japan2-006-2129905.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s2552622.jpg"
    }
   ],
   "japan2-007": [
@@ -18156,15 +17106,16 @@
     "collected": false
    },
    {
-    "subjectId": "5314908",
-    "year": "2010-7-1",
-    "publisher": "시공사",
-    "translator": "권영주",
-    "title": "아 아이이치로의 낭패",
-    "file": "japan2-010-5314908.webp",
+    "subjectId": "3000026916",
+    "year": "",
+    "publisher": "吉林出版集团有限责任公司",
+    "title": "亚爱一郎的狼狈",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/916/3000026916.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/916/3000026916.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s4497787.jpg"
+    "collected": false
    }
   ],
   "japan2-011": [
@@ -18237,16 +17188,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s29679645.jpg"
-   },
-   {
-    "subjectId": "3273333",
-    "year": "2007-4-12",
-    "publisher": "光文社",
-    "title": "Wの悲劇 新装版",
-    "file": "japan2-013-3273333.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s6564801.jpg"
    }
   ],
   "japan2-014": [
@@ -18330,14 +17271,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s6428997.jpg"
    },
    {
-    "subjectId": "2054776",
-    "year": "1989-08",
-    "publisher": "講談社",
-    "title": "カディスの赤い星〈上〉 (講談社文庫)",
-    "file": "japan2-016-2054776.webp",
+    "subjectId": "3000189779",
+    "year": "",
+    "publisher": "",
+    "title": "卡迪斯红星",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/779/3000189779.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/779/3000189779.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s3120660.jpg"
+    "collected": false
    }
   ],
   "japan2-017": [
@@ -18420,14 +17363,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s26671529.jpg"
    },
    {
-    "subjectId": "6535748",
-    "year": "2011-6-15",
-    "publisher": "好讀出版有限公司",
-    "title": "魚玄機",
-    "file": "clc140-001-6535748.webp",
+    "subjectId": "832421",
+    "year": "",
+    "publisher": "中国民主法制出版社",
+    "title": "鱼玄机",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/56/YueWen_832421/t3_YueWen_832421.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/56/YueWen_832421/t9_YueWen_832421.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img2.doubanio.com/view/subject/s/public/s6522201.jpg"
+    "collected": false
    }
   ],
   "clc140-002": [
@@ -18440,16 +17385,6 @@
     "primary": true,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s27049248.jpg"
-   },
-   {
-    "subjectId": "6558865",
-    "year": "2011-7-1",
-    "publisher": "台湾好读出版社",
-    "title": "韓熙載夜宴",
-    "file": "clc140-002-6558865.webp",
-    "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s6572700.jpg"
    }
   ],
   "clc140-003": [
@@ -19143,14 +18078,16 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34752096.jpg"
    },
    {
-    "subjectId": "37290508",
+    "subjectId": "3004021816",
     "year": "",
-    "publisher": "",
-    "title": "Săn cá",
-    "file": "clc141-012-37290508.webp",
+    "publisher": "湖南文艺出版社",
+    "title": "鱼猎（一个堪比《少年的你》《沉默的真相》的悬疑故事，一份媲美《七月与安生》的女孩情谊）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/816/3004021816.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/816/3004021816.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35114164.jpg"
+    "collected": false
    }
   ],
   "clc141-013": [
@@ -19480,14 +18417,16 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s34664968.jpg"
    },
    {
-    "subjectId": "36586215",
-    "year": "2023-10",
-    "publisher": "威向",
-    "title": "全世界都在等我們分手",
-    "file": "clc141-033-36586215.webp",
+    "subjectId": "3003761909",
+    "year": "",
+    "publisher": "广东旅游出版社",
+    "title": "全世界都在等我们:2（8月31日晚20:00-20:03限时不限量特签~晋江人气作者不是风动代表",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/outpic/909/3003761909.jpg",
+    "largePic": "https://cdn.weread.qq.com/outpic/909/3003761909.jpg",
     "primary": false,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34723762.jpg"
+    "collected": false
    }
   ],
   "clc141-034": [
@@ -20231,6 +19170,18 @@
     "file": "clc142-040.webp",
     "primary": true,
     "collected": false
+   },
+   {
+    "subjectId": "3300054202",
+    "year": "",
+    "publisher": "北京联合出版公司",
+    "title": "陌生人",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_dfx3sosgn3rxppznnzdg5h/t3_cpplatform_dfx3sosgn3rxppznnzdg5h1680249567.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/77/cpplatform_dfx3sosgn3rxppznnzdg5h/t9_cpplatform_dfx3sosgn3rxppznnzdg5h1680249567.jpg",
+    "primary": false,
+    "collected": false
    }
   ],
   "clc143-001": [
@@ -20330,6 +19281,18 @@
     "title": "漂白",
     "file": "clc143-005.webp",
     "primary": true,
+    "collected": false
+   },
+   {
+    "subjectId": "3300027935",
+    "year": "",
+    "publisher": "作家出版社",
+    "title": "漂白（郭京飞、赵今麦主演同名热播剧原著）",
+    "remote": true,
+    "source": "微信读书",
+    "pic": "https://cdn.weread.qq.com/weread/cover/38/cpplatform_tvemyghtvqvzcrtmm9tslm/t3_cpplatform_tvemyghtvqvzcrtmm9tslm1737340938.jpg",
+    "largePic": "https://cdn.weread.qq.com/weread/cover/38/cpplatform_tvemyghtvqvzcrtmm9tslm/t9_cpplatform_tvemyghtvqvzcrtmm9tslm1737340938.jpg",
+    "primary": false,
     "collected": false
    }
   ],
