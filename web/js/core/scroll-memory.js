@@ -30,7 +30,7 @@ export function scrollKey(hash = '') {
  */
 export function listStateKey(params = {}) {
   const pick = (k) => String(params?.[k] ?? '');
-  return [pick('q'), pick('cat'), pick('tag'), pick('genre'), pick('origin'), pick('sort')].join('|');
+  return [pick('q'), pick('cat'), pick('tag'), pick('genre'), pick('origin'), pick('country'), pick('sort')].join('|');
 }
 
 /**

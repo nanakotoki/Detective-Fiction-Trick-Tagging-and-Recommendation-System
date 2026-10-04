@@ -2027,11 +2027,12 @@ test('滚动位置记忆：hash 归一化成记忆键', () => {
 });
 
 test('滚动位置记忆：页码按「筛选＋排序」分桶（换了筛选就该从第一页看起）', () => {
-  const base = { q: '', cat: '', tag: '', genre: '', origin: '', sort: '' };
+  const base = { q: '', cat: '', tag: '', genre: '', origin: '', country: '', sort: '' };
   assert.equal(listStateKey(base), listStateKey({ ...base }), '同样的参数 → 同一个桶');
   assert.notEqual(listStateKey(base), listStateKey({ ...base, q: '密室' }));
   assert.notEqual(listStateKey(base), listStateKey({ ...base, sort: 'year' }));
   assert.notEqual(listStateKey(base), listStateKey({ ...base, tag: 'locked-room' }));
+  assert.notEqual(listStateKey(base), listStateKey({ ...base, country: '日本' }), '换了国别也是另一条列表');
   assert.equal(listStateKey(undefined), listStateKey({}), '没参数也要能算，不能抛');
 });
 

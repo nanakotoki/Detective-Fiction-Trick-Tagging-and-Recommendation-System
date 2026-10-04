@@ -1898,6 +1898,19 @@ a.cover:hover {
   font-variant-numeric: tabular-nums;
 }
 
+/**
+ * 国别速览按钮里的数量（第 188 轮）。
+ *
+ * 与标签筛选同一个写法：数字排在国名后面、略小、等宽数字——
+ * 让「日本 1521」与「冰岛 11」两排按钮一眼能比出量级差，也不用把数字做得很响。
+ */
+.sort-chip .n {
+  margin-left: 0.35em;
+  font-size: 0.72rem;
+  opacity: 0.72;
+  font-variant-numeric: tabular-nums;
+}
+
 .matrix-scroll {
   overflow-x: auto;
   border: 1px solid var(--border);

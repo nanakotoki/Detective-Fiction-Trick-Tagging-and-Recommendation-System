@@ -106,6 +106,7 @@ export async function render(ctx) {
     tag: route.params.tag ?? '',
     genre: route.params.genre ?? '',
     origin: route.params.origin ?? '',
+    country: route.params.country ?? '',
     sort: route.params.sort ?? DEFAULT_SORT,
     page: 1,
   };
@@ -136,6 +137,23 @@ export async function render(ctx) {
   if (presentGenres.has('其他')) genres.push('其他');
   const tagCounts = new Map();
   for (const book of all) for (const id of bookTagIds(book)) tagCounts.set(id, (tagCounts.get(id) ?? 0) + 1);
+
+  /**
+   * 作者国别分布（第 188 轮）。
+   *
+   * 需求原话：「把数据库的书再设计一个分类，按照作者的国别来分类，**不少人只爱看某些国家的**」。
+   * 数据这边不用动——全库 3420 部**每一部都有 `country` 字段**，而且已经是归一好的
+   * 29 个国别（没有「英／英国」这类并存写法）。所以这是一个**浏览方式**的问题：
+   * 把国别做成看得见、点得到的入口 + 可分享的筛选参数。
+   */
+  const countryCounts = new Map();
+  for (const book of all) {
+    const name = String(book.country ?? '').trim();
+    if (name) countryCounts.set(name, (countryCounts.get(name) ?? 0) + 1);
+  }
+  const countries = [...countryCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'zh'));
+  /** 速览入口只放前几个大户：一眼能点，不必翻下拉框 */
+  const topCountries = countries.slice(0, 8);
 
   main.innerHTML = html`
     <div class="view-header">
@@ -230,6 +248,40 @@ export async function render(ctx) {
             `)
       }
 
+      ${
+        /**
+         * 按作者国别浏览（第 188 轮）。
+         *
+         * 做成**看得见的一排按钮 + 一个下拉框**：只爱看某国作品的读者一眼就能点进去，
+         * 想找小语种（冰岛、智利、南非…）的再用下拉框。国别同时写进 URL，
+         * 于是「日本推理」这种口味可以直接收藏、分享。
+         */
+        raw(html`
+          <div class="sort-bar">
+            <span class="sort-label">国别</span>
+            <div class="sort-chips" id="lib-countries" role="group" aria-label="按作者国别筛选">
+              <button type="button" class="sort-chip primary" data-country="" aria-pressed="${!state.country}">
+                全部<span class="n">${String(all.length)}</span>
+              </button>
+              ${topCountries.map(
+                ([name, n]) => raw(html`
+                  <button type="button" class="sort-chip" data-country="${name}" aria-pressed="${state.country === name}">
+                    ${name}<span class="n">${String(n)}</span>
+                  </button>
+                `),
+              )}
+            </div>
+            <label class="small muted" style="display:flex;gap:var(--space-2);align-items:center;margin-left:auto">
+              更多国别
+              <select id="lib-country" style="width:auto;min-width:150px">
+                <option value="">全部（${String(countries.length)} 个国别）</option>
+                ${countries.map(([name, n]) => raw(html`<option value="${name}">${name}（${String(n)} 部）</option>`))}
+              </select>
+            </label>
+          </div>
+        `)
+      }
+
       <div class="btn-row" style="gap:var(--space-3)">
         <label class="small muted" style="display:flex;gap:var(--space-2);align-items:center">
           流派
@@ -260,11 +312,22 @@ export async function render(ctx) {
   const sortEl = qs('#lib-sort');
   const genreEl = qs('#lib-genre');
   const originEl = qs('#lib-origin');
+  const countryEl = qs('#lib-country');
+  const countryChipsEl = qs('#lib-countries');
   const countEl = qs('#lib-count');
   const resultsEl = qs('#lib-results');
 
   genreEl.value = state.genre;
   originEl.value = state.origin;
+  if (countryEl) countryEl.value = state.country;
+
+  /** 同步国别按钮的选中态（下拉框与按钮组是同一个状态的两个入口） */
+  function syncCountryControls() {
+    for (const btn of qsa('#lib-countries .sort-chip')) {
+      btn.setAttribute('aria-pressed', String((btn.dataset.country ?? '') === state.country));
+    }
+    if (countryEl && countryEl.value !== state.country) countryEl.value = state.country;
+  }
 
   /** 同步排序按钮的选中态 */
   function syncSortChips() {
@@ -296,6 +359,7 @@ export async function render(ctx) {
     if (state.tag) params.set('tag', state.tag);
     if (state.genre) params.set('genre', state.genre);
     if (state.origin) params.set('origin', state.origin);
+    if (state.country) params.set('country', state.country);
     if (state.sort && state.sort !== DEFAULT_SORT) params.set('sort', state.sort);
     const query = params.toString();
     const next = `#/library${query ? `?${query}` : ''}`;
@@ -357,6 +421,8 @@ export async function render(ctx) {
     if (state.category) list = list.filter((b) => bookTagIds(b).some((id) => tagCategory(id) === state.category));
     if (state.genre) list = list.filter((b) => b.genre === state.genre);
     if (state.origin) list = list.filter((b) => (b.origin ?? 'seed') === state.origin);
+    // 作者国别：库里每一部都有这个字段（29 个归一好的国别），所以这里是精确相等
+    if (state.country) list = list.filter((b) => String(b.country ?? '').trim() === state.country);
 
     const mean = globalMeanScore(store.all());
     const sorters = {
@@ -515,6 +581,23 @@ export async function render(ctx) {
     syncUrl();
   });
 
+  /** 国别：按钮组与下拉框共用同一个状态，点哪边都立刻收窄结果并写回 URL */
+  const applyCountry = (value) => {
+    if (value === state.country) return;
+    state.country = value;
+    state.page = 1;
+    rememberPage();
+    syncCountryControls();
+    renderResults();
+    syncUrl();
+  };
+  on(countryChipsEl, 'click', (event) => {
+    const btn = event.target.closest?.('.sort-chip');
+    if (!btn) return;
+    applyCountry(btn.dataset.country ?? '');
+  });
+  on(countryEl, 'change', () => applyCountry(countryEl.value));
+
   /**
    * 敏感模式下清除「看不见的」标签筛选。
    *
@@ -550,6 +633,7 @@ export async function render(ctx) {
     state.tag = '';
     state.genre = '';
     state.origin = '';
+    state.country = '';
     // 「清空筛选」只清筛选条件，排序回到默认的评分排名
     state.sort = DEFAULT_SORT;
     state.page = 1;
@@ -557,7 +641,9 @@ export async function render(ctx) {
     searchEl.value = '';
     genreEl.value = '';
     originEl.value = '';
+    if (countryEl) countryEl.value = '';
     syncSortChips();
+    syncCountryControls();
     renderTagFilter();
     renderResults();
     // 关键：URL 也要一起清干净，否则刷新之后这些筛选会被 route.params 装回来

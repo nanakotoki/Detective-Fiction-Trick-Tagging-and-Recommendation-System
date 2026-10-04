@@ -1148,6 +1148,66 @@ await dom.settle(240);
 check('换搜索词后回到第一页', cardCount() <= 48, `卡片 ${cardCount()} 张`);
 
 /* ------------------------------------------------------------------ */
+/* 按作者国别浏览（第 188 轮 · 用户需求）                                */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [11] 按作者国别分类浏览', C.dim));
+
+/** 全库国别分布（直接从知识库算，用来和界面上的数字对照） */
+function countryTotals() {
+  const map = new Map();
+  for (const b of store.all()) {
+    const name = String(b.country ?? '').trim();
+    if (name) map.set(name, (map.get(name) ?? 0) + 1);
+  }
+  return map;
+}
+const totals = countryTotals();
+const japanTotal = totals.get('日本') ?? 0;
+
+await goto('#/library?country=' + encodeURIComponent('日本'));
+const japanCountText = dom.document.querySelector('#lib-count')?.textContent ?? '';
+check('带 country 参数打开知识库，结果数与该国总数一致', japanCountText.includes(String(japanTotal)), `${japanCountText}（知识库里日本 ${japanTotal} 部）`);
+const japanCards = [...dom.document.querySelectorAll('.book-card')];
+check('只渲染出该国的作品', japanCards.length > 0 && japanCards.every((el) => el.textContent.includes('日本')), `${japanCards.length} 张卡片`);
+check(
+  '国别按钮组列出了主要国别（含日本且标了数量）',
+  (dom.document.querySelector('#lib-countries')?.textContent ?? '').includes('日本'),
+);
+// 下拉框要覆盖全部国别（包括冰岛、智利这种只有一两部的小语种），
+// 这里按选项的 value 逐个核对，而不是数 <option> 个数——
+// minidom 的 `#id option` 后代选择器会把页面上其它下拉框的选项也算进来。
+const countrySelectHtml = dom.document.querySelector('#lib-country')?.innerHTML ?? '';
+const missingCountries = [...totals.keys()].filter((name) => !countrySelectHtml.includes(`value="${name}"`));
+check(
+  '下拉框覆盖全部国别（含「完全」之外的小语种）',
+  missingCountries.length === 0 && countrySelectHtml.includes('全部'),
+  missingCountries.length ? `缺：${missingCountries.slice(0, 5).join('、')}` : `${totals.size} 个国别都在`,
+);
+
+// 点另一个国别的按钮：立刻切换，并把选择写进 URL（可收藏、可分享）
+const cnChip = [...dom.document.querySelectorAll('#lib-countries .sort-chip')].find((b) => b.dataset.country === '中国');
+check('速览里有「中国」按钮', Boolean(cnChip));
+cnChip?.dispatchEvent({ type: 'click' });
+await dom.settle(120);
+check(
+  '点「中国」后 URL 带上 country 参数',
+  decodeURIComponent(dom.window.location.hash).includes('country=中国'),
+  dom.window.location.hash,
+);
+check('点「中国」后按钮进入选中态', cnChip?.getAttribute('aria-pressed') === 'true');
+const cnCards = [...dom.document.querySelectorAll('.book-card')];
+check('点「中国」后卡片只剩中国的作品', cnCards.length > 0 && cnCards.every((el) => el.textContent.includes('中国')), `${cnCards.length} 张卡片`);
+check('点「中国」后回到第一页', cnCards.length <= 48, `${cnCards.length} 张`);
+
+// 「清空筛选」也要把国别清掉（否则刷新之后又被装回来）
+dom.document.querySelector('#lib-reset')?.dispatchEvent({ type: 'click' });
+await dom.settle(200);
+check('「清空筛选」后 URL 里没有 country', !dom.window.location.hash.includes('country='), dom.window.location.hash);
+check('「清空筛选」后国别按钮回到「全部」', [...dom.document.querySelectorAll('#lib-countries .sort-chip')].find((b) => (b.dataset.country ?? '') === '')?.getAttribute('aria-pressed') === 'true');
+
+/* ------------------------------------------------------------------ */
 
 console.error = originalError;
 
