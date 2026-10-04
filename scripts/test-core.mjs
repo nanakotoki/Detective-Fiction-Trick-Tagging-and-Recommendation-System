@@ -74,6 +74,7 @@ import {
 import { buildQueries, cjkToNumber, looksLikeDifferentBook, normalizeAuthor, normalizeTitle, shortAuthorName, toTraditional } from './refresh-ratings.mjs';
 import { esc, html, raw } from '../web/js/ui/dom.js';
 import { listStateKey, scrollKey, shouldRestoreScroll } from '../web/js/core/scroll-memory.js';
+import { authorStats, countryStats, filterAuthors, regionOf } from '../web/js/core/catalog.js';
 import { versionAssets, versionModuleImports } from '../server/lib/static.mjs';
 
 /* ------------------------------------------------------------------ */
@@ -2013,6 +2014,75 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
 /* ------------------------------------------------------------------ */
 /* 封面判据码（第 177 轮：把「版本一览」两轮的判据说成弱链接的回归测试）  */
 /* ------------------------------------------------------------------ */
+
+/* ------------------------------------------------------------------ */
+/* 国别与作者聚合（第 189 轮：按国别浏览 + 搜作者看卷数）                 */
+/* ------------------------------------------------------------------ */
+
+test('国别聚合：国别归大区，未知国别落「其他」', () => {
+  assert.equal(regionOf('日本'), '东亚');
+  assert.equal(regionOf('中国'), '东亚');
+  assert.equal(regionOf('英国'), '欧洲');
+  assert.equal(regionOf('冰岛'), '欧洲');
+  assert.equal(regionOf('美国'), '北美');
+  assert.equal(regionOf('阿根廷'), '拉美');
+  assert.equal(regionOf('澳大利亚'), '大洋洲');
+  assert.equal(regionOf('南非'), '其他', '没登记的国别不能抛，也不该被塞进别的大区');
+  assert.equal(regionOf(''), '其他');
+  assert.equal(regionOf(undefined), '其他');
+});
+
+test('国别聚合：每个国别的藏书量、代表作者、最高分三本', () => {
+  const books = [
+    { id: 'a1', title: '甲', author: 'A', country: '日本', ratings: { douban: { score: 9.1 } } },
+    { id: 'a2', title: '乙', author: 'A', country: '日本', ratings: { douban: { score: 8.2 } } },
+    { id: 'a3', title: '丙', author: 'B', country: '日本', ratings: { douban: { score: 7.5 } } },
+    { id: 'b1', title: '丁', author: 'C', country: '英国', ratings: { douban: { score: 8.8 } } },
+    { id: 'b2', title: '戊', author: 'D', country: '英国' }, // 没有评分 → 不进 best
+    { id: 'x1', title: '己', author: 'E', country: '' }, // 没有国别 → 不进任何国别
+  ];
+  const stats = countryStats(books);
+  assert.deepEqual(stats.map((s) => s.country), ['日本', '英国'], '按藏书量降序');
+  const jp = stats.find((s) => s.country === '日本');
+  assert.equal(jp.count, 3);
+  assert.deepEqual(jp.authors[0], { name: 'A', count: 2 }, '代表作者按该国藏书量排');
+  assert.deepEqual(jp.best.map((b) => b.id), ['a1', 'a2', 'a3'], '最高分在前，且只收有评分的');
+  const uk = stats.find((s) => s.country === '英国');
+  assert.deepEqual(uk.best.map((b) => b.id), ['b1'], '没有评分的书不冒充「最高分」');
+  assert.equal(countryStats([]).length, 0);
+});
+
+test('作者聚合：搜作者能看到他有几卷（合著按每位署名作者各计一次）', () => {
+  const books = [
+    { id: 'a', title: '一', author: '东野圭吾', country: '日本', ratings: { douban: { score: 8.0 } } },
+    { id: 'b', title: '二', author: '东野圭吾', country: '日本', ratings: { douban: { score: 9.2 } } },
+    { id: 'c', title: '三', authors: ['东野圭吾', '另一位'], country: '日本', ratings: { douban: { score: 7.0 } } },
+    { id: 'd', title: '四', author: '阿加莎·克里斯蒂', country: '英国' },
+  ];
+  const stats = authorStats(books);
+  const higashino = stats.find((s) => s.name === '东野圭吾');
+  assert.equal(higashino.count, 3, '合著也算在他头上（与全站统计口径一致）');
+  assert.equal(higashino.country, '日本');
+  assert.equal(higashino.topScore, 9.2, '最高分取他自己的最好成绩');
+  assert.equal(higashino.best.id, 'b');
+  const christie = stats.find((s) => s.name === '阿加莎·克里斯蒂');
+  assert.equal(christie.topScore, null, '没有评分时是 null，不是 0');
+  assert.equal(stats[0].name, '东野圭吾', '默认按卷数降序');
+  // 「另一位」也要能被搜到
+  assert.ok(stats.some((s) => s.name === '另一位'));
+});
+
+test('作者聚合：搜索按姓名包含匹配，也能按国别搜', () => {
+  const list = authorStats([
+    { id: 'a', title: '一', author: '东野圭吾', country: '日本' },
+    { id: 'b', title: '二', author: '阿加莎·克里斯蒂', country: '英国' },
+    { id: 'c', title: '三', author: '江户川乱步', country: '日本' },
+  ]);
+  assert.equal(filterAuthors(list, '').length, 3, '空关键词返回全部');
+  assert.deepEqual(filterAuthors(list, '东野').map((a) => a.name), ['东野圭吾']);
+  assert.equal(filterAuthors(list, '日本').length, 2, '按国别也能搜');
+  assert.equal(filterAuthors(list, '不存在的人').length, 0);
+});
 
 /* ------------------------------------------------------------------ */
 /* 返回列表不丢位置（第 187 轮：用户反馈「看完返回就回到最上面」）        */

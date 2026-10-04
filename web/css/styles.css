@@ -1911,6 +1911,97 @@ a.cover:hover {
   font-variant-numeric: tabular-nums;
 }
 
+/* ---------- 作者国别总览（第 189 轮） ---------- */
+
+.country-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--space-4);
+}
+
+.country-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.country-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+
+.country-head h3 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.country-count {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--gold);
+  font-variant-numeric: tabular-nums;
+}
+
+/* 该国最高分三本：小封面 + 书名 + 分数，横向排一行 */
+.country-best {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-2);
+}
+
+.country-best-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  color: inherit;
+  text-decoration: none;
+}
+
+.country-best-item:hover .country-best-meta strong {
+  color: var(--gold);
+}
+
+.country-best-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1.35;
+}
+
+/* ---------- 作者总览（第 189 轮） ---------- */
+
+.author-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.author-table th,
+.author-table td {
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: middle;
+}
+
+.author-table th {
+  font-size: 0.78rem;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  font-weight: 700;
+}
+
+.author-table td.num,
+.author-table th.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.author-table tbody tr:hover {
+  background: var(--surface-2, rgba(255, 255, 255, 0.03));
+}
+
 .matrix-scroll {
   overflow-x: auto;
   border: 1px solid var(--border);

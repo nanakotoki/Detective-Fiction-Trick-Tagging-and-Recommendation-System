@@ -20,6 +20,8 @@ import { scrollKey, shouldRestoreScroll } from './core/scroll-memory.js';
 const ROUTES = {
   analyze: { title: '诡计分析', load: () => import('./views/analyze.js') },
   library: { title: '知识库', load: () => import('./views/library.js') },
+  countries: { title: '作者国别', load: () => import('./views/countries.js') },
+  authors: { title: '作者总览', load: () => import('./views/authors.js') },
   tags: { title: '标签体系', load: () => import('./views/tags.js') },
   compare: { title: '作品对比', load: () => import('./views/compare.js') },
   manage: { title: '添加小说', load: () => import('./views/manage.js') },

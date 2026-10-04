@@ -1208,6 +1208,87 @@ check('「清空筛选」后 URL 里没有 country', !dom.window.location.hash.i
 check('「清空筛选」后国别按钮回到「全部」', [...dom.document.querySelectorAll('#lib-countries .sort-chip')].find((b) => (b.dataset.country ?? '') === '')?.getAttribute('aria-pressed') === 'true');
 
 /* ------------------------------------------------------------------ */
+/* 国别总览与作者总览（第 189 轮 · 用户需求）                            */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [12] 国别总览页与作者总览页', C.dim));
+
+check('主导航里有「作者国别」入口', REAL_INDEX_HTML.includes('data-nav="countries"'), '缺 data-nav="countries"');
+check('主导航里有「作者」入口', REAL_INDEX_HTML.includes('data-nav="authors"'), '缺 data-nav="authors"');
+
+await goto('#/countries');
+const countriesHtml = bodyText();
+check('国别总览页渲染成功', countriesHtml.includes('按作者国别浏览'), `${countriesHtml.length} 字节`);
+check('国别页列出了日本且标了藏书量', /日本[\s\S]{0,200}1521 部/.test(countriesHtml.replace(/\s+/g, ' ')));
+check('国别页把国别按大区分组', countriesHtml.includes('东亚') && countriesHtml.includes('欧洲'));
+const countryStat = (await import('../web/js/core/catalog.js')).countryStats(store.all()).find((s) => s.country === '日本');
+check('国别页给出该国的代表作者', countriesHtml.includes(countryStat.authors[0].name), countryStat.authors[0].name);
+const browseJapan = [...dom.document.querySelectorAll('[data-country]')].find((b) => b.dataset.country === '日本');
+check('国别页有「浏览这些书」按钮', Boolean(browseJapan));
+browseJapan?.dispatchEvent({ type: 'click' });
+// 视图里的 navigate() 只改 location.hash；迷你 DOM 不会自动派发 hashchange，测试得自己补一刀
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(260);
+check(
+  '点国别卡片进入知识库并带上该国筛选',
+  decodeURIComponent(dom.window.location.hash).includes('country=日本'),
+  dom.window.location.hash,
+);
+check(
+  '筛出来的结果数与该国总数一致',
+  (dom.document.querySelector('#lib-count')?.textContent ?? '').includes(String(countryStat.count)),
+  `${dom.document.querySelector('#lib-count')?.textContent ?? ''}（期望 ${countryStat.count}）`,
+);
+
+await goto('#/authors');
+const authorsHtml = bodyText();
+check('作者总览页渲染成功', authorsHtml.includes('作者总览'), `${authorsHtml.length} 字节`);
+// 计数是渲染后写进 #au-count 的，读元素本身；迷你 DOM 的 innerHTML 不会跟着 textContent 变
+const authorCountText = dom.document.querySelector('#au-count')?.textContent ?? '';
+check('作者页标出作者总数', /共\s*\d+\s*位作者/.test(authorCountText), authorCountText || '（空）');
+const authorStat = (await import('../web/js/core/catalog.js')).authorStats(store.all())[0];
+check('卷数最多的作者排在第一位', authorsHtml.includes(authorStat.name), `${authorStat.name}（${authorStat.count} 卷）`);
+
+// 搜作者 → 立刻看到他有几卷
+const authorSearch = dom.document.querySelector('#au-search');
+authorSearch.value = '东野';
+authorSearch.dispatchEvent({ type: 'input' });
+await dom.settle(200);
+const searchHtml = bodyText();
+check(
+  '搜「东野」只剩东野圭吾一位',
+  (dom.document.querySelector('#au-count')?.textContent ?? '').includes('共 1 位作者'),
+  dom.document.querySelector('#au-count')?.textContent ?? '（空）',
+);
+const higashinoCount = store.all().filter((b) => (b.authors?.length ? b.authors : [b.author]).includes('东野圭吾')).length;
+check('作者行里写出了他的卷数', searchHtml.includes(String(higashinoCount)), `期望 ${higashinoCount} 卷`);
+const lookBtn = [...dom.document.querySelectorAll('[data-author]')].find((b) => b.dataset.author === '东野圭吾');
+check('作者行有「看这 N 卷」按钮', Boolean(lookBtn), lookBtn?.textContent?.trim() ?? '没有');
+lookBtn?.dispatchEvent({ type: 'click' });
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(280);
+check(
+  '点「看这 N 卷」进知识库并按作者筛',
+  decodeURIComponent(dom.window.location.hash).includes('author=东野圭吾'),
+  dom.window.location.hash,
+);
+const libHtml = bodyText();
+check('知识库写明「正在只看这位作者」', libHtml.includes('正在只看'), '没有作者筛选提示');
+const authorFilteredCount = dom.document.querySelector('#lib-count')?.textContent ?? '';
+check(
+  '知识库里的结果数等于该作者的卷数',
+  authorFilteredCount.includes(`共 ${String(higashinoCount)} 部`),
+  `${authorFilteredCount}（期望 ${higashinoCount} 部）`,
+);
+const clearAuthor = dom.document.querySelector('#lib-clear-author');
+check('作者筛选有一键清除', Boolean(clearAuthor));
+clearAuthor?.dispatchEvent({ type: 'click' });
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(280);
+check('清除后 URL 里没有 author', !dom.window.location.hash.includes('author='), dom.window.location.hash);
+
+/* ------------------------------------------------------------------ */
 
 console.error = originalError;
 

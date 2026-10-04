@@ -7,7 +7,7 @@ import { TAG_CATEGORIES, tagCategory, tagLabel, tagLabels } from '../core/tags.j
 import { bookTagIds } from '../core/engine.js';
 import { analyzeBook } from '../core/safety.js';
 import { isSensitive } from '../core/sensitive.js';
-import { GENRE_OPTIONS, collabLabel } from '../core/seed.js';
+import { GENRE_OPTIONS, collabLabel, authorListOf } from '../core/seed.js';
 import { sortYear } from '../core/store.js';
 import { coverBlock } from '../ui/cover.js';
 import { download, html, qs, qsa, raw, toast } from '../ui/dom.js';
@@ -107,6 +107,7 @@ export async function render(ctx) {
     genre: route.params.genre ?? '',
     origin: route.params.origin ?? '',
     country: route.params.country ?? '',
+    author: route.params.author ?? '',
     sort: route.params.sort ?? DEFAULT_SORT,
     page: 1,
   };
@@ -282,6 +283,26 @@ export async function render(ctx) {
         `)
       }
 
+      ${
+        /**
+         * 正在按作者筛选时，必须**明确写出来**并给一个一键清除。
+         * 不写的话用户会看到「结果莫名其妙只剩几十部」，甚至以为书丢了
+         * （敏感模式下标签筛选踩过同一个坑，见下面的 notice）。
+         */
+        state.author
+          ? raw(html`
+              <div class="notice notice-ok" id="lib-author-notice" style="margin-bottom:var(--space-3)">
+                <strong>正在只看「${state.author}」的作品</strong>
+                <p class="small" style="margin:0 0 var(--space-2)">
+                  这一位在本库共有 ${String(all.filter((b) => authorListOf(b).includes(state.author)).length)} 卷。
+                  想换人可以去<a href="#/authors">作者总览</a>搜名字——那里能看到每位作者有多少卷。
+                </p>
+                <button type="button" class="btn btn-sm" id="lib-clear-author">不再只看这一位</button>
+              </div>
+            `)
+          : ''
+      }
+
       <div class="btn-row" style="gap:var(--space-3)">
         <label class="small muted" style="display:flex;gap:var(--space-2);align-items:center">
           流派
@@ -360,6 +381,7 @@ export async function render(ctx) {
     if (state.genre) params.set('genre', state.genre);
     if (state.origin) params.set('origin', state.origin);
     if (state.country) params.set('country', state.country);
+    if (state.author) params.set('author', state.author);
     if (state.sort && state.sort !== DEFAULT_SORT) params.set('sort', state.sort);
     const query = params.toString();
     const next = `#/library${query ? `?${query}` : ''}`;
@@ -423,6 +445,11 @@ export async function render(ctx) {
     if (state.origin) list = list.filter((b) => (b.origin ?? 'seed') === state.origin);
     // 作者国别：库里每一部都有这个字段（29 个归一好的国别），所以这里是精确相等
     if (state.country) list = list.filter((b) => String(b.country ?? '').trim() === state.country);
+    /**
+     * 按作者筛：用 `authorListOf` 而不是 `b.author` ——合著与合集里，
+     * 第二、三位署名作者也要能被搜到（第 189 轮，与「作者总览」的统计口径一致）。
+     */
+    if (state.author) list = list.filter((b) => authorListOf(b).includes(state.author));
 
     const mean = globalMeanScore(store.all());
     const sorters = {
@@ -598,6 +625,17 @@ export async function render(ctx) {
   });
   on(countryEl, 'change', () => applyCountry(countryEl.value));
 
+  /** 作者筛选的「不再只看这一位」：清掉状态、重画、写回 URL */
+  on(qs('#lib-clear-author'), 'click', () => {
+    state.author = '';
+    state.page = 1;
+    rememberPage();
+    renderResults();
+    syncUrl();
+    // 顶部那条提示写在模板里，得整页重绘才会消失
+    if (state.author === '') navigate('library');
+  });
+
   /**
    * 敏感模式下清除「看不见的」标签筛选。
    *
@@ -634,6 +672,7 @@ export async function render(ctx) {
     state.genre = '';
     state.origin = '';
     state.country = '';
+    state.author = '';
     // 「清空筛选」只清筛选条件，排序回到默认的评分排名
     state.sort = DEFAULT_SORT;
     state.page = 1;
