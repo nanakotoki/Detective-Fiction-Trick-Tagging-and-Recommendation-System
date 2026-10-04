@@ -10,6 +10,8 @@
  *   npm run covers:wait -- --hours 3       # 只守 3 小时（比如睡前挂着，关机就算了）
  *   npm run covers:wait -- --interval 8 --tries 120   # 更省事的探法（约 16 小时）
  *   npm run covers:wait -- --quick         # 通了以后跳过最慢的重复图体检
+ *   npm run covers:wait -- --crawl         # 通了先跑一轮长尾抓取，再收尾（额度一开就用上）
+ *   npm run covers:wait -- --crawl --hours 6   # 守 6 小时，通了抓一轮 + 收尾
  *
  * 探测判据：条目页能拿到正文（>20KB 且含 `id="mainpic"`）——与抓取脚本同一条判据，
  * 不接受「HTTP 200 但其实是拦截页」。通了才动手，绝不硬碰（额度是累计的，§175）。
@@ -85,6 +87,36 @@ if (!open) {
   // 带着在途连接 process.exit() 在 Windows 上会触发 libuv 断言（退出码看着像崩溃），先让连接收干净
   await sleep(500);
   process.exit(1);
+}
+
+/**
+ * `--crawl`：通了先跑一轮长尾抓取（给版本数还不到 3 的书补版本），再跑收尾链。
+ *
+ * 为什么要串起来：豆瓣的额度是**按窗口**给的（实测一个窗口约 930~2800 次页面请求），
+ * 所以最有价值的自动化是「窗口一开就把额度用在抓取上」——收尾链本身不费额度。
+ * 抓取脚本自己会在被挡时熔断收手（§175／§186），所以这里不必再判断。
+ */
+if (argv.includes('--crawl')) {
+  log('▶ 长尾抓取：给版本数还不到 3 的书补版本（被挡时脚本会自己收手）');
+  const crawl = spawnSync(
+    process.execPath,
+    [
+      'scripts/fetch-covers.mjs',
+      '--editions',
+      '--max-editions',
+      '3',
+      '--delay',
+      '1200',
+      '--pause-every',
+      '250',
+      '--pause-ms',
+      '420000',
+      '--checkpoint',
+      '40',
+    ],
+    { stdio: 'inherit', cwd: ROOT },
+  );
+  log(`长尾抓取结束（退出码 ${crawl.status}）——接着跑收尾链`);
 }
 
 log('▶ 开始收尾链：node scripts/finish-covers.mjs ' + PASS_THROUGH.join(' '));
