@@ -14,6 +14,7 @@ import {
   toggleSensitive,
 } from './core/sensitive.js';
 import { applyStoredTheme, qs, qsa, toast, toggleTheme } from './ui/dom.js';
+import { scrollKey, shouldRestoreScroll } from './core/scroll-memory.js';
 
 /** 路由表 */
 const ROUTES = {
@@ -105,11 +106,39 @@ const ctx = {
 
 let renderToken = 0;
 
+/**
+ * 每条路由记住的滚动位置（第 187 轮）。
+ *
+ * 用户反馈：「知识库翻到很后面，点进一本书，看完返回就回到最上面了，又得重新翻。」
+ * 这里负责把位置记下来，并在**回到原来那条列表**时还回去；判断条件住在
+ * `core/scroll-memory.js`（纯函数，带单测）。
+ */
+const scrollMemory = new Map();
+/** 上一次真正渲染出来的路由（记忆键 + 视图名），用来判断「从哪来、到哪去」 */
+let lastRendered = { key: null, view: null };
+/** 浏览器前进／后退会把 popstate 置起（hashchange 紧随其后），据此区分「往回走」与「主动点导航」 */
+let pendingPop = false;
+
 async function renderRoute({ keepScroll = false } = {}) {
   const token = ++renderToken;
   const route = parseHash();
   const main = qs('#main');
   if (!main) return;
+
+  const routeKey = scrollKey(location.hash);
+  const prev = lastRendered;
+  // 离开之前先把位置记下来；详情页本身不留位置（不会有人指望返回详情页时停在半路）
+  if (prev.key && prev.view && prev.view !== 'book') scrollMemory.set(prev.key, window.scrollY);
+  const savedScroll = scrollMemory.get(routeKey);
+  const restoreScroll = shouldRestoreScroll({
+    prevView: prev.view,
+    prevKey: prev.key,
+    nextView: route.name,
+    nextKey: routeKey,
+    isPop: pendingPop,
+    saved: savedScroll ?? null,
+  });
+  pendingPop = false;
 
   // 卸载上一个视图，释放事件监听
   try {
@@ -158,8 +187,19 @@ async function renderRoute({ keepScroll = false } = {}) {
 
     state.currentView = route.name;
     document.title = `${definition.title} · ${BASE_TITLE}`;
-    if (!keepScroll) window.scrollTo({ top: 0, behavior: 'auto' });
-    else window.scrollTo({ top: scrollY, behavior: 'auto' });
+    if (keepScroll) {
+      window.scrollTo({ top: scrollY, behavior: 'auto' });
+    } else if (restoreScroll) {
+      /**
+       * 回到原来那条列表：把偏移还回去。补一次 rAF 再定位一次——
+       * 封面是懒加载的，首帧里部分卡片还没撑开高度，只定位一次可能差几十像素。
+       */
+      window.scrollTo({ top: savedScroll, behavior: 'auto' });
+      globalThis.requestAnimationFrame?.(() => window.scrollTo({ top: savedScroll, behavior: 'auto' }));
+    } else {
+      window.scrollTo({ top: 0, behavior: 'auto' });
+    }
+    lastRendered = { key: routeKey, view: route.name };
   } catch (error) {
     if (token !== renderToken) return;
     console.error('[app] 视图渲染失败', error);
@@ -215,6 +255,10 @@ async function bootstrap() {
     renderRoute({ keepScroll: true });
   });
 
+  window.addEventListener('popstate', () => {
+    // 浏览器前进／后退：这是「往回走」，应当把原来的位置还回去
+    pendingPop = true;
+  });
   window.addEventListener('hashchange', () => renderRoute());
 
   // 键盘快捷键：/ 聚焦搜索，g 系列导航

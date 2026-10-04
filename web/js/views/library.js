@@ -11,6 +11,7 @@ import { GENRE_OPTIONS, collabLabel } from '../core/seed.js';
 import { sortYear } from '../core/store.js';
 import { coverBlock } from '../ui/cover.js';
 import { download, html, qs, qsa, raw, toast } from '../ui/dom.js';
+import { listStateKey } from '../core/scroll-memory.js';
 
 export const meta = { title: '知识库' };
 
@@ -107,6 +108,25 @@ export async function render(ctx) {
     origin: route.params.origin ?? '',
     sort: route.params.sort ?? DEFAULT_SORT,
     page: 1,
+  };
+
+  /**
+   * 「显示到第几页」要跨导航记住（第 187 轮）。
+   *
+   * 用户反馈：翻到很后面点进一本书、看完返回，**又回到最上面**得重新翻。
+   * 一半原因在这里：`page` 是每次渲染新建的局部状态，"显示更多" 点出来的几百张卡片
+   * 返回后只剩 48 张——**后面的内容根本不在 DOM 里**，滚动位置也就无处可恢复。
+   *
+   * 记在 `ctx.memory`（跨视图重绘保留）里，并**按筛选＋排序分桶**：
+   * 换了搜索词／筛选就该从第一页看起，不该继承上一次的页码。
+   */
+  const pageKey = listStateKey(route.params ?? {});
+  const remembered = ctx.memory?.get?.('library.page');
+  if (remembered && remembered.key === pageKey && Number(remembered.page) > 0) {
+    state.page = Number(remembered.page);
+  }
+  const rememberPage = () => {
+    ctx.memory?.set?.('library.page', { key: pageKey, page: state.page });
   };
 
   const all = store.all();
@@ -533,6 +553,7 @@ export async function render(ctx) {
     // 「清空筛选」只清筛选条件，排序回到默认的评分排名
     state.sort = DEFAULT_SORT;
     state.page = 1;
+    rememberPage();
     searchEl.value = '';
     genreEl.value = '';
     originEl.value = '';
@@ -545,6 +566,7 @@ export async function render(ctx) {
   on(resultsEl, 'click', (event) => {
     if (event.target.closest('#lib-more')) {
       state.page += 1;
+      rememberPage();
       renderResults();
     }
   });

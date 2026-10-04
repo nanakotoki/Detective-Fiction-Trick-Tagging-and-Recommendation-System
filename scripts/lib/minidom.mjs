@@ -660,7 +660,19 @@ export function installDom(options = {}) {
       for (const handler of listeners.get(event.type) ?? []) handler(event);
       return true;
     },
-    scrollTo() {},
+    /**
+     * 滚动位置要**真的记下来**（第 187 轮）。
+     *
+     * 原先 `scrollTo()` 是空的、`scrollY` 恒为 0——于是「返回列表时恢复原来的位置」这件事
+     * 在视图回归测试里**根本测不出来**（代码写错也照样绿）。现在它像一个真窗口：
+     * 记录 scrollY，支持 `scrollTo({ top })` 与 `scrollTo(0, y)` 两种写法。
+     * 注意这里不模拟布局：页面有多高由测试自己摆布，minidom 只负责记住那个数字。
+     */
+    scrollTo(...args) {
+      const first = args[0];
+      const top = typeof first === 'object' && first !== null ? Number(first.top) : Number(args[1] ?? first);
+      if (Number.isFinite(top)) win.scrollY = Math.max(0, top);
+    },
     scrollY: 0,
     print() {},
     localStorage: {

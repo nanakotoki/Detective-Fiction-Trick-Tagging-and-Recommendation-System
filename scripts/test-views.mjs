@@ -1073,6 +1073,81 @@ check('档案页版本一览是一个可填充的容器', Boolean(dom.document.q
 check('档案页大图可点（点开看大图）', Boolean(dom.document.querySelector('[data-cover-open="hero"]')));
 
 /* ------------------------------------------------------------------ */
+/* 返回列表不丢位置（第 187 轮 · 用户反馈）                              */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [10] 看到一半点进书、返回时位置还在', C.dim));
+
+/** 打开知识库（不带筛选参数，页码记忆的桶键就是它自己的参数组合） */
+async function openPlainLibrary() {
+  dom.window.location.hash = '#/library';
+  dom.window.dispatchEvent({ type: 'hashchange' });
+  await dom.settle(240);
+}
+/** 模拟一次路由跳转（测试里 hash 变化不会自动触发事件，得手动派发） */
+async function goto(hash, { pop = false } = {}) {
+  if (pop) dom.window.dispatchEvent({ type: 'popstate' });
+  dom.window.location.hash = hash;
+  dom.window.dispatchEvent({ type: 'hashchange' });
+  await dom.settle(240);
+}
+const cardCount = () => dom.document.querySelectorAll('.book-card').length;
+
+await openPlainLibrary();
+// 卡片里的书名是一个指向档案页的链接；这里按 href 前缀找，别依赖后代选择器的实现细节
+const firstBookHref =
+  [...dom.document.querySelectorAll('a')]
+    .map((a) => a.getAttribute('href') ?? '')
+    .find((href) => href.startsWith('#/book/')) ?? '';
+check('知识库第一张卡片链到档案页', firstBookHref.startsWith('#/book/'), firstBookHref || '（没找到）');
+
+// 用户滚到很深的位置，然后点开一本书
+dom.window.scrollY = 1480;
+await goto(firstBookHref);
+check('进入档案页后停在顶部（详情页不该继承列表的位置）', dom.window.scrollY === 0, `scrollY=${dom.window.scrollY}`);
+
+// 浏览器「后退」：popstate + hashchange
+await goto('#/library', { pop: true });
+check(
+  '浏览器后退回到知识库，原来的位置被还回来',
+  dom.window.scrollY === 1480,
+  `scrollY=${dom.window.scrollY}（期望 1480）`,
+);
+
+/**
+ * 「显示更多」点出来的页码也要跨导航记住——否则返回时只剩 48 张卡片，
+ * 就算把滚动位置还回去，页面上也没有那么长，照样落回顶部。
+ */
+dom.window.scrollY = 0;
+await openPlainLibrary();
+const moreBtn = dom.document.querySelector('#lib-more');
+check('知识库有「显示更多」按钮', Boolean(moreBtn));
+moreBtn?.dispatchEvent({ type: 'click' });
+dom.document.querySelector('#lib-more')?.dispatchEvent({ type: 'click' });
+const paged = cardCount();
+check('点两次「显示更多」后卡片变多（3 页）', paged === 48 * 3, `卡片 ${paged} 张`);
+
+dom.window.scrollY = 2600;
+await goto(firstBookHref);
+await goto('#/library', { pop: true });
+check('返回后仍然是 3 页（位置才有处可放）', cardCount() === 48 * 3, `卡片 ${cardCount()} 张`);
+check('返回后滚动位置也还在', dom.window.scrollY === 2600, `scrollY=${dom.window.scrollY}`);
+
+// 主动点顶部导航进来 = 从头看（这是另一次浏览行为，不该把人拽回半路）
+dom.window.scrollY = 900;
+await goto('#/tags');
+await goto('#/library');
+check('从顶部导航主动进知识库 = 从顶部开始', dom.window.scrollY === 0, `scrollY=${dom.window.scrollY}`);
+// 换了筛选条件也不该继承上一次的页码
+await openPlainLibrary();
+const searchBox = dom.document.querySelector('#lib-search');
+searchBox.value = '密室';
+searchBox.dispatchEvent({ type: 'input' });
+await dom.settle(240);
+check('换搜索词后回到第一页', cardCount() <= 48, `卡片 ${cardCount()} 张`);
+
+/* ------------------------------------------------------------------ */
 
 console.error = originalError;
 

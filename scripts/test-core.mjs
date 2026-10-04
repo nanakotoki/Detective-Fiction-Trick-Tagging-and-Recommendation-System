@@ -73,6 +73,7 @@ import {
 } from '../web/js/core/ratings.js';
 import { buildQueries, cjkToNumber, looksLikeDifferentBook, normalizeAuthor, normalizeTitle, shortAuthorName, toTraditional } from './refresh-ratings.mjs';
 import { esc, html, raw } from '../web/js/ui/dom.js';
+import { listStateKey, scrollKey, shouldRestoreScroll } from '../web/js/core/scroll-memory.js';
 import { versionAssets, versionModuleImports } from '../server/lib/static.mjs';
 
 /* ------------------------------------------------------------------ */
@@ -2012,6 +2013,54 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
 /* ------------------------------------------------------------------ */
 /* 封面判据码（第 177 轮：把「版本一览」两轮的判据说成弱链接的回归测试）  */
 /* ------------------------------------------------------------------ */
+
+/* ------------------------------------------------------------------ */
+/* 返回列表不丢位置（第 187 轮：用户反馈「看完返回就回到最上面」）        */
+/* ------------------------------------------------------------------ */
+
+test('滚动位置记忆：hash 归一化成记忆键', () => {
+  assert.equal(scrollKey('#/library'), '#/library');
+  assert.equal(scrollKey('#/library/'), '#/library', '尾部斜杠不该算成另一页');
+  assert.equal(scrollKey('#/library?tag=locked-room'), '#/library?tag=locked-room', '带筛选参数的是另一条列表');
+  assert.equal(scrollKey('#/'), '#/');
+  assert.equal(scrollKey(''), '#/');
+});
+
+test('滚动位置记忆：页码按「筛选＋排序」分桶（换了筛选就该从第一页看起）', () => {
+  const base = { q: '', cat: '', tag: '', genre: '', origin: '', sort: '' };
+  assert.equal(listStateKey(base), listStateKey({ ...base }), '同样的参数 → 同一个桶');
+  assert.notEqual(listStateKey(base), listStateKey({ ...base, q: '密室' }));
+  assert.notEqual(listStateKey(base), listStateKey({ ...base, sort: 'year' }));
+  assert.notEqual(listStateKey(base), listStateKey({ ...base, tag: 'locked-room' }));
+  assert.equal(listStateKey(undefined), listStateKey({}), '没参数也要能算，不能抛');
+});
+
+test('滚动位置记忆：什么时候才该把位置还回去', () => {
+  const saved = 1200;
+  // 浏览器后退／前进 → 恢复
+  assert.equal(
+    shouldRestoreScroll({ prevView: 'book', prevKey: '#/book/a', nextView: 'library', nextKey: '#/library', isPop: true, saved }),
+    true,
+  );
+  // 从档案页返回列表（书页上的「返回」是新的一次导航）→ 恢复
+  assert.equal(
+    shouldRestoreScroll({ prevView: 'book', prevKey: '#/book/a', nextView: 'library', nextKey: '#/library', isPop: false, saved }),
+    true,
+  );
+  // 从别的页面主动点顶部导航进知识库 → 从头看
+  assert.equal(
+    shouldRestoreScroll({ prevView: 'tags', prevKey: '#/tags', nextView: 'library', nextKey: '#/library', isPop: false, saved }),
+    false,
+  );
+  // 同一页重绘（改筛选等）→ 交给 keepScroll，不在这里抢
+  assert.equal(
+    shouldRestoreScroll({ prevView: 'library', prevKey: '#/library', nextView: 'library', nextKey: '#/library', isPop: false, saved }),
+    false,
+  );
+  // 没记过位置 → 不恢复（而不是回到 0 以外的什么值）
+  assert.equal(shouldRestoreScroll({ prevView: 'book', nextView: 'library', nextKey: '#/library', isPop: true, saved: null }), false);
+  assert.equal(shouldRestoreScroll({ nextKey: '#/library', isPop: true, saved: Number.NaN }), false);
+});
 
 /* ------------------------------------------------------------------ */
 /* 主图该是哪一版（第 180 轮：外文版顶掉中文版的自查与修正）             */
