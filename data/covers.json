@@ -2,7 +2,7 @@
   "format": "detective-fiction-covers",
   "version": 1,
   "note": "封面索引：每条记录说明这部作品的封面文件、来源条目与同版判据。图片本地存放在 web/covers/，文件名即作品 id。missing 里的条目页面上用 web/covers/_placeholder.svg 占位。",
-  "generatedAt": "2026-10-03T06:37:03.899Z",
+  "generatedAt": "2026-10-04T06:59:58.426Z",
   "records": {
     "honkaku-001": {
       "file": "honkaku-001.webp",
@@ -165950,6 +165950,1930 @@
           "fetchedAt": "2026-10-02T19:59:42.381Z"
         }
       ]
+    },
+    "opac104-010": {
+      "file": "opac104-010.webp",
+      "bytes": 10798,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35219638/",
+      "subjectId": "35219638",
+      "matched": "shlib-isbn",
+      "isbn": "9787514861952",
+      "query": "上图 OPAC 书号 9787514861952",
+      "edition": {
+        "title": "赫蒂三部曲（全3册）",
+        "author": "凑佳苗",
+        "year": "2020-7"
+      },
+      "bookYear": "2013",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:50:52.309Z",
+      "editions": [
+        {
+          "subjectId": "35219638",
+          "file": "opac104-010.webp",
+          "title": "赫蒂三部曲（全3册）",
+          "year": "2020-7",
+          "publisher": "",
+          "bytes": 10798,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:50:52.309Z"
+        }
+      ]
+    },
+    "gap116-011": {
+      "file": "gap116-011.webp",
+      "bytes": 5386,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36372549/",
+      "subjectId": "36372549",
+      "matched": "shlib-isbn",
+      "isbn": "9787109304048",
+      "query": "上图 OPAC 书号 9787109304048",
+      "edition": {
+        "title": "金鱼(家养观赏鱼系列)",
+        "author": "雷蒙德·钱德勒",
+        "year": ""
+      },
+      "bookYear": "2021",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:50:53.828Z",
+      "editions": [
+        {
+          "subjectId": "36372549",
+          "file": "gap116-011.webp",
+          "title": "金鱼(家养观赏鱼系列)",
+          "year": "",
+          "publisher": "",
+          "bytes": 5386,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:50:53.828Z"
+        }
+      ]
+    },
+    "gap117-018": {
+      "file": "gap117-018.webp",
+      "bytes": 14928,
+      "width": 270,
+      "height": 390,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1934860/",
+      "subjectId": "1934860",
+      "matched": "shlib-isbn",
+      "isbn": "9787801718303",
+      "query": "上图 OPAC 书号 9787801718303",
+      "edition": {
+        "title": "红蜘蛛",
+        "author": "笹泽左保",
+        "year": "2006-8"
+      },
+      "bookYear": "2000",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:50:56.340Z",
+      "editions": [
+        {
+          "subjectId": "1934860",
+          "file": "gap117-018.webp",
+          "title": "红蜘蛛",
+          "year": "2006-8",
+          "publisher": "",
+          "bytes": 14928,
+          "width": 270,
+          "height": 390,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:50:56.340Z"
+        }
+      ]
+    },
+    "gap119-022": {
+      "file": "gap119-022.webp",
+      "bytes": 7706,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35596816/",
+      "subjectId": "35596816",
+      "matched": "shlib-isbn",
+      "isbn": "9787505639010",
+      "query": "上图 OPAC 书号 9787505639010",
+      "edition": {
+        "title": "中国经典民间故事彩色连环画",
+        "author": "薇儿·麦克德米德",
+        "year": "2021-5"
+      },
+      "bookYear": "2016",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:50:58.987Z",
+      "editions": [
+        {
+          "subjectId": "35596816",
+          "file": "gap119-022.webp",
+          "title": "中国经典民间故事彩色连环画",
+          "year": "2021-5",
+          "publisher": "",
+          "bytes": 7706,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:50:58.987Z"
+        }
+      ]
+    },
+    "facet123-008": {
+      "file": "facet123-008.webp",
+      "bytes": 1628,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1512434/",
+      "subjectId": "1512434",
+      "matched": "shlib-isbn",
+      "isbn": "9787500829478",
+      "query": "上图 OPAC 书号 9787500829478",
+      "edition": {
+        "title": "私家侦探",
+        "author": "纪蔚然",
+        "year": "2003-1"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:00.349Z",
+      "editions": [
+        {
+          "subjectId": "1512434",
+          "file": "facet123-008.webp",
+          "title": "私家侦探",
+          "year": "2003-1",
+          "publisher": "",
+          "bytes": 1628,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:00.349Z"
+        }
+      ]
+    },
+    "coll134-011": {
+      "file": "coll134-011.webp",
+      "bytes": 5950,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36340533/",
+      "subjectId": "36340533",
+      "matched": "shlib-isbn",
+      "isbn": "9787562867173",
+      "query": "上图 OPAC 书号 9787562867173",
+      "edition": {
+        "title": "日本推理短篇小说选（名家导读版.日汉对照.赠双语音频）",
+        "author": "江户川乱步 等",
+        "year": ""
+      },
+      "bookYear": "2023",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:02.564Z",
+      "editions": [
+        {
+          "subjectId": "36340533",
+          "file": "coll134-011.webp",
+          "title": "日本推理短篇小说选（名家导读版.日汉对照.赠双语音频）",
+          "year": "",
+          "publisher": "",
+          "bytes": 5950,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:02.564Z"
+        }
+      ]
+    },
+    "author136-016": {
+      "file": "author136-016.webp",
+      "bytes": 15024,
+      "width": 270,
+      "height": 394,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36856725/",
+      "subjectId": "36856725",
+      "matched": "shlib-isbn",
+      "isbn": "9787521764123",
+      "query": "上图 OPAC 书号 9787521764123",
+      "edition": {
+        "title": "坏家伙们",
+        "author": "九滴水",
+        "year": "2024-4-16"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:04.312Z",
+      "editions": [
+        {
+          "subjectId": "36856725",
+          "file": "author136-016.webp",
+          "title": "坏家伙们",
+          "year": "2024-4-16",
+          "publisher": "",
+          "bytes": 15024,
+          "width": 270,
+          "height": 394,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:04.312Z"
+        }
+      ]
+    },
+    "clc140-010": {
+      "file": "clc140-010.webp",
+      "bytes": 3972,
+      "width": 270,
+      "height": 373,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/26606497/",
+      "subjectId": "26606497",
+      "matched": "shlib-isbn",
+      "isbn": "9787511879585",
+      "query": "上图 OPAC 书号 9787511879585",
+      "edition": {
+        "title": "三叶虫",
+        "author": "王曼",
+        "year": "2015-7"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:09.360Z",
+      "editions": [
+        {
+          "subjectId": "26606497",
+          "file": "clc140-010.webp",
+          "title": "三叶虫",
+          "year": "2015-7",
+          "publisher": "",
+          "bytes": 3972,
+          "width": 270,
+          "height": 373,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:09.360Z"
+        }
+      ]
+    },
+    "clc140-020": {
+      "file": "clc140-020.webp",
+      "bytes": 12948,
+      "width": 270,
+      "height": 411,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/27119072/",
+      "subjectId": "27119072",
+      "matched": "shlib-isbn",
+      "isbn": "9787513327947",
+      "query": "上图 OPAC 书号 9787513327947",
+      "edition": {
+        "title": "空中小姐",
+        "author": "小米",
+        "year": "2017-11"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:11.447Z",
+      "editions": [
+        {
+          "subjectId": "27119072",
+          "file": "clc140-020.webp",
+          "title": "空中小姐",
+          "year": "2017-11",
+          "publisher": "",
+          "bytes": 12948,
+          "width": 270,
+          "height": 411,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:11.447Z"
+        }
+      ]
+    },
+    "clc140-027": {
+      "file": "clc140-027.webp",
+      "bytes": 3384,
+      "width": 270,
+      "height": 394,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/5044280/",
+      "subjectId": "5044280",
+      "matched": "shlib-isbn",
+      "isbn": "9787561351673",
+      "query": "上图 OPAC 书号 9787561351673",
+      "edition": {
+        "title": "刺杀",
+        "author": "张宝瑞",
+        "year": "2010-1"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:13.129Z",
+      "editions": [
+        {
+          "subjectId": "5044280",
+          "file": "clc140-027.webp",
+          "title": "刺杀",
+          "year": "2010-1",
+          "publisher": "",
+          "bytes": 3384,
+          "width": 270,
+          "height": 394,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:13.129Z"
+        }
+      ]
+    },
+    "clc142-012": {
+      "file": "clc142-012.webp",
+      "bytes": 6038,
+      "width": 270,
+      "height": 391,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35536483/",
+      "subjectId": "35536483",
+      "matched": "shlib-isbn",
+      "isbn": "9787549635221",
+      "query": "上图 OPAC 书号 9787549635221",
+      "edition": {
+        "title": "双城",
+        "author": "万安",
+        "year": "2021-4"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:14.576Z",
+      "editions": [
+        {
+          "subjectId": "35536483",
+          "file": "clc142-012.webp",
+          "title": "双城",
+          "year": "2021-4",
+          "publisher": "",
+          "bytes": 6038,
+          "width": 270,
+          "height": 391,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:14.576Z"
+        }
+      ]
+    },
+    "clc142-021": {
+      "file": "clc142-021.webp",
+      "bytes": 19220,
+      "width": 270,
+      "height": 381,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36137466/",
+      "subjectId": "36137466",
+      "matched": "shlib-isbn",
+      "isbn": "9787205105495",
+      "query": "上图 OPAC 书号 9787205105495",
+      "edition": {
+        "title": "无处遁逃",
+        "author": "王文杰",
+        "year": "2023-1"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:16.398Z",
+      "editions": [
+        {
+          "subjectId": "36137466",
+          "file": "clc142-021.webp",
+          "title": "无处遁逃",
+          "year": "2023-1",
+          "publisher": "",
+          "bytes": 19220,
+          "width": 270,
+          "height": 381,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:16.398Z"
+        }
+      ]
+    },
+    "clc142-040": {
+      "file": "clc142-040.webp",
+      "bytes": 17318,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36719459/",
+      "subjectId": "36719459",
+      "matched": "shlib-isbn",
+      "isbn": "9787558340680",
+      "query": "上图 OPAC 书号 9787558340680",
+      "edition": {
+        "title": "小熊哥哥和小熊妹妹.第二辑（全10册）",
+        "author": "陈研一",
+        "year": "2023-12"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:17.834Z",
+      "editions": [
+        {
+          "subjectId": "36719459",
+          "file": "clc142-040.webp",
+          "title": "小熊哥哥和小熊妹妹.第二辑（全10册）",
+          "year": "2023-12",
+          "publisher": "",
+          "bytes": 17318,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:17.834Z"
+        }
+      ]
+    },
+    "clc143-005": {
+      "file": "clc143-005.webp",
+      "bytes": 19148,
+      "width": 270,
+      "height": 403,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35837574/",
+      "subjectId": "35837574",
+      "matched": "shlib-isbn",
+      "isbn": "9787521217667",
+      "query": "上图 OPAC 书号 9787521217667",
+      "edition": {
+        "title": "漂白",
+        "author": "陈枰",
+        "year": "2022-3"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:19.484Z",
+      "editions": [
+        {
+          "subjectId": "35837574",
+          "file": "clc143-005.webp",
+          "title": "漂白",
+          "year": "2022-3",
+          "publisher": "",
+          "bytes": 19148,
+          "width": 270,
+          "height": 403,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:19.484Z"
+        }
+      ]
+    },
+    "clc143-018": {
+      "file": "clc143-018.webp",
+      "bytes": 10372,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36639691/",
+      "subjectId": "36639691",
+      "matched": "shlib-isbn",
+      "isbn": "9787200182521",
+      "query": "上图 OPAC 书号 9787200182521",
+      "edition": {
+        "title": "刑侦笔记",
+        "author": "初墨不姓熊",
+        "year": "2024-3"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:21.231Z",
+      "editions": [
+        {
+          "subjectId": "36639691",
+          "file": "clc143-018.webp",
+          "title": "刑侦笔记",
+          "year": "2024-3",
+          "publisher": "",
+          "bytes": 10372,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:21.231Z"
+        }
+      ]
+    },
+    "clc143-022": {
+      "file": "clc143-022.webp",
+      "bytes": 8524,
+      "width": 270,
+      "height": 346,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34969947/",
+      "subjectId": "34969947",
+      "matched": "shlib-isbn",
+      "isbn": "9787020160730",
+      "query": "上图 OPAC 书号 9787020160730",
+      "edition": {
+        "title": "线索",
+        "author": "王磊",
+        "year": "2020-5"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:23.289Z",
+      "editions": [
+        {
+          "subjectId": "34969947",
+          "file": "clc143-022.webp",
+          "title": "线索",
+          "year": "2020-5",
+          "publisher": "",
+          "bytes": 8524,
+          "width": 270,
+          "height": 346,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:23.289Z"
+        }
+      ]
+    },
+    "clc144-017": {
+      "file": "clc144-017.webp",
+      "bytes": 5658,
+      "width": 166,
+      "height": 251,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/27026341/",
+      "subjectId": "27026341",
+      "matched": "shlib-isbn",
+      "isbn": "9787548432562",
+      "query": "上图 OPAC 书号 9787548432562",
+      "edition": {
+        "title": "绝杀",
+        "author": "戴维·鲍尔达奇",
+        "year": "2017-6"
+      },
+      "bookYear": "2017",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:26.464Z",
+      "editions": [
+        {
+          "subjectId": "27026341",
+          "file": "clc144-017.webp",
+          "title": "绝杀",
+          "year": "2017-6",
+          "publisher": "",
+          "bytes": 5658,
+          "width": 166,
+          "height": 251,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:26.464Z"
+        }
+      ]
+    },
+    "ns147-023": {
+      "file": "ns147-023.webp",
+      "bytes": 6240,
+      "width": 270,
+      "height": 318,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/26706062/",
+      "subjectId": "26706062",
+      "matched": "shlib-isbn",
+      "isbn": "9787501453832",
+      "query": "上图 OPAC 书号 9787501453832",
+      "edition": {
+        "title": "福尔摩斯归来探案集：新的冒险",
+        "author": "泰德·里卡迪",
+        "year": "2015-8-1"
+      },
+      "bookYear": "2015",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:29.390Z",
+      "editions": [
+        {
+          "subjectId": "26706062",
+          "file": "ns147-023.webp",
+          "title": "福尔摩斯归来探案集：新的冒险",
+          "year": "2015-8-1",
+          "publisher": "",
+          "bytes": 6240,
+          "width": 270,
+          "height": 318,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:29.390Z"
+        }
+      ]
+    },
+    "ns147-026": {
+      "file": "ns147-026.webp",
+      "bytes": 17370,
+      "width": 270,
+      "height": 434,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/30171275/",
+      "subjectId": "30171275",
+      "matched": "shlib-isbn",
+      "isbn": "9787020109869",
+      "query": "上图 OPAC 书号 9787020109869",
+      "edition": {
+        "title": "误入歧途",
+        "author": "本哈德·施林克",
+        "year": ""
+      },
+      "bookYear": "2004",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:30.907Z",
+      "editions": [
+        {
+          "subjectId": "30171275",
+          "file": "ns147-026.webp",
+          "title": "误入歧途",
+          "year": "",
+          "publisher": "",
+          "bytes": 17370,
+          "width": 270,
+          "height": 434,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:30.907Z"
+        }
+      ]
+    },
+    "ns148-018": {
+      "file": "ns148-018.webp",
+      "bytes": 36298,
+      "width": 270,
+      "height": 381,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/3140801/",
+      "subjectId": "3140801",
+      "matched": "shlib-isbn",
+      "isbn": "9787208077928",
+      "query": "上图 OPAC 书号 9787208077928",
+      "edition": {
+        "title": "姑获鸟之夏",
+        "author": "姽婳",
+        "year": "2008-8"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:33.929Z",
+      "editions": [
+        {
+          "subjectId": "3140801",
+          "file": "ns148-018.webp",
+          "title": "姑获鸟之夏",
+          "year": "2008-8",
+          "publisher": "",
+          "bytes": 36298,
+          "width": 270,
+          "height": 381,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:33.929Z"
+        }
+      ]
+    },
+    "ns148-020": {
+      "file": "ns148-020.webp",
+      "bytes": 3568,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/31271665/",
+      "subjectId": "31271665",
+      "matched": "shlib-isbn",
+      "isbn": "9787555905165",
+      "query": "上图 OPAC 书号 9787555905165",
+      "edition": {
+        "title": "告密者",
+        "author": "张宝瑞",
+        "year": "2018-2"
+      },
+      "bookYear": "",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:36.584Z",
+      "editions": [
+        {
+          "subjectId": "31271665",
+          "file": "ns148-020.webp",
+          "title": "告密者",
+          "year": "2018-2",
+          "publisher": "",
+          "bytes": 3568,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:36.584Z"
+        }
+      ]
+    },
+    "ns150-002": {
+      "file": "ns150-002.webp",
+      "bytes": 15126,
+      "width": 270,
+      "height": 375,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1174199/",
+      "subjectId": "1174199",
+      "matched": "shlib-isbn",
+      "isbn": "9787532732845",
+      "query": "上图 OPAC 书号 9787532732845",
+      "edition": {
+        "title": "堕落的天使",
+        "author": "弗里德利希·阿尼",
+        "year": "2004-6-1"
+      },
+      "bookYear": "2004",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:38.357Z",
+      "editions": [
+        {
+          "subjectId": "1174199",
+          "file": "ns150-002.webp",
+          "title": "堕落的天使",
+          "year": "2004-6-1",
+          "publisher": "",
+          "bytes": 15126,
+          "width": 270,
+          "height": 375,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:38.357Z"
+        }
+      ]
+    },
+    "bd151-004": {
+      "file": "bd151-004.webp",
+      "bytes": 10460,
+      "width": 270,
+      "height": 394,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/26722786/",
+      "subjectId": "26722786",
+      "matched": "shlib-isbn",
+      "isbn": "9787220097683",
+      "query": "上图 OPAC 书号 9787220097683",
+      "edition": {
+        "title": "后妻业",
+        "author": "黑川博行",
+        "year": "2016-6"
+      },
+      "bookYear": "2016",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:40.112Z",
+      "editions": [
+        {
+          "subjectId": "26722786",
+          "file": "bd151-004.webp",
+          "title": "后妻业",
+          "year": "2016-6",
+          "publisher": "",
+          "bytes": 10460,
+          "width": 270,
+          "height": 394,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:40.112Z"
+        }
+      ]
+    },
+    "bd153-012": {
+      "file": "bd153-012.webp",
+      "bytes": 18232,
+      "width": 270,
+      "height": 392,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35767707/",
+      "subjectId": "35767707",
+      "matched": "shlib-isbn",
+      "isbn": "9787544790666",
+      "query": "上图 OPAC 书号 9787544790666",
+      "edition": {
+        "title": "夺命之爱",
+        "author": "彼得·詹姆斯",
+        "year": "2022-6"
+      },
+      "bookYear": "2022",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:43.070Z",
+      "editions": [
+        {
+          "subjectId": "35767707",
+          "file": "bd153-012.webp",
+          "title": "夺命之爱",
+          "year": "2022-6",
+          "publisher": "",
+          "bytes": 18232,
+          "width": 270,
+          "height": 392,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:43.070Z"
+        }
+      ]
+    },
+    "bd153-015": {
+      "file": "bd153-015.webp",
+      "bytes": 22396,
+      "width": 270,
+      "height": 409,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35541390/",
+      "subjectId": "35541390",
+      "matched": "shlib-isbn",
+      "isbn": "9787513346009",
+      "query": "上图 OPAC 书号 9787513346009",
+      "edition": {
+        "title": "猫头鹰谋杀案",
+        "author": "艾伦·康威",
+        "year": "2021-9"
+      },
+      "bookYear": "2021",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:44.864Z",
+      "editions": [
+        {
+          "subjectId": "35541390",
+          "file": "bd153-015.webp",
+          "title": "猫头鹰谋杀案",
+          "year": "2021-9",
+          "publisher": "",
+          "bytes": 22396,
+          "width": 270,
+          "height": 409,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:44.864Z"
+        }
+      ]
+    },
+    "bd154-002": {
+      "file": "bd154-002.webp",
+      "bytes": 14968,
+      "width": 270,
+      "height": 383,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35136094/",
+      "subjectId": "35136094",
+      "matched": "shlib-isbn",
+      "isbn": "9787532175765",
+      "query": "上图 OPAC 书号 9787532175765",
+      "edition": {
+        "title": "沼泽",
+        "author": "劳拉·金",
+        "year": "2020-8"
+      },
+      "bookYear": "2017",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:51:46.718Z",
+      "editions": [
+        {
+          "subjectId": "35136094",
+          "file": "bd154-002.webp",
+          "title": "沼泽",
+          "year": "2020-8",
+          "publisher": "",
+          "bytes": 14968,
+          "width": 270,
+          "height": 383,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:46.718Z"
+        }
+      ]
+    },
+    "bd154-007": {
+      "file": "bd154-007.webp",
+      "bytes": 9324,
+      "width": 270,
+      "height": 438,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/33461291/",
+      "subjectId": "33461291",
+      "matched": "shlib-isbn",
+      "isbn": "9789620757365",
+      "query": "上图 OPAC 书号 9789620757365",
+      "edition": {
+        "title": "看不見的手",
+        "author": "马歇尔·杰文斯",
+        "year": "2017-9"
+      },
+      "bookYear": "2019",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:51:48.117Z",
+      "editions": [
+        {
+          "subjectId": "33461291",
+          "file": "bd154-007.webp",
+          "title": "看不見的手",
+          "year": "2017-9",
+          "publisher": "",
+          "bytes": 9324,
+          "width": 270,
+          "height": 438,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:48.117Z"
+        }
+      ]
+    },
+    "bd154-015": {
+      "file": "bd154-015.webp",
+      "bytes": 19104,
+      "width": 270,
+      "height": 396,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35321222/",
+      "subjectId": "35321222",
+      "matched": "shlib-isbn",
+      "isbn": "9787514389395",
+      "query": "上图 OPAC 书号 9787514389395",
+      "edition": {
+        "title": "沉默的天使",
+        "author": "卡勒·卡尔",
+        "year": "2021-4"
+      },
+      "bookYear": "2021",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:50.034Z",
+      "editions": [
+        {
+          "subjectId": "35321222",
+          "file": "bd154-015.webp",
+          "title": "沉默的天使",
+          "year": "2021-4",
+          "publisher": "",
+          "bytes": 19104,
+          "width": 270,
+          "height": 396,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:50.034Z"
+        }
+      ]
+    },
+    "ct156-010": {
+      "file": "ct156-010.webp",
+      "bytes": 10738,
+      "width": 270,
+      "height": 370,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36841334/",
+      "subjectId": "36841334",
+      "matched": "shlib-isbn",
+      "isbn": "9787806078976",
+      "query": "上图 OPAC 书号 9787806078976",
+      "edition": {
+        "title": "舞女号列车上的凶杀案",
+        "author": "森村诚一",
+        "year": "2002-2"
+      },
+      "bookYear": "2002",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:51.426Z",
+      "editions": [
+        {
+          "subjectId": "36841334",
+          "file": "ct156-010.webp",
+          "title": "舞女号列车上的凶杀案",
+          "year": "2002-2",
+          "publisher": "",
+          "bytes": 10738,
+          "width": 270,
+          "height": 370,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:51.426Z"
+        }
+      ]
+    },
+    "shlib160-007": {
+      "file": "shlib160-007.webp",
+      "bytes": 12824,
+      "width": 270,
+      "height": 438,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/2077842/",
+      "subjectId": "2077842",
+      "matched": "shlib-isbn",
+      "isbn": "9787802252592",
+      "query": "上图 OPAC 书号 9787802252592",
+      "edition": {
+        "title": "恐怖分子",
+        "author": "马伊·舍瓦尔、佩尔·瓦勒",
+        "year": "2007-4"
+      },
+      "bookYear": "2026",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:51:53.962Z",
+      "editions": [
+        {
+          "subjectId": "2077842",
+          "file": "shlib160-007.webp",
+          "title": "恐怖分子",
+          "year": "2007-4",
+          "publisher": "",
+          "bytes": 12824,
+          "width": 270,
+          "height": 438,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:53.962Z"
+        }
+      ]
+    },
+    "shlib162-003": {
+      "file": "shlib162-003.webp",
+      "bytes": 15260,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36383353/",
+      "subjectId": "36383353",
+      "matched": "shlib-isbn",
+      "isbn": "9787200175486",
+      "query": "上图 OPAC 书号 9787200175486",
+      "edition": {
+        "title": "世界经典童话：英文高频词版（全20册）（内含20节动画及原文翻译，赠高频词描红本）",
+        "author": "赤川次郎",
+        "year": ""
+      },
+      "bookYear": "2004",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:51:56.594Z",
+      "editions": [
+        {
+          "subjectId": "36383353",
+          "file": "shlib162-003.webp",
+          "title": "世界经典童话：英文高频词版（全20册）（内含20节动画及原文翻译，赠高频词描红本）",
+          "year": "",
+          "publisher": "",
+          "bytes": 15260,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:51:56.594Z"
+        }
+      ]
+    },
+    "shlib163-001": {
+      "file": "shlib163-001.webp",
+      "bytes": 11110,
+      "width": 270,
+      "height": 360,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34815922/",
+      "subjectId": "34815922",
+      "matched": "shlib-isbn",
+      "isbn": "9787221154835",
+      "query": "上图 OPAC 书号 9787221154835",
+      "edition": {
+        "title": "女神探希娃29：匿名杀意",
+        "author": "帕特丽夏·温沃斯",
+        "year": "2019-10"
+      },
+      "bookYear": "2019",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:58.268Z",
+      "editions": [
+        {
+          "subjectId": "34815922",
+          "file": "shlib163-001.webp",
+          "title": "女神探希娃29：匿名杀意",
+          "year": "2019-10",
+          "publisher": "",
+          "bytes": 11110,
+          "width": 270,
+          "height": 360,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:58.268Z"
+        }
+      ]
+    },
+    "shlib163-003": {
+      "file": "shlib163-003.webp",
+      "bytes": 10396,
+      "width": 270,
+      "height": 370,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34815934/",
+      "subjectId": "34815934",
+      "matched": "shlib-isbn",
+      "isbn": "9787221154828",
+      "query": "上图 OPAC 书号 9787221154828",
+      "edition": {
+        "title": "女神探希娃28：眼观其声",
+        "author": "帕特丽夏·温沃斯",
+        "year": "2019-8"
+      },
+      "bookYear": "2019",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:51:59.890Z",
+      "editions": [
+        {
+          "subjectId": "34815934",
+          "file": "shlib163-003.webp",
+          "title": "女神探希娃28：眼观其声",
+          "year": "2019-8",
+          "publisher": "",
+          "bytes": 10396,
+          "width": 270,
+          "height": 370,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:51:59.890Z"
+        }
+      ]
+    },
+    "shlib163-004": {
+      "file": "shlib163-004.webp",
+      "bytes": 10046,
+      "width": 270,
+      "height": 362,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34815971/",
+      "subjectId": "34815971",
+      "matched": "shlib-isbn",
+      "isbn": "9787221154811",
+      "query": "上图 OPAC 书号 9787221154811",
+      "edition": {
+        "title": "女神探希娃27：红事白事",
+        "author": "帕特丽夏·温沃斯",
+        "year": ""
+      },
+      "bookYear": "2019",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:52:01.286Z",
+      "editions": [
+        {
+          "subjectId": "34815971",
+          "file": "shlib163-004.webp",
+          "title": "女神探希娃27：红事白事",
+          "year": "",
+          "publisher": "",
+          "bytes": 10046,
+          "width": 270,
+          "height": 362,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:01.286Z"
+        }
+      ]
+    },
+    "shlib163-005": {
+      "file": "shlib163-005.webp",
+      "bytes": 10548,
+      "width": 270,
+      "height": 364,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34815938/",
+      "subjectId": "34815938",
+      "matched": "shlib-isbn",
+      "isbn": "9787221154842",
+      "query": "上图 OPAC 书号 9787221154842",
+      "edition": {
+        "title": "女神探希娃30：指纹谜案",
+        "author": "帕特丽夏·温沃斯",
+        "year": "2019-6"
+      },
+      "bookYear": "2019",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:02.769Z",
+      "editions": [
+        {
+          "subjectId": "34815938",
+          "file": "shlib163-005.webp",
+          "title": "女神探希娃30：指纹谜案",
+          "year": "2019-6",
+          "publisher": "",
+          "bytes": 10548,
+          "width": 270,
+          "height": 364,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:02.769Z"
+        }
+      ]
+    },
+    "shlib163-006": {
+      "file": "shlib163-006.webp",
+      "bytes": 10478,
+      "width": 270,
+      "height": 363,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/34815921/",
+      "subjectId": "34815921",
+      "matched": "shlib-isbn",
+      "isbn": "9787221154712",
+      "query": "上图 OPAC 书号 9787221154712",
+      "edition": {
+        "title": "女神探希娃32：地窖残影",
+        "author": "帕特丽夏·温沃斯",
+        "year": "2019-10"
+      },
+      "bookYear": "2019",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:04.484Z",
+      "editions": [
+        {
+          "subjectId": "34815921",
+          "file": "shlib163-006.webp",
+          "title": "女神探希娃32：地窖残影",
+          "year": "2019-10",
+          "publisher": "",
+          "bytes": 10478,
+          "width": 270,
+          "height": 363,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:04.484Z"
+        }
+      ]
+    },
+    "shlib165-004": {
+      "file": "shlib165-004.webp",
+      "bytes": 25442,
+      "width": 270,
+      "height": 371,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36738526/",
+      "subjectId": "36738526",
+      "matched": "shlib-isbn",
+      "isbn": "9787516837931",
+      "query": "上图 OPAC 书号 9787516837931",
+      "edition": {
+        "title": "芦边拓幻想短篇集",
+        "author": "芦边拓",
+        "year": "2024-9"
+      },
+      "bookYear": "2024",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:08.777Z",
+      "editions": [
+        {
+          "subjectId": "36738526",
+          "file": "shlib165-004.webp",
+          "title": "芦边拓幻想短篇集",
+          "year": "2024-9",
+          "publisher": "",
+          "bytes": 25442,
+          "width": 270,
+          "height": 371,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:08.777Z"
+        }
+      ]
+    },
+    "shlib165-005": {
+      "file": "shlib165-005.webp",
+      "bytes": 25442,
+      "width": 270,
+      "height": 371,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36738526/",
+      "subjectId": "36738526",
+      "matched": "shlib-isbn",
+      "isbn": "9787516837931",
+      "query": "上图 OPAC 书号 9787516837931",
+      "edition": {
+        "title": "芦边拓幻想短篇集",
+        "author": "芦边拓",
+        "year": "2024-9"
+      },
+      "bookYear": "2024",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:10.259Z",
+      "editions": [
+        {
+          "subjectId": "36738526",
+          "file": "shlib165-005.webp",
+          "title": "芦边拓幻想短篇集",
+          "year": "2024-9",
+          "publisher": "",
+          "bytes": 25442,
+          "width": 270,
+          "height": 371,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:10.259Z"
+        }
+      ]
+    },
+    "shlib165-016": {
+      "file": "shlib165-016.webp",
+      "bytes": 2734,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36538576/",
+      "subjectId": "36538576",
+      "matched": "shlib-isbn",
+      "isbn": "9787573302830",
+      "query": "上图 OPAC 书号 9787573302830",
+      "edition": {
+        "title": "裂变",
+        "author": "轩胖儿",
+        "year": ""
+      },
+      "bookYear": "2022",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:52:11.764Z",
+      "editions": [
+        {
+          "subjectId": "36538576",
+          "file": "shlib165-016.webp",
+          "title": "裂变",
+          "year": "",
+          "publisher": "",
+          "bytes": 2734,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:11.764Z"
+        }
+      ]
+    },
+    "shlib165-017": {
+      "file": "shlib165-017.webp",
+      "bytes": 12588,
+      "width": 270,
+      "height": 386,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/38351342/",
+      "subjectId": "38351342",
+      "matched": "shlib-isbn",
+      "isbn": "9787205118976",
+      "query": "上图 OPAC 书号 9787205118976",
+      "edition": {
+        "title": "不白之冤",
+        "author": "轩胖儿",
+        "year": "2026-3"
+      },
+      "bookYear": "2026",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:13.213Z",
+      "editions": [
+        {
+          "subjectId": "38351342",
+          "file": "shlib165-017.webp",
+          "title": "不白之冤",
+          "year": "2026-3",
+          "publisher": "",
+          "bytes": 12588,
+          "width": 270,
+          "height": 386,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:13.213Z"
+        }
+      ]
+    },
+    "shlib165-021": {
+      "file": "shlib165-021.webp",
+      "bytes": 20904,
+      "width": 270,
+      "height": 393,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/25934920/",
+      "subjectId": "25934920",
+      "matched": "shlib-isbn",
+      "isbn": "9789863314868",
+      "query": "上图 OPAC 书号 9789863314868",
+      "edition": {
+        "title": "高校入試",
+        "author": "凑佳苗",
+        "year": "2014-8-28"
+      },
+      "bookYear": "2016",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:52:15.398Z",
+      "editions": [
+        {
+          "subjectId": "25934920",
+          "file": "shlib165-021.webp",
+          "title": "高校入試",
+          "year": "2014-8-28",
+          "publisher": "",
+          "bytes": 20904,
+          "width": 270,
+          "height": 393,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:15.398Z"
+        }
+      ]
+    },
+    "shlib167-013": {
+      "file": "shlib167-013.webp",
+      "bytes": 10284,
+      "width": 270,
+      "height": 382,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36488497/",
+      "subjectId": "36488497",
+      "matched": "shlib-isbn",
+      "isbn": "9787020181254",
+      "query": "上图 OPAC 书号 9787020181254",
+      "edition": {
+        "title": "假面剧场",
+        "author": "赤川次郎",
+        "year": ""
+      },
+      "bookYear": "2023",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:52:16.937Z",
+      "editions": [
+        {
+          "subjectId": "36488497",
+          "file": "shlib167-013.webp",
+          "title": "假面剧场",
+          "year": "",
+          "publisher": "",
+          "bytes": 10284,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:16.937Z"
+        }
+      ]
+    },
+    "shlib167-016": {
+      "file": "shlib167-016.webp",
+      "bytes": 9126,
+      "width": 270,
+      "height": 382,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36492697/",
+      "subjectId": "36492697",
+      "matched": "shlib-isbn",
+      "isbn": "9787020181544",
+      "query": "上图 OPAC 书号 9787020181544",
+      "edition": {
+        "title": "茶话会",
+        "author": "赤川次郎",
+        "year": ""
+      },
+      "bookYear": "2023",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:52:18.603Z",
+      "editions": [
+        {
+          "subjectId": "36492697",
+          "file": "shlib167-016.webp",
+          "title": "茶话会",
+          "year": "",
+          "publisher": "",
+          "bytes": 9126,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:18.603Z"
+        }
+      ]
+    },
+    "shlib168-022": {
+      "file": "shlib168-022.webp",
+      "bytes": 9484,
+      "width": 270,
+      "height": 270,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/4909021/",
+      "subjectId": "4909021",
+      "matched": "shlib-isbn",
+      "isbn": "9787501447329",
+      "query": "上图 OPAC 书号 9787501447329",
+      "edition": {
+        "title": "死亡拼图",
+        "author": "哈兰·科本",
+        "year": "2010-7"
+      },
+      "bookYear": "2010",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:21.204Z",
+      "editions": [
+        {
+          "subjectId": "4909021",
+          "file": "shlib168-022.webp",
+          "title": "死亡拼图",
+          "year": "2010-7",
+          "publisher": "",
+          "bytes": 9484,
+          "width": 270,
+          "height": 270,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:21.204Z"
+        }
+      ]
+    },
+    "shlib169-007": {
+      "file": "shlib169-007.webp",
+      "bytes": 13820,
+      "width": 270,
+      "height": 390,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/35380159/",
+      "subjectId": "35380159",
+      "matched": "shlib-isbn",
+      "isbn": "9787559451521",
+      "query": "上图 OPAC 书号 9787559451521",
+      "edition": {
+        "title": "黑白 （朝小诚代表作）",
+        "author": "谷崎润一郎",
+        "year": "2021-3"
+      },
+      "bookYear": "2019",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:52:22.781Z",
+      "editions": [
+        {
+          "subjectId": "35380159",
+          "file": "shlib169-007.webp",
+          "title": "黑白 （朝小诚代表作）",
+          "year": "2021-3",
+          "publisher": "",
+          "bytes": 13820,
+          "width": 270,
+          "height": 390,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:22.781Z"
+        }
+      ]
+    },
+    "shlib169-009": {
+      "file": "shlib169-009.webp",
+      "bytes": 9170,
+      "width": 270,
+      "height": 382,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/36488501/",
+      "subjectId": "36488501",
+      "matched": "shlib-isbn",
+      "isbn": "9787020181322",
+      "query": "上图 OPAC 书号 9787020181322",
+      "edition": {
+        "title": "试映会",
+        "author": "赤川次郎",
+        "year": ""
+      },
+      "bookYear": "2023",
+      "yearMatch": null,
+      "fetchedAt": "2026-10-04T06:52:24.690Z",
+      "editions": [
+        {
+          "subjectId": "36488501",
+          "file": "shlib169-009.webp",
+          "title": "试映会",
+          "year": "",
+          "publisher": "",
+          "bytes": 9170,
+          "width": 270,
+          "height": 382,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:24.690Z"
+        }
+      ]
+    },
+    "shlib169-023": {
+      "file": "shlib169-023.webp",
+      "bytes": 1986,
+      "width": 270,
+      "height": 408,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/4905919/",
+      "subjectId": "4905919",
+      "matched": "shlib-isbn",
+      "isbn": "9787547401200",
+      "query": "上图 OPAC 书号 9787547401200",
+      "edition": {
+        "title": "洞穴",
+        "author": "何塞·卡洛斯·索莫萨",
+        "year": "2010-7"
+      },
+      "bookYear": "2009",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:52:26.922Z",
+      "editions": [
+        {
+          "subjectId": "4905919",
+          "file": "shlib169-023.webp",
+          "title": "洞穴",
+          "year": "2010-7",
+          "publisher": "",
+          "bytes": 1986,
+          "width": 270,
+          "height": 408,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:26.922Z"
+        }
+      ]
+    },
+    "shlib170-001": {
+      "file": "shlib170-001.webp",
+      "bytes": 21190,
+      "width": 270,
+      "height": 403,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1705842/",
+      "subjectId": "1705842",
+      "matched": "shlib-isbn",
+      "isbn": "9787811092950",
+      "query": "上图 OPAC 书号 9787811092950",
+      "edition": {
+        "title": "午夜惊魂",
+        "author": "王建幸",
+        "year": "2006-1"
+      },
+      "bookYear": "2006",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:28.891Z",
+      "editions": [
+        {
+          "subjectId": "1705842",
+          "file": "shlib170-001.webp",
+          "title": "午夜惊魂",
+          "year": "2006-1",
+          "publisher": "",
+          "bytes": 21190,
+          "width": 270,
+          "height": 403,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:28.891Z"
+        }
+      ]
+    },
+    "shlib170-024": {
+      "file": "shlib170-024.webp",
+      "bytes": 6170,
+      "width": 155,
+      "height": 201,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1213420/",
+      "subjectId": "1213420",
+      "matched": "shlib-isbn",
+      "isbn": "9787806890387",
+      "query": "上图 OPAC 书号 9787806890387",
+      "edition": {
+        "title": "四百目击者",
+        "author": "西村京太郎",
+        "year": "2003-4"
+      },
+      "bookYear": "2003",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:30.640Z",
+      "editions": [
+        {
+          "subjectId": "1213420",
+          "file": "shlib170-024.webp",
+          "title": "四百目击者",
+          "year": "2003-4",
+          "publisher": "",
+          "bytes": 6170,
+          "width": 155,
+          "height": 201,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:30.640Z"
+        }
+      ]
+    },
+    "shlib171-018": {
+      "file": "shlib171-018.webp",
+      "bytes": 6206,
+      "width": 155,
+      "height": 220,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/1211544/",
+      "subjectId": "1211544",
+      "matched": "shlib-isbn",
+      "isbn": "9787806079744",
+      "query": "上图 OPAC 书号 9787806079744",
+      "edition": {
+        "title": "丽影陷阱",
+        "author": "西村京太郎",
+        "year": "2002-10-1"
+      },
+      "bookYear": "2002",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:32.379Z",
+      "editions": [
+        {
+          "subjectId": "1211544",
+          "file": "shlib171-018.webp",
+          "title": "丽影陷阱",
+          "year": "2002-10-1",
+          "publisher": "",
+          "bytes": 6206,
+          "width": 155,
+          "height": 220,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:32.379Z"
+        }
+      ]
+    },
+    "jpaudit77-007": {
+      "file": "jpaudit77-007.webp",
+      "bytes": 22066,
+      "width": 270,
+      "height": 383,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/5367292/",
+      "subjectId": "5367292",
+      "matched": "shlib-isbn",
+      "isbn": "9787546342382",
+      "query": "上图 OPAC 书号 9787546342382",
+      "edition": {
+        "title": "十字街",
+        "author": "久生十兰",
+        "year": "2010-12"
+      },
+      "bookYear": "2010",
+      "yearMatch": true,
+      "fetchedAt": "2026-10-04T06:52:49.676Z",
+      "editions": [
+        {
+          "subjectId": "5367292",
+          "file": "jpaudit77-007.webp",
+          "title": "十字街",
+          "year": "2010-12",
+          "publisher": "",
+          "bytes": 22066,
+          "width": 270,
+          "height": 383,
+          "format": "webp",
+          "primary": true,
+          "collected": true,
+          "fetchedAt": "2026-10-04T06:52:49.676Z"
+        }
+      ]
+    },
+    "jpaudit78-003": {
+      "file": "jpaudit78-003.webp",
+      "bytes": 22548,
+      "width": 270,
+      "height": 391,
+      "format": "webp",
+      "source": "豆瓣读书",
+      "sourceUrl": "https://book.douban.com/subject/4191763/",
+      "subjectId": "4191763",
+      "matched": "shlib-isbn",
+      "isbn": "9787546316482",
+      "query": "上图 OPAC 书号 9787546316482",
+      "edition": {
+        "title": "地狱使者",
+        "author": "海野十三",
+        "year": "2010年1月"
+      },
+      "bookYear": "2009",
+      "yearMatch": false,
+      "fetchedAt": "2026-10-04T06:52:51.822Z",
+      "editions": [
+        {
+          "subjectId": "4191763",
+          "file": "jpaudit78-003.webp",
+          "title": "地狱使者",
+          "year": "2010年1月",
+          "publisher": "",
+          "bytes": 22548,
+          "width": 270,
+          "height": 391,
+          "format": "webp",
+          "primary": true,
+          "collected": false,
+          "fetchedAt": "2026-10-04T06:52:51.822Z"
+        }
+      ]
     }
   },
   "misses": {
@@ -166031,19 +167955,6 @@
       "shlibNote": "上图著录里没有书号",
       "shlibCheckedAt": "2026-10-03T05:35:56.341Z"
     },
-    "opac104-010": {
-      "title": "蓝宝石",
-      "author": "凑佳苗",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787514861952，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:56:50.422Z",
-      "triedQueries": [
-        "蓝宝石"
-      ],
-      "shlibIsbn": "9787514861952",
-      "shlibTitle": "蓝宝石",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:35:57.387Z"
-    },
     "modern2-005": {
       "title": "狗之死",
       "author": "亨宁·曼凯尔",
@@ -166070,45 +167981,6 @@
       "shlibNote": "上图 2 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:35:59.312Z"
     },
-    "gap116-011": {
-      "title": "金鱼",
-      "author": "雷蒙德·钱德勒",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787109304048，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:56:55.132Z",
-      "triedQueries": [
-        "金鱼"
-      ],
-      "shlibIsbn": "9787109304048",
-      "shlibTitle": "金鱼",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:00.356Z"
-    },
-    "gap117-018": {
-      "title": "红蜘蛛",
-      "author": "笹泽左保",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787801718303，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:56:55.697Z",
-      "triedQueries": [
-        "红蜘蛛"
-      ],
-      "shlibIsbn": "9787801718303",
-      "shlibTitle": "红蜘蛛",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:01.296Z"
-    },
-    "gap119-022": {
-      "title": "破釜沉舟",
-      "author": "薇儿·麦克德米德",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787505639010，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:56:58.699Z",
-      "triedQueries": [
-        "破釜沉舟"
-      ],
-      "shlibIsbn": "9787505639010",
-      "shlibTitle": "破釜沉舟",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:02.262Z"
-    },
     "facet120-005": {
       "title": "不可能犯罪诊断书大结局6",
       "author": "爱德华·霍克",
@@ -166134,19 +168006,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:04.146Z"
-    },
-    "facet123-008": {
-      "title": "私家侦探",
-      "author": "纪蔚然",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787500829478，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:05.358Z",
-      "triedQueries": [
-        "私家侦探"
-      ],
-      "shlibIsbn": "9787500829478",
-      "shlibTitle": "私家侦探",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:05.131Z"
     },
     "facet124-006": {
       "title": "心理师第2季：罪案直播",
@@ -166278,19 +168137,6 @@
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:14.708Z"
     },
-    "coll134-011": {
-      "title": "日本推理短篇小说选",
-      "author": "江户川乱步 等",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787562867173，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:22.209Z",
-      "triedQueries": [
-        "日本推理短篇小说选"
-      ],
-      "shlibIsbn": "9787562867173",
-      "shlibTitle": "日本推理短篇小说选",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:15.648Z"
-    },
     "coll135-011": {
       "title": "世界获奖推理小说选·精华版",
       "author": "约翰·卢兹 等",
@@ -166329,19 +168175,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:18.557Z"
-    },
-    "author136-016": {
-      "title": "坏家伙们",
-      "author": "九滴水",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787521764123，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:29.563Z",
-      "triedQueries": [
-        "坏家伙们"
-      ],
-      "shlibIsbn": "9787521764123",
-      "shlibTitle": "坏家伙们",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:19.481Z"
     },
     "author137-003": {
       "title": "天罚者",
@@ -166473,45 +168306,6 @@
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:29.295Z"
     },
-    "clc140-010": {
-      "title": "三叶虫",
-      "author": "王曼",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787511879585，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:42.903Z",
-      "triedQueries": [
-        "三叶虫"
-      ],
-      "shlibIsbn": "9787511879585",
-      "shlibTitle": "三叶虫",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:30.481Z"
-    },
-    "clc140-020": {
-      "title": "空中小姐",
-      "author": "小米",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787513327947，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:44.172Z",
-      "triedQueries": [
-        "空中小姐"
-      ],
-      "shlibIsbn": "9787513327947",
-      "shlibTitle": "空中小姐",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:31.426Z"
-    },
-    "clc140-027": {
-      "title": "刺杀",
-      "author": "张宝瑞",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787561351673，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:45.456Z",
-      "triedQueries": [
-        "刺杀"
-      ],
-      "shlibIsbn": "9787561351673",
-      "shlibTitle": "刺杀",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:32.367Z"
-    },
     "clc141-016": {
       "title": "必须犯规的游戏.5：重启",
       "author": "宁航一",
@@ -166537,58 +168331,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:34.208Z"
-    },
-    "clc142-012": {
-      "title": "双城",
-      "author": "万安",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787549635221，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T16:57:54.312Z",
-      "triedQueries": [
-        "双城"
-      ],
-      "shlibIsbn": "9787549635221",
-      "shlibTitle": "双城",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:35.146Z"
-    },
-    "clc142-021": {
-      "title": "无处遁逃",
-      "author": "王文杰",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787205105495，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:57:57.907Z",
-      "triedQueries": [
-        "无处遁逃"
-      ],
-      "shlibIsbn": "9787205105495",
-      "shlibTitle": "无处遁逃",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:36.106Z"
-    },
-    "clc142-040": {
-      "title": "陌生人",
-      "author": "陈研一",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787558340680，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:57:58.548Z",
-      "triedQueries": [
-        "陌生人"
-      ],
-      "shlibIsbn": "9787558340680",
-      "shlibTitle": "陌生人",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:37.090Z"
-    },
-    "clc143-005": {
-      "title": "漂白",
-      "author": "陈枰",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787521217667，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:57:59.156Z",
-      "triedQueries": [
-        "漂白"
-      ],
-      "shlibIsbn": "9787521217667",
-      "shlibTitle": "漂白",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:38.017Z"
     },
     "clc143-008": {
       "title": "犯罪心理.01：记忆迷宫",
@@ -166629,32 +168371,6 @@
       "shlibNote": "上图 1 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:40.871Z"
     },
-    "clc143-018": {
-      "title": "刑侦笔记",
-      "author": "初墨不姓熊",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787200182521，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:05.041Z",
-      "triedQueries": [
-        "刑侦笔记"
-      ],
-      "shlibIsbn": "9787200182521",
-      "shlibTitle": "刑侦笔记",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:41.936Z"
-    },
-    "clc143-022": {
-      "title": "线索",
-      "author": "王磊",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787020160730，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:05.582Z",
-      "triedQueries": [
-        "线索"
-      ],
-      "shlibIsbn": "9787020160730",
-      "shlibTitle": "线索",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:42.893Z"
-    },
     "clc143-034": {
       "title": "梦回楼兰",
       "author": "吴宸亮",
@@ -166680,19 +168396,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 1 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:44.730Z"
-    },
-    "clc144-017": {
-      "title": "绝杀",
-      "author": "戴维·鲍尔达奇",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787548432562，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:10.785Z",
-      "triedQueries": [
-        "绝杀"
-      ],
-      "shlibIsbn": "9787548432562",
-      "shlibTitle": "绝杀",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:45.761Z"
     },
     "clc145-002": {
       "title": "惊天御瓷案",
@@ -166733,32 +168436,6 @@
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:36:48.631Z"
     },
-    "ns147-023": {
-      "title": "新的冒险",
-      "author": "泰德·里卡迪",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787501453832，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:23.226Z",
-      "triedQueries": [
-        "新的冒险"
-      ],
-      "shlibIsbn": "9787501453832",
-      "shlibTitle": "新的冒险",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:49.595Z"
-    },
-    "ns147-026": {
-      "title": "误入歧途",
-      "author": "本哈德·施林克",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787020109869，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:23.873Z",
-      "triedQueries": [
-        "误入歧途"
-      ],
-      "shlibIsbn": "9787020109869",
-      "shlibTitle": "误入歧途",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:50.573Z"
-    },
     "ns148-001": {
       "title": "喜马拉雅绝密行动",
       "author": "李天雄、天泉",
@@ -166772,19 +168449,6 @@
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:36:51.511Z"
     },
-    "ns148-018": {
-      "title": "姑获鸟",
-      "author": "姽婳",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787208077928，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:26.117Z",
-      "triedQueries": [
-        "姑获鸟"
-      ],
-      "shlibIsbn": "9787208077928",
-      "shlibTitle": "姑获鸟之夏",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:52.464Z"
-    },
     "ns148-019": {
       "title": "孤岛惊魂",
       "author": "青子",
@@ -166797,19 +168461,6 @@
       "shlibTitle": "孤岛惊魂",
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:36:53.578Z"
-    },
-    "ns148-020": {
-      "title": "告密者",
-      "author": "张宝瑞",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787555905165，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:27.394Z",
-      "triedQueries": [
-        "告密者"
-      ],
-      "shlibIsbn": "9787555905165",
-      "shlibTitle": "告密者",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:36:54.516Z"
     },
     "ns149-011": {
       "title": "春寒",
@@ -166902,19 +168553,6 @@
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:01.106Z"
     },
-    "ns150-002": {
-      "title": "堕落的天使",
-      "author": "弗里德利希·阿尼",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787532732845，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:34.438Z",
-      "triedQueries": [
-        "堕落的天使"
-      ],
-      "shlibIsbn": "9787532732845",
-      "shlibTitle": "堕落的天使",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:02.073Z"
-    },
     "bd151-003": {
       "title": "万能鉴定士Q的事件簿.7",
       "author": "松冈圭祐",
@@ -166927,19 +168565,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 1 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:03.131Z"
-    },
-    "bd151-004": {
-      "title": "后妻业",
-      "author": "黑川博行",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787220097683，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:36.429Z",
-      "triedQueries": [
-        "后妻业"
-      ],
-      "shlibIsbn": "9787220097683",
-      "shlibTitle": "后妻业",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:04.057Z"
     },
     "bd151-025": {
       "title": "狙杀里维埃拉",
@@ -166967,32 +168592,6 @@
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:37:05.967Z"
     },
-    "bd153-012": {
-      "title": "夺命之爱",
-      "author": "彼得·詹姆斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787544790666，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:38.708Z",
-      "triedQueries": [
-        "夺命之爱"
-      ],
-      "shlibIsbn": "9787544790666",
-      "shlibTitle": "夺命之爱",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:06.929Z"
-    },
-    "bd153-015": {
-      "title": "阿提库斯·庞德来断案",
-      "author": "艾伦·康威",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787513346009，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:39.276Z",
-      "triedQueries": [
-        "阿提库斯·庞德来断案"
-      ],
-      "shlibIsbn": "9787513346009",
-      "shlibTitle": "阿提库斯·庞德来断案",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:07.893Z"
-    },
     "bd153-020": {
       "title": "识骨寻踪：看现代骨尔摩斯如何破解死亡悬案",
       "author": "罗伯特·曼恩、米丽安·厄立克·威廉森",
@@ -167006,45 +168605,6 @@
       "shlibNote": "上图 1 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:08.827Z"
     },
-    "bd154-002": {
-      "title": "沼泽",
-      "author": "劳拉·金",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787532175765，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:41.181Z",
-      "triedQueries": [
-        "沼泽"
-      ],
-      "shlibIsbn": "9787532175765",
-      "shlibTitle": "沼泽",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:09.772Z"
-    },
-    "bd154-007": {
-      "title": "看不见的手",
-      "author": "马歇尔·杰文斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9789620757365，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:43.712Z",
-      "triedQueries": [
-        "看不见的手"
-      ],
-      "shlibIsbn": "9789620757365",
-      "shlibTitle": "看不见的手",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:10.955Z"
-    },
-    "bd154-015": {
-      "title": "沉默的天使",
-      "author": "卡勒·卡尔",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787514389395，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:45.473Z",
-      "triedQueries": [
-        "沉默的天使"
-      ],
-      "shlibIsbn": "9787514389395",
-      "shlibTitle": "沉默的天使",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:11.995Z"
-    },
     "ct156-005": {
       "title": "中国年度作品：2015 推理小说",
       "author": "李文 主编",
@@ -167057,19 +168617,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 2 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:13.057Z"
-    },
-    "ct156-010": {
-      "title": "意外的凶器",
-      "author": "森村诚一",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787806078976，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:48.153Z",
-      "triedQueries": [
-        "意外的凶器"
-      ],
-      "shlibIsbn": "9787806078976",
-      "shlibTitle": "意外的凶器",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:13.994Z"
     },
     "ct157-002": {
       "title": "神探华良.壹：嗜瞳",
@@ -167149,19 +168696,6 @@
       "shlibNote": "上图 0 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:19.625Z"
     },
-    "shlib160-007": {
-      "title": "恐怖分子",
-      "author": "马伊·舍瓦尔、佩尔·瓦勒",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787802252592，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:57.316Z",
-      "triedQueries": [
-        "恐怖分子"
-      ],
-      "shlibIsbn": "9787802252592",
-      "shlibTitle": "恐怖分子",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:20.676Z"
-    },
     "shlib161-005": {
       "title": "不归路",
       "author": "江户川乱步",
@@ -167174,84 +168708,6 @@
       "shlibTitle": "不归路",
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:37:21.717Z"
-    },
-    "shlib162-003": {
-      "title": "美女与野兽",
-      "author": "赤川次郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787200175486，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:58:58.443Z",
-      "triedQueries": [
-        "美女与野兽"
-      ],
-      "shlibIsbn": "9787200175486",
-      "shlibTitle": "美女与野兽",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:22.632Z"
-    },
-    "shlib163-001": {
-      "title": "匿名杀意",
-      "author": "帕特丽夏·温沃斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787221154835，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:00.944Z",
-      "triedQueries": [
-        "匿名杀意"
-      ],
-      "shlibIsbn": "9787221154835",
-      "shlibTitle": "匿名杀意",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:23.562Z"
-    },
-    "shlib163-003": {
-      "title": "眼观其声",
-      "author": "帕特丽夏·温沃斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787221154828，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:01.484Z",
-      "triedQueries": [
-        "眼观其声"
-      ],
-      "shlibIsbn": "9787221154828",
-      "shlibTitle": "眼观其声",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:24.501Z"
-    },
-    "shlib163-004": {
-      "title": "红事白事",
-      "author": "帕特丽夏·温沃斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787221154811，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:02.120Z",
-      "triedQueries": [
-        "红事白事"
-      ],
-      "shlibIsbn": "9787221154811",
-      "shlibTitle": "红事白事",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:25.498Z"
-    },
-    "shlib163-005": {
-      "title": "指纹谜案",
-      "author": "帕特丽夏·温沃斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787221154842，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:02.631Z",
-      "triedQueries": [
-        "指纹谜案"
-      ],
-      "shlibIsbn": "9787221154842",
-      "shlibTitle": "指纹谜案",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:26.415Z"
-    },
-    "shlib163-006": {
-      "title": "地窖残影",
-      "author": "帕特丽夏·温沃斯",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787221154712，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:03.099Z",
-      "triedQueries": [
-        "地窖残影"
-      ],
-      "shlibIsbn": "9787221154712",
-      "shlibTitle": "地窖残影",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:27.335Z"
     },
     "shlib163-009": {
       "title": "防火墙",
@@ -167279,32 +168735,6 @@
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:37:29.520Z"
     },
-    "shlib165-004": {
-      "title": "奇谭贩卖店",
-      "author": "芦边拓",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787516837931，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:06.995Z",
-      "triedQueries": [
-        "奇谭贩卖店"
-      ],
-      "shlibIsbn": "9787516837931",
-      "shlibTitle": "奇谭贩卖店",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:30.470Z"
-    },
-    "shlib165-005": {
-      "title": "乐谱与旅行的男人",
-      "author": "芦边拓",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787516837931，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:07.538Z",
-      "triedQueries": [
-        "乐谱与旅行的男人"
-      ],
-      "shlibIsbn": "9787516837931",
-      "shlibTitle": "乐谱与旅行的男人",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:31.403Z"
-    },
     "shlib165-006": {
       "title": "叔叔的旅行箱：幻灯小剧场",
       "author": "芦边拓",
@@ -167317,71 +168747,6 @@
       "shlibTitle": "",
       "shlibNote": "上图 1 条著录里没有题名吻合的",
       "shlibCheckedAt": "2026-10-03T05:37:32.373Z"
-    },
-    "shlib165-016": {
-      "title": "裂变",
-      "author": "轩胖儿",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787573302830，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:08.672Z",
-      "triedQueries": [
-        "裂变"
-      ],
-      "shlibIsbn": "9787573302830",
-      "shlibTitle": "裂变",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:33.350Z"
-    },
-    "shlib165-017": {
-      "title": "不白之冤",
-      "author": "轩胖儿",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787205118976，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:09.350Z",
-      "triedQueries": [
-        "不白之冤"
-      ],
-      "shlibIsbn": "9787205118976",
-      "shlibTitle": "不白之冤",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:34.284Z"
-    },
-    "shlib165-021": {
-      "title": "高校入试",
-      "author": "凑佳苗",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9789863314868，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:09.910Z",
-      "triedQueries": [
-        "高校入试"
-      ],
-      "shlibIsbn": "9789863314868",
-      "shlibTitle": "高校入试",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:35.227Z"
-    },
-    "shlib167-013": {
-      "title": "假面剧场",
-      "author": "赤川次郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787020181254，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:18.492Z",
-      "triedQueries": [
-        "假面剧场"
-      ],
-      "shlibIsbn": "9787020181254",
-      "shlibTitle": "假面剧场",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:36.216Z"
-    },
-    "shlib167-016": {
-      "title": "茶话会",
-      "author": "赤川次郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787020181544，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:19.070Z",
-      "triedQueries": [
-        "茶话会"
-      ],
-      "shlibIsbn": "9787020181544",
-      "shlibTitle": "茶话会",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:37.225Z"
     },
     "shlib167-022": {
       "title": "千钧一发",
@@ -167396,71 +168761,6 @@
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:37:38.287Z"
     },
-    "shlib168-022": {
-      "title": "死亡拼图",
-      "author": "哈兰·科本",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787501447329，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:22.964Z",
-      "triedQueries": [
-        "死亡拼图"
-      ],
-      "shlibIsbn": "9787501447329",
-      "shlibTitle": "死亡拼图",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:39.320Z"
-    },
-    "shlib169-007": {
-      "title": "黑白",
-      "author": "谷崎润一郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787559451521，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:23.531Z",
-      "triedQueries": [
-        "黑白"
-      ],
-      "shlibIsbn": "9787559451521",
-      "shlibTitle": "黑白",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:40.266Z"
-    },
-    "shlib169-009": {
-      "title": "试映会",
-      "author": "赤川次郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787020181322，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:24.174Z",
-      "triedQueries": [
-        "试映会"
-      ],
-      "shlibIsbn": "9787020181322",
-      "shlibTitle": "试映会",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:41.224Z"
-    },
-    "shlib169-023": {
-      "title": "洞穴",
-      "author": "何塞·卡洛斯·索莫萨",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787547401200，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:24.675Z",
-      "triedQueries": [
-        "洞穴"
-      ],
-      "shlibIsbn": "9787547401200",
-      "shlibTitle": "洞穴",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:42.200Z"
-    },
-    "shlib170-001": {
-      "title": "午夜惊魂",
-      "author": "王建幸",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787811092950，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:25.290Z",
-      "triedQueries": [
-        "午夜惊魂"
-      ],
-      "shlibIsbn": "9787811092950",
-      "shlibTitle": "午夜惊魂",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:43.210Z"
-    },
     "shlib170-013": {
       "title": "两粒珠",
       "author": "程小青",
@@ -167473,19 +168773,6 @@
       "shlibTitle": "两粒珠",
       "shlibNote": "上图著录里没有书号",
       "shlibCheckedAt": "2026-10-03T05:37:44.150Z"
-    },
-    "shlib170-024": {
-      "title": "荒诞的诱惑",
-      "author": "西村京太郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787806890387，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:28.040Z",
-      "triedQueries": [
-        "荒诞的诱惑"
-      ],
-      "shlibIsbn": "9787806890387",
-      "shlibTitle": "荒诞的诱惑",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:45.063Z"
     },
     "shlib171-009": {
       "title": "紫信笺",
@@ -167512,19 +168799,6 @@
       "shlibTitle": "青春之火",
       "shlibNote": "上图著录里没有书号",
       "shlibCheckedAt": "2026-10-03T05:37:46.991Z"
-    },
-    "shlib171-018": {
-      "title": "非命旅程",
-      "author": "西村京太郎",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787806079744，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T19:59:30.364Z",
-      "triedQueries": [
-        "非命旅程"
-      ],
-      "shlibIsbn": "9787806079744",
-      "shlibTitle": "非命旅程",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:37:47.919Z"
     },
     "shlib172-020": {
       "title": "奇异庄园",
@@ -168032,34 +169306,8 @@
       "shlibTitle": "魔都咖啡",
       "shlibNote": "",
       "shlibCheckedAt": "2026-10-03T05:38:27.270Z"
-    },
-    "jpaudit77-007": {
-      "title": "十字街",
-      "author": "久生十兰",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787546342382，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T13:39:08.256Z",
-      "triedQueries": [
-        "十字街"
-      ],
-      "shlibIsbn": "9787546342382",
-      "shlibTitle": "十字街",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:38:28.226Z"
-    },
-    "jpaudit78-003": {
-      "title": "地狱使者",
-      "author": "海野十三",
-      "reason": "豆瓣按题名搜不到；已从上图查到书号 9787546316482，待走「豆瓣书号直达」重试（台账 §177）",
-      "triedAt": "2026-10-02T13:39:08.783Z",
-      "triedQueries": [
-        "地狱使者"
-      ],
-      "shlibIsbn": "9787546316482",
-      "shlibTitle": "地狱使者",
-      "shlibNote": "",
-      "shlibCheckedAt": "2026-10-03T05:38:29.159Z"
     }
   },
-  "coverCount": 3258,
-  "missCount": 162
+  "coverCount": 3310,
+  "missCount": 110
 }

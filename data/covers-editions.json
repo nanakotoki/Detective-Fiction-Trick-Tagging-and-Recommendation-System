@@ -2,9 +2,9 @@
  "format": "detective-fiction-cover-editions",
  "version": 1,
  "note": "封面版本一览：每部作品保存了哪几个版本的封面（最多 3 个）、各自的出版年与出版社。file 是 web/covers/ 下的文件名；primary＝外面（书卡与档案页大图）显示的那一张，取最新的一版。这份文件由 scripts/gen-cover-manifest.mjs 生成，档案页按需加载。",
- "generatedAt": "2026-10-03T06:45:00.836Z",
- "bookCount": 3258,
- "editionCount": 4940,
+ "generatedAt": "2026-10-04T06:59:58.990Z",
+ "bookCount": 3310,
+ "editionCount": 4992,
  "books": {
   "honkaku-001": [
    {
@@ -6065,6 +6065,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s33891095.jpg"
    }
   ],
+  "opac104-010": [
+   {
+    "subjectId": "35219638",
+    "year": "2020-7",
+    "publisher": "",
+    "title": "赫蒂三部曲（全3册）",
+    "file": "opac104-010.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "opac104-011": [
    {
     "subjectId": "25975764",
@@ -10086,6 +10097,17 @@
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34034885.jpg"
    }
   ],
+  "gap116-011": [
+   {
+    "subjectId": "36372549",
+    "year": "",
+    "publisher": "",
+    "title": "金鱼(家养观赏鱼系列)",
+    "file": "gap116-011.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "gap116-012": [
    {
     "subjectId": "30416975",
@@ -10591,6 +10613,17 @@
     "primary": false,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s7661920.jpg"
+   }
+  ],
+  "gap117-018": [
+   {
+    "subjectId": "1934860",
+    "year": "2006-8",
+    "publisher": "",
+    "title": "红蜘蛛",
+    "file": "gap117-018.webp",
+    "primary": true,
+    "collected": false
    }
   ],
   "wk118-001": [
@@ -11481,6 +11514,17 @@
     "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/652/33783652/t3_33783652.jpg",
     "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/652/33783652/t9_33783652.jpg",
     "primary": false,
+    "collected": false
+   }
+  ],
+  "gap119-022": [
+   {
+    "subjectId": "35596816",
+    "year": "2021-5",
+    "publisher": "",
+    "title": "中国经典民间故事彩色连环画",
+    "file": "gap119-022.webp",
+    "primary": true,
     "collected": false
    }
   ],
@@ -13058,6 +13102,17 @@
     "publisher": "",
     "title": "死人侦探",
     "file": "facet123-007.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "facet123-008": [
+   {
+    "subjectId": "1512434",
+    "year": "2003-1",
+    "publisher": "",
+    "title": "私家侦探",
+    "file": "facet123-008.webp",
     "primary": true,
     "collected": false
    }
@@ -16588,6 +16643,17 @@
     "collected": false
    }
   ],
+  "coll134-011": [
+   {
+    "subjectId": "36340533",
+    "year": "",
+    "publisher": "",
+    "title": "日本推理短篇小说选（名家导读版.日汉对照.赠双语音频）",
+    "file": "coll134-011.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "coll134-012": [
    {
     "subjectId": "26664120",
@@ -17116,6 +17182,17 @@
     "publisher": "",
     "title": "燃烧的蜂鸟：迷案1985",
     "file": "author136-015.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "author136-016": [
+   {
+    "subjectId": "36856725",
+    "year": "2024-4-16",
+    "publisher": "",
+    "title": "坏家伙们",
+    "file": "author136-016.webp",
     "primary": true,
     "collected": false
    }
@@ -18509,6 +18586,17 @@
     "collected": false
    }
   ],
+  "clc140-010": [
+   {
+    "subjectId": "26606497",
+    "year": "2015-7",
+    "publisher": "",
+    "title": "三叶虫",
+    "file": "clc140-010.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "clc140-011": [
    {
     "subjectId": "35719465",
@@ -18655,6 +18743,17 @@
     "collected": false
    }
   ],
+  "clc140-020": [
+   {
+    "subjectId": "27119072",
+    "year": "2017-11",
+    "publisher": "",
+    "title": "空中小姐",
+    "file": "clc140-020.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "clc140-021": [
    {
     "subjectId": "26985961",
@@ -18754,6 +18853,17 @@
     "pic": "https://cdn.weread.qq.com/weread/cover/69/cpplatform_7we5tkgxkr72f4xhhgenbx/t3_cpplatform_7we5tkgxkr72f4xhhgenbx1772446828.jpg",
     "largePic": "https://cdn.weread.qq.com/weread/cover/69/cpplatform_7we5tkgxkr72f4xhhgenbx/t9_cpplatform_7we5tkgxkr72f4xhhgenbx1772446828.jpg",
     "primary": false,
+    "collected": false
+   }
+  ],
+  "clc140-027": [
+   {
+    "subjectId": "5044280",
+    "year": "2010-1",
+    "publisher": "",
+    "title": "刺杀",
+    "file": "clc140-027.webp",
+    "primary": true,
     "collected": false
    }
   ],
@@ -19686,6 +19796,17 @@
     "collected": false
    }
   ],
+  "clc142-012": [
+   {
+    "subjectId": "35536483",
+    "year": "2021-4",
+    "publisher": "",
+    "title": "双城",
+    "file": "clc142-012.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "clc142-013": [
    {
     "subjectId": "35361136",
@@ -19794,6 +19915,17 @@
     "publisher": "",
     "title": "忠诚（独家首发）",
     "file": "clc142-020.jpg",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "clc142-021": [
+   {
+    "subjectId": "36137466",
+    "year": "2023-1",
+    "publisher": "",
+    "title": "无处遁逃",
+    "file": "clc142-021.webp",
     "primary": true,
     "collected": false
    }
@@ -20090,6 +20222,17 @@
     "collected": false
    }
   ],
+  "clc142-040": [
+   {
+    "subjectId": "36719459",
+    "year": "2023-12",
+    "publisher": "",
+    "title": "小熊哥哥和小熊妹妹.第二辑（全10册）",
+    "file": "clc142-040.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "clc143-001": [
    {
     "subjectId": "35921056",
@@ -20176,6 +20319,17 @@
     "pic": "https://cdn.weread.qq.com/weread/cover/7/yuewen_44387133/t3_yuewen_443871331678443688.jpg",
     "largePic": "https://cdn.weread.qq.com/weread/cover/7/yuewen_44387133/t9_yuewen_443871331678443688.jpg",
     "primary": false,
+    "collected": false
+   }
+  ],
+  "clc143-005": [
+   {
+    "subjectId": "35837574",
+    "year": "2022-3",
+    "publisher": "",
+    "title": "漂白",
+    "file": "clc143-005.webp",
+    "primary": true,
     "collected": false
    }
   ],
@@ -20290,6 +20444,17 @@
     "collected": false
    }
   ],
+  "clc143-018": [
+   {
+    "subjectId": "36639691",
+    "year": "2024-3",
+    "publisher": "",
+    "title": "刑侦笔记",
+    "file": "clc143-018.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "clc143-019": [
    {
     "subjectId": "36672967",
@@ -20355,6 +20520,17 @@
     "pic": "https://cdn.weread.qq.com/weread/cover/72/yuewen_40935351/t3_yuewen_409353511678700084.jpg",
     "largePic": "https://cdn.weread.qq.com/weread/cover/72/yuewen_40935351/t9_yuewen_409353511678700084.jpg",
     "primary": false,
+    "collected": false
+   }
+  ],
+  "clc143-022": [
+   {
+    "subjectId": "34969947",
+    "year": "2020-5",
+    "publisher": "",
+    "title": "线索",
+    "file": "clc143-022.webp",
+    "primary": true,
     "collected": false
    }
   ],
@@ -20822,6 +20998,17 @@
     "publisher": "",
     "title": "越狱者",
     "file": "clc144-016.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "clc144-017": [
+   {
+    "subjectId": "27026341",
+    "year": "2017-6",
+    "publisher": "",
+    "title": "绝杀",
+    "file": "clc144-017.webp",
     "primary": true,
     "collected": true
    }
@@ -21938,6 +22125,17 @@
     "collected": true
    }
   ],
+  "ns147-023": [
+   {
+    "subjectId": "26706062",
+    "year": "2015-8-1",
+    "publisher": "",
+    "title": "福尔摩斯归来探案集：新的冒险",
+    "file": "ns147-023.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "ns147-024": [
    {
     "subjectId": "10457386",
@@ -21970,6 +22168,17 @@
     "file": "ns147-025.webp",
     "primary": true,
     "collected": true
+   }
+  ],
+  "ns147-026": [
+   {
+    "subjectId": "30171275",
+    "year": "",
+    "publisher": "",
+    "title": "误入歧途",
+    "file": "ns147-026.webp",
+    "primary": true,
+    "collected": false
    }
   ],
   "ns148-002": [
@@ -22207,6 +22416,28 @@
     "publisher": "",
     "title": "新闻发言人",
     "file": "ns148-016.jpg",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "ns148-018": [
+   {
+    "subjectId": "3140801",
+    "year": "2008-8",
+    "publisher": "",
+    "title": "姑获鸟之夏",
+    "file": "ns148-018.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "ns148-020": [
+   {
+    "subjectId": "31271665",
+    "year": "2018-2",
+    "publisher": "",
+    "title": "告密者",
+    "file": "ns148-020.webp",
     "primary": true,
     "collected": false
    }
@@ -22896,6 +23127,17 @@
     "collected": false
    }
   ],
+  "ns150-002": [
+   {
+    "subjectId": "1174199",
+    "year": "2004-6-1",
+    "publisher": "",
+    "title": "堕落的天使",
+    "file": "ns150-002.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "ns150-003": [
    {
     "subjectId": "2025746",
@@ -22961,6 +23203,17 @@
     "file": "bd151-002.jpg",
     "primary": true,
     "collected": false
+   }
+  ],
+  "bd151-004": [
+   {
+    "subjectId": "26722786",
+    "year": "2016-6",
+    "publisher": "",
+    "title": "后妻业",
+    "file": "bd151-004.webp",
+    "primary": true,
+    "collected": true
    }
   ],
   "bd151-005": [
@@ -23896,6 +24149,17 @@
     "collected": true
    }
   ],
+  "bd153-012": [
+   {
+    "subjectId": "35767707",
+    "year": "2022-6",
+    "publisher": "",
+    "title": "夺命之爱",
+    "file": "bd153-012.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "bd153-013": [
    {
     "subjectId": "34799555",
@@ -23942,6 +24206,17 @@
     "largePic": "https://cdn.weread.qq.com/weread/cover/48/cpplatform_iymnnmnbjzddop3fwih3nr/t9_cpplatform_iymnnmnbjzddop3fwih3nr1761121842.jpg",
     "primary": false,
     "collected": false
+   }
+  ],
+  "bd153-015": [
+   {
+    "subjectId": "35541390",
+    "year": "2021-9",
+    "publisher": "",
+    "title": "猫头鹰谋杀案",
+    "file": "bd153-015.webp",
+    "primary": true,
+    "collected": true
    }
   ],
   "bd153-016": [
@@ -24174,6 +24449,17 @@
     "collected": true
    }
   ],
+  "bd154-002": [
+   {
+    "subjectId": "35136094",
+    "year": "2020-8",
+    "publisher": "",
+    "title": "沼泽",
+    "file": "bd154-002.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "bd154-003": [
    {
     "subjectId": "27074536",
@@ -24226,6 +24512,17 @@
     "publisher": "",
     "title": "谜罪3·消失的女人",
     "file": "bd154-006.jpg",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "bd154-007": [
+   {
+    "subjectId": "33461291",
+    "year": "2017-9",
+    "publisher": "",
+    "title": "看不見的手",
+    "file": "bd154-007.webp",
     "primary": true,
     "collected": false
    }
@@ -24329,6 +24626,17 @@
     "file": "bd154-014.jpg",
     "primary": true,
     "collected": false
+   }
+  ],
+  "bd154-015": [
+   {
+    "subjectId": "35321222",
+    "year": "2021-4",
+    "publisher": "",
+    "title": "沉默的天使",
+    "file": "bd154-015.webp",
+    "primary": true,
+    "collected": true
    }
   ],
   "bd154-016": [
@@ -24712,6 +25020,17 @@
     "publisher": "",
     "title": "女神探希娃09：分身诡计",
     "file": "ct156-009.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "ct156-010": [
+   {
+    "subjectId": "36841334",
+    "year": "2002-2",
+    "publisher": "",
+    "title": "舞女号列车上的凶杀案",
+    "file": "ct156-010.webp",
     "primary": true,
     "collected": true
    }
@@ -25532,6 +25851,17 @@
     "collected": true
    }
   ],
+  "shlib160-007": [
+   {
+    "subjectId": "2077842",
+    "year": "2007-4",
+    "publisher": "",
+    "title": "恐怖分子",
+    "file": "shlib160-007.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "shlib160-008": [
    {
     "subjectId": "25853082",
@@ -26150,6 +26480,17 @@
     "collected": true
    }
   ],
+  "shlib162-003": [
+   {
+    "subjectId": "36383353",
+    "year": "",
+    "publisher": "",
+    "title": "世界经典童话：英文高频词版（全20册）（内含20节动画及原文翻译，赠高频词描红本）",
+    "file": "shlib162-003.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "shlib162-004": [
    {
     "subjectId": "1147248",
@@ -26440,6 +26781,17 @@
     "collected": true
    }
   ],
+  "shlib163-001": [
+   {
+    "subjectId": "34815922",
+    "year": "2019-10",
+    "publisher": "",
+    "title": "女神探希娃29：匿名杀意",
+    "file": "shlib163-001.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "shlib163-002": [
    {
     "subjectId": "30383083",
@@ -26447,6 +26799,50 @@
     "publisher": "",
     "title": "致命贪念",
     "file": "shlib163-002.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib163-003": [
+   {
+    "subjectId": "34815934",
+    "year": "2019-8",
+    "publisher": "",
+    "title": "女神探希娃28：眼观其声",
+    "file": "shlib163-003.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib163-004": [
+   {
+    "subjectId": "34815971",
+    "year": "",
+    "publisher": "",
+    "title": "女神探希娃27：红事白事",
+    "file": "shlib163-004.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "shlib163-005": [
+   {
+    "subjectId": "34815938",
+    "year": "2019-6",
+    "publisher": "",
+    "title": "女神探希娃30：指纹谜案",
+    "file": "shlib163-005.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib163-006": [
+   {
+    "subjectId": "34815921",
+    "year": "2019-10",
+    "publisher": "",
+    "title": "女神探希娃32：地窖残影",
+    "file": "shlib163-006.webp",
     "primary": true,
     "collected": true
    }
@@ -27070,6 +27466,28 @@
     "collected": false
    }
   ],
+  "shlib165-004": [
+   {
+    "subjectId": "36738526",
+    "year": "2024-9",
+    "publisher": "",
+    "title": "芦边拓幻想短篇集",
+    "file": "shlib165-004.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib165-005": [
+   {
+    "subjectId": "36738526",
+    "year": "2024-9",
+    "publisher": "",
+    "title": "芦边拓幻想短篇集",
+    "file": "shlib165-005.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "shlib165-007": [
    {
     "subjectId": "35268279",
@@ -27194,6 +27612,28 @@
     "collected": false
    }
   ],
+  "shlib165-016": [
+   {
+    "subjectId": "36538576",
+    "year": "",
+    "publisher": "",
+    "title": "裂变",
+    "file": "shlib165-016.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "shlib165-017": [
+   {
+    "subjectId": "38351342",
+    "year": "2026-3",
+    "publisher": "",
+    "title": "不白之冤",
+    "file": "shlib165-017.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "shlib165-018": [
    {
     "subjectId": "30133163",
@@ -27225,6 +27665,17 @@
     "file": "shlib165-020.webp",
     "primary": true,
     "collected": true
+   }
+  ],
+  "shlib165-021": [
+   {
+    "subjectId": "25934920",
+    "year": "2014-8-28",
+    "publisher": "",
+    "title": "高校入試",
+    "file": "shlib165-021.webp",
+    "primary": true,
+    "collected": false
    }
   ],
   "shlib165-022": [
@@ -27703,6 +28154,17 @@
     "collected": false
    }
   ],
+  "shlib167-013": [
+   {
+    "subjectId": "36488497",
+    "year": "",
+    "publisher": "",
+    "title": "假面剧场",
+    "file": "shlib167-013.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "shlib167-014": [
    {
     "subjectId": "36492853",
@@ -27721,6 +28183,17 @@
     "publisher": "",
     "title": "梦纪行",
     "file": "shlib167-015.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
+  "shlib167-016": [
+   {
+    "subjectId": "36492697",
+    "year": "",
+    "publisher": "",
+    "title": "茶话会",
+    "file": "shlib167-016.webp",
     "primary": true,
     "collected": false
    }
@@ -28178,6 +28651,17 @@
     "collected": true
    }
   ],
+  "shlib168-022": [
+   {
+    "subjectId": "4909021",
+    "year": "2010-7",
+    "publisher": "",
+    "title": "死亡拼图",
+    "file": "shlib168-022.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "shlib168-023": [
    {
     "subjectId": "20449691",
@@ -28328,6 +28812,17 @@
     "collected": true
    }
   ],
+  "shlib169-007": [
+   {
+    "subjectId": "35380159",
+    "year": "2021-3",
+    "publisher": "",
+    "title": "黑白 （朝小诚代表作）",
+    "file": "shlib169-007.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "shlib169-008": [
    {
     "subjectId": "26641421",
@@ -28337,6 +28832,17 @@
     "file": "shlib169-008.webp",
     "primary": true,
     "collected": true
+   }
+  ],
+  "shlib169-009": [
+   {
+    "subjectId": "36488501",
+    "year": "",
+    "publisher": "",
+    "title": "试映会",
+    "file": "shlib169-009.webp",
+    "primary": true,
+    "collected": false
    }
   ],
   "shlib169-010": [
@@ -28519,6 +29025,17 @@
     "collected": true
    }
   ],
+  "shlib169-023": [
+   {
+    "subjectId": "4905919",
+    "year": "2010-7",
+    "publisher": "",
+    "title": "洞穴",
+    "file": "shlib169-023.webp",
+    "primary": true,
+    "collected": false
+   }
+  ],
   "shlib169-024": [
    {
     "subjectId": "2182095",
@@ -28679,6 +29196,17 @@
     "publisher": "",
     "title": "地雷格力高",
     "file": "aosaki-007.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib170-001": [
+   {
+    "subjectId": "1705842",
+    "year": "2006-1",
+    "publisher": "",
+    "title": "午夜惊魂",
+    "file": "shlib170-001.webp",
     "primary": true,
     "collected": true
    }
@@ -28998,6 +29526,17 @@
     "collected": false
    }
   ],
+  "shlib170-024": [
+   {
+    "subjectId": "1213420",
+    "year": "2003-4",
+    "publisher": "",
+    "title": "四百目击者",
+    "file": "shlib170-024.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "shlib170-025": [
    {
     "subjectId": "1211543",
@@ -29182,6 +29721,17 @@
     "publisher": "",
     "title": "列车23点25分到札幌",
     "file": "shlib171-017.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
+  "shlib171-018": [
+   {
+    "subjectId": "1211544",
+    "year": "2002-10-1",
+    "publisher": "",
+    "title": "丽影陷阱",
+    "file": "shlib171-018.webp",
     "primary": true,
     "collected": true
    }
@@ -54538,6 +55088,17 @@
     "collected": true
    }
   ],
+  "jpaudit77-007": [
+   {
+    "subjectId": "5367292",
+    "year": "2010-12",
+    "publisher": "",
+    "title": "十字街",
+    "file": "jpaudit77-007.webp",
+    "primary": true,
+    "collected": true
+   }
+  ],
   "jpaudit78-001": [
    {
     "subjectId": "4168620",
@@ -54569,6 +55130,17 @@
     "pic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_ateyzzsz99nkqucconvgt3/t3_cpplatform_ateyzzsz99nkqucconvgt31740123558.jpg",
     "largePic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_ateyzzsz99nkqucconvgt3/t9_cpplatform_ateyzzsz99nkqucconvgt31740123558.jpg",
     "primary": false,
+    "collected": false
+   }
+  ],
+  "jpaudit78-003": [
+   {
+    "subjectId": "4191763",
+    "year": "2010年1月",
+    "publisher": "",
+    "title": "地狱使者",
+    "file": "jpaudit78-003.webp",
+    "primary": true,
     "collected": false
    }
   ],
