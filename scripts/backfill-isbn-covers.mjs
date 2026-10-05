@@ -160,18 +160,27 @@ async function isbnFromShlib(title, author) {
 async function coverFromDoubanIsbn(isbn) {
   const res = await fetch(`https://book.douban.com/isbn/${isbn}/`, {
     redirect: 'follow',
+    signal: AbortSignal.timeout(15_000),
     headers: { 'user-agent': UA, referer: 'https://book.douban.com/' },
   });
+  /**
+   * 失败要分两类（第 189 轮实测分清的）：
+   *   · **内容结论**：`404`／没有跳到条目页（豆瓣没有这条书号的条目）、条目本身没有封面图
+   *     —— 这不是「没问到」，重试一万次也是这个结果，不该混进「等它通了还能救」；
+   *   · **临时故障**：403／超时／5xx —— 这才值得下次再试。
+   * 之前两类混在一个数字里，于是 6 部「豆瓣根本没有这条书号」被当成限流挂了好几天。
+   */
+  if (res.status === 404) return { ok: false, note: `豆瓣没有这条书号的条目（404）`, content: true };
   if (!res.ok) return { ok: false, note: `豆瓣 HTTP ${res.status}` };
   const html = await res.text();
   const sid = (String(res.url).match(/subject\/(\d+)/) || [])[1] || '';
-  if (!sid) return { ok: false, note: '书号没有跳到条目页' };
+  if (!sid) return { ok: false, note: '豆瓣没有这条书号的条目（没有跳到条目页）', content: true };
   const info = parseInfoLite(html);
   if (info.isbn && toIsbn13(info.isbn) !== toIsbn13(isbn)) {
-    return { ok: false, note: `跳到的条目 ISBN 是 ${info.isbn}，与本版不一致` };
+    return { ok: false, note: `跳到的条目 ISBN 是 ${info.isbn}，与本版不一致`, content: true };
   }
   const pic = parseMainPic(html);
-  if (!pic || isDefaultPic(pic)) return { ok: false, note: '豆瓣该条目没有封面图' };
+  if (!pic || isDefaultPic(pic)) return { ok: false, note: '豆瓣该条目本身没有封面图', content: true, sid };
   return { ok: true, pic, sid, info };
 }
 
@@ -241,11 +250,15 @@ for (const t of targets) {
     }
     let done = false;
     let lastNote = '';
+    let lastContent = false;
+    let lastSid = '';
     for (const isbn of isbns.slice(0, 2)) {
       await sleep(DELAY);
       const db = await coverFromDoubanIsbn(isbn);
       if (!db.ok) {
         lastNote = db.note || '';
+        lastContent = Boolean(db.content);
+        lastSid = db.sid || '';
         continue;
       }
       const img = await downloadCover(db.pic);
@@ -281,12 +294,24 @@ for (const t of targets) {
     }
     if (!done) {
       /**
-       * 「拿不到封面」要分清两件事，报数时不能混：
-       *   · 豆瓣**根本没问到**（限流 403／连不上）→ 这不是内容结论，等它通了还能救；
-       *   · 豆瓣**答了但没有图**（条目没封面、或跳到的条目 ISBN 与本版不一致）→ 内容结论。
+       * 「拿不到封面」分两类，报数时不能混：
+       *   · **内容结论**（`content: true`）：豆瓣没有这条书号的条目、或条目本身没有封面图
+       *     —— 重试也没用，写进 `misses` 留个明确理由，下次不再白跑；
+       *   · **临时故障**（403／超时／5xx）：这才叫「没问到」，等它通了还能救。
        */
-      if (/^豆瓣 HTTP|没有跳到条目页/.test(lastNote)) blocked += 1;
-      else noCover += 1;
+      if (lastContent) {
+        noCover += 1;
+        if (APPLY) {
+          const miss = index.misses[t.id] || {};
+          miss.doubanIsbnCheckedAt = new Date().toISOString();
+          miss.doubanIsbnNote = lastNote;
+          if (lastSid) miss.doubanSubjectId = lastSid;
+          miss.reason = `上图书号 ${isbns[0]} → 豆瓣：${lastNote}`;
+          index.misses[t.id] = miss;
+        }
+      } else {
+        blocked += 1;
+      }
       if (targets.length <= 40) {
         console.log(color(`  · 《${title}》：有书号（${isbns[0]}），${lastNote || '豆瓣没有可用封面'}`, C.dim));
       }

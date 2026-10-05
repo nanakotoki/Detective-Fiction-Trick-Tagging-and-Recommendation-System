@@ -2,19 +2,30 @@
  "format": "detective-fiction-cover-editions",
  "version": 1,
  "note": "封面版本一览：每部作品保存了哪几个版本的封面（最多 3 个）、各自的出版年与出版社。file 是 web/covers/ 下的文件名；primary＝外面（书卡与档案页大图）显示的那一张，取最新的一版。这份文件由 scripts/gen-cover-manifest.mjs 生成，档案页按需加载。",
- "generatedAt": "2026-10-04T08:02:08.652Z",
+ "generatedAt": "2026-10-05T12:39:22.831Z",
  "bookCount": 3310,
- "editionCount": 4869,
+ "editionCount": 4878,
  "books": {
   "honkaku-001": [
+   {
+    "subjectId": "11614712",
+    "year": "2012-9",
+    "publisher": "南海出版公司",
+    "translator": "王丽丽",
+    "title": "狱门岛",
+    "file": "honkaku-001.webp",
+    "primary": true,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s11194369.jpg"
+   },
    {
     "subjectId": "38240380",
     "year": "2026-2-26",
     "publisher": "獨步文化",
     "translator": "李美惠",
     "title": "獄门島",
-    "file": "honkaku-001.webp",
-    "primary": true,
+    "file": "honkaku-001-38240380.webp",
+    "primary": false,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35411750.jpg"
    }
@@ -196,28 +207,26 @@
   ],
   "honkaku-009": [
    {
-    "subjectId": "36595911",
-    "year": "2024-10",
-    "publisher": "Pushkin Press",
-    "translator": "Ho-Ling Wong",
-    "title": "The Labyrinth House Murders",
+    "subjectId": "36930631",
+    "year": "2024-7",
+    "publisher": "新星出版社",
+    "translator": "谭力",
+    "title": "迷宫馆事件",
     "file": "honkaku-009.webp",
     "primary": true,
     "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s34673830.jpg"
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s34925313.jpg"
    },
    {
-    "subjectId": "23193064",
-    "year": "",
+    "subjectId": "24744495",
+    "year": "2013-8",
     "publisher": "新星出版社",
     "translator": "谭力",
-    "title": "绫辻行人03：迷宫馆事件",
-    "remote": true,
-    "source": "微信读书",
-    "pic": "https://cdn.weread.qq.com/weread/cover/4/YueWen_23193064/t3_YueWen_23193064.jpg",
-    "largePic": "https://cdn.weread.qq.com/weread/cover/4/YueWen_23193064/t9_YueWen_23193064.jpg",
+    "title": "迷宫馆事件",
+    "file": "honkaku-009-24744495.webp",
     "primary": false,
-    "collected": false
+    "collected": false,
+    "pic": "https://img9.doubanio.com/view/subject/s/public/s26939485.jpg"
    }
   ],
   "honkaku-010": [
@@ -255,65 +264,118 @@
   ],
   "honkaku-011": [
    {
-    "subjectId": "38591316",
-    "year": "2026-7-11",
-    "publisher": "prism publishing",
-    "title": "คดีที่ไม่น่าเป็นไปได้ในคฤหาสน์เอน",
+    "subjectId": "25779475",
+    "year": "2013-12",
+    "publisher": "皇冠",
+    "translator": "劉珮瑄",
+    "title": "斜屋犯罪(改定完全版)",
     "file": "honkaku-011.webp",
     "primary": true,
     "collected": false,
-    "pic": "https://img9.doubanio.com/view/subject/s/public/s35588145.jpg"
+    "pic": "https://img9.doubanio.com/view/subject/s/public/s27187236.jpg"
+   },
+   {
+    "subjectId": "5487415",
+    "year": "2011-3",
+    "publisher": "新星出版社",
+    "translator": "王鹏帆",
+    "title": "斜屋犯罪",
+    "file": "honkaku-011-5487415.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s6916342.jpg"
    }
   ],
   "honkaku-012": [
+   {
+    "subjectId": "23780806",
+    "year": "2013-4",
+    "publisher": "新星出版社",
+    "translator": "林敏生",
+    "title": "奇想，天动",
+    "file": "honkaku-012.webp",
+    "primary": true,
+    "collected": true,
+    "pic": "https://img9.doubanio.com/view/subject/s/public/s26263246.jpg"
+   },
+   {
+    "subjectId": "4898712",
+    "year": "2010-8",
+    "publisher": "新星出版社",
+    "translator": "林敏生",
+    "title": "奇想·天动",
+    "file": "honkaku-012-4898712.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img9.doubanio.com/view/subject/s/public/s4540915.jpg"
+   },
    {
     "subjectId": "38230011",
     "year": "2026-3-11",
     "publisher": "光文社",
     "title": "改訂完全版 奇想、天を動かす",
-    "file": "honkaku-012.webp",
-    "primary": true,
+    "file": "honkaku-012-38230011.webp",
+    "primary": false,
     "collected": false,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35452142.jpg"
    }
   ],
   "honkaku-013": [
    {
+    "subjectId": "5938073",
+    "year": "2011-4",
+    "publisher": "译林出版社",
+    "translator": "娄美莲",
+    "title": "活尸之死",
+    "file": "honkaku-013.webp",
+    "primary": true,
+    "collected": true,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s4670402.jpg"
+   },
+   {
+    "subjectId": "3122449",
+    "year": "2008-7-14",
+    "publisher": "皇冠",
+    "translator": "婁美蓮",
+    "title": "活屍之死",
+    "file": "honkaku-013-3122449.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s3862289.jpg"
+   },
+   {
     "subjectId": "35696033",
     "year": "2021-11-29",
     "publisher": "AMMO",
     "translator": "Ho-Ling Wong",
     "title": "Death of the Living Dead",
-    "file": "honkaku-013.webp",
-    "primary": true,
+    "file": "honkaku-013-35696033.webp",
+    "primary": false,
     "collected": false,
     "pic": "https://img9.doubanio.com/view/subject/s/public/s34064596.jpg"
    }
   ],
   "honkaku-014": [
    {
-    "subjectId": "2975820",
-    "year": "2008-3-1",
-    "publisher": "小知堂",
-    "translator": "林敏生",
-    "title": "匣中的失樂",
-    "file": "honkaku-014.webp",
-    "primary": true,
-    "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s2930352.jpg"
-   },
-   {
-    "subjectId": "24139752",
-    "year": "",
+    "subjectId": "5380419",
+    "year": "2011-1",
     "publisher": "新星出版社",
     "translator": "陈涤",
     "title": "匣中失乐",
-    "remote": true,
-    "source": "微信读书",
-    "pic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/752/24139752/t3_24139752.jpg",
-    "largePic": "https://wfqqreader-1252317822.image.myqcloud.com/cover/752/24139752/t9_24139752.jpg",
+    "file": "honkaku-014.webp",
+    "primary": true,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s6266840.jpg"
+   },
+   {
+    "subjectId": "2055020",
+    "year": "2002-10",
+    "publisher": "双葉社",
+    "title": "匣の中の失楽",
+    "file": "honkaku-014-2055020.webp",
     "primary": false,
-    "collected": false
+    "collected": false,
+    "pic": "https://img2.doubanio.com/view/subject/s/public/s3314731.jpg"
    }
   ],
   "shinhonkaku-001": [
@@ -458,15 +520,26 @@
   ],
   "shinhonkaku-005": [
    {
-    "subjectId": "37120011",
-    "year": "2025-10-9",
-    "publisher": "Pushkin Vertigo",
-    "translator": "Ho-Ling Wong",
-    "title": "The Clock House Murders",
+    "subjectId": "36930626",
+    "year": "2024-7",
+    "publisher": "新星出版社",
+    "translator": "刘羽阳",
+    "title": "钟表馆事件",
     "file": "shinhonkaku-005.webp",
     "primary": true,
     "collected": false,
-    "pic": "https://img3.doubanio.com/view/subject/s/public/s35044518.jpg"
+    "pic": "https://img9.doubanio.com/view/subject/s/public/s34925264.jpg"
+   },
+   {
+    "subjectId": "25848819",
+    "year": "2014-5",
+    "publisher": "新星出版社",
+    "translator": "刘羽阳",
+    "title": "钟表馆事件",
+    "file": "shinhonkaku-005-25848819.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s27258862.jpg"
    }
   ],
   "shinhonkaku-006": [
@@ -480,6 +553,28 @@
     "primary": true,
     "collected": true,
     "pic": "https://img3.doubanio.com/view/subject/s/public/s33947872.jpg"
+   },
+   {
+    "subjectId": "6249670",
+    "year": "2011-6",
+    "publisher": "吉林出版集团",
+    "translator": "张舟",
+    "title": "首无·作祟之物",
+    "file": "shinhonkaku-006-6249670.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s6800607.jpg"
+   },
+   {
+    "subjectId": "35888591",
+    "year": "2022-7-2",
+    "publisher": "獨步文化",
+    "translator": "王華懋",
+    "title": "如無頭作祟之物",
+    "file": "shinhonkaku-006-35888591.webp",
+    "primary": false,
+    "collected": false,
+    "pic": "https://img2.doubanio.com/view/subject/s/public/s34261081.jpg"
    }
   ],
   "shinhonkaku-007": [
@@ -563,17 +658,15 @@
     "pic": "https://img3.doubanio.com/view/subject/s/public/s35081040.jpg"
    },
    {
-    "subjectId": "3300138242",
-    "year": "",
-    "publisher": "新星出版",
-    "translator": "张舟",
-    "title": "有翼之暗（全新修订版）",
-    "remote": true,
-    "source": "微信读书",
-    "pic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_1m6yrduzpyjigvo3jff3k7/t3_cpplatform_1m6yrduzpyjigvo3jff3k71745308543.jpg",
-    "largePic": "https://cdn.weread.qq.com/weread/cover/9/cpplatform_1m6yrduzpyjigvo3jff3k7/t9_cpplatform_1m6yrduzpyjigvo3jff3k71745308543.jpg",
+    "subjectId": "27039311",
+    "year": "2017-6-15",
+    "publisher": "瑞昇文化",
+    "translator": "緋華璃",
+    "title": "有翼之闇 麥卡托鮎最後的事件",
+    "file": "shinhonkaku-009-27039311.webp",
     "primary": false,
-    "collected": false
+    "collected": false,
+    "pic": "https://img3.doubanio.com/view/subject/s/public/s32320340.jpg"
    }
   ],
   "shinhonkaku-010": [
