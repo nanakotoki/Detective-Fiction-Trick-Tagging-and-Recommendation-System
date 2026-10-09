@@ -6,6 +6,10 @@
  *   node deploy/check-deploy.mjs tokei-detective.top          # 线上（HTTPS + 证书检查）
  *   node deploy/check-deploy.mjs http://127.0.0.1:8787         # 本机先跑一遍（跳过证书/跳转检查）
  *
+ * 站点上了整站密码之后（第 196 轮），**必须再带上凭据**，否则所有请求都是 401：
+ *   node deploy/check-deploy.mjs tokei-detective.top 用户名:密码
+ *   TRICK_AUTH=用户名:密码 node deploy/check-deploy.mjs tokei-detective.top
+ *
  * 为什么用 Node 写而不是 bash：部署目标上**一定**有 Node（服务就是它跑的），
  * 而 Windows 上开发时没有 bash —— 这样同一份脚本在两边都能跑，本地就能先验证。
  *
@@ -19,12 +23,16 @@
  */
 const arg = process.argv[2];
 if (!arg) {
-  console.error('用法： node deploy/check-deploy.mjs 你的域名   （或 http://127.0.0.1:8787 本机自查）');
+  console.error('用法： node deploy/check-deploy.mjs 你的域名 [用户名:密码]   （或 http://127.0.0.1:8787 本机自查）');
   process.exit(2);
 }
 const LOCAL = /^http:\/\//i.test(arg);
 const BASE = LOCAL ? arg.replace(/\/+$/, '') : `https://${arg}`;
 const DOMAIN = LOCAL ? new URL(BASE).hostname : arg;
+
+/* 整站密码（第 196 轮起）：第三个参数或 TRICK_AUTH，形如 tokei:密码 */
+const AUTH = process.argv[3] ?? process.env.TRICK_AUTH ?? '';
+const AUTH_HEADERS = AUTH ? { authorization: 'Basic ' + Buffer.from(AUTH).toString('base64') } : {};
 
 let pass = 0;
 let fail = 0;
@@ -40,13 +48,28 @@ const note = (m) => console.log(`    ${m}`);
 
 const get = async (path, init = {}) => {
   try {
-    return await fetch(BASE + path, { signal: AbortSignal.timeout(20_000), ...init });
+    return await fetch(BASE + path, {
+      signal: AbortSignal.timeout(20_000),
+      ...init,
+      headers: { ...AUTH_HEADERS, ...(init.headers ?? {}) },
+    });
   } catch (error) {
     return { ok: false, status: 0, error, text: async () => '', headers: new Headers() };
   }
 };
 
-console.log(`\n  自查目标：${BASE}${LOCAL ? '（本机模式：跳过证书与跳转检查）' : ''}\n  ────────────────────────────────────────`);
+console.log(`\n  自查目标：${BASE}${LOCAL ? '（本机模式：跳过证书与跳转检查）' : ''}${AUTH ? '（已带整站密码）' : ''}\n  ────────────────────────────────────────`);
+
+/* ⓿ 整站密码：没带凭据时给出人能看懂的提示，而不是让后面 10 项全部莫名其妙地红 */
+{
+  const probe = await get('/');
+  if (probe.status === 401 && !AUTH) {
+    console.error('  ✗ 站点启用了整站密码（HTTP 401，见 WWW-Authenticate 响应头）。');
+    console.error('    请带上凭据重跑： node deploy/check-deploy.mjs <域名> 用户名:密码');
+    console.error('    或用环境变量：   TRICK_AUTH=用户名:密码 node deploy/check-deploy.mjs <域名>\n');
+    process.exit(2);
+  }
+}
 
 /* ① 接口 */
 {
@@ -115,7 +138,11 @@ console.log(`\n  自查目标：${BASE}${LOCAL ? '（本机模式：跳过证书
 /* ⑤ 跳转与证书（仅域名模式） */
 if (!LOCAL) {
   try {
-    const httpRes = await fetch(`http://${DOMAIN}/`, { redirect: 'manual', signal: AbortSignal.timeout(15_000) });
+    const httpRes = await fetch(`http://${DOMAIN}/`, {
+      redirect: 'manual',
+      signal: AbortSignal.timeout(15_000),
+      headers: AUTH_HEADERS,
+    });
     if ([301, 302, 308].includes(httpRes.status)) ok(`HTTP ${httpRes.status} 跳转到 HTTPS`);
     else bad(`http://${DOMAIN}/ 返回 ${httpRes.status}（期望 301/302/308）`);
   } catch (error) {
