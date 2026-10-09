@@ -1289,6 +1289,35 @@ await dom.settle(280);
 check('清除后 URL 里没有 author', !dom.window.location.hash.includes('author='), dom.window.location.hash);
 
 /* ------------------------------------------------------------------ */
+/* 分析页报告里的封面（第 191 轮 · 用户反馈）                            */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [13] 诡计分析页打开一本书要看得见封面', C.dim));
+
+const { hasCover: hasCoverOf } = await import('../web/js/core/covers.js');
+const covered = store.all().find((b) => hasCoverOf(b.id));
+const uncovered = store.all().find((b) => !hasCoverOf(b.id));
+check('库里既有有封面的书、也有缺封面的书', Boolean(covered && uncovered), `${covered?.id ?? '—'} / ${uncovered?.id ?? '—'}`);
+
+await goto(`#/analyze?id=${encodeURIComponent(covered.id)}`);
+const coverImg = dom.document.querySelector('.report-cover img');
+check('有封面的书：报告顶部渲染出封面', Boolean(coverImg), coverImg ? coverImg.getAttribute('src') : '没有 .report-cover img');
+check(
+  '封面指向本地封面文件',
+  String(coverImg?.getAttribute('src') ?? '').includes('/covers/'),
+  coverImg?.getAttribute('src') ?? '（空）',
+);
+check('封面下方标出出处（可复核）', (dom.document.querySelector('.report-cover')?.textContent ?? '').includes('封面：'));
+
+await goto(`#/analyze?id=${encodeURIComponent(uncovered.id)}`);
+check(
+  '缺封面的书：报告里不画占位封面块（免得顶部挂一个没信息量的灰框）',
+  !dom.document.querySelector('.report-cover'),
+  '出现了 .report-cover',
+);
+
+/* ------------------------------------------------------------------ */
 
 console.error = originalError;
 

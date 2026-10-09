@@ -1503,6 +1503,32 @@ a.cover:hover {
 }
 
 /* ---------- 报告视图 ---------- */
+
+/**
+ * 报告顶部的封面（第 191 轮）。
+ *
+ * 用户反馈「诡计分析页打开任何小说都不显示封面」——报告里原先确实没有封面。
+ * 现在放在报告抬头下方：**只用库里真有的图**（没有封面时不画占位块，免得报告顶部
+ * 多一个没有信息量的灰框），宽度收窄、与出处那行并排，不与正文抢注意力。
+ */
+.report-cover {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  margin: 0 0 var(--space-4);
+}
+
+.report-cover .cover-block {
+  width: 132px;
+  flex: none;
+}
+
+.report-cover .cover-credit {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0;
+}
+
 /**
  * 分析页的两栏布局。
  *

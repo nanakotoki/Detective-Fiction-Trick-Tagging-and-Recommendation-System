@@ -2016,6 +2016,27 @@ test('封面：识别豆瓣的限流拦截页（不能把它当成「这部作�
 /* ------------------------------------------------------------------ */
 
 /* ------------------------------------------------------------------ */
+/* 报告里的封面（第 191 轮：用户反馈「打开任何小说都不显示封面」）        */
+/* ------------------------------------------------------------------ */
+
+test('报告：给了封面地址就在「一、小说基础信息」里插图，没给就与从前完全一样', () => {
+  const book = { id: 'x1', title: '测试之书', author: '某某', tags: ['locked-room'], safeSummary: '一段无剧透简介。' };
+  const withCover = renderReport({ book, options: { coverUrl: 'http://example.test/covers/x1.webp' } });
+  assert.ok(
+    withCover.includes('![《测试之书》封面](http://example.test/covers/x1.webp)'),
+    '导出的 Markdown 应当带封面（地址得是绝对的，拿到别处打开也能显示）',
+  );
+  // 图片要落在第一节里，不能跑到别的章节去
+  const basicsAt = withCover.indexOf('一、小说基础信息');
+  const imgAt = withCover.indexOf('![《测试之书》封面]');
+  const tagsAt = withCover.indexOf('二、诡计标签');
+  assert.ok(basicsAt >= 0 && imgAt > basicsAt && imgAt < tagsAt, '封面图应当落在第一节与第二节之间');
+
+  const without = renderReport({ book });
+  assert.ok(!without.includes('!['), '没给封面地址时不该凭空插入图片');
+});
+
+/* ------------------------------------------------------------------ */
 /* 国别与作者聚合（第 189 轮：按国别浏览 + 搜作者看卷数）                 */
 /* ------------------------------------------------------------------ */
 

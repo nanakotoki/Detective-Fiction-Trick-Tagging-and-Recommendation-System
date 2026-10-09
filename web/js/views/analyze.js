@@ -15,10 +15,23 @@ import { countChars, runSelfCheck } from '../core/safety.js';
 import { gateRecommendations, isSensitive } from '../core/sensitive.js';
 import { suggestTags } from '../core/suggest.js';
 import { markdownToHtml, renderCopyMarkdown, renderReport } from '../core/report.js';
-import { coverBlock } from '../ui/cover.js';
+import { coverBlock, coverCreditLine, coverUrl, hasCover } from '../ui/cover.js';
 import { copyText, debounce, download, html, onAll, qs, qsa, raw, safeFilename, toast } from '../ui/dom.js';
 
 export const meta = { title: '诡计分析' };
+
+/**
+ * 站内相对地址 → 绝对地址（第 191 轮）。
+ * 报告里的封面要写进导出的 Markdown，地址必须是绝对的，否则那份 .md 拿到别处就打不开图。
+ */
+function absoluteUrl(url) {
+  if (!url) return '';
+  try {
+    return new URL(url, globalThis.location?.href ?? 'http://localhost/').href;
+  } catch {
+    return url;
+  }
+}
 
 const SHIELD_SVG = `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.2-2.9 7.6-7 9-4.1-1.4-7-4.8-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>`;
 
@@ -435,17 +448,23 @@ export async function render(ctx) {
     const shownResult = gateRecommendations(recResult);
 
     const selfCheck = runSelfCheck({ book, recommendations: shownResult.recommendations });
+    /**
+     * 报告里的封面地址（第 191 轮）：导出/复制的 Markdown 要能独立打开，
+     * 所以给**绝对地址**（本站的 `covers/xxx.webp` → `http://host/…/covers/xxx.webp`）；
+     * 库里没有这张图就不给，报告与从前完全一样。
+     */
+    const reportCoverUrl = hasCover(book.id) ? absoluteUrl(coverUrl(book)) : '';
     const markdown = renderReport({
       book,
       recommendations: shownResult.recommendations,
       selfCheck,
       trickGate: shownResult.trickGate,
-      options: { sensitive },
+      options: { sensitive, coverUrl: reportCoverUrl },
     });
     const copyMarkdown = renderCopyMarkdown({
       book,
       recommendations: shownResult.recommendations,
-      options: { sensitive },
+      options: { sensitive, coverUrl: reportCoverUrl },
     });
 
     state.result = {
@@ -509,6 +528,19 @@ export async function render(ctx) {
             ${book.author} · 生成于 ${new Date().toLocaleString('zh-CN')} · 本报告不含任何剧透
           </div>
         </div>
+        ${/*
+          封面（第 191 轮补）：用户反馈「打开任何小说都不显示封面」——报告里原先确实没有。
+          只在**库里真有这张图**时显示：临时输入的新书（r.isCustom）与缺封面的书都不显示占位块，
+          免得报告顶部挂一个没有信息量的灰框（缺封面的书在知识库里本来就是占位图）。
+        */ ''}
+        ${hasCover(book.id)
+          ? raw(html`
+              <div class="report-cover">
+                ${coverBlock(book, { size: 'hero', link: false })}
+                ${coverCreditLine(book)}
+              </div>
+            `)
+          : ''}
         ${raw(markdownToHtml(r.markdown))}
       </div>
 

@@ -32,8 +32,13 @@ function orDash(v) {
 
 /**
  * 一、小说基础信息
+ *
+ * `coverUrl` 是可选的（第 191 轮补）：用户在「诡计分析」页打开一本书时，
+ * 反馈「任何小说都不显示封面」——报告里原先确实**从头到尾没有封面**。
+ * 给了地址就在这一节开头插一张图，于是**复制／导出 Markdown 也带着封面**；
+ * 没给就与从前完全一样（老的行为与老的单测都不受影响）。
  */
-export function renderBasics(book) {
+export function renderBasics(book, { coverUrl = '' } = {}) {
   const rows = [
     ['书名', orDash(book.title) + (book.originalTitle ? `（${book.originalTitle}）` : '')],
     ['作者', orDash(book.author) + (book.authorEn ? ` / ${book.authorEn}` : '')],
@@ -45,7 +50,13 @@ export function renderBasics(book) {
       : []),
     ['系列', book.series ? orDash(book.series) + (book.detective ? `，主角：${book.detective}` : '') : '非系列作品'],
   ];
-  return [h(2, '一、小说基础信息'), '', table(['项目', '内容'], rows)].join('\n');
+  const parts = [h(2, '一、小说基础信息'), ''];
+  if (coverUrl) {
+    // Markdown 里的图片：导出/复制出去的.md也能看到封面（地址由调用方给绝对路径）
+    parts.push(`![《${book.title}》封面](${coverUrl})`, '');
+  }
+  parts.push(table(['项目', '内容'], rows));
+  return parts.join('\n');
 }
 
 /**
@@ -378,7 +389,7 @@ export function renderReadingTips(book) {
  * @param {object} [params.options]
  */
 export function renderReport({ book, recommendations = [], selfCheck = null, trickGate = null, options = {} }) {
-  const { limit = 3, includeSelfCheck = true, includeHeader = true, sensitive = false } = options;
+  const { limit = 3, includeSelfCheck = true, includeHeader = true, sensitive = false, coverUrl = '' } = options;
   const blocks = [];
 
   if (includeHeader) {
@@ -391,7 +402,7 @@ export function renderReport({ book, recommendations = [], selfCheck = null, tri
     );
   }
 
-  blocks.push(renderBasics(book));
+  blocks.push(renderBasics(book, { coverUrl }));
   blocks.push(HR);
   blocks.push(renderTrickTags(book, { sensitive }));
   blocks.push(HR);

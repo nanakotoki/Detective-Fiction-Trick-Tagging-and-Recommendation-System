@@ -13,8 +13,15 @@
  *      既不把上百 MB 的大图塞进仓库，也不至于点开只有 270px。
  */
 
-import { COVER_PLACEHOLDER, coverCredit, coverUrl } from '../core/covers.js';
+import { COVER_PLACEHOLDER, coverCredit, coverUrl, hasCover } from '../core/covers.js';
 import { html, modal, qs, raw } from './dom.js';
+
+/**
+ * 这两个是「封面清单」的查询函数，视图层要判断「这本书到底有没有图」时直接用它们。
+ * 第 191 轮从 `core/covers.js` 转出来：分析页的报告要给有封面的书配图、
+ * 缺封面的书**不画占位块**（免得报告顶部多一个没有信息量的灰框），判断就得在视图里做。
+ */
+export { coverUrl, hasCover };
 
 /** 把豆瓣的 s 档图片地址换成 l 档（同一张图的大图），失败时前端会退回本地文件 */
 function toLargePic(url) {
