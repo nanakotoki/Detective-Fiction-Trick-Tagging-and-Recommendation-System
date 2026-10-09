@@ -142,6 +142,21 @@ async function main() {
     const exportRes = await req('GET', '/api/export');
     check('GET /api/export 导出知识库', exportRes.status === 200 && Array.isArray(exportRes.json.books));
 
+    /* ---------- 谜底保险库不能从 /data/** 直接下走（第 192 轮的安全修补） ---------- */
+    // 起因：一次安全自查发现 `GET /data/books/batch-01-honkaku.json` 能直接下到
+    // **3420 条谜底保险库**（凶手／核心诡计／结局），而前端三处 stripVault() 只挡住了
+    // 界面与 /api/books —— 文件本身是敞开的，这直接违反项目的最高铁律。
+    // 现在 /data/** 只放行前端运行时确实需要的两份派生数据。
+    // （接口侧「/api/books 不含 vault」另有断言，见下面那组保险库用例。）
+    const vaultDownload = await req('GET', '/data/books/batch-01-honkaku.json');
+    check(
+      '谜底保险库所在的 /data/books/** 不可下载',
+      vaultDownload.status === 404,
+      `HTTP ${vaultDownload.status}${String(vaultDownload.text ?? '').includes('vault') ? '（而且真的下到了内容！）' : ''}`,
+    );
+    const publicData = await req('GET', '/data/covers-editions.json');
+    check('前端按需读取的 data/covers-editions.json 仍可访问', publicData.status === 200, `HTTP ${publicData.status}`);
+
     /* ---------- 种子知识库热加载（第 147 轮） ---------- */
     // 这组测试对应一个真实故障：整理知识库时往 data/books/ 添了批次文件，
     // 服务端还拿着启动时的快照，页面上显示 2954 部（实际已 3243 部）——
@@ -478,8 +493,16 @@ async function main() {
     const css = await fetch(`${BASE}/css/styles.css`);
     check('GET /css/styles.css 返回 CSS', css.status === 200 && css.headers.get('content-type').includes('css'));
 
+    /**
+     * `/data/**` 的读写口径（第 192 轮改过一次，理由见前面「谜底保险库」那组用例）：
+     *   · 原先整目录开放，于是 `data/books/*.json` 里的 3420 条谜底保险库可以被人直接下走；
+     *   · 现在只放行前端运行时确实需要的两份派生数据（`covers-editions.json` / `manifest.json`），
+     *     知识库本体一律 404——接口侧走 `/api/books`（已剥保险库）。
+     */
     const dataFile = await fetch(`${BASE}/data/books/batch-01-honkaku.json`);
-    check('GET /data/** 可读取知识库', dataFile.status === 200);
+    check('GET /data/books/** 已不出网（谜底保险库不裸奔）', dataFile.status === 404, `HTTP ${dataFile.status}`);
+    const editionsFile = await fetch(`${BASE}/data/covers-editions.json`);
+    check('GET /data/covers-editions.json 仍可读取（档案页版本一览要用）', editionsFile.status === 200, `HTTP ${editionsFile.status}`);
 
     const traversal = await fetch(`${BASE}/api/books/..%2f..%2fpackage.json`);
     check('路径穿越被拦截', traversal.status === 404 || traversal.status === 400, `HTTP ${traversal.status}`);

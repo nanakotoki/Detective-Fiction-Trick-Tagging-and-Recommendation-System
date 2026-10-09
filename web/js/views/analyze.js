@@ -459,7 +459,12 @@ export async function render(ctx) {
       recommendations: shownResult.recommendations,
       selfCheck,
       trickGate: shownResult.trickGate,
-      options: { sensitive, coverUrl: reportCoverUrl },
+      /**
+       * `includeSelfCheck: false` —— 报告正文里也不再带「安全自检清单」（第 192 轮，用户要求）。
+       * 自检**照跑**（上面的 selfCheck 决定能不能导出），只是那份逐条清单属于维护者视角，
+       * 读者看到「5 / 5 通过」只会想「为什么需要自检」。
+       */
+      options: { sensitive, coverUrl: reportCoverUrl, includeSelfCheck: false },
     });
     const copyMarkdown = renderCopyMarkdown({
       book,
@@ -544,17 +549,13 @@ export async function render(ctx) {
         ${raw(markdownToHtml(r.markdown))}
       </div>
 
-      <div class="card no-print" style="margin-top:var(--space-4)">
-        <details class="selfcheck" ${blocked ? 'open' : ''}>
-          <summary>
-            安全自检清单
-            ${blocked
-              ? raw('<span class="badge badge-high">未通过 · 已拦截</span>')
-              : raw('<span class="badge badge-ok">5 / 5 通过</span>')}
-          </summary>
-          ${raw(renderSelfCheckHtml(selfCheck))}
-        </details>
-      </div>
+      ${/*
+        自检清单**不再展示给读者**（第 192 轮，用户要求）。
+        它原本是给维护者看的内部质检面板（「5 / 5 通过」），读者看到只会困惑：
+        「自检」这个词本身就在暗示系统内容有风险。**但自检本身照跑**——
+        `runSelfCheck()` 仍然决定能不能复制/导出/打印（blocked 时上游会拦住并给出提示），
+        只是把那张逐条清单从界面上撤掉了。清单里的问题仍会以「⛔ 已拦截导出」的形式告诉用户。
+      */ ''}
 
       ${sensitive
         ? raw(html`
@@ -579,44 +580,8 @@ export async function render(ctx) {
     });
   }
 
-  function renderSelfCheckHtml(selfCheck) {
-    const items = selfCheck.items
-      .map(
-        (item) => html`
-          <li>
-            <span class="mark ${item.passed ? 'ok' : 'bad'}">${item.passed ? '✓' : '✕'}</span>
-            <span>
-              ${item.question}
-              <span class="muted">→ ${item.passed ? '否' : '是'}</span>
-              ${
-                item.hits.length
-                  ? raw(html`
-                      <ul class="small muted" style="margin:var(--space-1) 0 0;padding-left:1.1em">
-                        ${item.hits
-                          .slice(0, 3)
-                          .map(
-                            (hh) =>
-                              raw(html`<li>${hh.source}：…${hh.excerpt}…<br /><span class="muted">${hh.hint}</span></li>`),
-                          )}
-                      </ul>
-                    `)
-                  : ''
-              }
-            </span>
-          </li>
-        `,
-      )
-      .join('');
-
-    return html`
-      <ul class="checklist">${raw(items)}</ul>
-      <p class="small muted" style="margin-top:var(--space-3)">
-        ${selfCheck.passed
-          ? '五项自检全部通过，本次输出不含任何剧透内容。'
-          : '存在未通过项，系统已按需求文档要求拦截导出。'}
-      </p>
-    `;
-  }
+  /* `renderSelfCheckHtml()` 随「安全自检清单」面板一起删掉了（第 192 轮，用户要求）：
+     自检仍然照跑并决定能否导出，但那份逐条清单不再出现在界面上，也不再写进报告正文。 */
 
   /** 匹配明细面板：回答「为什么推荐这几本」 */
   function renderMatchPanel(recResult) {

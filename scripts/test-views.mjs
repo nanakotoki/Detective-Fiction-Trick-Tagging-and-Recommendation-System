@@ -1318,6 +1318,30 @@ check(
 );
 
 /* ------------------------------------------------------------------ */
+/* 内部质检界面不该出现在读者面前（第 192 轮 · 用户要求）                 */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [14] 内部质检界面已从读者界面撤下', C.dim));
+
+await goto('#/analyze?id=western-001');
+const analyzHtml = bodyText();
+check('报告里不再出现「安全自检清单」', !analyzHtml.includes('安全自检清单'), '仍能看到自检清单文案');
+check('报告里没有自检面板容器（.selfcheck）', !dom.document.querySelector('.selfcheck'));
+check('报告里的「5 / 5 通过」徽章也一并撤掉', !analyzHtml.includes('5 / 5 通过'), '仍有通过徽章');
+
+await goto('#/library');
+const cardsText = bodyText();
+check(
+  '知识库卡片不再打体检 ⚠ 徽章',
+  !dom.document.querySelector('.book-card .badge-medium') && !/⚠\s*\d+/.test(cardsText),
+  '卡片上仍有 ⚠ 徽章',
+);
+
+await goto('#/about');
+check('关于页不再提供「运行全库反剧透体检」按钮', !dom.document.querySelector('#about-selftest'));
+
+/* ------------------------------------------------------------------ */
 
 console.error = originalError;
 

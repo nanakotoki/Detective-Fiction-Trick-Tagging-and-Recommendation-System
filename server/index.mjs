@@ -663,9 +663,26 @@ const server = http.createServer(async (req, res) => {
       return;
     }
 
-    // /data/** → 仓库根目录的 data/
+    /**
+     * `/data/**` → 仓库根目录的 `data/`，**但只放行白名单**（第 192 轮的安全修补）。
+     *
+     * 原先这里是整目录开放，于是 `GET /data/books/batch-01-honkaku.json` 能直接下到
+     * **3420 条谜底保险库**（凶手／核心诡计／结局／备注），而前端的三处 `stripVault()`
+     * 只挡住了界面与 `/api/books`——**文件本身就是敞开的**。这直接违反项目的最高铁律。
+     *
+     * 现在只放行前端**运行时确实需要**的两份派生数据（都不含任何谜底）：
+     *   · `data/covers-editions.json` —— 档案页「版本一览」按需读取；
+     *   · `data/manifest.json`        —— 构建产物统计。
+     * 其余一律 404。需要完整数据的只有维护者：直接读仓库文件，或走 `/api/books`（已剥保险库）。
+     */
     if (url.pathname.startsWith('/data/')) {
-      const handled = await serveStatic(req, res, { root: DATA_DIR, urlPath: url.pathname.replace(/^\/data/, '') });
+      const rel = url.pathname.replace(/^\/data/, '');
+      const PUBLIC_DATA = new Set(['/covers-editions.json', '/manifest.json']);
+      if (!PUBLIC_DATA.has(rel)) {
+        sendError(res, 404, '文件不存在');
+        return;
+      }
+      const handled = await serveStatic(req, res, { root: DATA_DIR, urlPath: rel });
       if (handled) return;
       sendError(res, 404, '文件不存在');
       return;

@@ -5,7 +5,6 @@
 
 import { TAG_CATEGORIES, tagCategory, tagLabel, tagLabels } from '../core/tags.js';
 import { bookTagIds } from '../core/engine.js';
-import { analyzeBook } from '../core/safety.js';
 import { isSensitive } from '../core/sensitive.js';
 import { GENRE_OPTIONS, collabLabel, authorListOf } from '../core/seed.js';
 import { sortYear } from '../core/store.js';
@@ -521,7 +520,7 @@ export async function render(ctx) {
     const doubanScore = douban?.score;
     const doubanCount = douban?.count;
     const lowSample = typeof doubanCount === 'number' && doubanCount < MIN_VOTES;
-    const issues = analyzeBook(book).issues.filter((i) => i.risk === 'high' || i.risk === 'medium');
+    // 体检结果不再参与卡片渲染（第 192 轮把 ⚠ 徽章撤了，避免读者把它当「这本书有问题」）
     const collab = collabLabel(book);
 
     return html`
@@ -558,7 +557,12 @@ export async function render(ctx) {
                   >`)
                 : ''
             }
-            ${issues.length ? raw(html`<span class="badge badge-medium" title="反剧透体检有提示">⚠ ${String(issues.length)}</span>`) : ''}
+            ${/*
+              卡片上的「⚠ N」体检徽章**不再展示给读者**（第 192 轮，用户要求）。
+              它是内部质检信号（这条著录还有待确认项），对读者毫无意义，
+              反而像在暗示「这本书有问题」。体检本身照跑：npm run check:data
+              仍然在构建门禁里拦问题，维护者看的是那份报告，不是卡片角标。
+            */ ''}
           </div>
           <p class="summary">${book.safeSummary || '（暂无去剧透简介）'}</p>
           <div class="tag-list">

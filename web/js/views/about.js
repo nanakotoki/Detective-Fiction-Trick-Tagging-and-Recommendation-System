@@ -98,9 +98,11 @@ export async function render(ctx) {
               </td>
             </tr>
             <tr>
-              <td><strong>数据自带体检</strong></td>
+              <td><strong>数据出厂体检</strong></td>
               <td>
-                知识库页与书籍档案页会实时显示每一条目的体检结果，存在待确认项的条目会打上 ⚠ 标记。
+                每条著录在**进库前**都要过一遍体检（简介长度、字段完整性、剧透风险），
+                不合格的不写进知识库；这套检查也是构建门禁的一部分（npm run check:data），
+                结论只给维护者看，不摆在读者界面上。
               </td>
             </tr>
           </tbody>
@@ -219,12 +221,15 @@ export async function render(ctx) {
       </p>
       <div class="btn-row">
         <button type="button" class="btn btn-sm" id="about-export">导出知识库 JSON</button>
-        <button type="button" class="btn btn-sm" id="about-selftest">运行全库反剧透体检</button>
+        ${/*
+          「运行全库反剧透体检」按钮已撤（第 192 轮，用户要求）：
+          它是维护者的工具（逐条跑 analyzeBook、把待确认项列出来），读者点了只会看到
+          一屏内部术语。体检改由构建门禁承担：npm run check:data / npm run audit。
+        */ ''}
         ${globalThis.localStorage
           ? raw(html`<button type="button" class="btn btn-sm btn-danger" id="about-reset">清空本地数据</button>`)
           : ''}
       </div>
-      <div id="about-test-result" style="margin-top:var(--space-4)"></div>
     </div>
 
     <div class="card mb-4">
@@ -272,48 +277,8 @@ export async function render(ctx) {
     toast(`已导出 ${String(payload.count)} 部作品`, { type: 'ok' });
   });
 
-  on(qs('#about-selftest'), 'click', async () => {
-    const { analyzeBook } = await import('../core/safety.js');
-    const out = qs('#about-test-result');
-    out.innerHTML = '<p class="small muted">正在扫描…</p>';
-
-    const risky = [];
-    for (const book of store.all()) {
-      const report = analyzeBook(book);
-      if (!report.passed) risky.push({ book, report });
-    }
-
-    out.innerHTML = risky.length
-      ? html`
-          <div class="notice notice-warn" style="margin-bottom:0">
-            <strong>${String(risky.length)} 条存在待确认表述</strong>
-            <ul class="small" style="margin:var(--space-2) 0 0;padding-left:1.2em">
-              ${risky
-                .slice(0, 10)
-                .map(
-                  (r) => html`
-                    <li>
-                      <a href="#/book/${encodeURIComponent(r.book.id)}">《${r.book.title}》</a>
-                      —— ${String(r.report.issues.length)} 项：
-                      ${r.report.issues
-                        .slice(0, 2)
-                        .map((i) => `${i.fieldLabel ?? i.field}…${i.excerpt}…`)
-                        .join('；')}
-                    </li>
-                  `,
-                )}
-            </ul>
-          </div>
-        `
-      : html`
-          <div class="notice notice-ok" style="margin-bottom:0">
-            <strong>全库体检通过</strong>
-            <p class="small" style="margin:0">
-              共扫描 ${String(books.length)} 部作品的全部公开字段，未检出任何高危或可疑的泄底表述。
-            </p>
-          </div>
-        `;
-  });
+  /* 「运行全库反剧透体检」的处理器随按钮一起撤掉了（第 192 轮，用户要求）：那是维护者的工具，
+     改由构建门禁执行 —— npm run check:data（体检）、npm run audit（质量抽查）。 */
 
   on(qs('#about-reset'), 'click', () => {
     if (!confirm('确定清空本地保存的自建条目与修改吗？此操作不可撤销。')) return;
