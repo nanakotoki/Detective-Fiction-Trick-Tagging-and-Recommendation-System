@@ -146,16 +146,8 @@ async function main() {
     // 起因：一次安全自查发现 `GET /data/books/batch-01-honkaku.json` 能直接下到
     // **3420 条谜底保险库**（凶手／核心诡计／结局），而前端三处 stripVault() 只挡住了
     // 界面与 /api/books —— 文件本身是敞开的，这直接违反项目的最高铁律。
-    // 现在 /data/** 只放行前端运行时确实需要的两份派生数据。
+    // 口径在第 194 轮修正过（见下面「种子批次文件」那组）：文件要给，但必须剥掉 vault。
     // （接口侧「/api/books 不含 vault」另有断言，见下面那组保险库用例。）
-    const vaultDownload = await req('GET', '/data/books/batch-01-honkaku.json');
-    check(
-      '谜底保险库所在的 /data/books/** 不可下载',
-      vaultDownload.status === 404,
-      `HTTP ${vaultDownload.status}${String(vaultDownload.text ?? '').includes('vault') ? '（而且真的下到了内容！）' : ''}`,
-    );
-    const publicData = await req('GET', '/data/covers-editions.json');
-    check('前端按需读取的 data/covers-editions.json 仍可访问', publicData.status === 200, `HTTP ${publicData.status}`);
 
     /* ---------- 种子知识库热加载（第 147 轮） ---------- */
     // 这组测试对应一个真实故障：整理知识库时往 data/books/ 添了批次文件，
@@ -237,6 +229,25 @@ async function main() {
         ratings: {},
       },
     ];
+    /**
+     * 等一个文件出现在 `unreadableFiles` 里（最多等 `ms` 毫秒）。
+     *
+     * 为什么要轮询：目录监听（fs.watch）与测试自己发起的 `POST /api/reload` 是**两条并发的
+     * 重载路径**，偶尔测试这一枪会与在途的那次重载合并，拿到的还是上一轮的结果——
+     * 这条用例因此在构建里偶发失败过三次（单独重跑又全过）。断言的是**最终状态**，
+     * 所以给它一个期限、期间反复确认，比赌一次时序可靠。
+     */
+    const waitForUnreadable = async (file, ms = 3000) => {
+      const deadline = Date.now() + ms;
+      let last = [];
+      for (;;) {
+        await req('POST', '/api/reload');
+        last = (await req('GET', '/api/health')).json?.unreadableFiles ?? [];
+        if (last.includes(file) || Date.now() > deadline) return last;
+        await new Promise((r) => setTimeout(r, 150));
+      }
+    };
+
     try {
       // ① 一直是坏文件：其他书一本不能少，且要出现在 unreadable 里
       fs.writeFileSync(tornFiles[0], `${JSON.stringify(tornEntry(tornIds[0]), null, 2).slice(0, 60)}`, 'utf8');
@@ -246,14 +257,15 @@ async function main() {
         torn.status === 200 && torn.json?.seedCount === list.length,
         `seedCount=${torn.json?.seedCount} / 期望 ${list.length}`,
       );
+      const unreadableList = await waitForUnreadable('_torn-probe-a.json');
       check(
         '读不出来的文件被如实报出来（不再静默吞掉）',
-        (torn.json?.unreadable ?? []).some((u) => u.file === '_torn-probe-a.json'),
-        JSON.stringify(torn.json?.unreadable ?? []),
+        unreadableList.includes('_torn-probe-a.json'),
+        JSON.stringify(unreadableList),
       );
       check(
         '同时 /api/health 也把坏文件摆出来',
-        ((await req('GET', '/api/health')).json?.unreadableFiles ?? []).includes('_torn-probe-a.json'),
+        unreadableList.includes('_torn-probe-a.json'),
         'unreadableFiles',
       );
 
@@ -494,13 +506,41 @@ async function main() {
     check('GET /css/styles.css 返回 CSS', css.status === 200 && css.headers.get('content-type').includes('css'));
 
     /**
-     * `/data/**` 的读写口径（第 192 轮改过一次，理由见前面「谜底保险库」那组用例）：
-     *   · 原先整目录开放，于是 `data/books/*.json` 里的 3420 条谜底保险库可以被人直接下走；
-     *   · 现在只放行前端运行时确实需要的两份派生数据（`covers-editions.json` / `manifest.json`），
-     *     知识库本体一律 404——接口侧走 `/api/books`（已剥保险库）。
+     * `/data/**` 的口径（第 192 轮收紧 → **第 194 轮修正**）：
+     *
+     * 第 192 轮为了堵住「谜底保险库裸奔」把 `/data/**` 收成白名单，结果**砍断了前端自己的腿**：
+     * `web/js/core/seed-files.js` 里是 243 条静态 import（`data/books/batch-*.json`），
+     * 那些文件 404 时**整个应用起不来**，页面永远停在「加载中…」。
+     *
+     * 现在的口径是「同一份文件、两种版本」：
+     *   · `/data/books/*.json` —— **200，但已经剥掉 vault**（前端从不使用 vault，界面无变化）；
+     *   · `/data/covers-editions.json`、`/data/manifest.json` —— 原样 200（派生数据，本来就没谜底）；
+     *   · 其余（covers.json 台账等）—— 404。
      */
-    const dataFile = await fetch(`${BASE}/data/books/batch-01-honkaku.json`);
-    check('GET /data/books/** 已不出网（谜底保险库不裸奔）', dataFile.status === 404, `HTTP ${dataFile.status}`);
+    const seedFile = await fetch(`${BASE}/data/books/batch-01-honkaku.json`);
+    const seedText = await seedFile.text();
+    let seedCount = 0;
+    try {
+      seedCount = JSON.parse(seedText).length;
+    } catch {
+      seedCount = -1;
+    }
+    check('种子批次文件仍可取（前端静态 import 要用）', seedFile.status === 200 && seedCount > 0, `HTTP ${seedFile.status} / ${seedCount} 条`);
+    check(
+      '取到的种子数据里没有任何谜底（vault 及其 culprit/coreTrick/ending 都没了）',
+      !/"vault"|culprit|coreTrick|"ending"/.test(seedText),
+      /"vault"|culprit|coreTrick|"ending"/.exec(seedText)?.[0] ?? '',
+    );
+    const rawSeed = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'books', 'batch-01-honkaku.json'), 'utf8'));
+    check('剥谜底后条数不变（只删字段，不删书）', seedCount === rawSeed.length, `${seedCount} / ${rawSeed.length}`);
+    check(
+      '剥谜底只动 vault（书名等公开字段原样）',
+      JSON.parse(seedText)[0]?.title === rawSeed[0]?.title,
+      `${JSON.parse(seedText)[0]?.title} / ${rawSeed[0]?.title}`,
+    );
+
+    const ledgerFile = await fetch(`${BASE}/data/covers.json`);
+    check('封面台账 /data/covers.json 仍不出网（只归维护者）', ledgerFile.status === 404, `HTTP ${ledgerFile.status}`);
     const editionsFile = await fetch(`${BASE}/data/covers-editions.json`);
     check('GET /data/covers-editions.json 仍可读取（档案页版本一览要用）', editionsFile.status === 200, `HTTP ${editionsFile.status}`);
 

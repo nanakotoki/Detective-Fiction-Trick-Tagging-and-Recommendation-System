@@ -23,6 +23,7 @@ import { fileURLToPath } from 'node:url';
 import { JsonStore } from './lib/json-store.mjs';
 import { assetVersion, collectAssetFiles, serveStatic } from './lib/static.mjs';
 import { corsHeaders, isAllowedOrigin, originOf, parseAllowedOrigins, securityHeaders } from './lib/headers.mjs';
+import { redactedSeedBuffer } from './lib/public-seed.mjs';
 
 import { TAGS, TAG_CATEGORIES, isSchoolTag, tagCategory, tagLabel, partitionTags } from '../web/js/core/tags.js';
 import { analyzeBook, stripVault } from '../web/js/core/safety.js';
@@ -692,27 +693,48 @@ const server = http.createServer(async (req, res) => {
     }
 
     /**
-     * `/data/**` → 仓库根目录的 `data/`，**但只放行白名单**（第 192 轮的安全修补）。
+     * `/data/**` → 仓库根目录的 `data/`。**两种版本、按路径分**（第 192 → 194 轮）：
      *
-     * 原先这里是整目录开放，于是 `GET /data/books/batch-01-honkaku.json` 能直接下到
-     * **3420 条谜底保险库**（凶手／核心诡计／结局／备注），而前端的三处 `stripVault()`
-     * 只挡住了界面与 `/api/books`——**文件本身就是敞开的**。这直接违反项目的最高铁律。
-     *
-     * 现在只放行前端**运行时确实需要**的两份派生数据（都不含任何谜底）：
-     *   · `data/covers-editions.json` —— 档案页「版本一览」按需读取；
-     *   · `data/manifest.json`        —— 构建产物统计。
-     * 其余一律 404。需要完整数据的只有维护者：直接读仓库文件，或走 `/api/books`（已剥保险库）。
+     *   · `data/books/*.json` —— **去掉 vault 再发**。前端 `seed-files.js` 是 243 条静态 import，
+     *     这些文件 404 的话整个应用起不来（页面永远停在「加载中…」，第 194 轮踩过）；
+     *     但原文里躺着 3420 条谜底，所以**同一份文件、剥掉 vault 后发**。
+     *     前端从不使用 vault（所有出口都 stripVault），去掉它界面毫无变化。
+     *   · `/covers-editions.json`、`/manifest.json` —— 派生数据，原样发（本来就不含谜底）。
+     *   · 其余（covers.json 台账、merge-pairs、ratings-* 之类）—— 404，它们只归维护者。
      */
     if (url.pathname.startsWith('/data/')) {
       const rel = url.pathname.replace(/^\/data/, '');
       const PUBLIC_DATA = new Set(['/covers-editions.json', '/manifest.json']);
+
+      if (/^\/books\/[^/]+\.json$/.test(rel)) {
+        const file = path.join(DATA_DIR, decodeURIComponent(rel));
+        if (!file.startsWith(path.join(DATA_DIR, 'books'))) {
+          sendError(res, 404, '文件不存在', null, req);
+          return;
+        }
+        const body = redactedSeedBuffer(file);
+        if (!body) {
+          sendError(res, 404, '文件不存在', null, req);
+          return;
+        }
+        res.writeHead(200, {
+          'content-type': 'application/json; charset=utf-8',
+          'cache-control': 'no-cache',
+          'content-length': body.length,
+          // 与源文件不完全一致（去了 vault），别让缓存把它当同一份
+          vary: 'accept-encoding',
+        });
+        res.end(req.method === 'HEAD' ? undefined : body);
+        return;
+      }
+
       if (!PUBLIC_DATA.has(rel)) {
-        sendError(res, 404, '文件不存在');
+        sendError(res, 404, '文件不存在', null, req);
         return;
       }
       const handled = await serveStatic(req, res, { root: DATA_DIR, urlPath: rel });
       if (handled) return;
-      sendError(res, 404, '文件不存在');
+      sendError(res, 404, '文件不存在', null, req);
       return;
     }
 
