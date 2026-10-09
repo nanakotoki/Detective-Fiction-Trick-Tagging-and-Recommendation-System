@@ -1,11 +1,12 @@
 # 部署包：tokei-detective.top（CentOS 8 + Caddy + systemd）
 
-> 这份文档是**照着这台机器的实际情况写的**：CentOS Linux 8 (Core)、域名
-> `tokei-detective.top`、部署目录 `/srv/trick-archive`、Node 只监听 `127.0.0.1:8787`，
-> 由 Caddy 在前面做 HTTPS 与鉴权。
+> **第一次部署请直接看 [`步骤手把手.md`](步骤手把手.md)** —— 那份是「一段一段照抄」的版本，
+> 每段都标了在哪个窗口跑（🖥️ 电脑 / 🐧 服务器）、预期看到什么、报错了怎么办。
+> 本文件是同一件事的**参考手册**（原理、取舍、故障排查表）。
 >
-> 配套文件：`deploy/Caddyfile`、`deploy/trick-archive.service`、`deploy/check-deploy.mjs`
-> （自查脚本用 Node 写：部署目标上一定有 Node，Windows 上没有 bash，这样两边都能跑）。
+> 配套文件：`deploy/Caddyfile`、`deploy/caddy.service`、`deploy/trick-archive.service`、
+> `deploy/check-deploy.mjs`（自查脚本用 Node 写：部署目标上一定有 Node，Windows 上没有 bash，
+> 这样两边都能跑）。
 
 ## 每一步在哪台机器上跑（先看这张表）
 
