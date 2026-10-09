@@ -22,6 +22,7 @@ import { fileURLToPath } from 'node:url';
 
 import { JsonStore } from './lib/json-store.mjs';
 import { assetVersion, collectAssetFiles, serveStatic } from './lib/static.mjs';
+import { corsHeaders, isAllowedOrigin, originOf, parseAllowedOrigins, securityHeaders } from './lib/headers.mjs';
 
 import { TAGS, TAG_CATEGORIES, isSchoolTag, tagCategory, tagLabel, partitionTags } from '../web/js/core/tags.js';
 import { analyzeBook, stripVault } from '../web/js/core/safety.js';
@@ -40,12 +41,13 @@ const USER_DATA_DIR = path.join(__dirname, 'data');
 /* ------------------------------------------------------------------ */
 
 function parseArgs(argv) {
-  const args = { port: null, host: null, quiet: false };
+  const args = { port: null, host: null, quiet: false, cors: '' };
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i];
     if (arg === '--port' || arg === '-p') args.port = Number(argv[++i]);
     else if (arg === '--host' || arg === '-h') args.host = argv[++i];
     else if (arg === '--quiet') args.quiet = true;
+    else if (arg === '--cors') args.cors = String(argv[++i] ?? '');
   }
   return args;
 }
@@ -53,6 +55,16 @@ function parseArgs(argv) {
 const args = parseArgs(process.argv.slice(2));
 const PORT = args.port ?? Number(process.env.PORT ?? 8787);
 const HOST = args.host ?? process.env.HOST ?? '127.0.0.1';
+
+/**
+ * 允许跨源访问 API 的来源白名单（默认**空** = 只允许同源）。
+ *
+ * 第 193 轮收紧：原先一律回 `access-control-allow-origin: *`，而接口没有鉴权，
+ * 等于「任何网站都能从访客浏览器往这台服务写数据」。同源使用根本不需要 CORS 头，
+ * 所以默认一个都不发；真要前后端分端口部署，用 `--cors http://localhost:3000`
+ * 或环境变量 `DSH_CORS_ORIGINS` 显式放行。
+ */
+const ALLOWED_ORIGINS = parseAllowedOrigins(process.argv.slice(2), process.env);
 
 /* ------------------------------------------------------------------ */
 /* 数据装载                                                            */
@@ -258,10 +270,10 @@ const gzipCache = new WeakMap();
 
 function sendBuffer(res, status, buf, req, type = 'application/json; charset=utf-8') {
   const headers = {
+    ...securityHeaders(req),
+    ...corsHeaders(req, ALLOWED_ORIGINS),
     'content-type': type,
     'cache-control': 'no-store',
-    'access-control-allow-origin': '*',
-    'x-content-type-options': 'nosniff',
   };
   let body = buf;
   const accept = String(req?.headers?.['accept-encoding'] ?? '');
@@ -374,14 +386,26 @@ async function handleApi(req, res, url) {
   const method = req.method ?? 'GET';
 
   if (method === 'OPTIONS') {
-    res.writeHead(204, {
-      'access-control-allow-origin': '*',
-      'access-control-allow-methods': 'GET,POST,PUT,DELETE,OPTIONS',
-      'access-control-allow-headers': 'content-type',
-      'access-control-max-age': '86400',
-    });
+    // 预检只对**白名单来源**回 CORS 头（默认白名单是空的：同源请求不需要预检）
+    res.writeHead(204, { ...securityHeaders(req), ...corsHeaders(req, ALLOWED_ORIGINS) });
     res.end();
     return true;
+  }
+
+  /**
+   * CSRF 防线（第 193 轮）：状态变更请求若带了 `Origin`/`Referer` 且不是同源，一律 403。
+   *
+   * 为什么 CORS 不够：CORS 只限制「读响应」，`<form>` 或 `fetch(…, {mode:'no-cors'})`
+   * 照样能把 POST 打到本机服务上（接口没有鉴权，写进去就是真写进去）。
+   * 而浏览器发跨源写请求**一定带 Origin**，命令行工具通常不带——所以按这条判据拦，
+   * 既挡住了「别的网站借用访客浏览器」，又不影响 curl／脚本。
+   */
+  if (method !== 'GET' && method !== 'HEAD' && method !== 'OPTIONS') {
+    const origin = originOf(req);
+    if (origin && !isAllowedOrigin(origin, req, ALLOWED_ORIGINS)) {
+      sendError(res, 403, `跨源写请求被拒绝（来源 ${origin}）`, null, req);
+      return true;
+    }
   }
 
   // GET /api/health
@@ -649,9 +673,13 @@ const server = http.createServer(async (req, res) => {
   const url = new URL(req.url ?? '/', `http://${req.headers.host ?? `${HOST}:${PORT}`}`);
 
   try {
-    // 安全响应头
-    res.setHeader('referrer-policy', 'no-referrer');
-    res.setHeader('x-frame-options', 'SAMEORIGIN');
+    /**
+     * 安全响应头（第 193 轮集中到 `lib/headers.mjs`）。
+     * 在这里统一 `setHeader`：后面的 `writeHead(…)` 只会**覆盖同名字段**，
+     * 所以静态文件、JSON 接口、301 跳转、304 全都会带上这一套（CSP、nosniff、
+     * Referrer-Policy、Permissions-Policy、HTTPS 下的 HSTS）。
+     */
+    for (const [key, value] of Object.entries(securityHeaders(req))) res.setHeader(key, value);
 
     if (url.pathname === '/api' || url.pathname.startsWith('/api/')) {
       await handleApi(req, res, url);

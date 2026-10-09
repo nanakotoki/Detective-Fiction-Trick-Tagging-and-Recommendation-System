@@ -2008,6 +2008,33 @@ server {
 
 此方案下知识库**共享且持久化**，并额外获得服务端反剧透校验。
 
+### 安全边界（第 192–193 轮自查后收紧，部署前请读一遍）
+
+**已经做对的**：
+
+| 项 | 现状 |
+|----|------|
+| 谜底保险库 | `/api/books`、单条接口与导出都**剥掉** `vault`；**`/data/books/**` 已不出网**（曾经可以整目录下载，见台账 §192）；`/data/**` 只白名单放行 `covers-editions.json` 与 `manifest.json` |
+| 跨源（CORS） | 默认**一个 CORS 头都不发**（同源请求本来就不需要）。要给前后端分端口部署放行，用 `--cors https://你的前端源` 或环境变量 `DSH_CORS_ORIGINS`（逗号分隔） |
+| 跨站写入（CSRF） | `POST/PUT/DELETE` 若带 `Origin`/`Referer` 且与请求 Host 不同源 → **403**（浏览器一定带 Origin，curl／脚本不带，所以命令行照常可用） |
+| 安全响应头 | `Content-Security-Policy`（`default-src 'self'`、`frame-ancestors 'none'`；`img-src` 显式放行豆瓣 CDN 与微信读书 CDN，否则「点开看大图」会被掐掉）、`X-Frame-Options: DENY`、`Referrer-Policy: no-referrer`、`Permissions-Policy`、`X-Content-Type-Options: nosniff`；`X-Forwarded-Proto: https` 时补 `Strict-Transport-Security` |
+| 路径与体积 | `../` 穿越（含 `%2f`）拦截、请求体 1MB 上限、非 GET/HEAD 的静态请求 405 |
+| 渲染侧 | 模板一律先转义；Markdown 渲染也是**先转义再解析**子集，不执行 HTML |
+| 依赖 | **零 npm 依赖**，没有供应链风险面 |
+
+**还没做、你自己要决定的**：
+
+1. **没有鉴权**——能访问服务的人都能增删改书。单人自用／内网没问题；**对外必须在反代上加一层**
+   （Caddy `basic_auth`、Nginx `auth_basic`，或 Cloudflare Access 之类）。
+2. **纯静态部署会暴露谜底**：方案 A 下前端必须自己下载 `data/books/*.json`，文件天然可访问。
+   要公开就得**另生成一份剥掉 `vault` 的公开数据**（前端对缺失 vault 是安全的）。这一步**没做**。
+3. 其他可在反代上加的：`limit_req` 限速、`client_max_body_size`、日志与告警。
+
+> 自查脚本留在 `_dd/`（不进仓库）：`audit-vault-exposure.mjs` 查「谜底在哪些文件里」、
+> `verify-vault-guard.mjs` 与 `verify-security-headers.mjs` 在服务起来后实测口径。
+> 服务端测试（`npm run test:server`）里有 **10 条**安全断言盯着上面这些行为，改坏了会红。
+
+
 ### 无需数据库
 
 用户提交的数据以 JSON 文件保存在 `server/data/books.json`，

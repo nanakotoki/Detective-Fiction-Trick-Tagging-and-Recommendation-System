@@ -516,6 +516,50 @@ async function main() {
     const spaFallback = await fetch(`${BASE}/library`);
     check('SPA 路由回退到入口 HTML', spaFallback.status === 200);
 
+    /* ---------- 安全响应头与跨源策略（第 193 轮） ---------- */
+    console.log('');
+    console.log(color('  [安全响应头与跨源策略]', C.dim));
+
+    const page = await fetch(`${BASE}/`);
+    const csp = page.headers.get('content-security-policy') ?? '';
+    check('首页带 CSP', csp.includes("default-src 'self'") && csp.includes("frame-ancestors 'none'"), csp.slice(0, 60) || '（无）');
+    check(
+      'CSP 放行了封面要用的两个外部图床（否则点开看大图会全被掐掉）',
+      csp.includes('https://*.doubanio.com') && csp.includes('https://cdn.weread.qq.com'),
+      'img-src 里没有图床',
+    );
+    check('首页带 X-Frame-Options: DENY', page.headers.get('x-frame-options') === 'DENY');
+    check('首页带 Referrer-Policy', Boolean(page.headers.get('referrer-policy')));
+    check('首页带 Permissions-Policy', (page.headers.get('permissions-policy') ?? '').includes('camera=()'));
+    check('JSON 接口也带 nosniff', (await fetch(`${BASE}/api/health`)).headers.get('x-content-type-options') === 'nosniff');
+    check(
+      '普通 HTTP 下不发 HSTS（那是反代终结 TLS 时的事）',
+      !page.headers.get('strict-transport-security'),
+      page.headers.get('strict-transport-security') ?? '',
+    );
+
+    // CORS：默认**一个头都不发**（同源请求本来就不需要），更不许再出现 `*`
+    const corsProbe = await fetch(`${BASE}/api/health`, { headers: { origin: 'https://evil.example' } });
+    check(
+      '陌生来源不再拿到 access-control-allow-origin（原先一律回 *）',
+      !corsProbe.headers.get('access-control-allow-origin'),
+      corsProbe.headers.get('access-control-allow-origin') ?? '（无，正确）',
+    );
+    const preflight = await fetch(`${BASE}/api/books`, { method: 'OPTIONS', headers: { origin: 'https://evil.example' } });
+    check(
+      '陌生来源的预检也不放行',
+      preflight.status === 204 && !preflight.headers.get('access-control-allow-origin'),
+      `HTTP ${preflight.status} / ${preflight.headers.get('access-control-allow-origin') ?? '无 CORS 头'}`,
+    );
+
+    // CSRF：带陌生 Origin 的写请求直接 403；不带 Origin 的命令行工具照常
+    const crossWrite = await fetch(`${BASE}/api/books`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json', origin: 'https://evil.example' },
+      body: JSON.stringify({ title: '跨源写入探针', safeSummary: '这条不该被写进知识库。' }),
+    });
+    check('跨源写请求被拒绝（403）', crossWrite.status === 403, `HTTP ${crossWrite.status}`);
+
     /* ---------- 缓存与资源版本化 ---------- */
     console.log('');
     console.log(color('  [缓存与资源版本化]', C.dim));

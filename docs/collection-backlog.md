@@ -14476,6 +14476,78 @@ GET /data/books/batch-01-honkaku.json   →  HTTP 200、29KB、**含 vault / cul
 - 待补的常见头：`Content-Security-Policy`、`Referrer-Policy`、`X-Frame-Options`
   （反代上加也行）。
 
+---
+
+## 193. 安全收尾：CORS 收紧 + 安全响应头（第 193 轮）
+
+用户看完 §192 的清单后说：**「2、4 做了吧，1、3 先别做，我打算部署到云服务器的。」**
+（1 = 接口鉴权；3 = 静态部署剥离 vault。）于是这一轮只做两件浏览器侧的默认防线。
+
+### 193.1 CORS 从 `*` 收紧到「默认什么都不发」
+
+原先每个 JSON 响应都带 `access-control-allow-origin: *`，加上接口没有鉴权，等于
+**任何网站都能从访客的浏览器里往这台服务写数据**。改法：
+
+- 同源请求**根本不需要 CORS 头** → 默认一个都不发（`corsHeaders()` 返回空对象）；
+- 真要前后端分端口部署，显式放行：`--cors http://localhost:3000` 或
+  `DSH_CORS_ORIGINS=https://a.com,https://b.com`（逗号分隔），只对这些来源回
+  `access-control-allow-origin` 并带 `Vary: Origin`；
+- 预检（OPTIONS）也只对白名单来源回 CORS 头，陌生来源拿到 204 但**没有任何 CORS 头**。
+
+### 193.2 顺带补上 CSRF：CORS 只挡「读」，挡不住「写」
+
+CORS 限制的是「跨源读响应」，而 `<form>` 或 `fetch(…, { mode: 'no-cors' })` 照样能把 POST
+打到本机服务上，接口没有鉴权，写进去就是真写进去。所以加了一条判据：
+
+> `POST/PUT/DELETE` 若带了 `Origin`/`Referer` 且与请求 Host **不同源** → **403**。
+
+浏览器发跨源写请求**一定带 Origin**，而 curl／脚本通常不带——于是「被别的站点借用访客浏览器」
+被挡住，命令行工具不受影响。
+
+### 193.3 一组安全响应头（集中到 `server/lib/headers.mjs`）
+
+```
+content-security-policy: default-src 'self'; script-src 'self';
+                         style-src 'self' 'unsafe-inline';
+                         img-src 'self' data: https://*.doubanio.com https://cdn.weread.qq.com
+                                https://res.weread.qq.com https://rescdn.qqmail.com
+                                https://*.image.myqcloud.com https://*.file.myqcloud.com;
+                         font-src 'self'; connect-src 'self'; object-src 'none';
+                         base-uri 'self'; form-action 'self'; frame-ancestors 'none'
+x-frame-options: DENY      referrer-policy: no-referrer
+permissions-policy: geolocation=(), camera=(), microphone=(), payment=()
+strict-transport-security: max-age=15552000; includeSubDomains   ← 仅当 X-Forwarded-Proto: https
+```
+
+两处**必须**踩准的地方：
+
+1. **`img-src` 要放行两个外部图床**，否则「点开看大图」（豆瓣 `l` 档）与版本一览里
+   微信读书那 923 条只存链接的封面会**全被 CSP 掐掉**——所以把 `*.doubanio.com`、
+   `cdn.weread.qq.com`、`*.image.myqcloud.com` 等按数据里实际出现的主机逐个列了进去；
+2. **`style-src` 得允许内联样式**：前端大量使用 `style="…"` 属性（书卡、报告、灯箱都靠它）。
+   另外确认了三件事：`index.html` 没有内联脚本、前端没有 `eval`/`new Function`、
+   没有对外部地址的 `fetch`——所以 `script-src 'self'` 与 `connect-src 'self'` 是安全的。
+
+### 193.4 验收
+
+服务端测试从 67 项加到 **77 项**，新增的 10 条把这些行为钉住：CSP 内容（含两个图床）、
+X-Frame-Options、Referrer-Policy、Permissions-Policy、`nosniff`、纯 HTTP 下不发 HSTS、
+陌生来源读接口没有 CORS 头、陌生来源预检不放行、**跨源写请求 403**。
+
+上线实测（重启服务后）：
+
+```
+首页 HTTP 200 ｜ CSP/x-frame/referrer/permissions 都在 ｜ 纯 HTTP 无 HSTS
+陌生来源读接口 allow-origin：（无）
+陌生来源写接口：HTTP 403
+接口仍可用：books=3420 ｜ 封面 HTTP 200 ｜ 版本一览 HTTP 200 ｜ 谜底保险库 HTTP 404
+```
+
+README 的部署一节也补了一张「安全边界」表（做对了什么／还没做什么），
+**明确写出「对外必须在反代上加鉴权」与「纯静态部署会暴露谜底」**——这两条是 §192 就有的结论，
+只是这一轮把它们写进了用户会读的地方。
+
+
 
 
 
