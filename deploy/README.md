@@ -7,6 +7,21 @@
 > 配套文件：`deploy/Caddyfile`、`deploy/trick-archive.service`、`deploy/check-deploy.mjs`
 > （自查脚本用 Node 写：部署目标上一定有 Node，Windows 上没有 bash，这样两边都能跑）。
 
+## 每一步在哪台机器上跑（先看这张表）
+
+| 步骤 | 在哪跑 | 需要什么 |
+|------|--------|----------|
+| 0. 改私有 + push | **你自己的 Windows 电脑**（浏览器 + CMD/PowerShell） | Git（你已经在用）、GitHub 账号、约 82MB 上传带宽 |
+| 1. 装 Node 与 Caddy | **服务器**（SSH 会话） | `sudo` 权限、能访问外网（nodejs.org / caddyserver.com） |
+| 2. 拉代码 | **服务器** | `git`（CentOS 8 上可能没装，见 §2 的兜底）、GitHub Deploy Key |
+| 3. 建用户 | **服务器** | `sudo` |
+| 4. 起服务 | **服务器** | 无（零 npm 依赖，不用 `npm install`） |
+| 5. Caddy | **服务器** | 80/443 端口可用、DNS 已解析到本机 |
+| 6. 防火墙 + DNS + 安全组 | **服务器** + **云控制台** + **域名服务商** | 三处都要动，缺一处就是"打不开" |
+
+**前置环境总共只要三样**：① 服务器能 SSH 且你有 sudo；② 服务器能出网；③ 你在域名服务商与云控制台都有登录权限。
+不需要 Docker、不需要数据库、不需要 `npm install`（这个项目**零运行时依赖**）。
+
 ## 0. 先做两件事（在本地电脑上）
 
 ### 0.1 把 GitHub 仓库改成私有
@@ -49,19 +64,53 @@ caddy version
 
 ## 2. 拉代码（私有仓库用 Deploy Key）
 
+服务器上先确认 `git` 在不在：
+
+```bash
+git --version
+```
+
+**CentOS 8 已 EOL，`dnf install git` 可能报 404。**两种兜底，任选一种：
+
+```bash
+# 兜底 A：把仓库地址指到 vault.centos.org（CentOS 8 归档站），再装 git
+sudo sed -i 's/^mirrorlist=/#mirrorlist=/; s|^#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|' \
+  /etc/yum.repos.d/CentOS-*.repo
+sudo dnf install -y git --nogpgcheck
+
+# 兜底 B：完全不用 git，改用 GitHub 的 tarball（私有仓库要带 token）
+TOKEN=你的PAT                         # GitHub → Settings → Developer settings → Fine-grained token（只读 Contents）
+mkdir -p /srv/trick-archive && cd /srv/trick-archive
+curl -fsSL -H "Authorization: Bearer $TOKEN" -o repo.tar.gz \
+  https://github.com/nanakotoki/Detective-Fiction-Trick-Tagging-and-Recommendation-System/archive/refs/heads/main.tar.gz
+tar -xzf repo.tar.gz --strip-components=1 && rm repo.tar.gz
+```
+
+有 git 时（推荐，以后 `git pull` 就能更新）：
+
 ```bash
 # 生成只读部署密钥
 ssh-keygen -t ed25519 -f ~/.ssh/trick_deploy -N ''
 cat ~/.ssh/trick_deploy.pub
 # → 粘到 GitHub：仓库 Settings → Deploy keys → Add deploy key（不要勾 Allow write access）
 
-# 克隆（把 deploy key 指给 git）
+# 让 git 对 github.com 用这把钥匙（写进 ~/.ssh/config，之后 git pull 不必再带参数）
+cat >> ~/.ssh/config <<'EOF'
+Host github.com
+  IdentityFile ~/.ssh/trick_deploy
+  IdentitiesOnly yes
+EOF
+chmod 600 ~/.ssh/config
+
 mkdir -p /srv
-GIT_SSH_COMMAND='ssh -i ~/.ssh/trick_deploy -o StrictHostKeyChecking=accept-new' \
-  git clone git@github.com:nanakotoki/Detective-Fiction-Trick-Tagging-and-Recommendation-System.git /srv/trick-archive
+git clone git@github.com:nanakotoki/Detective-Fiction-Trick-Tagging-and-Recommendation-System.git /srv/trick-archive
 cd /srv/trick-archive
 ls web/index.html data/books | head      # 确认 web/ 与 data/ 同级
 ```
+
+> **属主这样安排**（避免"服务能跑但拉不动代码"或反过来）：
+> 用你的登录用户（如 `admin`）克隆，然后把目录交给运行用户 `trick`（下一步）；
+> 以后更新用 `sudo git pull` 拉、拉完再把属主交回 `trick`（见第 8 节）。
 
 ## 3. 建运行用户并交给它
 
@@ -165,9 +214,10 @@ HTTP 跳 HTTPS、证书有效期、版本一览与封面目录可用。
 ## 8. 更新与备份
 
 ```bash
-# 更新（代码有变时）
+# 更新（代码有变时；git 拉取用 root、拉完把属主交回运行用户）
 cd /srv/trick-archive
-sudo -u trick git pull
+sudo git pull
+sudo chown -R trick:trick /srv/trick-archive
 sudo systemctl restart trick-archive      # ★ 必须重启：批次文件在启动时读进内存
 curl -s localhost:8787/api/health | head -c 120
 
