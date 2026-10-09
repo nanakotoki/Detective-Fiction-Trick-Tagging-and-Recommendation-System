@@ -1,0 +1,41 @@
+; systemd 单元：推理小说知识库后端（CentOS 8 实测路径）
+; 安装：sudo cp deploy/trick-archive.service /etc/systemd/system/ && sudo systemctl daemon-reload
+;       sudo systemctl enable --now trick-archive
+;
+; 几个刻意的选择：
+;   · **只监听 127.0.0.1**：TLS 与鉴权都交给前面的 Caddy，8787 不对外（安全组里也别放行）；
+;   · **专用用户 trick**：CentOS 上没有 www-data（那是 Debian 系）；
+;   · **只允许写 server/data/**：用户新增的书落在这里，其余目录保持只读——
+;     代码与知识库由 git 管，进程不需要写权限（这也是第 178 轮「写坏批次文件」教训的反面：
+;     读的一侧要有兜底，写的一侧要收敛到最小范围）。
+
+[Unit]
+Description=Trick Archive（推理小说诡计标签分析与推荐系统）
+Documentation=https://github.com/nanakotoki/Detective-Fiction-Trick-Tagging-and-Recommendation-System
+After=network.target
+
+[Service]
+Type=simple
+User=trick
+Group=trick
+WorkingDirectory=/srv/trick-archive
+
+Environment=PORT=8787
+Environment=HOST=127.0.0.1
+Environment=NODE_ENV=production
+
+; 用官方二进制装的 Node（见 deploy/README.md 第 1 节）
+ExecStart=/usr/local/bin/node server/index.mjs
+
+Restart=always
+RestartSec=3
+
+; ---- 收敛权限 ----
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/srv/trick-archive/server/data
+
+[Install]
+WantedBy=multi-user.target

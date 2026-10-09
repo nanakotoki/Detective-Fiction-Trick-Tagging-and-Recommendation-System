@@ -115,6 +115,31 @@ server {
 
 ## 3. 方案 B：静态 + 后端
 
+> ⚠️ **2026 年 10 月的重要修正（第 192–194 轮）**：下面这份 Nginx 配置是早期写的——
+> 它让 Nginx **直接去发 `web/` 与 `data/` 目录**、只把 `/api/` 转给 Node。现在这样做有**两条硬伤**：
+>
+> 1. **安全响应头会被绕过**：CSP、CORS 收紧、CSRF 拦截全在 Node 里（`server/lib/headers.mjs`），
+>    静态直发就等于没有；
+> 2. **谜底会裸奔**：`data/books/*.json` 里是每条作品的谜底保险库，Node 会**剥掉 `vault` 再发**，
+>    而静态服务器会原样发出去。
+>
+> **现在的推荐姿势是「整站反代给 Node」**（Node 自己就是静态服务器 + API）：
+>
+> ```nginx
+> location / {
+>     proxy_pass http://127.0.0.1:8787;
+>     proxy_set_header Host              $host;
+>     proxy_set_header X-Real-IP         $remote_addr;
+>     proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
+>     proxy_set_header X-Forwarded-Proto $scheme;   # ← 有它才会补 HSTS
+> }
+> ```
+>
+> 这样入口是 `/`（不是 `/web/`），安全头、谜底剥除、CSRF 全部生效。
+> 具体到「CentOS 8 + Caddy + 鉴权」的一份完整可复制配置见 **`deploy/`** 目录
+> （`README.md` 是逐步命令，`Caddyfile`、`trick-archive.service`、`check-deploy.sh` 可直接用）。
+> **对外部署必须加一层鉴权**：接口没有登录机制，不加等于谁都能改你的书。
+
 ### 启动
 
 ```bash
@@ -136,12 +161,13 @@ After=network.target
 [Service]
 Type=simple
 WorkingDirectory=/srv/trick-archive
-ExecStart=/usr/bin/node server/index.mjs
+ExecStart=/usr/local/bin/node server/index.mjs
 Environment=PORT=8787
 Environment=HOST=127.0.0.1
 Restart=always
 RestartSec=3
-User=www-data
+User=trick
+Group=trick
 
 [Install]
 WantedBy=multi-user.target
@@ -153,6 +179,10 @@ sudo systemctl enable --now trick-archive
 sudo systemctl status trick-archive
 ```
 
+> 上面这份是**通用版**；`deploy/trick-archive.service` 里那份多了权限收敛
+> （`ProtectSystem=full`、`ReadWritePaths=server/data`）与针对 CentOS 的说明——正式部署用那份。
+> 注意 `User=` 别照抄 `www-data`（那是 Debian 系的用户，CentOS 上没有）。
+
 ### Nginx 反代（静态与 API 同一个域名）
 
 ```nginx
@@ -163,12 +193,12 @@ server {
     ssl_certificate     /etc/letsencrypt/live/mystery.example.com/fullchain.pem;
     ssl_certificate_key /etc/letsencrypt/live/mystery.example.com/privkey.pem;
 
-    root /srv/trick-archive;
-    index index.html;
-    location = / { return 301 /web/; }
+    # 鉴权（对外部署必须加：接口没有登录机制，不加等于谁都能改书）
+    auth_basic           "Trick Archive";
+    auth_basic_user_file /etc/nginx/.htpasswd;      # htpasswd -c /etc/nginx/.htpasswd admin
 
-    # 只把 /api 交给后端，其余静态文件由 Nginx 直接发
-    location /api/ {
+    # 整站交给 Node：入口是 /，安全头与谜底剥除都在 Node 里
+    location / {
         proxy_pass http://127.0.0.1:8787;
         proxy_set_header Host              $host;
         proxy_set_header X-Real-IP         $remote_addr;
@@ -179,8 +209,21 @@ server {
 ```
 
 证书用 `certbot --nginx -d mystery.example.com` 一条命令签发并自动续期。
-**Caddy 更省事**：`mystery.example.com { reverse_proxy /api/* 127.0.0.1:8787; file_server }`，
-HTTPS 自动申请。
+**Caddy 更省事**（证书自动申请 + 一行鉴权）：
+
+```caddy
+mystery.example.com {
+    encode zstd gzip
+    basic_auth {
+        admin $2a$14$……          # caddy hash-password --plaintext '你的密码'
+    }
+    reverse_proxy 127.0.0.1:8787
+}
+```
+
+> 别再用「Nginx 发静态 + 只转 /api」那套：安全头会丢、谜底会裸奔（见本节开头的修正说明）。
+> 部署完用 `bash deploy/check-deploy.sh 你的域名` 自查一遍（它会验谜底有没有出网、CSRF 是否生效、
+> 安全头是否在位、证书是否有效）。
 
 ### 数据落盘与备份
 

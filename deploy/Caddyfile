@@ -1,0 +1,37 @@
+# Caddy 配置：tokei-detective.top
+# ================================
+# 用法：
+#   1) caddy hash-password --plaintext '你的密码'    → 把输出粘到下面 <PASTE_HASH_HERE>
+#   2) sudo cp deploy/Caddyfile /etc/caddy/Caddyfile
+#   3) sudo systemctl reload caddy
+#
+# 三条要点：
+#   · **整站反代给 Node**（127.0.0.1:8787），不要让 Caddy 直接发 web/ 与 data/：
+#     安全响应头（CSP／CORS／CSRF）都在 Node 里，而且 /data/books/*.json 必须由 Node
+#     剥掉谜底保险库再发（台账 §192–194）。
+#   · **必须加鉴权**：接口没有登录机制，不加 = 任何知道域名的人都能增删改书。
+#   · TLS 证书自动申请与续期（需要 80 端口可达、DNS 已指向本机）。
+
+tokei-detective.top {
+	encode zstd gzip
+
+	basic_auth {
+		# 用户名随便起；哈希用 `caddy hash-password --plaintext '…'` 生成
+		admin <PASTE_HASH_HERE>
+	}
+
+	# 访问日志：排查「为什么打不开」时第一眼要看的东西
+	log {
+		output file /var/log/caddy/tokei-detective.log {
+			roll_size 10MiB
+			roll_keep 5
+		}
+	}
+
+	reverse_proxy 127.0.0.1:8787
+}
+
+# 可选：让 www 也指过来（DNS 里要同时加 www 的 A 记录）
+www.tokei-detective.top {
+	redir https://tokei-detective.top{uri} permanent
+}
