@@ -181,13 +181,8 @@ server {
     # 和 80 的站点保持同一套包含项（否则 HTTPS 下可能没有反向代理，全变 404）
     include /www/server/panel/vhost/nginx/extension/$DOMAIN/*.conf;
 
-    location ^~ /.well-known/acme-challenge/ {
-        root $WEBROOT;
-        auth_basic off;
-        allow all;
-    }
-
-    # 和 80 的站点共用同一套反向代理规则（第 196 轮：整站只转发，不直发文件）
+    # 注意：ACME 豁免由下面 include 的伪静态文件提供，**这里不能再写一遍**
+    # （同一个 server 里出现两个相同的 location → nginx 报 duplicate location）
     include /www/server/panel/vhost/nginx/proxy/$DOMAIN/*.conf;
     include /www/server/panel/vhost/rewrite/$DOMAIN.conf;
 
