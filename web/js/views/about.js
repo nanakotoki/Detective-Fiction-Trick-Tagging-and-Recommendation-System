@@ -259,6 +259,16 @@ export async function render(ctx) {
         <li>若你认为某条目的表述仍可能构成剧透，可通过「添加小说」页修改，或提交 issue 告知我们。</li>
         <li>书籍版权归原作者与出版方所有，本系统仅整理公开的元数据与标签信息。</li>
       </ul>
+
+      <div class="section-title"><span class="num">8</span>备案信息</div>
+      <ul class="mb-0">
+        <li>
+          本站是<strong>非经营性个人网站</strong>，已完成 ICP 备案，备案号：
+          <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">陕ICP备2026028756号</a>。
+        </li>
+        <li>网站用途：个人阅读推理小说的笔记与诡计标签整理；<strong>不提供任何图书全文阅读、电子书下载或在线出版服务</strong>。</li>
+        <li>网站不开放注册，不接受陌生用户上传内容；书目信息由维护者录入。</li>
+      </ul>
     </div>
   `;
 
