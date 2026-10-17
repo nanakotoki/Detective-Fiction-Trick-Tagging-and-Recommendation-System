@@ -136,17 +136,27 @@ fi
 
 say "5. 申请证书（Let's Encrypt，失败自动重试）"
 "$ACME" --set-default-ca --server letsencrypt >/dev/null 2>&1 || true
-issued=0
-for attempt in 1 2 3; do
-  echo "  第 $attempt 次申请 …"
-  if "$ACME" --issue -d "$DOMAIN" -d "www.$DOMAIN" -w "$WEBROOT"; then
-    issued=1
-    break
-  fi
-  echo "  失败（可能是 Let's Encrypt 的 API 抽风），等 8 秒重试"
-  sleep 8
-done
-[ "$issued" = "1" ] || die "证书申请三次都失败，把上面的报错贴我"
+
+# acme.sh 在"证书尚未到期"时会打印 Skipping 并以**非零退出码**退出——那不是失败。
+# 所以这里一律不看退出码，只看证书文件到底有没有生成。
+cert_ready() {
+  [ -f "/root/.acme.sh/${DOMAIN}_ecc/fullchain.cer" ] || [ -f "/root/.acme.sh/${DOMAIN}/fullchain.cer" ]
+}
+
+if cert_ready; then
+  echo "本地已有证书（acme.sh 会按自己的续期计划处理），跳过申请"
+else
+  issued=0
+  for attempt in 1 2 3; do
+    echo "  第 $attempt 次申请 …"
+    "$ACME" --issue -d "$DOMAIN" -d "www.$DOMAIN" -w "$WEBROOT" || true
+    if cert_ready; then issued=1; break; fi
+    echo "  没拿到证书，等 8 秒重试"
+    sleep 8
+  done
+  [ "$issued" = "1" ] || die "证书申请失败（看上面的 acme.sh 日志）"
+fi
+
 mkdir -p "$SSLDIR"
 "$ACME" --install-cert -d "$DOMAIN" \
   --key-file "$SSLDIR/tokei.key" \
