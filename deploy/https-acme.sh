@@ -178,6 +178,9 @@ server {
     root $WEBROOT;
     index index.html;
 
+    # 和 80 的站点保持同一套包含项（否则 HTTPS 下可能没有反向代理，全变 404）
+    include /www/server/panel/vhost/nginx/extension/$DOMAIN/*.conf;
+
     location ^~ /.well-known/acme-challenge/ {
         root $WEBROOT;
         auth_basic off;
