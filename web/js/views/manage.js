@@ -15,6 +15,7 @@ import { splitAuthors } from '../core/seed.js';
 import { analyzeBook, countChars } from '../core/safety.js';
 import { html, qs, qsa, raw, toast, modal, esc } from '../ui/dom.js';
 import { promptAdminToken } from '../ui/admin-token.js';
+import { hasAdminToken } from '../core/admin-token.js';
 
 export const meta = { title: '添加小说' };
 
@@ -72,6 +73,37 @@ export async function render(ctx) {
         </div>
       </div>
     `;
+    return;
+  }
+
+  /* 令牌模式 + 本机没有令牌（第 197 轮）：这里只对维护者开放。
+   * 同样是"别让人填完一长串才被告知没有权限"，所以先问令牌再渲染表单。 */
+  if (store.needsAdminToken && !hasAdminToken()) {
+    main.innerHTML = html`
+      <div class="view-header">
+        <h1>这是维护者的入口</h1>
+        <p class="lede">本站的录入只对维护者开放：输入管理员令牌后，才能新增或修改作品。</p>
+      </div>
+      <div class="card">
+        <div class="empty">
+          <div class="icon" aria-hidden="true">🔑</div>
+          <h3>浏览不需要令牌</h3>
+          <p>如果你只是来看书的，所有内容都能正常浏览、搜索、生成分析报告——直接返回知识库即可。</p>
+          <div class="btn-row" style="justify-content:center;margin-top:var(--space-4)">
+            <button type="button" class="btn btn-primary" id="ask-token">输入管理员令牌</button>
+            <a class="btn" href="#/library">返回知识库</a>
+          </div>
+        </div>
+      </div>
+    `;
+    qs('#ask-token')?.addEventListener('click', () => {
+      promptAdminToken({
+        reason: '录入与修改只对维护者开放',
+        onSaved: () => {
+          render(ctx).catch((error) => toast(String(error?.message ?? error), { type: 'error' }));
+        },
+      });
+    });
     return;
   }
 

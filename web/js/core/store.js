@@ -12,7 +12,7 @@
  */
 
 import { loadSeedBooks, normalizeSeedBook } from './seed.js';
-import { readAdminToken } from './admin-token.js';
+import { hasAdminToken, readAdminToken } from './admin-token.js';
 
 const LOCAL_KEY = 'dftr:userBooks:v1';
 const HIDDEN_KEY = 'dftr:hiddenBooks:v1';
@@ -136,6 +136,20 @@ export class BookStore {
   /** 写入需不需要带管理员令牌 */
   get needsAdminToken() {
     return this.mode === 'api' && this.writeMode === 'token';
+  }
+
+  /**
+   * 界面上要不要露出写入口。
+   *
+   * 与 `canWrite` 的区别：`canWrite` 问的是「服务端允不允许写」，
+   * 而这里问的是「这个访客现在能不能写」——令牌模式下，**没在本机存过令牌的访客**
+   * 不该看到「添加小说」，否则他点进去只会撞上「需要令牌」，体验很糟。
+   */
+  get showWriteUi() {
+    if (this.mode !== 'api') return true; // 本地模式下数据在自己浏览器里
+    if (this.writeMode === 'off') return false;
+    if (this.writeMode === 'token') return hasAdminToken();
+    return true;
   }
 
   /* ---------------- 初始化 ---------------- */

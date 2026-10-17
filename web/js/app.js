@@ -219,14 +219,19 @@ async function renderRoute({ keepScroll = false } = {}) {
  * 把写模式贴到 `<body>` 上（第 197 轮）。
  *
  * 站点从"整站密码"走向"对外开放"之后，写权限改成两种：`token`（要管理员令牌）
- * 与 `off`（纯只读）。这里只负责把状态摆到 DOM 上，让 CSS 一次性地把
- * 导航里的写入口藏掉；视图内部的写按钮则各自按 `store.canWrite` 决定渲染与否。
+ * 与 `off`（纯只读）。这里负责把状态摆到 DOM 上：
+ *   · `data-write-mode` —— 服务端给的模式（open / token / off），信息性
+ *   · `data-write-ui`   —— 当前这个访客该不该看到写入口（令牌模式下没存过令牌就是 hidden）
+ *
+ * 视图内部的写按钮则各自按 `store.showWriteUi` 决定渲染与否。
  *
  * 导出是为了测试能直接驱动它（视图测试里会临时把 store 切到只读态）。
  */
 export function applyWriteMode() {
-  const mode = store.readOnly ? 'off' : store.writeMode;
-  if (document.body?.dataset) document.body.dataset.writeMode = mode;
+  const body = document.body;
+  if (!body?.dataset) return;
+  body.dataset.writeMode = store.readOnly ? 'off' : store.writeMode;
+  body.dataset.writeUi = store.showWriteUi ? 'show' : 'hidden';
 }
 
 /** 同步开关按钮的视觉与无障碍状态 */function syncSensitiveSwitch() {

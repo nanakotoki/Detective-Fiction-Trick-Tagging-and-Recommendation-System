@@ -514,7 +514,7 @@ export async function render(ctx) {
         <button type="button" class="btn btn-sm btn-primary" data-action="copy">复制 Markdown</button>
         <button type="button" class="btn btn-sm" data-action="download">导出 .md</button>
         <button type="button" class="btn btn-sm" data-action="print">打印 / 存 PDF</button>
-        ${r.isCustom && store.canWrite
+        ${r.isCustom && store.showWriteUi
           ? raw(html`<button type="button" class="btn btn-sm" data-action="save" data-write-action>存入知识库</button>`)
           : ''}
         <span class="ml-auto small muted">生成于 ${new Date().toLocaleString('zh-CN')}</span>

@@ -2407,11 +2407,12 @@ a.cover:hover {
 }
 
 /* ------------------------------------------------------------------ */
-/* 只读站：写入口一律不出现（第 197 轮）                                 */
+/* 只读站 / 无令牌：写入口一律不出现（第 197 轮）                        */
 /* ------------------------------------------------------------------ */
-/* `<body data-write-mode="off">` 由 app.js 在 store 初始化后贴上；
- * 视图内部的写按钮另外按 `store.canWrite` 决定渲染与否，这里是导航的兜底。 */
-body[data-write-mode='off'] .mainnav a[data-nav='manage'],
-body[data-write-mode='off'] [data-write-action] {
+/* `<body data-write-ui="hidden">` 由 app.js 贴上：只读站永远 hidden；
+ * 令牌模式下，没在本机存过令牌的访客也是 hidden（点进去只会撞上"需要令牌"）。
+ * 视图内部的写按钮另外按 `store.showWriteUi` 决定渲染与否，这里是导航的兜底。 */
+body[data-write-ui='hidden'] .mainnav a[data-nav='manage'],
+body[data-write-ui='hidden'] [data-write-action] {
   display: none !important;
 }

@@ -274,11 +274,48 @@ check('令牌模式：canWrite 为真', store.canWrite === true);
 check('令牌模式：needsAdminToken 为真', store.needsAdminToken === true);
 check('令牌模式：不算只读', store.readOnly === false);
 
+clearAdminToken();
+check('令牌模式 + 本机没有令牌：不露写入口', store.showWriteUi === false);
+saveAdminToken('demo-token-123456');
+check('令牌模式 + 本机有令牌：露写入口', store.showWriteUi === true);
+app.applyWriteMode();
+check(
+  '令牌模式下 <body data-write-ui="show">',
+  dom.document.body?.dataset?.writeUi === 'show',
+  `实际 ${dom.document.body?.dataset?.writeUi ?? '未设置'}`,
+);
+
+// 令牌模式 + 没令牌：管理页先要令牌，不直接丢一个表单
+clearAdminToken();
+app.applyWriteMode();
+check(
+  '令牌模式 + 没令牌：<body data-write-ui="hidden">',
+  dom.document.body?.dataset?.writeUi === 'hidden',
+  `实际 ${dom.document.body?.dataset?.writeUi ?? '未设置'}`,
+);
+dom.window.location.hash = '#/manage';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+check('令牌模式 + 没令牌：管理页提示要「输入管理员令牌」', bodyText().includes('输入管理员令牌'));
+check('令牌模式 + 没令牌：管理页不渲染录入表单', !bodyText().includes('id="book-form"'));
+
+// 令牌模式 + 有令牌：表单正常出现
+saveAdminToken('demo-token-123456');
+dom.window.location.hash = '#/library';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(120);
+dom.window.location.hash = '#/manage';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+check('令牌模式 + 有令牌：管理页正常渲染录入表单', bodyText().includes('id="book-form"'));
+clearAdminToken();
+
 // 只读站：写入口应当全部消失
 store.writeMode = 'off';
 check('只读站：readOnly 为真', store.readOnly === true);
 check('只读站：canWrite 为假', store.canWrite === false);
 check('只读站：不再索要令牌', store.needsAdminToken === false);
+check('只读站：不露写入口', store.showWriteUi === false);
 
 app.applyWriteMode();
 check(
@@ -286,6 +323,7 @@ check(
   dom.document.body?.dataset?.writeMode === 'off',
   `实际 ${dom.document.body?.dataset?.writeMode ?? '未设置'}`,
 );
+check('只读站：<body data-write-ui="hidden">', dom.document.body?.dataset?.writeUi === 'hidden');
 
 // 「添加小说」页：整页换成只读说明，连表单都不渲染
 dom.window.location.hash = '#/manage';
