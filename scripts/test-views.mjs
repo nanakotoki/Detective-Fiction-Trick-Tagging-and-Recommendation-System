@@ -95,11 +95,12 @@ check('bootstrap 无致命异常', fatal.length === 0, fatal[0]?.slice(0, 160) ?
 check('首屏渲染出了内容', bodyText().length > 800, `${bodyText().length} 字节`);
 check('未出现「页面加载失败」', !bodyText().includes('页面加载失败'));
 
-/* 备案号：工信部要求首页底部可见、且能点开到工信部备案系统（第 196 轮上线后补） */
-check('页脚有 ICP 备案号', REAL_INDEX_HTML.includes('陕ICP备2026028756号'));
+/* 备案号：工信部要求首页底部可见、且能点开到工信部备案系统（第 196 轮上线后补）
+ * 注意显示的是**网站级**备案号（带 -1 的那一串），不是主体级 */
+check('页脚有 ICP 备案号（网站级，带 -1）', REAL_INDEX_HTML.includes('陕ICP备2026028756号-1'));
 check(
   '备案号链接到 beian.miit.gov.cn',
-  /href="https:\/\/beian\.miit\.gov\.cn\/"[^>]*>[^<]*陕ICP备2026028756号/.test(REAL_INDEX_HTML),
+  /href="https:\/\/beian\.miit\.gov\.cn\/"[^>]*>[^<]*陕ICP备2026028756号-1/.test(REAL_INDEX_HTML),
 );
 check('页脚注明非经营性个人网站', REAL_INDEX_HTML.includes('非经营性个人网站'));
 

@@ -263,8 +263,8 @@ export async function render(ctx) {
       <div class="section-title"><span class="num">8</span>备案信息</div>
       <ul class="mb-0">
         <li>
-          本站是<strong>非经营性个人网站</strong>，已完成 ICP 备案，备案号：
-          <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">陕ICP备2026028756号</a>。
+          本站是<strong>非经营性个人网站</strong>，主办单位：时嘉庆（个人），已完成 ICP 备案，网站备案号：
+          <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">陕ICP备2026028756号-1</a>。
         </li>
         <li>网站用途：个人阅读推理小说的笔记与诡计标签整理；<strong>不提供任何图书全文阅读、电子书下载或在线出版服务</strong>。</li>
         <li>网站不开放注册，不接受陌生用户上传内容；书目信息由维护者录入。</li>
