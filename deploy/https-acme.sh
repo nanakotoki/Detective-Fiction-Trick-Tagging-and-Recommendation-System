@@ -14,6 +14,11 @@
 #   sudo EMAIL=you@example.com bash https-acme.sh    # 指定邮箱（Let's Encrypt 的到期通知）
 #
 # 前置：轻量应用服务器防火墙要放行 TCP 443（不然装好了外网也连不上）
+#
+# 国内网络的两个坑（本脚本已内置应对）：
+#   · raw.githubusercontent.com 经常整段不通 → get.acme.sh 装不上 → 改从 github/codeload 的
+#     tar 包安装，并准备了 gitee 镜像做兜底；
+#   · acme-v02.api.letsencrypt.org 会间歇性 000（连不上）→ 申请证书做三次重试。
 
 set -euo pipefail
 
@@ -24,10 +29,49 @@ CONF="/www/server/panel/vhost/nginx/$DOMAIN.conf"
 REWRITE="/www/server/panel/vhost/rewrite/$DOMAIN.conf"
 SSLDIR="/etc/tokei-ssl"
 EMAIL="${EMAIL:-admin@$DOMAIN}"
+ACME="/root/.acme.sh/acme.sh"
 BAK="/root/tokei-https-backup-$(date +%Y%m%d-%H%M%S)"
 
 say() { printf '\n\033[1m== %s ==\033[0m\n' "$*"; }
 die() { printf '\n\033[31m✗ %s\033[0m\n' "$*" >&2; exit 1; }
+
+# 国内网络下"哪一个下载源能通"完全是碰运气，所以挨个试
+install_acme() {
+  local tmp=/tmp/acme-install
+  rm -rf "$tmp"; mkdir -p "$tmp"
+  local sources=(
+    "https://github.com/acmesh-official/acme.sh/archive/refs/heads/master.tar.gz"
+    "https://codeload.github.com/acmesh-official/acme.sh/tar.gz/refs/heads/master"
+    "https://gitee.com/neilpang/acme.sh/repository/archive/master.tar.gz"
+  )
+  local src
+  for src in "${sources[@]}"; do
+    echo "  ↓ 尝试：$src"
+    if ! curl -fsSL --retry 2 --retry-delay 2 -m 90 -o "$tmp/acme.tar.gz" "$src"; then
+      echo "    下载失败，换下一个源"
+      continue
+    fi
+    rm -rf "$tmp/x"; mkdir -p "$tmp/x"
+    if ! tar -xzf "$tmp/acme.tar.gz" -C "$tmp/x" 2>/dev/null; then
+      echo "    解压失败，换下一个源"
+      continue
+    fi
+    local found
+    found=$(find "$tmp/x" -maxdepth 2 -name acme.sh -type f | head -1)
+    if [ -z "$found" ]; then
+      echo "    包里没找到 acme.sh，换下一个源"
+      continue
+    fi
+    chmod +x "$found"
+    ( cd "$(dirname "$found")" && ./acme.sh --install -m "$EMAIL" >/dev/null 2>&1 ) || true
+    if [ -x "$ACME" ]; then
+      echo "    ✓ 安装成功：$ACME"
+      return 0
+    fi
+    echo "    安装脚本没跑起来，换下一个源"
+  done
+  return 1
+}
 
 say "0. 前置检查"
 [ -x "$NGINX" ] || die "找不到 nginx：$NGINX（改 NGINX= 后再跑）"
@@ -83,17 +127,26 @@ if [ "$code" != "200" ]; then
 fi
 rm -f "$WEBROOT/.well-known/acme-challenge/_probe"
 
-say "4. 申请证书（acme.sh + Let's Encrypt）"
-if [ -f "/root/.acme.sh/acme.sh" ]; then
-  echo "acme.sh 已安装"
+say "4. 安装 acme.sh（多源降级）"
+if [ -x "$ACME" ]; then
+  echo "已安装：$ACME"
 else
-  echo "安装 acme.sh …"
-  curl -s https://get.acme.sh | sh -s "email=$EMAIL"
+  install_acme || die "acme.sh 装不上：三个下载源都失败。把上面的输出贴给我，我换别的路子"
 fi
-ACME="/root/.acme.sh/acme.sh"
-[ -x "$ACME" ] || die "acme.sh 安装失败"
-"$ACME" --set-default-ca --server letsencrypt >/dev/null
-"$ACME" --issue -d "$DOMAIN" -d "www.$DOMAIN" -w "$WEBROOT" || die "证书申请失败（看上面的原因）"
+
+say "5. 申请证书（Let's Encrypt，失败自动重试）"
+"$ACME" --set-default-ca --server letsencrypt >/dev/null 2>&1 || true
+issued=0
+for attempt in 1 2 3; do
+  echo "  第 $attempt 次申请 …"
+  if "$ACME" --issue -d "$DOMAIN" -d "www.$DOMAIN" -w "$WEBROOT"; then
+    issued=1
+    break
+  fi
+  echo "  失败（可能是 Let's Encrypt 的 API 抽风），等 8 秒重试"
+  sleep 8
+done
+[ "$issued" = "1" ] || die "证书申请三次都失败，把上面的报错贴我"
 mkdir -p "$SSLDIR"
 "$ACME" --install-cert -d "$DOMAIN" \
   --key-file "$SSLDIR/tokei.key" \
@@ -101,7 +154,7 @@ mkdir -p "$SSLDIR"
   --reloadcmd "$NGINX -s reload"
 echo "证书已安装到 $SSLDIR/tokei.pem"
 
-say "5. 追加 443 的 server 块（幂等）"
+say "6. 追加 443 的 server 块（幂等）"
 if grep -q 'listen 443 ssl' "$CONF"; then
   echo "443 配置已存在，跳过"
 else
@@ -142,19 +195,22 @@ EOF
   echo "已追加 443 配置"
 fi
 
-say "6. 检查并重载"
+say "7. 检查并重载"
 if ! "$NGINX" -t; then
   cp -a "$BAK/site.conf" "$CONF"
   echo "配置检查失败 —— 已把站点配置回滚到备份：$BAK/site.conf"
   die "HTTPS 未启用，站点仍是原来的 80 端口（正常运行）"
 fi
 "$NGINX" -s reload
+sleep 2
 echo "已重载"
 
-say "7. 本机自测"
+say "8. 本机自测"
 echo -n "  HTTPS 无密码（期望 401）："
 curl -sk -o /dev/null -w '%{http_code}\n' -H "Host: $DOMAIN" https://127.0.0.1/ || true
-echo -n "  HTTPS 证书主题："
+echo -n "  HTTPS 带密码（期望 200）："
+curl -sk -o /dev/null -w '%{http_code}\n' -u tokei:"${PASS:-Tokei2026Read}" -H "Host: $DOMAIN" https://127.0.0.1/ || true
+echo -n "  证书："
 echo | openssl s_client -connect 127.0.0.1:443 -servername "$DOMAIN" 2>/dev/null | openssl x509 -noout -subject -enddate 2>/dev/null || echo "（读取失败）"
 
 cat <<EOF
