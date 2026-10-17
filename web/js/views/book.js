@@ -31,7 +31,9 @@ export async function render(ctx) {
           <p>它可能已被删除。你可以返回知识库浏览，或把它添加进来。</p>
           <div class="btn-row" style="justify-content:center;margin-top:var(--space-4)">
             <a class="btn" href="#/library">返回知识库</a>
-            <a class="btn btn-primary" href="#/manage">添加这部作品</a>
+            ${store.canWrite
+              ? raw(html`<a class="btn btn-primary" href="#/manage" data-write-action>添加这部作品</a>`)
+              : ''}
           </div>
         </div>
       </div>
@@ -92,9 +94,11 @@ export async function render(ctx) {
       <a class="btn btn-sm btn-primary" href="#/analyze?id=${encodeURIComponent(book.id)}">生成完整分析报告</a>
       <button type="button" class="btn btn-sm" data-action="copy">复制 Markdown</button>
       <button type="button" class="btn btn-sm" data-action="download">导出 .md</button>
-      <a class="btn btn-sm" href="#/manage?id=${encodeURIComponent(book.id)}">编辑</a>
-      ${(book.origin ?? 'seed') !== 'seed'
-        ? raw(html`<button type="button" class="btn btn-sm btn-danger" data-action="delete">删除</button>`)
+      ${store.canWrite
+        ? raw(html`<a class="btn btn-sm" href="#/manage?id=${encodeURIComponent(book.id)}" data-write-action>编辑</a>`)
+        : ''}
+      ${(book.origin ?? 'seed') !== 'seed' && store.canWrite
+        ? raw(html`<button type="button" class="btn btn-sm btn-danger" data-action="delete" data-write-action>删除</button>`)
         : ''}
     </div>
 

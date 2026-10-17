@@ -24,6 +24,17 @@ Environment=PORT=8787
 Environment=HOST=127.0.0.1
 Environment=NODE_ENV=production
 
+; ---- 写权限（第 197 轮） ----
+; NODE_ENV=production 且**没有** TRICK_ADMIN_TOKEN 时，站点自动是**只读**：
+; 访客能看，但新增/修改/删除一律 403。这是刻意的默认值——配漏了环境变量，
+; 代价应该是「管理员暂时写不了」，而不是「全世界都能写」。
+;
+; 想开启「只读 + 管理员令牌写入」，把令牌放进下面这个可选的环境文件（别写进仓库）：
+;   sudo bash -c 'echo "TRICK_ADMIN_TOKEN=$(openssl rand -hex 24)" > /etc/trick-archive.env'
+;   sudo chmod 600 /etc/trick-archive.env
+; 只要令牌存在，服务端就自动进入 token 模式（写入需带 x-admin-token 头）。
+EnvironmentFile=-/etc/trick-archive.env
+
 ; 用官方二进制装的 Node（见 deploy/README.md 第 1 节）
 ExecStart=/usr/local/bin/node server/index.mjs
 

@@ -12,9 +12,13 @@
  */
 
 import { loadSeedBooks, normalizeSeedBook } from './seed.js';
+import { readAdminToken } from './admin-token.js';
 
 const LOCAL_KEY = 'dftr:userBooks:v1';
 const HIDDEN_KEY = 'dftr:hiddenBooks:v1';
+
+/** 第 197 轮：服务端上报的写模式（见 server/lib/write-guard.mjs） */
+const WRITE_MODES = ['open', 'token', 'off'];
 
 /**
  * 搜索「去掉分隔符」回退时要去掉的字符。
@@ -84,6 +88,13 @@ export class BookStore {
     this.apiBase = options.apiBase ?? deriveApiBase();
     this.mode = 'local'; // 'api' | 'local'
     this.serverAvailable = false;
+    /**
+     * 写模式（第 197 轮）：由 `/api/health` 的 `writeMode` 上报。
+     *   open  —— 谁都能写（本机开发）
+     *   token —— 写入要带管理员令牌
+     *   off   —— 只读站，界面把写入口全部藏掉
+     */
+    this.writeMode = 'open';
     this.books = [];
     this.lastError = null;
     this.lastSyncedAt = null;
@@ -105,6 +116,26 @@ export class BookStore {
         console.error('[store] listener error', error);
       }
     }
+  }
+
+  /* ---------------- 写权限（第 197 轮） ---------------- */
+
+  /**
+   * 纯只读站：界面应当把「添加小说／编辑／删除」全部藏掉。
+   * 只对 API 模式有意义——本地模式下数据在访客自己浏览器里，写当然是允许的。
+   */
+  get readOnly() {
+    return this.mode === 'api' && this.writeMode === 'off';
+  }
+
+  /** 能不能写（本地模式永远可以；API 模式下看服务端给的写模式） */
+  get canWrite() {
+    return this.mode !== 'api' || this.writeMode !== 'off';
+  }
+
+  /** 写入需不需要带管理员令牌 */
+  get needsAdminToken() {
+    return this.mode === 'api' && this.writeMode === 'token';
   }
 
   /* ---------------- 初始化 ---------------- */
@@ -144,7 +175,11 @@ export class BookStore {
       clearTimeout(timer);
       if (!res.ok) return false;
       const data = await res.json();
-      return data?.ok === true;
+      if (data?.ok !== true) return false;
+      // 顺手记下写模式（第 197 轮）：老版本服务端不报这个字段，按 open 处理保持兼容
+      const reported = String(data.writeMode ?? '').toLowerCase();
+      this.writeMode = WRITE_MODES.includes(reported) ? reported : 'open';
+      return true;
     } catch {
       return false;
     }
@@ -245,6 +280,9 @@ export class BookStore {
         return saved;
       } catch (error) {
         this.lastError = error;
+        /* 被写权限挡住（401 没令牌 / 403 只读或令牌不对）时**绝不能**退化成"只存本地"：
+         * 那会让使用者以为保存成功了，其实只写进了自己浏览器（第 197 轮）。 */
+        if (error?.status === 401 || error?.status === 403) throw error;
         console.warn('[store] 服务器写入失败，改存本地', error);
         this.serverAvailable = false;
         this.mode = 'local';
@@ -289,6 +327,8 @@ export class BookStore {
         return true;
       } catch (error) {
         this.lastError = error;
+        // 同 save()：没权限不要偷偷"本地隐藏"，那会让使用者以为真删了（第 197 轮）
+        if (error?.status === 401 || error?.status === 403) throw error;
         console.warn('[store] 服务器删除失败，改为本地隐藏', error);
         this.serverAvailable = false;
         this.mode = 'local';
@@ -395,13 +435,25 @@ export class BookStore {
   }
 
   async apiSend(method, path, body) {
+    const headers = { 'content-type': 'application/json', accept: 'application/json' };
+    // 令牌模式：带上管理员令牌（存不存在都在浏览器本地，见 core/admin-token.js）
+    if (this.needsAdminToken) {
+      const token = readAdminToken();
+      if (token) headers['x-admin-token'] = token;
+    }
     const res = await fetch(`${this.apiBase}${path}`, {
       method,
-      headers: { 'content-type': 'application/json', accept: 'application/json' },
+      headers,
       body: body === undefined ? undefined : JSON.stringify(body),
     });
     const data = await res.json().catch(() => ({}));
-    if (!res.ok) throw new Error(data?.error ?? `${method} ${path} 失败：HTTP ${res.status}`);
+    if (!res.ok) {
+      const error = new Error(data?.error ?? `${method} ${path} 失败：HTTP ${res.status}`);
+      /* 把状态码挂在异常上：调用方据此区分「没权限（401/403）」与「服务器挂了」。
+       * 这个区别很关键——前者应该提示输令牌，后者才该退回本地模式（第 197 轮）。 */
+      error.status = res.status;
+      throw error;
+    }
     return data;
   }
 

@@ -250,6 +250,73 @@ check('本地模式加载了种子知识库', store.all().length >= 70, `${store
 check('知识库包含带来源链接的实时评分', store.all().some((b) => b.ratings?.douban?.sourceUrl));
 
 /* ------------------------------------------------------------------ */
+/* 5.5 写权限与只读站（第 197 轮）                                      */
+/* ------------------------------------------------------------------ */
+
+console.log('');
+console.log(color('  [5.5] 写权限（只读站不再露出写入口）', C.dim));
+
+const { readAdminToken, saveAdminToken, clearAdminToken } = await import('../web/js/core/admin-token.js');
+
+saveAdminToken('demo-token-123456');
+check('管理员令牌可保存并读取', readAdminToken() === 'demo-token-123456');
+clearAdminToken();
+check('管理员令牌可清除', readAdminToken() === '');
+
+const savedStoreMode = store.mode;
+const savedWriteMode = store.writeMode;
+
+// 令牌模式：能写，但要令牌
+store.mode = 'api';
+store.serverAvailable = true;
+store.writeMode = 'token';
+check('令牌模式：canWrite 为真', store.canWrite === true);
+check('令牌模式：needsAdminToken 为真', store.needsAdminToken === true);
+check('令牌模式：不算只读', store.readOnly === false);
+
+// 只读站：写入口应当全部消失
+store.writeMode = 'off';
+check('只读站：readOnly 为真', store.readOnly === true);
+check('只读站：canWrite 为假', store.canWrite === false);
+check('只读站：不再索要令牌', store.needsAdminToken === false);
+
+app.applyWriteMode();
+check(
+  '只读站：<body data-write-mode="off">（CSS 据此隐藏导航里的写入口）',
+  dom.document.body?.dataset?.writeMode === 'off',
+  `实际 ${dom.document.body?.dataset?.writeMode ?? '未设置'}`,
+);
+
+// 「添加小说」页：整页换成只读说明，连表单都不渲染
+dom.window.location.hash = '#/manage';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+check('只读站：添加小说页给出只读说明', bodyText().includes('本站为只读站'));
+check('只读站：添加小说页不再渲染录入表单', !bodyText().includes('id="book-form"'));
+
+// 书籍详情页：编辑与删除都不出现
+dom.window.location.hash = '#/book/western-001';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+check('只读站：书籍页仍能正常渲染', bodyText().includes('无人生还'));
+check('只读站：书籍页不出现任何写入口', !bodyText().includes('data-write-action'));
+
+// 恢复现场：本地模式下写入本来就允许，「编辑」应当回来
+store.mode = savedStoreMode;
+store.writeMode = savedWriteMode;
+app.applyWriteMode();
+dom.window.location.hash = '#/book/western-001';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+check('恢复后：书籍页的「编辑」入口回来了', bodyText().includes('data-write-action'));
+check('恢复后：<body> 不再是只读态', dom.document.body?.dataset?.writeMode !== 'off');
+
+// 回到默认视图，免得影响后面的用例
+dom.window.location.hash = '#/analyze';
+dom.window.dispatchEvent({ type: 'hashchange' });
+await dom.settle(140);
+
+/* ------------------------------------------------------------------ */
 /* 6. 敏感模式                                                          */
 /* ------------------------------------------------------------------ */
 

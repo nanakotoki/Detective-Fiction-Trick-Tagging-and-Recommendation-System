@@ -14,6 +14,7 @@ import { bookTagIds } from '../core/engine.js';
 import { splitAuthors } from '../core/seed.js';
 import { analyzeBook, countChars } from '../core/safety.js';
 import { html, qs, qsa, raw, toast, modal, esc } from '../ui/dom.js';
+import { promptAdminToken } from '../ui/admin-token.js';
 
 export const meta = { title: '添加小说' };
 
@@ -27,8 +28,52 @@ const PLATFORM_FIELDS = [
 
 const AS_OF = '2025-01';
 
+/** 被写权限挡住（401/403）时，弹一次令牌输入框并在保存后重试 */
+function handleWriteDenied(error, retry, { title = '保存失败' } = {}) {
+  if (error?.status === 401) {
+    toast('这个操作需要管理员令牌，输入后会自动重试。', { type: 'info', title: '需要令牌', duration: 4200 });
+    promptAdminToken({ reason: '写入被拒绝（没有带令牌）', onSaved: () => retry() });
+    return true;
+  }
+  if (error?.status === 403) {
+    const message = String(error?.message ?? '');
+    // 令牌不对时服务端回 403（与"只读站"共用状态码），按文案区分，两种情况都再问一次
+    if (message.includes('令牌')) {
+      toast(message, { type: 'error', title: '令牌不正确', duration: 5200 });
+      promptAdminToken({ reason: '令牌不正确', onSaved: () => retry() });
+      return true;
+    }
+    toast(message || '本站在只读模式，无法写入。', { type: 'error', title });
+    return true;
+  }
+  return false;
+}
+
 export async function render(ctx) {
   const { main, store, navigate, route, updateStatus } = ctx;
+
+  /* 只读站（第 197 轮）：整页换成一句说明，连表单都不渲染——
+   * 否则访客填完一长串内容才在提交时被告知"不能写"，体验很差。 */
+  if (store.readOnly) {
+    main.innerHTML = html`
+      <div class="view-header">
+        <h1>本站为只读站</h1>
+        <p class="lede">你可以自由浏览、搜索、生成分析报告，但内容由维护者统一录入，访客不能新增或修改。</p>
+      </div>
+      <div class="card">
+        <div class="empty">
+          <div class="icon" aria-hidden="true">🔒</div>
+          <h3>正在只读模式运行</h3>
+          <p>如果你想给自己留一份阅读记录，可以把它存在浏览器本地：进入任意作品的分析页，用「导出 .md」保存笔记即可。</p>
+          <div class="btn-row" style="justify-content:center;margin-top:var(--space-4)">
+            <a class="btn" href="#/library">去知识库浏览</a>
+            <a class="btn btn-primary" href="#/analyze">去诡计分析</a>
+          </div>
+        </div>
+      </div>
+    `;
+    return;
+  }
 
   const editingId = route.params.id ? decodeURIComponent(route.params.id) : null;
   const editing = editingId ? store.get(editingId) : null;
@@ -442,20 +487,25 @@ export async function render(ctx) {
     else navigate('library');
   });
 
-  on(qs('#f-delete'), 'click', async () => {
-    if (!confirm(`确定删除《${editing.title}》吗？`)) return;
+  const deleteCurrent = async () => {
     try {
       await store.remove(editing.id);
       updateStatus();
       toast(`《${editing.title}》已删除`, { type: 'ok' });
       navigate('library');
     } catch (error) {
+      if (handleWriteDenied(error, () => deleteCurrent(), { title: '删除失败' })) return;
       toast(String(error.message ?? error), { type: 'error', title: '删除失败' });
     }
+  };
+
+  on(qs('#f-delete'), 'click', async () => {
+    if (!confirm(`确定删除《${editing.title}》吗？`)) return;
+    await deleteCurrent();
   });
 
-  on(form, 'submit', async (event) => {
-    event.preventDefault();
+  const submitForm = async (event) => {
+    event?.preventDefault?.();
     const { book, blockers } = runAudit();
     const hardBlockers = blockers.filter((b) => b.risk === 'high');
 
@@ -492,9 +542,12 @@ export async function render(ctx) {
       });
       navigate(`book/${encodeURIComponent(saved.id)}`);
     } catch (error) {
+      if (handleWriteDenied(error, () => submitForm(), { title: '保存失败' })) return;
       toast(String(error.message ?? error), { type: 'error', title: '保存失败', duration: 6000 });
     }
-  });
+  };
+
+  on(form, 'submit', submitForm);
 
   /* ---------------- 初始化 ---------------- */
 

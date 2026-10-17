@@ -24,6 +24,7 @@ import { JsonStore } from './lib/json-store.mjs';
 import { assetVersion, collectAssetFiles, serveStatic } from './lib/static.mjs';
 import { corsHeaders, isAllowedOrigin, originOf, parseAllowedOrigins, securityHeaders } from './lib/headers.mjs';
 import { redactedSeedBuffer } from './lib/public-seed.mjs';
+import { checkWrite, describeWriteMode, isMutatingRequest, resolveWriteMode } from './lib/write-guard.mjs';
 
 import { TAGS, TAG_CATEGORIES, isSchoolTag, tagCategory, tagLabel, partitionTags } from '../web/js/core/tags.js';
 import { analyzeBook, stripVault } from '../web/js/core/safety.js';
@@ -66,6 +67,15 @@ const HOST = args.host ?? process.env.HOST ?? '127.0.0.1';
  * 或环境变量 `DSH_CORS_ORIGINS` 显式放行。
  */
 const ALLOWED_ORIGINS = parseAllowedOrigins(process.argv.slice(2), process.env);
+
+/**
+ * 写权限（第 197 轮）：`open` / `token` / `off`，见 `lib/write-guard.mjs` 顶部那张表。
+ *
+ * 站点要公开给读者之后，写接口（新增/修改/删除）不能跟着公开——否则任何人
+ * `curl -X POST` 就能往共享书库灌垃圾。默认行为：生产环境什么都没配时**只读**。
+ */
+const WRITE_MODE = resolveWriteMode(process.env);
+const ADMIN_TOKEN = String(process.env.TRICK_ADMIN_TOKEN ?? '').trim();
 
 /* ------------------------------------------------------------------ */
 /* 数据装载                                                            */
@@ -302,12 +312,22 @@ function sendError(res, status, message, details = null, req = null) {
   sendJSON(res, status, { ok: false, error: message, details }, req);
 }
 
+/**
+ * 造一个「客户端错误」。带 `status` 的异常在顶层 catch 里会被如实回成本状态码，
+ * 不再一律变成 500（第 197 轮顺带修的：请求体写了坏 JSON 原来会报"服务器内部错误"）。
+ */
+function clientError(message, status = 400) {
+  const error = new Error(message);
+  error.status = status;
+  return error;
+}
+
 async function readBody(req, limitBytes = 1_000_000) {
   const chunks = [];
   let size = 0;
   for await (const chunk of req) {
     size += chunk.length;
-    if (size > limitBytes) throw new Error('请求体过大（上限 1MB）');
+    if (size > limitBytes) throw clientError('请求体过大（上限 1MB）', 413);
     chunks.push(chunk);
   }
   if (!chunks.length) return {};
@@ -315,7 +335,7 @@ async function readBody(req, limitBytes = 1_000_000) {
   try {
     return JSON.parse(text);
   } catch {
-    throw new Error('请求体不是合法 JSON');
+    throw clientError('请求体不是合法 JSON', 400);
   }
 }
 
@@ -409,6 +429,18 @@ async function handleApi(req, res, url) {
     }
   }
 
+  /**
+   * 写权限（第 197 轮）：只拦**真正会改数据**的五个动作，见 `lib/write-guard.mjs`。
+   * `/api/recommend`、`/api/check` 虽然也是 POST，但只读不写——读者要能用。
+   */
+  if (isMutatingRequest(method, segments)) {
+    const denial = checkWrite(req, WRITE_MODE, ADMIN_TOKEN);
+    if (denial) {
+      sendError(res, denial.status, denial.error, null, req);
+      return true;
+    }
+  }
+
   // GET /api/health
   if (segments[0] === 'health' && segments.length === 1) {
     const books = await getAllBooks();
@@ -420,6 +452,9 @@ async function handleApi(req, res, url) {
       seedCount: seedBooks.length,
       tagCount: TAGS.length,
       mode: 'api',
+      // 写权限模式（第 197 轮）：前端据此决定要不要显示「添加/编辑/删除」。
+      // `open` 谁都能写｜`token` 写入要带 x-admin-token｜`off` 只读
+      writeMode: WRITE_MODE,
       // 读不出来的批次文件（截断 / 语法错）——正常必须是空数组：
       // 有条目就意味着本次总数偏低，调用方一眼能看出「少书」不是数据被删了（第 178 轮）
       unreadableFiles: (seedMeta.unreadable ?? []).map((u) => u.file),
@@ -762,6 +797,14 @@ const server = http.createServer(async (req, res) => {
     if (handled) return;
     sendError(res, 404, '页面不存在');
   } catch (error) {
+    /* 客户端把自己的请求写坏了（坏 JSON、超长请求体……）：这是 400 类，不是服务器崩了。
+     * 第 197 轮之前一律回 500，既误导调用方，也会往日志里灌"未处理异常"。 */
+    const status = Number(error?.status);
+    if (Number.isInteger(status) && status >= 400 && status < 500) {
+      if (!res.headersSent) sendError(res, status, error.message);
+      else res.end();
+      return;
+    }
     console.error('[server] 未处理异常：', error);
     if (!res.headersSent) sendError(res, 500, '服务器内部错误');
     else res.end();
@@ -789,6 +832,7 @@ async function main() {
       console.log(`  ▸ 种子知识库 ${seedBooks.length} 本（data/books/）`);
       console.log(`  ▸ 标签字典   ${TAGS.length} 个标签 / ${TAG_CATEGORIES.length} 个类别`);
       console.log(`  ▸ 用户数据   server/data/books.json`);
+      console.log(`  ▸ 写入权限   ${describeWriteMode(WRITE_MODE)}`);
       console.log(`  ▸ 反剧透校验 已启用（服务端 + 前端双层）`);
       console.log('');
       console.log('  按 Ctrl+C 停止服务');

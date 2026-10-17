@@ -98,6 +98,161 @@ function startServer() {
   });
 }
 
+/* ------------------------------------------------------------------ */
+/* 第 197 轮：写权限（open / token / off）                              */
+/* ------------------------------------------------------------------ */
+
+/** 等某个 base 上的服务端可用 */
+async function waitForBase(base, timeoutMs = 15000) {
+  const deadline = Date.now() + timeoutMs;
+  while (Date.now() < deadline) {
+    try {
+      const res = await fetch(`${base}/api/health`);
+      if (res.ok) return true;
+    } catch {
+      /* 还没起来 */
+    }
+    await new Promise((r) => setTimeout(r, 200));
+  }
+  return false;
+}
+
+/**
+ * 写权限两种"部署态"的实测。
+ *
+ * 为什么一定要真起进程：默认值取决于 `NODE_ENV`，而且守卫一旦挂错位置
+ * （比如把 `/api/recommend` 也算了进去），纯函数单测是看不出来的——
+ * 那会让读者的推荐功能直接 401，而测试全绿。
+ */
+async function testWriteModes() {
+  const TOKEN = 'test-token-0123456789abcdef';
+  const cases = [
+    {
+      label: '令牌模式',
+      port: PORT + 1,
+      env: { TRICK_WRITE_MODE: 'token', TRICK_ADMIN_TOKEN: TOKEN },
+      expectMode: 'token',
+    },
+    {
+      label: '生产默认（一个都没配）',
+      port: PORT + 2,
+      env: { NODE_ENV: 'production' },
+      expectMode: 'off',
+    },
+  ];
+
+  for (const item of cases) {
+    const base = `http://127.0.0.1:${item.port}`;
+    const child = spawn(
+      process.execPath,
+      [path.join(ROOT, 'server', 'index.mjs'), '--port', String(item.port), '--quiet'],
+      {
+        cwd: ROOT,
+        stdio: 'ignore',
+        // 显式清掉可能从父进程继承来的写权限配置，否则用例会互相污染
+        env: {
+          ...process.env,
+          TRICK_WRITE_MODE: item.env.TRICK_WRITE_MODE ?? '',
+          TRICK_ADMIN_TOKEN: item.env.TRICK_ADMIN_TOKEN ?? '',
+          NODE_ENV: item.env.NODE_ENV ?? '',
+        },
+      },
+    );
+
+    try {
+      if (!(await waitForBase(base))) {
+        check(`${item.label}：服务端启动`, false, '15 秒内没起来');
+        continue;
+      }
+
+      const health = await (await fetch(`${base}/api/health`)).json();
+      check(
+        `${item.label}：/api/health 上报 writeMode=${item.expectMode}`,
+        health.writeMode === item.expectMode,
+        `实际 ${health.writeMode ?? '（缺字段）'}`,
+      );
+
+      const post = (path, headers = {}) =>
+        fetch(`${base}${path}`, { method: 'POST', headers: { 'content-type': 'application/json', ...headers }, body: '{}' });
+
+      const noToken = await post('/api/books');
+      const wrongToken = await post('/api/books', { 'x-admin-token': 'wrong-token-000000000000' });
+      const reloadNoToken = await post('/api/reload');
+      const recommendNoToken = await post('/api/recommend');
+      const list = await fetch(`${base}/api/books`);
+
+      if (item.expectMode === 'token') {
+        check(`${item.label}：不带令牌写入被拒（401）`, noToken.status === 401, `HTTP ${noToken.status}`);
+        check(`${item.label}：令牌不对被拒（403）`, wrongToken.status === 403, `HTTP ${wrongToken.status}`);
+        check(
+          `${item.label}：不带令牌 reload 被拒`,
+          reloadNoToken.status === 401,
+          `HTTP ${reloadNoToken.status}`,
+        );
+        const withToken = await post('/api/books', { 'x-admin-token': TOKEN });
+        check(
+          `${item.label}：带对令牌能过守卫（进入校验层）`,
+          withToken.status !== 401 && withToken.status !== 403,
+          `HTTP ${withToken.status}`,
+        );
+        const reloadWithToken = await post('/api/reload', { 'x-admin-token': TOKEN });
+        check(`${item.label}：带对令牌可以 reload`, reloadWithToken.status === 200, `HTTP ${reloadWithToken.status}`);
+      } else {
+        check(`${item.label}：写入一律 403`, noToken.status === 403, `HTTP ${noToken.status}`);
+        check(
+          `${item.label}：换哪个令牌都写不进去`,
+          wrongToken.status === 403,
+          `HTTP ${wrongToken.status}`,
+        );
+        check(`${item.label}：reload 也被拒`, reloadNoToken.status === 403, `HTTP ${reloadNoToken.status}`);
+      }
+
+      check(`${item.label}：读接口不受影响`, list.status === 200, `HTTP ${list.status}`);
+      check(
+        `${item.label}：/api/recommend 不受写权限影响（读者要用）`,
+        recommendNoToken.status !== 401 && recommendNoToken.status !== 403,
+        `HTTP ${recommendNoToken.status}`,
+      );
+    } finally {
+      child.kill();
+      await new Promise((r) => setTimeout(r, 250));
+    }
+  }
+
+  /* 纯函数：默认值与"配置自相矛盾就拒绝启动"的口径 */
+  const { resolveWriteMode, isMutatingRequest } = await import('../server/lib/write-guard.mjs');
+  check('写模式默认：开发环境 = open', resolveWriteMode({}) === 'open');
+  check('写模式默认：生产环境 = off（配漏变量时退化成只读，不是对外开放）', resolveWriteMode({ NODE_ENV: 'production' }) === 'off');
+  check('写模式：只配了令牌就按令牌模式跑', resolveWriteMode({ TRICK_ADMIN_TOKEN: 'x'.repeat(20) }) === 'token');
+  const throws = (fn) => {
+    try {
+      fn();
+      return false;
+    } catch {
+      return true;
+    }
+  };
+  check(
+    '写模式：mode 写错拒绝启动',
+    throws(() => resolveWriteMode({ TRICK_WRITE_MODE: 'opne' })),
+  );
+  check(
+    '写模式：token 模式但没配令牌，拒绝启动',
+    throws(() => resolveWriteMode({ TRICK_WRITE_MODE: 'token' })),
+  );
+  check(
+    '写模式：令牌太短拒绝启动',
+    throws(() => resolveWriteMode({ TRICK_WRITE_MODE: 'token', TRICK_ADMIN_TOKEN: 'short' })),
+  );
+  check('会改数据的动作：POST /books 算', isMutatingRequest('POST', ['books']) === true);
+  check('会改数据的动作：PUT /books/:id 算', isMutatingRequest('PUT', ['books', 'x']) === true);
+  check('会改数据的动作：DELETE /books/:id 算', isMutatingRequest('DELETE', ['books', 'x']) === true);
+  check('会改数据的动作：POST /reload 算', isMutatingRequest('POST', ['reload']) === true);
+  check('不会改数据的动作：POST /recommend 不算', isMutatingRequest('POST', ['recommend']) === false);
+  check('不会改数据的动作：POST /check 不算', isMutatingRequest('POST', ['check']) === false);
+  check('不会改数据的动作：GET /books 不算', isMutatingRequest('GET', ['books']) === false);
+}
+
 async function main() {
   cleanup(); // 先清掉上次残留
 
@@ -726,6 +881,10 @@ async function main() {
     const jsEtag = jsRes.headers.get('etag');
     const revalidated = await fetch(`${BASE}/js/ui/dom.js`, { headers: { 'if-none-match': jsEtag } });
     check('带 If-None-Match 复请求返回 304（缓存校验生效）', revalidated.status === 304, `HTTP ${revalidated.status}`);
+
+    /* 第 197 轮：写权限（令牌模式 / 生产默认只读） */
+    console.log(color('  [写权限：只读与令牌]', C.dim));
+    await testWriteModes();
   } finally {
     if (server) {
       server.kill();

@@ -17,6 +17,7 @@ import { suggestTags } from '../core/suggest.js';
 import { markdownToHtml, renderCopyMarkdown, renderReport } from '../core/report.js';
 import { coverBlock, coverCreditLine, coverUrl, hasCover } from '../ui/cover.js';
 import { copyText, debounce, download, html, onAll, qs, qsa, raw, safeFilename, toast } from '../ui/dom.js';
+import { promptAdminToken } from '../ui/admin-token.js';
 
 export const meta = { title: '诡计分析' };
 
@@ -513,7 +514,9 @@ export async function render(ctx) {
         <button type="button" class="btn btn-sm btn-primary" data-action="copy">复制 Markdown</button>
         <button type="button" class="btn btn-sm" data-action="download">导出 .md</button>
         <button type="button" class="btn btn-sm" data-action="print">打印 / 存 PDF</button>
-        ${r.isCustom ? raw(html`<button type="button" class="btn btn-sm" data-action="save">存入知识库</button>`) : ''}
+        ${r.isCustom && store.canWrite
+          ? raw(html`<button type="button" class="btn btn-sm" data-action="save" data-write-action>存入知识库</button>`)
+          : ''}
         <span class="ml-auto small muted">生成于 ${new Date().toLocaleString('zh-CN')}</span>
       </div>
 
@@ -753,17 +756,25 @@ export async function render(ctx) {
     }
 
     if (action === 'save') {
-      try {
-        const book = { ...r.book, id: store.nextId('user'), origin: 'user', recommendable: false };
-        const saved = await store.save(book);
-        toast(`《${saved.title}》已存入知识库（标记为自建条目，默认不参与公共推荐）`, {
-          type: 'ok',
-          title: '保存成功',
-          duration: 5200,
-        });
-      } catch (error) {
-        toast(String(error.message ?? error), { type: 'error', title: '保存失败' });
-      }
+      const saveToLibrary = async () => {
+        try {
+          const book = { ...r.book, id: store.nextId('user'), origin: 'user', recommendable: false };
+          const saved = await store.save(book);
+          toast(`《${saved.title}》已存入知识库（标记为自建条目，默认不参与公共推荐）`, {
+            type: 'ok',
+            title: '保存成功',
+            duration: 5200,
+          });
+        } catch (error) {
+          // 令牌模式（第 197 轮）：没带令牌时问一次，存好后自动重试
+          if (error?.status === 401) {
+            promptAdminToken({ reason: '写入被拒绝（没有带令牌）', onSaved: () => saveToLibrary() });
+            return;
+          }
+          toast(String(error.message ?? error), { type: 'error', title: '保存失败' });
+        }
+      };
+      await saveToLibrary();
     }
   }
 

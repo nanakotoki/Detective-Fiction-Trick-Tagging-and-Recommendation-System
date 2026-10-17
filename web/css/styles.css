@@ -2405,3 +2405,13 @@ a.cover:hover {
     padding: var(--space-4) var(--space-3) var(--space-6);
   }
 }
+
+/* ------------------------------------------------------------------ */
+/* 只读站：写入口一律不出现（第 197 轮）                                 */
+/* ------------------------------------------------------------------ */
+/* `<body data-write-mode="off">` 由 app.js 在 store 初始化后贴上；
+ * 视图内部的写按钮另外按 `store.canWrite` 决定渲染与否，这里是导航的兜底。 */
+body[data-write-mode='off'] .mainnav a[data-nav='manage'],
+body[data-write-mode='off'] [data-write-action] {
+  display: none !important;
+}
