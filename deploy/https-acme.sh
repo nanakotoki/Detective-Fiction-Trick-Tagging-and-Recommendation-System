@@ -213,46 +213,15 @@ fi
 sleep 2
 echo "已重载"
 
-say "8. 修补反向代理：透传 X-Forwarded-Proto + HTTP 强制跳 HTTPS"
-PROXYDIR="/www/server/panel/vhost/nginx/proxy/$DOMAIN"
-PROXY_CHANGED=0
-if [ -d "$PROXYDIR" ]; then
-  while IFS= read -r f; do
-    [ -f "$f" ] || continue
-    cp -a "$f" "$BAK/$(basename "$f").bak"
-    # a) 透传真实协议：漏了它 Node 就不发 HSTS（第 196 轮实测），CSRF 的同源判断也会失准
-    if grep -q 'X-Forwarded-Proto' "$f"; then
-      echo "  · $(basename "$f")：已有 X-Forwarded-Proto"
-    else
-      sed -i 's|^\([[:space:]]*proxy_set_header X-Forwarded-For.*\)$|\1\n    proxy_set_header X-Forwarded-Proto $scheme;|' "$f"
-      grep -q 'X-Forwarded-Proto' "$f" && echo "  ✓ $(basename "$f")：已补 X-Forwarded-Proto" || die "补 X-Forwarded-Proto 失败"
-      PROXY_CHANGED=1
-    fi
-    # b) HTTP 一律跳 HTTPS。
-    #    放在 location ^~ / 里，ACME 那条 ^~ /.well-known/... 更精确，续期不受影响。
-    if grep -q 'force-https' "$f"; then
-      echo "  · $(basename "$f")：已有强制跳转"
-    else
-      sed -i '0,/^[[:space:]]*location \^~ \//{s|\(^[[:space:]]*location \^~ /.*\)$|\1\n    # force-https：HTTP 一律跳 HTTPS（第 196 轮）\n    if ($scheme = http) { return 301 https://$host$request_uri; }|}' "$f"
-      grep -q 'force-https' "$f" && echo "  ✓ $(basename "$f")：已加 HTTP→HTTPS 跳转" || die "加跳转失败"
-      PROXY_CHANGED=1
-    fi
-  done < <(find "$PROXYDIR" -type f -name '*.conf')
-else
-  echo "  · 没找到反代目录 $PROXYDIR（跳过）"
-fi
+sleep 2
+echo "已重载"
 
-if [ "$PROXY_CHANGED" = "1" ]; then
-  if ! "$NGINX" -t; then
-    for f in "$BAK"/*.bak; do [ -f "$f" ] && cp -a "$f" "$PROXYDIR/$(basename "$f" .bak)"; done
-    die "反代配置改完检查失败，已回滚（HTTPS 仍可用，只是没有 HSTS 与跳转）"
-  fi
-  "$NGINX" -s reload
-  sleep 2
-  echo "  已重载"
-fi
+# 注：反代透传头与 HTTP→HTTPS 跳转**不在这里改**。
+# 那个文件里 `location ^~ /` 与 `{` 是分两行的，用 sed 的 a\ 插很容易插进两者之间，
+# 变成 `location ^~ / if (...)` → nginx 报 invalid number of arguments（踩过）。
+# 改用 deploy/patch-nginx.mjs（Node，按行定位、改前备份、nginx -t 失败自动回滚）。
 
-say "9. 本机自测"
+say "8. 本机自测"
 echo -n "  HTTPS 无密码（期望 401）："
 curl -sk -o /dev/null -w '%{http_code}\n' -H "Host: $DOMAIN" https://127.0.0.1/ || true
 echo -n "  HTTPS 带密码（期望 200）："
